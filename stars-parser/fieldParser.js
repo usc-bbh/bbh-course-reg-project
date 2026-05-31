@@ -99,7 +99,7 @@ function extractCourses(text) {
 
   for (const line of lines) {
     // Must start with a 5-digit term
-    const termMatch = line.match(/^(\d{5})\s+/);
+    const termMatch = line.match(/^\s*(\d{5})\s+/);
     if (!termMatch) continue;
 
     const term = termMatch[1];
