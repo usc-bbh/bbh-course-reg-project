@@ -11,33 +11,36 @@ function cleanTitle(str) {
 }
 
 function extractDegreeAndMajor(text) {
-  const degreeMatch = text.match(
-    /BACHELOR OF (\w+)\s*[-–]?\s*(BUSINESS ADMINISTRATION(?:\s*\([^)]+\))?|[A-Z][A-Z &]+)/i
+  // Degree type
+  const degreeTypeMatch = text.match(/BACHELOR OF (SCIENCE|ARTS|FINE ARTS|MUSIC)/i);
+  const degreeMap = { SCIENCE: "BS", ARTS: "BA", "FINE ARTS": "BFA", MUSIC: "BM" };
+  const degree = degreeTypeMatch
+    ? degreeMap[degreeTypeMatch[1].toUpperCase()] || "BS"
+    : "BS";
+
+  // Major — stop before "Academic" or "PROGRAM" which appear on the same line after the title
+  const majorMatch = text.match(
+    /BACHELOR OF (?:SCIENCE|ARTS|FINE ARTS|MUSIC)\s*[-–]?\s*(BUSINESS ADMINISTRATION|[A-Z][A-Z ,&]+?)(?:\s+Academic|\s+PROGRAM|\s*\n)/i
   );
+  const major = majorMatch ? majorMatch[1].trim() : "";
 
-  let degree = "BS";
-  let major = "";
-
-  if (degreeMatch) {
-    degree = `B${degreeMatch[1].charAt(0)}`;
-    major = degreeMatch[2].trim();
-  }
-
-  const concMatch = major.match(/\(([^)]+)\)/);
+  // Concentration — often on the next line in parens: "(FINANCE)" or "(ENTREPRENEURSHIP AND INNOVATION)"
+  const concMatch = text.match(/BACHELOR OF[\s\S]{0,120}?\n\s*\(([^)]{3,60})\)/i);
   const concentration = concMatch ? concMatch[1].trim() : null;
-  const baseMajor = major.replace(/\([^)]+\)/, "").trim();
 
-  return { degree, major: baseMajor, concentration };
+  return { degree, major, concentration };
 }
 
+// STARS has two PROGRAM lines: "PROGRAM: CDAR6.04" (system) and "PROGRAM: 1832" (student).
+// We want the numeric one.
 function extractProgramCode(text) {
-  const match = text.match(/PROGRAM:\s*(\d+)/i);
+  const match = text.match(/PROGRAM:\s*(\d{3,5})\s/i);
   return match ? match[1] : null;
 }
 
 function extractCurrentPost(text) {
   const match = text.match(
-    /CURRENT POST:.*?(\d{3,4})\s+(BS|BA|BFA|BM|BME)\s+(\w+)\s+(\w+)\s+(\d{5})/is
+    /CURRENT POST:.*?(\d{3,4})\s+(BS|BA|BFA|BM|BME)\.?\s+(\w+)\s+(\w+)\s+(\d{5})/is
   );
   if (match) {
     return {
@@ -52,12 +55,12 @@ function extractCurrentPost(text) {
 }
 
 function extractCatalogYear(text) {
-  const match = text.match(/CATALOG YEAR:\s*(\d{4,5})/i);
+  const match = text.match(/CATALOG YEAR:\s*(\d{5})/i);
   if (!match) return null;
-  const raw = match[1];
-  return raw.length === 5
-    ? `${raw.slice(0, 4)}-${raw.slice(0, 3)}${raw.slice(4)}`
-    : raw;
+  const raw = match[1]; // e.g. "20243"
+  const year = parseInt(raw.slice(0, 4));
+  // Last digit is term (1=spring, 2=summer, 3=fall) — catalog year spans year to year+1
+  return `${year}-${String(year + 1).slice(2)}`;
 }
 
 function extractClassLevel(text) {
@@ -75,38 +78,63 @@ function extractGraduation(text) {
 }
 
 function extractGPA(text) {
-  const earnedMatch = text.match(/EARNED:\s*([\d.]+)\s*GPA/i);
-  const gpa = earnedMatch ? safeFloat(earnedMatch[1]) : null;
-
-  const udMatch = text.match(
-    /UPPER DIVISION COURSE\s+WORK APPLIED TO YOUR MAJOR:\s+EARNED:\s*([\d.]+)\s*GPA/i
+  const m = text.match(/EARNED:\s*([\d.]+)\s*GPA/i);
+  const gpa = m ? safeFloat(m[1]) : null;
+  const udm = text.match(
+    /UPPER DIVISION COURSE[\s\S]{0,40}?EARNED:\s*([\d.]+)\s*GPA/i
   );
-  const upperDivisionGpa = udMatch ? safeFloat(udMatch[1]) : null;
-
-  return { gpa, upperDivisionGpa };
+  return { gpa, upperDivisionGpa: udm ? safeFloat(udm[1]) : null };
 }
 
 function extractCourses(text) {
   const completed = [];
   const inProgress = [];
 
-  const courseRegex =
-    /(\d{5})\s+([A-Z]{2,4}\s*\d{3}[A-Z]?)\s+(?:[A-Z\-x>]{0,6}\s+)?([\d.]+)\s+([A-Z][A-Z+\-]*|CR|P|W|UW|IP|NP|RG)?\s*(>IP)?\s+([A-Za-z][^\n]{3,50})/g;
+  // Course line formats seen in STARS OCR output:
+  //   TERM  CODE      FLAGS  UNITS  GRADE  TITLE
+  //   20243 BUAD304   -O     4.0    B-     Organizational Behavior...
+  //   20261 BUAD302   4.0    RG     >IPCommunication Strategy...   (in-progress, >IP joined to title)
+  //   20261 USC 3000  12.0   RG     >IPOff-Campus Studies
+  const lines = text.split("\n");
 
-  let match;
-  while ((match = courseRegex.exec(text)) !== null) {
-    const term = match[1];
-    const code = match[2].replace(/\s+/, " ").trim();
-    const units = safeFloat(match[3]);
-    const grade = match[4] ? match[4].trim() : null;
-    const isIP = !!match[5];
-    const title = cleanTitle(match[6]);
+  for (const line of lines) {
+    // Must start with a 5-digit term
+    const termMatch = line.match(/^(\d{5})\s+/);
+    if (!termMatch) continue;
 
-    if (!term || !code || !title) continue;
+    const term = termMatch[1];
+    const rest = line.slice(termMatch[0].length);
+
+    // Course code: 2-4 letters + optional space + 3 digits + optional letter
+    const codeMatch = rest.match(/^([A-Z]{2,4}\s*\d{3}[A-Z]?)\s+/i);
+    if (!codeMatch) continue;
+
+    const code = codeMatch[1].replace(/\s+/, " ").trim();
+    const afterCode = rest.slice(codeMatch[0].length);
+
+    // Units: a decimal number
+    const unitsMatch = afterCode.match(/([\d.]+)\s+/);
+    if (!unitsMatch) continue;
+
+    const units = safeFloat(unitsMatch[1]);
+    const afterUnits = afterCode.slice(unitsMatch.index + unitsMatch[0].length);
+
+    // Check for in-progress marker (>IP appears right before or in the title)
+    const isIP = />IP/i.test(afterUnits);
+
+    // Grade: letter grade or RG for in-progress
+    const gradeMatch = afterUnits.match(/^([A-Z][A-Z+\-]*|CR|P|W|NP|RG)\s+/);
+    const grade = gradeMatch ? gradeMatch[1].trim() : null;
+
+    // Title: everything after grade, strip >IP prefix if present
+    const afterGrade = gradeMatch ? afterUnits.slice(gradeMatch[0].length) : afterUnits;
+    const title = cleanTitle(afterGrade.replace(/^>IP[a-z]*/i, "").trim());
+
+    if (!title || title.length < 3) continue;
 
     if (isIP || grade === "RG") {
       inProgress.push({ term, code, title, units });
-    } else if (grade && grade !== "IP") {
+    } else if (grade && !["IP", "RG"].includes(grade)) {
       completed.push({ term, code, title, units, grade });
     }
   }
@@ -123,24 +151,25 @@ function extractMinor(text) {
   const match = text.match(/MINOR:\s*(.+?)(?:\s+\d{5}|\n)/i);
   if (!match) return null;
   const val = match[1].trim();
-  return val.toLowerCase() === "no minor declared" ? null : val;
+  return /no minor/i.test(val) ? null : val;
 }
 
 function extractFlags(text) {
-  const isTransfer = /TRNSFR WORK\s+(?:6[0-9]|[7-9]\d|1\d{2})\.0\s+TR/i.test(text);
-  const studiedAbroad = /USC\s+3000|Off-Campus Studies|OVERSEAS STUDIES/i.test(text);
-  const isStudentAthlete = /Student Athlete:/i.test(text);
-  return { isTransfer, studiedAbroad, isStudentAthlete };
+  return {
+    isTransfer: /TRNSFR WORK\s+(?:6[0-9]|[7-9]\d|1\d{2})\.0\s+TR/i.test(text),
+    studiedAbroad: /USC\s+3000|Off-Campus Studies|OVERSEAS STUDIES/i.test(text),
+    isStudentAthlete: /Student Athlete:/i.test(text),
+  };
 }
 
 function extractRequirements(text) {
   const requirements = [];
   const checks = [
-    { label: "128-Unit Minimum", pattern: /128 UNITS.*?(SATISFIED|NOT BEEN SATISFIED)/is },
-    { label: "64-Unit Residency", pattern: /64-UNIT RESIDENCY.*?(SATISFIED|NOT BEEN SATISFIED)/is },
-    { label: "32-Unit Upper Division", pattern: /32-UNIT UPPER DIVISION.*?(SATISFIED|NOT BEEN SATISFIED)/is },
-    { label: "Cumulative GPA 2.0+", pattern: /2\.0 CUMULATIVE GPA.*?(SATISFIED|NOT BEEN SATISFIED)/is },
-    { label: "Composition/Writing", pattern: /COMPOSITION\/WRITING.*?(SATISFIED|NOT BEEN SATISFIED)/is },
+    { label: "128-Unit Minimum", pattern: /128 UNITS[\s\S]{0,80}?(SATISFIED|NOT BEEN SATISFIED)/i },
+    { label: "64-Unit Residency", pattern: /64-UNIT RESIDENCY[\s\S]{0,80}?(SATISFIED|NOT BEEN SATISFIED)/i },
+    { label: "32-Unit Upper Division", pattern: /32-UNIT UPPER DIVISION[\s\S]{0,80}?(SATISFIED|NOT BEEN SATISFIED)/i },
+    { label: "Cumulative GPA 2.0+", pattern: /2\.0 CUMULATIVE GPA[\s\S]{0,80}?(SATISFIED|NOT BEEN SATISFIED)/i },
+    { label: "Composition/Writing", pattern: /COMPOSITION\/WRITING[\s\S]{0,80}?(SATISFIED|NOT BEEN SATISFIED)/i },
   ];
 
   for (const { label, pattern } of checks) {
