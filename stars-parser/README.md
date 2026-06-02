@@ -65,3 +65,13 @@ if (!result) {
 
 - pdfjs-dist
 - tesseract.js
+
+## Tests
+
+Run the test suite with:
+
+```
+node stars-parser/test/parser.test.js
+```
+
+Tests all 10 sample reports against known ground truth — major, GPA, transfer units, flags, minors etc. No dependencies needed to run it.
