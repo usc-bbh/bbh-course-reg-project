@@ -75,3 +75,5 @@ node stars-parser/test/parser.test.js
 ```
 
 Tests all 10 sample reports against known ground truth — major, GPA, transfer units, flags, minors etc. No dependencies needed to run it.
+
+The test uses pre-generated fixtures so the sample PDFs are not required to run it. If you want the original PDFs, download them from the shared Google Drive and place them in `stars-parser/test/samples/`.
