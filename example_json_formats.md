@@ -212,6 +212,7 @@ One record per minor. Same structure as F2, scoped to a minor.
 ## F4: GE requirements 
 
 One record per catalog year. Major-independent.
+** (Natalie)  Lowk, this does not exactly reflect total GE requirements.  Just a schema example to follow when you do create the concrete one.
 
 ```json
 {
