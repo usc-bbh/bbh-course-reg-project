@@ -1,4 +1,6 @@
-# JSON Schema Reference
+# Scrapped!
+
+JSON Schema Reference
 
 Schemas for all data flowing though. All field names are **snake_case**. Course IDs follow USC format with a space: `"CSCI 201"` not `"CSCI201"`.
 
