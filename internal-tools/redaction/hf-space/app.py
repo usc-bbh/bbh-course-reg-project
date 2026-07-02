@@ -21,7 +21,7 @@ st.set_page_config(page_title="STARS Report Redactor", page_icon="🛡️",
 
 st.title("🛡️ STARS Report Redactor")
 st.caption("Remove your personal information and grades from a USC STARS "
-           "Degree Progress Report before sharing it with the Summer Scholars team.")
+           "Degree Progress Report before sharing it with the BUAI Builder Hub (BBH).")
 
 with st.expander("What this does and how your file is handled", expanded=True):
     st.markdown(
@@ -34,6 +34,15 @@ with st.expander("What this does and how your file is handled", expanded=True):
         "Please share only if you consent."
     )
 
+with st.expander("How to download your STARS report (PDF)"):
+    st.markdown(
+        "1. Go to **experience.usc.edu** and open **My Academics**.\n"
+        "2. Open your **STARS** (Degree Progress) report.\n"
+        "3. Click the **red Print button** at the top of the report.\n"
+        "4. In the print dialog, set the destination to **Save as PDF** and save the file.\n"
+        "5. Upload that saved PDF below."
+    )
+
 # --- access gate -----------------------------------------------------------
 if not PASSPHRASE:
     st.error("This app isn't configured yet (no access phrase set). "
@@ -41,7 +50,7 @@ if not PASSPHRASE:
     st.stop()
 
 entered = st.text_input("Access phrase", type="password",
-                        help="Provided to you by the Summer Scholars team.")
+                        help="Provided to you by the BBH team.")
 if entered.strip() != PASSPHRASE:
     if entered:
         st.warning("That access phrase isn't right. Please try again.")
@@ -49,10 +58,10 @@ if entered.strip() != PASSPHRASE:
 
 # --- redaction flow --------------------------------------------------------
 consent = st.checkbox(
-    "I consent to share my redacted STARS report with the Summer Scholars team.")
+    "I consent to share my redacted STARS report with the BUAI Builder Hub (BBH).")
 
 uploaded = st.file_uploader(
-    "Upload your STARS report (the PDF you downloaded from my.usc.edu)",
+    "Upload your STARS report (the PDF you saved from experience.usc.edu)",
     type=["pdf"], accept_multiple_files=False)
 
 if uploaded is not None and not consent:
@@ -85,13 +94,14 @@ if uploaded is not None and consent:
 
     elif status == "SKIPPED":
         st.error("This PDF looks like a **scan** (it has no text layer), so it "
-                 "can't be redacted here. Please upload the PDF you download "
-                 "directly from my.usc.edu rather than a scanned/printed copy.")
+                 "can't be redacted here. Please use the PDF you save via the "
+                 "**Print → Save as PDF** steps above on experience.usc.edu, "
+                 "rather than a scanned or photographed copy.")
     else:
         st.error("The redaction could not be fully verified, so **no file was "
                  "produced**. Please contact the team — and do not share the "
                  "original in the meantime.")
 
 st.divider()
-st.caption("Internal tool of the Summer Scholars / BBHCourseReg project. "
+st.caption("Internal tool of the BUAI Builder Hub (BBH) / BBHCourseReg project. "
            "Processing happens in memory; no files are stored.")

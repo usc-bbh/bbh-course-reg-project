@@ -11,7 +11,7 @@ license: agpl-3.0
 
 # STARS Report Redactor
 
-Student-facing web front end for the Summer Scholars / BBHCourseReg STARS
+Student-facing web front end for the BUAI Builder Hub (BBH) / BBHCourseReg STARS
 redactor. Upload a USC STARS Degree Progress Report PDF; it removes personal
 information (name, ID, address, sport) and grades (replaced with pass/fail
 markers, GPA blanked) **in memory** and returns a redacted copy. The uploaded
