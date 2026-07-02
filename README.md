@@ -4,15 +4,17 @@
 
 - `stars-parser/` — the client-side STARS report parser used by the TrojanReg app.
 
-## STARS report redactor — lives in its own repo
+## ⚠️ Note: the STARS redactor is a separate internal tool — NOT in this repo
 
-The tool that de-identifies real STARS report PDFs (removing student PII and
-replacing grades with pass/fail markers) has its own repository and Hugging Face
-Space, which auto-deploys the live web app:
+The tool that de-identifies real STARS report PDFs (removes student PII and
+replaces grades with pass/fail markers) is an **internal maintainer tool** and
+is deliberately **not** part of this repository. **Do not add redaction code
+here.** It lives in its own repo / Hugging Face Space, which auto-deploys the
+live web app:
 
-**https://huggingface.co/spaces/StrangeIB/STARSRedacter**
+> **https://huggingface.co/spaces/StrangeIB/buai-builder-hub**
 
-That repo is the single home for the redactor — the web app (`app.py`), the
-redaction engine (`redactors/`), and the command-line tool (`redact_stars.py`).
-Edit redaction code there, not here. (It used to live in `internal-tools/` in
-this repo; see git history before this commit.)
+That repo is the single home for the redactor — `app.py` (web UI), `redactors/`
+(engine), and `redact_stars.py` (CLI). Edit redaction code there, not here.
+(It previously lived under `internal-tools/` in this repo; see git history
+before this commit.)
