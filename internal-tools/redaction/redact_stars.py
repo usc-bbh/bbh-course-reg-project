@@ -1,33 +1,35 @@
 #!/usr/bin/env python3
 """
-redact_stars.py  —  Generic, bulletproof de-identification for USC STARS
-Degree Progress Reports (single-column OR double-column, any student).
+redact_stars.py — Bulletproof, structure-faithful redaction for USC STARS
+Degree Progress Reports (single- or double-column, any student).
 
-It detects the student-identifying fields by their *template anchors*
-(constant labels / formats), never by hard-coded student data, then:
-  1. TRULY removes the underlying glyphs (PyMuPDF apply_redactions),
-     not a black box on top;
-  2. re-inserts an equal-length monospace "X" filler sized to the
-     original box, so the fixed-width column structure is preserved;
-  3. scrubs document metadata (author/producer/etc.);
-  4. self-verifies with independent re-extraction and REFUSES to save
-     if any detected value survives anywhere in the output.
+One tool, two redaction passes, chosen with --redact:
 
-Fields detected & removed:
-  - Student ID            (10-digit number in the page header)
-  - Roster name           ("Last, First, Middle" line under the ID header)
-  - Diploma name          (line after "Name as it will appear on your USC Diploma:")
-  - Mailing street        (after "Diploma will be mailed to:")
-  - Mailing city/state/zip (the line following the street)
-  - Sport / team          (between "Student Athlete:" and "Clock Date:")
+    --redact all      (default)  remove PII *and* redact grades
+    --redact pii                 remove PII only
+    --redact grades              redact grades only
 
-Any field that is absent for a given student (e.g. a non-athlete) is
-simply skipped. Nothing student-specific is hard-coded in this file.
+Both passes run on the same in-memory document and are gated by a single
+verification step, so a file is only written once it is proven clean for the
+selected passes.  Output filenames encode the mode so a partial redaction can
+never be mistaken for a complete one:
+
+    all     -> REDACTED_<name>.pdf
+    pii     -> REDACTED-PII_<name>.pdf
+    grades  -> REDACTED-GRADES_<name>.pdf
+
+PII pass:    student ID, roster + diploma name, mailing address, sport/team.
+Grade pass:  each grade -> basis + pass/fail token (Lp/Lf/Pp/Pn); keeps
+             IN/IX, RG, TR, W, CR/NC, flags; neutralizes GPA/POINTS figures.
+
+How it stays faithful & bulletproof: it TRULY removes the target glyphs
+(PyMuPDF apply_redactions) and re-inserts width-preserving monospace filler, so
+the fixed-width columns are preserved and the originals are gone — not covered.
 
 Usage:
-  python3 redact_stars.py INPUT.pdf [-o OUTPUT.pdf] [--dry-run] [--tag]
-    --dry-run  : print detected PII values and exit (no file written)
-    --tag      : use labels like [REDACTED-NAME] instead of X filler
+  python3 redact_stars.py INPUT.pdf [-o OUT] [--redact all|pii|grades]
+                                    [--dry-run] [--tag]
+  python3 redact_stars.py FOLDER    [-o OUT_FOLDER] [--redact ...]
 """
 import argparse
 import os
@@ -39,261 +41,167 @@ try:
 except ImportError:
     sys.exit("PyMuPDF is required:  pip install pymupdf --break-system-packages")
 
+from redactors import common, pii, grades
 
-# ---------- helpers -------------------------------------------------------
-def _first_chunk(s):
-    """Text up to the first run of 2+ spaces or a column separator '|'."""
-    s = s.split("|", 1)[0]
-    return re.split(r"\s{2,}", s.strip(), 1)[0].strip()
-
-
-def _layout_lines(doc):
-    """Full document as layout-preserving lines (keeps column '|' + gaps)."""
-    lines = []
-    for page in doc:
-        # 'text' with preserve-whitespace keeps the fixed-width structure
-        txt = page.get_text("text", flags=fitz.TEXT_PRESERVE_WHITESPACE)
-        lines.extend(txt.splitlines())
-    return lines
-
-
-CITY_RE = re.compile(r"^[A-Za-z .'\-]+,\s*[A-Z]{2}\s*\d{5}(?:-\d{4})?\b")
-ID_RE = re.compile(r"\b\d{9,10}\b")
-# a "Last, First[, Middle]" style token: alphabetic words separated by commas
-ROSTER_RE = re.compile(r"^[A-Z][A-Za-z.'\-]+(?:,\s+[A-Za-z.'\-]+){1,3}$")
-
-
-def detect_pii(doc):
-    """Return dict {label: value} of detected identifiers, using template
-    anchors only. Missing fields are omitted."""
-    lines = _layout_lines(doc)
-    found = {}
-
-    # --- Student ID: first 9-10 digit number in the header region --------
-    id_line_idx = None
-    for i, ln in enumerate(lines[:8]):
-        m = ID_RE.search(ln)
-        if m:
-            found["Student ID"] = m.group(0)
-            id_line_idx = i
-            break
-
-    # --- Roster name: first line AFTER the ID line shaped Last, First[, M]-
-    if id_line_idx is not None:
-        for ln in lines[id_line_idx + 1: id_line_idx + 4]:
-            cand = _first_chunk(ln)
-            if cand and ROSTER_RE.match(cand):
-                found["Roster name"] = cand
-                break
-
-    # --- single pass over all lines for the labelled anchors -------------
-    for i, ln in enumerate(lines):
-        low = ln.lower()
-
-        if "name as it will appear on your usc diploma" in low and "Diploma name" not in found:
-            # value = next non-empty line
-            for nxt in lines[i + 1: i + 5]:
-                cand = _first_chunk(nxt)
-                if cand:
-                    found["Diploma name"] = cand
-                    break
-
-        if "diploma will be mailed to:" in low and "Mailing street" not in found:
-            after = ln.split(":", 1)[1] if ":" in ln else ""
-            street = _first_chunk(after)
-            if street:
-                found["Mailing street"] = street
-            # city/state/zip = the next non-empty line matching the pattern
-            for nxt in lines[i + 1: i + 4]:
-                cand = _first_chunk(nxt)
-                if cand and CITY_RE.match(cand):
-                    found["Mailing city/state/zip"] = cand
-                    break
-
-        if "student athlete:" in low and "Sport/team" not in found:
-            m = re.search(r"student athlete:\s*(.*?)\s*(?:clock date:|$)", ln,
-                          re.IGNORECASE)
-            if m and m.group(1).strip():
-                found["Sport/team"] = m.group(1).strip()
-
-    return found
-
-
-def _filler(value, tag_label=None):
-    if tag_label:
-        t = f"[REDACTED-{tag_label}]"
-        # pad/truncate toward original length to limit column drift
-        return t
-    return "X" * len(value)
-
-
-TAG_MAP = {
-    "Student ID": "ID", "Roster name": "NAME", "Diploma name": "NAME",
-    "Mailing street": "ADDRESS", "Mailing city/state/zip": "ADDRESS",
-    "Sport/team": "SPORT",
+MODE_PREFIX = {
+    frozenset({"pii", "grades"}): "REDACTED_",
+    frozenset({"pii"}): "REDACTED-PII_",
+    frozenset({"grades"}): "REDACTED-GRADES_",
 }
 
 
-def process_one(in_path, out_path, tag=False):
-    """Redact one report. Returns a status dict; NEVER writes an unverified
-    file and NEVER raises for expected conditions (scanned/no-anchor)."""
-    res = {"file": in_path, "out": out_path, "status": None, "reason": "",
-           "pii": {}, "fragments": [], "missing": []}
+def _default_out(in_path, modes, out_dir=None):
+    base = os.path.basename(in_path)
+    base = re.sub(r"^DONOTSHARE[_-]*", "", base, flags=re.IGNORECASE)
+    base = re.sub(r"^REDACTED[A-Z-]*_", "", base, flags=re.IGNORECASE)  # no stacking
+    d = out_dir if out_dir else os.path.dirname(in_path)
+    return os.path.join(d, MODE_PREFIX[frozenset(modes)] + base)
+
+
+def process_one(in_path, out_path, modes, tag=False):
+    """Redact one report for the selected passes. Returns a status dict and
+    NEVER writes a file that fails verification."""
+    res = {"file": in_path, "out": out_path, "modes": modes, "status": None,
+           "reason": "", "pii": {}, "grades": {}, "fragments": [], "hard": []}
     doc = fitz.open(in_path)
 
-    # A scanned/image-only report has no text layer -> this tool cannot help.
-    total_chars = sum(len(p.get_text("text")) for p in doc)
-    if total_chars == 0:
+    if not common.has_text_layer(doc):
         res["status"] = "SKIPPED"
         res["reason"] = "no text layer (scanned image; needs OCR-based redaction)"
         doc.close()
         return res
 
-    pii = detect_pii(doc)
-    res["pii"] = pii
-    if not pii:
+    findings, metas = [], {}
+    if "pii" in modes:
+        pf, pm = pii.build_findings(doc, tag=tag)
+        if not pm["values"]:
+            res["status"] = "FAILED"
+            res["reason"] = "text present but no STARS identifiers detected"
+            doc.close()
+            return res
+        findings += pf
+        metas["pii"] = pm
+        res["pii"] = pm["values"]
+    if "grades" in modes:
+        gf, gm = grades.build_findings(doc)
+        findings += gf
+        metas["grades"] = gm
+        res["grades"] = gm
+
+    common.apply_and_fill(doc, findings)
+    common.scrub_metadata(doc)
+
+    hard, soft = [], []
+    if "pii" in modes:
+        h, s = pii.verify(doc, metas["pii"])
+        hard += h
+        soft += s
+    if "grades" in modes:
+        h, s = grades.verify(doc, metas["grades"])
+        hard += h
+        soft += s
+    res["fragments"] = soft
+
+    if hard:
         res["status"] = "FAILED"
-        res["reason"] = "text present but no STARS identifiers detected"
+        res["reason"] = "verification failed — output withheld"
+        res["hard"] = hard
         doc.close()
         return res
 
-    # ---- locate + redact every occurrence of every detected value -------
-    fillers = []
-    for label, value in pii.items():
-        hits = 0
-        for pno, page in enumerate(doc):
-            for r in page.search_for(value, quads=False):
-                page.add_redact_annot(fitz.Rect(r), fill=(1, 1, 1))
-                fillers.append((pno, fitz.Rect(r),
-                                _filler(value, TAG_MAP[label] if tag else None)))
-                hits += 1
-        if hits == 0:
-            res["missing"].append((label, value))
-
-    for page in doc:
-        page.apply_redactions(images=fitz.PDF_REDACT_IMAGE_NONE)
-    for pno, r, text in fillers:
-        page = doc[pno]
-        n = max(len(text), 1)
-        fs = min((r.width / n) / 0.6, r.height)
-        page.insert_text((r.x0, r.y1 - r.height * 0.18), text,
-                         fontname="cour", fontsize=fs, color=(0, 0, 0))
-    doc.set_metadata({})
-    try:
-        doc.del_xml_metadata()
-    except Exception:
-        pass
-
-    # ---- verify on the IN-MEMORY doc BEFORE writing anything ------------
-    per_page = [p.get_text("text") for p in doc]
-    corpus = "\n".join(per_page).lower()
-    residual = [(k, v) for k, v in pii.items() if v.lower() in corpus]
-    md = doc.metadata
-    meta_leak = any(isinstance(val, str) and val
-                    and any(v.lower() in val.lower() for v in pii.values())
-                    for val in md.values())
-
-    # SOFT: bare name fragments elsewhere (possible coincidental course words)
-    tokens = set()
-    for label in ("Roster name", "Diploma name"):
-        if label in pii:
-            for tok in re.split(r"[,\s]+", pii[label]):
-                if len(tok) >= 4 and tok.isalpha():
-                    tokens.add(tok.lower())
-    for tok in sorted(tokens):
-        pages = [i + 1 for i, t in enumerate(per_page) if tok in t.lower()]
-        if pages:
-            res["fragments"].append((tok, pages))
-
-    if residual or meta_leak or res["missing"]:
-        res["status"] = "FAILED"
-        res["reason"] = ("full identifier survived verification"
-                         if (residual or meta_leak)
-                         else "a detected value could not be located on any page")
-        res["residual"] = residual
-        doc.close()
-        return res   # nothing written -> no unsafe output
-
     doc.save(out_path, garbage=4, deflate=True, clean=True)
     doc.close()
-    res["status"] = "REVIEW" if res["fragments"] else "REDACTED"
+    res["status"] = "REVIEW" if soft else "REDACTED"
     return res
 
 
 def _print_one(res):
-    print(f"\n=== {os.path.basename(res['file'])} ===")
-    if res["pii"]:
-        for k, v in res["pii"].items():
-            print(f"  {k:24s}: {v!r}")
-    tag = {"REDACTED": "OK (verified clean)", "REVIEW": "OK — needs human review",
-           "SKIPPED": "SKIPPED", "FAILED": "FAILED"}[res["status"]]
-    print(f"  -> {tag}: {res['reason'] or res['out']}")
+    print(f"\n=== {os.path.basename(res['file'])}  [{'+'.join(sorted(res['modes']))}] ===")
+    for k, v in res.get("pii", {}).items():
+        print(f"  {k:24s}: {v!r}")
+    if res.get("grades"):
+        g = res["grades"]
+        print(f"  grades redacted: {g['grades_replaced']}  |  "
+              f"GPA/POINTS figures: {g['gpa_replaced']}  |  "
+              f"course rows seen: {g['course_rows']}")
+    label = {"REDACTED": "OK (verified clean)", "REVIEW": "OK — needs human review",
+             "SKIPPED": "SKIPPED", "FAILED": "FAILED"}[res["status"]]
+    print(f"  -> {label}: {res['reason'] or res['out']}")
     for tok, pages in res["fragments"]:
         print(f"     review: name fragment {tok!r} still appears on page(s) {pages}")
+    for h in res.get("hard", []):
+        print(f"     !! {h}")
 
 
-def _default_out(in_path, out_dir=None):
-    base = os.path.basename(in_path)
-    base = re.sub(r"^DONOTSHARE[_-]*", "", base, flags=re.IGNORECASE)
-    d = out_dir if out_dir else os.path.dirname(in_path)
-    return os.path.join(d, "REDACTED_" + base)
-
-
-def run_batch(in_dir, out_dir, tag=False):
+def run_batch(in_dir, out_dir, modes, tag=False):
     os.makedirs(out_dir, exist_ok=True)
     results = []
     for name in sorted(os.listdir(in_dir)):
-        if not name.lower().endswith(".pdf"):
-            continue
-        if name.upper().startswith("REDACTED_"):
+        if not name.lower().endswith(".pdf") or name.upper().startswith("REDACTED"):
             continue
         src = os.path.join(in_dir, name)
         try:
-            r = process_one(src, _default_out(src, out_dir), tag=tag)
+            r = process_one(src, _default_out(src, modes, out_dir), modes, tag=tag)
         except Exception as e:      # unexpected -> report, keep going
-            r = {"file": src, "status": "FAILED", "reason": f"error: {e}",
-                 "pii": {}, "fragments": [], "missing": []}
+            r = {"file": src, "modes": modes, "status": "FAILED",
+                 "reason": f"error: {e}", "pii": {}, "grades": {},
+                 "fragments": [], "hard": []}
         _print_one(r)
         results.append(r)
 
     order = ["REDACTED", "REVIEW", "SKIPPED", "FAILED"]
     counts = {s: sum(1 for r in results if r["status"] == s) for s in order}
-    print("\n" + "=" * 60 + "\nBATCH SUMMARY")
+    print("\n" + "=" * 60 + "\nBATCH SUMMARY  [redact: " + "+".join(sorted(modes)) + "]")
     for s in order:
         print(f"  {s:9s}: {counts[s]}")
     print(f"  outputs in: {out_dir}")
     return results
 
 
+def _dry_run(path, modes):
+    d = fitz.open(path)
+    if not common.has_text_layer(d):
+        print("No text layer (scanned image) — not viable for this tool.")
+        return
+    if "pii" in modes:
+        values = pii.detect(d)
+        print("Detected identifiers:" if values else "No identifiers detected.")
+        for k, v in values.items():
+            print(f"  {k:24s}: {v!r}")
+    if "grades" in modes:
+        _, gm = grades.build_findings(d)
+        print(f"Grades to redact: {gm['grades_replaced']}  |  "
+              f"GPA/POINTS figures: {gm['gpa_replaced']}  |  "
+              f"course rows: {gm['course_rows']}")
+
+
 def main():
     ap = argparse.ArgumentParser(
-        description="Bulletproof de-identify USC STARS report(s), single file or folder.")
+        description="Bulletproof redaction of USC STARS report(s): PII and/or grades.")
     ap.add_argument("input", help="a STARS report PDF, or a folder of them")
     ap.add_argument("-o", "--output",
                     help="output file (single) or output folder (batch)")
+    ap.add_argument("--redact", choices=["all", "pii", "grades"], default="all",
+                    help="what to redact (default: all = PII + grades)")
     ap.add_argument("--dry-run", action="store_true",
-                    help="print detected identifiers and exit (no file written)")
+                    help="print what would be redacted and exit (writes nothing)")
     ap.add_argument("--tag", action="store_true",
-                    help="use [REDACTED-*] labels instead of X filler")
+                    help="use [REDACTED-*] labels instead of X filler for PII")
     args = ap.parse_args()
+
+    modes = {"pii", "grades"} if args.redact == "all" else {args.redact}
 
     if os.path.isdir(args.input):
         out_dir = args.output or os.path.join(args.input, "REDACTED")
-        run_batch(args.input, out_dir, tag=args.tag)
+        run_batch(args.input, out_dir, modes, tag=args.tag)
         return
 
     if args.dry_run:
-        d = fitz.open(args.input)
-        if sum(len(p.get_text("text")) for p in d) == 0:
-            print("No text layer (scanned image) — not viable for this tool.")
-            return
-        pii = detect_pii(d)
-        print("No identifiers detected." if not pii else "Detected identifiers:")
-        for k, v in pii.items():
-            print(f"  {k:24s}: {v!r}")
+        _dry_run(args.input, modes)
         return
 
-    res = process_one(args.input, args.output or _default_out(args.input), tag=args.tag)
+    res = process_one(args.input, args.output or _default_out(args.input, modes),
+                      modes, tag=args.tag)
     _print_one(res)
     if res["status"] == "FAILED":
         sys.exit(1)
