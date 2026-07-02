@@ -12,7 +12,7 @@ is deliberately **not** part of this repository. **Do not add redaction code
 here.** It lives in its own repo / Hugging Face Space, which auto-deploys the
 live web app:
 
-> **https://huggingface.co/spaces/StrangeIB/buai-builder-hub**
+> **https://huggingface.co/spaces/buai-builder-hub/STARSRedacter**
 
 That repo is the single home for the redactor — `app.py` (web UI), `redactors/`
 (engine), and `redact_stars.py` (CLI). Edit redaction code there, not here.
