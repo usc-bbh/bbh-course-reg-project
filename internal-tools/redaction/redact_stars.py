@@ -41,7 +41,7 @@ try:
 except ImportError:
     sys.exit("PyMuPDF is required:  pip install pymupdf --break-system-packages")
 
-from redactors import common, pii, grades
+from redactors import common, pii, grades, engine
 
 MODE_PREFIX = {
     frozenset({"pii", "grades"}): "REDACTED_",
@@ -50,87 +50,29 @@ MODE_PREFIX = {
 }
 
 
-def _existing_modes(in_path):
-    """What has ALREADY been redacted in this file, inferred from its name."""
-    b = os.path.basename(in_path).upper()
-    if b.startswith("REDACTED-PII_"):
-        return {"pii"}
-    if b.startswith("REDACTED-GRADES_"):
-        return {"grades"}
-    if b.startswith("REDACTED_"):
-        return {"pii", "grades"}
-    return set()
-
-
 def _default_out(in_path, modes, out_dir=None):
     base = os.path.basename(in_path)
     base = re.sub(r"^DONOTSHARE[_-]*", "", base, flags=re.IGNORECASE)
     base = re.sub(r"^REDACTED[A-Z-]*_", "", base, flags=re.IGNORECASE)  # no stacking
-    total = _existing_modes(in_path) | set(modes)   # cumulative redaction state
+    total = engine.existing_modes(in_path) | set(modes)   # cumulative state
     d = out_dir if out_dir else os.path.dirname(in_path)
     return os.path.join(d, MODE_PREFIX[frozenset(total)] + base)
 
 
 def process_one(in_path, out_path, modes, tag=False):
-    """Redact one report for the selected passes. Returns a status dict and
-    NEVER writes a file that fails verification."""
-    res = {"file": in_path, "out": out_path, "modes": modes, "status": None,
-           "reason": "", "pii": {}, "grades": {}, "fragments": [], "hard": [],
-           "pii_note": ""}
+    """Redact one report for the selected passes (file in -> file out). Returns
+    a status dict and NEVER writes a file that fails verification."""
     doc = fitz.open(in_path)
-
-    if not common.has_text_layer(doc):
-        res["status"] = "SKIPPED"
-        res["reason"] = "no text layer (scanned image; needs OCR-based redaction)"
+    try:
+        res = engine.redact_doc(doc, modes, tag=tag,
+                                existing=engine.existing_modes(in_path))
+        res["file"] = in_path
+        res["out"] = out_path
+        res["modes"] = modes
+        if res["status"] in ("REDACTED", "REVIEW"):
+            doc.save(out_path, garbage=4, deflate=True, clean=True)
+    finally:
         doc.close()
-        return res
-
-    existing = _existing_modes(in_path)
-    findings, metas = [], {}
-    if "pii" in modes:
-        pf, pm = pii.build_findings(doc, tag=tag)
-        if pm["values"]:
-            findings += pf
-            metas["pii"] = pm
-            res["pii"] = pm["values"]
-        elif "pii" in existing:
-            # already PII-redacted (e.g. a REDACTED-PII_ input) -> not a failure
-            res["pii_note"] = "already PII-redacted — PII pass skipped"
-        else:
-            res["status"] = "FAILED"
-            res["reason"] = "text present but no STARS identifiers detected"
-            doc.close()
-            return res
-    if "grades" in modes:
-        gf, gm = grades.build_findings(doc)
-        findings += gf
-        metas["grades"] = gm
-        res["grades"] = gm
-
-    common.apply_and_fill(doc, findings)
-    common.scrub_metadata(doc)
-
-    hard, soft = [], []
-    if "pii" in metas:
-        h, s = pii.verify(doc, metas["pii"])
-        hard += h
-        soft += s
-    if "grades" in metas:
-        h, s = grades.verify(doc, metas["grades"])
-        hard += h
-        soft += s
-    res["fragments"] = soft
-
-    if hard:
-        res["status"] = "FAILED"
-        res["reason"] = "verification failed — output withheld"
-        res["hard"] = hard
-        doc.close()
-        return res
-
-    doc.save(out_path, garbage=4, deflate=True, clean=True)
-    doc.close()
-    res["status"] = "REVIEW" if soft else "REDACTED"
     return res
 
 
