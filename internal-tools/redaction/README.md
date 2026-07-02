@@ -26,6 +26,13 @@ verification step**, so a file is only written once it is proven clean for the
 selected passes. Output filenames encode the mode, so a partial redaction can
 never be mistaken for a complete one.
 
+**Passes compose.** You can run the tool on a file that was already partly
+redacted: the output is named by the *cumulative* redaction. Running the grade
+pass (or the default) on a `REDACTED-PII_` file skips the PII pass (nothing left
+to find) and writes `REDACTED_` — i.e. PII + grades. Batch mode treats
+`REDACTED-PII_` / `REDACTED-GRADES_` files as valid inputs and only skips files
+already fully redacted (`REDACTED_`).
+
 ## PII pass
 
 Detected by fixed template position/labels (never by hard-coded student data),

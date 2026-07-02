@@ -50,19 +50,33 @@ MODE_PREFIX = {
 }
 
 
+def _existing_modes(in_path):
+    """What has ALREADY been redacted in this file, inferred from its name."""
+    b = os.path.basename(in_path).upper()
+    if b.startswith("REDACTED-PII_"):
+        return {"pii"}
+    if b.startswith("REDACTED-GRADES_"):
+        return {"grades"}
+    if b.startswith("REDACTED_"):
+        return {"pii", "grades"}
+    return set()
+
+
 def _default_out(in_path, modes, out_dir=None):
     base = os.path.basename(in_path)
     base = re.sub(r"^DONOTSHARE[_-]*", "", base, flags=re.IGNORECASE)
     base = re.sub(r"^REDACTED[A-Z-]*_", "", base, flags=re.IGNORECASE)  # no stacking
+    total = _existing_modes(in_path) | set(modes)   # cumulative redaction state
     d = out_dir if out_dir else os.path.dirname(in_path)
-    return os.path.join(d, MODE_PREFIX[frozenset(modes)] + base)
+    return os.path.join(d, MODE_PREFIX[frozenset(total)] + base)
 
 
 def process_one(in_path, out_path, modes, tag=False):
     """Redact one report for the selected passes. Returns a status dict and
     NEVER writes a file that fails verification."""
     res = {"file": in_path, "out": out_path, "modes": modes, "status": None,
-           "reason": "", "pii": {}, "grades": {}, "fragments": [], "hard": []}
+           "reason": "", "pii": {}, "grades": {}, "fragments": [], "hard": [],
+           "pii_note": ""}
     doc = fitz.open(in_path)
 
     if not common.has_text_layer(doc):
@@ -71,17 +85,22 @@ def process_one(in_path, out_path, modes, tag=False):
         doc.close()
         return res
 
+    existing = _existing_modes(in_path)
     findings, metas = [], {}
     if "pii" in modes:
         pf, pm = pii.build_findings(doc, tag=tag)
-        if not pm["values"]:
+        if pm["values"]:
+            findings += pf
+            metas["pii"] = pm
+            res["pii"] = pm["values"]
+        elif "pii" in existing:
+            # already PII-redacted (e.g. a REDACTED-PII_ input) -> not a failure
+            res["pii_note"] = "already PII-redacted — PII pass skipped"
+        else:
             res["status"] = "FAILED"
             res["reason"] = "text present but no STARS identifiers detected"
             doc.close()
             return res
-        findings += pf
-        metas["pii"] = pm
-        res["pii"] = pm["values"]
     if "grades" in modes:
         gf, gm = grades.build_findings(doc)
         findings += gf
@@ -92,11 +111,11 @@ def process_one(in_path, out_path, modes, tag=False):
     common.scrub_metadata(doc)
 
     hard, soft = [], []
-    if "pii" in modes:
+    if "pii" in metas:
         h, s = pii.verify(doc, metas["pii"])
         hard += h
         soft += s
-    if "grades" in modes:
+    if "grades" in metas:
         h, s = grades.verify(doc, metas["grades"])
         hard += h
         soft += s
@@ -119,6 +138,8 @@ def _print_one(res):
     print(f"\n=== {os.path.basename(res['file'])}  [{'+'.join(sorted(res['modes']))}] ===")
     for k, v in res.get("pii", {}).items():
         print(f"  {k:24s}: {v!r}")
+    if res.get("pii_note"):
+        print(f"  {res['pii_note']}")
     if res.get("grades"):
         g = res["grades"]
         print(f"  grades redacted: {g['grades_replaced']}  |  "
@@ -137,7 +158,9 @@ def run_batch(in_dir, out_dir, modes, tag=False):
     os.makedirs(out_dir, exist_ok=True)
     results = []
     for name in sorted(os.listdir(in_dir)):
-        if not name.lower().endswith(".pdf") or name.upper().startswith("REDACTED"):
+        if not name.lower().endswith(".pdf"):
+            continue
+        if name.upper().startswith("REDACTED_"):   # already fully redacted -> skip
             continue
         src = os.path.join(in_dir, name)
         try:
