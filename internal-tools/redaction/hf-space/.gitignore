@@ -1,0 +1,6 @@
+# The engine package is COPIED here from ../redactors by build_space.sh at
+# deploy time. It is NOT the source of truth and must not be committed here —
+# that would create a second copy that drifts. One canonical package lives in
+# internal-tools/redaction/redactors/.
+redactors/
+__pycache__/
