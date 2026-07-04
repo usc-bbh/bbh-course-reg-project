@@ -1,0 +1,627 @@
+{
+  "term": "20263",
+  "courses": {
+    "ACCT 371": {
+      "units": 4,
+      "description": "Understanding of technology and controls needed to capture data used by professionals in financial and managerial accounting, auditing and taxation.",
+      "has_d_clearance": true,
+      "has_restrictions": false,
+      "has_lab": false,
+      "has_discussion": true,
+      "sections": {
+        "lectures": [
+          {
+            "section_id": "14040",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 0,
+            "is_full": true,
+            "days": [
+              "Mon",
+              "Wed"
+            ],
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "section_type": "lectures"
+          },
+          {
+            "section_id": "14041",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 0,
+            "is_full": true,
+            "days": [
+              "Mon",
+              "Wed"
+            ],
+            "start_time": "12:00",
+            "end_time": "13:50",
+            "section_type": "lectures"
+          },
+          {
+            "section_id": "14042",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 0,
+            "is_full": true,
+            "days": [
+              "Mon",
+              "Wed"
+            ],
+            "start_time": "14:00",
+            "end_time": "15:50",
+            "section_type": "lectures"
+          }
+        ],
+        "discussions": [
+          {
+            "section_id": "14044",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 0,
+            "is_full": true,
+            "days": [
+              "Fri"
+            ],
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "section_type": "discussions"
+          }
+        ]
+      }
+    },
+    "ANTH 338": {
+      "units": 4,
+      "description": "An introduction to the field of food studies, as a historical and cross-disciplinary study of the place of food in culture and society.",
+      "has_d_clearance": true,
+      "has_restrictions": false,
+      "has_lab": false,
+      "has_discussion": false,
+      "sections": {
+        "lectures": [
+          {
+            "section_id": "10687",
+            "link_code": null,
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 4,
+            "is_full": false,
+            "days": [
+              "Mon",
+              "Wed"
+            ],
+            "start_time": "14:00",
+            "end_time": "15:20",
+            "section_type": "lectures"
+          }
+        ]
+      }
+    },
+    "ANTH 491": {
+      "units": 4,
+      "description": "Individually guided research and readings culminating in the production of an honors thesis. prerequisite: 3.0 gpa; 201g plus 8 units of upper division ANTH courses.",
+      "has_d_clearance": true,
+      "has_restrictions": false,
+      "has_lab": false,
+      "has_discussion": false,
+      "sections": {
+        "lectures": [
+          {
+            "section_id": "10641",
+            "link_code": null,
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 10,
+            "is_full": false,
+            "days": [],
+            "start_time": "TBA",
+            "end_time": "TBA",
+            "section_type": "lectures"
+          }
+        ]
+      }
+    },
+    "ARCH 203": {
+      "units": 4,
+      "description": "Methods for direct observation and recording of the directly experienced built environment through drawing, diagramming, photographing, and writing. Course includes exercises and field experience.",
+      "has_d_clearance": true,
+      "has_restrictions": true,
+      "has_lab": false,
+      "has_discussion": false,
+      "sections": {
+        "lectures": [
+          {
+            "section_id": "11230",
+            "link_code": null,
+            "notes": "This course is reserved for students in the B.S. GeoDesign or Minor in Landscape Architecture programs. Non-ARCH majors may check for space availability during the first week of classes. This course is not available for ARCH majors.",
+            "is_cancelled": false,
+            "open_seats": 9,
+            "is_full": false,
+            "days": [
+              "Wed"
+            ],
+            "start_time": "14:00",
+            "end_time": "17:50",
+            "section_type": "lectures"
+          }
+        ]
+      }
+    },
+    "CSCI 104": {
+      "units": 4,
+      "description": "Data structures including linked lists, balanced search trees, heaps, hash tables; probability and number theory applicable to the analysis of randomized data structures.",
+      "has_d_clearance": false,
+      "has_restrictions": false,
+      "has_lab": true,
+      "has_discussion": false,
+      "sections": {
+        "lectures": [
+          {
+            "section_id": "29903",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 88,
+            "is_full": false,
+            "days": [
+              "Tue",
+              "Thu"
+            ],
+            "start_time": "12:30",
+            "end_time": "13:50",
+            "section_type": "lectures"
+          }
+        ],
+        "labs": [
+          {
+            "section_id": "30119",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 3,
+            "is_full": false,
+            "days": [
+              "Mon"
+            ],
+            "start_time": "12:00",
+            "end_time": "13:50",
+            "section_type": "labs"
+          },
+          {
+            "section_id": "29905",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 5,
+            "is_full": false,
+            "days": [
+              "Tue"
+            ],
+            "start_time": "15:30",
+            "end_time": "17:20",
+            "section_type": "labs"
+          },
+          {
+            "section_id": "29907",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 21,
+            "is_full": false,
+            "days": [
+              "Tue"
+            ],
+            "start_time": "16:00",
+            "end_time": "17:50",
+            "section_type": "labs"
+          },
+          {
+            "section_id": "30210",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 18,
+            "is_full": false,
+            "days": [
+              "Wed"
+            ],
+            "start_time": "12:00",
+            "end_time": "13:50",
+            "section_type": "labs"
+          },
+          {
+            "section_id": "29933",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 2,
+            "is_full": false,
+            "days": [
+              "Wed"
+            ],
+            "start_time": "14:00",
+            "end_time": "15:50",
+            "section_type": "labs"
+          },
+          {
+            "section_id": "29938",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 21,
+            "is_full": false,
+            "days": [
+              "Fri"
+            ],
+            "start_time": "12:00",
+            "end_time": "13:50",
+            "section_type": "labs"
+          }
+        ],
+        "quizzes": [
+          {
+            "section_id": "30025",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 88,
+            "is_full": false,
+            "days": [
+              "Fri"
+            ],
+            "start_time": "19:00",
+            "end_time": "20:50",
+            "section_type": "quizzes"
+          }
+        ]
+      }
+    },
+    "CSCI 360": {
+      "units": 4,
+      "description": "Concepts and algorithms underlying the understanding and construction of intelligent systems. Agents, problem solving, search, representation, reasoning, planning, machine learning.",
+      "has_d_clearance": false,
+      "has_restrictions": false,
+      "has_lab": false,
+      "has_discussion": false,
+      "sections": {
+        "lectures": [
+          {
+            "section_id": "30043",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 86,
+            "is_full": false,
+            "days": [
+              "Tue",
+              "Thu"
+            ],
+            "start_time": "12:00",
+            "end_time": "13:50",
+            "section_type": "lectures"
+          }
+        ],
+        "quizzes": [
+          {
+            "section_id": "29983",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 86,
+            "is_full": false,
+            "days": [],
+            "start_time": null,
+            "end_time": null,
+            "section_type": "quizzes"
+          }
+        ]
+      }
+    },
+    "CSCI 401": {
+      "units": 4,
+      "description": "Group project with an outside stakeholder to develop real-world    software solutions to large-scale problems. Topics include         software engineering, professional preparation, and recent         computer science research. Duplicates credit in CSCI 477a and CSCI  477b.",
+      "has_d_clearance": false,
+      "has_restrictions": true,
+      "has_lab": false,
+      "has_discussion": false,
+      "sections": {
+        "lectures": [
+          {
+            "section_id": "30227",
+            "link_code": "A",
+            "notes": "This course is only open to undergraduate students. No exceptions.",
+            "is_cancelled": false,
+            "open_seats": 70,
+            "is_full": false,
+            "days": [
+              "Mon",
+              "Wed"
+            ],
+            "start_time": "08:00",
+            "end_time": "09:50",
+            "section_type": "lectures"
+          },
+          {
+            "section_id": "30153",
+            "link_code": "B",
+            "notes": "This course is only open to undergraduate students. No exceptions.",
+            "is_cancelled": false,
+            "open_seats": 0,
+            "is_full": true,
+            "days": [
+              "Mon",
+              "Wed"
+            ],
+            "start_time": "10:00",
+            "end_time": "11:50",
+            "section_type": "lectures"
+          }
+        ]
+      }
+    },
+    "CSCI 426": {
+      "units": 4,
+      "description": "Developing games or technology based on current and relevant special topics.",
+      "has_d_clearance": true,
+      "has_restrictions": false,
+      "has_lab": false,
+      "has_discussion": false,
+      "sections": {
+        "lectures": [
+          {
+            "section_id": "30242",
+            "link_code": null,
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 14,
+            "is_full": false,
+            "days": [
+              "Wed"
+            ],
+            "start_time": "13:00",
+            "end_time": "16:20",
+            "section_type": "lectures"
+          }
+        ]
+      }
+    },
+    "MATH 407": {
+      "units": 4,
+      "description": "Probability spaces.  Main families of discrete and continuous distributions and relations among them.  Moments, characteristic functions, sequences of random variables, laws of large numbers, Central Limit Theorem.",
+      "has_d_clearance": false,
+      "has_restrictions": false,
+      "has_lab": false,
+      "has_discussion": true,
+      "sections": {
+        "lectures": [
+          {
+            "section_id": "39625",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 27,
+            "is_full": false,
+            "days": [
+              "Mon",
+              "Wed",
+              "Fri"
+            ],
+            "start_time": "09:00",
+            "end_time": "09:50",
+            "section_type": "lectures"
+          },
+          {
+            "section_id": "39629",
+            "link_code": "B",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 24,
+            "is_full": false,
+            "days": [
+              "Mon",
+              "Wed",
+              "Fri"
+            ],
+            "start_time": "10:00",
+            "end_time": "10:50",
+            "section_type": "lectures"
+          },
+          {
+            "section_id": "39632",
+            "link_code": "C",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 27,
+            "is_full": false,
+            "days": [
+              "Mon",
+              "Wed",
+              "Fri"
+            ],
+            "start_time": "11:00",
+            "end_time": "11:50",
+            "section_type": "lectures"
+          },
+          {
+            "section_id": "39621",
+            "link_code": "D",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 15,
+            "is_full": false,
+            "days": [
+              "Mon",
+              "Wed",
+              "Fri"
+            ],
+            "start_time": "12:00",
+            "end_time": "12:50",
+            "section_type": "lectures"
+          },
+          {
+            "section_id": "39624",
+            "link_code": "E",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 0,
+            "is_full": true,
+            "days": [
+              "Mon",
+              "Wed",
+              "Fri"
+            ],
+            "start_time": "12:00",
+            "end_time": "12:50",
+            "section_type": "lectures"
+          }
+        ],
+        "discussions": [
+          {
+            "section_id": "39626",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 17,
+            "is_full": false,
+            "days": [
+              "Tue"
+            ],
+            "start_time": "08:00",
+            "end_time": "08:50",
+            "section_type": "discussions"
+          },
+          {
+            "section_id": "39627",
+            "link_code": "A",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 10,
+            "is_full": false,
+            "days": [
+              "Tue"
+            ],
+            "start_time": "09:00",
+            "end_time": "09:50",
+            "section_type": "discussions"
+          },
+          {
+            "section_id": "39630",
+            "link_code": "B",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 6,
+            "is_full": false,
+            "days": [
+              "Thu"
+            ],
+            "start_time": "10:00",
+            "end_time": "10:50",
+            "section_type": "discussions"
+          },
+          {
+            "section_id": "39631",
+            "link_code": "B",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 19,
+            "is_full": false,
+            "days": [
+              "Thu"
+            ],
+            "start_time": "11:00",
+            "end_time": "11:50",
+            "section_type": "discussions"
+          },
+          {
+            "section_id": "39633",
+            "link_code": "C",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 7,
+            "is_full": false,
+            "days": [
+              "Tue"
+            ],
+            "start_time": "14:00",
+            "end_time": "14:50",
+            "section_type": "discussions"
+          },
+          {
+            "section_id": "39634",
+            "link_code": "C",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 19,
+            "is_full": false,
+            "days": [
+              "Tue"
+            ],
+            "start_time": "15:00",
+            "end_time": "15:50",
+            "section_type": "discussions"
+          },
+          {
+            "section_id": "39622",
+            "link_code": "D",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 14,
+            "is_full": false,
+            "days": [
+              "Thu"
+            ],
+            "start_time": "10:00",
+            "end_time": "10:50",
+            "section_type": "discussions"
+          },
+          {
+            "section_id": "39623",
+            "link_code": "D",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 1,
+            "is_full": false,
+            "days": [
+              "Thu"
+            ],
+            "start_time": "11:00",
+            "end_time": "11:50",
+            "section_type": "discussions"
+          },
+          {
+            "section_id": "39628",
+            "link_code": "E",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 0,
+            "is_full": true,
+            "days": [
+              "Thu"
+            ],
+            "start_time": "16:00",
+            "end_time": "16:50",
+            "section_type": "discussions"
+          },
+          {
+            "section_id": "39661",
+            "link_code": "E",
+            "notes": null,
+            "is_cancelled": false,
+            "open_seats": 0,
+            "is_full": true,
+            "days": [
+              "Thu"
+            ],
+            "start_time": "17:00",
+            "end_time": "17:50",
+            "section_type": "discussions"
+          }
+        ]
+      }
+    }
+  }
+}
