@@ -1,0 +1,41 @@
+{
+  "term": "20263",
+  "courses": {
+    "CSCI 104": {
+      "units": 4,
+      "description": "Data structures including linked lists, balanced search trees, heaps, hash tables; probability and number theory applicable to the analysis of randomized data structures.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    "CSCI 360": {
+      "units": 4,
+      "description": "Concepts and algorithms underlying the understanding and construction of intelligent systems. Agents, problem solving, search, representation, reasoning, planning, machine learning.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    "CSCI 401": {
+      "units": 4,
+      "description": "Group project with an outside stakeholder to develop real-world software solutions to large-scale problems. Topics include software engineering, professional preparation, and recent computer science research. Duplicates credit in CSCI 477a and CSCI 477b.",
+      "has_d_clearance": false,
+      "has_restrictions": true
+    },
+    "CSCI 426": {
+      "units": 4,
+      "description": "Developing games or technology based on current and relevant special topics.",
+      "has_d_clearance": true,
+      "has_restrictions": false
+    },
+    "MATH 407": {
+      "units": 4,
+      "description": "Probability spaces. Main families of discrete and continuous distributions and relations among them. Moments, characteristic functions, sequences of random variables, laws of large numbers, Central Limit Theorem.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    "ANTH 491": {
+      "units": 4,
+      "description": "Individually guided research and readings culminating in the production of an honors thesis. prerequisite: 3.0 gpa; 201g plus 8 units of upper division ANTH courses.",
+      "has_d_clearance": true,
+      "has_restrictions": false
+    }
+  }
+}
