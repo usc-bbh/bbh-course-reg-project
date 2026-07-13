@@ -3,6 +3,10 @@
 ## Repository layout
 
 - `stars-parser/` — the client-side STARS report parser used by the TrojanReg app.
+- `validator/` — _TODO (Tanzil): describe the next-semester schedule validator module. See `validator/README.md`._
+- `dept_clearance.json` — reference dataset of USC department D-clearance info used by the validator.
+- `docs/` — project-wide contributor documentation.
+  - `docs/TESTING_GUIDE.md` — intro to unit tests and pytest for contributors.
 
 ## ⚠️ Note: the STARS redactor is a separate internal tool — NOT in this repo
 
