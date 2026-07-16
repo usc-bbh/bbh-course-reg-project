@@ -17,6 +17,7 @@ from validate_next_semester import (
     _check_standing,
     _check_time_conflicts,
     _dept_clearance_by_prefix,
+    _normalize_code,
     _to_minutes,
     validate_next_semester,
 )
@@ -51,6 +52,22 @@ def course_catalog():
 @pytest.fixture
 def dept_clearance():
     return load_fixture("../../../dept_clearance.json")
+
+
+# ---- normalize_code ---------------------------------------------------------
+
+@pytest.mark.parametrize(
+    "raw,expected",
+    [
+        ("CSCI 104", "CSCI 104"),
+        ("CSCI104", "CSCI 104"),
+        ("csci 104", "CSCI 104"),
+        ("  CSCI   104  ", "CSCI 104"),
+        ("CSCI104A", "CSCI 104A"),
+    ],
+)
+def test_normalize_code(raw, expected):
+    assert _normalize_code(raw) == expected
 
 
 # ---- already taken ---------------------------------------------------------
@@ -101,6 +118,13 @@ def test_d_clearance_warns_with_department_text(dept_clearance):
 def test_d_clearance_none_when_not_required(dept_clearance):
     by_prefix = _dept_clearance_by_prefix(dept_clearance)
     assert _check_d_clearance("CSCI 360", {"has_d_clearance": False}, by_prefix) is None
+
+
+def test_d_clearance_warns_generically_for_unknown_department(dept_clearance):
+    by_prefix = _dept_clearance_by_prefix(dept_clearance)
+    result = _check_d_clearance("ZZZZ 100", {"has_d_clearance": True}, by_prefix)
+    assert result.status == "warning"
+    assert len(result.reasons) == 1  # only the generic reason, no dept-specific text found
 
 
 def test_d_clearance_schema_version_guard_raises(dept_clearance):
@@ -386,11 +410,34 @@ def test_to_minutes_handles_malformed_input_gracefully():
 def test_validate_next_semester_end_to_end(planned_courses, stars_summary, course_catalog, dept_clearance):
     result = validate_next_semester(planned_courses, stars_summary, course_catalog, dept_clearance)
     assert result.overall_status == "invalid"
+
     by_course = {c.course: c for c in result.course_results}
-    assert by_course["CSCI 104"].status == "fail"  # already completed
-    assert by_course["CSCI 999"].status == "warning"  # not in catalog
-    assert by_course["MATH 407"].status == "fail"  # mismatched lab/discussion link code
-    assert "total_units" in result.summary
+    expected_status = {
+        "CSCI 360": "warning",  # partial time-conflict warning with CSCI 104
+        "CSCI 401": "warning",  # partial time-conflict warnings (MATH 407, ACCT 371)
+        "CSCI 104": "fail",  # already completed
+        "CSCI 426": "fail",  # unavoidable time conflict with ANTH 338 and ARCH 203
+        "MATH 407": "fail",  # mismatched lab/discussion link code
+        "ANTH 491": "warning",  # D-clearance + TBA section, no fixed time to conflict-check
+        "ANTH 338": "fail",  # unavoidable time conflict with CSCI 426 and ARCH 203
+        "ACCT 371": "fail",  # every section full
+        "ARCH 203": "fail",  # reserved for GeoDesign/Landscape Arch, not this student's major
+        "CSCI 999": "warning",  # not in catalog
+    }
+    for course, status in expected_status.items():
+        assert by_course[course].status == status, f"{course}: expected {status}, got {by_course[course].status}"
+
+    assert "no section that avoids conflicting with ANTH 338" in " ".join(by_course["CSCI 426"].reasons)
+    assert "no section that avoids conflicting with ARCH 203" in " ".join(by_course["CSCI 426"].reasons)
+    assert any("may conflict with" in r for r in by_course["CSCI 401"].reasons)
+    assert any("TBA" in r for r in by_course["ANTH 491"].reasons)
+    assert any("full" in r for r in by_course["ACCT 371"].reasons)
+    assert any("reserved for" in r for r in by_course["ARCH 203"].reasons)
+    assert any("link code" in r for r in by_course["MATH 407"].reasons)
+
+    assert result.summary["total_units"] == 36.0
+    assert any("CSCI 999" in w for w in result.summary["warnings"])
+    assert any("18" in w for w in result.summary["warnings"])
 
 
 def test_validate_next_semester_raises_on_bad_dept_clearance_version(planned_courses, stars_summary, course_catalog, dept_clearance):

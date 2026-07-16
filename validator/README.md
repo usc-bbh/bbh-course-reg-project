@@ -180,7 +180,7 @@ specific course/section is blocked outright.
 ## Running tests
 
 ```bash
-python3 -m pip install pytest  # first time only
+python3 -m pip install -r validator/requirements-dev.txt  # first time only
 python3 -m pytest validator/test/
 ```
 
