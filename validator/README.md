@@ -144,7 +144,7 @@ flagging here instead of changing unilaterally.
 |---|---|---|---|
 | Already completed | fail | `stars_summary.completedCourses` | — |
 | Already in progress | warning | `stars_summary.inProgressCourses` | — |
-| Class standing (400+ level vs. Freshman/Sophomore) | fail | `stars_summary.classLevel` + course number | ⚠️ no authoritative source linked yet — needs a citation or should be dropped |
+| Class standing (400+ level vs. Freshman/Sophomore) | warning | `stars_summary.classLevel` + course number | [USC Registrar glossary](https://esdcomm.usc.edu/arr/glossary/c.html): 300/400-level is "primarily for" juniors/seniors — guidance, not a blanket rule. Actual enforcement is per-course (e.g. CSCI 442/445 require junior standing themselves), which this validator can't see, so this is a `warning` rather than a `fail`. |
 | D-clearance | warning (never a hard fail — see below) | `course_catalog.has_d_clearance` + `dept_clearance.json` | per-department `source_url` field already inside `dept_clearance.json` |
 | Prerequisites | fail / warning | `course_catalog.description` (best-effort GPA + course-code parsing) against `stars_summary` | — |
 | Not found in catalog | warning | `course_catalog` presence | — |

@@ -88,9 +88,9 @@ def test_already_taken_none_for_new_course(stars_summary):
 
 # ---- standing --------------------------------------------------------------
 
-def test_standing_fails_for_freshman_taking_400_level():
+def test_standing_warns_for_freshman_taking_400_level():
     result = _check_standing("CSCI 401", {"classLevel": "Freshman"})
-    assert result.status == "fail"
+    assert result.status == "warning"
 
 
 def test_standing_none_for_junior_taking_400_level():

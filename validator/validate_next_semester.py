@@ -136,7 +136,10 @@ def _check_already_taken(course: str, stars_summary: dict) -> CourseResult | Non
 
 
 def _check_standing(course: str, stars_summary: dict) -> CourseResult | None:
-    """Fails if a 400+ course is planned by a Freshman/Sophomore."""
+    """Warns if a 400+ course is planned by a Freshman/Sophomore. Not a hard fail: USC's own
+    glossary says 300/400-level is "primarily for" juniors/seniors as guidance, not a blanket
+    rule -- actual enforcement is per-course (e.g. some courses require junior standing
+    themselves), which this validator can't see."""
     number = _course_number(course)
     class_level = stars_summary.get("classLevel")
     if number is None or class_level not in CLASS_LEVEL_ORDER:
@@ -144,8 +147,8 @@ def _check_standing(course: str, stars_summary: dict) -> CourseResult | None:
     if number >= 400 and CLASS_LEVEL_ORDER[class_level] < 3:
         return CourseResult(
             course,
-            "fail",
-            [f"{class_level}s are not eligible for 400+ level courses (current standing: {class_level})."],
+            "warning",
+            [f"{class_level}s may not be eligible for some 400+ level courses (current standing: {class_level}) — check the specific course's requirements."],
         )
     return None
 
