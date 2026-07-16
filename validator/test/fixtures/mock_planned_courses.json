@@ -3,9 +3,9 @@
   "planned_courses": [
     "CSCI 360",
     "CSCI 401",
-    "CSCI 104",
+    { "course": "CSCI 104", "sections": ["29903", "30119"] },
     "CSCI 426",
-    "MATH 407",
+    { "course": "MATH 407", "sections": ["39625", "39630"] },
     "ANTH 491",
     "ANTH 338",
     "ACCT 371",
