@@ -1,15 +1,15 @@
 {
   "term": "20263",
   "planned_courses": [
-    "CSCI 360",
-    "CSCI 401",
+    { "course": "CSCI 360", "sections": ["30043"] },
+    { "course": "CSCI 401", "sections": ["30227"] },
     { "course": "CSCI 104", "sections": ["29903", "30119"] },
-    "CSCI 426",
+    { "course": "CSCI 426", "sections": ["30242"] },
     { "course": "MATH 407", "sections": ["39625", "39630"] },
-    "ANTH 491",
-    "ANTH 338",
-    "ACCT 371",
-    "ARCH 203",
-    "CSCI 999"
+    { "course": "ANTH 491", "sections": ["10641"] },
+    { "course": "ANTH 338", "sections": ["10687"] },
+    { "course": "ACCT 371", "sections": ["14041", "14044"] },
+    { "course": "ARCH 203", "sections": ["11230"] },
+    { "course": "CSCI 999", "sections": ["00000"] }
   ]
 }

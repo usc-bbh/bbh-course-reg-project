@@ -18,9 +18,33 @@ from validate_next_semester import (
     _check_time_conflicts,
     _dept_clearance_by_prefix,
     _normalize_code,
+    _parse_planned_entry,
     _to_minutes,
     validate_next_semester,
 )
+
+
+# ---- parse_planned_entry -----------------------------------------------------
+
+def test_parse_planned_entry_extracts_course_and_sections():
+    course, sections = _parse_planned_entry({"course": "CSCI 104", "sections": ["29903", "30119"]})
+    assert course == "CSCI 104"
+    assert sections == {"29903", "30119"}
+
+
+def test_parse_planned_entry_raises_on_plain_string():
+    with pytest.raises(ValueError):
+        _parse_planned_entry("CSCI 104")
+
+
+def test_parse_planned_entry_raises_when_sections_missing():
+    with pytest.raises(ValueError):
+        _parse_planned_entry({"course": "CSCI 104"})
+
+
+def test_parse_planned_entry_raises_when_sections_empty():
+    with pytest.raises(ValueError):
+        _parse_planned_entry({"course": "CSCI 104", "sections": []})
 
 
 # ---- fixtures -------------------------------------------------------------
@@ -188,24 +212,6 @@ def test_in_catalog_none_when_present():
 
 # ---- seat availability -----------------------------------------------------
 
-def test_seat_availability_fails_when_all_sections_full():
-    entry = {"sections": {"lectures": [{"section_id": "1", "is_full": True, "is_cancelled": False}]}}
-    result = _check_seat_availability("ACCT 371", entry, None)
-    assert result.status == "fail"
-
-
-def test_seat_availability_none_when_some_sections_open():
-    entry = {
-        "sections": {
-            "lectures": [
-                {"section_id": "1", "is_full": True, "is_cancelled": False},
-                {"section_id": "2", "is_full": False, "is_cancelled": False},
-            ]
-        }
-    }
-    assert _check_seat_availability("CSCI 401", entry, None) is None
-
-
 def test_seat_availability_fails_for_selected_full_section():
     entry = {
         "sections": {
@@ -232,12 +238,6 @@ def test_seat_availability_none_for_selected_open_section():
 
 
 # ---- lab/discussion pairing -------------------------------------------------
-
-def test_lab_pairing_warns_when_no_sections_selected():
-    entry = {"has_lab": True, "has_discussion": False, "sections": {}}
-    result = _check_lab_discussion_pairing("CSCI 104", entry, None)
-    assert result.status == "warning"
-
 
 def test_lab_pairing_none_when_link_codes_match():
     entry = {
@@ -276,7 +276,7 @@ def test_lab_pairing_fails_when_required_section_missing():
 
 def test_lab_pairing_none_when_not_required():
     entry = {"has_lab": False, "has_discussion": False, "sections": {}}
-    assert _check_lab_discussion_pairing("CSCI 360", entry, None) is None
+    assert _check_lab_discussion_pairing("CSCI 360", entry, {"L1"}) is None
 
 
 # ---- major restrictions -----------------------------------------------------
@@ -294,7 +294,7 @@ def test_major_restrictions_fails_when_reserved_for_other_major():
             ]
         },
     }
-    result = _check_major_restrictions("ARCH 203", entry, {"major": "Computer Science", "classLevel": "Junior"})
+    result = _check_major_restrictions("ARCH 203", entry, {"major": "Computer Science", "classLevel": "Junior"}, {"1"})
     assert result.status == "fail"
 
 
@@ -311,7 +311,7 @@ def test_major_restrictions_none_when_reserved_for_students_major():
             ]
         },
     }
-    result = _check_major_restrictions("CSCI 490", entry, {"major": "Computer Science", "classLevel": "Junior"})
+    result = _check_major_restrictions("CSCI 490", entry, {"major": "Computer Science", "classLevel": "Junior"}, {"1"})
     assert result is None
 
 
@@ -324,7 +324,7 @@ def test_major_restrictions_fails_when_undergrad_only_but_student_is_grad():
             ]
         },
     }
-    result = _check_major_restrictions("CSCI 401", entry, {"major": "Computer Science", "classLevel": None})
+    result = _check_major_restrictions("CSCI 401", entry, {"major": "Computer Science", "classLevel": None}, {"1"})
     assert result.status == "fail"
 
 
@@ -337,7 +337,7 @@ def test_major_restrictions_none_when_undergrad_only_and_student_is_undergrad():
             ]
         },
     }
-    result = _check_major_restrictions("CSCI 401", entry, {"major": "Computer Science", "classLevel": "Junior"})
+    result = _check_major_restrictions("CSCI 401", entry, {"major": "Computer Science", "classLevel": "Junior"}, {"1"})
     assert result is None
 
 
@@ -346,13 +346,13 @@ def test_major_restrictions_warns_when_note_unparseable():
         "has_restrictions": True,
         "sections": {"lectures": [{"section_id": "1", "is_cancelled": False, "notes": "Some unusual restriction text."}]},
     }
-    result = _check_major_restrictions("XYZ 100", entry, {"major": "Computer Science", "classLevel": "Junior"})
+    result = _check_major_restrictions("XYZ 100", entry, {"major": "Computer Science", "classLevel": "Junior"}, {"1"})
     assert result.status == "warning"
 
 
 def test_major_restrictions_warns_when_flagged_but_no_notes():
     entry = {"has_restrictions": True, "sections": {"lectures": [{"section_id": "1", "is_cancelled": False, "notes": None}]}}
-    result = _check_major_restrictions("XYZ 100", entry, {"major": "Computer Science", "classLevel": "Junior"})
+    result = _check_major_restrictions("XYZ 100", entry, {"major": "Computer Science", "classLevel": "Junior"}, {"1"})
     assert result.status == "warning"
 
 
@@ -362,31 +362,31 @@ def make_catalog_entry(days, start, end, section_id="1"):
     return {"sections": {"lectures": [{"section_id": section_id, "is_cancelled": False, "days": days, "start_time": start, "end_time": end}]}}
 
 
-def test_time_conflict_fails_when_only_sections_fully_overlap():
+def test_time_conflict_fails_when_selected_sections_overlap():
     catalog = {
         "CSCI 426": make_catalog_entry(["Wed"], "13:00", "16:20"),
         "ANTH 338": make_catalog_entry(["Mon", "Wed"], "14:00", "15:20"),
     }
-    conflicts = _check_time_conflicts([("CSCI 426", None), ("ANTH 338", None)], catalog)
+    conflicts = _check_time_conflicts([("CSCI 426", {"1"}), ("ANTH 338", {"1"})], catalog)
     assert conflicts["CSCI 426"][0].status == "fail"
     assert conflicts["ANTH 338"][0].status == "fail"
 
 
-def test_time_conflict_warns_when_only_some_sections_overlap():
+def test_time_conflict_fails_when_any_selected_section_overlaps():
+    """A course with multiple selected sections (e.g. lecture + lab) commits to all of them at
+    once -- a conflict from just one of them is still a real conflict."""
     catalog = {
         "A": {
             "sections": {
-                "lectures": [
-                    {"section_id": "a1", "is_cancelled": False, "days": ["Mon"], "start_time": "08:00", "end_time": "09:50"},
-                    {"section_id": "a2", "is_cancelled": False, "days": ["Mon"], "start_time": "10:00", "end_time": "11:50"},
-                ]
+                "lectures": [{"section_id": "a1", "is_cancelled": False, "days": ["Mon"], "start_time": "08:00", "end_time": "09:50"}],
+                "labs": [{"section_id": "a2", "is_cancelled": False, "days": ["Mon"], "start_time": "10:00", "end_time": "11:50"}],
             }
         },
-        "B": make_catalog_entry(["Mon"], "09:00", "09:50", section_id="b1"),
+        "B": make_catalog_entry(["Mon"], "10:30", "11:00", section_id="b1"),
     }
-    conflicts = _check_time_conflicts([("A", None), ("B", None)], catalog)
-    assert conflicts["A"][0].status == "warning"
-    assert conflicts["B"][0].status == "warning"
+    conflicts = _check_time_conflicts([("A", {"a1", "a2"}), ("B", {"b1"})], catalog)
+    assert conflicts["A"][0].status == "fail"
+    assert conflicts["B"][0].status == "fail"
 
 
 def test_time_conflict_absent_when_no_overlap():
@@ -394,7 +394,7 @@ def test_time_conflict_absent_when_no_overlap():
         "A": make_catalog_entry(["Mon"], "08:00", "09:00"),
         "B": make_catalog_entry(["Tue"], "08:00", "09:00"),
     }
-    conflicts = _check_time_conflicts([("A", None), ("B", None)], catalog)
+    conflicts = _check_time_conflicts([("A", {"1"}), ("B", {"1"})], catalog)
     assert conflicts == {}
 
 
@@ -413,23 +413,22 @@ def test_validate_next_semester_end_to_end(planned_courses, stars_summary, cours
 
     by_course = {c.course: c for c in result.course_results}
     expected_status = {
-        "CSCI 360": "warning",  # partial time-conflict warning with CSCI 104
-        "CSCI 401": "warning",  # partial time-conflict warnings (MATH 407, ACCT 371)
-        "CSCI 104": "fail",  # already completed
-        "CSCI 426": "fail",  # unavoidable time conflict with ANTH 338 and ARCH 203
-        "MATH 407": "fail",  # mismatched lab/discussion link code
+        "CSCI 360": "fail",  # time conflict with CSCI 104 (both meet Tue/Thu ~noon)
+        "CSCI 401": "fail",  # time conflict with MATH 407
+        "CSCI 104": "fail",  # already completed, plus time conflict with CSCI 360 and ACCT 371
+        "CSCI 426": "fail",  # time conflicts with ANTH 338, ACCT 371, ARCH 203 (all Wed afternoon)
+        "MATH 407": "fail",  # mismatched lab/discussion link code, plus conflict with CSCI 401
         "ANTH 491": "warning",  # D-clearance + TBA section, no fixed time to conflict-check
-        "ANTH 338": "fail",  # unavoidable time conflict with CSCI 426 and ARCH 203
-        "ACCT 371": "fail",  # every section full
+        "ANTH 338": "fail",  # time conflicts with CSCI 426 and ARCH 203
+        "ACCT 371": "fail",  # both selected sections full, plus time conflicts
         "ARCH 203": "fail",  # reserved for GeoDesign/Landscape Arch, not this student's major
         "CSCI 999": "warning",  # not in catalog
     }
     for course, status in expected_status.items():
         assert by_course[course].status == status, f"{course}: expected {status}, got {by_course[course].status}"
 
-    assert "no section that avoids conflicting with ANTH 338" in " ".join(by_course["CSCI 426"].reasons)
-    assert "no section that avoids conflicting with ARCH 203" in " ".join(by_course["CSCI 426"].reasons)
-    assert any("may conflict with" in r for r in by_course["CSCI 401"].reasons)
+    assert "CSCI 426 conflicts with ANTH 338." in by_course["CSCI 426"].reasons
+    assert "CSCI 426 conflicts with ARCH 203." in by_course["CSCI 426"].reasons
     assert any("TBA" in r for r in by_course["ANTH 491"].reasons)
     assert any("full" in r for r in by_course["ACCT 371"].reasons)
     assert any("reserved for" in r for r in by_course["ARCH 203"].reasons)

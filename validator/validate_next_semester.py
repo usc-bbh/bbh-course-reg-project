@@ -1,15 +1,22 @@
 """Module 4B: next-semester validator.
 
-Checks a student's planned courses against a STARS summary, the course
-catalog (Agastya's schedule scrape), and USC department D-clearance rules.
+Checks a student's planned course *registrations* -- specific sections, not
+just courses -- against a STARS summary, the course catalog (Agastya's
+schedule scrape), and USC department D-clearance rules. The goal is to catch
+things that would make a real WebReg registration attempt fail, so every
+entry in `planned_courses` must name the exact sections the student intends
+to register for: {"course": "CSCI 104", "sections": ["29903", "30119"]}.
+There's no "check this course, no section chosen yet" mode -- WebReg itself
+requires a specific section, so a course-only check could only ever say
+"maybe, depending which section you pick," which isn't useful for this
+module's purpose (module 4B is next-semester validation, not a full degree
+plan).
 
-Each entry in `planned_courses` may be a plain course code string, e.g.
-"CSCI 104", or a dict naming specific chosen sections, e.g.
-{"course": "CSCI 104", "sections": ["29903", "30119"]}. When sections are
-given, seat availability, time conflicts, and lab/discussion pairing are
-checked against exactly those sections. When they're not, those checks fall
-back to "is there at least one viable choice" / "is every section full"
-across all of the course's sections.
+Because sections are required, seat availability, lab/discussion pairing,
+and time conflicts are all simple, deterministic fail-or-pass checks -- no
+"maybe" warning tier needed for any of them. All of a course's selected
+sections are treated as simultaneous commitments (a lecture and its lab both
+apply at once), not alternatives to choose between.
 
 Prereqs and major restrictions are parsed out of free-text catalog fields on
 a best-effort basis (course codes, GPA thresholds, "reserved for X" /
@@ -17,15 +24,8 @@ a best-effort basis (course codes, GPA thresholds, "reserved for X" /
 When a description doesn't match a recognized pattern, it's surfaced as an
 unverified warning instead of silently dropped or blindly passed.
 
-Time conflict is evaluated per pair of planned courses: a course contributes
-all of its considered sections as options. A pair is only a hard `fail` when
-every option combination overlaps (no viable choice avoids it); if only some
-combinations overlap, it's a `warning`. When a course has multiple selected
-sections (e.g. lecture + lab both chosen), they're treated as alternative
-options for this comparison rather than a simultaneous commitment, which can
-under-flag a conflict that only comes from one of the selected sections. TBA
-or malformed section times are skipped for conflict purposes but surfaced as
-a separate warning rather than silently dropped.
+TBA or malformed section times are skipped for conflict-checking purposes but
+surfaced as a separate warning rather than silently dropped.
 """
 
 from __future__ import annotations
@@ -84,25 +84,26 @@ def _to_minutes(time_str: str | None) -> int | None:
         return None
 
 
-def _parse_planned_entry(entry: str | dict) -> tuple[str, set[str] | None]:
-    """Splits a planned_courses item into (course_code, selected_section_ids or None)."""
-    if isinstance(entry, dict):
-        sections = entry.get("sections")
-        return entry["course"], set(sections) if sections else None
-    return entry, None
+def _parse_planned_entry(entry: dict) -> tuple[str, set[str]]:
+    """Splits a planned_courses item into (course_code, selected_section_ids). Sections are
+    required -- there's no meaningful "check this course, no section chosen" state, since the
+    point is to catch what would make an actual WebReg registration attempt fail."""
+    if not isinstance(entry, dict) or not entry.get("sections"):
+        raise ValueError(
+            "planned_courses entries must specify sections, e.g. "
+            f"{{'course': 'CSCI 104', 'sections': ['29903']}}; got {entry!r}"
+        )
+    return entry["course"], set(entry["sections"])
 
 
-def _all_sections(catalog_entry: dict, selected_section_ids: set[str] | None = None) -> list[dict]:
-    """Every non-cancelled section for a course, optionally filtered to a specific selection."""
-    sections = [
+def _all_sections(catalog_entry: dict, selected_section_ids: set[str]) -> list[dict]:
+    """The student's selected, non-cancelled sections for a course."""
+    return [
         section
         for group in catalog_entry.get("sections", {}).values()
         for section in group
-        if not section.get("is_cancelled")
+        if not section.get("is_cancelled") and section["section_id"] in selected_section_ids
     ]
-    if selected_section_ids is not None:
-        sections = [s for s in sections if s["section_id"] in selected_section_ids]
-    return sections
 
 
 def _dept_clearance_by_prefix(dept_clearance: dict) -> dict:
@@ -217,40 +218,24 @@ def _check_in_catalog(course: str, catalog: dict) -> CourseResult | None:
     return None
 
 
-def _check_seat_availability(course: str, catalog_entry: dict | None, selected_section_ids: set[str] | None) -> CourseResult | None:
-    """Fails if the selected section(s) are full, or (with no selection) if every section is full."""
+def _check_seat_availability(course: str, catalog_entry: dict | None, selected_section_ids: set[str]) -> CourseResult | None:
+    """Fails if any selected section is full."""
     if not catalog_entry:
         return None
-    sections = _all_sections(catalog_entry, selected_section_ids)
-    if not sections:
-        return None
-    full = [s for s in sections if s.get("is_full")]
-    if selected_section_ids is not None:
-        if full:
-            ids = ", ".join(s["section_id"] for s in full)
-            return CourseResult(course, "fail", [f"Selected section(s) {ids} of {course} are full."])
-        return None
-    if len(full) == len(sections):
-        return CourseResult(course, "fail", [f"Every section of {course} is full for this term."])
+    full = [s for s in _all_sections(catalog_entry, selected_section_ids) if s.get("is_full")]
+    if full:
+        ids = ", ".join(s["section_id"] for s in full)
+        return CourseResult(course, "fail", [f"Selected section(s) {ids} of {course} are full."])
     return None
 
 
-def _check_lab_discussion_pairing(course: str, catalog_entry: dict | None, selected_section_ids: set[str] | None) -> CourseResult | None:
-    """With sections selected: verifies a required lab/discussion was chosen and shares the lecture's
-    link code. Without a selection: a reminder warning, since there's nothing to verify yet."""
+def _check_lab_discussion_pairing(course: str, catalog_entry: dict | None, selected_section_ids: set[str]) -> CourseResult | None:
+    """Verifies a required lab/discussion was selected and shares the lecture's link code."""
     if not catalog_entry:
         return None
     required_groups = [group for group, key in [("labs", "has_lab"), ("discussions", "has_discussion")] if catalog_entry.get(key)]
     if not required_groups:
         return None
-
-    if selected_section_ids is None:
-        labels = [g[:-1] for g in required_groups]
-        return CourseResult(
-            course,
-            "warning",
-            [f"{course} requires a linked {'/'.join(labels)} section — register for a matching section (same link code) in addition to the lecture."],
-        )
 
     sections_by_group = {
         group: [s for s in secs if s["section_id"] in selected_section_ids]
@@ -273,13 +258,15 @@ def _check_lab_discussion_pairing(course: str, catalog_entry: dict | None, selec
     return CourseResult(course, "fail", reasons)
 
 
-def _check_major_restrictions(course: str, catalog_entry: dict | None, stars_summary: dict) -> CourseResult | None:
+def _check_major_restrictions(
+    course: str, catalog_entry: dict | None, stars_summary: dict, selected_section_ids: set[str]
+) -> CourseResult | None:
     """Best-effort: matches "reserved for X" / "not available for X majors" / "only open to
-    undergrad/grad" phrasing in section notes against the student's declared major and class
-    level. Unrecognized restriction text is surfaced as an unverified warning."""
+    undergrad/grad" phrasing in the selected sections' notes against the student's declared major
+    and class level. Unrecognized restriction text is surfaced as an unverified warning."""
     if not catalog_entry or not catalog_entry.get("has_restrictions"):
         return None
-    notes = list(dict.fromkeys(s["notes"] for s in _all_sections(catalog_entry) if s.get("notes")))
+    notes = list(dict.fromkeys(s["notes"] for s in _all_sections(catalog_entry, selected_section_ids) if s.get("notes")))
     if not notes:
         return CourseResult(
             course, "warning", [f"{course} has registration restrictions — check section notes on WebReg to confirm eligibility."]
@@ -343,7 +330,7 @@ def _check_major_restrictions(course: str, catalog_entry: dict | None, stars_sum
 
 
 def _section_time_options(
-    catalog_entry: dict | None, selected_section_ids: set[str] | None
+    catalog_entry: dict | None, selected_section_ids: set[str]
 ) -> tuple[list[tuple[frozenset, int, int]], list[str]]:
     """Returns (usable time options, section_ids skipped for TBA/malformed times)."""
     if not catalog_entry:
@@ -377,9 +364,10 @@ def _check_unresolved_time_sections(course: str, unresolved: list[str]) -> Cours
     )
 
 
-def _check_time_conflicts(parsed_entries: list[tuple[str, set[str] | None]], catalog: dict) -> dict[str, list[CourseResult]]:
-    """Pairwise: fails when every section-combination between two courses overlaps (no viable
-    choice avoids it), warns when only some combinations do."""
+def _check_time_conflicts(parsed_entries: list[tuple[str, set[str]]], catalog: dict) -> dict[str, list[CourseResult]]:
+    """Pairwise: fails when any of one course's selected sections overlaps any of another's.
+    Sections are required, so every listed section is a real, simultaneous commitment (a
+    lecture and its lab both apply at once) -- not an alternative to choose between."""
     results: dict[str, list[CourseResult]] = {}
     options_by_course = {
         course: _section_time_options(catalog.get(_normalize_code(course)), selected)[0] for course, selected in parsed_entries
@@ -394,20 +382,15 @@ def _check_time_conflicts(parsed_entries: list[tuple[str, set[str] | None]], cat
             options_b = options_by_course[course_b]
             if not options_b:
                 continue
-            combos = [(a, b) for a in options_a for b in options_b]
-            overlapping = [c for c in combos if _sections_overlap(*c)]
-            if not overlapping:
-                continue
-            status = "fail" if len(overlapping) == len(combos) else "warning"
-            phrase = "has no section that avoids conflicting with" if status == "fail" else "may conflict with, depending on section choice,"
-            results.setdefault(course_a, []).append(CourseResult(course_a, status, [f"{course_a} {phrase} {course_b}."]))
-            results.setdefault(course_b, []).append(CourseResult(course_b, status, [f"{course_b} {phrase} {course_a}."]))
+            if any(_sections_overlap(a, b) for a in options_a for b in options_b):
+                results.setdefault(course_a, []).append(CourseResult(course_a, "fail", [f"{course_a} conflicts with {course_b}."]))
+                results.setdefault(course_b, []).append(CourseResult(course_b, "fail", [f"{course_b} conflicts with {course_a}."]))
 
     return results
 
 
 def validate_next_semester(
-    planned_courses: list[str | dict], stars_summary: dict, course_catalog: dict, dept_clearance: dict
+    planned_courses: list[dict], stars_summary: dict, course_catalog: dict, dept_clearance: dict
 ) -> ValidationResult:
     dept_clearance_by_prefix = _dept_clearance_by_prefix(dept_clearance)
     catalog = {_normalize_code(code): entry for code, entry in course_catalog.get("courses", course_catalog).items()}
@@ -431,7 +414,7 @@ def validate_next_semester(
             _check_in_catalog(course, catalog),
             _check_seat_availability(course, catalog_entry, selected_section_ids),
             _check_lab_discussion_pairing(course, catalog_entry, selected_section_ids),
-            _check_major_restrictions(course, catalog_entry, stars_summary),
+            _check_major_restrictions(course, catalog_entry, stars_summary, selected_section_ids),
             _check_unresolved_time_sections(course, unresolved_time_sections),
             *time_conflicts.get(course, []),
         ]

@@ -5,7 +5,7 @@ catalog, and USC department D-clearance rules. Owned by Tanzil.
 
 ```python
 def validate_next_semester(
-    planned_courses: list[str | dict],
+    planned_courses: list[dict],
     stars_summary: dict,
     course_catalog: dict,
     dept_clearance: dict,
@@ -21,15 +21,19 @@ scrape) can be checked against them, per the schema-contract discussion.
 
 ### `planned_courses`
 
-A list where each item is **either**:
+A list where each item names the exact sections the student intends to
+register for:
 
-- a plain course code string: `"CSCI 104"`, or
-- a dict naming specific chosen sections: `{"course": "CSCI 104", "sections": ["29903", "30119"]}`
+```json
+{ "course": "CSCI 104", "sections": ["29903", "30119"] }
+```
 
-When sections are given, seat availability, time conflicts, and lab/discussion
-pairing are checked against exactly those sections. When they aren't, those
-checks fall back to "is there at least one viable section" / "is every
-section full" across all of the course's sections.
+Sections are **required**, not optional — a plain course code string raises
+`ValueError`. The goal of this module is to catch what would make a real
+WebReg registration attempt fail, and WebReg itself requires a specific
+section, so there's no useful "check this course, no section chosen" state.
+All of a course's selected sections (e.g. a lecture and its lab) are treated
+as simultaneous commitments, not alternatives to choose between.
 
 ### `stars_summary`
 
@@ -148,10 +152,10 @@ flagging here instead of changing unilaterally.
 | D-clearance | warning (never a hard fail — see below) | `course_catalog.has_d_clearance` + `dept_clearance.json` | per-department `source_url` field already inside `dept_clearance.json` |
 | Prerequisites | fail / warning | `course_catalog.description` (best-effort GPA + course-code parsing) against `stars_summary` | — |
 | Not found in catalog | warning | `course_catalog` presence | — |
-| Seat availability | fail | `course_catalog` section `is_full` | — |
-| Lab/discussion pairing | fail / warning | `course_catalog.has_lab` / `has_discussion` + section `link_code` | — |
-| Major restrictions | fail / warning | `course_catalog.has_restrictions` + section `notes` (best-effort keyword match) | — |
-| Time conflict | fail / warning | section `days` / `start_time` / `end_time` | — |
+| Seat availability | fail | selected section(s) `is_full` | — |
+| Lab/discussion pairing | fail | `course_catalog.has_lab` / `has_discussion` + selected sections' `link_code` | — |
+| Major restrictions | fail / warning | `course_catalog.has_restrictions` + selected sections' `notes` (best-effort keyword match) | — |
+| Time conflict | fail | selected sections' `days` / `start_time` / `end_time` | — |
 | Unit overload | warning | sum of `course_catalog.units`, threshold = 18 | ⚠️ no authoritative source linked yet — needs a citation or should be dropped |
 
 D-clearance is always a `warning`, never a `fail`, because `dept_clearance.json`
@@ -168,12 +172,11 @@ specific course/section is blocked outright.
   instructor", unit-count-based requirements like "8 units of upper division
   ANTH courses") falls back to an unverified warning rather than a wrong
   pass/fail.
-- **Time conflict** is checked pairwise across all of a course's considered
-  sections. It's a hard `fail` only when *every* combination overlaps
-  (no viable choice avoids it); a `warning` when only some combinations do.
-  When a course has multiple selected sections at once (e.g. lecture + lab
-  both chosen), they're treated as alternative options for this comparison,
-  which can under-flag a conflict that only comes from one of them.
+- **Time conflict** is checked pairwise across each course's *selected*
+  sections only — it's a simple `fail` if any of them overlaps any of the
+  other course's selected sections. TBA or malformed section times are
+  excluded from the check but surfaced separately as a warning rather than
+  silently dropped.
 - Course codes are normalized to `"DEPT ###"` (single space) everywhere in
   this module.
 
