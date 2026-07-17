@@ -127,8 +127,10 @@ const allSections = (entry) =>
 // ─────────────────────────────────────────────────────────────
 // MOCK VALIDATOR — mirrors Tanzil's validate_next_semester().
 //
-// Input  : planned_courses — either ["CSCI 104"] (course-level)
-//                          or [{course: "CSCI 104", sections: ["29903","30119"]}]
+// Input  : planned_courses — [{course: "CSCI 104", sections: ["29903","30119"]}]
+//          sections are REQUIRED on every entry (per 4:46am thread — you
+//          can't check seats/conflicts/pairing without them, and allowing
+//          course-only input means two code paths to maintain).
 //          stars_report, course_catalog
 // Output : { overall_status, course_results: [{course, status, reasons}], summary }
 //
@@ -142,21 +144,16 @@ function mockValidate(plannedCourses, starsReport, catalog) {
   const levelOrder = { Freshman: 1, Sophomore: 2, Junior: 3, Senior: 4 };
   const classLevel = starsReport.classLevel;
 
-  // Accept both input shapes
-  const plans = plannedCourses.map((p) =>
-    typeof p === "string" ? { course: p, sections: null } : { course: p.course, sections: p.sections || null }
-  );
+  const plans = plannedCourses.map((p) => ({ course: p.course, sections: p.sections || [] }));
 
-  // Resolve each plan to the concrete sections we'll check times against.
-  // Sections supplied → check exactly those. Not supplied → fall back to
-  // "is there ANY combination that works" (current Python behaviour).
+  // Fail fast rather than silently validating something the student didn't ask for.
+  const missing = plans.filter((p) => !p.sections.length).map((p) => p.course);
+  if (missing.length) throw new Error(`sections are required for: ${missing.join(", ")}`);
+
   const resolved = {};
   plans.forEach(({ course, sections }) => {
-    const entry = catalog[normalizeCode(course)];
-    const pool = allSections(entry);
-    resolved[course] = sections && sections.length
-      ? pool.filter((s) => sections.includes(s.section_id))
-      : pool;
+    const pool = allSections(catalog[normalizeCode(course)]);
+    resolved[course] = pool.filter((s) => sections.includes(s.section_id));
   });
 
   // ── Time conflicts ──
@@ -172,27 +169,18 @@ function mockValidate(plannedCourses, starsReport, catalog) {
       const sa = resolved[A.course], sb = resolved[B.course];
       if (!sa.length || !sb.length) continue;
 
-      const exact = A.sections?.length && B.sections?.length;
-      if (exact) {
-        // Exact mode: flag any real clash between the chosen sections.
-        sa.forEach((x) => sb.forEach((y) => {
-          if (overlap(x, y)) {
-            const days = x.days.filter((d) => y.days.includes(d)).join("/");
-            (conflicts[A.course] ||= []).push(
-              `${A.course} (${x.section_id}) overlaps ${B.course} (${y.section_id}) on ${days}, ${fmt(x.start_time)}–${fmt(x.end_time)}.`
-            );
-            (conflicts[B.course] ||= []).push(
-              `${B.course} (${y.section_id}) overlaps ${A.course} (${x.section_id}) on ${days}, ${fmt(y.start_time)}–${fmt(y.end_time)}.`
-            );
-          }
-        }));
-      } else {
-        // Fallback mode: only a problem if NO combination works.
-        if (sa.every((x) => sb.every((y) => overlap(x, y)))) {
-          (conflicts[A.course] ||= []).push(`${A.course} has no section that avoids conflicting with ${B.course}.`);
-          (conflicts[B.course] ||= []).push(`${B.course} has no section that avoids conflicting with ${A.course}.`);
+      // Sections are always concrete, so a clash is a clash — fail.
+      sa.forEach((x) => sb.forEach((y) => {
+        if (overlap(x, y)) {
+          const days = x.days.filter((d) => y.days.includes(d)).join("/");
+          (conflicts[A.course] ||= []).push(
+            `${A.course} (${x.section_id}) overlaps ${B.course} (${y.section_id}) on ${days}, ${fmt(x.start_time)}–${fmt(x.end_time)}.`
+          );
+          (conflicts[B.course] ||= []).push(
+            `${B.course} (${y.section_id}) overlaps ${A.course} (${x.section_id}) on ${days}, ${fmt(y.start_time)}–${fmt(y.end_time)}.`
+          );
         }
-      }
+      }));
     }
   }
 
@@ -219,28 +207,17 @@ function mockValidate(plannedCourses, starsReport, catalog) {
     if (entry) {
       totalUnits += entry.units || 0;
 
-      if (sections && sections.length) {
-        // Section-level checks — only possible because sections were supplied.
-        picked.forEach((s) => {
-          if (s.is_full || s.open_seats === 0)
-            fail(`Section ${s.section_id} is full (${s.registered_seats}/${s.total_seats}).`);
-          if (s.has_d_clearance)
-            warn(`Section ${s.section_id} requires D-clearance from the department.`);
-          if (s.notes) warn(`Registration restriction: ${s.notes}`);
-        });
+      picked.forEach((s) => {
+        if (s.is_full || s.open_seats === 0)
+          fail(`Section ${s.section_id} is full (${s.registered_seats}/${s.total_seats}).`);
+        if (s.has_d_clearance)
+          warn(`Section ${s.section_id} requires D-clearance from the department.`);
+        if (s.notes) warn(`Registration restriction: ${s.notes}`);
+      });
 
-        const types = new Set(picked.map((s) => s.section_type));
-        if (entry.has_lab && !types.has("labs")) fail(`${course} requires a lab section — none selected.`);
-        if (entry.has_discussion && !types.has("discussions")) fail(`${course} requires a discussion section — none selected.`);
-      } else {
-        // Course-level fallback.
-        const pool = allSections(entry);
-        if (pool.length && pool.every((s) => s.is_full)) fail(`Every section of ${course} is full.`);
-        if (entry.has_d_clearance) warn(`${course} requires departmental clearance (D-clearance).`);
-        const comps = [entry.has_lab && "lab", entry.has_discussion && "discussion"].filter(Boolean);
-        if (comps.length) warn(`${course} requires a linked ${comps.join("/")} section.`);
-        if (entry.has_restrictions) warn(`${course} has registration restrictions — check section notes.`);
-      }
+      const types = new Set(picked.map((s) => s.section_type));
+      if (entry.has_lab && !types.has("labs")) fail(`${course} requires a lab section — none selected.`);
+      if (entry.has_discussion && !types.has("discussions")) fail(`${course} requires a discussion section — none selected.`);
 
       if (entry.description && /prereq|requisite/i.test(entry.description))
         warn(`Prerequisite note (unverified): ${entry.description}`);
@@ -369,6 +346,11 @@ export default function App() {
   }));
 
   const totalUnits = expanded.reduce((sum, c) => sum + (MOCK_CATALOG[c]?.units || 0), 0);
+
+  // Sections are required on every entry, so the GUI enforces it rather than
+  // letting an invalid payload reach the validator.
+  const needSections = payload.filter((p) => !p.sections.length).map((p) => p.course);
+  const canValidate = expanded.length > 0 && needSections.length === 0;
   const runValidate = () => setResult(mockValidate(payload, MOCK_STARS, MOCK_CATALOG));
 
   return (
@@ -476,13 +458,18 @@ export default function App() {
 
           <Calendar blocks={blocks} />
 
-          <button onClick={runValidate} disabled={expanded.length === 0}
+          <button onClick={runValidate} disabled={!canValidate}
             style={{ width: "100%", marginTop: 14, padding: "11px", borderRadius: 8, border: "none",
-              cursor: expanded.length ? "pointer" : "not-allowed",
-              background: expanded.length ? "#238636" : "#21262d",
-              color: expanded.length ? "#fff" : "#484f58", fontWeight: 600, fontSize: 14, fontFamily: "inherit" }}>
+              cursor: canValidate ? "pointer" : "not-allowed",
+              background: canValidate ? "#238636" : "#21262d",
+              color: canValidate ? "#fff" : "#484f58", fontWeight: 600, fontSize: 14, fontFamily: "inherit" }}>
             Validate schedule
           </button>
+          {needSections.length > 0 && (
+            <div style={{ marginTop: 7, fontSize: 12, color: "#7d8590", textAlign: "center" }}>
+              Pick at least one section for {needSections.join(", ")} to validate.
+            </div>
+          )}
 
           {result && (
             <div style={{ marginTop: 14 }}>
