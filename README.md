@@ -1,8 +1,8 @@
 # bbh-course-reg-project
 
 ## Repository layout
-Repository layout section text here, starting with:
-​```
+
+```
 .
 ├── stars-parser/              Module 1 — STARS report parsing (JavaScript, client-side)
 │   ├── index.js                 Entry point; orchestrates extraction + parsing
@@ -29,11 +29,7 @@ Repository layout section text here, starting with:
 ├── dept_clearance.json        D-clearance requirements + instructions, keyed by dept prefix
 ├── .gitignore
 └── README.md                  You are here
-
-.
-├── stars-parser/  ...
-​```
-
+```
 ## ⚠️ Note: the STARS redactor is a separate internal tool — NOT in this repo
 
 The tool that de-identifies real STARS report PDFs (removes student PII and
