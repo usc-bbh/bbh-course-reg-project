@@ -1,4 +1,5 @@
 import React, { useState, useMemo, useEffect, useRef } from "react";
+import { parseStarsReport } from "../stars-parser";
 
 // ─────────────────────────────────────────────────────────────
 // MOCK CATALOG — shaped like catalog/README.md schema v6.
@@ -92,8 +93,10 @@ const MOCK_CATALOG = {
   },
 };
 
-// Avi's parser output shape (camelCase, no-space codes)
-const MOCK_STARS = {
+// Demo fallback only — used before a real STARS PDF is uploaded, or if
+// parsing fails and the student hasn't filled in manual entry yet.
+// Matches Avi's real parser output shape exactly (see stars-parser/README.md).
+const DEMO_STARS = {
   completedCourses: [{ code: "CSCI103", grade: "A" }, { code: "MATH225", grade: "B+" }, { code: "WRIT150", grade: "A-" }],
   inProgressCourses: [],
   classLevel: "Junior",
@@ -363,9 +366,41 @@ async function loadPyodideValidator() {
   return pyodide;
 }
 
-// Mock dept_clearance data — replace with a real fetch of dept_clearance.json
-// once the static hosting is set up.
-const MOCK_DEPT_CLEARANCE = { _schema_version: "1.0", departments: [] };
+// Mock dept_clearance data — trimmed to departments relevant to MOCK_CATALOG.
+// Real file (from Tanzil's repo) has ~90 entries; this is a subset for demo
+// purposes. Once static hosting is set up, fetch the real dept_clearance.json
+// instead of using this constant.
+const MOCK_DEPT_CLEARANCE = {
+  _schema_version: "1.4",
+  _lookup_logic: "Match on dept_code (course prefix) first. If no match, fall back to entries where type='school_fallback' and school matches the course's school.",
+  departments: [
+    {
+      dept_code: "ACCT",
+      dept_name: "Accounting (Leventhal School of Accounting)",
+      school: "Marshall",
+      clearance_required_for: "ACCT 370 and ACCT 371 are D-clearance at all times. Most other ACCT courses switch to D-clearance at the end of Week 2.",
+      how_to_get_clearance: "Contact your Leventhal academic advisor or email leventhalug@marshall.usc.edu.",
+      contact_email: "leventhalug@marshall.usc.edu",
+      contact_office: "Leventhal School of Accounting, ACC 101",
+      contact_phone: "(213) 740-4838",
+      typical_turnaround: "2-3 business days",
+      verified: true,
+    },
+    {
+      dept_code: "BUCO",
+      dept_name: "Business Communication (Marshall General)",
+      also_covers_prefixes: ["FBE", "DSO", "MOR", "MKT"],
+      school: "Marshall",
+      clearance_required_for: "BUCO electives switch to D-clearance at the end of Week 1. Directed research, internships, and honors courses are D-clearance at all times.",
+      how_to_get_clearance: "Email undergrad.advising@marshall.usc.edu with your full name, USC ID, USC email, course number, major, and graduating semester.",
+      contact_email: "undergrad.advising@marshall.usc.edu",
+      contact_office: "Jill and Frank Fertitta Hall (JFF) 201",
+      contact_phone: "213-740-0690",
+      typical_turnaround: "2-3 business days",
+      verified: true,
+    },
+  ],
+};
 
 export default function App() {
   const [expanded, setExpanded] = useState([]);   // course names shown in picker
@@ -373,6 +408,48 @@ export default function App() {
   const [query, setQuery] = useState("");
   const [result, setResult] = useState(null);
   const [validating, setValidating] = useState(false);
+
+  // ── Real STARS upload state ──
+  // starsReport starts as the demo fallback; once a student uploads a real
+  // PDF, this becomes Avi's actual parsed output. Everything downstream
+  // (Pyodide call, mock fallback, the STARS badge) reads from this state,
+  // not a hardcoded constant.
+  const [starsReport, setStarsReport] = useState(DEMO_STARS);
+  const [starsSource, setStarsSource] = useState("demo"); // "demo" | "parsing" | "parsed" | "manual" | "failed"
+  const [starsStatusMsg, setStarsStatusMsg] = useState("");
+  const fileInputRef = useRef(null);
+
+  const handleStarsUpload = async (e) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    setStarsSource("parsing");
+    setStarsStatusMsg("Reading file…");
+    setResult(null);
+
+    try {
+      const parsed = await parseStarsReport(file, {
+        onStatus: (msg) => setStarsStatusMsg(msg),
+        onProgress: (page, total) => setStarsStatusMsg(`OCR: page ${page}/${total}`),
+      });
+
+      if (!parsed) {
+        // Parser explicitly returned null — both text extraction and OCR failed.
+        // Per Avi's README, this is the signal to prompt manual entry.
+        setStarsSource("failed");
+        setStarsStatusMsg("Couldn't read this PDF automatically. Manual entry needed.");
+        return;
+      }
+
+      setStarsReport(parsed);
+      setStarsSource("parsed");
+      setStarsStatusMsg(`Parsed — ${parsed.classLevel}, ${parsed.completedCourses.length} completed courses.`);
+    } catch (err) {
+      console.error("[stars] Parse error:", err);
+      setStarsSource("failed");
+      setStarsStatusMsg(`Parse error: ${err.message}. Manual entry needed.`);
+    }
+  };
 
   // Pyodide state
   const [pyodideStatus, setPyodideStatus] = useState("loading"); // "loading" | "ready" | "fallback"
@@ -447,14 +524,14 @@ export default function App() {
         const bridge = pyodideRef.current.globals.get("_bridge_validate");
         const resultJson = bridge(
           JSON.stringify(payload),
-          JSON.stringify(MOCK_STARS),
+          JSON.stringify(starsReport),
           JSON.stringify(MOCK_CATALOG),
           JSON.stringify(MOCK_DEPT_CLEARANCE)
         );
         setResult(JSON.parse(resultJson));
       } else {
         // ── Fallback: JS mock (delete this once Pyodide is confirmed working) ──
-        setResult(mockValidate(payload, MOCK_STARS, MOCK_CATALOG));
+        setResult(mockValidate(payload, starsReport, MOCK_CATALOG));
       }
     } catch (err) {
       console.error("[validator] Validation error:", err);
@@ -481,15 +558,29 @@ export default function App() {
           <div style={{ fontSize: 12.5, color: "#7d8590", marginTop: 2 }}>Pick your sections for Fall 2026, then check the schedule before you register.</div>
         </div>
         <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
-          <div className="mono" style={{ fontSize: 11.5, color: "#7d8590", background: "#161b22", border: "1px solid #21262d", borderRadius: 6, padding: "4px 10px" }}>
-            STARS · {MOCK_STARS.classLevel} · {MOCK_STARS.completedCourses.length} completed
-          </div>
+          <input ref={fileInputRef} type="file" accept="application/pdf" onChange={handleStarsUpload} style={{ display: "none" }} />
+          <button onClick={() => fileInputRef.current?.click()}
+            className="mono"
+            style={{ fontSize: 11.5, color: starsSource === "parsed" ? "#3fb950" : starsSource === "failed" ? "#f85149" : "#7d8590",
+              background: "#161b22", border: "1px solid #21262d", borderRadius: 6, padding: "4px 10px", cursor: "pointer", fontFamily: "inherit" }}>
+            {starsSource === "parsing" ? (starsStatusMsg || "Parsing…")
+              : starsSource === "parsed" ? `✓ STARS uploaded · ${starsReport.classLevel} · ${starsReport.completedCourses.length} completed`
+              : starsSource === "failed" ? "⚠ Parse failed — click to retry"
+              : `STARS · ${starsReport.classLevel} (demo) · ${starsReport.completedCourses.length} completed · click to upload real PDF`}
+          </button>
           <div className="mono" style={{ fontSize: 10, color: pyodideStatus === "ready" ? "#3fb950" : pyodideStatus === "loading" ? "#f59e0b" : "#7d8590",
             background: "#161b22", border: "1px solid #21262d", borderRadius: 6, padding: "4px 8px" }}>
             {pyodideStatus === "ready" ? "✓ Python" : pyodideStatus === "loading" ? "⏳ Loading Pyodide…" : "JS mock"}
           </div>
         </div>
       </div>
+
+      {starsSource === "failed" && (
+        <div style={{ margin: "0 24px", padding: "10px 14px", background: "#3a1518", border: "1px solid #7f1d1d", borderRadius: 8, fontSize: 12.5, color: "#e6edf3" }}>
+          Couldn't read that STARS PDF automatically (tried direct text extraction and OCR). Per Avi's parser, this means manual entry is needed —
+          that flow isn't built in this GUI yet, so demo data is being used for now. Try a different PDF, or continue with the click above.
+        </div>
+      )}
 
       <div style={{ display: "grid", gridTemplateColumns: "minmax(340px, 420px) 1fr", gap: 20, padding: 24, alignItems: "start" }}>
 
