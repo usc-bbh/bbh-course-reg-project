@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from "react";
+import React, { useState, useMemo, useEffect, useRef } from "react";
 
 // ─────────────────────────────────────────────────────────────
 // MOCK CATALOG — shaped like catalog/README.md schema v6.
@@ -302,11 +302,98 @@ const STATUS = {
   pass: { bg: "#0d2818", border: "#166534", dot: "#22c55e", label: "OK", icon: "\u2713" },
 };
 
+// ─────────────────────────────────────────────────────────────
+// Pyodide integration layer.
+//
+// On mount, tries to load Pyodide + Tanzil's validator. If it
+// succeeds, all validation runs in Python (single source of truth).
+// If it fails (no network, CDN down, dev environment without
+// Pyodide script tag), falls back to mockValidate() with a visible
+// banner so you always know which path is active.
+//
+// To fully enable Pyodide in your environment:
+//   1. Serve the app from a local dev server (not file://)
+//   2. Place validate_next_semester.py at ./validator/
+//   3. Pyodide CDN loads automatically
+//
+// Once Pyodide is confirmed working, delete mockValidate() entirely.
+// ─────────────────────────────────────────────────────────────
+const PYODIDE_CDN = "https://cdn.jsdelivr.net/pyodide/v0.26.4/full/";
+const VALIDATOR_PY_URL = "./validator/validate_next_semester.py";
+
+const BRIDGE_PY = `
+import json
+from dataclasses import asdict
+
+def _bridge_validate(planned_json, stars_json, catalog_json, clearance_json):
+    planned = json.loads(planned_json)
+    stars = json.loads(stars_json)
+    catalog = json.loads(catalog_json)
+    clearance = json.loads(clearance_json)
+    result = validate_next_semester(planned, stars, catalog, clearance)
+    return json.dumps(asdict(result))
+`;
+
+async function loadPyodideValidator() {
+  // Dynamically load the Pyodide script if not already present
+  if (typeof globalThis.loadPyodide === "undefined") {
+    await new Promise((resolve, reject) => {
+      const s = document.createElement("script");
+      s.src = `${PYODIDE_CDN}pyodide.js`;
+      s.onload = resolve;
+      s.onerror = () => reject(new Error("Pyodide CDN script failed to load"));
+      document.head.appendChild(s);
+    });
+  }
+
+  const pyodide = await globalThis.loadPyodide({ indexURL: PYODIDE_CDN });
+
+  // Fetch Tanzil's validator source
+  const resp = await fetch(VALIDATOR_PY_URL);
+  if (!resp.ok) throw new Error(`Fetch validator failed: ${resp.status}`);
+  let src = await resp.text();
+
+  // Strip the if __name__ == "__main__" block — it tries to read
+  // fixture files from disk which don't exist in the browser.
+  src = src.replace(/if\s+__name__\s*==\s*["']__main__["'][\s\S]*/, "");
+
+  await pyodide.runPythonAsync(src);
+  await pyodide.runPythonAsync(BRIDGE_PY);
+
+  return pyodide;
+}
+
+// Mock dept_clearance data — replace with a real fetch of dept_clearance.json
+// once the static hosting is set up.
+const MOCK_DEPT_CLEARANCE = { _schema_version: "1.0", departments: [] };
+
 export default function App() {
   const [expanded, setExpanded] = useState([]);   // course names shown in picker
   const [picked, setPicked] = useState({});        // section_id -> {course_name, ...section}
   const [query, setQuery] = useState("");
   const [result, setResult] = useState(null);
+  const [validating, setValidating] = useState(false);
+
+  // Pyodide state
+  const [pyodideStatus, setPyodideStatus] = useState("loading"); // "loading" | "ready" | "fallback"
+  const pyodideRef = useRef(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    loadPyodideValidator()
+      .then((pyodide) => {
+        if (cancelled) return;
+        pyodideRef.current = pyodide;
+        setPyodideStatus("ready");
+        console.log("[validator] Pyodide loaded — using Python validator.");
+      })
+      .catch((err) => {
+        if (cancelled) return;
+        console.warn("[validator] Pyodide unavailable, using JS mock fallback:", err.message);
+        setPyodideStatus("fallback");
+      });
+    return () => { cancelled = true; };
+  }, []);
 
   const courseNames = Object.keys(MOCK_CATALOG);
   const suggestions = useMemo(() => {
@@ -350,8 +437,35 @@ export default function App() {
   // Sections are required on every entry, so the GUI enforces it rather than
   // letting an invalid payload reach the validator.
   const needSections = payload.filter((p) => !p.sections.length).map((p) => p.course);
-  const canValidate = expanded.length > 0 && needSections.length === 0;
-  const runValidate = () => setResult(mockValidate(payload, MOCK_STARS, MOCK_CATALOG));
+  const canValidate = expanded.length > 0 && needSections.length === 0 && !validating;
+
+  const runValidate = async () => {
+    setValidating(true);
+    try {
+      if (pyodideStatus === "ready" && pyodideRef.current) {
+        // ── Real path: call Tanzil's Python via Pyodide ──
+        const bridge = pyodideRef.current.globals.get("_bridge_validate");
+        const resultJson = bridge(
+          JSON.stringify(payload),
+          JSON.stringify(MOCK_STARS),
+          JSON.stringify(MOCK_CATALOG),
+          JSON.stringify(MOCK_DEPT_CLEARANCE)
+        );
+        setResult(JSON.parse(resultJson));
+      } else {
+        // ── Fallback: JS mock (delete this once Pyodide is confirmed working) ──
+        setResult(mockValidate(payload, MOCK_STARS, MOCK_CATALOG));
+      }
+    } catch (err) {
+      console.error("[validator] Validation error:", err);
+      setResult({
+        overall_status: "invalid",
+        course_results: [{ course: "System", status: "fail", reasons: [`Validation error: ${err.message}`] }],
+        summary: { total_units: totalUnits, warnings: [] },
+      });
+    }
+    setValidating(false);
+  };
 
   return (
     <div style={{ fontFamily: "'DM Sans', system-ui, sans-serif", background: "#0d1117", color: "#e6edf3", minHeight: "100vh" }}>
@@ -366,8 +480,14 @@ export default function App() {
           <div style={{ fontSize: 19, fontWeight: 700, letterSpacing: "-0.02em" }}>Next semester validator</div>
           <div style={{ fontSize: 12.5, color: "#7d8590", marginTop: 2 }}>Pick your sections for Fall 2026, then check the schedule before you register.</div>
         </div>
-        <div className="mono" style={{ fontSize: 11.5, color: "#7d8590", background: "#161b22", border: "1px solid #21262d", borderRadius: 6, padding: "4px 10px" }}>
-          STARS · {MOCK_STARS.classLevel} · {MOCK_STARS.completedCourses.length} completed
+        <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
+          <div className="mono" style={{ fontSize: 11.5, color: "#7d8590", background: "#161b22", border: "1px solid #21262d", borderRadius: 6, padding: "4px 10px" }}>
+            STARS · {MOCK_STARS.classLevel} · {MOCK_STARS.completedCourses.length} completed
+          </div>
+          <div className="mono" style={{ fontSize: 10, color: pyodideStatus === "ready" ? "#3fb950" : pyodideStatus === "loading" ? "#f59e0b" : "#7d8590",
+            background: "#161b22", border: "1px solid #21262d", borderRadius: 6, padding: "4px 8px" }}>
+            {pyodideStatus === "ready" ? "✓ Python" : pyodideStatus === "loading" ? "⏳ Loading Pyodide…" : "JS mock"}
+          </div>
         </div>
       </div>
 
@@ -463,7 +583,7 @@ export default function App() {
               cursor: canValidate ? "pointer" : "not-allowed",
               background: canValidate ? "#238636" : "#21262d",
               color: canValidate ? "#fff" : "#484f58", fontWeight: 600, fontSize: 14, fontFamily: "inherit" }}>
-            Validate schedule
+            {validating ? "Validating…" : "Validate schedule"}
           </button>
           {needSections.length > 0 && (
             <div style={{ marginTop: 7, fontSize: 12, color: "#7d8590", textAlign: "center" }}>
