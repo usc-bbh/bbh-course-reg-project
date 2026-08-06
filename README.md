@@ -22,8 +22,8 @@
 │   │                            REQUIREMENTS (Python). Not the Schedule of Classes.
 │   ├── src/usc_catalog_scraper/     Layered HTTP→browser acquisition, structural
 │   │                                content-region selection, output validation
-│   ├── tools/to_requirements_json.py  .txt → requirements JSON for the audit engine
-│   ├── data/                        470 verified programme files (2026-2027) + JSON
+│   ├── tools/                       Corpus audit, runtime + repeatability checks
+│   ├── data/                        470 verified programme files (2026-2027)
 │   ├── macos_app/                   Double-clickable wrapper that asks for the year
 │   ├── docs/                        Design guide + incident report
 │   └── README.md                    Requirements schema contract
