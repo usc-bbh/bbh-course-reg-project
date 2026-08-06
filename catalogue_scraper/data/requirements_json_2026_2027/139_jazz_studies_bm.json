@@ -1,0 +1,1023 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Jazz Studies (BM)",
+    "credential": "BM",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32230",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32230&returnto=9396",
+    "source_text_file": "139_jazz_studies_bm.txt",
+    "source_content_sha256": "4f553fed7084ca1784b788c0e2b573011ae964705bf703de26411bc260ebe3e7",
+    "retrieved_at": "2026-07-31T00:55:21Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Curriculum Requirements for Non-Guitar\n\n---\n\n### General Education *\n\n---\n\n#### Core Literacies\n\n---\n\nGE-A: The Arts (one course)\n\nGE-B: Humanistic Inquiry (two courses)\n\nGE-C: Social Analysis (two courses)\n\nGE-D: Life Sciences (one course)\n\nGE-E: Physical Sciences (one course)\n\nGE-F: Quantitative Reasoning (one course)\n\n#### Global Perspectives\n\n---\n\nGE-G: Global Perspectives I (one course)\n\nGE-H: Global Perspectives II (one course)\n\n#### Writing\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4\n\n### Core Thornton Academic Courses (24 units)\n\n---\n\n- MUCO 132a Aural Skills I Units: 2\n- MUCO 132b Aural Skills I Units: 2\n- MUCO 133a Theory I Units: 3\n- MUCO 133b Theory I Units: 3\n- MUSC 496 Careers in Music Units: 2\n- MUHL 250g Music and Ideas Units: 4\n- MUJZ 350g A History of Jazz Music Units: 4\n- MUSC 250gmw The Music of Black Americans Units: 4\n\n### Program Specific Courses (58 units)\n\n---\n\n#### Individual Instruction (16 units)\n\n---\n\n- MUJZ 153 Individual Instruction Units: 1, 2\n- 4 units total of MUJZ 153 in your primary instrument\n- MUJZ 253 Individual Instruction Units: 1, 2\n- 4 units total of MUJZ 253 in your primary instrument\n- MUJZ 353 Individual Instruction Units: 1, 2\n- 4 units total of MUJZ 353 in your primary instrument\n- MUJZ 453 Individual Instruction Units: 1, 2\n- 4 units total of MUJZ 453 in your primary instrument\n\n#### Ensembles (14 units)**\n\n---\n\nSelect 14 units from the following as directed by the department:\n\n- MUEN 305 Vocal Jazz Ensemble Units: 1\n- MUEN 326 Guitar Ensemble Units: 1\n- MUEN 329 Jazz Ensemble Units: 1\n- MUEN 332 Jazz Chamber Music Units: 1\n- MUJZ 311 Vocal Jazz Techniques Units: 2 **\n- ** Vocal Jazz students will only be required to completed 12-units of ensemble and will be required to take MUJZ 311 Vocal Jazz Techniques as the remaining 2-units.",
+      "#### Program Intensive Courses (28 units)\n\n---\n\n- Complete 4 units of MUJZ 195 or MUJZ 197ab, as listed for your primary instrument:\n- MUJZ 195L Jazz Elements I Units: 2\n- 4 units total of MUJZ 195 required for all jazz instrumentalists (non-vocal jazz)\n- or\n- MUJZ 197a Vocal Jazz Elements I Units: 2\n- MUJZ 197b Vocal Jazz Elements I Units: 2\n- 4 units total of MUJZ 197ab required for all vocal jazz (non-jazz instrumentalists)\n-\n- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2\n- MUIN 270 Introduction to the Music Industry Units: 4\n- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2\n- MUJZ 305a Advanced Jazz Theory Units: 2\n- MUJZ 305b Advanced Jazz Theory Units: 2\n- MUJZ 395 Jazz Elements II Units: 2\n- 4 units total of MUJZ 395\n- MUJZ 400 Arranging for Jazz Ensemble Units: 2\n- Select 2 units from the following as directed by the department:\n- MPGU 415 Studio Guitar Pedagogy Units: 2\n- MUJZ 443 Jazz Pedagogy Units: 2\n- ​Select 4 units from the following:\n- MTEC 245 Introduction to MIDI Sequencing Units: 1\n- MTEC 246 Introduction to Audio Recording and Editing Units: 1\n- MTEC 248 Introduction to Music Notation Units: 1\n- MTEC 249 Introduction to Web Design for Musicians Units: 1\n- MTEC 443 Desktop Music Production Units: 2\n- MTEC 444 Non-Linear MIDI Sequencing Units: 2\n- MTEC 445 Advanced Desktop Music Production Units: 2\n- MTEC 446a Computer Assisted Recording and Editing Units: 2\n- MTEC 446b Computer Assisted Recording and Editing Units: 2\n- MTEC 474a Electronic Synthesizer Techniques Units: 2, 3, 4\n\n### Electives (18 units)\n\n---\n\n### Capstone Project\n\n---\n\nSenior Recital or Senior Project: 0 units\n\n## Total required for degree: 132\n\n---\n\n* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.",
+      "## Curriculum Requirements for Guitar\n\n---\n\n### General Education *\n\n---\n\n​​​​​​​​\n\n#### Core Literacies\n\n---\n\nGE-A: The Arts (one course)\n\nGE-B: Humanistic Inquiry (two courses)\n\nGE-C: Social Analysis (two courses)\n\nGE-D: Life Sciences (one course)\n\nGE-E: Physical Sciences (one course)\n\nGE-F: Quantitative Reasoning (one course)\n\n#### Global Perspectives\n\n---\n\nGE-G: Citizenship in a Global Era (one course)\n\nGE-H: Traditions and Historical Foundations (one course)\n\n#### Writing\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4\n\n### Core Thornton Academic Courses (24 units)\n\n---\n\n- MUCO 132a Aural Skills I Units: 2\n- MUCO 132b Aural Skills I Units: 2\n- MUCO 133a Theory I Units: 3\n- MUCO 133b Theory I Units: 3\n- MUSC 496 Careers in Music Units: 2\n- MUHL 250g Music and Ideas Units: 4\n- MUJZ 350g A History of Jazz Music Units: 4\n- MUSC 250gmw The Music of Black Americans Units: 4\n\n### Program Specific Courses (58 units)\n\n---\n\n#### Individual Instruction (16 units)\n\n---\n\n- MUJZ 153 Individual Instruction Units: 1, 2\n- 4 units total of MUJZ 153 (Guitar)\n- MUJZ 253 Individual Instruction Units: 1, 2\n- 4 units total of MUJZ 253 (Guitar)\n- MUJZ 353 Individual Instruction Units: 1, 2\n- 4 units total of MUJZ 353 (Guitar)\n- MUJZ 453 Individual Instruction Units: 1, 2\n- 4 units total of MUJZ 453 (Guitar)\n\n#### Ensembles (6 units)\n\n---\n\n- MUEN 326 Guitar Ensemble Units: 1\n- 2 units total of MUEN 326\n- Select 4 units from the following as directed by the department:\n- MUEN 305 Vocal Jazz Ensemble Units: 1\n- MUEN 326 Guitar Ensemble\n- MUEN 329 Jazz Ensemble Units: 1\n- MUEN 332 Jazz Chamber Music Units: 1\n\n#### Program Intensive Courses (26 units)\n\n---\n\n- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2\n- MUIN 270 Introduction to the Music Industry Units: 4\n- MUJZ 195L Jazz Elements I Units: 2\n- 4 units total of MUJZ 195\n- MUJZ 305a Advanced Jazz Theory Units: 2\n- MUJZ 305b Advanced Jazz Theory Units: 2\n- MUJZ 395 Jazz Elements II Units: 2\n- 4 units total of MUJZ 395\n- MUJZ 400 Arranging for Jazz Ensemble Units: 2\n- Select 2 units from the following as directed by the department:\n- MPGU 415 Studio Guitar Pedagogy Units: 2\n- MUJZ 443 Jazz Pedagogy Units: 2\n- Select 4 units from the following:\n- MTEC 245 Introduction to MIDI Sequencing Units: 1\n- MTEC 246 Introduction to Audio Recording and Editing Units: 1\n- MTEC 248 Introduction to Music Notation Units: 1\n- MTEC 249 Introduction to Web Design for Musicians Units: 1\n- MTEC 443 Desktop Music Production Units: 2\n- MTEC 444 Non-Linear MIDI Sequencing Units: 2\n- MTEC 445 Advanced Desktop Music Production Units: 2\n- MTEC 446a Computer Assisted Recording and Editing Units: 2\n- MTEC 446b Computer Assisted Recording and Editing Units: 2\n- MTEC 474a Electronic Synthesizer Techniques Units: 2, 3, 4\n\n#### Guitar Intensive Courses (10 units)\n\n---\n\n- MPGU 160a Functional Skills for the Jazz Guitarist Units: 2\n- MPGU 160b Functional Skills for the Jazz Guitarist Units: 2\n- MPGU 260 Improvising and Arranging for Jazz Guitar Units: 2\n- Select 4 units from the following as directed by the department:\n- MPGU 420 Guitar Styles Units: 2\n- MPGU 460 Advanced Improvising and Arranging for Jazz Guitar Units: 2\n- MPGU 462 Recording and Producing Techniques for the Guitarist Units: 2\n\n### Electives (18 units)\n\n---\n\n### Capstone Project\n\n---\n\nSenior Recital or Senior Project: 0 units\n\n## Total required for degree: 132\n\n---\n\n* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements."
+    ],
+    "course_entry_count": 85,
+    "distinct_course_codes": 47,
+    "section_count": 31
+  },
+  "sections": [
+    {
+      "title": "Overview",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Music in Jazz Studies consists of course work in the major, core music studies (theory, aural skills, music history, ensemble) and USC's general education and writing program.",
+          "source_line": "The Bachelor of Music in Jazz Studies consists of course work in the major, core music studies (theory, aural skills, music history, ensemble) and USC's general education and writing program."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Entrance Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees. Specific entrance requirements are reviewed on an annual basis and published online at music.usc.edu.",
+          "source_line": "Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees. Specific entrance requirements are reviewed on an annual basis and published online at music.usc.edu."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "USC's General Education program, revised in fall 2015, provides a coherent, integrated approach to the study of the liberal arts, with the goal of nurturing habits of thought that are essential for professional success, personal development, and meaningful lifelong learning. Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC. With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements. Academic advisers in the Thornton School carefully guide Thornton students in making their course choices. This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements.",
+          "source_line": "USC's General Education program, revised in fall 2015, provides a coherent, integrated approach to the study of the liberal arts, with the goal of nurturing habits of thought that are essential for professional success, personal development, and meaningful lifelong learning. Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC. With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements. Academic advisers in the Thornton School carefully guide Thornton students in making their course choices. This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Project",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A senior recital or senior project must be completed under approved faculty supervision and guidance. The faculty of the department of the student's major program determines the detailed requirements of the recital or project, including content, length, format and/or other specifications. Note that senior projects must first be approved by the Jazz faculty. In cases in which a performance venue is required in order to present the recital, reservations must be made according to the current guidelines of the Music Operations office.",
+          "source_line": "A senior recital or senior project must be completed under approved faculty supervision and guidance. The faculty of the department of the student's major program determines the detailed requirements of the recital or project, including content, length, format and/or other specifications. Note that senior projects must first be approved by the Jazz faculty. In cases in which a performance venue is required in order to present the recital, reservations must be made according to the current guidelines of the Music Operations office."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Curriculum Requirements for Non-Guitar",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education *",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Literacies",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-A: The Arts (one course)",
+          "source_line": "GE-A: The Arts (one course)"
+        },
+        {
+          "text": "GE-B: Humanistic Inquiry (two courses)",
+          "source_line": "GE-B: Humanistic Inquiry (two courses)"
+        },
+        {
+          "text": "GE-C: Social Analysis (two courses)",
+          "source_line": "GE-C: Social Analysis (two courses)"
+        },
+        {
+          "text": "GE-D: Life Sciences (one course)",
+          "source_line": "GE-D: Life Sciences (one course)"
+        },
+        {
+          "text": "GE-E: Physical Sciences (one course)",
+          "source_line": "GE-E: Physical Sciences (one course)"
+        },
+        {
+          "text": "GE-F: Quantitative Reasoning (one course)",
+          "source_line": "GE-F: Quantitative Reasoning (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Global Perspectives",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-G: Global Perspectives I (one course)",
+          "source_line": "GE-G: Global Perspectives I (one course)"
+        },
+        {
+          "text": "GE-H: Global Perspectives II (one course)",
+          "source_line": "GE-H: Global Perspectives II (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Writing",
+      "level": 4,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Thornton Academic Courses (24 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MUCO 132a",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132a Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 132b",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132b Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 133a",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133a Theory I Units: 3"
+        },
+        {
+          "code": "MUCO 133b",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133b Theory I Units: 3"
+        },
+        {
+          "code": "MUSC 496",
+          "title": "Careers in Music",
+          "units": 2.0,
+          "source_line": "- MUSC 496 Careers in Music Units: 2"
+        },
+        {
+          "code": "MUHL 250g",
+          "title": "Music and Ideas",
+          "units": 4.0,
+          "source_line": "- MUHL 250g Music and Ideas Units: 4"
+        },
+        {
+          "code": "MUJZ 350g",
+          "title": "A History of Jazz Music",
+          "units": 4.0,
+          "source_line": "- MUJZ 350g A History of Jazz Music Units: 4"
+        },
+        {
+          "code": "MUSC 250gmw",
+          "title": "The Music of Black Americans",
+          "units": 4.0,
+          "source_line": "- MUSC 250gmw The Music of Black Americans Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Specific Courses (58 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Individual Instruction (16 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MUJZ 153",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MUJZ 153 Individual Instruction Units: 1, 2"
+        },
+        {
+          "code": "MUJZ 253",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MUJZ 253 Individual Instruction Units: 1, 2"
+        },
+        {
+          "code": "MUJZ 353",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MUJZ 353 Individual Instruction Units: 1, 2"
+        },
+        {
+          "code": "MUJZ 453",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MUJZ 453 Individual Instruction Units: 1, 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "4 units total of MUJZ 153 in your primary instrument",
+          "source_line": "- 4 units total of MUJZ 153 in your primary instrument"
+        },
+        {
+          "text": "4 units total of MUJZ 253 in your primary instrument",
+          "source_line": "- 4 units total of MUJZ 253 in your primary instrument"
+        },
+        {
+          "text": "4 units total of MUJZ 353 in your primary instrument",
+          "source_line": "- 4 units total of MUJZ 353 in your primary instrument"
+        },
+        {
+          "text": "4 units total of MUJZ 453 in your primary instrument",
+          "source_line": "- 4 units total of MUJZ 453 in your primary instrument"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Ensembles (14 units)**",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MUEN 305",
+          "title": "Vocal Jazz Ensemble",
+          "units": 1.0,
+          "source_line": "- MUEN 305 Vocal Jazz Ensemble Units: 1"
+        },
+        {
+          "code": "MUEN 326",
+          "title": "Guitar Ensemble",
+          "units": 1.0,
+          "source_line": "- MUEN 326 Guitar Ensemble Units: 1"
+        },
+        {
+          "code": "MUEN 329",
+          "title": "Jazz Ensemble",
+          "units": 1.0,
+          "source_line": "- MUEN 329 Jazz Ensemble Units: 1"
+        },
+        {
+          "code": "MUEN 332",
+          "title": "Jazz Chamber Music",
+          "units": 1.0,
+          "source_line": "- MUEN 332 Jazz Chamber Music Units: 1"
+        },
+        {
+          "code": "MUJZ 311",
+          "title": "Vocal Jazz Techniques  **",
+          "units": 2.0,
+          "source_line": "- MUJZ 311 Vocal Jazz Techniques Units: 2 **"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select 14 units from the following as directed by the department:",
+          "source_line": "Select 14 units from the following as directed by the department:"
+        },
+        {
+          "text": "** Vocal Jazz students will only be required to completed 12-units of ensemble and will be required to take MUJZ 311 Vocal Jazz Techniques as the remaining 2-units. All other jazz instrumentalists must complete 14-units of ensemble to complete the ensemble requirement.",
+          "source_line": "- ** Vocal Jazz students will only be required to completed 12-units of ensemble and will be required to take MUJZ 311 Vocal Jazz Techniques as the remaining 2-units. All other jazz instrumentalists must complete 14-units of ensemble to complete the ensemble requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Intensive Courses (28 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MUJZ 195L",
+          "title": "Jazz Elements I",
+          "units": 2.0,
+          "source_line": "- MUJZ 195L Jazz Elements I Units: 2",
+          "alternative_follows": true
+        },
+        {
+          "code": "MUJZ 197a",
+          "title": "Vocal Jazz Elements I",
+          "units": 2.0,
+          "source_line": "- MUJZ 197a Vocal Jazz Elements I Units: 2"
+        },
+        {
+          "code": "MUJZ 197b",
+          "title": "Vocal Jazz Elements I",
+          "units": 2.0,
+          "source_line": "- MUJZ 197b Vocal Jazz Elements I Units: 2"
+        },
+        {
+          "code": "MPPM 240",
+          "title": "Drumming Proficiency for the Popular Musician",
+          "units": 2.0,
+          "source_line": "- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2"
+        },
+        {
+          "code": "MUIN 270",
+          "title": "Introduction to the Music Industry",
+          "units": 4.0,
+          "source_line": "- MUIN 270 Introduction to the Music Industry Units: 4"
+        },
+        {
+          "code": "MUJZ 141a",
+          "title": "Basic Keyboard Skills for the Improviser",
+          "units": 2.0,
+          "source_line": "- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2"
+        },
+        {
+          "code": "MUJZ 305a",
+          "title": "Advanced Jazz Theory",
+          "units": 2.0,
+          "source_line": "- MUJZ 305a Advanced Jazz Theory Units: 2"
+        },
+        {
+          "code": "MUJZ 305b",
+          "title": "Advanced Jazz Theory",
+          "units": 2.0,
+          "source_line": "- MUJZ 305b Advanced Jazz Theory Units: 2"
+        },
+        {
+          "code": "MUJZ 395",
+          "title": "Jazz Elements II",
+          "units": 2.0,
+          "source_line": "- MUJZ 395 Jazz Elements II Units: 2"
+        },
+        {
+          "code": "MUJZ 400",
+          "title": "Arranging for Jazz Ensemble",
+          "units": 2.0,
+          "source_line": "- MUJZ 400 Arranging for Jazz Ensemble Units: 2"
+        },
+        {
+          "code": "MPGU 415",
+          "title": "Studio Guitar Pedagogy",
+          "units": 2.0,
+          "source_line": "- MPGU 415 Studio Guitar Pedagogy Units: 2"
+        },
+        {
+          "code": "MUJZ 443",
+          "title": "Jazz Pedagogy",
+          "units": 2.0,
+          "source_line": "- MUJZ 443 Jazz Pedagogy Units: 2"
+        },
+        {
+          "code": "MTEC 245",
+          "title": "Introduction to MIDI Sequencing",
+          "units": 1.0,
+          "source_line": "- MTEC 245 Introduction to MIDI Sequencing Units: 1"
+        },
+        {
+          "code": "MTEC 246",
+          "title": "Introduction to Audio Recording and Editing",
+          "units": 1.0,
+          "source_line": "- MTEC 246 Introduction to Audio Recording and Editing Units: 1"
+        },
+        {
+          "code": "MTEC 248",
+          "title": "Introduction to Music Notation",
+          "units": 1.0,
+          "source_line": "- MTEC 248 Introduction to Music Notation Units: 1"
+        },
+        {
+          "code": "MTEC 249",
+          "title": "Introduction to Web Design for Musicians",
+          "units": 1.0,
+          "source_line": "- MTEC 249 Introduction to Web Design for Musicians Units: 1"
+        },
+        {
+          "code": "MTEC 443",
+          "title": "Desktop Music Production",
+          "units": 2.0,
+          "source_line": "- MTEC 443 Desktop Music Production Units: 2"
+        },
+        {
+          "code": "MTEC 444",
+          "title": "Non-Linear MIDI Sequencing",
+          "units": 2.0,
+          "source_line": "- MTEC 444 Non-Linear MIDI Sequencing Units: 2"
+        },
+        {
+          "code": "MTEC 445",
+          "title": "Advanced Desktop Music Production",
+          "units": 2.0,
+          "source_line": "- MTEC 445 Advanced Desktop Music Production Units: 2"
+        },
+        {
+          "code": "MTEC 446a",
+          "title": "Computer Assisted Recording and Editing",
+          "units": 2.0,
+          "source_line": "- MTEC 446a Computer Assisted Recording and Editing Units: 2"
+        },
+        {
+          "code": "MTEC 446b",
+          "title": "Computer Assisted Recording and Editing",
+          "units": 2.0,
+          "source_line": "- MTEC 446b Computer Assisted Recording and Editing Units: 2"
+        },
+        {
+          "code": "MTEC 474a",
+          "title": "Electronic Synthesizer Techniques , 3, 4",
+          "units": 2.0,
+          "source_line": "- MTEC 474a Electronic Synthesizer Techniques Units: 2, 3, 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete 4 units of MUJZ 195 or MUJZ 197ab, as listed for your primary instrument:",
+          "source_line": "- Complete 4 units of MUJZ 195 or MUJZ 197ab, as listed for your primary instrument:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "4 units total of MUJZ 195 required for all jazz instrumentalists (non-vocal jazz)",
+          "source_line": "- 4 units total of MUJZ 195 required for all jazz instrumentalists (non-vocal jazz)"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "4 units total of MUJZ 197ab required for all vocal jazz (non-jazz instrumentalists)",
+          "source_line": "- 4 units total of MUJZ 197ab required for all vocal jazz (non-jazz instrumentalists)"
+        },
+        {
+          "text": "4 units total of MUJZ 395",
+          "source_line": "- 4 units total of MUJZ 395"
+        },
+        {
+          "text": "Select 2 units from the following as directed by the department:",
+          "source_line": "- Select 2 units from the following as directed by the department:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "​Select 4 units from the following:",
+          "source_line": "- ​Select 4 units from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Complete 4 units of MUJZ 195 or MUJZ 197ab, as listed for your primary instrument:",
+      "total_units": null
+    },
+    {
+      "title": "Electives (18 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Project",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Senior Recital or Senior Project: 0 units",
+          "source_line": "Senior Recital or Senior Project: 0 units"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total required for degree: 132",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.",
+          "source_line": "* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Curriculum Requirements for Guitar",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education *",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "​​​​​​​​",
+          "source_line": "​​​​​​​​"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Literacies",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-A: The Arts (one course)",
+          "source_line": "GE-A: The Arts (one course)"
+        },
+        {
+          "text": "GE-B: Humanistic Inquiry (two courses)",
+          "source_line": "GE-B: Humanistic Inquiry (two courses)"
+        },
+        {
+          "text": "GE-C: Social Analysis (two courses)",
+          "source_line": "GE-C: Social Analysis (two courses)"
+        },
+        {
+          "text": "GE-D: Life Sciences (one course)",
+          "source_line": "GE-D: Life Sciences (one course)"
+        },
+        {
+          "text": "GE-E: Physical Sciences (one course)",
+          "source_line": "GE-E: Physical Sciences (one course)"
+        },
+        {
+          "text": "GE-F: Quantitative Reasoning (one course)",
+          "source_line": "GE-F: Quantitative Reasoning (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Global Perspectives",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-G: Citizenship in a Global Era (one course)",
+          "source_line": "GE-G: Citizenship in a Global Era (one course)"
+        },
+        {
+          "text": "GE-H: Traditions and Historical Foundations (one course)",
+          "source_line": "GE-H: Traditions and Historical Foundations (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Writing",
+      "level": 4,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Thornton Academic Courses (24 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MUCO 132a",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132a Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 132b",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132b Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 133a",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133a Theory I Units: 3"
+        },
+        {
+          "code": "MUCO 133b",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133b Theory I Units: 3"
+        },
+        {
+          "code": "MUSC 496",
+          "title": "Careers in Music",
+          "units": 2.0,
+          "source_line": "- MUSC 496 Careers in Music Units: 2"
+        },
+        {
+          "code": "MUHL 250g",
+          "title": "Music and Ideas",
+          "units": 4.0,
+          "source_line": "- MUHL 250g Music and Ideas Units: 4"
+        },
+        {
+          "code": "MUJZ 350g",
+          "title": "A History of Jazz Music",
+          "units": 4.0,
+          "source_line": "- MUJZ 350g A History of Jazz Music Units: 4"
+        },
+        {
+          "code": "MUSC 250gmw",
+          "title": "The Music of Black Americans",
+          "units": 4.0,
+          "source_line": "- MUSC 250gmw The Music of Black Americans Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Specific Courses (58 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Individual Instruction (16 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MUJZ 153",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MUJZ 153 Individual Instruction Units: 1, 2"
+        },
+        {
+          "code": "MUJZ 253",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MUJZ 253 Individual Instruction Units: 1, 2"
+        },
+        {
+          "code": "MUJZ 353",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MUJZ 353 Individual Instruction Units: 1, 2"
+        },
+        {
+          "code": "MUJZ 453",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MUJZ 453 Individual Instruction Units: 1, 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "4 units total of MUJZ 153 (Guitar)",
+          "source_line": "- 4 units total of MUJZ 153 (Guitar)"
+        },
+        {
+          "text": "4 units total of MUJZ 253 (Guitar)",
+          "source_line": "- 4 units total of MUJZ 253 (Guitar)"
+        },
+        {
+          "text": "4 units total of MUJZ 353 (Guitar)",
+          "source_line": "- 4 units total of MUJZ 353 (Guitar)"
+        },
+        {
+          "text": "4 units total of MUJZ 453 (Guitar)",
+          "source_line": "- 4 units total of MUJZ 453 (Guitar)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Ensembles (6 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MUEN 326",
+          "title": "Guitar Ensemble",
+          "units": 1.0,
+          "source_line": "- MUEN 326 Guitar Ensemble Units: 1"
+        },
+        {
+          "code": "MUEN 305",
+          "title": "Vocal Jazz Ensemble",
+          "units": 1.0,
+          "source_line": "- MUEN 305 Vocal Jazz Ensemble Units: 1"
+        },
+        {
+          "code": "MUEN 326",
+          "title": "Guitar Ensemble",
+          "units": null,
+          "source_line": "- MUEN 326 Guitar Ensemble"
+        },
+        {
+          "code": "MUEN 329",
+          "title": "Jazz Ensemble",
+          "units": 1.0,
+          "source_line": "- MUEN 329 Jazz Ensemble Units: 1"
+        },
+        {
+          "code": "MUEN 332",
+          "title": "Jazz Chamber Music",
+          "units": 1.0,
+          "source_line": "- MUEN 332 Jazz Chamber Music Units: 1"
+        }
+      ],
+      "notes": [
+        {
+          "text": "2 units total of MUEN 326",
+          "source_line": "- 2 units total of MUEN 326"
+        },
+        {
+          "text": "Select 4 units from the following as directed by the department:",
+          "source_line": "- Select 4 units from the following as directed by the department:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select 4 units from the following as directed by the department:",
+      "total_units": null
+    },
+    {
+      "title": "Program Intensive Courses (26 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPPM 240",
+          "title": "Drumming Proficiency for the Popular Musician",
+          "units": 2.0,
+          "source_line": "- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2"
+        },
+        {
+          "code": "MUIN 270",
+          "title": "Introduction to the Music Industry",
+          "units": 4.0,
+          "source_line": "- MUIN 270 Introduction to the Music Industry Units: 4"
+        },
+        {
+          "code": "MUJZ 195L",
+          "title": "Jazz Elements I",
+          "units": 2.0,
+          "source_line": "- MUJZ 195L Jazz Elements I Units: 2"
+        },
+        {
+          "code": "MUJZ 305a",
+          "title": "Advanced Jazz Theory",
+          "units": 2.0,
+          "source_line": "- MUJZ 305a Advanced Jazz Theory Units: 2"
+        },
+        {
+          "code": "MUJZ 305b",
+          "title": "Advanced Jazz Theory",
+          "units": 2.0,
+          "source_line": "- MUJZ 305b Advanced Jazz Theory Units: 2"
+        },
+        {
+          "code": "MUJZ 395",
+          "title": "Jazz Elements II",
+          "units": 2.0,
+          "source_line": "- MUJZ 395 Jazz Elements II Units: 2"
+        },
+        {
+          "code": "MUJZ 400",
+          "title": "Arranging for Jazz Ensemble",
+          "units": 2.0,
+          "source_line": "- MUJZ 400 Arranging for Jazz Ensemble Units: 2"
+        },
+        {
+          "code": "MPGU 415",
+          "title": "Studio Guitar Pedagogy",
+          "units": 2.0,
+          "source_line": "- MPGU 415 Studio Guitar Pedagogy Units: 2"
+        },
+        {
+          "code": "MUJZ 443",
+          "title": "Jazz Pedagogy",
+          "units": 2.0,
+          "source_line": "- MUJZ 443 Jazz Pedagogy Units: 2"
+        },
+        {
+          "code": "MTEC 245",
+          "title": "Introduction to MIDI Sequencing",
+          "units": 1.0,
+          "source_line": "- MTEC 245 Introduction to MIDI Sequencing Units: 1"
+        },
+        {
+          "code": "MTEC 246",
+          "title": "Introduction to Audio Recording and Editing",
+          "units": 1.0,
+          "source_line": "- MTEC 246 Introduction to Audio Recording and Editing Units: 1"
+        },
+        {
+          "code": "MTEC 248",
+          "title": "Introduction to Music Notation",
+          "units": 1.0,
+          "source_line": "- MTEC 248 Introduction to Music Notation Units: 1"
+        },
+        {
+          "code": "MTEC 249",
+          "title": "Introduction to Web Design for Musicians",
+          "units": 1.0,
+          "source_line": "- MTEC 249 Introduction to Web Design for Musicians Units: 1"
+        },
+        {
+          "code": "MTEC 443",
+          "title": "Desktop Music Production",
+          "units": 2.0,
+          "source_line": "- MTEC 443 Desktop Music Production Units: 2"
+        },
+        {
+          "code": "MTEC 444",
+          "title": "Non-Linear MIDI Sequencing",
+          "units": 2.0,
+          "source_line": "- MTEC 444 Non-Linear MIDI Sequencing Units: 2"
+        },
+        {
+          "code": "MTEC 445",
+          "title": "Advanced Desktop Music Production",
+          "units": 2.0,
+          "source_line": "- MTEC 445 Advanced Desktop Music Production Units: 2"
+        },
+        {
+          "code": "MTEC 446a",
+          "title": "Computer Assisted Recording and Editing",
+          "units": 2.0,
+          "source_line": "- MTEC 446a Computer Assisted Recording and Editing Units: 2"
+        },
+        {
+          "code": "MTEC 446b",
+          "title": "Computer Assisted Recording and Editing",
+          "units": 2.0,
+          "source_line": "- MTEC 446b Computer Assisted Recording and Editing Units: 2"
+        },
+        {
+          "code": "MTEC 474a",
+          "title": "Electronic Synthesizer Techniques , 3, 4",
+          "units": 2.0,
+          "source_line": "- MTEC 474a Electronic Synthesizer Techniques Units: 2, 3, 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "4 units total of MUJZ 195",
+          "source_line": "- 4 units total of MUJZ 195"
+        },
+        {
+          "text": "4 units total of MUJZ 395",
+          "source_line": "- 4 units total of MUJZ 395"
+        },
+        {
+          "text": "Select 2 units from the following as directed by the department:",
+          "source_line": "- Select 2 units from the following as directed by the department:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Select 4 units from the following:",
+          "source_line": "- Select 4 units from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select 2 units from the following as directed by the department:",
+      "total_units": null
+    },
+    {
+      "title": "Guitar Intensive Courses (10 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPGU 160a",
+          "title": "Functional Skills for the Jazz Guitarist",
+          "units": 2.0,
+          "source_line": "- MPGU 160a Functional Skills for the Jazz Guitarist Units: 2"
+        },
+        {
+          "code": "MPGU 160b",
+          "title": "Functional Skills for the Jazz Guitarist",
+          "units": 2.0,
+          "source_line": "- MPGU 160b Functional Skills for the Jazz Guitarist Units: 2"
+        },
+        {
+          "code": "MPGU 260",
+          "title": "Improvising and Arranging for Jazz Guitar",
+          "units": 2.0,
+          "source_line": "- MPGU 260 Improvising and Arranging for Jazz Guitar Units: 2"
+        },
+        {
+          "code": "MPGU 420",
+          "title": "Guitar Styles",
+          "units": 2.0,
+          "source_line": "- MPGU 420 Guitar Styles Units: 2"
+        },
+        {
+          "code": "MPGU 460",
+          "title": "Advanced Improvising and Arranging for Jazz Guitar",
+          "units": 2.0,
+          "source_line": "- MPGU 460 Advanced Improvising and Arranging for Jazz Guitar Units: 2"
+        },
+        {
+          "code": "MPGU 462",
+          "title": "Recording and Producing Techniques for the Guitarist",
+          "units": 2.0,
+          "source_line": "- MPGU 462 Recording and Producing Techniques for the Guitarist Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select 4 units from the following as directed by the department:",
+          "source_line": "- Select 4 units from the following as directed by the department:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select 4 units from the following as directed by the department:",
+      "total_units": null
+    },
+    {
+      "title": "Electives (18 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Project",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Senior Recital or Senior Project: 0 units",
+          "source_line": "Senior Recital or Senior Project: 0 units"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total required for degree: 132",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.",
+          "source_line": "* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

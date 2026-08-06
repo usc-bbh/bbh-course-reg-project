@@ -1,0 +1,227 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Culture, Media and Entertainment Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31948",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31948&returnto=9396",
+    "source_text_file": "270_culture_media_and_entertainment_minor.txt",
+    "source_content_sha256": "fda9c3fa675ac339f0e7f5fe3763ad84d9379194e9fae62637ac8f41398fa00f",
+    "retrieved_at": "2026-07-31T01:01:19Z"
+  },
+  "totals": {
+    "stated_total_units": 20.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "0 grade point average and completion of 32 units (sophomore standing)."
+    ],
+    "course_entry_count": 26,
+    "distinct_course_codes": 26,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This 20-unit minor offers courses that examine the theory, content, social impact and economics of a range of creative, media, culture and entertainment industries. Through the lens of music, film, television, advertising, digital media, games, comics and fashion, students will learn strategies for analyzing popular culture and entertainment texts, mechanisms and platforms of content distribution, as well as the historical, social, cultural and political issues shaping these entertainment fields. Taking into account shifts and disruptions in contemporary media and entertainment, students will further examine consumption, audience engagement and participation that necessarily shape our individual and collective identities. These courses will highlight the production, consumption and meanings inscribed in entertainment media industries and products. Depending on the courses selected, the minor will prepare students for a variety of careers in and/or further critical scholarship about media and entertainment industries.",
+          "source_line": "This 20-unit minor offers courses that examine the theory, content, social impact and economics of a range of creative, media, culture and entertainment industries. Through the lens of music, film, television, advertising, digital media, games, comics and fashion, students will learn strategies for analyzing popular culture and entertainment texts, mechanisms and platforms of content distribution, as well as the historical, social, cultural and political issues shaping these entertainment fields. Taking into account shifts and disruptions in contemporary media and entertainment, students will further examine consumption, audience engagement and participation that necessarily shape our individual and collective identities. These courses will highlight the production, consumption and meanings inscribed in entertainment media industries and products. Depending on the courses selected, the minor will prepare students for a variety of careers in and/or further critical scholarship about media and entertainment industries."
+        },
+        {
+          "text": "Admission requirements are a minimum 3.0 grade point average and completion of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission.",
+          "source_line": "Admission requirements are a minimum 3.0 grade point average and completion of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Core Courses (8 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "COMM 300",
+          "title": "Entertainment, Communication and Society",
+          "units": 4.0,
+          "source_line": "- COMM 300 Entertainment, Communication and Society Units: 4"
+        },
+        {
+          "code": "COMM 384",
+          "title": "Interpreting Popular Culture",
+          "units": 4.0,
+          "source_line": "- COMM 384 Interpreting Popular Culture Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose Three Electives (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "COMM 306",
+          "title": "Innovation, Entertainment, and the Arts",
+          "units": 4.0,
+          "source_line": "- COMM 306 Innovation, Entertainment, and the Arts Units: 4"
+        },
+        {
+          "code": "COMM 307",
+          "title": "Sound Clash: Popular Music and American Culture",
+          "units": 4.0,
+          "source_line": "- COMM 307 Sound Clash: Popular Music and American Culture Units: 4"
+        },
+        {
+          "code": "COMM 310",
+          "title": "Media and Society",
+          "units": 4.0,
+          "source_line": "- COMM 310 Media and Society Units: 4"
+        },
+        {
+          "code": "COMM 312",
+          "title": "The Business and Culture of Celebrity",
+          "units": 4.0,
+          "source_line": "- COMM 312 The Business and Culture of Celebrity Units: 4"
+        },
+        {
+          "code": "COMM 326",
+          "title": "Latinx Media Studies",
+          "units": 4.0,
+          "source_line": "- COMM 326 Latinx Media Studies Units: 4"
+        },
+        {
+          "code": "COMM 350",
+          "title": "Video Games: Business, Science and Culture",
+          "units": 4.0,
+          "source_line": "- COMM 350 Video Games: Business, Science and Culture Units: 4"
+        },
+        {
+          "code": "COMM 355",
+          "title": "Advertising and Communication",
+          "units": 4.0,
+          "source_line": "- COMM 355 Advertising and Communication Units: 4"
+        },
+        {
+          "code": "COMM 360",
+          "title": "Los Angeles: Communication and Culture",
+          "units": 4.0,
+          "source_line": "- COMM 360 Los Angeles: Communication and Culture Units: 4"
+        },
+        {
+          "code": "COMM 363",
+          "title": "Media Consumption",
+          "units": 4.0,
+          "source_line": "- COMM 363 Media Consumption Units: 4"
+        },
+        {
+          "code": "COMM 395m",
+          "title": "Gender, Media and Communication",
+          "units": 4.0,
+          "source_line": "- COMM 395m Gender, Media and Communication Units: 4"
+        },
+        {
+          "code": "COMM 396g",
+          "title": "Fashion, Media and Culture",
+          "units": 4.0,
+          "source_line": "- COMM 396g Fashion, Media and Culture Units: 4"
+        },
+        {
+          "code": "COMM 426",
+          "title": "Religion, Media and Hollywood: Faith in TV",
+          "units": 4.0,
+          "source_line": "- COMM 426 Religion, Media and Hollywood: Faith in TV Units: 4"
+        },
+        {
+          "code": "COMM 430",
+          "title": "Global Entertainment",
+          "units": 4.0,
+          "source_line": "- COMM 430 Global Entertainment Units: 4"
+        },
+        {
+          "code": "COMM 432",
+          "title": "American Media and Entertainment Industries",
+          "units": 4.0,
+          "source_line": "- COMM 432 American Media and Entertainment Industries Units: 4"
+        },
+        {
+          "code": "COMM 433",
+          "title": "Home Entertainment: From Networks to Streaming",
+          "units": 4.0,
+          "source_line": "- COMM 433 Home Entertainment: From Networks to Streaming Units: 4"
+        },
+        {
+          "code": "COMM 440",
+          "title": "Music as Communication",
+          "units": 4.0,
+          "source_line": "- COMM 440 Music as Communication Units: 4"
+        },
+        {
+          "code": "COMM 456",
+          "title": "Entertainment, Marketing and Culture",
+          "units": 4.0,
+          "source_line": "- COMM 456 Entertainment, Marketing and Culture Units: 4"
+        },
+        {
+          "code": "COMM 457",
+          "title": "Youth and Media",
+          "units": 4.0,
+          "source_line": "- COMM 457 Youth and Media Units: 4"
+        },
+        {
+          "code": "COMM 458m",
+          "title": "Race and Ethnicity in Entertainment and the Arts",
+          "units": 4.0,
+          "source_line": "- COMM 458m Race and Ethnicity in Entertainment and the Arts Units: 4"
+        },
+        {
+          "code": "COMM 465m",
+          "title": "Gender in Media Industries and Products",
+          "units": 4.0,
+          "source_line": "- COMM 465m Gender in Media Industries and Products Units: 4"
+        },
+        {
+          "code": "COMM 498",
+          "title": "Ethical Issues in Entertainment and Communication",
+          "units": 4.0,
+          "source_line": "- COMM 498 Ethical Issues in Entertainment and Communication Units: 4"
+        },
+        {
+          "code": "CTCS 482",
+          "title": "Transmedia Entertainment",
+          "units": 4.0,
+          "source_line": "- CTCS 482 Transmedia Entertainment Units: 4"
+        },
+        {
+          "code": "JOUR 381",
+          "title": "Entertainment, Business and Media in Today’s Society",
+          "units": 4.0,
+          "source_line": "- JOUR 381 Entertainment, Business and Media in Today’s Society Units: 4"
+        },
+        {
+          "code": "JOUR 493",
+          "title": "Comics and Graphic Storytelling",
+          "units": 4.0,
+          "source_line": "- JOUR 493 Comics and Graphic Storytelling Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 20",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 20.0
+    }
+  ],
+  "parse_warnings": []
+}

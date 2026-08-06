@@ -1,0 +1,144 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Geroscience Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32738",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32738&returnto=9396",
+    "source_text_file": "323_geroscience_minor.txt",
+    "source_content_sha256": "65efbfaa730f790c2dce752be9eab55b60d2cc248090f8df8264eb576687f29f",
+    "retrieved_at": "2026-07-31T01:06:40Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The core curriculum of this minor includes GERO 300 , GERO 301 , and 8 units of directed research credit for participating in hands-on research with a faculty mentor.",
+      "## Required Courses\n\n---\n\nTake GERO 300 (2 units) and GERO 301 (2 units) and GERO 490 (2 units) for four semesters (12 units total)."
+    ],
+    "course_entry_count": 10,
+    "distinct_course_codes": 10,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The 16-unit Geroscience Minor provides students with the opportunity to supplement their education with a life course perspective of aging processes. The minor includes a specific focus on active participation in research and course work that emphasizes current research discoveries in geroscience. The core curriculum of this minor includes GERO 300 , GERO 301 , and 8 units of directed research credit for participating in hands-on research with a faculty mentor. GERO 300 is an introduction to geroscience research and is meant to be taken prior to working in a lab. This course will expose emerging undergraduate geroscholars to the breadth of research opportunities at USC by some of the worlds experts in all domains of gerontology. This course is meant to help students decide which area of research is more exciting for them and to help them choose potential research groups to rotate in during the following semester. GERO 301 enables students to effectively read current scientific literature and present a literature review to their peer group. This course will be taken after a minimum of two semesters of research in a mentors lab; once a student is more familiar with the field and the research methodologies for that discipline.",
+          "source_line": "The 16-unit Geroscience Minor provides students with the opportunity to supplement their education with a life course perspective of aging processes. The minor includes a specific focus on active participation in research and course work that emphasizes current research discoveries in geroscience. The core curriculum of this minor includes GERO 300 , GERO 301 , and 8 units of directed research credit for participating in hands-on research with a faculty mentor. GERO 300 is an introduction to geroscience research and is meant to be taken prior to working in a lab. This course will expose emerging undergraduate geroscholars to the breadth of research opportunities at USC by some of the worlds experts in all domains of gerontology. This course is meant to help students decide which area of research is more exciting for them and to help them choose potential research groups to rotate in during the following semester. GERO 301 enables students to effectively read current scientific literature and present a literature review to their peer group. This course will be taken after a minimum of two semesters of research in a mentors lab; once a student is more familiar with the field and the research methodologies for that discipline."
+        },
+        {
+          "text": "This program is multidisciplinary in nature, It allows students to survey the biological, sociological, political and psychological aspects of aging, which provides a critical understanding of the current issues facing the field. Students choose one elective course based on their research area. For example, undergraduate researchers working with biogerontologists could take GERO 315g A Journey into the Mind , which is designed to help non-science majors appreciate the importance of science in their lives and understand the science of gathering data to support how the brain works and our resulting behavior. Researchers working with social gerontologists could take GERO 340 Policy, Values, and Power in an Aging Society , which studies how Americans’ political values affect public policy and discusses landmark legislation that explores the social contract between generations and the role of governments in social welfare. Students may also choose between two of our most popular courses on diversity in aging (GERO 380m and GERO 435m ), among other courses.",
+          "source_line": "This program is multidisciplinary in nature, It allows students to survey the biological, sociological, political and psychological aspects of aging, which provides a critical understanding of the current issues facing the field. Students choose one elective course based on their research area. For example, undergraduate researchers working with biogerontologists could take GERO 315g A Journey into the Mind , which is designed to help non-science majors appreciate the importance of science in their lives and understand the science of gathering data to support how the brain works and our resulting behavior. Researchers working with social gerontologists could take GERO 340 Policy, Values, and Power in an Aging Society , which studies how Americans’ political values affect public policy and discusses landmark legislation that explores the social contract between generations and the role of governments in social welfare. Students may also choose between two of our most popular courses on diversity in aging (GERO 380m and GERO 435m ), among other courses.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "This program is multidisciplinary in nature, It allows students to survey the biological, sociological, political and psychological aspects of aging, which provides a critical understanding of the current issues facing the field. Students choose one elective course based on their research area. For example, undergraduate researchers working with biogerontologists could take GERO 315g A Journey into the Mind , which is designed to help non-science majors appreciate the importance of science in their lives and understand the science of gathering data to support how the brain works and our resulting behavior. Researchers working with social gerontologists could take GERO 340 Policy, Values, and Power in an Aging Society , which studies how Americans’ political values affect public policy and discusses landmark legislation that explores the social contract between generations and the role of governments in social welfare. Students may also choose between two of our most popular courses on diversity in aging (GERO 380m and GERO 435m ), among other courses.",
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "GERO 300",
+          "title": "Introduction to Geroscience Research",
+          "units": 2.0,
+          "source_line": "- GERO 300 Introduction to Geroscience Research Units: 2"
+        },
+        {
+          "code": "GERO 301",
+          "title": "Current Topics in Geroscience Research",
+          "units": 2.0,
+          "source_line": "- GERO 301 Current Topics in Geroscience Research Units: 2"
+        },
+        {
+          "code": "GERO 490x",
+          "title": "Directed Research -8",
+          "units": 1.0,
+          "source_line": "- GERO 490x Directed Research Units: 1-8"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Take GERO 300 (2 units) and GERO 301 (2 units) and GERO 490 (2 units) for four semesters (12 units total).",
+          "source_line": "Take GERO 300 (2 units) and GERO 301 (2 units) and GERO 490 (2 units) for four semesters (12 units total)."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "GERO 315g",
+          "title": "A Journey into the Mind",
+          "units": 4.0,
+          "source_line": "- GERO 315g A Journey into the Mind Units: 4"
+        },
+        {
+          "code": "GERO 330",
+          "title": "Society and Adult Development",
+          "units": 4.0,
+          "source_line": "- GERO 330 Society and Adult Development Units: 4"
+        },
+        {
+          "code": "GERO 340",
+          "title": "Policy, Values, and Power in an Aging Society",
+          "units": 4.0,
+          "source_line": "- GERO 340 Policy, Values, and Power in an Aging Society Units: 4"
+        },
+        {
+          "code": "GERO 380m",
+          "title": "Diversity in Aging",
+          "units": 4.0,
+          "source_line": "- GERO 380m Diversity in Aging Units: 4"
+        },
+        {
+          "code": "GERO 416",
+          "title": "Health Issues in Adulthood",
+          "units": 4.0,
+          "source_line": "- GERO 416 Health Issues in Adulthood Units: 4"
+        },
+        {
+          "code": "GERO 435m",
+          "title": "Women and Aging: Psychological, Social and Political Implications",
+          "units": 4.0,
+          "source_line": "- GERO 435m Women and Aging: Psychological, Social and Political Implications Units: 4"
+        },
+        {
+          "code": "GERO 440",
+          "title": "Biodemography of Aging  *",
+          "units": 4.0,
+          "source_line": "- GERO 440 Biodemography of Aging Units: 4 *"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one 4-unit course from the list below.",
+          "source_line": "Choose one 4-unit course from the list below.",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Note:",
+          "source_line": "- Note:"
+        },
+        {
+          "text": "[*]Prerequisite required.",
+          "source_line": "  [*]Prerequisite required."
+        }
+      ],
+      "choice": "Choose one 4-unit course from the list below.",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

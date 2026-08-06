@@ -10,6 +10,7 @@ The comparison deliberately ignores the metadata header, because
 
 Usage: check_repeatability.py RUN_A_PROGRAMS_DIR RUN_B_PROGRAMS_DIR [OUT_MD]
 """
+
 from __future__ import annotations
 
 import hashlib
@@ -47,13 +48,16 @@ def main() -> int:
         "",
     ]
     if diff:
-        L += ["## Differences", "",
-              "| file | run A chars | run B chars |", "|---|---|---|"]
+        L += ["## Differences", "", "| file | run A chars | run B chars |", "|---|---|---|"]
         L += [f"| {n} | {a[n][1]} | {b[n][1]} |" for n in diff]
     else:
         L.append("No differences. Extraction is deterministic for unchanged source pages.")
-    L += ["", "Files only in A: " + (", ".join(sorted(set(a) - set(b))[:20]) or "none"),
-          "", "Files only in B: " + (", ".join(sorted(set(b) - set(a))[:20]) or "none")]
+    L += [
+        "",
+        "Files only in A: " + (", ".join(sorted(set(a) - set(b))[:20]) or "none"),
+        "",
+        "Files only in B: " + (", ".join(sorted(set(b) - set(a))[:20]) or "none"),
+    ]
     text = "\n".join(L) + "\n"
     print(text)
     if out:

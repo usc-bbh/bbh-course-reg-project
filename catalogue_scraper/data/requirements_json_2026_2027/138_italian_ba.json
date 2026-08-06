@@ -1,0 +1,263 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Italian (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31812",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31812&returnto=9396",
+    "source_text_file": "138_italian_ba.txt",
+    "source_content_sha256": "f21494a18ac3486267df0e4103ff3eb53f5166b49335b9b99036a0364e714774",
+    "retrieved_at": "2026-07-31T00:55:19Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 26,
+    "distinct_course_codes": 24,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The upper-division requirements include one core course plus an additional five courses to be selected in consultation with the department adviser (no more than three of which may be in English). Of the additional five courses, at least two must be at the 400 level.",
+          "source_line": "The upper-division requirements include one core course plus an additional five courses to be selected in consultation with the department adviser (no more than three of which may be in English). Of the additional five courses, at least two must be at the 400 level."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses — Lower Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ITAL 120",
+          "title": "Italian I",
+          "units": 4.0,
+          "source_line": "- ITAL 120 Italian I Units: 4"
+        },
+        {
+          "code": "ITAL 150",
+          "title": "Italian II",
+          "units": 4.0,
+          "source_line": "- ITAL 150 Italian II Units: 4"
+        },
+        {
+          "code": "ITAL 220",
+          "title": "Italian III",
+          "units": 4.0,
+          "source_line": "- ITAL 220 Italian III Units: 4"
+        },
+        {
+          "code": "ITAL 240",
+          "title": "Italian IV",
+          "units": 4.0,
+          "source_line": "- ITAL 240 Italian IV Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Some or all of these courses may be waived by examination.",
+          "source_line": "Some or all of these courses may be waived by examination."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper Division (6 Courses)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "No more than three courses conducted in English may be counted toward the major.",
+          "source_line": "No more than three courses conducted in English may be counted toward the major."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core courses:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ITAL 300g",
+          "title": "Inventing Modern Italy  (in English) or",
+          "units": 4.0,
+          "source_line": "- ITAL 300g Inventing Modern Italy Units: 4 (in English) or"
+        },
+        {
+          "code": "ITAL 350g",
+          "title": "Gender and Sexuality in Renaissance Italy  (in English)",
+          "units": 4.0,
+          "source_line": "- ITAL 350g Gender and Sexuality in Renaissance Italy Units: 4 (in English)"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students may choose either ITAL 300g or ITAL 350g .",
+          "source_line": "Students may choose either ITAL 300g or ITAL 350g ."
+        },
+        {
+          "text": "Students may take the Core course as early as their first semester of Italian and are strongly encouraged to complete it before enrolling in any 400-level course.",
+          "source_line": "- Students may take the Core course as early as their first semester of Italian and are strongly encouraged to complete it before enrolling in any 400-level course."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Five upper-division Italian courses to be chosen from the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ITAL 300g",
+          "title": "Inventing Modern Italy",
+          "units": 4.0,
+          "source_line": "- ITAL 300g Inventing Modern Italy Units: 4"
+        },
+        {
+          "code": "ITAL 340g",
+          "title": "Italian and French Cinema and Society",
+          "units": 4.0,
+          "source_line": "- ITAL 340g Italian and French Cinema and Society Units: 4"
+        },
+        {
+          "code": "ITAL 345",
+          "title": "Contemporary Italy",
+          "units": 4.0,
+          "source_line": "- ITAL 345 Contemporary Italy Units: 4"
+        },
+        {
+          "code": "ITAL 347",
+          "title": "Italy Today: Youth, Family and Migration",
+          "units": 4.0,
+          "source_line": "- ITAL 347 Italy Today: Youth, Family and Migration Units: 4"
+        },
+        {
+          "code": "ITAL 350g",
+          "title": "Gender and Sexuality in Renaissance Italy",
+          "units": 4.0,
+          "source_line": "- ITAL 350g Gender and Sexuality in Renaissance Italy Units: 4"
+        },
+        {
+          "code": "ITAL 352",
+          "title": "The Holocaust in Italian Fiction and Film",
+          "units": 4.0,
+          "source_line": "- ITAL 352 The Holocaust in Italian Fiction and Film Units: 4"
+        },
+        {
+          "code": "ITAL 360g",
+          "title": "Italian Cinema",
+          "units": 4.0,
+          "source_line": "- ITAL 360g Italian Cinema Units: 4"
+        },
+        {
+          "code": "ITAL 374gm",
+          "title": "Women Writers in Europe and America",
+          "units": 4.0,
+          "source_line": "- ITAL 374gm Women Writers in Europe and America Units: 4"
+        },
+        {
+          "code": "ITAL 380",
+          "title": "Italian Women Writers  (in Italian)",
+          "units": 4.0,
+          "source_line": "- ITAL 380 Italian Women Writers Units: 4 (in Italian)"
+        },
+        {
+          "code": "ITAL 381",
+          "title": "Storytelling in the Italian Tradition",
+          "units": 4.0,
+          "source_line": "- ITAL 381 Storytelling in the Italian Tradition Units: 4"
+        },
+        {
+          "code": "ITAL 382g",
+          "title": "Dante",
+          "units": 4.0,
+          "source_line": "- ITAL 382g Dante Units: 4"
+        },
+        {
+          "code": "ITAL 392",
+          "title": "Seminar in Literary and Cultural Studies",
+          "units": 4.0,
+          "source_line": "- ITAL 392 Seminar in Literary and Cultural Studies Units: 4"
+        },
+        {
+          "code": "ITAL 393",
+          "title": "Seminar in Italian Thought",
+          "units": 4.0,
+          "source_line": "- ITAL 393 Seminar in Italian Thought Units: 4"
+        },
+        {
+          "code": "ITAL 401",
+          "title": "Studies in Early Modernity",
+          "units": 4.0,
+          "source_line": "- ITAL 401 Studies in Early Modernity Units: 4"
+        },
+        {
+          "code": "ITAL 402",
+          "title": "Studies in Modernity  (in Italian)",
+          "units": 4.0,
+          "source_line": "- ITAL 402 Studies in Modernity Units: 4 (in Italian)"
+        },
+        {
+          "code": "ITAL 403",
+          "title": "Black Italy  (in Italian)",
+          "units": 4.0,
+          "source_line": "- ITAL 403 Black Italy Units: 4 (in Italian)"
+        },
+        {
+          "code": "ITAL 440",
+          "title": "Futurism and Fascism in Italy  (in Italian)",
+          "units": 4.0,
+          "source_line": "- ITAL 440 Futurism and Fascism in Italy Units: 4 (in Italian)"
+        },
+        {
+          "code": "ITAL 461",
+          "title": "Italian Theatre  (in Italian)",
+          "units": 4.0,
+          "source_line": "- ITAL 461 Italian Theatre Units: 4 (in Italian)"
+        },
+        {
+          "code": "ITAL 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- ITAL 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "ITAL 499",
+          "title": "Special Topics , 2, 3, 4, 5, 6, 7, 8 , max 8",
+          "units": 1.0,
+          "source_line": "- ITAL 499 Special Topics Units: 1, 2, 3, 4, 5, 6, 7, 8 , max 8"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Honors Program",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The BA in Italian with Honors is available to students who have an overall GPA of 3.0 and a GPA of at least 3.5 in courses counted for major credit. To complete the Honors Program the student must complete three 400-level courses and write an honors thesis of 25–30 pages in Italian in one of the 400-level courses. The topic of the thesis must be agreed upon with the instructor.",
+          "source_line": "The BA in Italian with Honors is available to students who have an overall GPA of 3.0 and a GPA of at least 3.5 in courses counted for major credit. To complete the Honors Program the student must complete three 400-level courses and write an honors thesis of 25–30 pages in Italian in one of the 400-level courses. The topic of the thesis must be agreed upon with the instructor.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "The BA in Italian with Honors is available to students who have an overall GPA of 3.0 and a GPA of at least 3.5 in courses counted for major credit. To complete the Honors Program the student must complete three 400-level courses and write an honors thesis of 25–30 pages in Italian in one of the 400-level courses. The topic of the thesis must be agreed upon with the instructor.",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

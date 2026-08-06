@@ -1,0 +1,314 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Business Administration (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31591",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31591&returnto=9396",
+    "source_text_file": "042_business_administration_bs.txt",
+    "source_content_sha256": "3613c7e2f3616af40b1005240fd0e649c079b98fe6c0dca6d04557ac86606678",
+    "retrieved_at": "2026-07-31T00:50:30Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "This degree requires at least 128 units including USC’s General Education requirements.",
+      "## Composition/Writing Requirements (8 units)\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *\n- * Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BUAD majors.",
+      "Business administration majors must complete 12 units of upper-division elective courses (typically three 4-unit courses) offered by the Marshall School, specifically 300- or 400-level courses with a prefix ACCT, BAEP, BUCO, DSO, FBE, FIM, MKT, MOR, or RISK.",
+      "### Free Electives\n\n---\n\nThe business curriculum allows for 32 units of free electives."
+    ],
+    "course_entry_count": 21,
+    "distinct_course_codes": 20,
+    "section_count": 8
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The business administration major combines a strong grounding in business fundamentals and expertise in select functional areas with extensive exposure to the liberal arts. The curriculum is designed with significant flexibility so that students can complement their studies in business with a minor in a field outside business.",
+          "source_line": "The business administration major combines a strong grounding in business fundamentals and expertise in select functional areas with extensive exposure to the liberal arts. The curriculum is designed with significant flexibility so that students can complement their studies in business with a minor in a field outside business."
+        },
+        {
+          "text": "The degree cannot be combined as an additional major in Business Administration.",
+          "source_line": "The degree cannot be combined as an additional major in Business Administration."
+        },
+        {
+          "text": "This degree requires at least 128 units including USC’s General Education requirements.",
+          "source_line": "This degree requires at least 128 units including USC’s General Education requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Composition/Writing Requirements (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement  *",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *"
+        }
+      ],
+      "notes": [
+        {
+          "text": "* Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BUAD majors.",
+          "source_line": "- * Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BUAD majors."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Business Core Requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BUAD 280",
+          "title": "Introduction to Financial Accounting",
+          "units": 3.0,
+          "source_line": "- BUAD 280 Introduction to Financial Accounting Units: 3"
+        },
+        {
+          "code": "BUAD 281",
+          "title": "Introduction to Managerial Accounting",
+          "units": 3.0,
+          "source_line": "- BUAD 281 Introduction to Managerial Accounting Units: 3"
+        },
+        {
+          "code": "BUAD 302",
+          "title": "Communication Strategy in Business",
+          "units": 4.0,
+          "source_line": "- BUAD 302 Communication Strategy in Business Units: 4"
+        },
+        {
+          "code": "BUAD 304",
+          "title": "Organizational Behavior and Leadership",
+          "units": 4.0,
+          "source_line": "- BUAD 304 Organizational Behavior and Leadership Units: 4"
+        },
+        {
+          "code": "BUAD 306",
+          "title": "Business Finance",
+          "units": 4.0,
+          "source_line": "- BUAD 306 Business Finance Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 308",
+          "title": "Advanced Business Finance",
+          "units": 4.0,
+          "source_line": "- BUAD 308 Advanced Business Finance Units: 4"
+        },
+        {
+          "code": "BUAD 307",
+          "title": "Marketing Fundamentals",
+          "units": 4.0,
+          "source_line": "- BUAD 307 Marketing Fundamentals Units: 4"
+        },
+        {
+          "code": "BUAD 310g",
+          "title": "Applied Business Statistics",
+          "units": 4.0,
+          "source_line": "- BUAD 310g Applied Business Statistics Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 312g",
+          "title": "Statistics and Data Science for Business",
+          "units": 4.0,
+          "source_line": "- BUAD 312g Statistics and Data Science for Business Units: 4"
+        },
+        {
+          "code": "BUAD 311",
+          "title": "Operations Management",
+          "units": 4.0,
+          "source_line": "- BUAD 311 Operations Management Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 313",
+          "title": "Advanced Operations Management and Analytics",
+          "units": 4.0,
+          "source_line": "- BUAD 313 Advanced Operations Management and Analytics Units: 4"
+        },
+        {
+          "code": "BUAD 425",
+          "title": "Introduction to Business Analytics",
+          "units": 2.0,
+          "source_line": "- BUAD 425 Introduction to Business Analytics Units: 2",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 427",
+          "title": "Advanced Introduction to Business Analytics with AI",
+          "units": 2.0,
+          "source_line": "- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2"
+        },
+        {
+          "code": "BUAD 497",
+          "title": "Strategic Management",
+          "units": 4.0,
+          "source_line": "- BUAD 497 Strategic Management Units: 4"
+        },
+        {
+          "code": "ECON 351x",
+          "title": "Microeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 351x Microeconomics for Business Units: 4"
+        },
+        {
+          "code": "ECON 352x",
+          "title": "Macroeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 352x Macroeconomics for Business Units: 4"
+        },
+        {
+          "code": "MATH 118gx",
+          "title": "Calculus for Business and Economics  *",
+          "units": 4.0,
+          "source_line": "- MATH 118gx Calculus for Business and Economics Units: 4 *",
+          "alternative_follows": true
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I  **",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4 **"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Business Administration majors must complete the business core. The business core contains foundational courses that provide analytical skills and theoretical knowledge in math, statistics, accounting and business economics as well as communication skills pertinent to the business field; functional courses in business disciplines such as finance, marketing, organizational behavior and operations; and integrative courses in strategy and data analysis.",
+          "source_line": "Business Administration majors must complete the business core. The business core contains foundational courses that provide analytical skills and theoretical knowledge in math, statistics, accounting and business economics as well as communication skills pertinent to the business field; functional courses in business disciplines such as finance, marketing, organizational behavior and operations; and integrative courses in strategy and data analysis."
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher.",
+          "source_line": "*Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher."
+        },
+        {
+          "text": "*A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information.",
+          "source_line": "**A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Business Electives Requirement",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "In addition to business core courses, students are required to gain a deeper understanding of a specific aspect of business in which they have an interest. Business administration majors must complete 12 units of upper-division elective courses (typically three 4-unit courses) offered by the Marshall School, specifically 300- or 400-level courses with a prefix ACCT, BAEP, BUCO, DSO, FBE, FIM, MKT, MOR, or RISK. Students can also satisfy the business electives requirement through participation in a Marshall School sponsored international exchange program. FIM courses are open only to students in the non-degree FIM certificate program.",
+          "source_line": "In addition to business core courses, students are required to gain a deeper understanding of a specific aspect of business in which they have an interest. Business administration majors must complete 12 units of upper-division elective courses (typically three 4-unit courses) offered by the Marshall School, specifically 300- or 400-level courses with a prefix ACCT, BAEP, BUCO, DSO, FBE, FIM, MKT, MOR, or RISK. Students can also satisfy the business electives requirement through participation in a Marshall School sponsored international exchange program. FIM courses are open only to students in the non-degree FIM certificate program.",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Electives should be selected based on a student’s personal and professional goals and in consultation with an academic adviser. The Marshall School’s academic departments and centers can also help students select courses that are particularly useful for careers in fields covered by the department or center. Electives are normally clustered in a particular field, but may be spread across different fields.",
+          "source_line": "Electives should be selected based on a student’s personal and professional goals and in consultation with an academic adviser. The Marshall School’s academic departments and centers can also help students select courses that are particularly useful for careers in fields covered by the department or center. Electives are normally clustered in a particular field, but may be spread across different fields."
+        }
+      ],
+      "choice": "In addition to business core courses, students are required to gain a deeper understanding of a specific aspect of business in which they have an interest. Business administration majors must complete 12 units of upper-division elective courses (typically three 4-unit courses) offered by the Marshall School, specifically 300- or 400-level courses with a prefix ACCT, BAEP, BUCO, DSO, FBE, FIM, MKT, MOR, or RISK. Students can also satisfy the business electives requirement through participation in a Marshall School sponsored international exchange program. FIM courses are open only to students in the non-degree FIM certificate program.",
+      "total_units": null
+    },
+    {
+      "title": "Non-Business Course Work",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MATH 118gx",
+          "title": "WRIT 150 , WRIT 340 , ECON 351x , ECON 352x and all courses required for the major must be taken for a letter grade. ECON 351x and ECON 352x must be taken in residence at USC",
+          "units": null,
+          "source_line": "MATH 118gx , WRIT 150 , WRIT 340 , ECON 351x , ECON 352x and all courses required for the major must be taken for a letter grade. ECON 351x and ECON 352x must be taken in residence at USC."
+        }
+      ],
+      "notes": [
+        {
+          "text": "In addition to meeting university GPA requirements, a minimum overall/cumulative grade point average of 2.0 (A = 4.0) in upper-division business courses is required for graduation.",
+          "source_line": "In addition to meeting university GPA requirements, a minimum overall/cumulative grade point average of 2.0 (A = 4.0) in upper-division business courses is required for graduation."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Free Electives",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The business curriculum allows for 32 units of free electives. Students are strongly encouraged to pursue a minor, study a language and/or take advantage of the university’s many opportunities to study abroad.",
+          "source_line": "The business curriculum allows for 32 units of free electives. Students are strongly encouraged to pursue a minor, study a language and/or take advantage of the university’s many opportunities to study abroad."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Minors",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "USC offers more than 150 minors, spanning a wide variety of fields. The business curriculum is designed to allow every student enough flexibility to pursue a minor outside of business, in the belief that a strong undergraduate education must be well-rounded and incorporate the liberal arts as well as business classes. Minors allow students to gain substantial expertise in a field outside of business by taking classes in another of USC’s top-ranked departments and schools. Students with an officially declared minor may apply for the honor of being named a Renaissance Scholar if they meet the other program conditions.",
+          "source_line": "USC offers more than 150 minors, spanning a wide variety of fields. The business curriculum is designed to allow every student enough flexibility to pursue a minor outside of business, in the belief that a strong undergraduate education must be well-rounded and incorporate the liberal arts as well as business classes. Minors allow students to gain substantial expertise in a field outside of business by taking classes in another of USC’s top-ranked departments and schools. Students with an officially declared minor may apply for the honor of being named a Renaissance Scholar if they meet the other program conditions."
+        },
+        {
+          "text": "Because some classes required for particular minors may have limited availability, students are encouraged to work closely with their academic advisers to develop plans for their minors. The Marshall Office of Undergraduate Advising can help plan for minors and provide information on the various minors offered throughout the university and how they complement different business tracks.",
+          "source_line": "Because some classes required for particular minors may have limited availability, students are encouraged to work closely with their academic advisers to develop plans for their minors. The Marshall Office of Undergraduate Advising can help plan for minors and provide information on the various minors offered throughout the university and how they complement different business tracks."
+        },
+        {
+          "text": "Return to: USC Marshall School of Business",
+          "source_line": "Return to: USC Marshall School of Business"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

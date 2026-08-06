@@ -1,0 +1,54 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Marketing Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31607",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31607&returnto=9396",
+    "source_text_file": "379_marketing_minor.txt",
+    "source_content_sha256": "3fd9abadee726cdb3b18ec74b999a529b0bf7eecc6fded9561486a3379c01539",
+    "retrieved_at": "2026-07-31T01:10:34Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "Eligible students must have completed a minimum of 32 units of college-level course work and have a minimum GPA of 2.",
+      "Students must successfully complete 16 units of MKT electives to satisfy this minor."
+    ],
+    "course_entry_count": 0,
+    "distinct_course_codes": 0,
+    "section_count": 1
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Marketing studies processes that organizations use to identify and serve the needs of customers.",
+          "source_line": "Marketing studies processes that organizations use to identify and serve the needs of customers."
+        },
+        {
+          "text": "The marketing minor provides a business-related education that will supplement many undergraduate majors, and enhance the career prospects for students whose majors could incorporate a marketing dimension or application. This minor should appeal to any student interested in an early marketing career, which includes, but is not limited to, professional sales, retailing, marketing research, product management and advertising.",
+          "source_line": "The marketing minor provides a business-related education that will supplement many undergraduate majors, and enhance the career prospects for students whose majors could incorporate a marketing dimension or application. This minor should appeal to any student interested in an early marketing career, which includes, but is not limited to, professional sales, retailing, marketing research, product management and advertising."
+        },
+        {
+          "text": "Eligible students must have completed a minimum of 32 units of college-level course work and have a minimum GPA of 2.75. BUAD 307 Marketing Fundamentals must be completed as a required prerequisite. Students must successfully complete 16 units of MKT electives to satisfy this minor.",
+          "source_line": "Eligible students must have completed a minimum of 32 units of college-level course work and have a minimum GPA of 2.75. BUAD 307 Marketing Fundamentals must be completed as a required prerequisite. Students must successfully complete 16 units of MKT electives to satisfy this minor."
+        },
+        {
+          "text": "Return to: USC Marshall School of Business",
+          "source_line": "Return to: USC Marshall School of Business"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

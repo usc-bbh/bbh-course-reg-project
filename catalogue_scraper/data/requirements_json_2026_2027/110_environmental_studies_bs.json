@@ -1,0 +1,826 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Environmental Studies (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31804",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31804&returnto=9396",
+    "source_text_file": "110_environmental_studies_bs.txt",
+    "source_content_sha256": "d4a86f40411c257bb3d0fecdfcc1f2a6109c5f77e79c592b1d0a3e9300a548a0",
+    "retrieved_at": "2026-07-31T00:54:18Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Common Courses (48 Units)\n\n---\n\n### Environmental Studies Core Experiences:\n\n---\n\n- ENST 100g Introduction to Environmental Studies Units: 4\n- ENST 320a Water and Soil Sustainability; Energy and Air Sustainability Units: 4\n- ENST 320b Water and Soil Sustainability; Energy and Air Sustainability Units: 4\n- ENST 344 Environmental Ethics Units: 4\n- ENST 387 Economics for Natural Resources and the Environment Units: 4\n- ENST 495 Senior Seminar in Environmental Studies Units: 4\n\n### Natural Science Core Experiences:\n\n---\n\n- BISC 103Lgx General Biology for the Environment and Life Units: 4\n- CHEM 103Lgx General Chemistry for the Environment and Life Units: 4\n- GEOL 160Lg Introduction to Geosystems Units: 4\n\n### Policy/Governance Core Experiences:\n\n---\n\nChoose two."
+    ],
+    "course_entry_count": 101,
+    "distinct_course_codes": 65,
+    "section_count": 13
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Environmental Studies Program offers two undergraduate majors, Environmental Studies (ENVS) and Environmental Science and Health (ENSH). Each of these majors leads to either a BA or BS degree. The environmental studies degrees are built on specialized natural science and social science courses and a set of interdisciplinary courses focusing on sustainability. The social science core courses focus on environmental problems from political, legal, economic and international perspectives. Specially designed one-semester surveys of biology, earth science and chemistry provide the natural science competency for subsequent policy or science advanced course work in environmental studies. Two concentrations are available in the BA in Environmental Studies degree: science and management and policy and management. Four concentrations are available in the BS in Environmental Studies degree: sustainability and society; oceans and people; climate and environment; and environmental policy. Both the Environmental Studies BA and BS culminate in the capstone experience of a senior seminar focusing on environmental problem-solving by interdisciplinary teams. A single 24-unit environmental studies minor is derived from the core major curriculum.",
+          "source_line": "The Environmental Studies Program offers two undergraduate majors, Environmental Studies (ENVS) and Environmental Science and Health (ENSH). Each of these majors leads to either a BA or BS degree. The environmental studies degrees are built on specialized natural science and social science courses and a set of interdisciplinary courses focusing on sustainability. The social science core courses focus on environmental problems from political, legal, economic and international perspectives. Specially designed one-semester surveys of biology, earth science and chemistry provide the natural science competency for subsequent policy or science advanced course work in environmental studies. Two concentrations are available in the BA in Environmental Studies degree: science and management and policy and management. Four concentrations are available in the BS in Environmental Studies degree: sustainability and society; oceans and people; climate and environment; and environmental policy. Both the Environmental Studies BA and BS culminate in the capstone experience of a senior seminar focusing on environmental problem-solving by interdisciplinary teams. A single 24-unit environmental studies minor is derived from the core major curriculum."
+        },
+        {
+          "text": "The environmental science and health degrees combine the interdisciplinary courses on sustainability described above and some of the environmental social science content with traditional biology and chemistry content to provide options for students preparing for one of the health professions with an undergraduate emphasis on environmental sustainability. The BS in Environmental Science and Health incorporates recommended preparation for medical schools. The BA in Environmental Science and Health may be appropriate for students preparing for other graduate or professional training as well as students pursuing double majors. The environmental studies courses common to both majors emphasize the interdisciplinary nature of environmental problems. A number of opportunities are provided for field studies from the urban Los Angeles environment to marine protected areas on the coasts of the California Channel Islands. More intensive field study opportunities include “Problems Without Passports” courses with international components. Note that some of the field studies opportunities require travel to remote, rural locations and study under sometimes physically and mentally demanding conditions. These trips require a willingness to conform to the announced guidelines for conduct and safety.",
+          "source_line": "The environmental science and health degrees combine the interdisciplinary courses on sustainability described above and some of the environmental social science content with traditional biology and chemistry content to provide options for students preparing for one of the health professions with an undergraduate emphasis on environmental sustainability. The BS in Environmental Science and Health incorporates recommended preparation for medical schools. The BA in Environmental Science and Health may be appropriate for students preparing for other graduate or professional training as well as students pursuing double majors. The environmental studies courses common to both majors emphasize the interdisciplinary nature of environmental problems. A number of opportunities are provided for field studies from the urban Los Angeles environment to marine protected areas on the coasts of the California Channel Islands. More intensive field study opportunities include “Problems Without Passports” courses with international components. Note that some of the field studies opportunities require travel to remote, rural locations and study under sometimes physically and mentally demanding conditions. These trips require a willingness to conform to the announced guidelines for conduct and safety."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Common Courses (48 Units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Environmental Studies Core Experiences:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ENST 100g",
+          "title": "Introduction to Environmental Studies",
+          "units": 4.0,
+          "source_line": "- ENST 100g Introduction to Environmental Studies Units: 4"
+        },
+        {
+          "code": "ENST 320a",
+          "title": "Water and Soil Sustainability; Energy and Air Sustainability",
+          "units": 4.0,
+          "source_line": "- ENST 320a Water and Soil Sustainability; Energy and Air Sustainability Units: 4"
+        },
+        {
+          "code": "ENST 320b",
+          "title": "Water and Soil Sustainability; Energy and Air Sustainability",
+          "units": 4.0,
+          "source_line": "- ENST 320b Water and Soil Sustainability; Energy and Air Sustainability Units: 4"
+        },
+        {
+          "code": "ENST 344",
+          "title": "Environmental Ethics",
+          "units": 4.0,
+          "source_line": "- ENST 344 Environmental Ethics Units: 4"
+        },
+        {
+          "code": "ENST 387",
+          "title": "Economics for Natural Resources and the Environment",
+          "units": 4.0,
+          "source_line": "- ENST 387 Economics for Natural Resources and the Environment Units: 4"
+        },
+        {
+          "code": "ENST 495",
+          "title": "Senior Seminar in Environmental Studies",
+          "units": 4.0,
+          "source_line": "- ENST 495 Senior Seminar in Environmental Studies Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Natural Science Core Experiences:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "BISC 103Lgx",
+          "title": "General Biology for the Environment and Life",
+          "units": 4.0,
+          "source_line": "- BISC 103Lgx General Biology for the Environment and Life Units: 4"
+        },
+        {
+          "code": "CHEM 103Lgx",
+          "title": "General Chemistry for the Environment and Life",
+          "units": 4.0,
+          "source_line": "- CHEM 103Lgx General Chemistry for the Environment and Life Units: 4"
+        },
+        {
+          "code": "GEOL 160Lg",
+          "title": "Introduction to Geosystems",
+          "units": 4.0,
+          "source_line": "- GEOL 160Lg Introduction to Geosystems Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Policy/Governance Core Experiences:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ENST 360",
+          "title": "Public Policy for Sustainability",
+          "units": 4.0,
+          "source_line": "- ENST 360 Public Policy for Sustainability Units: 4"
+        },
+        {
+          "code": "IR 309",
+          "title": "Global Governance",
+          "units": 4.0,
+          "source_line": "- IR 309 Global Governance Units: 4"
+        },
+        {
+          "code": "IR 323",
+          "title": "Politics of Global Environment",
+          "units": 4.0,
+          "source_line": "- IR 323 Politics of Global Environment Units: 4"
+        },
+        {
+          "code": "IR 349",
+          "title": "International Law and Politics",
+          "units": 4.0,
+          "source_line": "- IR 349 International Law and Politics Units: 4"
+        },
+        {
+          "code": "MDES 201w",
+          "title": "The Middle East",
+          "units": 4.0,
+          "source_line": "- MDES 201w The Middle East Units: 4"
+        },
+        {
+          "code": "MDES 401",
+          "title": "Environment and Politics in the Global South",
+          "units": 4.0,
+          "source_line": "- MDES 401 Environment and Politics in the Global South Units: 4"
+        },
+        {
+          "code": "POSC 320",
+          "title": "Urban Politics",
+          "units": 4.0,
+          "source_line": "- POSC 320 Urban Politics Units: 4"
+        },
+        {
+          "code": "POSC 270",
+          "title": "Introduction to Environmental Law and Politics  OR",
+          "units": 4.0,
+          "source_line": "- POSC 270 Introduction to Environmental Law and Politics Units: 4 OR"
+        },
+        {
+          "code": "POSC 347",
+          "title": "Environmental Law",
+          "units": 4.0,
+          "source_line": "- POSC 347 Environmental Law Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose two.",
+          "source_line": "Choose two.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose two.",
+      "total_units": null
+    },
+    {
+      "title": "Math Requirement:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "GEOL 415",
+          "title": "Fundamentals of Environmental Data Science",
+          "units": 4.0,
+          "source_line": "- GEOL 415 Fundamentals of Environmental Data Science Units: 4"
+        },
+        {
+          "code": "HP 340Lg",
+          "title": "Health Behavior Statistical Methods",
+          "units": 4.0,
+          "source_line": "- HP 340Lg Health Behavior Statistical Methods Units: 4"
+        },
+        {
+          "code": "MATH 114xg",
+          "title": "Foundations of Statistics",
+          "units": 4.0,
+          "source_line": "- MATH 114xg Foundations of Statistics Units: 4"
+        },
+        {
+          "code": "PSYC 274Lg",
+          "title": "Statistics",
+          "units": 4.0,
+          "source_line": "- PSYC 274Lg Statistics Units: 4"
+        },
+        {
+          "code": "QBIO 305g",
+          "title": "Statistics for Biological Sciences",
+          "units": 4.0,
+          "source_line": "- QBIO 305g Statistics for Biological Sciences Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one.",
+          "source_line": "Choose one.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one.",
+      "total_units": null
+    },
+    {
+      "title": "Concentrations",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Concentration in Climate and Environment",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4"
+        },
+        {
+          "code": "ENST 432",
+          "title": "Environment and Governance: International and National Policy",
+          "units": 4.0,
+          "source_line": "- ENST 432 Environment and Governance: International and National Policy Units: 4"
+        },
+        {
+          "code": "ENST 442",
+          "title": "Global Climate Change: Policy and Society",
+          "units": 4.0,
+          "source_line": "- ENST 442 Global Climate Change: Policy and Society Units: 4"
+        },
+        {
+          "code": "ENST 445",
+          "title": "Earth Climate: Past, Present, and Future",
+          "units": 4.0,
+          "source_line": "- ENST 445 Earth Climate: Past, Present, and Future Units: 4"
+        },
+        {
+          "code": "GEOL 351L",
+          "title": "Climate Systems",
+          "units": 4.0,
+          "source_line": "- GEOL 351L Climate Systems Units: 4"
+        },
+        {
+          "code": "GEOL 412",
+          "title": "Oceans, Climate, and the Environment",
+          "units": 4.0,
+          "source_line": "- GEOL 412 Oceans, Climate, and the Environment Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Three of the following courses.",
+          "source_line": "Three of the following courses."
+        },
+        {
+          "text": "(Note: students cannot take more than one of the following climate science courses: ENST 445 , GEOL 351L , GEOL 412 . If one of these options is​ being taken as a required climate class, none of them are available to take as an elective.)",
+          "source_line": "(Note: students cannot take more than one of the following climate science courses: ENST 445 , GEOL 351L , GEOL 412 . If one of these options is​ being taken as a required climate class, none of them are available to take as an elective.)"
+        },
+        {
+          "text": "Choose one:",
+          "source_line": "- Choose one:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one:",
+      "total_units": null
+    },
+    {
+      "title": "Electives",
+      "level": 4,
+      "courses": [
+        {
+          "code": "ENST 335",
+          "title": "Science, Health and the Environment",
+          "units": 4.0,
+          "source_line": "- ENST 335 Science, Health and the Environment Units: 4"
+        },
+        {
+          "code": "ENST 442",
+          "title": "Global Climate Change: Policy and Society",
+          "units": 4.0,
+          "source_line": "- ENST 442 Global Climate Change: Policy and Society Units: 4"
+        },
+        {
+          "code": "ENST 443",
+          "title": "Global Climate Negotiations: Research and Communication",
+          "units": 4.0,
+          "source_line": "- ENST 443 Global Climate Negotiations: Research and Communication Units: 4"
+        },
+        {
+          "code": "ENST 445",
+          "title": "Earth Climate: Past, Present, and Future  or",
+          "units": 4.0,
+          "source_line": "- ENST 445 Earth Climate: Past, Present, and Future Units: 4 or"
+        },
+        {
+          "code": "GEOL 412",
+          "title": "Oceans, Climate, and the Environment",
+          "units": 4.0,
+          "source_line": "- GEOL 412 Oceans, Climate, and the Environment Units: 4"
+        },
+        {
+          "code": "ENST 483L",
+          "title": "Coastal Zone Sustainability",
+          "units": 4.0,
+          "source_line": "- ENST 483L Coastal Zone Sustainability Units: 4"
+        },
+        {
+          "code": "ENST 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8 (Max units toward major: 4)",
+          "units": 1.0,
+          "source_line": "- ENST 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 (Max units toward major: 4)",
+          "alternative_follows": true
+        },
+        {
+          "code": "ENST 492",
+          "title": "Directed Environmental Policy and Science Internship , 4 (Max units toward major: 4)",
+          "units": 2.0,
+          "source_line": "- ENST 492 Directed Environmental Policy and Science Internship Units: 2, 4 (Max units toward major: 4)"
+        },
+        {
+          "code": "GEOL 450L",
+          "title": "Geosystems",
+          "units": 4.0,
+          "source_line": "- GEOL 450L Geosystems Units: 4"
+        },
+        {
+          "code": "GEOL 470L",
+          "title": "Environmental Hydrogeology",
+          "units": 4.0,
+          "source_line": "- GEOL 470L Environmental Hydrogeology Units: 4"
+        },
+        {
+          "code": "HP 448",
+          "title": "Global Environmental Changes and Health",
+          "units": 4.0,
+          "source_line": "- HP 448 Global Environmental Changes and Health Units: 4"
+        },
+        {
+          "code": "PPD 427L",
+          "title": "Geographic Information Systems and Planning Applications  or",
+          "units": 4.0,
+          "source_line": "- PPD 427L Geographic Information Systems and Planning Applications Units: 4 or"
+        },
+        {
+          "code": "SSCI 301L",
+          "title": "Maps and Spatial Reasoning",
+          "units": 4.0,
+          "source_line": "- SSCI 301L Maps and Spatial Reasoning Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Three of the following WITH AT LEAST TWO COURSES SELECTED FROM ENST COURSES OR COURSES CROSS-LISTED AS ENST",
+          "source_line": "Three of the following WITH AT LEAST TWO COURSES SELECTED FROM ENST COURSES OR COURSES CROSS-LISTED AS ENST"
+        },
+        {
+          "text": "(Note: students cannot take more than one of the following climate science courses: ENST 445 , GEOL 351L , GEOL 412 . If one of these options is being​ taken as an elective, none of them are available to take as a requirement. Courses cannot be double-counted as an elective and concentration requirement.)",
+          "source_line": "(Note: students cannot take more than one of the following climate science courses: ENST 445 , GEOL 351L , GEOL 412 . If one of these options is being​ taken as an elective, none of them are available to take as a requirement. Courses cannot be double-counted as an elective and concentration requirement.)"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Concentration in Environmental Policy",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ECON 203g",
+          "title": "Principles of Microeconomics  or",
+          "units": 4.0,
+          "source_line": "- ECON 203g Principles of Microeconomics Units: 4 or"
+        },
+        {
+          "code": "ECON 205g",
+          "title": "Principles of Macroeconomics",
+          "units": 4.0,
+          "source_line": "- ECON 205g Principles of Macroeconomics Units: 4"
+        },
+        {
+          "code": "ENST 360",
+          "title": "Public Policy for Sustainability  Note: ENST 360 cannot be double counted for credit for both the Policy/Governance Core Experiences and the Environmental Policy track",
+          "units": 4.0,
+          "source_line": "- ENST 360 Public Policy for Sustainability Units: 4 Note: ENST 360 cannot be double counted for credit for both the Policy/Governance Core Experiences and the Environmental Policy track."
+        },
+        {
+          "code": "ENST 370",
+          "title": "Marine and Coastal Environmental Policy",
+          "units": 4.0,
+          "source_line": "- ENST 370 Marine and Coastal Environmental Policy Units: 4"
+        },
+        {
+          "code": "ENST 432",
+          "title": "Environment and Governance: International and National Policy",
+          "units": 4.0,
+          "source_line": "- ENST 432 Environment and Governance: International and National Policy Units: 4"
+        },
+        {
+          "code": "ENST 442",
+          "title": "Global Climate Change: Policy and Society",
+          "units": 4.0,
+          "source_line": "- ENST 442 Global Climate Change: Policy and Society Units: 4"
+        },
+        {
+          "code": "ENST 443",
+          "title": "Global Climate Negotiations: Research and Communication",
+          "units": 4.0,
+          "source_line": "- ENST 443 Global Climate Negotiations: Research and Communication Units: 4"
+        },
+        {
+          "code": "ENST 486",
+          "title": "Social Science Research Methods for Environmental Analysis",
+          "units": 4.0,
+          "source_line": "- ENST 486 Social Science Research Methods for Environmental Analysis Units: 4"
+        },
+        {
+          "code": "ENST 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8 (Max units toward major: 4)",
+          "units": 1.0,
+          "source_line": "- ENST 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 (Max units toward major: 4)",
+          "alternative_follows": true
+        },
+        {
+          "code": "ENST 492",
+          "title": "Directed Environmental Policy and Science Internship , 4 (Max units toward major: 4)",
+          "units": 2.0,
+          "source_line": "- ENST 492 Directed Environmental Policy and Science Internship Units: 2, 4 (Max units toward major: 4)"
+        },
+        {
+          "code": "HP 446",
+          "title": "Poisons, People, and Politics",
+          "units": 4.0,
+          "source_line": "- HP 446 Poisons, People, and Politics Units: 4"
+        },
+        {
+          "code": "MDES 401",
+          "title": "Environment and Politics in the Global South  Note: MDES 401 cannot be double counted for credit for both the Policy/Governance Core Experiences and the Sustainability and Society track",
+          "units": 4.0,
+          "source_line": "- MDES 401 Environment and Politics in the Global South Units: 4 Note: MDES 401 cannot be double counted for credit for both the Policy/Governance Core Experiences and the Sustainability and Society track."
+        },
+        {
+          "code": "POSC 418",
+          "title": "Environmental Sustainability and Public Participation",
+          "units": 4.0,
+          "source_line": "- POSC 418 Environmental Sustainability and Public Participation Units: 4"
+        },
+        {
+          "code": "POSC 436",
+          "title": "Environmental Politics",
+          "units": 4.0,
+          "source_line": "- POSC 436 Environmental Politics Units: 4"
+        },
+        {
+          "code": "PPD 373",
+          "title": "Public Policy and Planning Analysis",
+          "units": 4.0,
+          "source_line": "- PPD 373 Public Policy and Planning Analysis Units: 4"
+        },
+        {
+          "code": "PPD 410",
+          "title": "Comparative Urban Development",
+          "units": 4.0,
+          "source_line": "- PPD 410 Comparative Urban Development Units: 4"
+        },
+        {
+          "code": "PPD 420",
+          "title": "Environmental Impact Assessment",
+          "units": 4.0,
+          "source_line": "- PPD 420 Environmental Impact Assessment Units: 4"
+        },
+        {
+          "code": "PSYC 411",
+          "title": "Not Easy Being Green: Decision-Making for Sustainability",
+          "units": 4.0,
+          "source_line": "- PSYC 411 Not Easy Being Green: Decision-Making for Sustainability Units: 4"
+        },
+        {
+          "code": "RISK 380",
+          "title": "Introduction to Enterprise Risk Management",
+          "units": 4.0,
+          "source_line": "- RISK 380 Introduction to Enterprise Risk Management Units: 4"
+        },
+        {
+          "code": "PPD 427L",
+          "title": "Geographic Information Systems and Planning Applications  or",
+          "units": 4.0,
+          "source_line": "- PPD 427L Geographic Information Systems and Planning Applications Units: 4 or"
+        },
+        {
+          "code": "SSCI 301L",
+          "title": "Maps and Spatial Reasoning",
+          "units": 4.0,
+          "source_line": "- SSCI 301L Maps and Spatial Reasoning Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Six of the following WITH AT LEAST THREE COURSES SELECTED FROM ENST COURSES OR COURSES CROSS-LISTED AS ENST.",
+          "source_line": "Six of the following WITH AT LEAST THREE COURSES SELECTED FROM ENST COURSES OR COURSES CROSS-LISTED AS ENST."
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Concentration in Oceans and People",
+      "level": 3,
+      "courses": [
+        {
+          "code": "BISC 315L",
+          "title": "Introduction to Ecology",
+          "units": 4.0,
+          "source_line": "- BISC 315L Introduction to Ecology Units: 4"
+        },
+        {
+          "code": "BISC 419L",
+          "title": "Microbiology for a Sustainable Future",
+          "units": 4.0,
+          "source_line": "- BISC 419L Microbiology for a Sustainable Future Units: 4"
+        },
+        {
+          "code": "BISC 431L",
+          "title": "Aquatic Microbiology  or",
+          "units": 4.0,
+          "source_line": "- BISC 431L Aquatic Microbiology Units: 4 or"
+        },
+        {
+          "code": "BISC 457L",
+          "title": "Methods in Marine Biology and Biological Oceanography",
+          "units": 4.0,
+          "source_line": "- BISC 457L Methods in Marine Biology and Biological Oceanography Units: 4"
+        },
+        {
+          "code": "BISC 469L",
+          "title": "Marine Biology  or",
+          "units": 4.0,
+          "source_line": "- BISC 469L Marine Biology Units: 4 or"
+        },
+        {
+          "code": "BISC 473L",
+          "title": "Biological Oceanography",
+          "units": 4.0,
+          "source_line": "- BISC 473L Biological Oceanography Units: 4"
+        },
+        {
+          "code": "ENST 310",
+          "title": "Sustainable Fisheries Management",
+          "units": 4.0,
+          "source_line": "- ENST 310 Sustainable Fisheries Management Units: 4"
+        },
+        {
+          "code": "ENST 370",
+          "title": "Marine and Coastal Environmental Policy",
+          "units": 4.0,
+          "source_line": "- ENST 370 Marine and Coastal Environmental Policy Units: 4"
+        },
+        {
+          "code": "ENST 405",
+          "title": "Public Engagement for Nature Conservation",
+          "units": 4.0,
+          "source_line": "- ENST 405 Public Engagement for Nature Conservation Units: 4"
+        },
+        {
+          "code": "ENST 413",
+          "title": "Sustainable Aquaculture and Food Security",
+          "units": 4.0,
+          "source_line": "- ENST 413 Sustainable Aquaculture and Food Security Units: 4"
+        },
+        {
+          "code": "ENST 483L",
+          "title": "Coastal Zone Sustainability",
+          "units": 4.0,
+          "source_line": "- ENST 483L Coastal Zone Sustainability Units: 4"
+        },
+        {
+          "code": "ENST 484",
+          "title": "Waves of Change: Unearthing Coastal Environmental Histories",
+          "units": 4.0,
+          "source_line": "- ENST 484 Waves of Change: Unearthing Coastal Environmental Histories Units: 4"
+        },
+        {
+          "code": "ENST 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8 (Max units toward major: 4)",
+          "units": 1.0,
+          "source_line": "- ENST 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 (Max units toward major: 4)",
+          "alternative_follows": true
+        },
+        {
+          "code": "ENST 492",
+          "title": "Directed Environmental Policy and Science Internship , 4 (Max units toward major: 4)",
+          "units": 2.0,
+          "source_line": "- ENST 492 Directed Environmental Policy and Science Internship Units: 2, 4 (Max units toward major: 4)"
+        },
+        {
+          "code": "GEOL 412",
+          "title": "Oceans, Climate, and the Environment",
+          "units": 4.0,
+          "source_line": "- GEOL 412 Oceans, Climate, and the Environment Units: 4"
+        },
+        {
+          "code": "GEOL 450L",
+          "title": "Geosystems",
+          "units": 4.0,
+          "source_line": "- GEOL 450L Geosystems Units: 4"
+        },
+        {
+          "code": "GEOL 470L",
+          "title": "Environmental Hydrogeology",
+          "units": 4.0,
+          "source_line": "- GEOL 470L Environmental Hydrogeology Units: 4"
+        },
+        {
+          "code": "PPD 427L",
+          "title": "Geographic Information Systems and Planning Applications  or",
+          "units": 4.0,
+          "source_line": "- PPD 427L Geographic Information Systems and Planning Applications Units: 4 or"
+        },
+        {
+          "code": "SSCI 301L",
+          "title": "Maps and Spatial Reasoning",
+          "units": 4.0,
+          "source_line": "- SSCI 301L Maps and Spatial Reasoning Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Six of the following WITH AT LEAST THREE FROM ENST COURSES OR COURSES CROSS-LISTED AS ENST",
+          "source_line": "Six of the following WITH AT LEAST THREE FROM ENST COURSES OR COURSES CROSS-LISTED AS ENST"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Concentration in Sustainability and Society",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ENST 310",
+          "title": "Sustainable Fisheries Management",
+          "units": 4.0,
+          "source_line": "- ENST 310 Sustainable Fisheries Management Units: 4"
+        },
+        {
+          "code": "ENST 360",
+          "title": "Public Policy for Sustainability  Note: ENST 360 cannot be double counted for credit for both the Policy/Governance Core Experiences and the Sustainability and Society track",
+          "units": 4.0,
+          "source_line": "- ENST 360 Public Policy for Sustainability Units: 4 Note: ENST 360 cannot be double counted for credit for both the Policy/Governance Core Experiences and the Sustainability and Society track."
+        },
+        {
+          "code": "ENST 405",
+          "title": "Public Engagement for Nature Conservation",
+          "units": 4.0,
+          "source_line": "- ENST 405 Public Engagement for Nature Conservation Units: 4"
+        },
+        {
+          "code": "ENST 413",
+          "title": "Sustainable Aquaculture and Food Security",
+          "units": 4.0,
+          "source_line": "- ENST 413 Sustainable Aquaculture and Food Security Units: 4"
+        },
+        {
+          "code": "ENST 432",
+          "title": "Environment and Governance: International and National Policy",
+          "units": 4.0,
+          "source_line": "- ENST 432 Environment and Governance: International and National Policy Units: 4"
+        },
+        {
+          "code": "ENST 445",
+          "title": "Earth Climate: Past, Present, and Future",
+          "units": 4.0,
+          "source_line": "- ENST 445 Earth Climate: Past, Present, and Future Units: 4"
+        },
+        {
+          "code": "ENST 484",
+          "title": "Waves of Change: Unearthing Coastal Environmental Histories",
+          "units": 4.0,
+          "source_line": "- ENST 484 Waves of Change: Unearthing Coastal Environmental Histories Units: 4"
+        },
+        {
+          "code": "ENST 486",
+          "title": "Social Science Research Methods for Environmental Analysis",
+          "units": 4.0,
+          "source_line": "- ENST 486 Social Science Research Methods for Environmental Analysis Units: 4"
+        },
+        {
+          "code": "ENST 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8 (Max units toward major: 4)",
+          "units": 1.0,
+          "source_line": "- ENST 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 (Max units toward major: 4)",
+          "alternative_follows": true
+        },
+        {
+          "code": "ENST 492",
+          "title": "Directed Environmental Policy and Science Internship , 4 (Max units toward major: 4)",
+          "units": 2.0,
+          "source_line": "- ENST 492 Directed Environmental Policy and Science Internship Units: 2, 4 (Max units toward major: 4)"
+        },
+        {
+          "code": "MDES 401",
+          "title": "Environment and Politics in the Global South  Note: MDES 401 cannot be double counted for credit for both the Policy/Governance Core Experiences and the Sustainability and Society track",
+          "units": 4.0,
+          "source_line": "- MDES 401 Environment and Politics in the Global South Units: 4 Note: MDES 401 cannot be double counted for credit for both the Policy/Governance Core Experiences and the Sustainability and Society track."
+        },
+        {
+          "code": "MDES 441w",
+          "title": "Cities of the Middle East",
+          "units": 4.0,
+          "source_line": "- MDES 441w Cities of the Middle East Units: 4"
+        },
+        {
+          "code": "MOR 466",
+          "title": "Business and Environmental Sustainability",
+          "units": 4.0,
+          "source_line": "- MOR 466 Business and Environmental Sustainability Units: 4"
+        },
+        {
+          "code": "POSC 418",
+          "title": "Environmental Sustainability and Public Participation",
+          "units": 4.0,
+          "source_line": "- POSC 418 Environmental Sustainability and Public Participation Units: 4"
+        },
+        {
+          "code": "PPD 361",
+          "title": "Sustainable Communities, Policy and Planning",
+          "units": 4.0,
+          "source_line": "- PPD 361 Sustainable Communities, Policy and Planning Units: 4"
+        },
+        {
+          "code": "PSYC 411",
+          "title": "Not Easy Being Green: Decision-Making for Sustainability",
+          "units": 4.0,
+          "source_line": "- PSYC 411 Not Easy Being Green: Decision-Making for Sustainability Units: 4"
+        },
+        {
+          "code": "PPD 427L",
+          "title": "Geographic Information Systems and Planning Applications  or",
+          "units": 4.0,
+          "source_line": "- PPD 427L Geographic Information Systems and Planning Applications Units: 4 or"
+        },
+        {
+          "code": "SSCI 301L",
+          "title": "Maps and Spatial Reasoning",
+          "units": 4.0,
+          "source_line": "- SSCI 301L Maps and Spatial Reasoning Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Six of the following WITH AT LEAST THREE COURSES SELECTED FROM ENST COURSES OR COURSES CROSS-LISTED AS ENST",
+          "source_line": "Six of the following WITH AT LEAST THREE COURSES SELECTED FROM ENST COURSES OR COURSES CROSS-LISTED AS ENST"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required units: 72",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

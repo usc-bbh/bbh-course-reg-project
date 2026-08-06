@@ -1,0 +1,223 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Law and Migration Studies Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32703",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32703&returnto=9396",
+    "source_text_file": "363_law_and_migration_studies_minor.txt",
+    "source_content_sha256": "5a06455b3d6e1a8196eeb83c8d1e037a234eb78b6f7abbff7a638c3772c76b1b",
+    "retrieved_at": "2026-07-31T01:08:09Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The Law and Migration Studies minor totals 20 units; 12 required units and 8 elective units, as detailed below.",
+      "## Required Courses (12 units)\n\n---\n\n### Students must enroll in this course:\n\n---\n\n- LAW 212 Immigration Law for a New America Units: 4\n\n### Students must also enroll in 8 units from the following courses:\n\n---\n\n- LAW 101w Law and the U.",
+      "Constitution in Global History Units: 4\n- LAW 150w Stereotypes, Prejudice and the Rule of Law Units: 4\n- LAW 200w Law and Society Units: 4\n- LAW 300 Concepts in American Law Units: 4\n- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4\n- LAW 352 Introduction to Law and Economics Units: 4\n\n## Elective Courses (8 units)\n\n---\n\nStudents must enroll in 8 units of elective courses and must choose from the following to satisfy the minor requirements:\n\n- AMST 101gmw Race and Class in Los Angeles Units: 4\n- AMST 140gw Borderlands in a Global Context Units: 4\n- AMST 320 Social Construction of Race and Citizenship Units: 4\n- COLT 303 Globalization: Culture, Change, Resistance Units: 4\n- HIST 100mg Rethinking the American Experience Units: 4\n- LAW 222 Interdisciplinary Perspectives on the Law Units: 2\n- LAW 223 Exploring Courthouses in Los Angeles Units: 2\n- LAW 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8\n- LAW 492 Undergraduate Law Review Units: 2\n- LAW 498 Law Internship Units: 1, 2, 3, 4\n- PPD 240g Citizenship and Public Ethics Units: 4\n- PPD 485m U."
+    ],
+    "course_entry_count": 22,
+    "distinct_course_codes": 22,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Law and Migration Studies minor introduces students to the U.S. legal system as it relates to various aspects of immigration law, its impact on our communities and consequences on our society nationally and globally.",
+          "source_line": "The Law and Migration Studies minor introduces students to the U.S. legal system as it relates to various aspects of immigration law, its impact on our communities and consequences on our society nationally and globally."
+        },
+        {
+          "text": "The Law and Migration Studies minor totals 20 units; 12 required units and 8 elective units, as detailed below.",
+          "source_line": "The Law and Migration Studies minor totals 20 units; 12 required units and 8 elective units, as detailed below."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (12 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Students must enroll in this course:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "LAW 212",
+          "title": "Immigration Law for a New America",
+          "units": 4.0,
+          "source_line": "- LAW 212 Immigration Law for a New America Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Students must also enroll in 8 units from the following courses:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "LAW 101w",
+          "title": "Law and the U.S. Constitution in Global History",
+          "units": 4.0,
+          "source_line": "- LAW 101w Law and the U.S. Constitution in Global History Units: 4"
+        },
+        {
+          "code": "LAW 150w",
+          "title": "Stereotypes, Prejudice and the Rule of Law",
+          "units": 4.0,
+          "source_line": "- LAW 150w Stereotypes, Prejudice and the Rule of Law Units: 4"
+        },
+        {
+          "code": "LAW 200w",
+          "title": "Law and Society",
+          "units": 4.0,
+          "source_line": "- LAW 200w Law and Society Units: 4"
+        },
+        {
+          "code": "LAW 300",
+          "title": "Concepts in American Law",
+          "units": 4.0,
+          "source_line": "- LAW 300 Concepts in American Law Units: 4"
+        },
+        {
+          "code": "LAW 310w",
+          "title": "Global Justice for Mass Atrocities and Genocide",
+          "units": 4.0,
+          "source_line": "- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4"
+        },
+        {
+          "code": "LAW 352",
+          "title": "Introduction to Law and Economics",
+          "units": 4.0,
+          "source_line": "- LAW 352 Introduction to Law and Economics Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Courses (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AMST 101gmw",
+          "title": "Race and Class in Los Angeles",
+          "units": 4.0,
+          "source_line": "- AMST 101gmw Race and Class in Los Angeles Units: 4"
+        },
+        {
+          "code": "AMST 140gw",
+          "title": "Borderlands in a Global Context",
+          "units": 4.0,
+          "source_line": "- AMST 140gw Borderlands in a Global Context Units: 4"
+        },
+        {
+          "code": "AMST 320",
+          "title": "Social Construction of Race and Citizenship",
+          "units": 4.0,
+          "source_line": "- AMST 320 Social Construction of Race and Citizenship Units: 4"
+        },
+        {
+          "code": "COLT 303",
+          "title": "Globalization: Culture, Change, Resistance",
+          "units": 4.0,
+          "source_line": "- COLT 303 Globalization: Culture, Change, Resistance Units: 4"
+        },
+        {
+          "code": "HIST 100mg",
+          "title": "Rethinking the American Experience",
+          "units": 4.0,
+          "source_line": "- HIST 100mg Rethinking the American Experience Units: 4"
+        },
+        {
+          "code": "LAW 222",
+          "title": "Interdisciplinary Perspectives on the Law",
+          "units": 2.0,
+          "source_line": "- LAW 222 Interdisciplinary Perspectives on the Law Units: 2"
+        },
+        {
+          "code": "LAW 223",
+          "title": "Exploring Courthouses in Los Angeles",
+          "units": 2.0,
+          "source_line": "- LAW 223 Exploring Courthouses in Los Angeles Units: 2"
+        },
+        {
+          "code": "LAW 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- LAW 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "LAW 492",
+          "title": "Undergraduate Law Review",
+          "units": 2.0,
+          "source_line": "- LAW 492 Undergraduate Law Review Units: 2"
+        },
+        {
+          "code": "LAW 498",
+          "title": "Law Internship , 2, 3, 4",
+          "units": 1.0,
+          "source_line": "- LAW 498 Law Internship Units: 1, 2, 3, 4"
+        },
+        {
+          "code": "PPD 240g",
+          "title": "Citizenship and Public Ethics",
+          "units": 4.0,
+          "source_line": "- PPD 240g Citizenship and Public Ethics Units: 4"
+        },
+        {
+          "code": "PPD 485m",
+          "title": "U.S. Immigration Policy",
+          "units": 4.0,
+          "source_line": "- PPD 485m U.S. Immigration Policy Units: 4"
+        },
+        {
+          "code": "SOCI 155gm",
+          "title": "Immigrant America",
+          "units": 4.0,
+          "source_line": "- SOCI 155gm Immigrant America Units: 4"
+        },
+        {
+          "code": "SOCI 355m",
+          "title": "Immigrants in the United States  *",
+          "units": 4.0,
+          "source_line": "- SOCI 355m Immigrants in the United States Units: 4 *"
+        },
+        {
+          "code": "SOCI 460",
+          "title": "Key Issues in Contemporary International Migration  *",
+          "units": 4.0,
+          "source_line": "- SOCI 460 Key Issues in Contemporary International Migration Units: 4 *"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must enroll in 8 units of elective courses and must choose from the following to satisfy the minor requirements:",
+          "source_line": "Students must enroll in 8 units of elective courses and must choose from the following to satisfy the minor requirements:"
+        },
+        {
+          "text": "* Sociology courses taken as part of this minor will have prerequisites waived by the Sociology Department.",
+          "source_line": "- * Sociology courses taken as part of this minor will have prerequisites waived by the Sociology Department."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

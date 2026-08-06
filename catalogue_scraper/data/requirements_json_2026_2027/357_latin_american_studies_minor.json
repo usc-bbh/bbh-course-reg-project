@@ -1,0 +1,313 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Latin American Studies Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31938",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31938&returnto=9396",
+    "source_text_file": "357_latin_american_studies_minor.txt",
+    "source_content_sha256": "d86c1737c1da7b371f8333165206657b9dc4b6fa1e7b636ded57b5bcb0bdd539",
+    "retrieved_at": "2026-07-31T01:07:55Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 37,
+    "distinct_course_codes": 32,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Latin American Studies minor recognizes the lasting importance of U.S.-Latin American relations. The overriding goal is to encourage students to learn more about Latin America by combining conceptual, area and language studies during their time at USC. The purpose of this 20-unit minor is to deepen students’ knowledge of Latin America by offering courses from multiple disciplines within a context of close faculty guidance. The gateway requirement of one 4-unit course provides the student with options in both humanities and the social sciences, and the designated electives are similarly meant to allow students to blend these specialties.",
+          "source_line": "The Latin American Studies minor recognizes the lasting importance of U.S.-Latin American relations. The overriding goal is to encourage students to learn more about Latin America by combining conceptual, area and language studies during their time at USC. The purpose of this 20-unit minor is to deepen students’ knowledge of Latin America by offering courses from multiple disciplines within a context of close faculty guidance. The gateway requirement of one 4-unit course provides the student with options in both humanities and the social sciences, and the designated electives are similarly meant to allow students to blend these specialties."
+        },
+        {
+          "text": "For fulfillment of the requirements for the minor a student must choose four classes outside of his or her major department dedicated exclusively to the minor (which may be the same four classes). After the gateway course, these elective courses must be spread across at least two disciplines and/or departments.",
+          "source_line": "For fulfillment of the requirements for the minor a student must choose four classes outside of his or her major department dedicated exclusively to the minor (which may be the same four classes). After the gateway course, these elective courses must be spread across at least two disciplines and/or departments.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "For fulfillment of the requirements for the minor a student must choose four classes outside of his or her major department dedicated exclusively to the minor (which may be the same four classes). After the gateway course, these elective courses must be spread across at least two disciplines and/or departments.",
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One of the following 4-unit gateway introductory courses:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "COLT 250g",
+          "title": "Cultures of Latin America",
+          "units": 4.0,
+          "source_line": "- COLT 250g Cultures of Latin America Units: 4"
+        },
+        {
+          "code": "HIST 273g",
+          "title": "Colonial Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 273g Colonial Latin America Units: 4"
+        },
+        {
+          "code": "HIST 372",
+          "title": "Modern Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 372 Modern Latin America Units: 4"
+        },
+        {
+          "code": "IR 364",
+          "title": "The Political Economy of Latin American Development",
+          "units": 4.0,
+          "source_line": "- IR 364 The Political Economy of Latin American Development Units: 4"
+        },
+        {
+          "code": "IR 365",
+          "title": "Politics and Democracy in Latin America",
+          "units": 4.0,
+          "source_line": "- IR 365 Politics and Democracy in Latin America Units: 4"
+        },
+        {
+          "code": "POSC 350",
+          "title": "Politics of Latin America",
+          "units": 4.0,
+          "source_line": "- POSC 350 Politics of Latin America Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "If the student has chosen a lower-division (100- or 200-level) course among the introductory choices, all area electives must be at the upper-division (300- or 400-) level.",
+          "source_line": "If the student has chosen a lower-division (100- or 200-level) course among the introductory choices, all area electives must be at the upper-division (300- or 400-) level."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Four courses (16 units) from the following list:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AHIS 127g",
+          "title": "Arts of the Ancient Americas",
+          "units": 4.0,
+          "source_line": "- AHIS 127g Arts of the Ancient Americas Units: 4"
+        },
+        {
+          "code": "AHIS 128gp",
+          "title": "The Arts and Society in Latin America, Colonial to Contemporary",
+          "units": 4.0,
+          "source_line": "- AHIS 128gp The Arts and Society in Latin America, Colonial to Contemporary Units: 4"
+        },
+        {
+          "code": "AHIS 318",
+          "title": "Arts of the Ancient Andes",
+          "units": 4.0,
+          "source_line": "- AHIS 318 Arts of the Ancient Andes Units: 4"
+        },
+        {
+          "code": "AHIS 319",
+          "title": "Mesoamerican Art and Culture",
+          "units": 4.0,
+          "source_line": "- AHIS 319 Mesoamerican Art and Culture Units: 4"
+        },
+        {
+          "code": "AMST 448m",
+          "title": "Chicano and Latino Literature",
+          "units": 4.0,
+          "source_line": "- AMST 448m Chicano and Latino Literature Units: 4"
+        },
+        {
+          "code": "ANTH 425",
+          "title": "Peoples and Cultures of Latin America",
+          "units": 4.0,
+          "source_line": "- ANTH 425 Peoples and Cultures of Latin America Units: 4"
+        },
+        {
+          "code": "COLT 250g",
+          "title": "Cultures of Latin America",
+          "units": 4.0,
+          "source_line": "- COLT 250g Cultures of Latin America Units: 4"
+        },
+        {
+          "code": "ECON 340",
+          "title": "Economics of Less Developed Countries",
+          "units": 4.0,
+          "source_line": "- ECON 340 Economics of Less Developed Countries Units: 4"
+        },
+        {
+          "code": "HIST 370",
+          "title": "Colonial Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 370 Colonial Latin America Units: 4"
+        },
+        {
+          "code": "HIST 371",
+          "title": "Culture in Diaspora: The Jews of Spain",
+          "units": 4.0,
+          "source_line": "- HIST 371 Culture in Diaspora: The Jews of Spain Units: 4"
+        },
+        {
+          "code": "HIST 372",
+          "title": "Modern Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 372 Modern Latin America Units: 4"
+        },
+        {
+          "code": "HIST 374",
+          "title": "History of Mexico",
+          "units": 4.0,
+          "source_line": "- HIST 374 History of Mexico Units: 4"
+        },
+        {
+          "code": "HIST 451",
+          "title": "The Mexican Revolution",
+          "units": 4.0,
+          "source_line": "- HIST 451 The Mexican Revolution Units: 4"
+        },
+        {
+          "code": "HIST 456",
+          "title": "Race, Slavery, and the Making of the Atlantic World",
+          "units": 4.0,
+          "source_line": "- HIST 456 Race, Slavery, and the Making of the Atlantic World Units: 4"
+        },
+        {
+          "code": "HIST 470",
+          "title": "The Spanish Inquisition in the Early Modern Hispanic World , 2 years",
+          "units": 4.0,
+          "source_line": "- HIST 470 The Spanish Inquisition in the Early Modern Hispanic World Units: 4, 2 years"
+        },
+        {
+          "code": "HIST 473",
+          "title": "Colonial Latin America Seminar",
+          "units": 4.0,
+          "source_line": "- HIST 473 Colonial Latin America Seminar Units: 4"
+        },
+        {
+          "code": "IR 364",
+          "title": "The Political Economy of Latin American Development",
+          "units": 4.0,
+          "source_line": "- IR 364 The Political Economy of Latin American Development Units: 4"
+        },
+        {
+          "code": "IR 365",
+          "title": "Politics and Democracy in Latin America",
+          "units": 4.0,
+          "source_line": "- IR 365 Politics and Democracy in Latin America Units: 4"
+        },
+        {
+          "code": "IR 408",
+          "title": "Global Democratization",
+          "units": 4.0,
+          "source_line": "- IR 408 Global Democratization Units: 4"
+        },
+        {
+          "code": "IR 454",
+          "title": "The International Political Economy of Development",
+          "units": 4.0,
+          "source_line": "- IR 454 The International Political Economy of Development Units: 4"
+        },
+        {
+          "code": "IR 465",
+          "title": "Contemporary Issues in United States-Latin America Relations",
+          "units": 4.0,
+          "source_line": "- IR 465 Contemporary Issues in United States-Latin America Relations Units: 4"
+        },
+        {
+          "code": "IR 466",
+          "title": "Contemporary Issues in Latin American Politics",
+          "units": 4.0,
+          "source_line": "- IR 466 Contemporary Issues in Latin American Politics Units: 4"
+        },
+        {
+          "code": "PORT 250g",
+          "title": "Visions of Brazil",
+          "units": 4.0,
+          "source_line": "- PORT 250g Visions of Brazil Units: 4"
+        },
+        {
+          "code": "POSC 350",
+          "title": "Politics of Latin America",
+          "units": 4.0,
+          "source_line": "- POSC 350 Politics of Latin America Units: 4"
+        },
+        {
+          "code": "POSC 430",
+          "title": "Political Economy of Mexico",
+          "units": 4.0,
+          "source_line": "- POSC 430 Political Economy of Mexico Units: 4"
+        },
+        {
+          "code": "POSC 431",
+          "title": "Political Economy of Central America",
+          "units": 4.0,
+          "source_line": "- POSC 431 Political Economy of Central America Units: 4"
+        },
+        {
+          "code": "SPAN 320",
+          "title": "Politics, Thought, Society",
+          "units": 4.0,
+          "source_line": "- SPAN 320 Politics, Thought, Society Units: 4"
+        },
+        {
+          "code": "SPAN 321",
+          "title": "Sounds, Images, Objects",
+          "units": 4.0,
+          "source_line": "- SPAN 321 Sounds, Images, Objects Units: 4"
+        },
+        {
+          "code": "SPAN 372",
+          "title": "Modern and Contemporary Latin American Fiction",
+          "units": 4.0,
+          "source_line": "- SPAN 372 Modern and Contemporary Latin American Fiction Units: 4"
+        },
+        {
+          "code": "SPAN 462",
+          "title": "Literary Cartographies of Latin America and Spain, 1810–1898",
+          "units": 4.0,
+          "source_line": "- SPAN 462 Literary Cartographies of Latin America and Spain, 1810–1898 Units: 4"
+        },
+        {
+          "code": "SPAN 495",
+          "title": "Seminar for Majors and Minors",
+          "units": 4.0,
+          "source_line": "- SPAN 495 Seminar for Majors and Minors Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

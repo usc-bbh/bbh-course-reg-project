@@ -7,7 +7,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>USC Complete Collector</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.francisruan.usc-complete-collector</string>
+	<string>com.trojanreg.catalogue-scraper</string>
 	<key>CFBundleVersion</key>
 	<string>1.0.0</string>
 	<key>CFBundleShortVersionString</key>

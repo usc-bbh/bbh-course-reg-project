@@ -1,0 +1,193 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Occupational Science Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32167",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32167&returnto=9396",
+    "source_text_file": "405_occupational_science_minor.txt",
+    "source_content_sha256": "82558409b47e7bb3c73b51da5e3173ec0535088508776fcd47242b1e289914a9",
+    "retrieved_at": "2026-07-31T01:11:33Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The minor in occupational science requires a total of 20 units: a required gateway course (OT 250 ) for 4 units plus 16 units selected from the elective courses.",
+      "## Required Course\n\n---\n\n- OT 250 Introduction to Occupational Science and Occupational Therapy Units: 4\n\n## Elective Courses (16 units)\n\n---\n\nNote: only the 2-unit version of OT 100 can be credited toward the OS minor program."
+    ],
+    "course_entry_count": 20,
+    "distinct_course_codes": 20,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The division offers a minor in the discipline of occupational science. It is one of a select few programs in the world that offers undergraduates the opportunity to explore importance of occupation, or meaningful activity, as well as the fields of occupational science and occupational therapy.",
+          "source_line": "The division offers a minor in the discipline of occupational science. It is one of a select few programs in the world that offers undergraduates the opportunity to explore importance of occupation, or meaningful activity, as well as the fields of occupational science and occupational therapy."
+        },
+        {
+          "text": "Occupational Scientists and Occupational Therapists seek to understand and appreciate the motivations that make us human. Humans are innately driven to fill their time with interesting, meaningful activities, which scholars call “occupations.” Occupational Therapists and Occupational Scientists believe that humans need to be occupied because occupations have a profound impact on physical and mental health, one’s sense of well-being and the experience of a satisfying quality of life. Occupational Science seeks to understand the precise nature and function of occupations and the critical effect of daily activity on human beings. Scientists working in the field may examine questions such as the relationship between childhood occupations and adult competency and achievement, what constitutes a healthy balance of work, rest and leisure and what factors contribute to a good fit between a particular individual and their occupations.",
+          "source_line": "Occupational Scientists and Occupational Therapists seek to understand and appreciate the motivations that make us human. Humans are innately driven to fill their time with interesting, meaningful activities, which scholars call “occupations.” Occupational Therapists and Occupational Scientists believe that humans need to be occupied because occupations have a profound impact on physical and mental health, one’s sense of well-being and the experience of a satisfying quality of life. Occupational Science seeks to understand the precise nature and function of occupations and the critical effect of daily activity on human beings. Scientists working in the field may examine questions such as the relationship between childhood occupations and adult competency and achievement, what constitutes a healthy balance of work, rest and leisure and what factors contribute to a good fit between a particular individual and their occupations."
+        },
+        {
+          "text": "The minor in occupational science requires a total of 20 units: a required gateway course (OT 250 ) for 4 units plus 16 units selected from the elective courses. It is open to all majors at USC. An occupational therapy major cannot count any 300-level OT course toward the BS degree.",
+          "source_line": "The minor in occupational science requires a total of 20 units: a required gateway course (OT 250 ) for 4 units plus 16 units selected from the elective courses. It is open to all majors at USC. An occupational therapy major cannot count any 300-level OT course toward the BS degree."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Course",
+      "level": 2,
+      "courses": [
+        {
+          "code": "OT 250",
+          "title": "Introduction to Occupational Science and Occupational Therapy",
+          "units": 4.0,
+          "source_line": "- OT 250 Introduction to Occupational Science and Occupational Therapy Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Courses (16 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "OT 100",
+          "title": "THRIVE: Foundations of Well-Being , 2",
+          "units": 1.0,
+          "source_line": "- OT 100 THRIVE: Foundations of Well-Being Units: 1, 2"
+        },
+        {
+          "code": "OT 101x",
+          "title": "Caring For Your Self: Engaging in Healthy Habits and Routines",
+          "units": 2.0,
+          "source_line": "- OT 101x Caring For Your Self: Engaging in Healthy Habits and Routines Units: 2"
+        },
+        {
+          "code": "OT 213",
+          "title": "A Life of Play",
+          "units": 2.0,
+          "source_line": "- OT 213 A Life of Play Units: 2"
+        },
+        {
+          "code": "OT 220",
+          "title": "Lifestyle Design: Self-Analysis of Activities for Health",
+          "units": 2.0,
+          "source_line": "- OT 220 Lifestyle Design: Self-Analysis of Activities for Health Units: 2"
+        },
+        {
+          "code": "OT 251",
+          "title": "Across the Lifespan: Occupations, Health and Disability",
+          "units": 4.0,
+          "source_line": "- OT 251 Across the Lifespan: Occupations, Health and Disability Units: 4"
+        },
+        {
+          "code": "OT 280",
+          "title": "Essential Occupations of Emerging Adulthood",
+          "units": 2.0,
+          "source_line": "- OT 280 Essential Occupations of Emerging Adulthood Units: 2"
+        },
+        {
+          "code": "OT 300",
+          "title": "Occupational Expressions of Diverse Identities and Lifestyles",
+          "units": 4.0,
+          "source_line": "- OT 300 Occupational Expressions of Diverse Identities and Lifestyles Units: 4"
+        },
+        {
+          "code": "OT 310",
+          "title": "Exploring Creativity in Daily Life",
+          "units": 2.0,
+          "source_line": "- OT 310 Exploring Creativity in Daily Life Units: 2"
+        },
+        {
+          "code": "OT 312",
+          "title": "Living a Sustainable Life",
+          "units": 2.0,
+          "source_line": "- OT 312 Living a Sustainable Life Units: 2"
+        },
+        {
+          "code": "OT 320",
+          "title": "The Nature of Human Occupation: Form, Function, and Meaning",
+          "units": 4.0,
+          "source_line": "- OT 320 The Nature of Human Occupation: Form, Function, and Meaning Units: 4"
+        },
+        {
+          "code": "OT 325",
+          "title": "The Brain: Mind, Body, and Self",
+          "units": 4.0,
+          "source_line": "- OT 325 The Brain: Mind, Body, and Self Units: 4"
+        },
+        {
+          "code": "OT 330",
+          "title": "Our Families, Ourselves",
+          "units": 4.0,
+          "source_line": "- OT 330 Our Families, Ourselves Units: 4"
+        },
+        {
+          "code": "OT 333",
+          "title": "Sports Ethics",
+          "units": 4.0,
+          "source_line": "- OT 333 Sports Ethics Units: 4"
+        },
+        {
+          "code": "OT 340",
+          "title": "Animal and Human Interconnections in Daily Life",
+          "units": 4.0,
+          "source_line": "- OT 340 Animal and Human Interconnections in Daily Life Units: 4"
+        },
+        {
+          "code": "OT 350",
+          "title": "Disability, Occupations, and the Health Care System",
+          "units": 4.0,
+          "source_line": "- OT 350 Disability, Occupations, and the Health Care System Units: 4"
+        },
+        {
+          "code": "OT 355",
+          "title": "Social Justice and Community Engagement",
+          "units": 2.0,
+          "source_line": "- OT 355 Social Justice and Community Engagement Units: 2"
+        },
+        {
+          "code": "OT 360",
+          "title": "Tell Me a Story: Narratives in Health and in Illness",
+          "units": 4.0,
+          "source_line": "- OT 360 Tell Me a Story: Narratives in Health and in Illness Units: 4"
+        },
+        {
+          "code": "OT 370",
+          "title": "Understanding Autism and Neurodiversity: Participation Across the Lifespan",
+          "units": 4.0,
+          "source_line": "- OT 370 Understanding Autism and Neurodiversity: Participation Across the Lifespan Units: 4"
+        },
+        {
+          "code": "OT 375",
+          "title": "The Narrative Structure of Social Action: Narrative, Healing and Occupation",
+          "units": 4.0,
+          "source_line": "- OT 375 The Narrative Structure of Social Action: Narrative, Healing and Occupation Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Note: only the 2-unit version of OT 100 can be credited toward the OS minor program.",
+          "source_line": "Note: only the 2-unit version of OT 100 can be credited toward the OS minor program."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

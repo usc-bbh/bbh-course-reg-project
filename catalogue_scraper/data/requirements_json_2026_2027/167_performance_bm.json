@@ -1,0 +1,578 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Performance (Popular Music) (BM)",
+    "credential": "BM",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32239",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32239&returnto=9396",
+    "source_text_file": "167_performance_bm.txt",
+    "source_content_sha256": "25da2cd9dd3de0d6538a0c36761cc411ee716db6382654a0a46aaeeadde050bf",
+    "retrieved_at": "2026-07-31T00:56:25Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Curriculum Requirements\n\n---\n\n### General Education *\n\n---\n\n#### Core Literacies\n\n---\n\nGE-A: The Arts (one course)\n\nGE-B: Humanistic Inquiry (two courses)\n\nGE-C: Social Analysis (two courses)\n\nGE-D: Life Sciences (one course)\n\nGE-E: Physical Sciences (one course)\n\nGE-F: Quantitative Reasoning (one course)\n\n#### Global Perspectives\n\n---\n\nGE-G: Global Perspectives I (one course)\n\nGE-H: Global Perspectives II (one course)\n\n#### Writing\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4\n\n### Core Thornton Academic Courses (30 units)\n\n---\n\n- MPPM 350g A History of Popular Music Units: 4\n- MUCO 131a Harmony in Popular Music Units: 2\n- MUCO 131b Harmony in Popular Music Units: 2\n- MUCO 132a Aural Skills I Units: 2\n- MUCO 132b Aural Skills I Units: 2\n- MUCO 133a Theory I Units: 3\n- MUCO 133b Theory I Units: 3\n- MUCO 232a Aural Skills II Units: 2\n- MUCO 232b Aural Skills II Units: 2\n- MUHL 250g Music and Ideas Units: 4\n- Select 4 units from the following:\n- MUHL 350g Western Art Music History I Units: 4\n- MUHL 351 Western Art Music History II Units: 4\n- MUJZ 350g A History of Jazz Music Units: 4\n- MUSC 102gw World Music Units: 4\n- MUSC 115gp Western Music as Sounding History Units: 4\n- MUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4\n- MUSC 210g Electronic Music and Dance Culture Units: 4\n- MUSC 250gmw The Music of Black Americans Units: 4\n- MUSC 320gmw Hip-hop Music and Culture Units: 4\n- MUSC 371g Musical Genre Bending Units: 4\n- MUSC 372g Music and Politics Units: 4\n- MUSC 373g Writing About Popular Music Units: 4\n- MUSC 460 Film Music: History and Function from 1930 to the Present Units: 4\n- MUSC 465 Music, Television and American Culture Units: 4\n\n### Program Specific Courses (45 units)\n\n---\n\n#### Forum, Individual Instruction, and Performance Class (21 units)\n\n---\n\n- MPPM 100 Forum Units: 1\n- MPPM 120 Popular Music Performance I Units: 2\n- 4 units total of MPPM 120\n- MPPM 153 Individual Instruction Units: 1, 2\n- 4 units total of MPPM 153\n- MPPM 220 Popular Music Performance II Units: 2\n- 4 units total of MPPM 220\n- MPPM 253 Individual Instruction Units: 1, 2\n- 4 units total of MPPM 253\n- MPPM 320 Popular Music Performance III Units: 2\n- 4 units total of MPPM 320\n\n#### Music Ensembles (2 units)\n\n---\n\nMusic Ensemble at the 300-level: two 1-unit courses\n\n#### Program Intensive Courses (22 units)****\n\n---\n\n- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2 [**]\n- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2 [***]\n- MPPM 325a Arranging in Popular Music Units: 2\n- MPPM 325b Arranging in Popular Music Units: 2\n- MTEC 448 Computer Music Notation and Preparation Units: 2\n- MUIN 270 Introduction to the Music Industry Units: 4\n- MUSC 255 Songwriting I Units: 2\n- MUSC 496 Careers in Music Units: 2\n- Select four units from the following:\n- MTEC 245 Introduction to MIDI Sequencing Units: 1\n- MTEC 246 Introduction to Audio Recording and Editing Units: 1\n- MTEC 378 Introduction to Mixing and Mastering Units: 2\n- MTEC 443 Desktop Music Production Units: 2\n- MTEC 444 Non-Linear MIDI Sequencing Units: 2\n- MTEC 445 Advanced Desktop Music Production Units: 2\n- MTEC 446a Computer Assisted Recording and Editing Units: 2\n- MTEC 446b Computer Assisted Recording and Editing Units: 2\n\n### Electives (23 units)\n\n---\n\n### Capstone Projects (2 units)\n\n---\n\n- MPPM 450a Final Project Units: 1\n- MPPM 450b Final Project Units: 1\n\n## Total Required for Degree: 132\n\n---\n\n[*]With correct planning, only 32 units (six GE and two Writing courses) will be needed outside of your major requirements."
+    ],
+    "course_entry_count": 50,
+    "distinct_course_codes": 50,
+    "section_count": 17
+  },
+  "sections": [
+    {
+      "title": "Overview",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Music in Popular Music is designed for students interested in pursuing a career in the performance of popular music. This program consists of course work in the major performance area, core music classes, USC’s general education and writing, as well as electives to take advantage of the offerings of the Thornton School and of the entire university.",
+          "source_line": "The Bachelor of Music in Popular Music is designed for students interested in pursuing a career in the performance of popular music. This program consists of course work in the major performance area, core music classes, USC’s general education and writing, as well as electives to take advantage of the offerings of the Thornton School and of the entire university."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Entrance Requirements",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees. Specific entrance requirements are reviewed on an annual basis and published online at music.usc.edu.",
+          "source_line": "Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees. Specific entrance requirements are reviewed on an annual basis and published online at music.usc.edu."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education Requirements",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "USC’s General Education program, revised in fall 2015, provides a coherent, integrated approach to the study of the liberal arts, with the goal of nurturing habits of thought that are essential for professional success, personal development, and meaningful lifelong learning. Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC. With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements. Academic advisers in the Thornton School carefully guide Thornton students in making their course choices. This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements.",
+          "source_line": "USC’s General Education program, revised in fall 2015, provides a coherent, integrated approach to the study of the liberal arts, with the goal of nurturing habits of thought that are essential for professional success, personal development, and meaningful lifelong learning. Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC. With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements. Academic advisers in the Thornton School carefully guide Thornton students in making their course choices. This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Project",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A capstone project must be completed under approved faculty supervision and guidance. The faculty of the department of the student’s major program determines the detailed requirements of the project, including content, length, format and other specifications. In cases in which a performance venue is required in order to present the project, reservations must be made according to the current guidelines of the Music Operations office.",
+          "source_line": "A capstone project must be completed under approved faculty supervision and guidance. The faculty of the department of the student’s major program determines the detailed requirements of the project, including content, length, format and other specifications. In cases in which a performance venue is required in order to present the project, reservations must be made according to the current guidelines of the Music Operations office."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Curriculum Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education *",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Literacies",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-A: The Arts (one course)",
+          "source_line": "GE-A: The Arts (one course)"
+        },
+        {
+          "text": "GE-B: Humanistic Inquiry (two courses)",
+          "source_line": "GE-B: Humanistic Inquiry (two courses)"
+        },
+        {
+          "text": "GE-C: Social Analysis (two courses)",
+          "source_line": "GE-C: Social Analysis (two courses)"
+        },
+        {
+          "text": "GE-D: Life Sciences (one course)",
+          "source_line": "GE-D: Life Sciences (one course)"
+        },
+        {
+          "text": "GE-E: Physical Sciences (one course)",
+          "source_line": "GE-E: Physical Sciences (one course)"
+        },
+        {
+          "text": "GE-F: Quantitative Reasoning (one course)",
+          "source_line": "GE-F: Quantitative Reasoning (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Global Perspectives",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-G: Global Perspectives I (one course)",
+          "source_line": "GE-G: Global Perspectives I (one course)"
+        },
+        {
+          "text": "GE-H: Global Perspectives II (one course)",
+          "source_line": "GE-H: Global Perspectives II (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Writing",
+      "level": 4,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Thornton Academic Courses (30 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MPPM 350g",
+          "title": "A History of Popular Music",
+          "units": 4.0,
+          "source_line": "- MPPM 350g A History of Popular Music Units: 4"
+        },
+        {
+          "code": "MUCO 131a",
+          "title": "Harmony in Popular Music",
+          "units": 2.0,
+          "source_line": "- MUCO 131a Harmony in Popular Music Units: 2"
+        },
+        {
+          "code": "MUCO 131b",
+          "title": "Harmony in Popular Music",
+          "units": 2.0,
+          "source_line": "- MUCO 131b Harmony in Popular Music Units: 2"
+        },
+        {
+          "code": "MUCO 132a",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132a Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 132b",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132b Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 133a",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133a Theory I Units: 3"
+        },
+        {
+          "code": "MUCO 133b",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133b Theory I Units: 3"
+        },
+        {
+          "code": "MUCO 232a",
+          "title": "Aural Skills II",
+          "units": 2.0,
+          "source_line": "- MUCO 232a Aural Skills II Units: 2"
+        },
+        {
+          "code": "MUCO 232b",
+          "title": "Aural Skills II",
+          "units": 2.0,
+          "source_line": "- MUCO 232b Aural Skills II Units: 2"
+        },
+        {
+          "code": "MUHL 250g",
+          "title": "Music and Ideas",
+          "units": 4.0,
+          "source_line": "- MUHL 250g Music and Ideas Units: 4"
+        },
+        {
+          "code": "MUHL 350g",
+          "title": "Western Art Music History I",
+          "units": 4.0,
+          "source_line": "- MUHL 350g Western Art Music History I Units: 4"
+        },
+        {
+          "code": "MUHL 351",
+          "title": "Western Art Music History II",
+          "units": 4.0,
+          "source_line": "- MUHL 351 Western Art Music History II Units: 4"
+        },
+        {
+          "code": "MUJZ 350g",
+          "title": "A History of Jazz Music",
+          "units": 4.0,
+          "source_line": "- MUJZ 350g A History of Jazz Music Units: 4"
+        },
+        {
+          "code": "MUSC 102gw",
+          "title": "World Music",
+          "units": 4.0,
+          "source_line": "- MUSC 102gw World Music Units: 4"
+        },
+        {
+          "code": "MUSC 115gp",
+          "title": "Western Music as Sounding History",
+          "units": 4.0,
+          "source_line": "- MUSC 115gp Western Music as Sounding History Units: 4"
+        },
+        {
+          "code": "MUSC 200gmw",
+          "title": "The Broadway Musical: Reflections of American Diversity",
+          "units": 4.0,
+          "source_line": "- MUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4"
+        },
+        {
+          "code": "MUSC 210g",
+          "title": "Electronic Music and Dance Culture",
+          "units": 4.0,
+          "source_line": "- MUSC 210g Electronic Music and Dance Culture Units: 4"
+        },
+        {
+          "code": "MUSC 250gmw",
+          "title": "The Music of Black Americans",
+          "units": 4.0,
+          "source_line": "- MUSC 250gmw The Music of Black Americans Units: 4"
+        },
+        {
+          "code": "MUSC 320gmw",
+          "title": "Hip-hop Music and Culture",
+          "units": 4.0,
+          "source_line": "- MUSC 320gmw Hip-hop Music and Culture Units: 4"
+        },
+        {
+          "code": "MUSC 371g",
+          "title": "Musical Genre Bending",
+          "units": 4.0,
+          "source_line": "- MUSC 371g Musical Genre Bending Units: 4"
+        },
+        {
+          "code": "MUSC 372g",
+          "title": "Music and Politics",
+          "units": 4.0,
+          "source_line": "- MUSC 372g Music and Politics Units: 4"
+        },
+        {
+          "code": "MUSC 373g",
+          "title": "Writing About Popular Music",
+          "units": 4.0,
+          "source_line": "- MUSC 373g Writing About Popular Music Units: 4"
+        },
+        {
+          "code": "MUSC 460",
+          "title": "Film Music: History and Function from 1930 to the Present",
+          "units": 4.0,
+          "source_line": "- MUSC 460 Film Music: History and Function from 1930 to the Present Units: 4"
+        },
+        {
+          "code": "MUSC 465",
+          "title": "Music, Television and American Culture",
+          "units": 4.0,
+          "source_line": "- MUSC 465 Music, Television and American Culture Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select 4 units from the following:",
+          "source_line": "- Select 4 units from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select 4 units from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Program Specific Courses (45 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Forum, Individual Instruction, and Performance Class (21 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPPM 100",
+          "title": "Forum",
+          "units": 1.0,
+          "source_line": "- MPPM 100 Forum Units: 1"
+        },
+        {
+          "code": "MPPM 120",
+          "title": "Popular Music Performance I",
+          "units": 2.0,
+          "source_line": "- MPPM 120 Popular Music Performance I Units: 2"
+        },
+        {
+          "code": "MPPM 153",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MPPM 153 Individual Instruction Units: 1, 2"
+        },
+        {
+          "code": "MPPM 220",
+          "title": "Popular Music Performance II",
+          "units": 2.0,
+          "source_line": "- MPPM 220 Popular Music Performance II Units: 2"
+        },
+        {
+          "code": "MPPM 253",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MPPM 253 Individual Instruction Units: 1, 2"
+        },
+        {
+          "code": "MPPM 320",
+          "title": "Popular Music Performance III",
+          "units": 2.0,
+          "source_line": "- MPPM 320 Popular Music Performance III Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "4 units total of MPPM 120",
+          "source_line": "- 4 units total of MPPM 120"
+        },
+        {
+          "text": "4 units total of MPPM 153",
+          "source_line": "- 4 units total of MPPM 153"
+        },
+        {
+          "text": "4 units total of MPPM 220",
+          "source_line": "- 4 units total of MPPM 220"
+        },
+        {
+          "text": "4 units total of MPPM 253",
+          "source_line": "- 4 units total of MPPM 253"
+        },
+        {
+          "text": "4 units total of MPPM 320",
+          "source_line": "- 4 units total of MPPM 320"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Music Ensembles (2 units)",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Music Ensemble at the 300-level: two 1-unit courses",
+          "source_line": "Music Ensemble at the 300-level: two 1-unit courses"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Intensive Courses (22 units)****",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPPM 240",
+          "title": "Drumming Proficiency for the Popular Musician  [**]",
+          "units": 2.0,
+          "source_line": "- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2 [**]"
+        },
+        {
+          "code": "MPPM 250",
+          "title": "Keyboard Proficiency for the Popular Musician  [***]",
+          "units": 2.0,
+          "source_line": "- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2 [***]"
+        },
+        {
+          "code": "MPPM 325a",
+          "title": "Arranging in Popular Music",
+          "units": 2.0,
+          "source_line": "- MPPM 325a Arranging in Popular Music Units: 2"
+        },
+        {
+          "code": "MPPM 325b",
+          "title": "Arranging in Popular Music",
+          "units": 2.0,
+          "source_line": "- MPPM 325b Arranging in Popular Music Units: 2"
+        },
+        {
+          "code": "MTEC 448",
+          "title": "Computer Music Notation and Preparation",
+          "units": 2.0,
+          "source_line": "- MTEC 448 Computer Music Notation and Preparation Units: 2"
+        },
+        {
+          "code": "MUIN 270",
+          "title": "Introduction to the Music Industry",
+          "units": 4.0,
+          "source_line": "- MUIN 270 Introduction to the Music Industry Units: 4"
+        },
+        {
+          "code": "MUSC 255",
+          "title": "Songwriting I",
+          "units": 2.0,
+          "source_line": "- MUSC 255 Songwriting I Units: 2"
+        },
+        {
+          "code": "MUSC 496",
+          "title": "Careers in Music",
+          "units": 2.0,
+          "source_line": "- MUSC 496 Careers in Music Units: 2"
+        },
+        {
+          "code": "MTEC 245",
+          "title": "Introduction to MIDI Sequencing",
+          "units": 1.0,
+          "source_line": "- MTEC 245 Introduction to MIDI Sequencing Units: 1"
+        },
+        {
+          "code": "MTEC 246",
+          "title": "Introduction to Audio Recording and Editing",
+          "units": 1.0,
+          "source_line": "- MTEC 246 Introduction to Audio Recording and Editing Units: 1"
+        },
+        {
+          "code": "MTEC 378",
+          "title": "Introduction to Mixing and Mastering",
+          "units": 2.0,
+          "source_line": "- MTEC 378 Introduction to Mixing and Mastering Units: 2"
+        },
+        {
+          "code": "MTEC 443",
+          "title": "Desktop Music Production",
+          "units": 2.0,
+          "source_line": "- MTEC 443 Desktop Music Production Units: 2"
+        },
+        {
+          "code": "MTEC 444",
+          "title": "Non-Linear MIDI Sequencing",
+          "units": 2.0,
+          "source_line": "- MTEC 444 Non-Linear MIDI Sequencing Units: 2"
+        },
+        {
+          "code": "MTEC 445",
+          "title": "Advanced Desktop Music Production",
+          "units": 2.0,
+          "source_line": "- MTEC 445 Advanced Desktop Music Production Units: 2"
+        },
+        {
+          "code": "MTEC 446a",
+          "title": "Computer Assisted Recording and Editing",
+          "units": 2.0,
+          "source_line": "- MTEC 446a Computer Assisted Recording and Editing Units: 2"
+        },
+        {
+          "code": "MTEC 446b",
+          "title": "Computer Assisted Recording and Editing",
+          "units": 2.0,
+          "source_line": "- MTEC 446b Computer Assisted Recording and Editing Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select four units from the following:",
+          "source_line": "- Select four units from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select four units from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Electives (23 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Projects (2 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MPPM 450a",
+          "title": "Final Project",
+          "units": 1.0,
+          "source_line": "- MPPM 450a Final Project Units: 1"
+        },
+        {
+          "code": "MPPM 450b",
+          "title": "Final Project",
+          "units": 1.0,
+          "source_line": "- MPPM 450b Final Project Units: 1"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Required for Degree: 132",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "[*]With correct planning, only 32 units (six GE and two Writing courses) will be needed outside of your major requirements.​",
+          "source_line": "[*]With correct planning, only 32 units (six GE and two Writing courses) will be needed outside of your major requirements.​"
+        },
+        {
+          "text": "[**]Drummers will substitute a class in guitar or voice.",
+          "source_line": "[**]Drummers will substitute a class in guitar or voice."
+        },
+        {
+          "text": "[***]Keyboardists will substitute a class in guitar or voice.",
+          "source_line": "[***]Keyboardists will substitute a class in guitar or voice."
+        },
+        {
+          "text": "***Songwriting emphasis students whose primary instrument is guitar will be evaluated to determine if they will need additional course work. If additional course work is required, the student will need to take MPGU 145 Guitar Proficiency for the Pop Guitarist, along with all other required course work listed for their degree.",
+          "source_line": "****Songwriting emphasis students whose primary instrument is guitar will be evaluated to determine if they will need additional course work. If additional course work is required, the student will need to take MPGU 145 Guitar Proficiency for the Pop Guitarist, along with all other required course work listed for their degree."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

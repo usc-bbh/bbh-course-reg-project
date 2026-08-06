@@ -1,0 +1,382 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Accounting and Finance (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32801",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32801&returnto=9396",
+    "source_text_file": "002_accounting_and_finance_bs.txt",
+    "source_content_sha256": "c501d2c7fea48c248a0df2f6f646177be9ad1ef613c841927b8276aeca3434c3",
+    "retrieved_at": "2026-07-31T00:49:01Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "This degree requires at least 128 units including USC’s General Education requirements.",
+      "## Writing Requirements (8 units)\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *\n- * Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for ACFN majors.",
+      "## Major Requirements (72 units)\n\n---\n\n### Accounting/Business Foundation Courses (48 units)\n\n---\n\n- BUAD 280 Introduction to Financial Accounting Units: 3\n- BUAD 281 Introduction to Managerial Accounting Units: 3\n- BUAD 302 Communication Strategy in Business Units: 4\n- BUAD 304 Organizational Behavior and Leadership Units: 4\n-\n- BUAD 306 Business Finance Units: 4\n- or\n- BUAD 308 Advanced Business Finance Units: 4\n-\n- BUAD 307 Marketing Fundamentals Units: 4\n-\n- BUAD 310g Applied Business Statistics Units: 4\n- or\n- BUAD 312g Statistics and Data Science for Business Units: 4\n-\n- BUAD 311 Operations Management Units: 4\n- or\n- BUAD 313 Advanced Operations Management and Analytics Units: 4\n-\n- BUAD 425 Introduction to Business Analytics Units: 2\n- or\n- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2\n-\n- BUAD 497 Strategic Management Units: 4\n-\n- ECON 351x Microeconomics for Business Units: 4\n- ECON 352x Macroeconomics for Business Units: 4\n-\n- MATH 118gx Calculus for Business and Economics Units: 4\n- or\n- MATH 125g Calculus I Units: 4\n\n#### Note:\n\n---\n\n*Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam.",
+      "### Required Accounting Courses (12 units)\n\n---\n\n- ACCT 370 External Financial Reporting Issues Units: 4\n- ACCT 416 Financial Statement Analysis Units: 4\n- Complete 4 units from the following list:\n- ACCT 371 Introduction to Accounting Systems Units: 4\n- ACCT 377 Valuation for Financial Statement Purposes Units: 2\n- ACCT 405 Introduction to Sustainability Reporting Units: 4 Units: 4\n- ACCT 451 Tax Analysis with Data Analytics Units: 4\n- ACCT 456 Auditing with Data Analytics Units: 4\n- ACCT 462 Detecting Fraudulent Financial Reporting Units: 2\n- ACCT 470 Advanced External Financial Reporting Issues Units: 4\n- ACCT 493 Leventhal Honors Research Seminar Units: 2\n- ACCT 494 Marshall Honors Research and Thesis Units: 2\n\n### Required Finance Courses (12 units)\n\n---\n\n- FBE 421 Financial Analysis and Valuation Units: 4\n- Complete 4 units from the following list:\n- FBE 423 Introduction to Venture Capital and Private Equity Units: 4\n- FBE 432 Corporate Financial Strategy Units: 4\n- FBE 460 Mergers, Acquisitions and Restructuring Units: 4\n- • Complete 4 units of upper-division elective course work - not including the courses completed to satisfy the above requirements - offered by the Finance and Business Economics department in the Marshall School, specifically 300- or 400-level courses with a prefix FBE that are available for credit toward the major."
+    ],
+    "course_entry_count": 36,
+    "distinct_course_codes": 35,
+    "section_count": 7
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Science degree program in Accounting and Finance is offered jointly by the Leventhal School of Accounting and the Marshall School of Business. It offers qualified students an opportunity to gain an educational foundation in both areas.",
+          "source_line": "The Bachelor of Science degree program in Accounting and Finance is offered jointly by the Leventhal School of Accounting and the Marshall School of Business. It offers qualified students an opportunity to gain an educational foundation in both areas."
+        },
+        {
+          "text": "The degree cannot be combined as an additional major in either accounting or business administration. The degree is administered by the Leventhal School of Accounting.",
+          "source_line": "The degree cannot be combined as an additional major in either accounting or business administration. The degree is administered by the Leventhal School of Accounting."
+        },
+        {
+          "text": "This degree requires at least 128 units including USC’s General Education requirements.",
+          "source_line": "This degree requires at least 128 units including USC’s General Education requirements."
+        },
+        {
+          "text": "A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken.",
+          "source_line": "A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Writing Requirements (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement  *",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *"
+        }
+      ],
+      "notes": [
+        {
+          "text": "* Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for ACFN majors.",
+          "source_line": "- * Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for ACFN majors."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Major Requirements (72 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Accounting/Business Foundation Courses (48 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "BUAD 280",
+          "title": "Introduction to Financial Accounting",
+          "units": 3.0,
+          "source_line": "- BUAD 280 Introduction to Financial Accounting Units: 3"
+        },
+        {
+          "code": "BUAD 281",
+          "title": "Introduction to Managerial Accounting",
+          "units": 3.0,
+          "source_line": "- BUAD 281 Introduction to Managerial Accounting Units: 3"
+        },
+        {
+          "code": "BUAD 302",
+          "title": "Communication Strategy in Business",
+          "units": 4.0,
+          "source_line": "- BUAD 302 Communication Strategy in Business Units: 4"
+        },
+        {
+          "code": "BUAD 304",
+          "title": "Organizational Behavior and Leadership",
+          "units": 4.0,
+          "source_line": "- BUAD 304 Organizational Behavior and Leadership Units: 4"
+        },
+        {
+          "code": "BUAD 306",
+          "title": "Business Finance",
+          "units": 4.0,
+          "source_line": "- BUAD 306 Business Finance Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 308",
+          "title": "Advanced Business Finance",
+          "units": 4.0,
+          "source_line": "- BUAD 308 Advanced Business Finance Units: 4"
+        },
+        {
+          "code": "BUAD 307",
+          "title": "Marketing Fundamentals",
+          "units": 4.0,
+          "source_line": "- BUAD 307 Marketing Fundamentals Units: 4"
+        },
+        {
+          "code": "BUAD 310g",
+          "title": "Applied Business Statistics",
+          "units": 4.0,
+          "source_line": "- BUAD 310g Applied Business Statistics Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 312g",
+          "title": "Statistics and Data Science for Business",
+          "units": 4.0,
+          "source_line": "- BUAD 312g Statistics and Data Science for Business Units: 4"
+        },
+        {
+          "code": "BUAD 311",
+          "title": "Operations Management",
+          "units": 4.0,
+          "source_line": "- BUAD 311 Operations Management Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 313",
+          "title": "Advanced Operations Management and Analytics",
+          "units": 4.0,
+          "source_line": "- BUAD 313 Advanced Operations Management and Analytics Units: 4"
+        },
+        {
+          "code": "BUAD 425",
+          "title": "Introduction to Business Analytics",
+          "units": 2.0,
+          "source_line": "- BUAD 425 Introduction to Business Analytics Units: 2",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 427",
+          "title": "Advanced Introduction to Business Analytics with AI",
+          "units": 2.0,
+          "source_line": "- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2"
+        },
+        {
+          "code": "BUAD 497",
+          "title": "Strategic Management",
+          "units": 4.0,
+          "source_line": "- BUAD 497 Strategic Management Units: 4"
+        },
+        {
+          "code": "ECON 351x",
+          "title": "Microeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 351x Microeconomics for Business Units: 4"
+        },
+        {
+          "code": "ECON 352x",
+          "title": "Macroeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 352x Macroeconomics for Business Units: 4"
+        },
+        {
+          "code": "MATH 118gx",
+          "title": "Calculus for Business and Economics",
+          "units": 4.0,
+          "source_line": "- MATH 118gx Calculus for Business and Economics Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "BUAD 310g",
+          "title": "BUAD 312g , MATH 118gx and MATH 125g satisfy GE category F: Quantitative Reasoning",
+          "units": null,
+          "source_line": "BUAD 310g , BUAD 312g , MATH 118gx and MATH 125g satisfy GE category F: Quantitative Reasoning."
+        }
+      ],
+      "notes": [
+        {
+          "text": "Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher.",
+          "source_line": "*Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher."
+        },
+        {
+          "text": "*A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information.",
+          "source_line": "**A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Accounting Courses (12 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ACCT 370",
+          "title": "External Financial Reporting Issues",
+          "units": 4.0,
+          "source_line": "- ACCT 370 External Financial Reporting Issues Units: 4"
+        },
+        {
+          "code": "ACCT 416",
+          "title": "Financial Statement Analysis",
+          "units": 4.0,
+          "source_line": "- ACCT 416 Financial Statement Analysis Units: 4"
+        },
+        {
+          "code": "ACCT 371",
+          "title": "Introduction to Accounting Systems",
+          "units": 4.0,
+          "source_line": "- ACCT 371 Introduction to Accounting Systems Units: 4"
+        },
+        {
+          "code": "ACCT 377",
+          "title": "Valuation for Financial Statement Purposes",
+          "units": 2.0,
+          "source_line": "- ACCT 377 Valuation for Financial Statement Purposes Units: 2"
+        },
+        {
+          "code": "ACCT 405",
+          "title": "Introduction to Sustainability Reporting",
+          "units": 4.0,
+          "source_line": "- ACCT 405 Introduction to Sustainability Reporting Units: 4 Units: 4"
+        },
+        {
+          "code": "ACCT 451",
+          "title": "Tax Analysis with Data Analytics",
+          "units": 4.0,
+          "source_line": "- ACCT 451 Tax Analysis with Data Analytics Units: 4"
+        },
+        {
+          "code": "ACCT 456",
+          "title": "Auditing with Data Analytics",
+          "units": 4.0,
+          "source_line": "- ACCT 456 Auditing with Data Analytics Units: 4"
+        },
+        {
+          "code": "ACCT 462",
+          "title": "Detecting Fraudulent Financial Reporting",
+          "units": 2.0,
+          "source_line": "- ACCT 462 Detecting Fraudulent Financial Reporting Units: 2"
+        },
+        {
+          "code": "ACCT 470",
+          "title": "Advanced External Financial Reporting Issues",
+          "units": 4.0,
+          "source_line": "- ACCT 470 Advanced External Financial Reporting Issues Units: 4"
+        },
+        {
+          "code": "ACCT 493",
+          "title": "Leventhal Honors Research Seminar",
+          "units": 2.0,
+          "source_line": "- ACCT 493 Leventhal Honors Research Seminar Units: 2"
+        },
+        {
+          "code": "ACCT 494",
+          "title": "Marshall Honors Research and Thesis",
+          "units": 2.0,
+          "source_line": "- ACCT 494 Marshall Honors Research and Thesis Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete 4 units from the following list:",
+          "source_line": "- Complete 4 units from the following list:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Complete 4 units from the following list:",
+      "total_units": null
+    },
+    {
+      "title": "Required Finance Courses (12 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "FBE 421",
+          "title": "Financial Analysis and Valuation",
+          "units": 4.0,
+          "source_line": "- FBE 421 Financial Analysis and Valuation Units: 4"
+        },
+        {
+          "code": "FBE 423",
+          "title": "Introduction to Venture Capital and Private Equity",
+          "units": 4.0,
+          "source_line": "- FBE 423 Introduction to Venture Capital and Private Equity Units: 4"
+        },
+        {
+          "code": "FBE 432",
+          "title": "Corporate Financial Strategy",
+          "units": 4.0,
+          "source_line": "- FBE 432 Corporate Financial Strategy Units: 4"
+        },
+        {
+          "code": "FBE 460",
+          "title": "Mergers, Acquisitions and Restructuring",
+          "units": 4.0,
+          "source_line": "- FBE 460 Mergers, Acquisitions and Restructuring Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete 4 units from the following list:",
+          "source_line": "- Complete 4 units from the following list:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "• Complete 4 units of upper-division elective course work - not including the courses completed to satisfy the above requirements - offered by the Finance and Business Economics department in the Marshall School, specifically 300- or 400-level courses with a prefix FBE that are available for credit toward the major.",
+          "source_line": "- • Complete 4 units of upper-division elective course work - not including the courses completed to satisfy the above requirements - offered by the Finance and Business Economics department in the Marshall School, specifically 300- or 400-level courses with a prefix FBE that are available for credit toward the major.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Complete 4 units from the following list:",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,299 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "French Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31811",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31811&returnto=9396",
+    "source_text_file": "310_french_minor.txt",
+    "source_content_sha256": "6681368b2d2a5182b385dd3ffa6e3bdcc5ee218f9cfe4e92a767611e3735b39f",
+    "retrieved_at": "2026-07-31T01:02:49Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 36,
+    "distinct_course_codes": 35,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "For the lower division, FREN 250 French IV is required. The upper-division requirements include two core courses plus an additional three courses to be selected in consultation with the department adviser (no more than one of which may be in English). FREN 310 and FREN 360 may not both be taken for credit toward the minor in French.",
+          "source_line": "For the lower division, FREN 250 French IV is required. The upper-division requirements include two core courses plus an additional three courses to be selected in consultation with the department adviser (no more than one of which may be in English). FREN 310 and FREN 360 may not both be taken for credit toward the minor in French."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "FREN 250",
+          "title": "French IV",
+          "units": 4.0,
+          "source_line": "- FREN 250 French IV Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper Division (5 Courses)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required core courses:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "FREN 300",
+          "title": "French Grammar and Composition",
+          "units": 4.0,
+          "source_line": "- FREN 300 French Grammar and Composition Units: 4"
+        },
+        {
+          "code": "FREN 330",
+          "title": "Critical Writing in French",
+          "units": 4.0,
+          "source_line": "- FREN 330 Critical Writing in French Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Suggested courses to fulfill the requirement of three upper-division French courses:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "FREN 305",
+          "title": "Global Women’s Narratives",
+          "units": 2.0,
+          "source_line": "- FREN 305 Global Women’s Narratives Units: 2"
+        },
+        {
+          "code": "FREN 307g",
+          "title": "Public Memory and the Ghosts of History",
+          "units": 4.0,
+          "source_line": "- FREN 307g Public Memory and the Ghosts of History Units: 4"
+        },
+        {
+          "code": "FREN 309",
+          "title": "Voices of Change: Writers, Filmmakers and Artists of Contemporary Senegal",
+          "units": 4.0,
+          "source_line": "- FREN 309 Voices of Change: Writers, Filmmakers and Artists of Contemporary Senegal Units: 4"
+        },
+        {
+          "code": "FREN 310",
+          "title": "Media and Culture",
+          "units": 4.0,
+          "source_line": "- FREN 310 Media and Culture Units: 4"
+        },
+        {
+          "code": "FREN 315",
+          "title": "Inside the Courts: the French Legal Language and Culture",
+          "units": 4.0,
+          "source_line": "- FREN 315 Inside the Courts: the French Legal Language and Culture Units: 4"
+        },
+        {
+          "code": "FREN 318",
+          "title": "Global Cyphers: Hip Hop Circles Around the World",
+          "units": 4.0,
+          "source_line": "- FREN 318 Global Cyphers: Hip Hop Circles Around the World Units: 4"
+        },
+        {
+          "code": "FREN 320g",
+          "title": "The French New Wave and its Legacy",
+          "units": 4.0,
+          "source_line": "- FREN 320g The French New Wave and its Legacy Units: 4"
+        },
+        {
+          "code": "FREN 340g",
+          "title": "Italian and French Cinema and Society",
+          "units": 4.0,
+          "source_line": "- FREN 340g Italian and French Cinema and Society Units: 4"
+        },
+        {
+          "code": "FREN 347g",
+          "title": "Race, Gender and Power in Francophone Literature",
+          "units": 4.0,
+          "source_line": "- FREN 347g Race, Gender and Power in Francophone Literature Units: 4"
+        },
+        {
+          "code": "FREN 351",
+          "title": "Research Methods",
+          "units": 4.0,
+          "source_line": "- FREN 351 Research Methods Units: 4"
+        },
+        {
+          "code": "FREN 357",
+          "title": "Popular Music in France - Culture, Politics, Protest",
+          "units": 4.0,
+          "source_line": "- FREN 357 Popular Music in France - Culture, Politics, Protest Units: 4"
+        },
+        {
+          "code": "FREN 360",
+          "title": "Business and Technical French",
+          "units": 4.0,
+          "source_line": "- FREN 360 Business and Technical French Units: 4"
+        },
+        {
+          "code": "FREN 370gm",
+          "title": "Equality and Difference around the Enlightenment",
+          "units": 4.0,
+          "source_line": "- FREN 370gm Equality and Difference around the Enlightenment Units: 4"
+        },
+        {
+          "code": "FREN 373g",
+          "title": "Remembering Loss, Writing Memory",
+          "units": 4.0,
+          "source_line": "- FREN 373g Remembering Loss, Writing Memory Units: 4"
+        },
+        {
+          "code": "FREN 375gmw",
+          "title": "Global Narratives of Illness and Disability",
+          "units": 4.0,
+          "source_line": "- FREN 375gmw Global Narratives of Illness and Disability Units: 4"
+        },
+        {
+          "code": "FREN 382",
+          "title": "Paris Avant-Gardes  (Paris semester only)",
+          "units": 4.0,
+          "source_line": "- FREN 382 Paris Avant-Gardes Units: 4 (Paris semester only)"
+        },
+        {
+          "code": "FREN 383",
+          "title": "French Women Writers",
+          "units": 4.0,
+          "source_line": "- FREN 383 French Women Writers Units: 4"
+        },
+        {
+          "code": "FREN 392",
+          "title": "Seminar in Literary and Cultural Studies  , max 8",
+          "units": 4.0,
+          "source_line": "- FREN 392 Seminar in Literary and Cultural Studies Units: 4 , max 8"
+        },
+        {
+          "code": "FREN 393",
+          "title": "Theories and Theorists",
+          "units": 4.0,
+          "source_line": "- FREN 393 Theories and Theorists Units: 4"
+        },
+        {
+          "code": "FREN 401",
+          "title": "Studies in Early Modernity  , max 8",
+          "units": 4.0,
+          "source_line": "- FREN 401 Studies in Early Modernity Units: 4 , max 8"
+        },
+        {
+          "code": "FREN 402",
+          "title": "Modernity and Modernism  , max 8",
+          "units": 4.0,
+          "source_line": "- FREN 402 Modernity and Modernism Units: 4 , max 8"
+        },
+        {
+          "code": "FREN 403",
+          "title": "Legacies of Empire  , max 8",
+          "units": 4.0,
+          "source_line": "- FREN 403 Legacies of Empire Units: 4 , max 8"
+        },
+        {
+          "code": "FREN 404",
+          "title": "Studies in an Author",
+          "units": 4.0,
+          "source_line": "- FREN 404 Studies in an Author Units: 4"
+        },
+        {
+          "code": "FREN 410",
+          "title": "Actualités Françaises  (Paris semester only)",
+          "units": 4.0,
+          "source_line": "- FREN 410 Actualités Françaises Units: 4 (Paris semester only)"
+        },
+        {
+          "code": "FREN 432",
+          "title": "French Theatre  (Paris semester only)",
+          "units": 4.0,
+          "source_line": "- FREN 432 French Theatre Units: 4 (Paris semester only)"
+        },
+        {
+          "code": "FREN 445",
+          "title": "Feminism, Gender and Sexuality",
+          "units": 4.0,
+          "source_line": "- FREN 445 Feminism, Gender and Sexuality Units: 4"
+        },
+        {
+          "code": "FREN 446",
+          "title": "Contemporary French Thought",
+          "units": 4.0,
+          "source_line": "- FREN 446 Contemporary French Thought Units: 4"
+        },
+        {
+          "code": "FREN 448m",
+          "title": "France and Islam",
+          "units": 4.0,
+          "source_line": "- FREN 448m France and Islam Units: 4"
+        },
+        {
+          "code": "FREN 449",
+          "title": "Studies in French Civilization  (Paris semester only)",
+          "units": 4.0,
+          "source_line": "- FREN 449 Studies in French Civilization Units: 4 (Paris semester only)"
+        },
+        {
+          "code": "FREN 464",
+          "title": "Cultural Politics and Traditions  , max 8",
+          "units": 4.0,
+          "source_line": "- FREN 464 Cultural Politics and Traditions Units: 4 , max 8"
+        },
+        {
+          "code": "FREN 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8 , max 12",
+          "units": 1.0,
+          "source_line": "- FREN 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 , max 12"
+        },
+        {
+          "code": "FREN 499",
+          "title": "Special Topics , 3, 4, 5, 6, 7, 8 , max 8",
+          "units": 2.0,
+          "source_line": "- FREN 499 Special Topics Units: 2, 3, 4, 5, 6, 7, 8 , max 8"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "FREN 310",
+          "title": "and FREN 360 cannot both be taken for credit toward the minor in French",
+          "units": null,
+          "source_line": "*FREN 310 and FREN 360 cannot both be taken for credit toward the minor in French."
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

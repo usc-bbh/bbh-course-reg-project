@@ -1,0 +1,425 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Themed Entertainment (BFA)",
+    "credential": "BFA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32788",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32788&returnto=9396",
+    "source_text_file": "199_themed_entertainment_bfa.txt",
+    "source_content_sha256": "ffd77d79fe8117171126594dd2b6213492b0e238c075c69682ed800517c9225a",
+    "retrieved_at": "2026-07-31T00:57:35Z"
+  },
+  "totals": {
+    "stated_total_units": 128.0,
+    "stated_total_units_source": "degree requires 128 units",
+    "unit_statements_verbatim": [
+      "The degree requires 128 units, including 62 units in the major."
+    ],
+    "course_entry_count": 54,
+    "distinct_course_codes": 54,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Fine Arts in Themed Entertainment is a unique four-year program offered by the School of Cinematic Arts. Students study within the framework that combines a broad liberal arts background with a specialization track within the Themed Entertainment Industry. Areas of concentration might include show design, interactive arts, production, project management.",
+          "source_line": "The Bachelor of Fine Arts in Themed Entertainment is a unique four-year program offered by the School of Cinematic Arts. Students study within the framework that combines a broad liberal arts background with a specialization track within the Themed Entertainment Industry. Areas of concentration might include show design, interactive arts, production, project management."
+        },
+        {
+          "text": "Undergraduate students take their pre-professional courses in the USC Dornsife College of Letters, Arts and Sciences, including the general education requirements. Major courses are selected from the curriculum of the School of Cinematic Arts. The degree requires 128 units, including 62 units in the major.",
+          "source_line": "Undergraduate students take their pre-professional courses in the USC Dornsife College of Letters, Arts and Sciences, including the general education requirements. Major courses are selected from the curriculum of the School of Cinematic Arts. The degree requires 128 units, including 62 units in the major."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Core",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CNTV 101",
+          "title": "Reality Starts Here",
+          "units": 2.0,
+          "source_line": "- CNTV 101 Reality Starts Here Units: 2"
+        },
+        {
+          "code": "CTCS 150gw",
+          "title": "The Cinematic Arts in Society",
+          "units": 4.0,
+          "source_line": "- CTCS 150gw The Cinematic Arts in Society Units: 4"
+        },
+        {
+          "code": "CTIN 191",
+          "title": "Survey of Themed Entertainment",
+          "units": 4.0,
+          "source_line": "- CTIN 191 Survey of Themed Entertainment Units: 4"
+        },
+        {
+          "code": "CTIN 252",
+          "title": "Themed Concept Development: Creativity, Research, Ideation",
+          "units": 2.0,
+          "source_line": "- CTIN 252 Themed Concept Development: Creativity, Research, Ideation Units: 2"
+        },
+        {
+          "code": "CTIN 295",
+          "title": "Themed Entertainment Project Crew",
+          "units": 2.0,
+          "source_line": "- CTIN 295 Themed Entertainment Project Crew Units: 2"
+        },
+        {
+          "code": "CTIN 395",
+          "title": "Miniature Golf Design",
+          "units": 4.0,
+          "source_line": "- CTIN 395 Miniature Golf Design Units: 4"
+        },
+        {
+          "code": "CTIN 396",
+          "title": "Miniature Golf Production",
+          "units": 4.0,
+          "source_line": "- CTIN 396 Miniature Golf Production Units: 4"
+        },
+        {
+          "code": "CTIN 452L",
+          "title": "Themed Entertainment Design",
+          "units": 4.0,
+          "source_line": "- CTIN 452L Themed Entertainment Design Units: 4"
+        },
+        {
+          "code": "CTIN 457",
+          "title": "Themed Entertainment Business Operations",
+          "units": 2.0,
+          "source_line": "- CTIN 457 Themed Entertainment Business Operations Units: 2"
+        },
+        {
+          "code": "CTIN 488",
+          "title": "Game Design Workshop",
+          "units": 4.0,
+          "source_line": "- CTIN 488 Game Design Workshop Units: 4"
+        },
+        {
+          "code": "CTIN 495",
+          "title": "Advanced Themed Entertainment Design",
+          "units": 4.0,
+          "source_line": "- CTIN 495 Advanced Themed Entertainment Design Units: 4"
+        },
+        {
+          "code": "CTIN 496",
+          "title": "Advanced Themed Entertainment Production",
+          "units": 4.0,
+          "source_line": "- CTIN 496 Advanced Themed Entertainment Production Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Required Core Sequence of Themed Entertainment Design and Production",
+          "source_line": "Required Core Sequence of Themed Entertainment Design and Production"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Introductory Elective Core",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ACAD 187",
+          "title": "Digital Toolbox: 3D Design",
+          "units": 2.0,
+          "source_line": "- ACAD 187 Digital Toolbox: 3D Design Units: 2"
+        },
+        {
+          "code": "ACAD 188",
+          "title": "Modeling Products with Solidworks",
+          "units": 2.0,
+          "source_line": "- ACAD 188 Modeling Products with Solidworks Units: 2"
+        },
+        {
+          "code": "ACAD 189",
+          "title": "3D Tools for Product Design",
+          "units": 2.0,
+          "source_line": "- ACAD 189 3D Tools for Product Design Units: 2"
+        },
+        {
+          "code": "AME 101L",
+          "title": "Introduction to Mechanical Engineering",
+          "units": 4.0,
+          "source_line": "- AME 101L Introduction to Mechanical Engineering Units: 4"
+        },
+        {
+          "code": "ARCH 106x",
+          "title": "Workshop in Architecture",
+          "units": 2.0,
+          "source_line": "- ARCH 106x Workshop in Architecture Units: 2"
+        },
+        {
+          "code": "ART 207a",
+          "title": "Two-Dimensional Art Workshop",
+          "units": 2.0,
+          "source_line": "- ART 207a Two-Dimensional Art Workshop Units: 2"
+        },
+        {
+          "code": "ART 207b",
+          "title": "Two-Dimensional Art Workshop",
+          "units": 2.0,
+          "source_line": "- ART 207b Two-Dimensional Art Workshop Units: 2"
+        },
+        {
+          "code": "ART 260",
+          "title": "Introduction to Video: Projection and Virtual Worlds in Art",
+          "units": 4.0,
+          "source_line": "- ART 260 Introduction to Video: Projection and Virtual Worlds in Art Units: 4"
+        },
+        {
+          "code": "CE 106",
+          "title": "Introduction to Civil Engineering",
+          "units": 2.0,
+          "source_line": "- CE 106 Introduction to Civil Engineering Units: 2"
+        },
+        {
+          "code": "CTIN 101",
+          "title": "Fundamentals of Procedural Media",
+          "units": 2.0,
+          "source_line": "- CTIN 101 Fundamentals of Procedural Media Units: 2"
+        },
+        {
+          "code": "CTIN 289",
+          "title": "Game Development Fundamentals",
+          "units": 4.0,
+          "source_line": "- CTIN 289 Game Development Fundamentals Units: 4"
+        },
+        {
+          "code": "DES 123xg",
+          "title": "The Design Challenge: Exploring the Design Process",
+          "units": 4.0,
+          "source_line": "- DES 123xg The Design Challenge: Exploring the Design Process Units: 4"
+        },
+        {
+          "code": "EE 105",
+          "title": "Introduction to Electrical Engineering",
+          "units": 4.0,
+          "source_line": "- EE 105 Introduction to Electrical Engineering Units: 4"
+        },
+        {
+          "code": "ISE 105",
+          "title": "Introduction to Industrial and Systems Engineering",
+          "units": 2.0,
+          "source_line": "- ISE 105 Introduction to Industrial and Systems Engineering Units: 2"
+        },
+        {
+          "code": "TAC 165",
+          "title": "Introduction to C++ Programming",
+          "units": 2.0,
+          "source_line": "- TAC 165 Introduction to C++ Programming Units: 2"
+        },
+        {
+          "code": "TAC 215L",
+          "title": "Introduction to 3D Modeling, Animation and Visual Effects",
+          "units": 2.0,
+          "source_line": "- TAC 215L Introduction to 3D Modeling, Animation and Visual Effects Units: 2"
+        },
+        {
+          "code": "THTR 130",
+          "title": "Introduction to Theatrical Production",
+          "units": 2.0,
+          "source_line": "- THTR 130 Introduction to Theatrical Production Units: 2"
+        },
+        {
+          "code": "THTR 241",
+          "title": "Methods and Materials",
+          "units": 2.0,
+          "source_line": "- THTR 241 Methods and Materials Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "At least 8 units from the following courses:",
+          "source_line": "At least 8 units from the following courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Intermediate Elective Core",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ACAD 245",
+          "title": "Fundamentals of Product Design",
+          "units": 4.0,
+          "source_line": "- ACAD 245 Fundamentals of Product Design Units: 4"
+        },
+        {
+          "code": "ARCH 207",
+          "title": "Computer Applications in Architecture",
+          "units": 2.0,
+          "source_line": "- ARCH 207 Computer Applications in Architecture Units: 2"
+        },
+        {
+          "code": "BUCO 450",
+          "title": "Communication for Organizations: Exploring Creativity",
+          "units": 2.0,
+          "source_line": "- BUCO 450 Communication for Organizations: Exploring Creativity Units: 2"
+        },
+        {
+          "code": "CTAN 420",
+          "title": "Concept Design for Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 420 Concept Design for Animation Units: 2"
+        },
+        {
+          "code": "CTIN 409",
+          "title": "Producing Interactive Projects",
+          "units": 2.0,
+          "source_line": "- CTIN 409 Producing Interactive Projects Units: 2"
+        },
+        {
+          "code": "CTIN 444",
+          "title": "Audio Expression",
+          "units": 2.0,
+          "source_line": "- CTIN 444 Audio Expression Units: 2"
+        },
+        {
+          "code": "CTPR 425",
+          "title": "Production Planning",
+          "units": 2.0,
+          "source_line": "- CTPR 425 Production Planning Units: 2"
+        },
+        {
+          "code": "CTWR 410L",
+          "title": "Character Development and Storytelling for Games",
+          "units": 4.0,
+          "source_line": "- CTWR 410L Character Development and Storytelling for Games Units: 4"
+        },
+        {
+          "code": "EE 109L",
+          "title": "Introduction to Embedded Systems",
+          "units": 4.0,
+          "source_line": "- EE 109L Introduction to Embedded Systems Units: 4"
+        },
+        {
+          "code": "THTR 232",
+          "title": "Introduction to Theatrical Lighting",
+          "units": 3.0,
+          "source_line": "- THTR 232 Introduction to Theatrical Lighting Units: 3"
+        },
+        {
+          "code": "THTR 236",
+          "title": "Stage Sound",
+          "units": 3.0,
+          "source_line": "- THTR 236 Stage Sound Units: 3"
+        },
+        {
+          "code": "THTR 303",
+          "title": "Projection Design I",
+          "units": 3.0,
+          "source_line": "- THTR 303 Projection Design I Units: 3"
+        },
+        {
+          "code": "THTR 335",
+          "title": "Scenic Construction",
+          "units": 3.0,
+          "source_line": "- THTR 335 Scenic Construction Units: 3"
+        }
+      ],
+      "notes": [
+        {
+          "text": "At least 8 units of the following courses:",
+          "source_line": "At least 8 units of the following courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Advanced Elective Core",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ARCH 423",
+          "title": "Light, Color and the Character of Material",
+          "units": 2.0,
+          "source_line": "- ARCH 423 Light, Color and the Character of Material Units: 2"
+        },
+        {
+          "code": "BUCO 445",
+          "title": "Communicating to Lead and Persuade",
+          "units": 4.0,
+          "source_line": "- BUCO 445 Communicating to Lead and Persuade Units: 4"
+        },
+        {
+          "code": "CTAN 432",
+          "title": "The World of Visual Effects",
+          "units": 2.0,
+          "source_line": "- CTAN 432 The World of Visual Effects Units: 2"
+        },
+        {
+          "code": "CTIN 480",
+          "title": "Directing for Games and Interactive Media",
+          "units": 2.0,
+          "source_line": "- CTIN 480 Directing for Games and Interactive Media Units: 2"
+        },
+        {
+          "code": "CTIN 486",
+          "title": "Alternative Control Workshop",
+          "units": 2.0,
+          "source_line": "- CTIN 486 Alternative Control Workshop Units: 2"
+        },
+        {
+          "code": "CTIN 489L",
+          "title": "Intermediate Game Design and Production",
+          "units": 4.0,
+          "source_line": "- CTIN 489L Intermediate Game Design and Production Units: 4"
+        },
+        {
+          "code": "CTPR 406",
+          "title": "Visual Story and Communication",
+          "units": 2.0,
+          "source_line": "- CTPR 406 Visual Story and Communication Units: 2"
+        },
+        {
+          "code": "CTPR 465",
+          "title": "Practicum in Production Design",
+          "units": 2.0,
+          "source_line": "- CTPR 465 Practicum in Production Design Units: 2"
+        },
+        {
+          "code": "CTWR 541",
+          "title": "Dreams, the Brain, and Storytelling",
+          "units": 2.0,
+          "source_line": "- CTWR 541 Dreams, the Brain, and Storytelling Units: 2"
+        },
+        {
+          "code": "THTR 308",
+          "title": "Lighting Programming for Live Events",
+          "units": 3.0,
+          "source_line": "- THTR 308 Lighting Programming for Live Events Units: 3"
+        },
+        {
+          "code": "THTR 438",
+          "title": "Technical Theatre",
+          "units": 3.0,
+          "source_line": "- THTR 438 Technical Theatre Units: 3"
+        }
+      ],
+      "notes": [
+        {
+          "text": "At least 6 units of the following courses:",
+          "source_line": "At least 6 units of the following courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

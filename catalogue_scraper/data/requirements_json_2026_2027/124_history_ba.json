@@ -1,0 +1,1725 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "History (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31820",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31820&returnto=9396",
+    "source_text_file": "124_history_ba.txt",
+    "source_content_sha256": "1dea83570719f7f19b3575420ea0f0ed4ae8ea5ccaf468e8f29f04637dc06e60",
+    "retrieved_at": "2026-07-31T00:54:49Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "# History (BA)\n\n---\n\nThe Bachelor of Arts in History requires students to take 10 courses (40 units).",
+      "No more than 4 units of HIST 490x Directed Research may be counted as satisfying the upper-division seminar requirement.",
+      "Citizenship Units: 4\n- HIST 211gp Race in America Units: 4\n- HIST 225g Film, Power, and American History Units: 4\n- HIST 235g War and the American Experience Units: 4\n- HIST 240gp The History of California Units: 4\n- HIST 241gp Introduction to the American West Units: 4\n- HIST 245mgp How Sex Changed: US History, 1870-the Present Units: 4\n- HIST 271g Telling Native American Stories Units: 4\n- HIST 272g Women and Gender in the Ancient and Spanish Americas Units: 4\n- HIST 317gmp Native Americans in American Public Life Units: 4\n- HIST 320p Law, Slavery, and Race Units: 4\n- HIST 343 Empire’s Workshop: The United States in Latin America Units: 4\n- HIST 349 Colonial North America 1600–1760 Units: 4\n- HIST 351 The American Revolution Units: 4\n- HIST 352 The American Civil War Units: 4\n- HIST 353m Race and Racism in the Americas Units: 4\n- HIST 354 Mexican Migration to the United States Units: 4\n- HIST 355 The African-American Experience Units: 4\n- HIST 357 Modern Consumer Culture Units: 4\n- HIST 358 U.",
+      "History Units: 4\n- HIST 362 Authenticity in Twentieth Century Popular Music Units: 4\n- HIST 368 Afro-Latin America Units: 4\n- HIST 370 Colonial Latin America Units: 4\n- HIST 372 Modern Latin America Units: 4\n- HIST 373 History of the Mexican American Units: 4\n- HIST 374 History of Mexico Units: 4\n- HIST 378m Introduction to Asian American History Units: 4\n- HIST 379 Arabs in America Units: 4\n- HIST 380 American Popular Culture Units: 4\n- HIST 386 American Legal History Units: 4\n- HIST 392 The Southern California Armenian Diaspora Units: 4\n- HIST 393g Quantitative Historical Analysis Units: 4\n- HIST 451 The Mexican Revolution Units: 4\n- HIST 452 20th Century Black Nationalism, Radicalism and Gender Units: 4\n- HIST 453 The Age of Emancipation Units: 4\n- HIST 455 Advanced Topics in African-American History Units: 4\n- HIST 456 Race, Slavery, and the Making of the Atlantic World Units: 4\n- HIST 457 Seminar in the American West Units: 4\n- HIST 459 Race and the Carceral State Units: 4\n- HIST 460 War, Race, and the Constitution Units: 4\n- HIST 473 Colonial Latin America Seminar Units: 4\n- HIST 487 The United States since 1939 Units: 4\n\n## Geographic Requirement: Africa, Asia and the Middle East\n\n---\n\nAll majors must take ONE course in this area.",
+      "- HIST 106g Chinese Lives: An Introduction to Chinese History Units: 4\n- HIST 107gp Introduction to the History of Japan Units: 4\n- HIST 108g Histories of South Asia Units: 4\n- HIST 110g History of Early Africa Units: 4\n- HIST 111g African History Since 1880 Units: 4\n- HIST 185g A Survey of Armenian History Units: 4\n- HIST 266gp Business and East Asian Culture, 1800-Present Units: 4\n- HIST 301 Religions of Ancient Egypt and the Near East Units: 4\n- HIST 334 History of the Samurai Units: 4\n- HIST 335 History and Law in Japan Units: 4\n- HIST 336 History of Japan, 1550–1945 Units: 4\n- HIST 337 Japan since 1945 Units: 4\n- HIST 340 History of China since 1800 Units: 4\n- HIST 364 Religion and Difference in the Modern Middle East Units: 4\n- HIST 366 The People’s Republic of China Units: 4\n- HIST 377 Law and Society in Premodern China and Japan Units: 4\n- HIST 389 Modern Iran Units: 4\n- HIST 391 Feminist Histories of South Asia Units: 4\n- HIST 394p The Great Muslim Empires of the Near East and India Units: 4\n- HIST 437 Seminar in Modern Chinese History Units: 4\n- HIST 438 War and Peace in Medieval Japan Units: 4\n- HIST 448 South Africa: Race, Power and Resistance Units: 4\n- HIST 467 Defeat and Occupation in Modern Japan Units: 4\n- HIST 480 Seminar in Middle East History Units: 4\n\n## Geographic Requirement: Europe and the Mediterranean\n\n---\n\nAll majors must take ONE course in this area.",
+      "- HIST 101gp State and Society in the Ancient World Units: 4\n- HIST 102gm The Worlds of Medieval Europe Units: 4\n- HIST 103gp The Emergence of Modern Europe Units: 4\n- HIST 104gp Modern Europe Units: 4\n- HIST 237gp Fascism Units: 4\n- HIST 306 The Early Middle Ages Units: 4\n- HIST 307 The High Middle Ages: 1100-1400 Units: 4\n- HIST 308 Britain and Ireland to 1200 C.",
+      "Units: 4\n- HIST 312 The Age of the French Revolution and Napoleon Units: 4\n- HIST 314 Rome Through its Monuments from Antiquity to the Middle Ages Units: 4\n- HIST 315 Origins of Free Market Thought in Early Modern Europe Units: 4\n- HIST 316 The Renaissance Units: 4\n- HIST 319 The Quest for the Individual in Early Modern Europe Units: 4\n- HIST 321 The Crusades Units: 4\n- HIST 323 The Holocaust in 20th Century Europe Units: 4\n- HIST 325 Early Modern Britain Units: 4\n- HIST 326 The Victorians Units: 4\n- HIST 327 Twentieth Century Britain Units: 4\n- HIST 329 Madness and Society in the Modern Age Units: 4\n- HIST 350 Early Modern Things: Material Culture in Early Modern Life Units: 4\n- HIST 385 Law and Order in the Early Modern British World Units: 4\n- HIST 395 Sex and the City: Constructing Gender in London, 1700-1900 Units: 4\n- HIST 397 Gender, Madness and Modernism in Freud’s Vienna Units: 4\n- HIST 396 Women of Rome, from Antiquity through the Middle Ages Units: 4\n- HIST 403 The Age of Charlemagne and the Making of Europe Units: 4\n- HIST 405 Traveling in the Early Medieval Mediterranean Units: 4\n- HIST 407 Europe in the 10th Century Units: 4\n- HIST 408 Heretics and Prophets in the Middle Ages Units: 4\n- HIST 411 Early Modern European Cultural History Units: 4\n- HIST 417 History of Soviet Russia: 1917–1991 Units: 4, 2 years\n- HIST 422 European Intellectual and Cultural History: The 20th Century, 1920 to the Present Units: 4\n- HIST 427 The German Question: Nation and Identity in Modern Central Europe Units: 4\n- HIST 429 Street Life: Urban Culture in Modern Europe Units: 4\n\n## Geographic Requirement: Global or Transnational\n\n---\n\nAll majors must take ONE course in this area.",
+      "- HIST 190g History of Science: Antiquity to the Scientific Revolution Units: 4\n- HIST 250g Climate Change: Science, History and Solutions Units: 4\n- HIST 251gp History of Science, Technology and Medicine Units: 4\n- HIST 278gp Ottomans and Empire: Anatolia, the Middle East, and the Mediterranean World Units: 4\n- HIST 322 Anti-Semitism, Racism and Other Hatreds Units: 4\n- HIST 330 Drugs: A Global Cultural History Units: 4\n- HIST 331 The British Empire: 1588–1834 Units: 4\n- HIST 363 A Global History of Computing Units: 4\n- HIST 371 Culture in Diaspora: The Jews of Spain Units: 4\n- HIST 381 Cinema and History Units: 4\n- HIST 398 The History of Waste Units: 4\n- HIST 413 The Age of Revolutions Units: 4\n- HIST 430 Migration and Displacement in the Indian Ocean World Units: 4\n- HIST 431 Histories of the Apocalypse Units: 4\n- HIST 433 The History of Drink Units: 4\n- HIST 443 Race and Religious Riots in Modern World History Units: 4\n- HIST 444 Mass Violence and Comparative Genocide in Modern World History Units: 4\n- HIST 446 Resistance to Genocide Units: 4\n- HIST 447 Law and Empire: An Introduction to Global Legal History Units: 4\n- HIST 479 History in the Museum: The Past in Objects Units: 4\n- HIST 482 Family History, World History Units: 4\n\n## Temporal Requirement: Pre-1800\n\n---\n\nAll majors must take TWO courses from this period.",
+      "- HIST 101gp State and Society in the Ancient World Units: 4\n- HIST 102gm The Worlds of Medieval Europe Units: 4\n- HIST 103gp The Emergence of Modern Europe Units: 4\n- HIST 106g Chinese Lives: An Introduction to Chinese History Units: 4\n- HIST 110g History of Early Africa Units: 4\n- HIST 185g A Survey of Armenian History Units: 4\n- HIST 190g History of Science: Antiquity to the Scientific Revolution Units: 4\n- HIST 271g Telling Native American Stories Units: 4\n- HIST 272g Women and Gender in the Ancient and Spanish Americas Units: 4\n- HIST 273g Colonial Latin America Units: 4\n- HIST 278gp Ottomans and Empire: Anatolia, the Middle East, and the Mediterranean World Units: 4\n- HIST 301 Religions of Ancient Egypt and the Near East Units: 4\n- HIST 306 The Early Middle Ages Units: 4\n- HIST 307 The High Middle Ages: 1100-1400 Units: 4\n- HIST 308 Britain and Ireland to 1200 C.",
+      "Units: 4\n- HIST 314 Rome Through its Monuments from Antiquity to the Middle Ages Units: 4\n- HIST 315 Origins of Free Market Thought in Early Modern Europe Units: 4\n- HIST 316 The Renaissance Units: 4\n- HIST 319 The Quest for the Individual in Early Modern Europe Units: 4\n- HIST 321 The Crusades Units: 4\n- HIST 325 Early Modern Britain Units: 4\n- HIST 331 The British Empire: 1588–1834 Units: 4\n- HIST 334 History of the Samurai Units: 4\n- HIST 335 History and Law in Japan Units: 4\n- HIST 349 Colonial North America 1600–1760 Units: 4\n- HIST 350 Early Modern Things: Material Culture in Early Modern Life Units: 4\n- HIST 351 The American Revolution Units: 4\n- HIST 370 Colonial Latin America Units: 4\n- HIST 371 Culture in Diaspora: The Jews of Spain Units: 4\n- HIST 377 Law and Society in Premodern China and Japan Units: 4\n- HIST 385 Law and Order in the Early Modern British World Units: 4\n- HIST 394p The Great Muslim Empires of the Near East and India Units: 4\n- HIST 396 Women of Rome, from Antiquity through the Middle Ages Units: 4\n- HIST 403 The Age of Charlemagne and the Making of Europe Units: 4\n- HIST 405 Traveling in the Early Medieval Mediterranean Units: 4\n- HIST 407 Europe in the 10th Century Units: 4\n- HIST 411 Early Modern European Cultural History Units: 4\n- HIST 456 Race, Slavery, and the Making of the Atlantic World Units: 4\n- HIST 438 War and Peace in Medieval Japan Units: 4\n\n## Temporal Requirement: Post-1800\n\n---\n\nAll majors must take TWO courses from this period.",
+      "- HIST 100mg Rethinking the American Experience Units: 4\n- HIST 104gp Modern Europe Units: 4\n- HIST 107gp Introduction to the History of Japan Units: 4\n- HIST 108g Histories of South Asia Units: 4\n- HIST 109g The Latin American Experience Units: 4\n- HIST 111g African History Since 1880 Units: 4\n- HIST 210gw How to Be An American: Global Histories of U.",
+      "Citizenship Units: 4\n- HIST 211gp Race in America Units: 4\n- HIST 225g Film, Power, and American History Units: 4\n- HIST 235g War and the American Experience Units: 4\n- HIST 237gp Fascism Units: 4\n- HIST 240gp The History of California Units: 4\n- HIST 241gp Introduction to the American West Units: 4\n- HIST 245mgp How Sex Changed: US History, 1870-the Present Units: 4\n- HIST 250g Climate Change: Science, History and Solutions Units: 4\n- HIST 251gp History of Science, Technology and Medicine Units: 4\n- HIST 266gp Business and East Asian Culture, 1800-Present Units: 4\n- HIST 312 The Age of the French Revolution and Napoleon Units: 4\n- HIST 317gmp Native Americans in American Public Life Units: 4\n- HIST 320p Law, Slavery, and Race Units: 4\n- HIST 323 The Holocaust in 20th Century Europe Units: 4\n- HIST 326 The Victorians Units: 4\n- HIST 327 Twentieth Century Britain Units: 4\n- HIST 329 Madness and Society in the Modern Age Units: 4\n- HIST 330 Drugs: A Global Cultural History Units: 4\n- HIST 336 History of Japan, 1550–1945 Units: 4\n- HIST 337 Japan since 1945 Units: 4\n- HIST 340 History of China since 1800 Units: 4\n- HIST 343 Empire’s Workshop: The United States in Latin America Units: 4\n- HIST 352 The American Civil War Units: 4\n- HIST 353m Race and Racism in the Americas Units: 4\n- HIST 354 Mexican Migration to the United States Units: 4\n- HIST 355 The African-American Experience Units: 4\n- HIST 357 Modern Consumer Culture Units: 4\n- HIST 358 U.",
+      "History Units: 4\n- HIST 362 Authenticity in Twentieth Century Popular Music Units: 4\n- HIST 363 A Global History of Computing Units: 4\n- HIST 364 Religion and Difference in the Modern Middle East Units: 4\n- HIST 366 The People’s Republic of China Units: 4\n- HIST 368 Afro-Latin America Units: 4\n- HIST 372 Modern Latin America Units: 4\n- HIST 373 History of the Mexican American Units: 4\n- HIST 374 History of Mexico Units: 4\n- HIST 378m Introduction to Asian American History Units: 4\n- HIST 379 Arabs in America Units: 4\n- HIST 380 American Popular Culture Units: 4\n- HIST 381 Cinema and History Units: 4\n- HIST 386 American Legal History Units: 4\n- HIST 389 Modern Iran Units: 4\n- HIST 391 Feminist Histories of South Asia Units: 4\n- HIST 392 The Southern California Armenian Diaspora Units: 4\n- HIST 393g Quantitative Historical Analysis Units: 4\n- HIST 395 Sex and the City: Constructing Gender in London, 1700-1900 Units: 4\n- HIST 397 Gender, Madness and Modernism in Freud’s Vienna Units: 4\n- HIST 398 The History of Waste Units: 4\n- HIST 408 Heretics and Prophets in the Middle Ages Units: 4\n- HIST 413 The Age of Revolutions Units: 4\n- HIST 417 History of Soviet Russia: 1917–1991 Units: 4, 2 years\n- HIST 422 European Intellectual and Cultural History: The 20th Century, 1920 to the Present Units: 4\n- HIST 427 The German Question: Nation and Identity in Modern Central Europe Units: 4\n- HIST 429 Street Life: Urban Culture in Modern Europe Units: 4\n- HIST 430 Migration and Displacement in the Indian Ocean World Units: 4\n- HIST 433 The History of Drink Units: 4\n- HIST 437 Seminar in Modern Chinese History Units: 4\n- HIST 443 Race and Religious Riots in Modern World History Units: 4\n- HIST 444 Mass Violence and Comparative Genocide in Modern World History Units: 4\n- HIST 446 Resistance to Genocide Units: 4\n- HIST 448 South Africa: Race, Power and Resistance Units: 4\n- HIST 451 The Mexican Revolution Units: 4\n- HIST 452 20th Century Black Nationalism, Radicalism and Gender Units: 4\n- HIST 453 The Age of Emancipation Units: 4\n- HIST 455 Advanced Topics in African-American History Units: 4\n- HIST 457 Seminar in the American West Units: 4\n- HIST 459 Race and the Carceral State Units: 4\n- HIST 460 War, Race, and the Constitution Units: 4\n- HIST 467 Defeat and Occupation in Modern Japan Units: 4\n- HIST 479 History in the Museum: The Past in Objects Units: 4\n- HIST 482 Family History, World History Units: 4\n- HIST 487 The United States since 1939 Units: 4\n\n## Capstone Requirement\n\n---\n\nAll history majors must complete a capstone course in the fall and/or spring of their senior year (exceptions can be made for juniors who need to take it earlier)."
+    ],
+    "course_entry_count": 247,
+    "distinct_course_codes": 127,
+    "section_count": 13
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Arts in History requires students to take 10 courses (40 units).",
+          "source_line": "The Bachelor of Arts in History requires students to take 10 courses (40 units)."
+        },
+        {
+          "text": "The History major offers students a means to encounter the peoples and cultures of the past and develop critical thinking, research and writing skills essential for understanding the present. The program exposes students to underlying connections between the study of past times and places and the roots of that study in human concerns about values, identities, issues and policies.",
+          "source_line": "The History major offers students a means to encounter the peoples and cultures of the past and develop critical thinking, research and writing skills essential for understanding the present. The program exposes students to underlying connections between the study of past times and places and the roots of that study in human concerns about values, identities, issues and policies."
+        },
+        {
+          "text": "In their lower-division courses, majors will have the opportunity to explore the histories of different cultures across time. Students at the upper-division level hone their knowledge of different cultures and societies, while also learning how to do history. When they begin to take seminar courses (400 level), they will apply that knowledge to a substantial works of independent research.",
+          "source_line": "In their lower-division courses, majors will have the opportunity to explore the histories of different cultures across time. Students at the upper-division level hone their knowledge of different cultures and societies, while also learning how to do history. When they begin to take seminar courses (400 level), they will apply that knowledge to a substantial works of independent research."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division Requirements",
+      "level": 6,
+      "courses": [],
+      "notes": [
+        {
+          "text": "All majors are required to complete HIST 201 Approaches to History. It is recommended that students complete HIST 201 early in their course of study.",
+          "source_line": "All majors are required to complete HIST 201 Approaches to History. It is recommended that students complete HIST 201 early in their course of study."
+        },
+        {
+          "text": "Students can take up to three additional lower-division survey courses. However, if they prefer to take upper-division courses instead, they may.",
+          "source_line": "Students can take up to three additional lower-division survey courses. However, if they prefer to take upper-division courses instead, they may."
+        },
+        {
+          "text": "The Department of History will accept scores of 4 or 5 on Advanced Placement European History, Advanced Placement United States History or Advanced Placement World History as a substitute for one course requirement at the lower-division level.",
+          "source_line": "The Department of History will accept scores of 4 or 5 on Advanced Placement European History, Advanced Placement United States History or Advanced Placement World History as a substitute for one course requirement at the lower-division level."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Requirements",
+      "level": 6,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Six upper-division courses are required, of which at least two must be 400-levels. No more than 4 units of HIST 490x Directed Research may be counted as satisfying the upper-division seminar requirement.",
+          "source_line": "Six upper-division courses are required, of which at least two must be 400-levels. No more than 4 units of HIST 490x Directed Research may be counted as satisfying the upper-division seminar requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Geographic and Temporal Breadth Requirements",
+      "level": 6,
+      "courses": [],
+      "notes": [
+        {
+          "text": "For geographic breadth, majors must take at least one course from four geographic areas. Those areas and the classes that fulfill them are listed below. Majors must also take two class that focus on the period before 1800 and two that focus on the period after 1800 to show temporal breadth. The courses that cover those periods are listed below. A single course may fulfill both a geographic and temporal requirement.",
+          "source_line": "For geographic breadth, majors must take at least one course from four geographic areas. Those areas and the classes that fulfill them are listed below. Majors must also take two class that focus on the period before 1800 and two that focus on the period after 1800 to show temporal breadth. The courses that cover those periods are listed below. A single course may fulfill both a geographic and temporal requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Requirement",
+      "level": 6,
+      "courses": [],
+      "notes": [
+        {
+          "text": "All history majors must complete a capstone course in the fall and/or spring of their senior year (exceptions can be made for juniors who need to take it earlier). There are two ways to complete the history capstone: a History Honors Thesis or a History Capstone Exercise.",
+          "source_line": "All history majors must complete a capstone course in the fall and/or spring of their senior year (exceptions can be made for juniors who need to take it earlier). There are two ways to complete the history capstone: a History Honors Thesis or a History Capstone Exercise."
+        },
+        {
+          "text": "The History Honors Thesis is a substantial work of scholarship based on original primary source research and/or extensive analysis of a methodological or historiographical issue. To apply for the Honors program, students need a 3.5 or higher GPA in all USC history coursework (although this can be waived in certain cases). They also need to take HIST 492 , both in the fall and spring semester. Those who take this track will be considered for honors in the major. Taking HIST 492 will count as their Capstone.",
+          "source_line": "The History Honors Thesis is a substantial work of scholarship based on original primary source research and/or extensive analysis of a methodological or historiographical issue. To apply for the Honors program, students need a 3.5 or higher GPA in all USC history coursework (although this can be waived in certain cases). They also need to take HIST 492 , both in the fall and spring semester. Those who take this track will be considered for honors in the major. Taking HIST 492 will count as their Capstone."
+        },
+        {
+          "text": "The History Capstone Exercise is a way for students to reflect upon what they have learned as a history major. They will need to fill out a google form (or submit their answers in essay form) where they will reflect upon the classes they took, the papers wrote, and the skills they have developed. They will also attend one of the “Capstone Conversation” events scheduled throughout the year, where they will discuss their answers and their experiences as a major in a larger group setting. The questions and google document link will be posted on the website under Undergraduate Capstone.",
+          "source_line": "The History Capstone Exercise is a way for students to reflect upon what they have learned as a history major. They will need to fill out a google form (or submit their answers in essay form) where they will reflect upon the classes they took, the papers wrote, and the skills they have developed. They will also attend one of the “Capstone Conversation” events scheduled throughout the year, where they will discuss their answers and their experiences as a major in a larger group setting. The questions and google document link will be posted on the website under Undergraduate Capstone."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "All majors must take:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HIST 201",
+          "title": "Approaches to History",
+          "units": 4.0,
+          "source_line": "- HIST 201 Approaches to History Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Geographic Requirement: The Americas",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HIST 100mg",
+          "title": "Rethinking the American Experience",
+          "units": 4.0,
+          "source_line": "- HIST 100mg Rethinking the American Experience Units: 4"
+        },
+        {
+          "code": "HIST 109g",
+          "title": "The Latin American Experience",
+          "units": 4.0,
+          "source_line": "- HIST 109g The Latin American Experience Units: 4"
+        },
+        {
+          "code": "HIST 210gw",
+          "title": "How to Be An American: Global Histories of U.S. Citizenship",
+          "units": 4.0,
+          "source_line": "- HIST 210gw How to Be An American: Global Histories of U.S. Citizenship Units: 4"
+        },
+        {
+          "code": "HIST 211gp",
+          "title": "Race in America",
+          "units": 4.0,
+          "source_line": "- HIST 211gp Race in America Units: 4"
+        },
+        {
+          "code": "HIST 225g",
+          "title": "Film, Power, and American History",
+          "units": 4.0,
+          "source_line": "- HIST 225g Film, Power, and American History Units: 4"
+        },
+        {
+          "code": "HIST 235g",
+          "title": "War and the American Experience",
+          "units": 4.0,
+          "source_line": "- HIST 235g War and the American Experience Units: 4"
+        },
+        {
+          "code": "HIST 240gp",
+          "title": "The History of California",
+          "units": 4.0,
+          "source_line": "- HIST 240gp The History of California Units: 4"
+        },
+        {
+          "code": "HIST 241gp",
+          "title": "Introduction to the American West",
+          "units": 4.0,
+          "source_line": "- HIST 241gp Introduction to the American West Units: 4"
+        },
+        {
+          "code": "HIST 245mgp",
+          "title": "How Sex Changed: US History, 1870-the Present",
+          "units": 4.0,
+          "source_line": "- HIST 245mgp How Sex Changed: US History, 1870-the Present Units: 4"
+        },
+        {
+          "code": "HIST 271g",
+          "title": "Telling Native American Stories",
+          "units": 4.0,
+          "source_line": "- HIST 271g Telling Native American Stories Units: 4"
+        },
+        {
+          "code": "HIST 272g",
+          "title": "Women and Gender in the Ancient and Spanish Americas",
+          "units": 4.0,
+          "source_line": "- HIST 272g Women and Gender in the Ancient and Spanish Americas Units: 4"
+        },
+        {
+          "code": "HIST 317gmp",
+          "title": "Native Americans in American Public Life",
+          "units": 4.0,
+          "source_line": "- HIST 317gmp Native Americans in American Public Life Units: 4"
+        },
+        {
+          "code": "HIST 320p",
+          "title": "Law, Slavery, and Race",
+          "units": 4.0,
+          "source_line": "- HIST 320p Law, Slavery, and Race Units: 4"
+        },
+        {
+          "code": "HIST 343",
+          "title": "Empire’s Workshop: The United States in Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 343 Empire’s Workshop: The United States in Latin America Units: 4"
+        },
+        {
+          "code": "HIST 349",
+          "title": "Colonial North America 1600–1760",
+          "units": 4.0,
+          "source_line": "- HIST 349 Colonial North America 1600–1760 Units: 4"
+        },
+        {
+          "code": "HIST 351",
+          "title": "The American Revolution",
+          "units": 4.0,
+          "source_line": "- HIST 351 The American Revolution Units: 4"
+        },
+        {
+          "code": "HIST 352",
+          "title": "The American Civil War",
+          "units": 4.0,
+          "source_line": "- HIST 352 The American Civil War Units: 4"
+        },
+        {
+          "code": "HIST 353m",
+          "title": "Race and Racism in the Americas",
+          "units": 4.0,
+          "source_line": "- HIST 353m Race and Racism in the Americas Units: 4"
+        },
+        {
+          "code": "HIST 354",
+          "title": "Mexican Migration to the United States",
+          "units": 4.0,
+          "source_line": "- HIST 354 Mexican Migration to the United States Units: 4"
+        },
+        {
+          "code": "HIST 355",
+          "title": "The African-American Experience",
+          "units": 4.0,
+          "source_line": "- HIST 355 The African-American Experience Units: 4"
+        },
+        {
+          "code": "HIST 357",
+          "title": "Modern Consumer Culture",
+          "units": 4.0,
+          "source_line": "- HIST 357 Modern Consumer Culture Units: 4"
+        },
+        {
+          "code": "HIST 358",
+          "title": "U.S. Gay and Lesbian History",
+          "units": 4.0,
+          "source_line": "- HIST 358 U.S. Gay and Lesbian History Units: 4"
+        },
+        {
+          "code": "HIST 359",
+          "title": "The U.S.-Mexico Border",
+          "units": 4.0,
+          "source_line": "- HIST 359 The U.S.-Mexico Border Units: 4"
+        },
+        {
+          "code": "HIST 361",
+          "title": "20th Century U.S. History",
+          "units": 4.0,
+          "source_line": "- HIST 361 20th Century U.S. History Units: 4"
+        },
+        {
+          "code": "HIST 362",
+          "title": "Authenticity in Twentieth Century Popular Music",
+          "units": 4.0,
+          "source_line": "- HIST 362 Authenticity in Twentieth Century Popular Music Units: 4"
+        },
+        {
+          "code": "HIST 368",
+          "title": "Afro-Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 368 Afro-Latin America Units: 4"
+        },
+        {
+          "code": "HIST 370",
+          "title": "Colonial Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 370 Colonial Latin America Units: 4"
+        },
+        {
+          "code": "HIST 372",
+          "title": "Modern Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 372 Modern Latin America Units: 4"
+        },
+        {
+          "code": "HIST 373",
+          "title": "History of the Mexican American",
+          "units": 4.0,
+          "source_line": "- HIST 373 History of the Mexican American Units: 4"
+        },
+        {
+          "code": "HIST 374",
+          "title": "History of Mexico",
+          "units": 4.0,
+          "source_line": "- HIST 374 History of Mexico Units: 4"
+        },
+        {
+          "code": "HIST 378m",
+          "title": "Introduction to Asian American History",
+          "units": 4.0,
+          "source_line": "- HIST 378m Introduction to Asian American History Units: 4"
+        },
+        {
+          "code": "HIST 379",
+          "title": "Arabs in America",
+          "units": 4.0,
+          "source_line": "- HIST 379 Arabs in America Units: 4"
+        },
+        {
+          "code": "HIST 380",
+          "title": "American Popular Culture",
+          "units": 4.0,
+          "source_line": "- HIST 380 American Popular Culture Units: 4"
+        },
+        {
+          "code": "HIST 386",
+          "title": "American Legal History",
+          "units": 4.0,
+          "source_line": "- HIST 386 American Legal History Units: 4"
+        },
+        {
+          "code": "HIST 392",
+          "title": "The Southern California Armenian Diaspora",
+          "units": 4.0,
+          "source_line": "- HIST 392 The Southern California Armenian Diaspora Units: 4"
+        },
+        {
+          "code": "HIST 393g",
+          "title": "Quantitative Historical Analysis",
+          "units": 4.0,
+          "source_line": "- HIST 393g Quantitative Historical Analysis Units: 4"
+        },
+        {
+          "code": "HIST 451",
+          "title": "The Mexican Revolution",
+          "units": 4.0,
+          "source_line": "- HIST 451 The Mexican Revolution Units: 4"
+        },
+        {
+          "code": "HIST 452",
+          "title": "20th Century Black Nationalism, Radicalism and Gender",
+          "units": 4.0,
+          "source_line": "- HIST 452 20th Century Black Nationalism, Radicalism and Gender Units: 4"
+        },
+        {
+          "code": "HIST 453",
+          "title": "The Age of Emancipation",
+          "units": 4.0,
+          "source_line": "- HIST 453 The Age of Emancipation Units: 4"
+        },
+        {
+          "code": "HIST 455",
+          "title": "Advanced Topics in African-American History",
+          "units": 4.0,
+          "source_line": "- HIST 455 Advanced Topics in African-American History Units: 4"
+        },
+        {
+          "code": "HIST 456",
+          "title": "Race, Slavery, and the Making of the Atlantic World",
+          "units": 4.0,
+          "source_line": "- HIST 456 Race, Slavery, and the Making of the Atlantic World Units: 4"
+        },
+        {
+          "code": "HIST 457",
+          "title": "Seminar in the American West",
+          "units": 4.0,
+          "source_line": "- HIST 457 Seminar in the American West Units: 4"
+        },
+        {
+          "code": "HIST 459",
+          "title": "Race and the Carceral State",
+          "units": 4.0,
+          "source_line": "- HIST 459 Race and the Carceral State Units: 4"
+        },
+        {
+          "code": "HIST 460",
+          "title": "War, Race, and the Constitution",
+          "units": 4.0,
+          "source_line": "- HIST 460 War, Race, and the Constitution Units: 4"
+        },
+        {
+          "code": "HIST 473",
+          "title": "Colonial Latin America Seminar",
+          "units": 4.0,
+          "source_line": "- HIST 473 Colonial Latin America Seminar Units: 4"
+        },
+        {
+          "code": "HIST 487",
+          "title": "The United States since 1939",
+          "units": 4.0,
+          "source_line": "- HIST 487 The United States since 1939 Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "All majors must take ONE course in this area. See possible courses below.",
+          "source_line": "All majors must take ONE course in this area. See possible courses below."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Geographic Requirement: Africa, Asia and the Middle East",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HIST 106g",
+          "title": "Chinese Lives: An Introduction to Chinese History",
+          "units": 4.0,
+          "source_line": "- HIST 106g Chinese Lives: An Introduction to Chinese History Units: 4"
+        },
+        {
+          "code": "HIST 107gp",
+          "title": "Introduction to the History of Japan",
+          "units": 4.0,
+          "source_line": "- HIST 107gp Introduction to the History of Japan Units: 4"
+        },
+        {
+          "code": "HIST 108g",
+          "title": "Histories of South Asia",
+          "units": 4.0,
+          "source_line": "- HIST 108g Histories of South Asia Units: 4"
+        },
+        {
+          "code": "HIST 110g",
+          "title": "History of Early Africa",
+          "units": 4.0,
+          "source_line": "- HIST 110g History of Early Africa Units: 4"
+        },
+        {
+          "code": "HIST 111g",
+          "title": "African History Since 1880",
+          "units": 4.0,
+          "source_line": "- HIST 111g African History Since 1880 Units: 4"
+        },
+        {
+          "code": "HIST 185g",
+          "title": "A Survey of Armenian History",
+          "units": 4.0,
+          "source_line": "- HIST 185g A Survey of Armenian History Units: 4"
+        },
+        {
+          "code": "HIST 266gp",
+          "title": "Business and East Asian Culture, 1800-Present",
+          "units": 4.0,
+          "source_line": "- HIST 266gp Business and East Asian Culture, 1800-Present Units: 4"
+        },
+        {
+          "code": "HIST 301",
+          "title": "Religions of Ancient Egypt and the Near East",
+          "units": 4.0,
+          "source_line": "- HIST 301 Religions of Ancient Egypt and the Near East Units: 4"
+        },
+        {
+          "code": "HIST 334",
+          "title": "History of the Samurai",
+          "units": 4.0,
+          "source_line": "- HIST 334 History of the Samurai Units: 4"
+        },
+        {
+          "code": "HIST 335",
+          "title": "History and Law in Japan",
+          "units": 4.0,
+          "source_line": "- HIST 335 History and Law in Japan Units: 4"
+        },
+        {
+          "code": "HIST 336",
+          "title": "History of Japan, 1550–1945",
+          "units": 4.0,
+          "source_line": "- HIST 336 History of Japan, 1550–1945 Units: 4"
+        },
+        {
+          "code": "HIST 337",
+          "title": "Japan since 1945",
+          "units": 4.0,
+          "source_line": "- HIST 337 Japan since 1945 Units: 4"
+        },
+        {
+          "code": "HIST 340",
+          "title": "History of China since 1800",
+          "units": 4.0,
+          "source_line": "- HIST 340 History of China since 1800 Units: 4"
+        },
+        {
+          "code": "HIST 364",
+          "title": "Religion and Difference in the Modern Middle East",
+          "units": 4.0,
+          "source_line": "- HIST 364 Religion and Difference in the Modern Middle East Units: 4"
+        },
+        {
+          "code": "HIST 366",
+          "title": "The People’s Republic of China",
+          "units": 4.0,
+          "source_line": "- HIST 366 The People’s Republic of China Units: 4"
+        },
+        {
+          "code": "HIST 377",
+          "title": "Law and Society in Premodern China and Japan",
+          "units": 4.0,
+          "source_line": "- HIST 377 Law and Society in Premodern China and Japan Units: 4"
+        },
+        {
+          "code": "HIST 389",
+          "title": "Modern Iran",
+          "units": 4.0,
+          "source_line": "- HIST 389 Modern Iran Units: 4"
+        },
+        {
+          "code": "HIST 391",
+          "title": "Feminist Histories of South Asia",
+          "units": 4.0,
+          "source_line": "- HIST 391 Feminist Histories of South Asia Units: 4"
+        },
+        {
+          "code": "HIST 394p",
+          "title": "The Great Muslim Empires of the Near East and India",
+          "units": 4.0,
+          "source_line": "- HIST 394p The Great Muslim Empires of the Near East and India Units: 4"
+        },
+        {
+          "code": "HIST 437",
+          "title": "Seminar in Modern Chinese History",
+          "units": 4.0,
+          "source_line": "- HIST 437 Seminar in Modern Chinese History Units: 4"
+        },
+        {
+          "code": "HIST 438",
+          "title": "War and Peace in Medieval Japan",
+          "units": 4.0,
+          "source_line": "- HIST 438 War and Peace in Medieval Japan Units: 4"
+        },
+        {
+          "code": "HIST 448",
+          "title": "South Africa: Race, Power and Resistance",
+          "units": 4.0,
+          "source_line": "- HIST 448 South Africa: Race, Power and Resistance Units: 4"
+        },
+        {
+          "code": "HIST 467",
+          "title": "Defeat and Occupation in Modern Japan",
+          "units": 4.0,
+          "source_line": "- HIST 467 Defeat and Occupation in Modern Japan Units: 4"
+        },
+        {
+          "code": "HIST 480",
+          "title": "Seminar in Middle East History",
+          "units": 4.0,
+          "source_line": "- HIST 480 Seminar in Middle East History Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "All majors must take ONE course in this area. See possible courses below.",
+          "source_line": "All majors must take ONE course in this area. See possible courses below."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Geographic Requirement: Europe and the Mediterranean",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HIST 101gp",
+          "title": "State and Society in the Ancient World",
+          "units": 4.0,
+          "source_line": "- HIST 101gp State and Society in the Ancient World Units: 4"
+        },
+        {
+          "code": "HIST 102gm",
+          "title": "The Worlds of Medieval Europe",
+          "units": 4.0,
+          "source_line": "- HIST 102gm The Worlds of Medieval Europe Units: 4"
+        },
+        {
+          "code": "HIST 103gp",
+          "title": "The Emergence of Modern Europe",
+          "units": 4.0,
+          "source_line": "- HIST 103gp The Emergence of Modern Europe Units: 4"
+        },
+        {
+          "code": "HIST 104gp",
+          "title": "Modern Europe",
+          "units": 4.0,
+          "source_line": "- HIST 104gp Modern Europe Units: 4"
+        },
+        {
+          "code": "HIST 237gp",
+          "title": "Fascism",
+          "units": 4.0,
+          "source_line": "- HIST 237gp Fascism Units: 4"
+        },
+        {
+          "code": "HIST 306",
+          "title": "The Early Middle Ages",
+          "units": 4.0,
+          "source_line": "- HIST 306 The Early Middle Ages Units: 4"
+        },
+        {
+          "code": "HIST 307",
+          "title": "The High Middle Ages: 1100-1400",
+          "units": 4.0,
+          "source_line": "- HIST 307 The High Middle Ages: 1100-1400 Units: 4"
+        },
+        {
+          "code": "HIST 308",
+          "title": "Britain and Ireland to 1200 C.E",
+          "units": 4.0,
+          "source_line": "- HIST 308 Britain and Ireland to 1200 C.E. Units: 4"
+        },
+        {
+          "code": "HIST 309",
+          "title": "Britain and Ireland, 1100–1500 C.E",
+          "units": 4.0,
+          "source_line": "- HIST 309 Britain and Ireland, 1100–1500 C.E. Units: 4"
+        },
+        {
+          "code": "HIST 312",
+          "title": "The Age of the French Revolution and Napoleon",
+          "units": 4.0,
+          "source_line": "- HIST 312 The Age of the French Revolution and Napoleon Units: 4"
+        },
+        {
+          "code": "HIST 314",
+          "title": "Rome Through its Monuments from Antiquity to the Middle Ages",
+          "units": 4.0,
+          "source_line": "- HIST 314 Rome Through its Monuments from Antiquity to the Middle Ages Units: 4"
+        },
+        {
+          "code": "HIST 315",
+          "title": "Origins of Free Market Thought in Early Modern Europe",
+          "units": 4.0,
+          "source_line": "- HIST 315 Origins of Free Market Thought in Early Modern Europe Units: 4"
+        },
+        {
+          "code": "HIST 316",
+          "title": "The Renaissance",
+          "units": 4.0,
+          "source_line": "- HIST 316 The Renaissance Units: 4"
+        },
+        {
+          "code": "HIST 319",
+          "title": "The Quest for the Individual in Early Modern Europe",
+          "units": 4.0,
+          "source_line": "- HIST 319 The Quest for the Individual in Early Modern Europe Units: 4"
+        },
+        {
+          "code": "HIST 321",
+          "title": "The Crusades",
+          "units": 4.0,
+          "source_line": "- HIST 321 The Crusades Units: 4"
+        },
+        {
+          "code": "HIST 323",
+          "title": "The Holocaust in 20th Century Europe",
+          "units": 4.0,
+          "source_line": "- HIST 323 The Holocaust in 20th Century Europe Units: 4"
+        },
+        {
+          "code": "HIST 325",
+          "title": "Early Modern Britain",
+          "units": 4.0,
+          "source_line": "- HIST 325 Early Modern Britain Units: 4"
+        },
+        {
+          "code": "HIST 326",
+          "title": "The Victorians",
+          "units": 4.0,
+          "source_line": "- HIST 326 The Victorians Units: 4"
+        },
+        {
+          "code": "HIST 327",
+          "title": "Twentieth Century Britain",
+          "units": 4.0,
+          "source_line": "- HIST 327 Twentieth Century Britain Units: 4"
+        },
+        {
+          "code": "HIST 329",
+          "title": "Madness and Society in the Modern Age",
+          "units": 4.0,
+          "source_line": "- HIST 329 Madness and Society in the Modern Age Units: 4"
+        },
+        {
+          "code": "HIST 350",
+          "title": "Early Modern Things: Material Culture in Early Modern Life",
+          "units": 4.0,
+          "source_line": "- HIST 350 Early Modern Things: Material Culture in Early Modern Life Units: 4"
+        },
+        {
+          "code": "HIST 385",
+          "title": "Law and Order in the Early Modern British World",
+          "units": 4.0,
+          "source_line": "- HIST 385 Law and Order in the Early Modern British World Units: 4"
+        },
+        {
+          "code": "HIST 395",
+          "title": "Sex and the City: Constructing Gender in London, 1700-1900",
+          "units": 4.0,
+          "source_line": "- HIST 395 Sex and the City: Constructing Gender in London, 1700-1900 Units: 4"
+        },
+        {
+          "code": "HIST 397",
+          "title": "Gender, Madness and Modernism in Freud’s Vienna",
+          "units": 4.0,
+          "source_line": "- HIST 397 Gender, Madness and Modernism in Freud’s Vienna Units: 4"
+        },
+        {
+          "code": "HIST 396",
+          "title": "Women of Rome, from Antiquity through the Middle Ages",
+          "units": 4.0,
+          "source_line": "- HIST 396 Women of Rome, from Antiquity through the Middle Ages Units: 4"
+        },
+        {
+          "code": "HIST 403",
+          "title": "The Age of Charlemagne and the Making of Europe",
+          "units": 4.0,
+          "source_line": "- HIST 403 The Age of Charlemagne and the Making of Europe Units: 4"
+        },
+        {
+          "code": "HIST 405",
+          "title": "Traveling in the Early Medieval Mediterranean",
+          "units": 4.0,
+          "source_line": "- HIST 405 Traveling in the Early Medieval Mediterranean Units: 4"
+        },
+        {
+          "code": "HIST 407",
+          "title": "Europe in the 10th Century",
+          "units": 4.0,
+          "source_line": "- HIST 407 Europe in the 10th Century Units: 4"
+        },
+        {
+          "code": "HIST 408",
+          "title": "Heretics and Prophets in the Middle Ages",
+          "units": 4.0,
+          "source_line": "- HIST 408 Heretics and Prophets in the Middle Ages Units: 4"
+        },
+        {
+          "code": "HIST 411",
+          "title": "Early Modern European Cultural History",
+          "units": 4.0,
+          "source_line": "- HIST 411 Early Modern European Cultural History Units: 4"
+        },
+        {
+          "code": "HIST 417",
+          "title": "History of Soviet Russia: 1917–1991 , 2 years",
+          "units": 4.0,
+          "source_line": "- HIST 417 History of Soviet Russia: 1917–1991 Units: 4, 2 years"
+        },
+        {
+          "code": "HIST 422",
+          "title": "European Intellectual and Cultural History: The 20th Century, 1920 to the Present",
+          "units": 4.0,
+          "source_line": "- HIST 422 European Intellectual and Cultural History: The 20th Century, 1920 to the Present Units: 4"
+        },
+        {
+          "code": "HIST 427",
+          "title": "The German Question: Nation and Identity in Modern Central Europe",
+          "units": 4.0,
+          "source_line": "- HIST 427 The German Question: Nation and Identity in Modern Central Europe Units: 4"
+        },
+        {
+          "code": "HIST 429",
+          "title": "Street Life: Urban Culture in Modern Europe",
+          "units": 4.0,
+          "source_line": "- HIST 429 Street Life: Urban Culture in Modern Europe Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "All majors must take ONE course in this area. See possible courses below.",
+          "source_line": "All majors must take ONE course in this area. See possible courses below."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Geographic Requirement: Global or Transnational",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HIST 190g",
+          "title": "History of Science: Antiquity to the Scientific Revolution",
+          "units": 4.0,
+          "source_line": "- HIST 190g History of Science: Antiquity to the Scientific Revolution Units: 4"
+        },
+        {
+          "code": "HIST 250g",
+          "title": "Climate Change: Science, History and Solutions",
+          "units": 4.0,
+          "source_line": "- HIST 250g Climate Change: Science, History and Solutions Units: 4"
+        },
+        {
+          "code": "HIST 251gp",
+          "title": "History of Science, Technology and Medicine",
+          "units": 4.0,
+          "source_line": "- HIST 251gp History of Science, Technology and Medicine Units: 4"
+        },
+        {
+          "code": "HIST 278gp",
+          "title": "Ottomans and Empire: Anatolia, the Middle East, and the Mediterranean World",
+          "units": 4.0,
+          "source_line": "- HIST 278gp Ottomans and Empire: Anatolia, the Middle East, and the Mediterranean World Units: 4"
+        },
+        {
+          "code": "HIST 322",
+          "title": "Anti-Semitism, Racism and Other Hatreds",
+          "units": 4.0,
+          "source_line": "- HIST 322 Anti-Semitism, Racism and Other Hatreds Units: 4"
+        },
+        {
+          "code": "HIST 330",
+          "title": "Drugs: A Global Cultural History",
+          "units": 4.0,
+          "source_line": "- HIST 330 Drugs: A Global Cultural History Units: 4"
+        },
+        {
+          "code": "HIST 331",
+          "title": "The British Empire: 1588–1834",
+          "units": 4.0,
+          "source_line": "- HIST 331 The British Empire: 1588–1834 Units: 4"
+        },
+        {
+          "code": "HIST 363",
+          "title": "A Global History of Computing",
+          "units": 4.0,
+          "source_line": "- HIST 363 A Global History of Computing Units: 4"
+        },
+        {
+          "code": "HIST 371",
+          "title": "Culture in Diaspora: The Jews of Spain",
+          "units": 4.0,
+          "source_line": "- HIST 371 Culture in Diaspora: The Jews of Spain Units: 4"
+        },
+        {
+          "code": "HIST 381",
+          "title": "Cinema and History",
+          "units": 4.0,
+          "source_line": "- HIST 381 Cinema and History Units: 4"
+        },
+        {
+          "code": "HIST 398",
+          "title": "The History of Waste",
+          "units": 4.0,
+          "source_line": "- HIST 398 The History of Waste Units: 4"
+        },
+        {
+          "code": "HIST 413",
+          "title": "The Age of Revolutions",
+          "units": 4.0,
+          "source_line": "- HIST 413 The Age of Revolutions Units: 4"
+        },
+        {
+          "code": "HIST 430",
+          "title": "Migration and Displacement in the Indian Ocean World",
+          "units": 4.0,
+          "source_line": "- HIST 430 Migration and Displacement in the Indian Ocean World Units: 4"
+        },
+        {
+          "code": "HIST 431",
+          "title": "Histories of the Apocalypse",
+          "units": 4.0,
+          "source_line": "- HIST 431 Histories of the Apocalypse Units: 4"
+        },
+        {
+          "code": "HIST 433",
+          "title": "The History of Drink",
+          "units": 4.0,
+          "source_line": "- HIST 433 The History of Drink Units: 4"
+        },
+        {
+          "code": "HIST 443",
+          "title": "Race and Religious Riots in Modern World History",
+          "units": 4.0,
+          "source_line": "- HIST 443 Race and Religious Riots in Modern World History Units: 4"
+        },
+        {
+          "code": "HIST 444",
+          "title": "Mass Violence and Comparative Genocide in Modern World History",
+          "units": 4.0,
+          "source_line": "- HIST 444 Mass Violence and Comparative Genocide in Modern World History Units: 4"
+        },
+        {
+          "code": "HIST 446",
+          "title": "Resistance to Genocide",
+          "units": 4.0,
+          "source_line": "- HIST 446 Resistance to Genocide Units: 4"
+        },
+        {
+          "code": "HIST 447",
+          "title": "Law and Empire: An Introduction to Global Legal History",
+          "units": 4.0,
+          "source_line": "- HIST 447 Law and Empire: An Introduction to Global Legal History Units: 4"
+        },
+        {
+          "code": "HIST 479",
+          "title": "History in the Museum: The Past in Objects",
+          "units": 4.0,
+          "source_line": "- HIST 479 History in the Museum: The Past in Objects Units: 4"
+        },
+        {
+          "code": "HIST 482",
+          "title": "Family History, World History",
+          "units": 4.0,
+          "source_line": "- HIST 482 Family History, World History Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "All majors must take ONE course in this area. See possible courses below.",
+          "source_line": "All majors must take ONE course in this area. See possible courses below."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Temporal Requirement: Pre-1800",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HIST 101gp",
+          "title": "State and Society in the Ancient World",
+          "units": 4.0,
+          "source_line": "- HIST 101gp State and Society in the Ancient World Units: 4"
+        },
+        {
+          "code": "HIST 102gm",
+          "title": "The Worlds of Medieval Europe",
+          "units": 4.0,
+          "source_line": "- HIST 102gm The Worlds of Medieval Europe Units: 4"
+        },
+        {
+          "code": "HIST 103gp",
+          "title": "The Emergence of Modern Europe",
+          "units": 4.0,
+          "source_line": "- HIST 103gp The Emergence of Modern Europe Units: 4"
+        },
+        {
+          "code": "HIST 106g",
+          "title": "Chinese Lives: An Introduction to Chinese History",
+          "units": 4.0,
+          "source_line": "- HIST 106g Chinese Lives: An Introduction to Chinese History Units: 4"
+        },
+        {
+          "code": "HIST 110g",
+          "title": "History of Early Africa",
+          "units": 4.0,
+          "source_line": "- HIST 110g History of Early Africa Units: 4"
+        },
+        {
+          "code": "HIST 185g",
+          "title": "A Survey of Armenian History",
+          "units": 4.0,
+          "source_line": "- HIST 185g A Survey of Armenian History Units: 4"
+        },
+        {
+          "code": "HIST 190g",
+          "title": "History of Science: Antiquity to the Scientific Revolution",
+          "units": 4.0,
+          "source_line": "- HIST 190g History of Science: Antiquity to the Scientific Revolution Units: 4"
+        },
+        {
+          "code": "HIST 271g",
+          "title": "Telling Native American Stories",
+          "units": 4.0,
+          "source_line": "- HIST 271g Telling Native American Stories Units: 4"
+        },
+        {
+          "code": "HIST 272g",
+          "title": "Women and Gender in the Ancient and Spanish Americas",
+          "units": 4.0,
+          "source_line": "- HIST 272g Women and Gender in the Ancient and Spanish Americas Units: 4"
+        },
+        {
+          "code": "HIST 273g",
+          "title": "Colonial Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 273g Colonial Latin America Units: 4"
+        },
+        {
+          "code": "HIST 278gp",
+          "title": "Ottomans and Empire: Anatolia, the Middle East, and the Mediterranean World",
+          "units": 4.0,
+          "source_line": "- HIST 278gp Ottomans and Empire: Anatolia, the Middle East, and the Mediterranean World Units: 4"
+        },
+        {
+          "code": "HIST 301",
+          "title": "Religions of Ancient Egypt and the Near East",
+          "units": 4.0,
+          "source_line": "- HIST 301 Religions of Ancient Egypt and the Near East Units: 4"
+        },
+        {
+          "code": "HIST 306",
+          "title": "The Early Middle Ages",
+          "units": 4.0,
+          "source_line": "- HIST 306 The Early Middle Ages Units: 4"
+        },
+        {
+          "code": "HIST 307",
+          "title": "The High Middle Ages: 1100-1400",
+          "units": 4.0,
+          "source_line": "- HIST 307 The High Middle Ages: 1100-1400 Units: 4"
+        },
+        {
+          "code": "HIST 308",
+          "title": "Britain and Ireland to 1200 C.E",
+          "units": 4.0,
+          "source_line": "- HIST 308 Britain and Ireland to 1200 C.E. Units: 4"
+        },
+        {
+          "code": "HIST 309",
+          "title": "Britain and Ireland, 1100–1500 C.E",
+          "units": 4.0,
+          "source_line": "- HIST 309 Britain and Ireland, 1100–1500 C.E. Units: 4"
+        },
+        {
+          "code": "HIST 314",
+          "title": "Rome Through its Monuments from Antiquity to the Middle Ages",
+          "units": 4.0,
+          "source_line": "- HIST 314 Rome Through its Monuments from Antiquity to the Middle Ages Units: 4"
+        },
+        {
+          "code": "HIST 315",
+          "title": "Origins of Free Market Thought in Early Modern Europe",
+          "units": 4.0,
+          "source_line": "- HIST 315 Origins of Free Market Thought in Early Modern Europe Units: 4"
+        },
+        {
+          "code": "HIST 316",
+          "title": "The Renaissance",
+          "units": 4.0,
+          "source_line": "- HIST 316 The Renaissance Units: 4"
+        },
+        {
+          "code": "HIST 319",
+          "title": "The Quest for the Individual in Early Modern Europe",
+          "units": 4.0,
+          "source_line": "- HIST 319 The Quest for the Individual in Early Modern Europe Units: 4"
+        },
+        {
+          "code": "HIST 321",
+          "title": "The Crusades",
+          "units": 4.0,
+          "source_line": "- HIST 321 The Crusades Units: 4"
+        },
+        {
+          "code": "HIST 325",
+          "title": "Early Modern Britain",
+          "units": 4.0,
+          "source_line": "- HIST 325 Early Modern Britain Units: 4"
+        },
+        {
+          "code": "HIST 331",
+          "title": "The British Empire: 1588–1834",
+          "units": 4.0,
+          "source_line": "- HIST 331 The British Empire: 1588–1834 Units: 4"
+        },
+        {
+          "code": "HIST 334",
+          "title": "History of the Samurai",
+          "units": 4.0,
+          "source_line": "- HIST 334 History of the Samurai Units: 4"
+        },
+        {
+          "code": "HIST 335",
+          "title": "History and Law in Japan",
+          "units": 4.0,
+          "source_line": "- HIST 335 History and Law in Japan Units: 4"
+        },
+        {
+          "code": "HIST 349",
+          "title": "Colonial North America 1600–1760",
+          "units": 4.0,
+          "source_line": "- HIST 349 Colonial North America 1600–1760 Units: 4"
+        },
+        {
+          "code": "HIST 350",
+          "title": "Early Modern Things: Material Culture in Early Modern Life",
+          "units": 4.0,
+          "source_line": "- HIST 350 Early Modern Things: Material Culture in Early Modern Life Units: 4"
+        },
+        {
+          "code": "HIST 351",
+          "title": "The American Revolution",
+          "units": 4.0,
+          "source_line": "- HIST 351 The American Revolution Units: 4"
+        },
+        {
+          "code": "HIST 370",
+          "title": "Colonial Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 370 Colonial Latin America Units: 4"
+        },
+        {
+          "code": "HIST 371",
+          "title": "Culture in Diaspora: The Jews of Spain",
+          "units": 4.0,
+          "source_line": "- HIST 371 Culture in Diaspora: The Jews of Spain Units: 4"
+        },
+        {
+          "code": "HIST 377",
+          "title": "Law and Society in Premodern China and Japan",
+          "units": 4.0,
+          "source_line": "- HIST 377 Law and Society in Premodern China and Japan Units: 4"
+        },
+        {
+          "code": "HIST 385",
+          "title": "Law and Order in the Early Modern British World",
+          "units": 4.0,
+          "source_line": "- HIST 385 Law and Order in the Early Modern British World Units: 4"
+        },
+        {
+          "code": "HIST 394p",
+          "title": "The Great Muslim Empires of the Near East and India",
+          "units": 4.0,
+          "source_line": "- HIST 394p The Great Muslim Empires of the Near East and India Units: 4"
+        },
+        {
+          "code": "HIST 396",
+          "title": "Women of Rome, from Antiquity through the Middle Ages",
+          "units": 4.0,
+          "source_line": "- HIST 396 Women of Rome, from Antiquity through the Middle Ages Units: 4"
+        },
+        {
+          "code": "HIST 403",
+          "title": "The Age of Charlemagne and the Making of Europe",
+          "units": 4.0,
+          "source_line": "- HIST 403 The Age of Charlemagne and the Making of Europe Units: 4"
+        },
+        {
+          "code": "HIST 405",
+          "title": "Traveling in the Early Medieval Mediterranean",
+          "units": 4.0,
+          "source_line": "- HIST 405 Traveling in the Early Medieval Mediterranean Units: 4"
+        },
+        {
+          "code": "HIST 407",
+          "title": "Europe in the 10th Century",
+          "units": 4.0,
+          "source_line": "- HIST 407 Europe in the 10th Century Units: 4"
+        },
+        {
+          "code": "HIST 411",
+          "title": "Early Modern European Cultural History",
+          "units": 4.0,
+          "source_line": "- HIST 411 Early Modern European Cultural History Units: 4"
+        },
+        {
+          "code": "HIST 456",
+          "title": "Race, Slavery, and the Making of the Atlantic World",
+          "units": 4.0,
+          "source_line": "- HIST 456 Race, Slavery, and the Making of the Atlantic World Units: 4"
+        },
+        {
+          "code": "HIST 438",
+          "title": "War and Peace in Medieval Japan",
+          "units": 4.0,
+          "source_line": "- HIST 438 War and Peace in Medieval Japan Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "All majors must take TWO courses from this period. See possible courses below.",
+          "source_line": "All majors must take TWO courses from this period. See possible courses below."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Temporal Requirement: Post-1800",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HIST 100mg",
+          "title": "Rethinking the American Experience",
+          "units": 4.0,
+          "source_line": "- HIST 100mg Rethinking the American Experience Units: 4"
+        },
+        {
+          "code": "HIST 104gp",
+          "title": "Modern Europe",
+          "units": 4.0,
+          "source_line": "- HIST 104gp Modern Europe Units: 4"
+        },
+        {
+          "code": "HIST 107gp",
+          "title": "Introduction to the History of Japan",
+          "units": 4.0,
+          "source_line": "- HIST 107gp Introduction to the History of Japan Units: 4"
+        },
+        {
+          "code": "HIST 108g",
+          "title": "Histories of South Asia",
+          "units": 4.0,
+          "source_line": "- HIST 108g Histories of South Asia Units: 4"
+        },
+        {
+          "code": "HIST 109g",
+          "title": "The Latin American Experience",
+          "units": 4.0,
+          "source_line": "- HIST 109g The Latin American Experience Units: 4"
+        },
+        {
+          "code": "HIST 111g",
+          "title": "African History Since 1880",
+          "units": 4.0,
+          "source_line": "- HIST 111g African History Since 1880 Units: 4"
+        },
+        {
+          "code": "HIST 210gw",
+          "title": "How to Be An American: Global Histories of U.S. Citizenship",
+          "units": 4.0,
+          "source_line": "- HIST 210gw How to Be An American: Global Histories of U.S. Citizenship Units: 4"
+        },
+        {
+          "code": "HIST 211gp",
+          "title": "Race in America",
+          "units": 4.0,
+          "source_line": "- HIST 211gp Race in America Units: 4"
+        },
+        {
+          "code": "HIST 225g",
+          "title": "Film, Power, and American History",
+          "units": 4.0,
+          "source_line": "- HIST 225g Film, Power, and American History Units: 4"
+        },
+        {
+          "code": "HIST 235g",
+          "title": "War and the American Experience",
+          "units": 4.0,
+          "source_line": "- HIST 235g War and the American Experience Units: 4"
+        },
+        {
+          "code": "HIST 237gp",
+          "title": "Fascism",
+          "units": 4.0,
+          "source_line": "- HIST 237gp Fascism Units: 4"
+        },
+        {
+          "code": "HIST 240gp",
+          "title": "The History of California",
+          "units": 4.0,
+          "source_line": "- HIST 240gp The History of California Units: 4"
+        },
+        {
+          "code": "HIST 241gp",
+          "title": "Introduction to the American West",
+          "units": 4.0,
+          "source_line": "- HIST 241gp Introduction to the American West Units: 4"
+        },
+        {
+          "code": "HIST 245mgp",
+          "title": "How Sex Changed: US History, 1870-the Present",
+          "units": 4.0,
+          "source_line": "- HIST 245mgp How Sex Changed: US History, 1870-the Present Units: 4"
+        },
+        {
+          "code": "HIST 250g",
+          "title": "Climate Change: Science, History and Solutions",
+          "units": 4.0,
+          "source_line": "- HIST 250g Climate Change: Science, History and Solutions Units: 4"
+        },
+        {
+          "code": "HIST 251gp",
+          "title": "History of Science, Technology and Medicine",
+          "units": 4.0,
+          "source_line": "- HIST 251gp History of Science, Technology and Medicine Units: 4"
+        },
+        {
+          "code": "HIST 266gp",
+          "title": "Business and East Asian Culture, 1800-Present",
+          "units": 4.0,
+          "source_line": "- HIST 266gp Business and East Asian Culture, 1800-Present Units: 4"
+        },
+        {
+          "code": "HIST 312",
+          "title": "The Age of the French Revolution and Napoleon",
+          "units": 4.0,
+          "source_line": "- HIST 312 The Age of the French Revolution and Napoleon Units: 4"
+        },
+        {
+          "code": "HIST 317gmp",
+          "title": "Native Americans in American Public Life",
+          "units": 4.0,
+          "source_line": "- HIST 317gmp Native Americans in American Public Life Units: 4"
+        },
+        {
+          "code": "HIST 320p",
+          "title": "Law, Slavery, and Race",
+          "units": 4.0,
+          "source_line": "- HIST 320p Law, Slavery, and Race Units: 4"
+        },
+        {
+          "code": "HIST 323",
+          "title": "The Holocaust in 20th Century Europe",
+          "units": 4.0,
+          "source_line": "- HIST 323 The Holocaust in 20th Century Europe Units: 4"
+        },
+        {
+          "code": "HIST 326",
+          "title": "The Victorians",
+          "units": 4.0,
+          "source_line": "- HIST 326 The Victorians Units: 4"
+        },
+        {
+          "code": "HIST 327",
+          "title": "Twentieth Century Britain",
+          "units": 4.0,
+          "source_line": "- HIST 327 Twentieth Century Britain Units: 4"
+        },
+        {
+          "code": "HIST 329",
+          "title": "Madness and Society in the Modern Age",
+          "units": 4.0,
+          "source_line": "- HIST 329 Madness and Society in the Modern Age Units: 4"
+        },
+        {
+          "code": "HIST 330",
+          "title": "Drugs: A Global Cultural History",
+          "units": 4.0,
+          "source_line": "- HIST 330 Drugs: A Global Cultural History Units: 4"
+        },
+        {
+          "code": "HIST 336",
+          "title": "History of Japan, 1550–1945",
+          "units": 4.0,
+          "source_line": "- HIST 336 History of Japan, 1550–1945 Units: 4"
+        },
+        {
+          "code": "HIST 337",
+          "title": "Japan since 1945",
+          "units": 4.0,
+          "source_line": "- HIST 337 Japan since 1945 Units: 4"
+        },
+        {
+          "code": "HIST 340",
+          "title": "History of China since 1800",
+          "units": 4.0,
+          "source_line": "- HIST 340 History of China since 1800 Units: 4"
+        },
+        {
+          "code": "HIST 343",
+          "title": "Empire’s Workshop: The United States in Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 343 Empire’s Workshop: The United States in Latin America Units: 4"
+        },
+        {
+          "code": "HIST 352",
+          "title": "The American Civil War",
+          "units": 4.0,
+          "source_line": "- HIST 352 The American Civil War Units: 4"
+        },
+        {
+          "code": "HIST 353m",
+          "title": "Race and Racism in the Americas",
+          "units": 4.0,
+          "source_line": "- HIST 353m Race and Racism in the Americas Units: 4"
+        },
+        {
+          "code": "HIST 354",
+          "title": "Mexican Migration to the United States",
+          "units": 4.0,
+          "source_line": "- HIST 354 Mexican Migration to the United States Units: 4"
+        },
+        {
+          "code": "HIST 355",
+          "title": "The African-American Experience",
+          "units": 4.0,
+          "source_line": "- HIST 355 The African-American Experience Units: 4"
+        },
+        {
+          "code": "HIST 357",
+          "title": "Modern Consumer Culture",
+          "units": 4.0,
+          "source_line": "- HIST 357 Modern Consumer Culture Units: 4"
+        },
+        {
+          "code": "HIST 358",
+          "title": "U.S. Gay and Lesbian History",
+          "units": 4.0,
+          "source_line": "- HIST 358 U.S. Gay and Lesbian History Units: 4"
+        },
+        {
+          "code": "HIST 359",
+          "title": "The U.S.-Mexico Border",
+          "units": 4.0,
+          "source_line": "- HIST 359 The U.S.-Mexico Border Units: 4"
+        },
+        {
+          "code": "HIST 361",
+          "title": "20th Century U.S. History",
+          "units": 4.0,
+          "source_line": "- HIST 361 20th Century U.S. History Units: 4"
+        },
+        {
+          "code": "HIST 362",
+          "title": "Authenticity in Twentieth Century Popular Music",
+          "units": 4.0,
+          "source_line": "- HIST 362 Authenticity in Twentieth Century Popular Music Units: 4"
+        },
+        {
+          "code": "HIST 363",
+          "title": "A Global History of Computing",
+          "units": 4.0,
+          "source_line": "- HIST 363 A Global History of Computing Units: 4"
+        },
+        {
+          "code": "HIST 364",
+          "title": "Religion and Difference in the Modern Middle East",
+          "units": 4.0,
+          "source_line": "- HIST 364 Religion and Difference in the Modern Middle East Units: 4"
+        },
+        {
+          "code": "HIST 366",
+          "title": "The People’s Republic of China",
+          "units": 4.0,
+          "source_line": "- HIST 366 The People’s Republic of China Units: 4"
+        },
+        {
+          "code": "HIST 368",
+          "title": "Afro-Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 368 Afro-Latin America Units: 4"
+        },
+        {
+          "code": "HIST 372",
+          "title": "Modern Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 372 Modern Latin America Units: 4"
+        },
+        {
+          "code": "HIST 373",
+          "title": "History of the Mexican American",
+          "units": 4.0,
+          "source_line": "- HIST 373 History of the Mexican American Units: 4"
+        },
+        {
+          "code": "HIST 374",
+          "title": "History of Mexico",
+          "units": 4.0,
+          "source_line": "- HIST 374 History of Mexico Units: 4"
+        },
+        {
+          "code": "HIST 378m",
+          "title": "Introduction to Asian American History",
+          "units": 4.0,
+          "source_line": "- HIST 378m Introduction to Asian American History Units: 4"
+        },
+        {
+          "code": "HIST 379",
+          "title": "Arabs in America",
+          "units": 4.0,
+          "source_line": "- HIST 379 Arabs in America Units: 4"
+        },
+        {
+          "code": "HIST 380",
+          "title": "American Popular Culture",
+          "units": 4.0,
+          "source_line": "- HIST 380 American Popular Culture Units: 4"
+        },
+        {
+          "code": "HIST 381",
+          "title": "Cinema and History",
+          "units": 4.0,
+          "source_line": "- HIST 381 Cinema and History Units: 4"
+        },
+        {
+          "code": "HIST 386",
+          "title": "American Legal History",
+          "units": 4.0,
+          "source_line": "- HIST 386 American Legal History Units: 4"
+        },
+        {
+          "code": "HIST 389",
+          "title": "Modern Iran",
+          "units": 4.0,
+          "source_line": "- HIST 389 Modern Iran Units: 4"
+        },
+        {
+          "code": "HIST 391",
+          "title": "Feminist Histories of South Asia",
+          "units": 4.0,
+          "source_line": "- HIST 391 Feminist Histories of South Asia Units: 4"
+        },
+        {
+          "code": "HIST 392",
+          "title": "The Southern California Armenian Diaspora",
+          "units": 4.0,
+          "source_line": "- HIST 392 The Southern California Armenian Diaspora Units: 4"
+        },
+        {
+          "code": "HIST 393g",
+          "title": "Quantitative Historical Analysis",
+          "units": 4.0,
+          "source_line": "- HIST 393g Quantitative Historical Analysis Units: 4"
+        },
+        {
+          "code": "HIST 395",
+          "title": "Sex and the City: Constructing Gender in London, 1700-1900",
+          "units": 4.0,
+          "source_line": "- HIST 395 Sex and the City: Constructing Gender in London, 1700-1900 Units: 4"
+        },
+        {
+          "code": "HIST 397",
+          "title": "Gender, Madness and Modernism in Freud’s Vienna",
+          "units": 4.0,
+          "source_line": "- HIST 397 Gender, Madness and Modernism in Freud’s Vienna Units: 4"
+        },
+        {
+          "code": "HIST 398",
+          "title": "The History of Waste",
+          "units": 4.0,
+          "source_line": "- HIST 398 The History of Waste Units: 4"
+        },
+        {
+          "code": "HIST 408",
+          "title": "Heretics and Prophets in the Middle Ages",
+          "units": 4.0,
+          "source_line": "- HIST 408 Heretics and Prophets in the Middle Ages Units: 4"
+        },
+        {
+          "code": "HIST 413",
+          "title": "The Age of Revolutions",
+          "units": 4.0,
+          "source_line": "- HIST 413 The Age of Revolutions Units: 4"
+        },
+        {
+          "code": "HIST 417",
+          "title": "History of Soviet Russia: 1917–1991 , 2 years",
+          "units": 4.0,
+          "source_line": "- HIST 417 History of Soviet Russia: 1917–1991 Units: 4, 2 years"
+        },
+        {
+          "code": "HIST 422",
+          "title": "European Intellectual and Cultural History: The 20th Century, 1920 to the Present",
+          "units": 4.0,
+          "source_line": "- HIST 422 European Intellectual and Cultural History: The 20th Century, 1920 to the Present Units: 4"
+        },
+        {
+          "code": "HIST 427",
+          "title": "The German Question: Nation and Identity in Modern Central Europe",
+          "units": 4.0,
+          "source_line": "- HIST 427 The German Question: Nation and Identity in Modern Central Europe Units: 4"
+        },
+        {
+          "code": "HIST 429",
+          "title": "Street Life: Urban Culture in Modern Europe",
+          "units": 4.0,
+          "source_line": "- HIST 429 Street Life: Urban Culture in Modern Europe Units: 4"
+        },
+        {
+          "code": "HIST 430",
+          "title": "Migration and Displacement in the Indian Ocean World",
+          "units": 4.0,
+          "source_line": "- HIST 430 Migration and Displacement in the Indian Ocean World Units: 4"
+        },
+        {
+          "code": "HIST 433",
+          "title": "The History of Drink",
+          "units": 4.0,
+          "source_line": "- HIST 433 The History of Drink Units: 4"
+        },
+        {
+          "code": "HIST 437",
+          "title": "Seminar in Modern Chinese History",
+          "units": 4.0,
+          "source_line": "- HIST 437 Seminar in Modern Chinese History Units: 4"
+        },
+        {
+          "code": "HIST 443",
+          "title": "Race and Religious Riots in Modern World History",
+          "units": 4.0,
+          "source_line": "- HIST 443 Race and Religious Riots in Modern World History Units: 4"
+        },
+        {
+          "code": "HIST 444",
+          "title": "Mass Violence and Comparative Genocide in Modern World History",
+          "units": 4.0,
+          "source_line": "- HIST 444 Mass Violence and Comparative Genocide in Modern World History Units: 4"
+        },
+        {
+          "code": "HIST 446",
+          "title": "Resistance to Genocide",
+          "units": 4.0,
+          "source_line": "- HIST 446 Resistance to Genocide Units: 4"
+        },
+        {
+          "code": "HIST 448",
+          "title": "South Africa: Race, Power and Resistance",
+          "units": 4.0,
+          "source_line": "- HIST 448 South Africa: Race, Power and Resistance Units: 4"
+        },
+        {
+          "code": "HIST 451",
+          "title": "The Mexican Revolution",
+          "units": 4.0,
+          "source_line": "- HIST 451 The Mexican Revolution Units: 4"
+        },
+        {
+          "code": "HIST 452",
+          "title": "20th Century Black Nationalism, Radicalism and Gender",
+          "units": 4.0,
+          "source_line": "- HIST 452 20th Century Black Nationalism, Radicalism and Gender Units: 4"
+        },
+        {
+          "code": "HIST 453",
+          "title": "The Age of Emancipation",
+          "units": 4.0,
+          "source_line": "- HIST 453 The Age of Emancipation Units: 4"
+        },
+        {
+          "code": "HIST 455",
+          "title": "Advanced Topics in African-American History",
+          "units": 4.0,
+          "source_line": "- HIST 455 Advanced Topics in African-American History Units: 4"
+        },
+        {
+          "code": "HIST 457",
+          "title": "Seminar in the American West",
+          "units": 4.0,
+          "source_line": "- HIST 457 Seminar in the American West Units: 4"
+        },
+        {
+          "code": "HIST 459",
+          "title": "Race and the Carceral State",
+          "units": 4.0,
+          "source_line": "- HIST 459 Race and the Carceral State Units: 4"
+        },
+        {
+          "code": "HIST 460",
+          "title": "War, Race, and the Constitution",
+          "units": 4.0,
+          "source_line": "- HIST 460 War, Race, and the Constitution Units: 4"
+        },
+        {
+          "code": "HIST 467",
+          "title": "Defeat and Occupation in Modern Japan",
+          "units": 4.0,
+          "source_line": "- HIST 467 Defeat and Occupation in Modern Japan Units: 4"
+        },
+        {
+          "code": "HIST 479",
+          "title": "History in the Museum: The Past in Objects",
+          "units": 4.0,
+          "source_line": "- HIST 479 History in the Museum: The Past in Objects Units: 4"
+        },
+        {
+          "code": "HIST 482",
+          "title": "Family History, World History",
+          "units": 4.0,
+          "source_line": "- HIST 482 Family History, World History Units: 4"
+        },
+        {
+          "code": "HIST 487",
+          "title": "The United States since 1939",
+          "units": 4.0,
+          "source_line": "- HIST 487 The United States since 1939 Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "All majors must take TWO courses from this period. See possible courses below.",
+          "source_line": "All majors must take TWO courses from this period. See possible courses below."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Requirement",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "All history majors must complete a capstone course in the fall and/or spring of their senior year (exceptions can be made for juniors who need to take it earlier). There are two ways to complete the history capstone: a History Honors Thesis or a History Capstone Exercise.",
+          "source_line": "All history majors must complete a capstone course in the fall and/or spring of their senior year (exceptions can be made for juniors who need to take it earlier). There are two ways to complete the history capstone: a History Honors Thesis or a History Capstone Exercise."
+        },
+        {
+          "text": "The History Honors Thesis is a substantial work of scholarship based on original primary source research and/or extensive analysis of a methodological or historiographical issue. To apply for the Honors program, students need a 3.5 or higher GPA in all USC history coursework (although this can be waived in certain cases). They also need to take HIST 492 , both in the fall and spring semester. Those who take this track will be considered for honors in the major. Taking HIST 492 will count as their Capstone.",
+          "source_line": "The History Honors Thesis is a substantial work of scholarship based on original primary source research and/or extensive analysis of a methodological or historiographical issue. To apply for the Honors program, students need a 3.5 or higher GPA in all USC history coursework (although this can be waived in certain cases). They also need to take HIST 492 , both in the fall and spring semester. Those who take this track will be considered for honors in the major. Taking HIST 492 will count as their Capstone."
+        },
+        {
+          "text": "The History Capstone Exercise is a way for students to reflect upon what they have learned as a history major. They will need to fill out a google form (or submit their answers in essay form) where they will reflect upon the classes they took, the papers wrote, and the skills they have developed. They will also attend one of the “Capstone Conversation” events scheduled throughout the year, where they will discuss their answers and their experiences as a major in a larger group setting. The questions and google document link will be posted on the website under Undergraduate Capstone.",
+          "source_line": "The History Capstone Exercise is a way for students to reflect upon what they have learned as a history major. They will need to fill out a google form (or submit their answers in essay form) where they will reflect upon the classes they took, the papers wrote, and the skills they have developed. They will also attend one of the “Capstone Conversation” events scheduled throughout the year, where they will discuss their answers and their experiences as a major in a larger group setting. The questions and google document link will be posted on the website under Undergraduate Capstone."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

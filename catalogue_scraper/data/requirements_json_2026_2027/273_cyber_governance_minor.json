@@ -1,0 +1,125 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Cyber Governance Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32910",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32910&returnto=9396",
+    "source_text_file": "273_cyber_governance_minor.txt",
+    "source_content_sha256": "ae6fccdb29682c18477cc57cdeca4e006b5e2728e9dfc123571b4664eecc6fe3",
+    "retrieved_at": "2026-07-31T01:01:25Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 10,
+    "distinct_course_codes": 10,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Cyber Governance is the intersection of applied cyber technologies, regulatory frameworks, and strategic approaches tailored to meet the specific requirements of businesses. This minor equips students with the skills needed to develop robust security methodologies and frameworks that foster the optimal functioning of security processes and systems.",
+          "source_line": "Cyber Governance is the intersection of applied cyber technologies, regulatory frameworks, and strategic approaches tailored to meet the specific requirements of businesses. This minor equips students with the skills needed to develop robust security methodologies and frameworks that foster the optimal functioning of security processes and systems."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Requirements (6 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "TAC 125L",
+          "title": "Hackers to CEOs: Intro to Cyber Security in the AI Era",
+          "units": 2.0,
+          "source_line": "- TAC 125L Hackers to CEOs: Intro to Cyber Security in the AI Era Units: 2"
+        },
+        {
+          "code": "TAC 370",
+          "title": "Cybersecurity Management and Operations",
+          "units": 4.0,
+          "source_line": "- TAC 370 Cybersecurity Management and Operations Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "LAW 401",
+          "title": "Cybersecurity and Cybercrime",
+          "units": 4.0,
+          "source_line": "- LAW 401 Cybersecurity and Cybercrime Units: 4"
+        },
+        {
+          "code": "RISK 380",
+          "title": "Introduction to Enterprise Risk Management",
+          "units": 4.0,
+          "source_line": "- RISK 380 Introduction to Enterprise Risk Management Units: 4"
+        },
+        {
+          "code": "TAC 325",
+          "title": "Ethical Hacking",
+          "units": 4.0,
+          "source_line": "- TAC 325 Ethical Hacking Units: 4"
+        },
+        {
+          "code": "TAC 357",
+          "title": "Enterprise Networks: Design and Architecture",
+          "units": 4.0,
+          "source_line": "- TAC 357 Enterprise Networks: Design and Architecture Units: 4"
+        },
+        {
+          "code": "TAC 375",
+          "title": "Digital Forensics and Cybersecurity Investigations",
+          "units": 4.0,
+          "source_line": "- TAC 375 Digital Forensics and Cybersecurity Investigations Units: 4"
+        },
+        {
+          "code": "TAC 457",
+          "title": "Network Security",
+          "units": 4.0,
+          "source_line": "- TAC 457 Network Security Units: 4"
+        },
+        {
+          "code": "TAC 458",
+          "title": "Defending and Investigating Compromised Networks",
+          "units": 4.0,
+          "source_line": "- TAC 458 Defending and Investigating Compromised Networks Units: 4"
+        },
+        {
+          "code": "TAC 479",
+          "title": "Cyber Law and Privacy",
+          "units": 4.0,
+          "source_line": "- TAC 479 Cyber Law and Privacy Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Minimum Units: 18",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

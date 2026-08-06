@@ -1,0 +1,276 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Performance Art Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32700",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32700&returnto=9396",
+    "source_text_file": "410_performance_art_minor.txt",
+    "source_content_sha256": "0afeb2cd826eee07f4754c264b8929c12a57f09ac393bcffe9bab0fac6fdf2a7",
+    "retrieved_at": "2026-07-31T01:11:44Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "*Roski majors are required to include at least 16 units of electives that are unique to this minor (i."
+    ],
+    "course_entry_count": 34,
+    "distinct_course_codes": 34,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This interdisciplinary minor is designed for students who wish to engage in the experimental discipline of performance art, a mode of creative expression in which live or mediated bodies perform in theatrical or virtual settings for an audience. The minor offers two required courses, one in video and media installation and one in performance art, along with a broad range of electives from Roski* and partner schools in Kaufman School of Dance, the School of Dramatic Arts, Thornton School of Music, the School of Cinematic Arts and Dornsife College. It is open to any USC student regardless of prior experience, especially those interested in creating new stories, actions or personas or those who want to explore the kind of disciplinary boundary-breaking and individual expressivity that is characteristic of the field. Practitioners in performance art come from a variety of backgrounds and crossovers between performance art with studies in popular culture, social media, community activism, theatre and dance are common. Performance art also highlights intersections among postcolonial and decolonial, ethnic and sexuality/gender studies, making it an effective medium to explore and express identity and its politics. Total number of units required is 20**.",
+          "source_line": "This interdisciplinary minor is designed for students who wish to engage in the experimental discipline of performance art, a mode of creative expression in which live or mediated bodies perform in theatrical or virtual settings for an audience. The minor offers two required courses, one in video and media installation and one in performance art, along with a broad range of electives from Roski* and partner schools in Kaufman School of Dance, the School of Dramatic Arts, Thornton School of Music, the School of Cinematic Arts and Dornsife College. It is open to any USC student regardless of prior experience, especially those interested in creating new stories, actions or personas or those who want to explore the kind of disciplinary boundary-breaking and individual expressivity that is characteristic of the field. Practitioners in performance art come from a variety of backgrounds and crossovers between performance art with studies in popular culture, social media, community activism, theatre and dance are common. Performance art also highlights intersections among postcolonial and decolonial, ethnic and sexuality/gender studies, making it an effective medium to explore and express identity and its politics. Total number of units required is 20**."
+        },
+        {
+          "text": "Roski majors are required to include at least 16 units of electives that are unique to this minor (i.e., not included in their major and outside of Roski). Please consult with your academic adviser before adding this minor.",
+          "source_line": "*Roski majors are required to include at least 16 units of electives that are unique to this minor (i.e., not included in their major and outside of Roski). Please consult with your academic adviser before adding this minor."
+        },
+        {
+          "text": "*It is highly recommended to take at least one Critical Studies elective course.",
+          "source_line": "**It is highly recommended to take at least one Critical Studies elective course."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ART 260",
+          "title": "Introduction to Video: Projection and Virtual Worlds in Art",
+          "units": 4.0,
+          "source_line": "- ART 260 Introduction to Video: Projection and Virtual Worlds in Art Units: 4"
+        },
+        {
+          "code": "ART 462",
+          "title": "Performance Art Workshop",
+          "units": 4.0,
+          "source_line": "- ART 462 Performance Art Workshop Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper Division Electives* (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ART 361",
+          "title": "Post-Internet Art and Aesthetics",
+          "units": 4.0,
+          "source_line": "- ART 361 Post-Internet Art and Aesthetics Units: 4"
+        },
+        {
+          "code": "ART 362",
+          "title": "Ideas in Intermedia",
+          "units": 4.0,
+          "source_line": "- ART 362 Ideas in Intermedia Units: 4"
+        },
+        {
+          "code": "ART 460",
+          "title": "Post-Material Studio",
+          "units": 4.0,
+          "source_line": "- ART 460 Post-Material Studio Units: 4"
+        },
+        {
+          "code": "ART 461",
+          "title": "Motion Graphics for Art and Video",
+          "units": 2.0,
+          "source_line": "- ART 461 Motion Graphics for Art and Video Units: 2"
+        },
+        {
+          "code": "ART 463",
+          "title": "Performance Art and the Frame",
+          "units": 2.0,
+          "source_line": "- ART 463 Performance Art and the Frame Units: 2"
+        },
+        {
+          "code": "ART 484",
+          "title": "Contemporary Issues in Art",
+          "units": 4.0,
+          "source_line": "- ART 484 Contemporary Issues in Art Units: 4"
+        },
+        {
+          "code": "CRIT 415",
+          "title": "Performance and Art",
+          "units": 4.0,
+          "source_line": "- CRIT 415 Performance and Art Units: 4"
+        },
+        {
+          "code": "CRIT 425",
+          "title": "Identity and Visual Representation",
+          "units": 4.0,
+          "source_line": "- CRIT 425 Identity and Visual Representation Units: 4"
+        },
+        {
+          "code": "CTAN 452",
+          "title": "Introduction to 3-D Computer Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 452 Introduction to 3-D Computer Animation Units: 2"
+        },
+        {
+          "code": "CTAN 453",
+          "title": "3-D Animation for Motion Graphics",
+          "units": 2.0,
+          "source_line": "- CTAN 453 3-D Animation for Motion Graphics Units: 2"
+        },
+        {
+          "code": "CTAN 466",
+          "title": "Animation for Projection Mapping and Live Performance",
+          "units": 2.0,
+          "source_line": "- CTAN 466 Animation for Projection Mapping and Live Performance Units: 2"
+        },
+        {
+          "code": "CTAN 495",
+          "title": "Visual Music",
+          "units": 2.0,
+          "source_line": "- CTAN 495 Visual Music Units: 2"
+        },
+        {
+          "code": "CTCS 412",
+          "title": "Gender, Sexuality and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 412 Gender, Sexuality and Media Units: 4"
+        },
+        {
+          "code": "CTPR 457",
+          "title": "Creating Poetic Cinema",
+          "units": 2.0,
+          "source_line": "- CTPR 457 Creating Poetic Cinema Units: 2"
+        },
+        {
+          "code": "DANC 302g",
+          "title": "Hip Hop Don’t Stop: Black Social Dance Culture and Media",
+          "units": 4.0,
+          "source_line": "- DANC 302g Hip Hop Don’t Stop: Black Social Dance Culture and Media Units: 4"
+        },
+        {
+          "code": "DANC 333gw",
+          "title": "Origins of Jazz Dance",
+          "units": 4.0,
+          "source_line": "- DANC 333gw Origins of Jazz Dance Units: 4"
+        },
+        {
+          "code": "DANC 312gw",
+          "title": "African American Dance",
+          "units": 4.0,
+          "source_line": "- DANC 312gw African American Dance Units: 4"
+        },
+        {
+          "code": "DANC 363g",
+          "title": "Dancing on the Screen",
+          "units": 4.0,
+          "source_line": "- DANC 363g Dancing on the Screen Units: 4"
+        },
+        {
+          "code": "DANC 342gp",
+          "title": "International and Historical Perspectives on Dance",
+          "units": 4.0,
+          "source_line": "- DANC 342gp International and Historical Perspectives on Dance Units: 4"
+        },
+        {
+          "code": "IML 328",
+          "title": "Introduction to Sound",
+          "units": 2.0,
+          "source_line": "- IML 328 Introduction to Sound Units: 2"
+        },
+        {
+          "code": "IML 455",
+          "title": "Future Cinema",
+          "units": 4.0,
+          "source_line": "- IML 455 Future Cinema Units: 4"
+        },
+        {
+          "code": "IML 477",
+          "title": "Embodied Storytelling and Immersive Docu-Narratives",
+          "units": 4.0,
+          "source_line": "- IML 477 Embodied Storytelling and Immersive Docu-Narratives Units: 4"
+        },
+        {
+          "code": "MUSC 320gmw",
+          "title": "Hip-hop Music and Culture",
+          "units": 4.0,
+          "source_line": "- MUSC 320gmw Hip-hop Music and Culture Units: 4"
+        },
+        {
+          "code": "MUSC 372g",
+          "title": "Music and Politics",
+          "units": 4.0,
+          "source_line": "- MUSC 372g Music and Politics Units: 4"
+        },
+        {
+          "code": "THTR 312",
+          "title": "LGBTQ Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 312 LGBTQ Theatre Units: 4"
+        },
+        {
+          "code": "THTR 395m",
+          "title": "Drama as Human Relations",
+          "units": 4.0,
+          "source_line": "- THTR 395m Drama as Human Relations Units: 4"
+        },
+        {
+          "code": "THTR 405m",
+          "title": "Performing Identities",
+          "units": 4.0,
+          "source_line": "- THTR 405m Performing Identities Units: 4"
+        },
+        {
+          "code": "THTR 406",
+          "title": "Theatre on the Edge",
+          "units": 4.0,
+          "source_line": "- THTR 406 Theatre on the Edge Units: 4"
+        },
+        {
+          "code": "THTR 456",
+          "title": "Latinx Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 456 Latinx Theatre Units: 4"
+        },
+        {
+          "code": "THTR 460",
+          "title": "Asian and Asian American Theatre: Identity and Aesthetics",
+          "units": 4.0,
+          "source_line": "- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4"
+        },
+        {
+          "code": "THTR 476mw",
+          "title": "African American Theatre, Dance, and Performance",
+          "units": 4.0,
+          "source_line": "- THTR 476mw African American Theatre, Dance, and Performance Units: 4"
+        },
+        {
+          "code": "THTR 488mw",
+          "title": "Theatre in the Community",
+          "units": 4.0,
+          "source_line": "- THTR 488mw Theatre in the Community Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "At least one Critical Studies (CRIT) course highly recommended",
+          "source_line": "*At least one Critical Studies (CRIT) course highly recommended"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

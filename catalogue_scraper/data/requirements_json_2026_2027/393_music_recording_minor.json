@@ -1,0 +1,177 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Music Recording Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32244",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32244&returnto=9396",
+    "source_text_file": "393_music_recording_minor.txt",
+    "source_content_sha256": "d57a817cd70b5471f3cd702f1e5927b993f0119560fb938948d83471bbf03666",
+    "retrieved_at": "2026-07-31T01:11:06Z"
+  },
+  "totals": {
+    "stated_total_units": 18.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "## Required Courses\n\n---\n\n- MTEC 275 Fundamentals of Audio Engineering Units: 4\n- MTEC 277x Introduction to Music Technology Units: 4 [*]\n- MTEC 446a Computer Assisted Recording and Editing Units: 2\n\n### 8 units from the following:\n\n---\n\n- MTEC 378 Introduction to Mixing and Mastering Units: 2\n- MTEC 389 Digital Equipment and Recording Units: 2\n- MTEC 392a Acoustics and Speaker Design Units: 2\n- MTEC 430 Advanced Instrumental Recording Units: 2\n- MTEC 446b Computer Assisted Recording and Editing Units: 2\n- MTEC 477 Remote Recording Techniques Units: 2\n- MTEC 478 Advanced Multichannel Remix Units: 2\n- MTEC 479 Audio Mastering Units: 2\n- MTEC 491 The Recording Console Units: 4\n- MTEC 493 Audio Signal Processing Equipment Units: 2\n- MUIN 340 Introduction to Sound Reinforcement Units: 4\n\n## Total units: 18\n\n---\n\n* Music Industry majors can substitute MTEC 175 and MTEC 176 for MTEC 277x ."
+    ],
+    "course_entry_count": 14,
+    "distinct_course_codes": 14,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minor in music recording is offered for undergraduate students to provide them with the background necessary to enter the field of audio engineering and to familiarize them with the standards and techniques used in audio recording, editing, mixing and mastering.",
+          "source_line": "A minor in music recording is offered for undergraduate students to provide them with the background necessary to enter the field of audio engineering and to familiarize them with the standards and techniques used in audio recording, editing, mixing and mastering."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Prerequisite",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Acceptance into the program might require a personal interview by the Thornton School of Music to assure that the student has sufficient musical background and skill.",
+          "source_line": "Acceptance into the program might require a personal interview by the Thornton School of Music to assure that the student has sufficient musical background and skill."
+        },
+        {
+          "text": "Students admitted to this minor will be expected to have a minimum GPA of 2.0 and to maintain that average with no grade lower than a “C” for all courses taken in the minor.",
+          "source_line": "Students admitted to this minor will be expected to have a minimum GPA of 2.0 and to maintain that average with no grade lower than a “C” for all courses taken in the minor."
+        },
+        {
+          "text": "Students must apply for this minor, and admission is based on successful completion of MTEC 277x . Generally, students who earn a B or better in this course and have a GPA of 2.0 or higher are admitted. Declared engineering (ENGR) majors with a GPA of 3.0 or higher may be admitted before completing MTEC 277x .",
+          "source_line": "Students must apply for this minor, and admission is based on successful completion of MTEC 277x . Generally, students who earn a B or better in this course and have a GPA of 2.0 or higher are admitted. Declared engineering (ENGR) majors with a GPA of 3.0 or higher may be admitted before completing MTEC 277x ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MTEC 275",
+          "title": "Fundamentals of Audio Engineering",
+          "units": 4.0,
+          "source_line": "- MTEC 275 Fundamentals of Audio Engineering Units: 4"
+        },
+        {
+          "code": "MTEC 277x",
+          "title": "Introduction to Music Technology  [*]",
+          "units": 4.0,
+          "source_line": "- MTEC 277x Introduction to Music Technology Units: 4 [*]"
+        },
+        {
+          "code": "MTEC 446a",
+          "title": "Computer Assisted Recording and Editing",
+          "units": 2.0,
+          "source_line": "- MTEC 446a Computer Assisted Recording and Editing Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "8 units from the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MTEC 378",
+          "title": "Introduction to Mixing and Mastering",
+          "units": 2.0,
+          "source_line": "- MTEC 378 Introduction to Mixing and Mastering Units: 2"
+        },
+        {
+          "code": "MTEC 389",
+          "title": "Digital Equipment and Recording",
+          "units": 2.0,
+          "source_line": "- MTEC 389 Digital Equipment and Recording Units: 2"
+        },
+        {
+          "code": "MTEC 392a",
+          "title": "Acoustics and Speaker Design",
+          "units": 2.0,
+          "source_line": "- MTEC 392a Acoustics and Speaker Design Units: 2"
+        },
+        {
+          "code": "MTEC 430",
+          "title": "Advanced Instrumental Recording",
+          "units": 2.0,
+          "source_line": "- MTEC 430 Advanced Instrumental Recording Units: 2"
+        },
+        {
+          "code": "MTEC 446b",
+          "title": "Computer Assisted Recording and Editing",
+          "units": 2.0,
+          "source_line": "- MTEC 446b Computer Assisted Recording and Editing Units: 2"
+        },
+        {
+          "code": "MTEC 477",
+          "title": "Remote Recording Techniques",
+          "units": 2.0,
+          "source_line": "- MTEC 477 Remote Recording Techniques Units: 2"
+        },
+        {
+          "code": "MTEC 478",
+          "title": "Advanced Multichannel Remix",
+          "units": 2.0,
+          "source_line": "- MTEC 478 Advanced Multichannel Remix Units: 2"
+        },
+        {
+          "code": "MTEC 479",
+          "title": "Audio Mastering",
+          "units": 2.0,
+          "source_line": "- MTEC 479 Audio Mastering Units: 2"
+        },
+        {
+          "code": "MTEC 491",
+          "title": "The Recording Console",
+          "units": 4.0,
+          "source_line": "- MTEC 491 The Recording Console Units: 4"
+        },
+        {
+          "code": "MTEC 493",
+          "title": "Audio Signal Processing Equipment",
+          "units": 2.0,
+          "source_line": "- MTEC 493 Audio Signal Processing Equipment Units: 2"
+        },
+        {
+          "code": "MUIN 340",
+          "title": "Introduction to Sound Reinforcement",
+          "units": 4.0,
+          "source_line": "- MUIN 340 Introduction to Sound Reinforcement Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 18",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Music Industry majors can substitute MTEC 175 and MTEC 176 for MTEC 277x .",
+          "source_line": "* Music Industry majors can substitute MTEC 175 and MTEC 176 for MTEC 277x ."
+        }
+      ],
+      "choice": null,
+      "total_units": 18.0
+    }
+  ],
+  "parse_warnings": []
+}

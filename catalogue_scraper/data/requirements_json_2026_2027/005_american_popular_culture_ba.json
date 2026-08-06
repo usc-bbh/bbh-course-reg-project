@@ -1,0 +1,639 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "American Popular Culture (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32471",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32471&returnto=9396",
+    "source_text_file": "005_american_popular_culture_ba.txt",
+    "source_content_sha256": "40420b4b3ece9ada3d780c5e18399b1ca3bf0d92b337ad4acf4d6150fa8c8bde",
+    "retrieved_at": "2026-07-31T00:49:07Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Lower-Division Core Requirement\n\n---\n\nChoose one lower-division course (4 units).",
+      "- AMST 205g Introduction to American Popular Culture Units: 4\n- AMST 206gm The Politics and Culture of the 1960s Units: 4\n- AMST 285gm African American Popular Culture Units: 4\n\n## Senior Core Requirement\n\n---\n\nChoose one senior course based on departmental offerings (4 units).",
+      "## Upper-Division Requirements\n\n---\n\nChoose four courses (16 units), at least one from each of the groups below.",
+      "### Critical Approaches to Popular Culture\n\n---\n\n- AMST 301gp America, the Frontier, and the New West Units: 4\n- COLT 365 Literature and Popular Culture Units: 4\n- COMM 384 Interpreting Popular Culture Units: 4\n- ENGL 392 Visual and Popular Culture Units: 4\n- HIST 380 American Popular Culture Units: 4\n\n### Gender and Ethnicity in American Popular Culture\n\n---\n\n- AMST 325gw The Middle East in Hollywood Units: 4\n- AMST 330m Black Music and the Political Imagination Units: 4\n- AMST 343 Food, Health and Culture in Los Angeles Units: 4\n- AMST 357m Latino Social Movements Units: 4\n- AMST 365 Leadership in the Community — Internship Units: 4\n- AMST 385 African American Culture and Society Units: 4\n- AMST 395m African American Humor and Culture Units: 4\n- AMST 448m Chicano and Latino Literature Units: 4\n- AMST 449m Asian American Literature Units: 4\n- ENGL 343m Images of Women in Contemporary Culture Units: 4\n\n### Popular Culture in the Arts\n\n---\n\n- AHIS 363m Contemporary Art and the Culture Wars Units: 4\n- AHIS 370g Modern Art III: 1940 to the Present Units: 4\n- AMST 305 Art and Performance in the Americas Units: 4\n- AMST 446 Latinx Music in the Americas Units: 4\n- CTCS 392 History of American Cinema to 1960 Units: 4\n- CTCS 393 Topics in Historical Cinema and Media Units: 4\n- CTCS 394 History of American Cinema since 1960 Units: 4\n- ENGL 371g Literary Genres and Film Units: 4\n- ENGL 375 Science Fiction Units: 4\n- ENGL 381 Narrative Forms in Literature and Film Units: 4\n- HIST 481 Producing Film Histories Units: 4\n- MUJZ 419m The Jazz Experience: Myths and Culture Units: 4\n- MUSC 422 The Beatles: Their Music and Their Times Units: 4\n\n## Electives\n\n---\n\nChoose four additional courses (16 units) from the lists above or below."
+    ],
+    "course_entry_count": 84,
+    "distinct_course_codes": 82,
+    "section_count": 8
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The interdisciplinary major in American Popular Culture helps students to assess from a variety of perspectives the icons and ideas they encounter every day, to think critically about the images and assertions of the mass media and commercial culture, and to see the experience of popular culture as it interacts with questions of gender and ethnicity in the American context. Students choose two core classes, four upper-division classes, and four elective classes (including one upper-division elective), from a curriculum organized to explore: critical approaches to popular culture; gender and ethnicity in American popular culture; and popular culture in the arts. Forty units are required, with a minimum of 24 at the upper-division level.",
+          "source_line": "The interdisciplinary major in American Popular Culture helps students to assess from a variety of perspectives the icons and ideas they encounter every day, to think critically about the images and assertions of the mass media and commercial culture, and to see the experience of popular culture as it interacts with questions of gender and ethnicity in the American context. Students choose two core classes, four upper-division classes, and four elective classes (including one upper-division elective), from a curriculum organized to explore: critical approaches to popular culture; gender and ethnicity in American popular culture; and popular culture in the arts. Forty units are required, with a minimum of 24 at the upper-division level.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "The interdisciplinary major in American Popular Culture helps students to assess from a variety of perspectives the icons and ideas they encounter every day, to think critically about the images and assertions of the mass media and commercial culture, and to see the experience of popular culture as it interacts with questions of gender and ethnicity in the American context. Students choose two core classes, four upper-division classes, and four elective classes (including one upper-division elective), from a curriculum organized to explore: critical approaches to popular culture; gender and ethnicity in American popular culture; and popular culture in the arts. Forty units are required, with a minimum of 24 at the upper-division level.",
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division Core Requirement",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AMST 205g",
+          "title": "Introduction to American Popular Culture",
+          "units": 4.0,
+          "source_line": "- AMST 205g Introduction to American Popular Culture Units: 4"
+        },
+        {
+          "code": "AMST 206gm",
+          "title": "The Politics and Culture of the 1960s",
+          "units": 4.0,
+          "source_line": "- AMST 206gm The Politics and Culture of the 1960s Units: 4"
+        },
+        {
+          "code": "AMST 285gm",
+          "title": "African American Popular Culture",
+          "units": 4.0,
+          "source_line": "- AMST 285gm African American Popular Culture Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one lower-division course (4 units).",
+          "source_line": "Choose one lower-division course (4 units).",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one lower-division course (4 units).",
+      "total_units": null
+    },
+    {
+      "title": "Senior Core Requirement",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AMST 492",
+          "title": "Research Methods in American Studies and Ethnicity",
+          "units": 4.0,
+          "source_line": "- AMST 492 Research Methods in American Studies and Ethnicity Units: 4"
+        },
+        {
+          "code": "AMST 493",
+          "title": "Senior Capstone Experience in American Studies and Ethnicity",
+          "units": 4.0,
+          "source_line": "- AMST 493 Senior Capstone Experience in American Studies and Ethnicity Units: 4"
+        },
+        {
+          "code": "AMST 498",
+          "title": "Senior Seminar in American Studies and Ethnicity",
+          "units": 4.0,
+          "source_line": "- AMST 498 Senior Seminar in American Studies and Ethnicity Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one senior course based on departmental offerings (4 units).",
+          "source_line": "Choose one senior course based on departmental offerings (4 units).",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Note: Honors students will complete an Honors Thesis in their senior core course.",
+          "source_line": "- Note: Honors students will complete an Honors Thesis in their senior core course."
+        }
+      ],
+      "choice": "Choose one senior course based on departmental offerings (4 units).",
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Choose four courses (16 units), at least one from each of the groups below.",
+          "source_line": "Choose four courses (16 units), at least one from each of the groups below.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose four courses (16 units), at least one from each of the groups below.",
+      "total_units": null
+    },
+    {
+      "title": "Critical Approaches to Popular Culture",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AMST 301gp",
+          "title": "America, the Frontier, and the New West",
+          "units": 4.0,
+          "source_line": "- AMST 301gp America, the Frontier, and the New West Units: 4"
+        },
+        {
+          "code": "COLT 365",
+          "title": "Literature and Popular Culture",
+          "units": 4.0,
+          "source_line": "- COLT 365 Literature and Popular Culture Units: 4"
+        },
+        {
+          "code": "COMM 384",
+          "title": "Interpreting Popular Culture",
+          "units": 4.0,
+          "source_line": "- COMM 384 Interpreting Popular Culture Units: 4"
+        },
+        {
+          "code": "ENGL 392",
+          "title": "Visual and Popular Culture",
+          "units": 4.0,
+          "source_line": "- ENGL 392 Visual and Popular Culture Units: 4"
+        },
+        {
+          "code": "HIST 380",
+          "title": "American Popular Culture",
+          "units": 4.0,
+          "source_line": "- HIST 380 American Popular Culture Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Gender and Ethnicity in American Popular Culture",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AMST 325gw",
+          "title": "The Middle East in Hollywood",
+          "units": 4.0,
+          "source_line": "- AMST 325gw The Middle East in Hollywood Units: 4"
+        },
+        {
+          "code": "AMST 330m",
+          "title": "Black Music and the Political Imagination",
+          "units": 4.0,
+          "source_line": "- AMST 330m Black Music and the Political Imagination Units: 4"
+        },
+        {
+          "code": "AMST 343",
+          "title": "Food, Health and Culture in Los Angeles",
+          "units": 4.0,
+          "source_line": "- AMST 343 Food, Health and Culture in Los Angeles Units: 4"
+        },
+        {
+          "code": "AMST 357m",
+          "title": "Latino Social Movements",
+          "units": 4.0,
+          "source_line": "- AMST 357m Latino Social Movements Units: 4"
+        },
+        {
+          "code": "AMST 365",
+          "title": "Leadership in the Community — Internship",
+          "units": 4.0,
+          "source_line": "- AMST 365 Leadership in the Community — Internship Units: 4"
+        },
+        {
+          "code": "AMST 385",
+          "title": "African American Culture and Society",
+          "units": 4.0,
+          "source_line": "- AMST 385 African American Culture and Society Units: 4"
+        },
+        {
+          "code": "AMST 395m",
+          "title": "African American Humor and Culture",
+          "units": 4.0,
+          "source_line": "- AMST 395m African American Humor and Culture Units: 4"
+        },
+        {
+          "code": "AMST 448m",
+          "title": "Chicano and Latino Literature",
+          "units": 4.0,
+          "source_line": "- AMST 448m Chicano and Latino Literature Units: 4"
+        },
+        {
+          "code": "AMST 449m",
+          "title": "Asian American Literature",
+          "units": 4.0,
+          "source_line": "- AMST 449m Asian American Literature Units: 4"
+        },
+        {
+          "code": "ENGL 343m",
+          "title": "Images of Women in Contemporary Culture",
+          "units": 4.0,
+          "source_line": "- ENGL 343m Images of Women in Contemporary Culture Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Popular Culture in the Arts",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AHIS 363m",
+          "title": "Contemporary Art and the Culture Wars",
+          "units": 4.0,
+          "source_line": "- AHIS 363m Contemporary Art and the Culture Wars Units: 4"
+        },
+        {
+          "code": "AHIS 370g",
+          "title": "Modern Art III: 1940 to the Present",
+          "units": 4.0,
+          "source_line": "- AHIS 370g Modern Art III: 1940 to the Present Units: 4"
+        },
+        {
+          "code": "AMST 305",
+          "title": "Art and Performance in the Americas",
+          "units": 4.0,
+          "source_line": "- AMST 305 Art and Performance in the Americas Units: 4"
+        },
+        {
+          "code": "AMST 446",
+          "title": "Latinx Music in the Americas",
+          "units": 4.0,
+          "source_line": "- AMST 446 Latinx Music in the Americas Units: 4"
+        },
+        {
+          "code": "CTCS 392",
+          "title": "History of American Cinema to 1960",
+          "units": 4.0,
+          "source_line": "- CTCS 392 History of American Cinema to 1960 Units: 4"
+        },
+        {
+          "code": "CTCS 393",
+          "title": "Topics in Historical Cinema and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 393 Topics in Historical Cinema and Media Units: 4"
+        },
+        {
+          "code": "CTCS 394",
+          "title": "History of American Cinema since 1960",
+          "units": 4.0,
+          "source_line": "- CTCS 394 History of American Cinema since 1960 Units: 4"
+        },
+        {
+          "code": "ENGL 371g",
+          "title": "Literary Genres and Film",
+          "units": 4.0,
+          "source_line": "- ENGL 371g Literary Genres and Film Units: 4"
+        },
+        {
+          "code": "ENGL 375",
+          "title": "Science Fiction",
+          "units": 4.0,
+          "source_line": "- ENGL 375 Science Fiction Units: 4"
+        },
+        {
+          "code": "ENGL 381",
+          "title": "Narrative Forms in Literature and Film",
+          "units": 4.0,
+          "source_line": "- ENGL 381 Narrative Forms in Literature and Film Units: 4"
+        },
+        {
+          "code": "HIST 481",
+          "title": "Producing Film Histories",
+          "units": 4.0,
+          "source_line": "- HIST 481 Producing Film Histories Units: 4"
+        },
+        {
+          "code": "MUJZ 419m",
+          "title": "The Jazz Experience: Myths and Culture",
+          "units": 4.0,
+          "source_line": "- MUJZ 419m The Jazz Experience: Myths and Culture Units: 4"
+        },
+        {
+          "code": "MUSC 422",
+          "title": "The Beatles: Their Music and Their Times",
+          "units": 4.0,
+          "source_line": "- MUSC 422 The Beatles: Their Music and Their Times Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AHIS 100g",
+          "title": "Introduction to Visual Culture",
+          "units": 4.0,
+          "source_line": "- AHIS 100g Introduction to Visual Culture Units: 4"
+        },
+        {
+          "code": "AHIS 250gm",
+          "title": "Art, Modernity and Difference",
+          "units": 4.0,
+          "source_line": "- AHIS 250gm Art, Modernity and Difference Units: 4"
+        },
+        {
+          "code": "AHIS 255g",
+          "title": "Culture Wars: Art and Social Conflict in the Modern World",
+          "units": 4.0,
+          "source_line": "- AHIS 255g Culture Wars: Art and Social Conflict in the Modern World Units: 4"
+        },
+        {
+          "code": "AHIS 270",
+          "title": "L.A. Now: Contemporary Art in Los Angeles",
+          "units": 4.0,
+          "source_line": "- AHIS 270 L.A. Now: Contemporary Art in Los Angeles Units: 4"
+        },
+        {
+          "code": "AHIS 364",
+          "title": "Myths, Arts, Realities: Visual Culture in California, 1849 to the Present",
+          "units": 4.0,
+          "source_line": "- AHIS 364 Myths, Arts, Realities: Visual Culture in California, 1849 to the Present Units: 4"
+        },
+        {
+          "code": "AHIS 365m",
+          "title": "African American Art",
+          "units": 4.0,
+          "source_line": "- AHIS 365m African American Art Units: 4"
+        },
+        {
+          "code": "AHIS 370g",
+          "title": "Modern Art III: 1940 to the Present",
+          "units": 4.0,
+          "source_line": "- AHIS 370g Modern Art III: 1940 to the Present Units: 4"
+        },
+        {
+          "code": "AMST 274mw",
+          "title": "Exploring Ethnicity through Film",
+          "units": 4.0,
+          "source_line": "- AMST 274mw Exploring Ethnicity through Film Units: 4"
+        },
+        {
+          "code": "ANTH 240gm",
+          "title": "Representing 9/11 and Hurricane Katrina",
+          "units": 4.0,
+          "source_line": "- ANTH 240gm Representing 9/11 and Hurricane Katrina Units: 4"
+        },
+        {
+          "code": "ANTH 263g",
+          "title": "Exploring Culture through Film",
+          "units": 4.0,
+          "source_line": "- ANTH 263g Exploring Culture through Film Units: 4"
+        },
+        {
+          "code": "ANTH 380",
+          "title": "Sex and Gender in Anthropological Perspective",
+          "units": 4.0,
+          "source_line": "- ANTH 380 Sex and Gender in Anthropological Perspective Units: 4"
+        },
+        {
+          "code": "ANTH 470",
+          "title": "Multimodal Methods in Visual Anthropology",
+          "units": 4.0,
+          "source_line": "- ANTH 470 Multimodal Methods in Visual Anthropology Units: 4"
+        },
+        {
+          "code": "COMM 206",
+          "title": "Communication and Culture",
+          "units": 4.0,
+          "source_line": "- COMM 206 Communication and Culture Units: 4"
+        },
+        {
+          "code": "COMM 307",
+          "title": "Sound Clash: Popular Music and American Culture",
+          "units": 4.0,
+          "source_line": "- COMM 307 Sound Clash: Popular Music and American Culture Units: 4"
+        },
+        {
+          "code": "COMM 310",
+          "title": "Media and Society",
+          "units": 4.0,
+          "source_line": "- COMM 310 Media and Society Units: 4"
+        },
+        {
+          "code": "COMM 312",
+          "title": "The Business and Culture of Celebrity",
+          "units": 4.0,
+          "source_line": "- COMM 312 The Business and Culture of Celebrity Units: 4"
+        },
+        {
+          "code": "COMM 360",
+          "title": "Los Angeles: Communication and Culture",
+          "units": 4.0,
+          "source_line": "- COMM 360 Los Angeles: Communication and Culture Units: 4"
+        },
+        {
+          "code": "COMM 366",
+          "title": "Designing Media for Social Change",
+          "units": 4.0,
+          "source_line": "- COMM 366 Designing Media for Social Change Units: 4"
+        },
+        {
+          "code": "COMM 371",
+          "title": "Media Censorship and the Law",
+          "units": 4.0,
+          "source_line": "- COMM 371 Media Censorship and the Law Units: 4"
+        },
+        {
+          "code": "COMM 384",
+          "title": "Interpreting Popular Culture",
+          "units": 4.0,
+          "source_line": "- COMM 384 Interpreting Popular Culture Units: 4"
+        },
+        {
+          "code": "COMM 396g",
+          "title": "Fashion, Media and Culture",
+          "units": 4.0,
+          "source_line": "- COMM 396g Fashion, Media and Culture Units: 4"
+        },
+        {
+          "code": "COMM 413",
+          "title": "Propaganda, Ideology and Public Controversy",
+          "units": 4.0,
+          "source_line": "- COMM 413 Propaganda, Ideology and Public Controversy Units: 4"
+        },
+        {
+          "code": "COMM 415m",
+          "title": "African American Rhetoric and Image",
+          "units": 4.0,
+          "source_line": "- COMM 415m African American Rhetoric and Image Units: 4"
+        },
+        {
+          "code": "COMM 426",
+          "title": "Religion, Media and Hollywood: Faith in TV",
+          "units": 4.0,
+          "source_line": "- COMM 426 Religion, Media and Hollywood: Faith in TV Units: 4"
+        },
+        {
+          "code": "COMM 432",
+          "title": "American Media and Entertainment Industries",
+          "units": 4.0,
+          "source_line": "- COMM 432 American Media and Entertainment Industries Units: 4"
+        },
+        {
+          "code": "COMM 456",
+          "title": "Entertainment, Marketing and Culture",
+          "units": 4.0,
+          "source_line": "- COMM 456 Entertainment, Marketing and Culture Units: 4"
+        },
+        {
+          "code": "COMM 458m",
+          "title": "Race and Ethnicity in Entertainment and the Arts",
+          "units": 4.0,
+          "source_line": "- COMM 458m Race and Ethnicity in Entertainment and the Arts Units: 4"
+        },
+        {
+          "code": "COMM 465m",
+          "title": "Gender in Media Industries and Products",
+          "units": 4.0,
+          "source_line": "- COMM 465m Gender in Media Industries and Products Units: 4"
+        },
+        {
+          "code": "CRIT 371",
+          "title": "Art in the Public Realm: Contemporary Issues",
+          "units": 4.0,
+          "source_line": "- CRIT 371 Art in the Public Realm: Contemporary Issues Units: 4"
+        },
+        {
+          "code": "CTCS 192mg",
+          "title": "Race, Class, and Gender in American Film",
+          "units": 4.0,
+          "source_line": "- CTCS 192mg Race, Class, and Gender in American Film Units: 4"
+        },
+        {
+          "code": "CTCS 403",
+          "title": "Studies in National and Regional Media",
+          "units": 4.0,
+          "source_line": "- CTCS 403 Studies in National and Regional Media Units: 4"
+        },
+        {
+          "code": "CTCS 404",
+          "title": "Television and Cultural Criticism",
+          "units": 4.0,
+          "source_line": "- CTCS 404 Television and Cultural Criticism Units: 4"
+        },
+        {
+          "code": "CTCS 406",
+          "title": "History of American Television",
+          "units": 4.0,
+          "source_line": "- CTCS 406 History of American Television Units: 4"
+        },
+        {
+          "code": "CTCS 407",
+          "title": "African American Cinema",
+          "units": 4.0,
+          "source_line": "- CTCS 407 African American Cinema Units: 4"
+        },
+        {
+          "code": "CTCS 408",
+          "title": "Contemporary Political Film and Digital Media",
+          "units": 4.0,
+          "source_line": "- CTCS 408 Contemporary Political Film and Digital Media Units: 4"
+        },
+        {
+          "code": "CTCS 409",
+          "title": "Censorship in Cinema",
+          "units": 4.0,
+          "source_line": "- CTCS 409 Censorship in Cinema Units: 4"
+        },
+        {
+          "code": "CTCS 411",
+          "title": "Film, Television and Cultural Studies",
+          "units": 4.0,
+          "source_line": "- CTCS 411 Film, Television and Cultural Studies Units: 4"
+        },
+        {
+          "code": "CTCS 412",
+          "title": "Gender, Sexuality and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 412 Gender, Sexuality and Media Units: 4"
+        },
+        {
+          "code": "CTCS 414",
+          "title": "Latina/o Screen Cultures",
+          "units": 4.0,
+          "source_line": "- CTCS 414 Latina/o Screen Cultures Units: 4"
+        },
+        {
+          "code": "CTCS 462",
+          "title": "Video Game Franchises",
+          "units": 4.0,
+          "source_line": "- CTCS 462 Video Game Franchises Units: 4"
+        },
+        {
+          "code": "CTCS 478",
+          "title": "Culture, Technology and Communications",
+          "units": 4.0,
+          "source_line": "- CTCS 478 Culture, Technology and Communications Units: 4"
+        },
+        {
+          "code": "DANC 212g",
+          "title": "Dance in Popular Culture",
+          "units": 4.0,
+          "source_line": "- DANC 212g Dance in Popular Culture Units: 4"
+        },
+        {
+          "code": "DANC 302g",
+          "title": "Hip Hop Don’t Stop: Black Social Dance Culture and Media",
+          "units": 4.0,
+          "source_line": "- DANC 302g Hip Hop Don’t Stop: Black Social Dance Culture and Media Units: 4"
+        },
+        {
+          "code": "ENGL 341",
+          "title": "Women in English Literature before 1800",
+          "units": 4.0,
+          "source_line": "- ENGL 341 Women in English Literature before 1800 Units: 4"
+        },
+        {
+          "code": "ENGL 342g",
+          "title": "Women in English and American Literature after 1800",
+          "units": 4.0,
+          "source_line": "- ENGL 342g Women in English and American Literature after 1800 Units: 4"
+        },
+        {
+          "code": "JOUR 467",
+          "title": "Gender and the News Media",
+          "units": 4.0,
+          "source_line": "- JOUR 467 Gender and the News Media Units: 4"
+        },
+        {
+          "code": "SOCI 342m",
+          "title": "Race Relations",
+          "units": 4.0,
+          "source_line": "- SOCI 342m Race Relations Units: 4"
+        },
+        {
+          "code": "SOCI 410",
+          "title": "The Sociology of Popular Culture",
+          "units": 4.0,
+          "source_line": "- SOCI 410 The Sociology of Popular Culture Units: 4"
+        },
+        {
+          "code": "THTR 488mw",
+          "title": "Theatre in the Community",
+          "units": 4.0,
+          "source_line": "- THTR 488mw Theatre in the Community Units: 4"
+        },
+        {
+          "code": "THTR 295",
+          "title": "Theatre in Los Angeles  (4 units required)",
+          "units": 2.0,
+          "source_line": "- THTR 295 Theatre in Los Angeles Units: 2 (4 units required)"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose four additional courses (16 units) from the lists above or below. One must be an upper-division course in a department you have not already chosen for the major.",
+          "source_line": "Choose four additional courses (16 units) from the lists above or below. One must be an upper-division course in a department you have not already chosen for the major.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose four additional courses (16 units) from the lists above or below. One must be an upper-division course in a department you have not already chosen for the major.",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

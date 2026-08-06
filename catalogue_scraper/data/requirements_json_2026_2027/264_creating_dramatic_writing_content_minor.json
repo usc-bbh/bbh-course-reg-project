@@ -1,0 +1,149 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Creating Dramatic Writing Content Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32858",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32858&returnto=9396",
+    "source_text_file": "264_creating_dramatic_writing_content_minor.txt",
+    "source_content_sha256": "f007dc2e9aa5a59c9ec5446d744dac5d7a1b0302a56b032cc1e612e96b85fb5b",
+    "retrieved_at": "2026-07-31T01:01:05Z"
+  },
+  "totals": {
+    "stated_total_units": 16.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [],
+    "course_entry_count": 14,
+    "distinct_course_codes": 13,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in Creating Dramatic Content presents undergraduate students an opportunity for broadening and deepening expression using the literary and performing arts. This minor offers a foundation for extended expression in dramatic writing and creative writing genres in general; fostering skills in content creation, research, communication and collaboration. The minor is a 16-unit program.",
+          "source_line": "The minor in Creating Dramatic Content presents undergraduate students an opportunity for broadening and deepening expression using the literary and performing arts. This minor offers a foundation for extended expression in dramatic writing and creative writing genres in general; fostering skills in content creation, research, communication and collaboration. The minor is a 16-unit program."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Course (4 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 365",
+          "title": "Playwriting I",
+          "units": 4.0,
+          "source_line": "- THTR 365 Playwriting I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Courses (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 122",
+          "title": "Improvisation and Theatre Games",
+          "units": 2.0,
+          "source_line": "- THTR 122 Improvisation and Theatre Games Units: 2"
+        },
+        {
+          "code": "THTR 125",
+          "title": "Text Studies for Production",
+          "units": 4.0,
+          "source_line": "- THTR 125 Text Studies for Production Units: 4"
+        },
+        {
+          "code": "THTR 305a",
+          "title": "Directing",
+          "units": 4.0,
+          "source_line": "- THTR 305a Directing Units: 4"
+        },
+        {
+          "code": "THTR 309",
+          "title": "Dramaturgy",
+          "units": 4.0,
+          "source_line": "- THTR 309 Dramaturgy Units: 4"
+        },
+        {
+          "code": "THTR 312",
+          "title": "LGBTQ Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 312 LGBTQ Theatre Units: 4"
+        },
+        {
+          "code": "THTR 318",
+          "title": "Creating the Hit Podcast",
+          "units": 2.0,
+          "source_line": "- THTR 318 Creating the Hit Podcast Units: 2"
+        },
+        {
+          "code": "THTR 365",
+          "title": "Playwriting I",
+          "units": 4.0,
+          "source_line": "- THTR 365 Playwriting I Units: 4"
+        },
+        {
+          "code": "THTR 366",
+          "title": "Playwriting II",
+          "units": 4.0,
+          "source_line": "- THTR 366 Playwriting II Units: 4"
+        },
+        {
+          "code": "THTR 395m",
+          "title": "Drama as Human Relations",
+          "units": 4.0,
+          "source_line": "- THTR 395m Drama as Human Relations Units: 4"
+        },
+        {
+          "code": "THTR 424",
+          "title": "Creator as Entrepreneur",
+          "units": 2.0,
+          "source_line": "- THTR 424 Creator as Entrepreneur Units: 2"
+        },
+        {
+          "code": "THTR 465",
+          "title": "Playwriting III",
+          "units": 4.0,
+          "source_line": "- THTR 465 Playwriting III Units: 4"
+        },
+        {
+          "code": "THTR 467",
+          "title": "Going Viral: Performance for New Media",
+          "units": 2.0,
+          "source_line": "- THTR 467 Going Viral: Performance for New Media Units: 2"
+        },
+        {
+          "code": "THTR 479",
+          "title": "Solo Performance",
+          "units": 4.0,
+          "source_line": "- THTR 479 Solo Performance Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Units: 16",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 16.0
+    }
+  ],
+  "parse_warnings": []
+}

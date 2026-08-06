@@ -1,0 +1,197 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Comedy Writing Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32953",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32953&returnto=9396",
+    "source_text_file": "249_comedy_writing_minor.txt",
+    "source_content_sha256": "0b591f34da601a936b74127be399887d4031dfb97139c66e284dee502e081089",
+    "retrieved_at": "2026-07-31T01:00:35Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "Students will be required to complete an original 4-unit long form project and then select 8 units of elective course work from a designated grouping of electives.",
+      "##### Course Requirements for the Minor\n\nA total of 20 units is required to complete the Comedy Writing Minor.",
+      "## Required Courses (8 units)\n\n---\n\nFoundations in structure, writing, and importance\n\n- CTWR 404 Foundations of Comedy Units: 2\n- CTWR 400 Is This A Joke: Mechanics of Comedy Writing Units: 4\n- CTWR 406 Why The Long Face: Writing Comedy & the Human Experience Units: 2\n\n## Long-Form Requirement (4 units From The Following)\n\n---\n\nWriting an original feature or television pilot with a comedy focus.",
+      "- CTWR 437 Writing the Original Situation Comedy Pilot Units: 4\n- CTWR 457 Writing the Comedy Screenplay Units: 4\n\n## Electives (8 units From The Following)\n\n---\n\nPlease note repeatable courses."
+    ],
+    "course_entry_count": 12,
+    "distinct_course_codes": 10,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Focused on the writing of comedy, students will learn to craft comedy across multiple platforms and refine their comedic voice. The curriculum is structured with three introduction courses: the study of comedy, the craft of comedic writing, and the importance of comedy in the human experience.",
+          "source_line": "Focused on the writing of comedy, students will learn to craft comedy across multiple platforms and refine their comedic voice. The curriculum is structured with three introduction courses: the study of comedy, the craft of comedic writing, and the importance of comedy in the human experience."
+        },
+        {
+          "text": "Students will be required to complete an original 4-unit long form project and then select 8 units of elective course work from a designated grouping of electives.",
+          "source_line": "Students will be required to complete an original 4-unit long form project and then select 8 units of elective course work from a designated grouping of electives.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Students will be required to complete an original 4-unit long form project and then select 8 units of elective course work from a designated grouping of electives.",
+      "total_units": null
+    },
+    {
+      "title": "Application Procedures",
+      "level": 5,
+      "courses": [],
+      "notes": [
+        {
+          "text": "To apply to the minor in comedy writing, a student must be in good academic standing and have a declared major.",
+          "source_line": "To apply to the minor in comedy writing, a student must be in good academic standing and have a declared major."
+        },
+        {
+          "text": "Applications and information about the minor can be obtained from the USC School of Cinematic Arts, Writing for Screen and Television division, (213) 740-3303 or at writing@cinema.usc.edu subject line “Comedy Writing Minor Application.”",
+          "source_line": "Applications and information about the minor can be obtained from the USC School of Cinematic Arts, Writing for Screen and Television division, (213) 740-3303 or at writing@cinema.usc.edu subject line “Comedy Writing Minor Application.”"
+        },
+        {
+          "text": "Students with a declared Comedy Writing minor will receive advisement support in the John Wells Division of Writing for Screen and Television and will receive priority d-clearance for non-majors.",
+          "source_line": "Students with a declared Comedy Writing minor will receive advisement support in the John Wells Division of Writing for Screen and Television and will receive priority d-clearance for non-majors."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Course Requirements for the Minor",
+      "level": 5,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A total of 20 units is required to complete the Comedy Writing Minor.",
+          "source_line": "A total of 20 units is required to complete the Comedy Writing Minor."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTWR 404",
+          "title": "Foundations of Comedy",
+          "units": 2.0,
+          "source_line": "- CTWR 404 Foundations of Comedy Units: 2"
+        },
+        {
+          "code": "CTWR 400",
+          "title": "Is This A Joke: Mechanics of Comedy Writing",
+          "units": 4.0,
+          "source_line": "- CTWR 400 Is This A Joke: Mechanics of Comedy Writing Units: 4"
+        },
+        {
+          "code": "CTWR 406",
+          "title": "Why The Long Face: Writing Comedy & the Human Experience",
+          "units": 2.0,
+          "source_line": "- CTWR 406 Why The Long Face: Writing Comedy & the Human Experience Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Foundations in structure, writing, and importance",
+          "source_line": "Foundations in structure, writing, and importance"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Long-Form Requirement (4 units From The Following)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTWR 437",
+          "title": "Writing the Original Situation Comedy Pilot",
+          "units": 4.0,
+          "source_line": "- CTWR 437 Writing the Original Situation Comedy Pilot Units: 4"
+        },
+        {
+          "code": "CTWR 457",
+          "title": "Writing the Comedy Screenplay",
+          "units": 4.0,
+          "source_line": "- CTWR 457 Writing the Comedy Screenplay Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Writing an original feature or television pilot with a comedy focus.",
+          "source_line": "Writing an original feature or television pilot with a comedy focus."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (8 units From The Following)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTWR 324",
+          "title": "Breaking the Half-Hour Television Series",
+          "units": 4.0,
+          "source_line": "- CTWR 324 Breaking the Half-Hour Television Series Units: 4"
+        },
+        {
+          "code": "CTWR 407",
+          "title": "Creating the Comedic Character",
+          "units": 2.0,
+          "source_line": "- CTWR 407 Creating the Comedic Character Units: 2"
+        },
+        {
+          "code": "CTWR 430",
+          "title": "Comedy Writers and Their Work  max 6",
+          "units": 2.0,
+          "source_line": "- CTWR 430 Comedy Writers and Their Work Units: 2 max 6"
+        },
+        {
+          "code": "CTWR 437",
+          "title": "Writing the Original Situation Comedy Pilot  max 8",
+          "units": 4.0,
+          "source_line": "- CTWR 437 Writing the Original Situation Comedy Pilot Units: 4 max 8"
+        },
+        {
+          "code": "CTWR 438",
+          "title": "Micro-Stories for New Platforms , 4 max 8",
+          "units": 2.0,
+          "source_line": "- CTWR 438 Micro-Stories for New Platforms Units: 2, 4 max 8"
+        },
+        {
+          "code": "CTWR 457",
+          "title": "Writing the Comedy Screenplay  max 12",
+          "units": 4.0,
+          "source_line": "- CTWR 457 Writing the Comedy Screenplay Units: 4 max 12"
+        },
+        {
+          "code": "CTWR 467",
+          "title": "Comedy Punch Ups and Table Readings  max 6",
+          "units": 2.0,
+          "source_line": "- CTWR 467 Comedy Punch Ups and Table Readings Units: 2 max 6"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Please note repeatable courses.",
+          "source_line": "Please note repeatable courses."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

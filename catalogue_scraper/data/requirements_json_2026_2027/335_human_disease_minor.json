@@ -1,0 +1,164 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Human Disease Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32666",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32666&returnto=9396",
+    "source_text_file": "335_human_disease_minor.txt",
+    "source_content_sha256": "137c7f292813575b38127034f10a3506e492933c572f2b05385b3f377a50aeff",
+    "retrieved_at": "2026-07-31T01:07:09Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The minor includes two lower-division pre-requisites, two upper-division courses to be chosen from a list of HBIO courses and two upper-division courses to be chosen from a list of PSYC courses for a total of four upper-division courses (16 units)."
+    ],
+    "course_entry_count": 12,
+    "distinct_course_codes": 12,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in Human Disease is an interdisciplinary program focused on the biological and psychological factors that determine wellness and disease. It is an ideal minor for students interested in various disciples such medicine, nursing, pharmacy, dentistry, public health, global health, health policy and health promotion.",
+          "source_line": "The minor in Human Disease is an interdisciplinary program focused on the biological and psychological factors that determine wellness and disease. It is an ideal minor for students interested in various disciples such medicine, nursing, pharmacy, dentistry, public health, global health, health policy and health promotion."
+        },
+        {
+          "text": "The minor includes two lower-division pre-requisites, two upper-division courses to be chosen from a list of HBIO courses and two upper-division courses to be chosen from a list of PSYC courses for a total of four upper-division courses (16 units).",
+          "source_line": "The minor includes two lower-division pre-requisites, two upper-division courses to be chosen from a list of HBIO courses and two upper-division courses to be chosen from a list of PSYC courses for a total of four upper-division courses (16 units)."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Pre-requisite Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PSYC 100Lg",
+          "title": "Introduction to Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 100Lg Introduction to Psychology Units: 4"
+        },
+        {
+          "code": "BISC 220Lg",
+          "title": "General Biology: Cell Biology and Physiology  or",
+          "units": 4.0,
+          "source_line": "- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or"
+        },
+        {
+          "code": "BISC 221Lg",
+          "title": "Advanced General Biology: Cell Biology and Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Human Biology",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HBIO 301L",
+          "title": "Human Anatomy",
+          "units": 4.0,
+          "source_line": "- HBIO 301L Human Anatomy Units: 4"
+        },
+        {
+          "code": "HBIO 360L",
+          "title": "Nutrition and Disease",
+          "units": 4.0,
+          "source_line": "- HBIO 360L Nutrition and Disease Units: 4"
+        },
+        {
+          "code": "HBIO 370",
+          "title": "Genetics and Disease",
+          "units": 4.0,
+          "source_line": "- HBIO 370 Genetics and Disease Units: 4"
+        },
+        {
+          "code": "HBIO 405",
+          "title": "Evolutionary Medicine",
+          "units": 4.0,
+          "source_line": "- HBIO 405 Evolutionary Medicine Units: 4"
+        },
+        {
+          "code": "HBIO 435",
+          "title": "Neurobiology of Feeding Behavior and Obesity",
+          "units": 4.0,
+          "source_line": "- HBIO 435 Neurobiology of Feeding Behavior and Obesity Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose two from the following:",
+          "source_line": "Choose two from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose two from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Psychology",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PSYC 360",
+          "title": "Psychological Disorders",
+          "units": 4.0,
+          "source_line": "- PSYC 360 Psychological Disorders Units: 4"
+        },
+        {
+          "code": "PSYC 424",
+          "title": "Neuropsychology",
+          "units": 4.0,
+          "source_line": "- PSYC 424 Neuropsychology Units: 4"
+        },
+        {
+          "code": "PSYC 426",
+          "title": "Motivated Behaviors and Addiction",
+          "units": 4.0,
+          "source_line": "- PSYC 426 Motivated Behaviors and Addiction Units: 4"
+        },
+        {
+          "code": "PSYC 462m",
+          "title": "Culture and Mental Health",
+          "units": 4.0,
+          "source_line": "- PSYC 462m Culture and Mental Health Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose two from the following:",
+          "source_line": "Choose two from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose two from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Minimum Upper-Division Units Required: 16",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

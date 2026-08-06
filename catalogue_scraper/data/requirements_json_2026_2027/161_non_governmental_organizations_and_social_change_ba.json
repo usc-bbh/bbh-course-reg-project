@@ -1,0 +1,757 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Non-Governmental Organizations and Social Change (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31929",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31929&returnto=9396",
+    "source_text_file": "161_non_governmental_organizations_and_social_change_ba.txt",
+    "source_content_sha256": "12d49be669e0ee7010269d78f973e5918371a89c6a0fa8eff02d10b606d26c75",
+    "retrieved_at": "2026-07-31T00:56:10Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The major requires nine courses (36 units) chosen from the specific lists of requirements below.",
+      "Lower division requirement\n\n---\n\n#### Choose one course (4 units) from the following list:\n\n---\n\n- AMST 252gmw Black Social Movements in the U.",
+      "Core methods\n\n---\n\n#### Choose one course (4 units) from the following two:\n\n---\n\n- SOCI 313L Sociological Research Methods Units: 4\n- SOCI 314Lg Analyzing Social Statistics Units: 4\n\n### C.",
+      "Core theory\n\n---\n\n#### Choose one course (4 units) from the following five:\n\n---\n\n- PHIL 337 Political Philosophy Units: 4\n- PHIL 437 Social and Political Philosophy Units: 4\n- POSC 380 Political Theories and Social Reform Units: 2, 4\n- SOCI 270g Sociological Theory Units: 4\n- SOCI 445 Political and Social Theory Units: 4\n\n### D.",
+      "Perspectives on NGOs\n\n---\n\n#### Choose one course (4 units) from the following four:\n\n---\n\n- IR 371 Global Civil Society: Non-State Actors in World Politics Units: 4\n- PPD 371 The Nonprofit Sector and the Public Interest Units: 4\n- SOCI 250gmw Grassroots Participation in Global Perspective Units: 4\n- SOCI 408 Volunteers, Non-Governmental Organizations, and Everyday Politics Units: 4\n\n### E.",
+      "Analyzing and identifying roots of social conflict\n\n---\n\n#### Choose two courses (8 units):\n\n---\n\n- ANTH 355 Urban Anthropology Units: 4\n- ANTH 316gmp Native Americans in American Public Life Units: 4\n- ANTH 357g Cultures of Genocide, Cultures of Care Units: 4\n- ANTH 371gm Cross-Cultural Research on Urban Gangs Units: 4\n- ANTH 380 Sex and Gender in Anthropological Perspective Units: 4\n- BISC 427 The Global Environment Units: 4\n- ECON 340 Economics of Less Developed Countries Units: 4 *\n- ECON 344 Economic Development of Sub-Saharan Africa Units: 4 *\n- ECON 350 The World Economy Units: 4 *\n- GERO 340 Policy, Values, and Power in an Aging Society Units: 4\n- GERO 483 Global Health and Aging Units: 4\n- HIST 323 The Holocaust in 20th Century Europe Units: 4\n- HIST 372 Modern Latin America Units: 4\n- IR 308gw Economic Globalization Units: 4\n- IR 310 Peace and Conflict Studies Units: 4\n- IR 315 Ethnicity and Nationalism in World Politics Units: 4\n- IR 316 Gender and Global Issues Units: 4\n- IR 323 Politics of Global Environment Units: 4\n- IR 324 Multinational Enterprises and World Politics Units: 4\n- IR 325 North-South Relations in the Global Economy Units: 4\n- IR 344 The Global South in World Politics Units: 4\n- IR 349 International Law and Politics Units: 4\n- IR 364 The Political Economy of Latin American Development Units: 4\n- IR 367 Africa in International Affairs Units: 4\n- MOR 385gm Business, Government and Society Units: 4\n- MOR 466 Business and Environmental Sustainability Units: 4\n- PHIL 340 Ethics Units: 4\n- POSC 320 Urban Politics Units: 4\n- POSC 321 Urban Political Problems Units: 4\n- POSC 345 International Law Units: 4\n- POSC 347 Environmental Law Units: 4\n- POSC 350 Politics of Latin America Units: 4\n- POSC 363 Cities and Regions in World Politics Units: 4\n- POSC 381 Sex, Power, and Politics Units: 4\n- POSC 436 Environmental Politics Units: 4\n- SOCI 362 Global and Transnational Sociology Units: 4\n- SOCI 402 Human Trafficking Units: 4\n- SOCI 429 Immigration, Work and Labor Units: 4\n- SOCI 430m Work and the Workplace Units: 4\n- SOCI 432m Racial and Ethnic Relations in a Global Society Units: 4\n- SOCI 440 Environmental Sociology Units: 4\n- SOCI 460 Key Issues in Contemporary International Migration Units: 4\n- SOCI 464 Sociology of Gender and Work Units: 4\n\n##### Note:\n\n---\n\n*Prerequisite required\n\n### F.",
+      "Addressing social conflict and organizing advocacy\n\n---\n\n#### Choose two courses (8 units):\n\n---\n\n- AMST 357m Latino Social Movements Units: 4\n- BAEP 491 Introduction to Social Entrepreneurship Units: 4\n- BUCO 485 Business Communication Management for Nonprofits Units: 4\n- COMM 322 Argumentation and Advocacy Units: 4\n- COMM 366 Designing Media for Social Change Units: 4\n- COMM 400 Seminar in Communication Units: 4\n- COMM 402 Public Communication Campaigns Units: 4\n- COMM 412 Communication and Social Movements Units: 4\n- COMM 413 Propaganda, Ideology and Public Controversy Units: 4\n- COMM 487 Communication and Global Organizations Units: 4\n- GERO 350 Administrative Problems in Aging Units: 2 or 4\n- IR 306 International Organizations Units: 4\n- IR 318 Violent Conflict Units: 4\n- JS 360m Identity, Community, and Service: Jews and Other Americans Units: 4\n- POSC 323 Applied Politics Units: 4\n- PPD 318 Financial Accounting in Public and Nonprofit Organizations Units: 4\n- PPD 353 Philanthropy and Social Change Units: 4\n- REL 468 Sociology of Religion Units: 4\n- SOCI 340 Organizations: Bureaucracy and Alternatives to Bureaucracy Units: 4\n- SOCI 425 Social Movements: Power, Resistance and Political Dynamics Units: 4\n- SOWK 350 Adolescent Gang Intervention Units: 4\n- THTR 488mw Theatre in the Community Units: 4\n\n### G."
+    ],
+    "course_entry_count": 93,
+    "distinct_course_codes": 93,
+    "section_count": 18
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This interdisciplinary program focuses on the roots of social conflict, on theories and methods for understanding them, and on the non-governmental organizations (NGOs) and nonprofits that address them. To remedy social problems, we need to examine their economic, political and social roots, as well as the varied forms of organizations that aim to fix them. Students will engage in various methods of analysis, from investigations of everyday interactions to explorations of larger economic, political and social structures. In classrooms and internships, students will learn how people in NGOs and nonprofits promote new forms of citizenship and governance, aiming to protect the environment and to lessen the suffering of people around the world.",
+          "source_line": "This interdisciplinary program focuses on the roots of social conflict, on theories and methods for understanding them, and on the non-governmental organizations (NGOs) and nonprofits that address them. To remedy social problems, we need to examine their economic, political and social roots, as well as the varied forms of organizations that aim to fix them. Students will engage in various methods of analysis, from investigations of everyday interactions to explorations of larger economic, political and social structures. In classrooms and internships, students will learn how people in NGOs and nonprofits promote new forms of citizenship and governance, aiming to protect the environment and to lessen the suffering of people around the world."
+        },
+        {
+          "text": "The major requires nine courses (36 units) chosen from the specific lists of requirements below. As with all interdisciplinary majors, students may double-count no more than three courses from this degree to satisfy any other major.",
+          "source_line": "The major requires nine courses (36 units) chosen from the specific lists of requirements below. As with all interdisciplinary majors, students may double-count no more than three courses from this degree to satisfy any other major."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Course Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "A. Lower division requirement",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose one course (4 units) from the following list:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "AMST 252gmw",
+          "title": "Black Social Movements in the U.S",
+          "units": 4.0,
+          "source_line": "- AMST 252gmw Black Social Movements in the U.S. Units: 4"
+        },
+        {
+          "code": "ECON 238xg",
+          "title": "Political Economy and Social Issues",
+          "units": 4.0,
+          "source_line": "- ECON 238xg Political Economy and Social Issues Units: 4"
+        },
+        {
+          "code": "ENST 150gx",
+          "title": "Environmental Issues in Society",
+          "units": 4.0,
+          "source_line": "- ENST 150gx Environmental Issues in Society Units: 4"
+        },
+        {
+          "code": "ENST 270",
+          "title": "Introduction to Environmental Law and Politics",
+          "units": 4.0,
+          "source_line": "- ENST 270 Introduction to Environmental Law and Politics Units: 4"
+        },
+        {
+          "code": "GEOL 108Lg",
+          "title": "Natural Disasters and Their Global Impact",
+          "units": 4.0,
+          "source_line": "- GEOL 108Lg Natural Disasters and Their Global Impact Units: 4"
+        },
+        {
+          "code": "IR 101gxw",
+          "title": "International Relations",
+          "units": 4.0,
+          "source_line": "- IR 101gxw International Relations Units: 4"
+        },
+        {
+          "code": "IR 210gw",
+          "title": "International Relations: Introductory Analysis",
+          "units": 4.0,
+          "source_line": "- IR 210gw International Relations: Introductory Analysis Units: 4"
+        },
+        {
+          "code": "PHIL 141g",
+          "title": "The Professions and the Public Interest in American Life",
+          "units": 4.0,
+          "source_line": "- PHIL 141g The Professions and the Public Interest in American Life Units: 4"
+        },
+        {
+          "code": "POSC 130g",
+          "title": "Law, Politics and Public Policy",
+          "units": 4.0,
+          "source_line": "- POSC 130g Law, Politics and Public Policy Units: 4"
+        },
+        {
+          "code": "POSC 248gw",
+          "title": "Human Rights",
+          "units": 4.0,
+          "source_line": "- POSC 248gw Human Rights Units: 4"
+        },
+        {
+          "code": "POSC 265gw",
+          "title": "Environmental Challenges",
+          "units": 4.0,
+          "source_line": "- POSC 265gw Environmental Challenges Units: 4"
+        },
+        {
+          "code": "SOCI 100gmw",
+          "title": "Los Angeles and the American Dream",
+          "units": 4.0,
+          "source_line": "- SOCI 100gmw Los Angeles and the American Dream Units: 4"
+        },
+        {
+          "code": "SOCI 150gm",
+          "title": "Social Problems",
+          "units": 4.0,
+          "source_line": "- SOCI 150gm Social Problems Units: 4"
+        },
+        {
+          "code": "SOCI 200gm",
+          "title": "Introduction to Sociology",
+          "units": 4.0,
+          "source_line": "- SOCI 200gm Introduction to Sociology Units: 4"
+        },
+        {
+          "code": "SOCI 255g",
+          "title": "Sociology of Globalization",
+          "units": 4.0,
+          "source_line": "- SOCI 255g Sociology of Globalization Units: 4"
+        },
+        {
+          "code": "SWMS 215gw",
+          "title": "Introduction to Gender and Sexuality: International Perspectives",
+          "units": 4.0,
+          "source_line": "- SWMS 215gw Introduction to Gender and Sexuality: International Perspectives Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "B. Core methods",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose one course (4 units) from the following two:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "SOCI 313L",
+          "title": "Sociological Research Methods",
+          "units": 4.0,
+          "source_line": "- SOCI 313L Sociological Research Methods Units: 4"
+        },
+        {
+          "code": "SOCI 314Lg",
+          "title": "Analyzing Social Statistics",
+          "units": 4.0,
+          "source_line": "- SOCI 314Lg Analyzing Social Statistics Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "C. Core theory",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose one course (4 units) from the following five:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "PHIL 337",
+          "title": "Political Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 337 Political Philosophy Units: 4"
+        },
+        {
+          "code": "PHIL 437",
+          "title": "Social and Political Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 437 Social and Political Philosophy Units: 4"
+        },
+        {
+          "code": "POSC 380",
+          "title": "Political Theories and Social Reform , 4",
+          "units": 2.0,
+          "source_line": "- POSC 380 Political Theories and Social Reform Units: 2, 4"
+        },
+        {
+          "code": "SOCI 270g",
+          "title": "Sociological Theory",
+          "units": 4.0,
+          "source_line": "- SOCI 270g Sociological Theory Units: 4"
+        },
+        {
+          "code": "SOCI 445",
+          "title": "Political and Social Theory",
+          "units": 4.0,
+          "source_line": "- SOCI 445 Political and Social Theory Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "D. Perspectives on NGOs",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose one course (4 units) from the following four:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "IR 371",
+          "title": "Global Civil Society: Non-State Actors in World Politics",
+          "units": 4.0,
+          "source_line": "- IR 371 Global Civil Society: Non-State Actors in World Politics Units: 4"
+        },
+        {
+          "code": "PPD 371",
+          "title": "The Nonprofit Sector and the Public Interest",
+          "units": 4.0,
+          "source_line": "- PPD 371 The Nonprofit Sector and the Public Interest Units: 4"
+        },
+        {
+          "code": "SOCI 250gmw",
+          "title": "Grassroots Participation in Global Perspective",
+          "units": 4.0,
+          "source_line": "- SOCI 250gmw Grassroots Participation in Global Perspective Units: 4"
+        },
+        {
+          "code": "SOCI 408",
+          "title": "Volunteers, Non-Governmental Organizations, and Everyday Politics",
+          "units": 4.0,
+          "source_line": "- SOCI 408 Volunteers, Non-Governmental Organizations, and Everyday Politics Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "E. Analyzing and identifying roots of social conflict",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose two courses (8 units):",
+      "level": 4,
+      "courses": [
+        {
+          "code": "ANTH 355",
+          "title": "Urban Anthropology",
+          "units": 4.0,
+          "source_line": "- ANTH 355 Urban Anthropology Units: 4"
+        },
+        {
+          "code": "ANTH 316gmp",
+          "title": "Native Americans in American Public Life",
+          "units": 4.0,
+          "source_line": "- ANTH 316gmp Native Americans in American Public Life Units: 4"
+        },
+        {
+          "code": "ANTH 357g",
+          "title": "Cultures of Genocide, Cultures of Care",
+          "units": 4.0,
+          "source_line": "- ANTH 357g Cultures of Genocide, Cultures of Care Units: 4"
+        },
+        {
+          "code": "ANTH 371gm",
+          "title": "Cross-Cultural Research on Urban Gangs",
+          "units": 4.0,
+          "source_line": "- ANTH 371gm Cross-Cultural Research on Urban Gangs Units: 4"
+        },
+        {
+          "code": "ANTH 380",
+          "title": "Sex and Gender in Anthropological Perspective",
+          "units": 4.0,
+          "source_line": "- ANTH 380 Sex and Gender in Anthropological Perspective Units: 4"
+        },
+        {
+          "code": "BISC 427",
+          "title": "The Global Environment",
+          "units": 4.0,
+          "source_line": "- BISC 427 The Global Environment Units: 4"
+        },
+        {
+          "code": "ECON 340",
+          "title": "Economics of Less Developed Countries  *",
+          "units": 4.0,
+          "source_line": "- ECON 340 Economics of Less Developed Countries Units: 4 *"
+        },
+        {
+          "code": "ECON 344",
+          "title": "Economic Development of Sub-Saharan Africa  *",
+          "units": 4.0,
+          "source_line": "- ECON 344 Economic Development of Sub-Saharan Africa Units: 4 *"
+        },
+        {
+          "code": "ECON 350",
+          "title": "The World Economy  *",
+          "units": 4.0,
+          "source_line": "- ECON 350 The World Economy Units: 4 *"
+        },
+        {
+          "code": "GERO 340",
+          "title": "Policy, Values, and Power in an Aging Society",
+          "units": 4.0,
+          "source_line": "- GERO 340 Policy, Values, and Power in an Aging Society Units: 4"
+        },
+        {
+          "code": "GERO 483",
+          "title": "Global Health and Aging",
+          "units": 4.0,
+          "source_line": "- GERO 483 Global Health and Aging Units: 4"
+        },
+        {
+          "code": "HIST 323",
+          "title": "The Holocaust in 20th Century Europe",
+          "units": 4.0,
+          "source_line": "- HIST 323 The Holocaust in 20th Century Europe Units: 4"
+        },
+        {
+          "code": "HIST 372",
+          "title": "Modern Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 372 Modern Latin America Units: 4"
+        },
+        {
+          "code": "IR 308gw",
+          "title": "Economic Globalization",
+          "units": 4.0,
+          "source_line": "- IR 308gw Economic Globalization Units: 4"
+        },
+        {
+          "code": "IR 310",
+          "title": "Peace and Conflict Studies",
+          "units": 4.0,
+          "source_line": "- IR 310 Peace and Conflict Studies Units: 4"
+        },
+        {
+          "code": "IR 315",
+          "title": "Ethnicity and Nationalism in World Politics",
+          "units": 4.0,
+          "source_line": "- IR 315 Ethnicity and Nationalism in World Politics Units: 4"
+        },
+        {
+          "code": "IR 316",
+          "title": "Gender and Global Issues",
+          "units": 4.0,
+          "source_line": "- IR 316 Gender and Global Issues Units: 4"
+        },
+        {
+          "code": "IR 323",
+          "title": "Politics of Global Environment",
+          "units": 4.0,
+          "source_line": "- IR 323 Politics of Global Environment Units: 4"
+        },
+        {
+          "code": "IR 324",
+          "title": "Multinational Enterprises and World Politics",
+          "units": 4.0,
+          "source_line": "- IR 324 Multinational Enterprises and World Politics Units: 4"
+        },
+        {
+          "code": "IR 325",
+          "title": "North-South Relations in the Global Economy",
+          "units": 4.0,
+          "source_line": "- IR 325 North-South Relations in the Global Economy Units: 4"
+        },
+        {
+          "code": "IR 344",
+          "title": "The Global South in World Politics",
+          "units": 4.0,
+          "source_line": "- IR 344 The Global South in World Politics Units: 4"
+        },
+        {
+          "code": "IR 349",
+          "title": "International Law and Politics",
+          "units": 4.0,
+          "source_line": "- IR 349 International Law and Politics Units: 4"
+        },
+        {
+          "code": "IR 364",
+          "title": "The Political Economy of Latin American Development",
+          "units": 4.0,
+          "source_line": "- IR 364 The Political Economy of Latin American Development Units: 4"
+        },
+        {
+          "code": "IR 367",
+          "title": "Africa in International Affairs",
+          "units": 4.0,
+          "source_line": "- IR 367 Africa in International Affairs Units: 4"
+        },
+        {
+          "code": "MOR 385gm",
+          "title": "Business, Government and Society",
+          "units": 4.0,
+          "source_line": "- MOR 385gm Business, Government and Society Units: 4"
+        },
+        {
+          "code": "MOR 466",
+          "title": "Business and Environmental Sustainability",
+          "units": 4.0,
+          "source_line": "- MOR 466 Business and Environmental Sustainability Units: 4"
+        },
+        {
+          "code": "PHIL 340",
+          "title": "Ethics",
+          "units": 4.0,
+          "source_line": "- PHIL 340 Ethics Units: 4"
+        },
+        {
+          "code": "POSC 320",
+          "title": "Urban Politics",
+          "units": 4.0,
+          "source_line": "- POSC 320 Urban Politics Units: 4"
+        },
+        {
+          "code": "POSC 321",
+          "title": "Urban Political Problems",
+          "units": 4.0,
+          "source_line": "- POSC 321 Urban Political Problems Units: 4"
+        },
+        {
+          "code": "POSC 345",
+          "title": "International Law",
+          "units": 4.0,
+          "source_line": "- POSC 345 International Law Units: 4"
+        },
+        {
+          "code": "POSC 347",
+          "title": "Environmental Law",
+          "units": 4.0,
+          "source_line": "- POSC 347 Environmental Law Units: 4"
+        },
+        {
+          "code": "POSC 350",
+          "title": "Politics of Latin America",
+          "units": 4.0,
+          "source_line": "- POSC 350 Politics of Latin America Units: 4"
+        },
+        {
+          "code": "POSC 363",
+          "title": "Cities and Regions in World Politics",
+          "units": 4.0,
+          "source_line": "- POSC 363 Cities and Regions in World Politics Units: 4"
+        },
+        {
+          "code": "POSC 381",
+          "title": "Sex, Power, and Politics",
+          "units": 4.0,
+          "source_line": "- POSC 381 Sex, Power, and Politics Units: 4"
+        },
+        {
+          "code": "POSC 436",
+          "title": "Environmental Politics",
+          "units": 4.0,
+          "source_line": "- POSC 436 Environmental Politics Units: 4"
+        },
+        {
+          "code": "SOCI 362",
+          "title": "Global and Transnational Sociology",
+          "units": 4.0,
+          "source_line": "- SOCI 362 Global and Transnational Sociology Units: 4"
+        },
+        {
+          "code": "SOCI 402",
+          "title": "Human Trafficking",
+          "units": 4.0,
+          "source_line": "- SOCI 402 Human Trafficking Units: 4"
+        },
+        {
+          "code": "SOCI 429",
+          "title": "Immigration, Work and Labor",
+          "units": 4.0,
+          "source_line": "- SOCI 429 Immigration, Work and Labor Units: 4"
+        },
+        {
+          "code": "SOCI 430m",
+          "title": "Work and the Workplace",
+          "units": 4.0,
+          "source_line": "- SOCI 430m Work and the Workplace Units: 4"
+        },
+        {
+          "code": "SOCI 432m",
+          "title": "Racial and Ethnic Relations in a Global Society",
+          "units": 4.0,
+          "source_line": "- SOCI 432m Racial and Ethnic Relations in a Global Society Units: 4"
+        },
+        {
+          "code": "SOCI 440",
+          "title": "Environmental Sociology",
+          "units": 4.0,
+          "source_line": "- SOCI 440 Environmental Sociology Units: 4"
+        },
+        {
+          "code": "SOCI 460",
+          "title": "Key Issues in Contemporary International Migration",
+          "units": 4.0,
+          "source_line": "- SOCI 460 Key Issues in Contemporary International Migration Units: 4"
+        },
+        {
+          "code": "SOCI 464",
+          "title": "Sociology of Gender and Work",
+          "units": 4.0,
+          "source_line": "- SOCI 464 Sociology of Gender and Work Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 5,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Prerequisite required",
+          "source_line": "*Prerequisite required"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "F. Addressing social conflict and organizing advocacy",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose two courses (8 units):",
+      "level": 4,
+      "courses": [
+        {
+          "code": "AMST 357m",
+          "title": "Latino Social Movements",
+          "units": 4.0,
+          "source_line": "- AMST 357m Latino Social Movements Units: 4"
+        },
+        {
+          "code": "BAEP 491",
+          "title": "Introduction to Social Entrepreneurship",
+          "units": 4.0,
+          "source_line": "- BAEP 491 Introduction to Social Entrepreneurship Units: 4"
+        },
+        {
+          "code": "BUCO 485",
+          "title": "Business Communication Management for Nonprofits",
+          "units": 4.0,
+          "source_line": "- BUCO 485 Business Communication Management for Nonprofits Units: 4"
+        },
+        {
+          "code": "COMM 322",
+          "title": "Argumentation and Advocacy",
+          "units": 4.0,
+          "source_line": "- COMM 322 Argumentation and Advocacy Units: 4"
+        },
+        {
+          "code": "COMM 366",
+          "title": "Designing Media for Social Change",
+          "units": 4.0,
+          "source_line": "- COMM 366 Designing Media for Social Change Units: 4"
+        },
+        {
+          "code": "COMM 400",
+          "title": "Seminar in Communication",
+          "units": 4.0,
+          "source_line": "- COMM 400 Seminar in Communication Units: 4"
+        },
+        {
+          "code": "COMM 402",
+          "title": "Public Communication Campaigns",
+          "units": 4.0,
+          "source_line": "- COMM 402 Public Communication Campaigns Units: 4"
+        },
+        {
+          "code": "COMM 412",
+          "title": "Communication and Social Movements",
+          "units": 4.0,
+          "source_line": "- COMM 412 Communication and Social Movements Units: 4"
+        },
+        {
+          "code": "COMM 413",
+          "title": "Propaganda, Ideology and Public Controversy",
+          "units": 4.0,
+          "source_line": "- COMM 413 Propaganda, Ideology and Public Controversy Units: 4"
+        },
+        {
+          "code": "COMM 487",
+          "title": "Communication and Global Organizations",
+          "units": 4.0,
+          "source_line": "- COMM 487 Communication and Global Organizations Units: 4"
+        },
+        {
+          "code": "GERO 350",
+          "title": "Administrative Problems in Aging  or 4",
+          "units": 2.0,
+          "source_line": "- GERO 350 Administrative Problems in Aging Units: 2 or 4"
+        },
+        {
+          "code": "IR 306",
+          "title": "International Organizations",
+          "units": 4.0,
+          "source_line": "- IR 306 International Organizations Units: 4"
+        },
+        {
+          "code": "IR 318",
+          "title": "Violent Conflict",
+          "units": 4.0,
+          "source_line": "- IR 318 Violent Conflict Units: 4"
+        },
+        {
+          "code": "JS 360m",
+          "title": "Identity, Community, and Service: Jews and Other Americans",
+          "units": 4.0,
+          "source_line": "- JS 360m Identity, Community, and Service: Jews and Other Americans Units: 4"
+        },
+        {
+          "code": "POSC 323",
+          "title": "Applied Politics",
+          "units": 4.0,
+          "source_line": "- POSC 323 Applied Politics Units: 4"
+        },
+        {
+          "code": "PPD 318",
+          "title": "Financial Accounting in Public and Nonprofit Organizations",
+          "units": 4.0,
+          "source_line": "- PPD 318 Financial Accounting in Public and Nonprofit Organizations Units: 4"
+        },
+        {
+          "code": "PPD 353",
+          "title": "Philanthropy and Social Change",
+          "units": 4.0,
+          "source_line": "- PPD 353 Philanthropy and Social Change Units: 4"
+        },
+        {
+          "code": "REL 468",
+          "title": "Sociology of Religion",
+          "units": 4.0,
+          "source_line": "- REL 468 Sociology of Religion Units: 4"
+        },
+        {
+          "code": "SOCI 340",
+          "title": "Organizations: Bureaucracy and Alternatives to Bureaucracy",
+          "units": 4.0,
+          "source_line": "- SOCI 340 Organizations: Bureaucracy and Alternatives to Bureaucracy Units: 4"
+        },
+        {
+          "code": "SOCI 425",
+          "title": "Social Movements: Power, Resistance and Political Dynamics",
+          "units": 4.0,
+          "source_line": "- SOCI 425 Social Movements: Power, Resistance and Political Dynamics Units: 4"
+        },
+        {
+          "code": "SOWK 350",
+          "title": "Adolescent Gang Intervention",
+          "units": 4.0,
+          "source_line": "- SOWK 350 Adolescent Gang Intervention Units: 4"
+        },
+        {
+          "code": "THTR 488mw",
+          "title": "Theatre in the Community",
+          "units": 4.0,
+          "source_line": "- THTR 488mw Theatre in the Community Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "G. Internship experience",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One course (4 units) required",
+      "level": 4,
+      "courses": [
+        {
+          "code": "SOCI 450",
+          "title": "Non-Governmental Organizations/Non-profits Field Practicum",
+          "units": 4.0,
+          "source_line": "- SOCI 450 Non-Governmental Organizations/Non-profits Field Practicum Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total course requirements: 36 units",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

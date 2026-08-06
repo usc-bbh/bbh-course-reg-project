@@ -1,0 +1,196 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Applied AI in Business Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32945",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32945&returnto=9396",
+    "source_text_file": "216_applied_ai_in_business_minor.txt",
+    "source_content_sha256": "c514214d0351b1fb91284b4804a2658eab9d07d56a14072bdefa32aacf1a93ba",
+    "retrieved_at": "2026-07-31T00:59:16Z"
+  },
+  "totals": {
+    "stated_total_units": 16.0,
+    "stated_total_units_source": "minor requires 16 units",
+    "unit_statements_verbatim": [
+      "##### Requirements for Admission\n\nTo declare this minor, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of 2.",
+      "##### Degree Requirements\n\nSuccessful completion of the Applied AI in Business minor requires 16 units with a minimum combined GPA of 2.",
+      "## Required Courses\n\n---\n\nComplete the following courses (8 units):\n\n- DSO 461 Responsible AI Leadership for Business Applications Units: 4\n- MOR 458 AI Technology Strategic Management Units: 2, 4\n- (4 units required for this program)\n\n## Electives\n\n---\n\nComplete two of the following courses (8 units):\n\n- BUAD 301 Technology Entrepreneurship Units: 3, 4\n- (4-unit version recommended for this program)\n- BUCO 436 Leading with AI: Digital Media and Strategic Communication Units: 4\n- BUCO 437 Signals, Trends & AI: The Future of Business Communication Units: 4\n- DSO 431 Digital Innovation as Competitive Advantage Units: 4\n- DSO 433 Designing Digital Processes and User Experience with AI Units: 4\n- DSO 463 AI Applications: The Technology and The Product Units: 4\n- MKT 333 Innovation Economics and Business: Beer, AI and Video Games Units: 4 *\n- MKT 402 Introduction to Marketing Analytics Units: 4\n- MKT 457 AI and Technology: Behavioral Insights for Marketing Units: 4\n- MOR 454 Applied Product Management and Leadership Units: 4\n- MOR 457 Adaptive Leadership for a Complex World Units: 4\n- * Prerequisite required that is not included in this program."
+    ],
+    "course_entry_count": 13,
+    "distinct_course_codes": 13,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This minor helps students in any profeessional path develop practical, career-ready AI skills and shape how these technologies are used in the real world.",
+          "source_line": "This minor helps students in any profeessional path develop practical, career-ready AI skills and shape how these technologies are used in the real world."
+        },
+        {
+          "text": "Students develop the ability to recognize where AI can create genuine value, design AI-enabled solutions to complex problems, and communicate insights to inform decision-making. They learn how to lead AI adoption in ways that align with organizational and personal values, while maintaining stakeholder trust. The curriculum emphasizes applied learning, encouraging students to engage with AI as a tool for solving real challenges across industries. Graduates will be able to contribute immediately in AI-enabled environments and to guide the thoughtful adoption of emerging technologies over time.",
+          "source_line": "Students develop the ability to recognize where AI can create genuine value, design AI-enabled solutions to complex problems, and communicate insights to inform decision-making. They learn how to lead AI adoption in ways that align with organizational and personal values, while maintaining stakeholder trust. The curriculum emphasizes applied learning, encouraging students to engage with AI as a tool for solving real challenges across industries. Graduates will be able to contribute immediately in AI-enabled environments and to guide the thoughtful adoption of emerging technologies over time."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Requirements for Admission",
+      "level": 5,
+      "courses": [],
+      "notes": [
+        {
+          "text": "To declare this minor, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of 2.75.",
+          "source_line": "To declare this minor, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of 2.75."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Degree Requirements",
+      "level": 5,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Successful completion of the Applied AI in Business minor requires 16 units with a minimum combined GPA of 2.0 in the courses applied to the minor.",
+          "source_line": "Successful completion of the Applied AI in Business minor requires 16 units with a minimum combined GPA of 2.0 in the courses applied to the minor."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "DSO 461",
+          "title": "Responsible AI Leadership for Business Applications",
+          "units": 4.0,
+          "source_line": "- DSO 461 Responsible AI Leadership for Business Applications Units: 4"
+        },
+        {
+          "code": "MOR 458",
+          "title": "AI Technology Strategic Management , 4",
+          "units": 2.0,
+          "source_line": "- MOR 458 AI Technology Strategic Management Units: 2, 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete the following courses (8 units):",
+          "source_line": "Complete the following courses (8 units):"
+        },
+        {
+          "text": "(4 units required for this program)",
+          "source_line": "- (4 units required for this program)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BUAD 301",
+          "title": "Technology Entrepreneurship , 4",
+          "units": 3.0,
+          "source_line": "- BUAD 301 Technology Entrepreneurship Units: 3, 4"
+        },
+        {
+          "code": "BUCO 436",
+          "title": "Leading with AI: Digital Media and Strategic Communication",
+          "units": 4.0,
+          "source_line": "- BUCO 436 Leading with AI: Digital Media and Strategic Communication Units: 4"
+        },
+        {
+          "code": "BUCO 437",
+          "title": "Signals, Trends & AI: The Future of Business Communication",
+          "units": 4.0,
+          "source_line": "- BUCO 437 Signals, Trends & AI: The Future of Business Communication Units: 4"
+        },
+        {
+          "code": "DSO 431",
+          "title": "Digital Innovation as Competitive Advantage",
+          "units": 4.0,
+          "source_line": "- DSO 431 Digital Innovation as Competitive Advantage Units: 4"
+        },
+        {
+          "code": "DSO 433",
+          "title": "Designing Digital Processes and User Experience with AI",
+          "units": 4.0,
+          "source_line": "- DSO 433 Designing Digital Processes and User Experience with AI Units: 4"
+        },
+        {
+          "code": "DSO 463",
+          "title": "AI Applications: The Technology and The Product",
+          "units": 4.0,
+          "source_line": "- DSO 463 AI Applications: The Technology and The Product Units: 4"
+        },
+        {
+          "code": "MKT 333",
+          "title": "Innovation Economics and Business: Beer, AI and Video Games  *",
+          "units": 4.0,
+          "source_line": "- MKT 333 Innovation Economics and Business: Beer, AI and Video Games Units: 4 *"
+        },
+        {
+          "code": "MKT 402",
+          "title": "Introduction to Marketing Analytics",
+          "units": 4.0,
+          "source_line": "- MKT 402 Introduction to Marketing Analytics Units: 4"
+        },
+        {
+          "code": "MKT 457",
+          "title": "AI and Technology: Behavioral Insights for Marketing",
+          "units": 4.0,
+          "source_line": "- MKT 457 AI and Technology: Behavioral Insights for Marketing Units: 4"
+        },
+        {
+          "code": "MOR 454",
+          "title": "Applied Product Management and Leadership",
+          "units": 4.0,
+          "source_line": "- MOR 454 Applied Product Management and Leadership Units: 4"
+        },
+        {
+          "code": "MOR 457",
+          "title": "Adaptive Leadership for a Complex World",
+          "units": 4.0,
+          "source_line": "- MOR 457 Adaptive Leadership for a Complex World Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete two of the following courses (8 units):",
+          "source_line": "Complete two of the following courses (8 units):",
+          "states_choice_rule": true
+        },
+        {
+          "text": "(4-unit version recommended for this program)",
+          "source_line": "- (4-unit version recommended for this program)"
+        },
+        {
+          "text": "* Prerequisite required that is not included in this program.",
+          "source_line": "- * Prerequisite required that is not included in this program."
+        },
+        {
+          "text": "Return to: USC Marshall School of Business",
+          "source_line": "- Return to: USC Marshall School of Business"
+        }
+      ],
+      "choice": "Complete two of the following courses (8 units):",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

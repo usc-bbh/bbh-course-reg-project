@@ -1,0 +1,155 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Food Journalism and Public Relations Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32742",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32742&returnto=9396",
+    "source_text_file": "306_food_journalism_and_public_relations_minor.txt",
+    "source_content_sha256": "51631470a2a94154151cba41323a42b9e68f94bed3d6eb8f5fd16145ff520c19",
+    "retrieved_at": "2026-07-31T01:02:38Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Required Courses\n\n---\n\n- JOUR 457 Food of Our Families Units: 4\n- JOUR 458 Media, Food and Culture Units: 4\n- PR 444 Lifestyle Public Relations Units: 4\n- PR 445 Fundamentals of Food Communication Units: 4\n\n## Electives\n\n---\n\nChoose at least 4 units from the following:\n\n- AMST 343 Food, Health and Culture in Los Angeles Units: 4\n- ANTH 312 Documenting Latinx Los Angeles Food Cultures Units: 4\n- ANTH 338g Food in Culture and Society Units: 4\n- COMM 405 From the Ground Up: Communicating About Food Units: 4\n- HP 230 Nutrition and Health Units: 4\n- HP 430 Obesity and Health Units: 4\n- PR 464 Advanced Lifestyle Public Relations Units: 4\n- SPAN 385 The Culture of Food in Hispanic Los Angeles Units: 4\n- SPAN 396 Oaxaca and Oaxacalifornia: Food, Culture, Art and Migration Units: 4\n- SPAN 409 Latinx Food and Social Justice Units: 4\n- SWMS 389 Gender, Sexuality and Food Cultures in the U."
+    ],
+    "course_entry_count": 15,
+    "distinct_course_codes": 15,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Food Journalism and Public Relations minor prepares students for communication and related careers within organizations involved in food production and service as well as global and local issues. In addition to the core classes, students take additional courses from throughout USC to build a one-of-a-kind program of study that articulates these areas of expertise. Combined with a practice-area practicum, this minor positions students for an array of successful careers in these food-related fields. Where better to study this than at the intersection of cutting-edge journalism, strategic PR content development and the LA food mecca.",
+          "source_line": "The Food Journalism and Public Relations minor prepares students for communication and related careers within organizations involved in food production and service as well as global and local issues. In addition to the core classes, students take additional courses from throughout USC to build a one-of-a-kind program of study that articulates these areas of expertise. Combined with a practice-area practicum, this minor positions students for an array of successful careers in these food-related fields. Where better to study this than at the intersection of cutting-edge journalism, strategic PR content development and the LA food mecca."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "JOUR 457",
+          "title": "Food of Our Families",
+          "units": 4.0,
+          "source_line": "- JOUR 457 Food of Our Families Units: 4"
+        },
+        {
+          "code": "JOUR 458",
+          "title": "Media, Food and Culture",
+          "units": 4.0,
+          "source_line": "- JOUR 458 Media, Food and Culture Units: 4"
+        },
+        {
+          "code": "PR 444",
+          "title": "Lifestyle Public Relations",
+          "units": 4.0,
+          "source_line": "- PR 444 Lifestyle Public Relations Units: 4"
+        },
+        {
+          "code": "PR 445",
+          "title": "Fundamentals of Food Communication",
+          "units": 4.0,
+          "source_line": "- PR 445 Fundamentals of Food Communication Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AMST 343",
+          "title": "Food, Health and Culture in Los Angeles",
+          "units": 4.0,
+          "source_line": "- AMST 343 Food, Health and Culture in Los Angeles Units: 4"
+        },
+        {
+          "code": "ANTH 312",
+          "title": "Documenting Latinx Los Angeles Food Cultures",
+          "units": 4.0,
+          "source_line": "- ANTH 312 Documenting Latinx Los Angeles Food Cultures Units: 4"
+        },
+        {
+          "code": "ANTH 338g",
+          "title": "Food in Culture and Society",
+          "units": 4.0,
+          "source_line": "- ANTH 338g Food in Culture and Society Units: 4"
+        },
+        {
+          "code": "COMM 405",
+          "title": "From the Ground Up: Communicating About Food",
+          "units": 4.0,
+          "source_line": "- COMM 405 From the Ground Up: Communicating About Food Units: 4"
+        },
+        {
+          "code": "HP 230",
+          "title": "Nutrition and Health",
+          "units": 4.0,
+          "source_line": "- HP 230 Nutrition and Health Units: 4"
+        },
+        {
+          "code": "HP 430",
+          "title": "Obesity and Health",
+          "units": 4.0,
+          "source_line": "- HP 430 Obesity and Health Units: 4"
+        },
+        {
+          "code": "PR 464",
+          "title": "Advanced Lifestyle Public Relations",
+          "units": 4.0,
+          "source_line": "- PR 464 Advanced Lifestyle Public Relations Units: 4"
+        },
+        {
+          "code": "SPAN 385",
+          "title": "The Culture of Food in Hispanic Los Angeles",
+          "units": 4.0,
+          "source_line": "- SPAN 385 The Culture of Food in Hispanic Los Angeles Units: 4"
+        },
+        {
+          "code": "SPAN 396",
+          "title": "Oaxaca and Oaxacalifornia: Food, Culture, Art and Migration",
+          "units": 4.0,
+          "source_line": "- SPAN 396 Oaxaca and Oaxacalifornia: Food, Culture, Art and Migration Units: 4"
+        },
+        {
+          "code": "SPAN 409",
+          "title": "Latinx Food and Social Justice",
+          "units": 4.0,
+          "source_line": "- SPAN 409 Latinx Food and Social Justice Units: 4"
+        },
+        {
+          "code": "SWMS 389",
+          "title": "Gender, Sexuality and Food Cultures in the U.S",
+          "units": 4.0,
+          "source_line": "- SWMS 389 Gender, Sexuality and Food Cultures in the U.S. Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose at least 4 units from the following:",
+          "source_line": "Choose at least 4 units from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose at least 4 units from the following:",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

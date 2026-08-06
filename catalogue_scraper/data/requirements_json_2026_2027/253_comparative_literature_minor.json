@@ -1,0 +1,98 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Comparative Literature Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31749",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31749&returnto=9396",
+    "source_text_file": "253_comparative_literature_minor.txt",
+    "source_content_sha256": "6c15bb4bb490ce8da99b4b470c957ae72ca97729e9a72652589859d0db98fbc4",
+    "retrieved_at": "2026-07-31T01:00:42Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Literature/Media/Critical Thought Track\n\n---\n\nStudents are required to complete at least 24 units (six courses) as follows:\n\n1.",
+      "## Foreign Language Track\n\n---\n\nStudents are required to complete at least 24 units (six courses) as follows:\n\n1."
+    ],
+    "course_entry_count": 0,
+    "distinct_course_codes": 0,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students can minor in one of two tracks: the literature/media/critical thought track or the foreign language track.",
+          "source_line": "Students can minor in one of two tracks: the literature/media/critical thought track or the foreign language track."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Literature/Media/Critical Thought Track",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students are required to complete at least 24 units (six courses) as follows:",
+          "source_line": "Students are required to complete at least 24 units (six courses) as follows:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "1. COLT 302 and COLT 303",
+          "source_line": "1. COLT 302 and COLT 303"
+        },
+        {
+          "text": "2. At least three additional COLT courses in one of the three concentrations.",
+          "source_line": "2. At least three additional COLT courses in one of the three concentrations."
+        },
+        {
+          "text": "3. At least one additional COLT course in any of the three concentrations.",
+          "source_line": "3. At least one additional COLT course in any of the three concentrations."
+        },
+        {
+          "text": "No more than one of the six courses required for the minor may be at the 100 or 200 level.",
+          "source_line": "No more than one of the six courses required for the minor may be at the 100 or 200 level."
+        }
+      ],
+      "choice": "Students are required to complete at least 24 units (six courses) as follows:",
+      "total_units": null
+    },
+    {
+      "title": "Foreign Language Track",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students are required to complete at least 24 units (six courses) as follows:",
+          "source_line": "Students are required to complete at least 24 units (six courses) as follows:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "1. COLT 302 and COLT 303",
+          "source_line": "1. COLT 302 and COLT 303"
+        },
+        {
+          "text": "2. At least three additional COLT courses, of which no more than one may be at the 100 or 200 level.",
+          "source_line": "2. At least three additional COLT courses, of which no more than one may be at the 100 or 200 level."
+        },
+        {
+          "text": "3. At least one upper-division course in the literature or culture of a foreign language (other than English), with all readings in that language.",
+          "source_line": "3. At least one upper-division course in the literature or culture of a foreign language (other than English), with all readings in that language."
+        }
+      ],
+      "choice": "Students are required to complete at least 24 units (six courses) as follows:",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

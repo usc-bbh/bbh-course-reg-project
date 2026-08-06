@@ -1,0 +1,168 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Cinema-Television for the Health Professions Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32211",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32211&returnto=9396",
+    "source_text_file": "242_cinema_television_for_the_health_professions_minor.txt",
+    "source_content_sha256": "2c2db2c70d980a1e5e9ff925c7a9f2c6923c46a85e827e27992e3bdf8c697e79",
+    "retrieved_at": "2026-07-31T01:00:17Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 17,
+    "distinct_course_codes": 17,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This minor introduces pre-health students to the theory and techniques of the cinematic arts and to a set of media practices useful for the implementation of health promotion strategies. This minor is designed for students who plan to enter careers or professional programs in medicine after graduation and are interested in working with film and television producers to disseminate accurate health information to the public. It complements major programs such as biological sciences, chemistry, kinesiology, health promotion and disease prevention studies, and environmental studies.",
+          "source_line": "This minor introduces pre-health students to the theory and techniques of the cinematic arts and to a set of media practices useful for the implementation of health promotion strategies. This minor is designed for students who plan to enter careers or professional programs in medicine after graduation and are interested in working with film and television producers to disseminate accurate health information to the public. It complements major programs such as biological sciences, chemistry, kinesiology, health promotion and disease prevention studies, and environmental studies."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (24 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTCS 190g",
+          "title": "Introduction to Cinema",
+          "units": 4.0,
+          "source_line": "- CTCS 190g Introduction to Cinema Units: 4"
+        },
+        {
+          "code": "HP 345",
+          "title": "Health Issues in Entertainment Media",
+          "units": 4.0,
+          "source_line": "- HP 345 Health Issues in Entertainment Media Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Two of the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "HP 370g",
+          "title": "Introduction to Epidemiology: Methods and Applications",
+          "units": 4.0,
+          "source_line": "- HP 370g Introduction to Epidemiology: Methods and Applications Units: 4"
+        },
+        {
+          "code": "HP 401",
+          "title": "Cultural Competence in Medicine",
+          "units": 4.0,
+          "source_line": "- HP 401 Cultural Competence in Medicine Units: 4"
+        },
+        {
+          "code": "HP 408",
+          "title": "Environmental Health in the Community",
+          "units": 4.0,
+          "source_line": "- HP 408 Environmental Health in the Community Units: 4"
+        },
+        {
+          "code": "HP 410",
+          "title": "Issues in Prevention and Cessation of Drug Abuse",
+          "units": 4.0,
+          "source_line": "- HP 410 Issues in Prevention and Cessation of Drug Abuse Units: 4"
+        },
+        {
+          "code": "HP 420m",
+          "title": "Gender and Minority Health Issues",
+          "units": 4.0,
+          "source_line": "- HP 420m Gender and Minority Health Issues Units: 4"
+        },
+        {
+          "code": "HP 421",
+          "title": "Violence as a Public Health Issue",
+          "units": 4.0,
+          "source_line": "- HP 421 Violence as a Public Health Issue Units: 4"
+        },
+        {
+          "code": "HP 422",
+          "title": "AIDS in Society",
+          "units": 4.0,
+          "source_line": "- HP 422 AIDS in Society Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Eight additional units from the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTAN 451",
+          "title": "History of Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 451 History of Animation Units: 2"
+        },
+        {
+          "code": "CTCS 400",
+          "title": "Documentary Film and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 400 Documentary Film and Media Units: 4"
+        },
+        {
+          "code": "CTPR 375",
+          "title": "Functions of a Director",
+          "units": 4.0,
+          "source_line": "- CTPR 375 Functions of a Director Units: 4"
+        },
+        {
+          "code": "CTPR 385",
+          "title": "Colloquium: Motion Picture Production Techniques",
+          "units": 4.0,
+          "source_line": "- CTPR 385 Colloquium: Motion Picture Production Techniques Units: 4"
+        },
+        {
+          "code": "CTPR 474",
+          "title": "Documentary Production",
+          "units": 4.0,
+          "source_line": "- CTPR 474 Documentary Production Units: 4"
+        },
+        {
+          "code": "CTWR 315x",
+          "title": "Writing the TV Series Pilot",
+          "units": 4.0,
+          "source_line": "- CTWR 315x Writing the TV Series Pilot Units: 4"
+        },
+        {
+          "code": "CTWR 412",
+          "title": "Introduction to Screenwriting",
+          "units": 2.0,
+          "source_line": "- CTWR 412 Introduction to Screenwriting Units: 2"
+        },
+        {
+          "code": "CTWR 416",
+          "title": "Motion Picture Script Analysis",
+          "units": 2.0,
+          "source_line": "- CTWR 416 Motion Picture Script Analysis Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

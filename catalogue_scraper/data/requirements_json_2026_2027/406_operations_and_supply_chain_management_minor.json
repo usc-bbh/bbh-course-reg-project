@@ -1,0 +1,174 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Operations and Supply Chain Management Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31608",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31608&returnto=9396",
+    "source_text_file": "406_operations_and_supply_chain_management_minor.txt",
+    "source_content_sha256": "a88ed461de729314157ef9ad8d28fa99fddc3f2083357e8b44257504998ca780",
+    "retrieved_at": "2026-07-31T01:11:35Z"
+  },
+  "totals": {
+    "stated_total_units": 20.0,
+    "stated_total_units_source": "minor requires 20 units",
+    "unit_statements_verbatim": [
+      "This minor requires 20 units to complete.",
+      "To enroll, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of at least 2.",
+      "## Minor Course Requirements\n\n---\n\n- BUAD 311 Operations Management Units: 4 or\n- BUAD 313 Advanced Operations Management and Analytics Units: 4\n-\n- DSO 482 Supply Chain Management Units: 4\n- One of the following\n- DSO 427 Spreadsheet Modeling for Business Insights Units: 4 or\n- DSO 455 Project Management Units: 4 or\n- DSO 483 Operations Consulting Units: 4\n\n### Electives\n\n---\n\nChoose from the following to achieve a total of at least 8 units:\n\n- DSO 401 Data Analysis with Spreadsheets Units: 2\n- DSO 424 Business Forecasting Units: 4\n- DSO 427 Spreadsheet Modeling for Business Insights Units: 4 *\n- DSO 433 Designing Digital Processes and User Experience with AI Units: 4\n- DSO 455 Project Management Units: 4 *\n- DSO 462 Managing a Small Business on the Internet Units: 2\n- DSO 470 Optimization and Analytics for Better Decisions using GenAI Units: 4\n- DSO 483 Operations Consulting Units: 4 *\n- DSO 499 Special Topics Units: 2, 3, 4 **\n-\n- * If not applied to the minor as a required course."
+    ],
+    "course_entry_count": 15,
+    "distinct_course_codes": 12,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in operations and supply chain management provides students with fundamental knowledge of operations and supply chains, the backbone of all businesses. This minor requires 20 units to complete. To enroll, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of at least 2.75.",
+          "source_line": "The minor in operations and supply chain management provides students with fundamental knowledge of operations and supply chains, the backbone of all businesses. This minor requires 20 units to complete. To enroll, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of at least 2.75."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Minor Course Requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BUAD 311",
+          "title": "Operations Management  or",
+          "units": 4.0,
+          "source_line": "- BUAD 311 Operations Management Units: 4 or"
+        },
+        {
+          "code": "BUAD 313",
+          "title": "Advanced Operations Management and Analytics",
+          "units": 4.0,
+          "source_line": "- BUAD 313 Advanced Operations Management and Analytics Units: 4"
+        },
+        {
+          "code": "DSO 482",
+          "title": "Supply Chain Management",
+          "units": 4.0,
+          "source_line": "- DSO 482 Supply Chain Management Units: 4"
+        },
+        {
+          "code": "DSO 427",
+          "title": "Spreadsheet Modeling for Business Insights  or",
+          "units": 4.0,
+          "source_line": "- DSO 427 Spreadsheet Modeling for Business Insights Units: 4 or"
+        },
+        {
+          "code": "DSO 455",
+          "title": "Project Management  or",
+          "units": 4.0,
+          "source_line": "- DSO 455 Project Management Units: 4 or"
+        },
+        {
+          "code": "DSO 483",
+          "title": "Operations Consulting",
+          "units": 4.0,
+          "source_line": "- DSO 483 Operations Consulting Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "One of the following",
+          "source_line": "- One of the following"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives",
+      "level": 3,
+      "courses": [
+        {
+          "code": "DSO 401",
+          "title": "Data Analysis with Spreadsheets",
+          "units": 2.0,
+          "source_line": "- DSO 401 Data Analysis with Spreadsheets Units: 2"
+        },
+        {
+          "code": "DSO 424",
+          "title": "Business Forecasting",
+          "units": 4.0,
+          "source_line": "- DSO 424 Business Forecasting Units: 4"
+        },
+        {
+          "code": "DSO 427",
+          "title": "Spreadsheet Modeling for Business Insights  *",
+          "units": 4.0,
+          "source_line": "- DSO 427 Spreadsheet Modeling for Business Insights Units: 4 *"
+        },
+        {
+          "code": "DSO 433",
+          "title": "Designing Digital Processes and User Experience with AI",
+          "units": 4.0,
+          "source_line": "- DSO 433 Designing Digital Processes and User Experience with AI Units: 4"
+        },
+        {
+          "code": "DSO 455",
+          "title": "Project Management  *",
+          "units": 4.0,
+          "source_line": "- DSO 455 Project Management Units: 4 *"
+        },
+        {
+          "code": "DSO 462",
+          "title": "Managing a Small Business on the Internet",
+          "units": 2.0,
+          "source_line": "- DSO 462 Managing a Small Business on the Internet Units: 2"
+        },
+        {
+          "code": "DSO 470",
+          "title": "Optimization and Analytics for Better Decisions using GenAI",
+          "units": 4.0,
+          "source_line": "- DSO 470 Optimization and Analytics for Better Decisions using GenAI Units: 4"
+        },
+        {
+          "code": "DSO 483",
+          "title": "Operations Consulting  *",
+          "units": 4.0,
+          "source_line": "- DSO 483 Operations Consulting Units: 4 *"
+        },
+        {
+          "code": "DSO 499",
+          "title": "Special Topics , 3, 4 **",
+          "units": 2.0,
+          "source_line": "- DSO 499 Special Topics Units: 2, 3, 4 **"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose from the following to achieve a total of at least 8 units:",
+          "source_line": "Choose from the following to achieve a total of at least 8 units:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "* If not applied to the minor as a required course.",
+          "source_line": "- * If not applied to the minor as a required course."
+        },
+        {
+          "text": "* Subject to approval by the program director prior to registration.",
+          "source_line": "  ** Subject to approval by the program director prior to registration."
+        },
+        {
+          "text": "Return to: USC Marshall School of Business",
+          "source_line": "- Return to: USC Marshall School of Business"
+        }
+      ],
+      "choice": "Choose from the following to achieve a total of at least 8 units:",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

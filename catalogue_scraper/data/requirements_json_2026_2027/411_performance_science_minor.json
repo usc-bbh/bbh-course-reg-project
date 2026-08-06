@@ -1,0 +1,276 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Performance Science Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32426",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32426&returnto=9396",
+    "source_text_file": "411_performance_science_minor.txt",
+    "source_content_sha256": "19c42d9d88e478fe51a8160d0fa00d8c0510e351c0a9632fcef423f4ac931300",
+    "retrieved_at": "2026-07-31T01:11:46Z"
+  },
+  "totals": {
+    "stated_total_units": 20.0,
+    "stated_total_units_source": "minor requires 20 units",
+    "unit_statements_verbatim": [
+      "To enroll in this Performance Science minor, students must have completed 32 units of college-level courses and attain a minimum overall GPA of 2.",
+      "Completion of the minor requires 20 units.",
+      "## Core Requirement\n\n---\n\n- BAEP 470 The Entrepreneurial Mindset — Taking the Leap Units: 2\n- BAEP 472 The Science of Peak Performance Units: 2\n- Complete at least 4 units from each of the following categories: Mind, Business, Body.",
+      "### Total Core: 16 units\n\n---\n\n## Electives\n\n---\n\nComplete at least 4 units from the list of courses below or the courses listed above that are not applied as a “required course."
+    ],
+    "course_entry_count": 22,
+    "distinct_course_codes": 22,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in Performance Science teaches the science, best practices and applied processes to instill a high-performance mindset though a multi-disciplinary curriculum spanning business, psychology, biology, philosophy and athletics. This interdisciplinary minor will enable students to understand brain and body function, human behavior, psychology, emotion and leadership, all with the goals of optimizing individual mindsets, maximizing performance and creating a culture of high performance within their organizations.",
+          "source_line": "The minor in Performance Science teaches the science, best practices and applied processes to instill a high-performance mindset though a multi-disciplinary curriculum spanning business, psychology, biology, philosophy and athletics. This interdisciplinary minor will enable students to understand brain and body function, human behavior, psychology, emotion and leadership, all with the goals of optimizing individual mindsets, maximizing performance and creating a culture of high performance within their organizations."
+        },
+        {
+          "text": "To enroll in this Performance Science minor, students must have completed 32 units of college-level courses and attain a minimum overall GPA of 2.75.",
+          "source_line": "To enroll in this Performance Science minor, students must have completed 32 units of college-level courses and attain a minimum overall GPA of 2.75."
+        },
+        {
+          "text": "Completion of the minor requires 20 units.",
+          "source_line": "Completion of the minor requires 20 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Requirement",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BAEP 470",
+          "title": "The Entrepreneurial Mindset — Taking the Leap",
+          "units": 2.0,
+          "source_line": "- BAEP 470 The Entrepreneurial Mindset — Taking the Leap Units: 2"
+        },
+        {
+          "code": "BAEP 472",
+          "title": "The Science of Peak Performance",
+          "units": 2.0,
+          "source_line": "- BAEP 472 The Science of Peak Performance Units: 2"
+        },
+        {
+          "code": "GERO 315g",
+          "title": "A Journey into the Mind",
+          "units": 4.0,
+          "source_line": "- GERO 315g A Journey into the Mind Units: 4"
+        },
+        {
+          "code": "OT 325",
+          "title": "The Brain: Mind, Body, and Self",
+          "units": 4.0,
+          "source_line": "- OT 325 The Brain: Mind, Body, and Self Units: 4"
+        },
+        {
+          "code": "PSYC 440",
+          "title": "Foundations of Cognitive Neuroscience  *",
+          "units": 4.0,
+          "source_line": "- PSYC 440 Foundations of Cognitive Neuroscience Units: 4 *"
+        },
+        {
+          "code": "BAEP 455",
+          "title": "Founder’s Dilemmas",
+          "units": 4.0,
+          "source_line": "- BAEP 455 Founder’s Dilemmas Units: 4"
+        },
+        {
+          "code": "BUCO 333mw",
+          "title": "Communication in the Working World - Managing Diversity",
+          "units": 4.0,
+          "source_line": "- BUCO 333mw Communication in the Working World - Managing Diversity Units: 4"
+        },
+        {
+          "code": "MOR 451",
+          "title": "Mastering Decision Making",
+          "units": 4.0,
+          "source_line": "- MOR 451 Mastering Decision Making Units: 4"
+        },
+        {
+          "code": "BISC 230Lgx",
+          "title": "The Biology of the Brain",
+          "units": 4.0,
+          "source_line": "- BISC 230Lgx The Biology of the Brain Units: 4"
+        },
+        {
+          "code": "HP 440",
+          "title": "Happiness, Well-Being, and Health",
+          "units": 4.0,
+          "source_line": "- HP 440 Happiness, Well-Being, and Health Units: 4"
+        },
+        {
+          "code": "PSYC 367g",
+          "title": "Stress, Health, and the Mind-Body Connection  **",
+          "units": 4.0,
+          "source_line": "- PSYC 367g Stress, Health, and the Mind-Body Connection Units: 4 **"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete at least 4 units from each of the following categories: Mind, Business, Body.",
+          "source_line": "- Complete at least 4 units from each of the following categories: Mind, Business, Body.",
+          "states_choice_rule": true
+        },
+        {
+          "text": "MIND:",
+          "source_line": "  MIND:"
+        },
+        {
+          "text": "BUSINESS:",
+          "source_line": "- BUSINESS:"
+        },
+        {
+          "text": "BODY:",
+          "source_line": "- BODY:"
+        },
+        {
+          "text": "*Prerequisite required.",
+          "source_line": "- *Prerequisite required."
+        },
+        {
+          "text": "*Registration restricted to the following majors: Psychology, Social Sciences with an Emphasis in Psychology, Health and Human Sciences. Prerequisite required. Other majors will not be permitted to take the course.",
+          "source_line": "  **Registration restricted to the following majors: Psychology, Social Sciences with an Emphasis in Psychology, Health and Human Sciences. Prerequisite required. Other majors will not be permitted to take the course."
+        }
+      ],
+      "choice": "Complete at least 4 units from each of the following categories: Mind, Business, Body.",
+      "total_units": null
+    },
+    {
+      "title": "Total Core: 16 units",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PHIL 258g",
+          "title": "Probability and Rational Choice",
+          "units": 4.0,
+          "source_line": "- PHIL 258g Probability and Rational Choice Units: 4"
+        },
+        {
+          "code": "PSYC 301L",
+          "title": "Cognitive Processes  *",
+          "units": 4.0,
+          "source_line": "- PSYC 301L Cognitive Processes Units: 4 *"
+        },
+        {
+          "code": "BAEP 450",
+          "title": "Fundamentals of Entrepreneurship",
+          "units": 4.0,
+          "source_line": "- BAEP 450 Fundamentals of Entrepreneurship Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BAEP 451",
+          "title": "The Management of New Enterprises",
+          "units": 4.0,
+          "source_line": "- BAEP 451 The Management of New Enterprises Units: 4"
+        },
+        {
+          "code": "DSO 478",
+          "title": "Sports Data Science, AI and Management",
+          "units": 4.0,
+          "source_line": "- DSO 478 Sports Data Science, AI and Management Units: 4"
+        },
+        {
+          "code": "MOR 469",
+          "title": "Negotiation and Persuasion",
+          "units": 4.0,
+          "source_line": "- MOR 469 Negotiation and Persuasion Units: 4"
+        },
+        {
+          "code": "MOR 471",
+          "title": "Managing and Developing People",
+          "units": 4.0,
+          "source_line": "- MOR 471 Managing and Developing People Units: 4"
+        },
+        {
+          "code": "HBIO 202Lg",
+          "title": "Nutrition for Life",
+          "units": 4.0,
+          "source_line": "- HBIO 202Lg Nutrition for Life Units: 4"
+        },
+        {
+          "code": "HBIO 205Lgx",
+          "title": "The Science of Sport",
+          "units": 4.0,
+          "source_line": "- HBIO 205Lgx The Science of Sport Units: 4"
+        },
+        {
+          "code": "PHED 106a",
+          "title": "Physical Conditioning",
+          "units": 1.0,
+          "source_line": "- PHED 106a Physical Conditioning Units: 1"
+        },
+        {
+          "code": "PHED 160",
+          "title": "Stress Management for Healthy Living",
+          "units": 2.0,
+          "source_line": "- PHED 160 Stress Management for Healthy Living Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete at least 4 units from the list of courses below or the courses listed above that are not applied as a “required course.”",
+          "source_line": "Complete at least 4 units from the list of courses below or the courses listed above that are not applied as a “required course.”",
+          "states_choice_rule": true
+        },
+        {
+          "text": "MIND:",
+          "source_line": "- MIND:"
+        },
+        {
+          "text": "BUSINESS:",
+          "source_line": "- BUSINESS:"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "BODY:",
+          "source_line": "- BODY:"
+        },
+        {
+          "text": "*Prerequisite required.",
+          "source_line": "- *Prerequisite required."
+        }
+      ],
+      "choice": "Complete at least 4 units from the list of courses below or the courses listed above that are not applied as a “required course.”",
+      "total_units": null
+    },
+    {
+      "title": "Total Units Required: 20",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Return to: USC Marshall School of Business",
+          "source_line": "Return to: USC Marshall School of Business"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

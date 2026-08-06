@@ -1,0 +1,101 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Spanish (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31936",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31936&returnto=9396",
+    "source_text_file": "195_spanish_ba.txt",
+    "source_content_sha256": "db4baf06464b26ec68bd58422fe94e24b56e5cdec1101b410fc530889e7b298d",
+    "retrieved_at": "2026-07-31T00:57:24Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "# Spanish (BA)\n\n---\n\n## Required Course - Lower Division (4 Units)*\n\n---\n\n- SPAN 260 Advanced Spanish: Arts and Sciences Units: 4\n\n## Required Courses - Upper Division\n\n---\n\n### Three of the following courses (12 Units):\n\n---\n\n- SPAN 301 Introduction to Literature and Film Units: 4\n- One other SPAN literature, culture, film course Units: 4\n- One 400-level SPAN course Units: 4\n\n### Electives (20 units):\n\n---\n\n- Five other upper-division SPAN courses."
+    ],
+    "course_entry_count": 2,
+    "distinct_course_codes": 2,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "Required Course - Lower Division (4 Units)*",
+      "level": 2,
+      "courses": [
+        {
+          "code": "SPAN 260",
+          "title": "Advanced Spanish: Arts and Sciences",
+          "units": 4.0,
+          "source_line": "- SPAN 260 Advanced Spanish: Arts and Sciences Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses - Upper Division",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Three of the following courses (12 Units):",
+      "level": 3,
+      "courses": [
+        {
+          "code": "SPAN 301",
+          "title": "Introduction to Literature and Film",
+          "units": 4.0,
+          "source_line": "- SPAN 301 Introduction to Literature and Film Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "One other SPAN literature, culture, film course Units: 4",
+          "source_line": "- One other SPAN literature, culture, film course Units: 4"
+        },
+        {
+          "text": "One 400-level SPAN course Units: 4",
+          "source_line": "- One 400-level SPAN course Units: 4"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (20 units):",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Five other upper-division SPAN courses.",
+          "source_line": "- Five other upper-division SPAN courses."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Majors and minors may request a waiver of SPAN 260 if they meet one or more of the following prerequisites: a) a score of 5 on the Spanish language or literature advanced placement (AP) exam; b) a score of 6 or 7 on the Spanish International Baccalaureate Higher-Level exam (IBHL); c) a score of 800 in the Spanish SAT subject exam; or d) demonstrate advanced proficiency in spoken and written Spanish. Departmental approval is required in every case.",
+          "source_line": "* Majors and minors may request a waiver of SPAN 260 if they meet one or more of the following prerequisites: a) a score of 5 on the Spanish language or literature advanced placement (AP) exam; b) a score of 6 or 7 on the Spanish International Baccalaureate Higher-Level exam (IBHL); c) a score of 800 in the Spanish SAT subject exam; or d) demonstrate advanced proficiency in spoken and written Spanish. Departmental approval is required in every case."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

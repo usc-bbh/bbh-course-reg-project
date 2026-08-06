@@ -1,0 +1,439 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Acting, Stage and Screen (BFA)",
+    "credential": "BFA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32769",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32769&returnto=9396",
+    "source_text_file": "003_acting_stage_and_screen_bfa.txt",
+    "source_content_sha256": "a2c067512edb523784a098da640eb430d86e624adcbf074ea2df322a1113a0f1",
+    "retrieved_at": "2026-07-31T00:49:03Z"
+  },
+  "totals": {
+    "stated_total_units": 132.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "## Required Acting Courses for Emphasis (76 units)\n\n---\n\n- THTR 115a Movement I Units: 4\n- THTR 120aL Acting I Units: 4\n- THTR 120b Acting I Units: 4\n- THTR 130 Introduction to Theatrical Production Units: 2\n- THTR 140a Voice I Units: 2\n- THTR 214a The Actor’s Instrument: Voice and Body Units: 4\n- THTR 214b The Actor’s Instrument: Voice and Body Units: 4\n- THTR 220a Intermediate Acting I Units: 4\n- THTR 220b Intermediate Acting I Units: 4\n- THTR 320a Intermediate Acting II Units: 4\n- THTR 320b Intermediate Acting II Units: 4\n- THTR 339a The Actor’s Instrument: Voice and Body II Units: 4\n- THTR 339b The Actor’s Instrument: Voice and Body II Units: 4\n- THTR 397 Theatre Practicum Units: 1, 2, 3, 4\n- (6.",
+      "0 units required)\n- THTR 411 The Business of Acting Units: 4\n- THTR 420 Senior Project Units: 4\n- THTR 427 Audition Technique for Film, Television and New Media Units: 2\n- THTR 457 Film Acting Practicum Units: 4.",
+      "0\n- THTR 471 Industry Landscape Units: 4\n- THTR 480a Performance for Camera Units: 2\n- THTR 497 Advanced Theatre Practicum Units: 2\n- (2.0 units required)\n\n## Elective Options: 4 units\n\n---\n\nSelect 4 units from the following list:\n\n- THTR 105 Introduction to Screen Acting Units: 2\n- THTR 250 Camera and Improvisation Units: 2\n- THTR 305a Directing Units: 4\n- THTR 309 Dramaturgy Units: 4\n- THTR 343 Musical Theatre Audition Units: 3\n- THTR 365 Playwriting I Units: 4\n- THTR 416 Creating Content for the Actor Units: 2.",
+      "0\n- THTR 440 Advanced Voice: Voice-Over Acting Units: 2\n- THTR 464 An Actor’s Reel Units: 2\n\n## Critical Studies Core (16 units)\n\n---\n\nComplete the two required courses below."
+    ],
+    "course_entry_count": 48,
+    "distinct_course_codes": 48,
+    "section_count": 9
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The BFA degree is a four-year, 132-unit, professional training program offering a vital and contemporary approach to the study of acting. The program comprises an integrated sequence of training in acting, voice, movement, camera, the web, voice-over, games, and includes multiple opportunities for performance on stage, and screen. The curriculum is based on the belief that an actor’s emotional, imaginative, vocal and physical resources must be developed and prepared with maximum experience and flexibility for a fast-changing and challenging modern workplace. This training is combined with course work in critical and historical studies and technical theatre. An audition is required for admission. The BFA in Acting for Stage and Screen program is unique and highly competitive.",
+          "source_line": "The BFA degree is a four-year, 132-unit, professional training program offering a vital and contemporary approach to the study of acting. The program comprises an integrated sequence of training in acting, voice, movement, camera, the web, voice-over, games, and includes multiple opportunities for performance on stage, and screen. The curriculum is based on the belief that an actor’s emotional, imaginative, vocal and physical resources must be developed and prepared with maximum experience and flexibility for a fast-changing and challenging modern workplace. This training is combined with course work in critical and historical studies and technical theatre. An audition is required for admission. The BFA in Acting for Stage and Screen program is unique and highly competitive."
+        },
+        {
+          "text": "All BFA Theatre majors are required to earn a grade point average of 2.75 (A = 4.0) in their theatre courses each semester. BFA students who fail to earn a GPA of 2.75 in their theatre courses will be placed on probation the following semester. Students who remain on probation for a consecutive second semester will be disqualified from the BFA program.",
+          "source_line": "All BFA Theatre majors are required to earn a grade point average of 2.75 (A = 4.0) in their theatre courses each semester. BFA students who fail to earn a GPA of 2.75 in their theatre courses will be placed on probation the following semester. Students who remain on probation for a consecutive second semester will be disqualified from the BFA program."
+        },
+        {
+          "text": "A student disqualified from continued study in the BFA program for failing to meet the GPA standards outlined above will be given the option of transferring into the BA program.",
+          "source_line": "A student disqualified from continued study in the BFA program for failing to meet the GPA standards outlined above will be given the option of transferring into the BA program."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education Requirements",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The university’s General Education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above.",
+          "source_line": "The university’s General Education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above."
+        },
+        {
+          "text": "Note that courses within the major will also satisfy certain Core Literacy requirements. Please work with your major adviser to determine those courses.",
+          "source_line": "Note that courses within the major will also satisfy certain Core Literacy requirements. Please work with your major adviser to determine those courses."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Acting Courses for Emphasis (76 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 115a",
+          "title": "Movement I",
+          "units": 4.0,
+          "source_line": "- THTR 115a Movement I Units: 4"
+        },
+        {
+          "code": "THTR 120aL",
+          "title": "Acting I",
+          "units": 4.0,
+          "source_line": "- THTR 120aL Acting I Units: 4"
+        },
+        {
+          "code": "THTR 120b",
+          "title": "Acting I",
+          "units": 4.0,
+          "source_line": "- THTR 120b Acting I Units: 4"
+        },
+        {
+          "code": "THTR 130",
+          "title": "Introduction to Theatrical Production",
+          "units": 2.0,
+          "source_line": "- THTR 130 Introduction to Theatrical Production Units: 2"
+        },
+        {
+          "code": "THTR 140a",
+          "title": "Voice I",
+          "units": 2.0,
+          "source_line": "- THTR 140a Voice I Units: 2"
+        },
+        {
+          "code": "THTR 214a",
+          "title": "The Actor’s Instrument: Voice and Body",
+          "units": 4.0,
+          "source_line": "- THTR 214a The Actor’s Instrument: Voice and Body Units: 4"
+        },
+        {
+          "code": "THTR 214b",
+          "title": "The Actor’s Instrument: Voice and Body",
+          "units": 4.0,
+          "source_line": "- THTR 214b The Actor’s Instrument: Voice and Body Units: 4"
+        },
+        {
+          "code": "THTR 220a",
+          "title": "Intermediate Acting I",
+          "units": 4.0,
+          "source_line": "- THTR 220a Intermediate Acting I Units: 4"
+        },
+        {
+          "code": "THTR 220b",
+          "title": "Intermediate Acting I",
+          "units": 4.0,
+          "source_line": "- THTR 220b Intermediate Acting I Units: 4"
+        },
+        {
+          "code": "THTR 320a",
+          "title": "Intermediate Acting II",
+          "units": 4.0,
+          "source_line": "- THTR 320a Intermediate Acting II Units: 4"
+        },
+        {
+          "code": "THTR 320b",
+          "title": "Intermediate Acting II",
+          "units": 4.0,
+          "source_line": "- THTR 320b Intermediate Acting II Units: 4"
+        },
+        {
+          "code": "THTR 339a",
+          "title": "The Actor’s Instrument: Voice and Body II",
+          "units": 4.0,
+          "source_line": "- THTR 339a The Actor’s Instrument: Voice and Body II Units: 4"
+        },
+        {
+          "code": "THTR 339b",
+          "title": "The Actor’s Instrument: Voice and Body II",
+          "units": 4.0,
+          "source_line": "- THTR 339b The Actor’s Instrument: Voice and Body II Units: 4"
+        },
+        {
+          "code": "THTR 397",
+          "title": "Theatre Practicum , 2, 3, 4",
+          "units": 1.0,
+          "source_line": "- THTR 397 Theatre Practicum Units: 1, 2, 3, 4"
+        },
+        {
+          "code": "THTR 411",
+          "title": "The Business of Acting",
+          "units": 4.0,
+          "source_line": "- THTR 411 The Business of Acting Units: 4"
+        },
+        {
+          "code": "THTR 420",
+          "title": "Senior Project",
+          "units": 4.0,
+          "source_line": "- THTR 420 Senior Project Units: 4"
+        },
+        {
+          "code": "THTR 427",
+          "title": "Audition Technique for Film, Television and New Media",
+          "units": 2.0,
+          "source_line": "- THTR 427 Audition Technique for Film, Television and New Media Units: 2"
+        },
+        {
+          "code": "THTR 457",
+          "title": "Film Acting Practicum",
+          "units": 4.0,
+          "source_line": "- THTR 457 Film Acting Practicum Units: 4.0"
+        },
+        {
+          "code": "THTR 471",
+          "title": "Industry Landscape",
+          "units": 4.0,
+          "source_line": "- THTR 471 Industry Landscape Units: 4"
+        },
+        {
+          "code": "THTR 480a",
+          "title": "Performance for Camera",
+          "units": 2.0,
+          "source_line": "- THTR 480a Performance for Camera Units: 2"
+        },
+        {
+          "code": "THTR 497",
+          "title": "Advanced Theatre Practicum",
+          "units": 2.0,
+          "source_line": "- THTR 497 Advanced Theatre Practicum Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "(6.0 units required)",
+          "source_line": "- (6.0 units required)"
+        },
+        {
+          "text": "(2.0 units required)",
+          "source_line": "- (2.0 units required)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Options: 4 units",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 105",
+          "title": "Introduction to Screen Acting",
+          "units": 2.0,
+          "source_line": "- THTR 105 Introduction to Screen Acting Units: 2"
+        },
+        {
+          "code": "THTR 250",
+          "title": "Camera and Improvisation",
+          "units": 2.0,
+          "source_line": "- THTR 250 Camera and Improvisation Units: 2"
+        },
+        {
+          "code": "THTR 305a",
+          "title": "Directing",
+          "units": 4.0,
+          "source_line": "- THTR 305a Directing Units: 4"
+        },
+        {
+          "code": "THTR 309",
+          "title": "Dramaturgy",
+          "units": 4.0,
+          "source_line": "- THTR 309 Dramaturgy Units: 4"
+        },
+        {
+          "code": "THTR 343",
+          "title": "Musical Theatre Audition",
+          "units": 3.0,
+          "source_line": "- THTR 343 Musical Theatre Audition Units: 3"
+        },
+        {
+          "code": "THTR 365",
+          "title": "Playwriting I",
+          "units": 4.0,
+          "source_line": "- THTR 365 Playwriting I Units: 4"
+        },
+        {
+          "code": "THTR 416",
+          "title": "Creating Content for the Actor",
+          "units": 2.0,
+          "source_line": "- THTR 416 Creating Content for the Actor Units: 2.0"
+        },
+        {
+          "code": "THTR 440",
+          "title": "Advanced Voice: Voice-Over Acting",
+          "units": 2.0,
+          "source_line": "- THTR 440 Advanced Voice: Voice-Over Acting Units: 2"
+        },
+        {
+          "code": "THTR 464",
+          "title": "An Actor’s Reel",
+          "units": 2.0,
+          "source_line": "- THTR 464 An Actor’s Reel Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select 4 units from the following list:",
+          "source_line": "Select 4 units from the following list:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select 4 units from the following list:",
+      "total_units": null
+    },
+    {
+      "title": "Critical Studies Core (16 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 125",
+          "title": "Text Studies for Production",
+          "units": 4.0,
+          "source_line": "- THTR 125 Text Studies for Production Units: 4"
+        },
+        {
+          "code": "THTR 225g",
+          "title": "Theatre Across History and Cultures",
+          "units": 4.0,
+          "source_line": "- THTR 225g Theatre Across History and Cultures Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete the two required courses below. In addition, take one course from List A and one course from either List A or B.",
+          "source_line": "Complete the two required courses below. In addition, take one course from List A and one course from either List A or B.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Complete the two required courses below. In addition, take one course from List A and one course from either List A or B.",
+      "total_units": null
+    },
+    {
+      "title": "List A Courses",
+      "level": 3,
+      "courses": [
+        {
+          "code": "THTR 310",
+          "title": "Comedy and Diversity",
+          "units": 4.0,
+          "source_line": "- THTR 310 Comedy and Diversity Units: 4"
+        },
+        {
+          "code": "THTR 312",
+          "title": "LGBTQ Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 312 LGBTQ Theatre Units: 4"
+        },
+        {
+          "code": "THTR 395m",
+          "title": "Drama as Human Relations",
+          "units": 4.0,
+          "source_line": "- THTR 395m Drama as Human Relations Units: 4"
+        },
+        {
+          "code": "THTR 405m",
+          "title": "Performing Identities",
+          "units": 4.0,
+          "source_line": "- THTR 405m Performing Identities Units: 4"
+        },
+        {
+          "code": "THTR 406",
+          "title": "Theatre on the Edge",
+          "units": 4.0,
+          "source_line": "- THTR 406 Theatre on the Edge Units: 4"
+        },
+        {
+          "code": "THTR 456",
+          "title": "Latinx Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 456 Latinx Theatre Units: 4"
+        },
+        {
+          "code": "THTR 460",
+          "title": "Asian and Asian American Theatre: Identity and Aesthetics",
+          "units": 4.0,
+          "source_line": "- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4"
+        },
+        {
+          "code": "THTR 476mw",
+          "title": "African American Theatre, Dance, and Performance",
+          "units": 4.0,
+          "source_line": "- THTR 476mw African American Theatre, Dance, and Performance Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "List B Courses",
+      "level": 3,
+      "courses": [
+        {
+          "code": "THTR 301",
+          "title": "Greek and Roman Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 301 Greek and Roman Theatre Units: 4"
+        },
+        {
+          "code": "THTR 302",
+          "title": "Shakespeare in His World",
+          "units": 4.0,
+          "source_line": "- THTR 302 Shakespeare in His World Units: 4"
+        },
+        {
+          "code": "THTR 313",
+          "title": "Comedy of Manners",
+          "units": 4.0,
+          "source_line": "- THTR 313 Comedy of Manners Units: 4"
+        },
+        {
+          "code": "THTR 314",
+          "title": "Advanced Topics in Modern Drama",
+          "units": 4.0,
+          "source_line": "- THTR 314 Advanced Topics in Modern Drama Units: 4"
+        },
+        {
+          "code": "THTR 400",
+          "title": "Eco-Theatre: Art and Science in Contemporary Plays",
+          "units": 4.0,
+          "source_line": "- THTR 400 Eco-Theatre: Art and Science in Contemporary Plays Units: 4"
+        },
+        {
+          "code": "THTR 401",
+          "title": "Contemporary Theatre in a Changing World",
+          "units": 4.0,
+          "source_line": "- THTR 401 Contemporary Theatre in a Changing World Units: 4"
+        },
+        {
+          "code": "THTR 403",
+          "title": "The Performing Arts",
+          "units": 4.0,
+          "source_line": "- THTR 403 The Performing Arts Units: 4"
+        },
+        {
+          "code": "THTR 404",
+          "title": "Acting Theory",
+          "units": 4.0,
+          "source_line": "- THTR 404 Acting Theory Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education Units: 36",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Units: 132",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 132.0
+    }
+  ],
+  "parse_warnings": []
+}

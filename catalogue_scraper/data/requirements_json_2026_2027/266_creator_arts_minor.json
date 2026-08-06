@@ -1,0 +1,131 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Creator Arts Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32964",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32964&returnto=9396",
+    "source_text_file": "266_creator_arts_minor.txt",
+    "source_content_sha256": "1346c897359d6138110c6b02241243668b99d639730464f9566acbb2e986ae39",
+    "retrieved_at": "2026-07-31T01:01:10Z"
+  },
+  "totals": {
+    "stated_total_units": 16.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [],
+    "course_entry_count": 11,
+    "distinct_course_codes": 11,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Creator Arts minor within the School of Dramatic Arts prepares students to thrive in today’s rapidly evolving creator economy by uniting artistic practice with entrepreneurial strategy. Designed for students across disciplines, the minor equips undergraduates with the creative, strategic, and collaborative tools necessary to build sustainable, self-generated careers. Through hands-on, process-based course work, students develop their authentic creative voice while gaining fluency in branding, digital production, audience engagement, and creator-led business models. This 16-unit minor offers an interdisciplinary pathway for students who aspire to become multi-hyphenate artists, innovators, and creative leaders.",
+          "source_line": "The Creator Arts minor within the School of Dramatic Arts prepares students to thrive in today’s rapidly evolving creator economy by uniting artistic practice with entrepreneurial strategy. Designed for students across disciplines, the minor equips undergraduates with the creative, strategic, and collaborative tools necessary to build sustainable, self-generated careers. Through hands-on, process-based course work, students develop their authentic creative voice while gaining fluency in branding, digital production, audience engagement, and creator-led business models. This 16-unit minor offers an interdisciplinary pathway for students who aspire to become multi-hyphenate artists, innovators, and creative leaders."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (4 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTE 226gw",
+          "title": "The History of Content Creation",
+          "units": 4.0,
+          "source_line": "- THTE 226gw The History of Content Creation Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Elective Courses (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTE 101",
+          "title": "Creator Economy",
+          "units": 4.0,
+          "source_line": "- THTE 101 Creator Economy Units: 4"
+        },
+        {
+          "code": "THTR 101",
+          "title": "Introduction to Acting",
+          "units": 4.0,
+          "source_line": "- THTR 101 Introduction to Acting Units: 4"
+        },
+        {
+          "code": "THTR 125",
+          "title": "Text Studies for Production",
+          "units": 4.0,
+          "source_line": "- THTR 125 Text Studies for Production Units: 4"
+        },
+        {
+          "code": "THTR 205g",
+          "title": "Stardom: Creation, Management and Culture Impact",
+          "units": 4.0,
+          "source_line": "- THTR 205g Stardom: Creation, Management and Culture Impact Units: 4"
+        },
+        {
+          "code": "THTE 310",
+          "title": "The Creative Entrepreneur",
+          "units": 4.0,
+          "source_line": "- THTE 310 The Creative Entrepreneur Units: 4"
+        },
+        {
+          "code": "THTR 318",
+          "title": "Creating the Hit Podcast",
+          "units": 2.0,
+          "source_line": "- THTR 318 Creating the Hit Podcast Units: 2"
+        },
+        {
+          "code": "THTR 410",
+          "title": "The Digital Actor",
+          "units": 2.0,
+          "source_line": "- THTR 410 The Digital Actor Units: 2"
+        },
+        {
+          "code": "THTR 424",
+          "title": "Creator as Entrepreneur",
+          "units": 2.0,
+          "source_line": "- THTR 424 Creator as Entrepreneur Units: 2"
+        },
+        {
+          "code": "THTR 467",
+          "title": "Going Viral: Performance for New Media",
+          "units": 2.0,
+          "source_line": "- THTR 467 Going Viral: Performance for New Media Units: 2"
+        },
+        {
+          "code": "THTE 494",
+          "title": "Creator Production",
+          "units": 4.0,
+          "source_line": "- THTE 494 Creator Production Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Units: 16",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 16.0
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,387 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Musical Theatre (BFA)",
+    "credential": "BFA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32621",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32621&returnto=9396",
+    "source_text_file": "157_musical_theatre_bfa.txt",
+    "source_content_sha256": "4afc9e73b79c341e633a41eb17b3bf83a7ae38de2ac0e94cd22167b5eb6352b6",
+    "retrieved_at": "2026-07-31T00:55:59Z"
+  },
+  "totals": {
+    "stated_total_units": 132.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "## Required Courses for the Musical Theatre BFA Program\n\n---\n\n### Cinematic Arts\n\n---\n\n8 units required.",
+      "- CTCS 190g Introduction to Cinema Units: 4\n- CTPR 386 Film and Television Case Study Units: 4\n\n### Required Electives\n\n---\n\nSelect 4 units from the list below:\n\n- CTAN 425 Studio Careers: Story to Screen Units: 2\n- CTWR 403 Writing the Narrative Podcast Series Units: 2\n- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4\n- CTWR 411 Television Script Analysis Units: 2\n- CTWR 422 Creating the Dramatic Television Series Units: 2\n- DANC 170 Choreography and Performance Units: 2\n- DANC 342gp International and Historical Perspectives on Dance Units: 4\n- MUSC 255 Songwriting I Units: 2\n- THTR 105 Introduction to Screen Acting Units: 2\n- THTR 318 Creating the Hit Podcast Units: 2\n- THTR 408b Dialects Units: 2\n- THTR 410 The Digital Actor Units: 2\n- THTR 416 Creating Content for the Actor Units: 2.",
+      "0\n- THTR 424 Creator as Entrepreneur Units: 2\n- THTR 442 Voice-over Acting Units: 2\n- THTR 464 An Actor’s Reel Units: 2\n- THTR 459 Songwriting for the Musical Theatre Units: 2\n\n### Dramatic Arts\n\n---\n\n79 units required."
+    ],
+    "course_entry_count": 40,
+    "distinct_course_codes": 40,
+    "section_count": 9
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Musical theatre performers are multi-hyphenate artists. Beyond the intense requirements of a musical theatre performer to be a triple threat, the BFA degree in Musical Theatre is a four-year, professional training program focusing on providing students with the skills needed to be healthy and expressive artists, creators and innovators in the 21st Century. Through a partnership between the School of Dramatic Arts (SDA) and the School of Cinematic Arts (SCA), we will train the student of musical theatre to perform, create and innovate storytelling on various platforms. We are amongst the first institutions to offer this type of groundbreaking training for musical theatre artists. The program's values are deeply rooted in Equity, Diversity, Inclusion and Access (EDIA). Our curriculum reflects the opportunities available in the 21st Century for representation in the post-pandemic entertainment industry. The curriculum will be implemented by emphasizing classical and contemporary material from the global canon and innovative training techniques influenced by many cultures.",
+          "source_line": "Musical theatre performers are multi-hyphenate artists. Beyond the intense requirements of a musical theatre performer to be a triple threat, the BFA degree in Musical Theatre is a four-year, professional training program focusing on providing students with the skills needed to be healthy and expressive artists, creators and innovators in the 21st Century. Through a partnership between the School of Dramatic Arts (SDA) and the School of Cinematic Arts (SCA), we will train the student of musical theatre to perform, create and innovate storytelling on various platforms. We are amongst the first institutions to offer this type of groundbreaking training for musical theatre artists. The program's values are deeply rooted in Equity, Diversity, Inclusion and Access (EDIA). Our curriculum reflects the opportunities available in the 21st Century for representation in the post-pandemic entertainment industry. The curriculum will be implemented by emphasizing classical and contemporary material from the global canon and innovative training techniques influenced by many cultures."
+        },
+        {
+          "text": "During the first three semesters of the program, the focus will be on introducing and practicing the foundational skills needed in each of the four disciplines in our program. In the following three semesters, the emphasis is on integrating skills between the art forms in project-based workshop classes employing a variety of platforms. At the same time, the students become proficient in each of the four disciplines in technique classes.",
+          "source_line": "During the first three semesters of the program, the focus will be on introducing and practicing the foundational skills needed in each of the four disciplines in our program. In the following three semesters, the emphasis is on integrating skills between the art forms in project-based workshop classes employing a variety of platforms. At the same time, the students become proficient in each of the four disciplines in technique classes."
+        },
+        {
+          "text": "During the first semester of the senior year students will discover their unique artistic form of expression through classes in innovation and creation. Students experiment with new working methods, refine their skills and delve deeper into advanced techniques, such as creating a mini-movie musical, building a cabaret, pop-rock singing, etc. They can explore and expand their interests by choosing a specialization and working on a creative project.",
+          "source_line": "During the first semester of the senior year students will discover their unique artistic form of expression through classes in innovation and creation. Students experiment with new working methods, refine their skills and delve deeper into advanced techniques, such as creating a mini-movie musical, building a cabaret, pop-rock singing, etc. They can explore and expand their interests by choosing a specialization and working on a creative project."
+        },
+        {
+          "text": "Students focus on their professional potential in their final semester by expressing their unique artistic identity. In addition to preparing their senior showcase, their curriculum will concentrate on the business skills needed to be a self-sufficient artist in the 21st Century.",
+          "source_line": "Students focus on their professional potential in their final semester by expressing their unique artistic identity. In addition to preparing their senior showcase, their curriculum will concentrate on the business skills needed to be a self-sufficient artist in the 21st Century."
+        },
+        {
+          "text": "All BFA theatre majors are required to earn a minimum grade point average of 2.75 (A= 4.0) in their theatre courses each semester. BFA students that fail to earn a minimum GPA of 2.75 in their theatre classes will be placed on probation the following semester. Students who remain on probation for a second consecutive semester will be disqualified from the BFA program. A student disqualified from continued study in the BFA program for failing to meet the GPA standards outlined above will be given the option of transferring to the BA program.",
+          "source_line": "All BFA theatre majors are required to earn a minimum grade point average of 2.75 (A= 4.0) in their theatre courses each semester. BFA students that fail to earn a minimum GPA of 2.75 in their theatre classes will be placed on probation the following semester. Students who remain on probation for a second consecutive semester will be disqualified from the BFA program. A student disqualified from continued study in the BFA program for failing to meet the GPA standards outlined above will be given the option of transferring to the BA program."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses for the Musical Theatre BFA Program",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Cinematic Arts",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTCS 190g",
+          "title": "Introduction to Cinema",
+          "units": 4.0,
+          "source_line": "- CTCS 190g Introduction to Cinema Units: 4"
+        },
+        {
+          "code": "CTPR 386",
+          "title": "Film and Television Case Study",
+          "units": 4.0,
+          "source_line": "- CTPR 386 Film and Television Case Study Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "8 units required.",
+          "source_line": "8 units required."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Electives",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTAN 425",
+          "title": "Studio Careers: Story to Screen",
+          "units": 2.0,
+          "source_line": "- CTAN 425 Studio Careers: Story to Screen Units: 2"
+        },
+        {
+          "code": "CTWR 403",
+          "title": "Writing the Narrative Podcast Series",
+          "units": 2.0,
+          "source_line": "- CTWR 403 Writing the Narrative Podcast Series Units: 2"
+        },
+        {
+          "code": "CTWR 409",
+          "title": "Fundamentals of Screenwriting: Character, Conflict and Story",
+          "units": 4.0,
+          "source_line": "- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4"
+        },
+        {
+          "code": "CTWR 411",
+          "title": "Television Script Analysis",
+          "units": 2.0,
+          "source_line": "- CTWR 411 Television Script Analysis Units: 2"
+        },
+        {
+          "code": "CTWR 422",
+          "title": "Creating the Dramatic Television Series",
+          "units": 2.0,
+          "source_line": "- CTWR 422 Creating the Dramatic Television Series Units: 2"
+        },
+        {
+          "code": "DANC 170",
+          "title": "Choreography and Performance",
+          "units": 2.0,
+          "source_line": "- DANC 170 Choreography and Performance Units: 2"
+        },
+        {
+          "code": "DANC 342gp",
+          "title": "International and Historical Perspectives on Dance",
+          "units": 4.0,
+          "source_line": "- DANC 342gp International and Historical Perspectives on Dance Units: 4"
+        },
+        {
+          "code": "MUSC 255",
+          "title": "Songwriting I",
+          "units": 2.0,
+          "source_line": "- MUSC 255 Songwriting I Units: 2"
+        },
+        {
+          "code": "THTR 105",
+          "title": "Introduction to Screen Acting",
+          "units": 2.0,
+          "source_line": "- THTR 105 Introduction to Screen Acting Units: 2"
+        },
+        {
+          "code": "THTR 318",
+          "title": "Creating the Hit Podcast",
+          "units": 2.0,
+          "source_line": "- THTR 318 Creating the Hit Podcast Units: 2"
+        },
+        {
+          "code": "THTR 408b",
+          "title": "Dialects",
+          "units": 2.0,
+          "source_line": "- THTR 408b Dialects Units: 2"
+        },
+        {
+          "code": "THTR 410",
+          "title": "The Digital Actor",
+          "units": 2.0,
+          "source_line": "- THTR 410 The Digital Actor Units: 2"
+        },
+        {
+          "code": "THTR 416",
+          "title": "Creating Content for the Actor",
+          "units": 2.0,
+          "source_line": "- THTR 416 Creating Content for the Actor Units: 2.0"
+        },
+        {
+          "code": "THTR 424",
+          "title": "Creator as Entrepreneur",
+          "units": 2.0,
+          "source_line": "- THTR 424 Creator as Entrepreneur Units: 2"
+        },
+        {
+          "code": "THTR 442",
+          "title": "Voice-over Acting",
+          "units": 2.0,
+          "source_line": "- THTR 442 Voice-over Acting Units: 2"
+        },
+        {
+          "code": "THTR 464",
+          "title": "An Actor’s Reel",
+          "units": 2.0,
+          "source_line": "- THTR 464 An Actor’s Reel Units: 2"
+        },
+        {
+          "code": "THTR 459",
+          "title": "Songwriting for the Musical Theatre",
+          "units": 2.0,
+          "source_line": "- THTR 459 Songwriting for the Musical Theatre Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select 4 units from the list below:",
+          "source_line": "Select 4 units from the list below:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select 4 units from the list below:",
+      "total_units": null
+    },
+    {
+      "title": "Dramatic Arts",
+      "level": 3,
+      "courses": [
+        {
+          "code": "THTE 107",
+          "title": "Foundations of Vocal Performance",
+          "units": 2.0,
+          "source_line": "- THTE 107 Foundations of Vocal Performance Units: 2"
+        },
+        {
+          "code": "THTE 201aL",
+          "title": "Acting for Musical Theatre",
+          "units": 4.0,
+          "source_line": "- THTE 201aL Acting for Musical Theatre Units: 4"
+        },
+        {
+          "code": "THTE 205L",
+          "title": "Musicianship for Musical Theatre Actors I",
+          "units": 1.0,
+          "source_line": "- THTE 205L Musicianship for Musical Theatre Actors I Units: 1"
+        },
+        {
+          "code": "THTE 206bL",
+          "title": "Movement for Musical Theatre",
+          "units": 4.0,
+          "source_line": "- THTE 206bL Movement for Musical Theatre Units: 4"
+        },
+        {
+          "code": "THTE 206aL",
+          "title": "Movement for Musical Theatre",
+          "units": 4.0,
+          "source_line": "- THTE 206aL Movement for Musical Theatre Units: 4"
+        },
+        {
+          "code": "THTE 208",
+          "title": "Musicianship for Musical Theatre Actors II",
+          "units": 3.0,
+          "source_line": "- THTE 208 Musicianship for Musical Theatre Actors II Units: 3"
+        },
+        {
+          "code": "THTE 306L",
+          "title": "Movement for Musical Theatre II",
+          "units": 4.0,
+          "source_line": "- THTE 306L Movement for Musical Theatre II Units: 4"
+        },
+        {
+          "code": "THTE 340L",
+          "title": "Musical Theatre Integration Workshop I",
+          "units": 7.0,
+          "source_line": "- THTE 340L Musical Theatre Integration Workshop I Units: 7"
+        },
+        {
+          "code": "THTE 350aL",
+          "title": "Musical Theatre Integration Workshop II",
+          "units": 7.0,
+          "source_line": "- THTE 350aL Musical Theatre Integration Workshop II Units: 7"
+        },
+        {
+          "code": "THTE 350bL",
+          "title": "Musical Theatre Integration Workshop II",
+          "units": 7.0,
+          "source_line": "- THTE 350bL Musical Theatre Integration Workshop II Units: 7"
+        },
+        {
+          "code": "THTE 354",
+          "title": "Musical Theatre Individual Instruction",
+          "units": 1.0,
+          "source_line": "- THTE 354 Musical Theatre Individual Instruction Units: 1"
+        },
+        {
+          "code": "THTE 450aL",
+          "title": "Musical Theatre Integration Workshop III",
+          "units": 5.0,
+          "source_line": "- THTE 450aL Musical Theatre Integration Workshop III Units: 5"
+        },
+        {
+          "code": "THTE 450bL",
+          "title": "Musical Theatre Integration Workshop III",
+          "units": 5.0,
+          "source_line": "- THTE 450bL Musical Theatre Integration Workshop III Units: 5"
+        },
+        {
+          "code": "THTR 120aL",
+          "title": "Acting I",
+          "units": 4.0,
+          "source_line": "- THTR 120aL Acting I Units: 4"
+        },
+        {
+          "code": "THTR 120b",
+          "title": "Acting I",
+          "units": 4.0,
+          "source_line": "- THTR 120b Acting I Units: 4"
+        },
+        {
+          "code": "THTR 125",
+          "title": "Text Studies for Production",
+          "units": 4.0,
+          "source_line": "- THTR 125 Text Studies for Production Units: 4"
+        },
+        {
+          "code": "THTR 130",
+          "title": "Introduction to Theatrical Production",
+          "units": 2.0,
+          "source_line": "- THTR 130 Introduction to Theatrical Production Units: 2"
+        },
+        {
+          "code": "THTR 471",
+          "title": "Industry Landscape",
+          "units": 4.0,
+          "source_line": "- THTR 471 Industry Landscape Units: 4"
+        },
+        {
+          "code": "THTR 497",
+          "title": "Advanced Theatre Practicum",
+          "units": 2.0,
+          "source_line": "- THTR 497 Advanced Theatre Practicum Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "79 units required.",
+          "source_line": "79 units required."
+        },
+        {
+          "text": "(7 units required)",
+          "source_line": "- (7 units required)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Writing Units: 8",
+      "level": 2,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required General Education Units: 28",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Units: 5",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Units: 132",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 132.0
+    }
+  ],
+  "parse_warnings": []
+}

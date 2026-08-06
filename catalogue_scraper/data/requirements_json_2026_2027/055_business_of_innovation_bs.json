@@ -1,0 +1,880 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Business of Innovation (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32857",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32857&returnto=9396",
+    "source_text_file": "055_business_of_innovation_bs.txt",
+    "source_content_sha256": "2862683f896f584bd26ee9e44a6c622de241d05def1e44cb4022e74d5489dc9b",
+    "retrieved_at": "2026-07-31T00:50:59Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## General Education (28-32 Units)\n\n---\n\n### General Education (20 Units)\n\n---\n\n- General Education\n\nNote: several courses required for the degree may also be counted toward GE Core Literacies and Global Perspectives categories; consult an academic adviser for guidance.",
+      "### Composition/Writing Requirements (8 Units)\n\n---\n\nNote: A section of WRIT 340 titled “Advanced Writing for Business” is recommended.",
+      "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4\n\n### Math Requirement (4 Units)\n\n---\n\nNote: A-level mathematic examination scores of A or B may received subject credit for MATH 125g.",
+      "- MATH 125g Calculus I Units: 4\n- MATH 118gx Calculus for Business and Economics Units: 4\n\n## Design, Technology, Design Strategy Requirements (44 Units)\n\n---\n\n### Design Core (8 Units)\n\n---\n\n- ACAD 176 Rapid Visualization Units: 4\n- ACAD 324g The Practice of Design: Ideation to Innovation Units: 4 or\n- ACAD 325 Human Technology Interaction and the User Experience Units: 4\n\n### Technology Core (12 Units)\n\n---\n\n- ACAD 274 Designing Interactive Data Systems Units: 4\n\n#### Choose 8 Units from the following:\n\n---\n\n- ACAD 222 Introduction to Machine Intelligence Units: 4\n- ACAD 230 Introduction to Interactive Physical Computing Units: 4\n- ACAD 275 Dev I Units: 4\n- ACAD 276 Dev II Units: 4\n- ACAD 431 Devices and Systems for Body Computing Units: 4\n- IDSN 539 Extended Reality Development Units: 4\n- IDSN 544 Transformative Artificial Intelligence in Society Units: 4\n\n### Design Strategy Core (16 Units)\n\n---\n\nComplete 16 units from the following.",
+      "- ACAD 174 Innovators Forum Units: 2\n- ACAD 360 Design Strategy: Problem Solving for Organizations Units: 4\n- ACAD 475a The Garage Experience Units: 4\n- ACAD 475b The Garage Experience Units: 4\n\n### Academy Electives (8 Units)\n\n---\n\nComplete 8 units from the elective areas below."
+    ],
+    "course_entry_count": 106,
+    "distinct_course_codes": 88,
+    "section_count": 19
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The joint Iovine and Young Academy and Marshall School of Business Bachelor of Science degree builds expertise at the intersection of human-centered design, technology, business innovation and culture so that students can develop integrative socio-technical creativity and business innovation techniques. The degree combines human-centric design and interactive computing skills with a strong foundation in business so as to prepare students for leadership careers in business innovation ranging from CEOs of their own ventures to strategists, chief innovation officers, chief technical officers and consultants for established business.",
+          "source_line": "The joint Iovine and Young Academy and Marshall School of Business Bachelor of Science degree builds expertise at the intersection of human-centered design, technology, business innovation and culture so that students can develop integrative socio-technical creativity and business innovation techniques. The degree combines human-centric design and interactive computing skills with a strong foundation in business so as to prepare students for leadership careers in business innovation ranging from CEOs of their own ventures to strategists, chief innovation officers, chief technical officers and consultants for established business."
+        },
+        {
+          "text": "Through the Academy’s core, students develop a powerful mindset to analyze challenges, think across knowledge domains and synthesize diverse ideas to create new technologies, ventures and humane solutions for purpose-driven change. All students develop interactive computing skills as well as product design, modeling and prototyping skills. Through the Business core students build skills in business fundamentals including finance, management, economics, accounting, data analytics and statistics and entrepreneurship. The Design Strategy, Management Strategy and Industry Practicum courses place students inside premier professionalizing experiences with leading industry collaborators. The IYA Innovation Quest and Greif Center Entrepreneurship courses and competitions allow interested students to develop and launch their own ventures. The fourth-year “Garage Experience” provides an advanced workshop environment for student teams to develop new products, systems and services, taking them from concept and prototyping to development and launch. Throughout the program students are taught to think seamlessly across domains and to apply their technological, business and design skills in an integrative manner toward innovative problem solving.",
+          "source_line": "Through the Academy’s core, students develop a powerful mindset to analyze challenges, think across knowledge domains and synthesize diverse ideas to create new technologies, ventures and humane solutions for purpose-driven change. All students develop interactive computing skills as well as product design, modeling and prototyping skills. Through the Business core students build skills in business fundamentals including finance, management, economics, accounting, data analytics and statistics and entrepreneurship. The Design Strategy, Management Strategy and Industry Practicum courses place students inside premier professionalizing experiences with leading industry collaborators. The IYA Innovation Quest and Greif Center Entrepreneurship courses and competitions allow interested students to develop and launch their own ventures. The fourth-year “Garage Experience” provides an advanced workshop environment for student teams to develop new products, systems and services, taking them from concept and prototyping to development and launch. Throughout the program students are taught to think seamlessly across domains and to apply their technological, business and design skills in an integrative manner toward innovative problem solving."
+        },
+        {
+          "text": "In addition, students will leverage IYA, Marshall and USC-wide electives to develop technical skills for business innovation applications (modeling and simulations, artificial and augmented intelligence, digital twining) or for cross-cutting application areas such as extended reality, physical computing or health innovation.",
+          "source_line": "In addition, students will leverage IYA, Marshall and USC-wide electives to develop technical skills for business innovation applications (modeling and simulations, artificial and augmented intelligence, digital twining) or for cross-cutting application areas such as extended reality, physical computing or health innovation."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education (28-32 Units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education (20 Units)",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "General Education",
+          "source_line": "- General Education"
+        },
+        {
+          "text": "Note: several courses required for the degree may also be counted toward GE Core Literacies and Global Perspectives categories; consult an academic adviser for guidance.",
+          "source_line": "Note: several courses required for the degree may also be counted toward GE Core Literacies and Global Perspectives categories; consult an academic adviser for guidance."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Composition/Writing Requirements (8 Units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended.",
+          "source_line": "Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Math Requirement (4 Units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "MATH 118gx",
+          "title": "Calculus for Business and Economics",
+          "units": 4.0,
+          "source_line": "- MATH 118gx Calculus for Business and Economics Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Note: A-level mathematic examination scores of A or B may received subject credit for MATH 125g. Eligible students should speak with their academic advisors for additional information. Either MATH 118gx or MATH 125g satisfy GE Category F: Quantitative Reasoning.",
+          "source_line": "Note: A-level mathematic examination scores of A or B may received subject credit for MATH 125g. Eligible students should speak with their academic advisors for additional information. Either MATH 118gx or MATH 125g satisfy GE Category F: Quantitative Reasoning."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Design, Technology, Design Strategy Requirements (44 Units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Design Core (8 Units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ACAD 176",
+          "title": "Rapid Visualization",
+          "units": 4.0,
+          "source_line": "- ACAD 176 Rapid Visualization Units: 4"
+        },
+        {
+          "code": "ACAD 324g",
+          "title": "The Practice of Design: Ideation to Innovation  or",
+          "units": 4.0,
+          "source_line": "- ACAD 324g The Practice of Design: Ideation to Innovation Units: 4 or"
+        },
+        {
+          "code": "ACAD 325",
+          "title": "Human Technology Interaction and the User Experience",
+          "units": 4.0,
+          "source_line": "- ACAD 325 Human Technology Interaction and the User Experience Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Technology Core (12 Units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ACAD 274",
+          "title": "Designing Interactive Data Systems",
+          "units": 4.0,
+          "source_line": "- ACAD 274 Designing Interactive Data Systems Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose 8 Units from the following:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "ACAD 222",
+          "title": "Introduction to Machine Intelligence",
+          "units": 4.0,
+          "source_line": "- ACAD 222 Introduction to Machine Intelligence Units: 4"
+        },
+        {
+          "code": "ACAD 230",
+          "title": "Introduction to Interactive Physical Computing",
+          "units": 4.0,
+          "source_line": "- ACAD 230 Introduction to Interactive Physical Computing Units: 4"
+        },
+        {
+          "code": "ACAD 275",
+          "title": "Dev I",
+          "units": 4.0,
+          "source_line": "- ACAD 275 Dev I Units: 4"
+        },
+        {
+          "code": "ACAD 276",
+          "title": "Dev II",
+          "units": 4.0,
+          "source_line": "- ACAD 276 Dev II Units: 4"
+        },
+        {
+          "code": "ACAD 431",
+          "title": "Devices and Systems for Body Computing",
+          "units": 4.0,
+          "source_line": "- ACAD 431 Devices and Systems for Body Computing Units: 4"
+        },
+        {
+          "code": "IDSN 539",
+          "title": "Extended Reality Development",
+          "units": 4.0,
+          "source_line": "- IDSN 539 Extended Reality Development Units: 4"
+        },
+        {
+          "code": "IDSN 544",
+          "title": "Transformative Artificial Intelligence in Society",
+          "units": 4.0,
+          "source_line": "- IDSN 544 Transformative Artificial Intelligence in Society Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Design Strategy Core (16 Units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ACAD 174",
+          "title": "Innovators Forum",
+          "units": 2.0,
+          "source_line": "- ACAD 174 Innovators Forum Units: 2"
+        },
+        {
+          "code": "ACAD 360",
+          "title": "Design Strategy: Problem Solving for Organizations",
+          "units": 4.0,
+          "source_line": "- ACAD 360 Design Strategy: Problem Solving for Organizations Units: 4"
+        },
+        {
+          "code": "ACAD 475a",
+          "title": "The Garage Experience",
+          "units": 4.0,
+          "source_line": "- ACAD 475a The Garage Experience Units: 4"
+        },
+        {
+          "code": "ACAD 475b",
+          "title": "The Garage Experience",
+          "units": 4.0,
+          "source_line": "- ACAD 475b The Garage Experience Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete 16 units from the following.",
+          "source_line": "Complete 16 units from the following."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Academy Electives (8 Units)",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Complete 8 units from the elective areas below.",
+          "source_line": "Complete 8 units from the elective areas below."
+        },
+        {
+          "text": "Courses may not double-count as a technical core course and an elective course.",
+          "source_line": "Courses may not double-count as a technical core course and an elective course."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Extended Reality",
+      "level": 4,
+      "courses": [
+        {
+          "code": "ACAD 187",
+          "title": "Digital Toolbox: 3D Design",
+          "units": 2.0,
+          "source_line": "- ACAD 187 Digital Toolbox: 3D Design Units: 2"
+        },
+        {
+          "code": "ACAD 180",
+          "title": "Digital Toolbox: Audio and Video",
+          "units": 2.0,
+          "source_line": "- ACAD 180 Digital Toolbox: Audio and Video Units: 2"
+        },
+        {
+          "code": "ACAD 207",
+          "title": "Narrative Technology and the Human Experience",
+          "units": 4.0,
+          "source_line": "- ACAD 207 Narrative Technology and the Human Experience Units: 4"
+        },
+        {
+          "code": "ACAD 217",
+          "title": "Extended Reality Design",
+          "units": 4.0,
+          "source_line": "- ACAD 217 Extended Reality Design Units: 4"
+        },
+        {
+          "code": "ACAD 281",
+          "title": "Constructing Experiences",
+          "units": 4.0,
+          "source_line": "- ACAD 281 Constructing Experiences Units: 4"
+        },
+        {
+          "code": "ACAD 490",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "IDSN 537",
+          "title": "Extended Reality for Fashion",
+          "units": 4.0,
+          "source_line": "- IDSN 537 Extended Reality for Fashion Units: 4"
+        },
+        {
+          "code": "IDSN 539",
+          "title": "Extended Reality Development",
+          "units": 4.0,
+          "source_line": "- IDSN 539 Extended Reality Development Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Interactive Technologies and Physical Computing",
+      "level": 4,
+      "courses": [
+        {
+          "code": "ACAD 230",
+          "title": "Introduction to Interactive Physical Computing",
+          "units": 4.0,
+          "source_line": "- ACAD 230 Introduction to Interactive Physical Computing Units: 4"
+        },
+        {
+          "code": "ACAD 275",
+          "title": "Dev I",
+          "units": 4.0,
+          "source_line": "- ACAD 275 Dev I Units: 4"
+        },
+        {
+          "code": "ACAD 276",
+          "title": "Dev II",
+          "units": 4.0,
+          "source_line": "- ACAD 276 Dev II Units: 4"
+        },
+        {
+          "code": "ACAD 280",
+          "title": "Information Design",
+          "units": 4.0,
+          "source_line": "- ACAD 280 Information Design Units: 4"
+        },
+        {
+          "code": "ACAD 415",
+          "title": "Dev III: Designing Applications for Emerging Platforms",
+          "units": 4.0,
+          "source_line": "- ACAD 415 Dev III: Designing Applications for Emerging Platforms Units: 4"
+        },
+        {
+          "code": "ACAD 431",
+          "title": "Devices and Systems for Body Computing",
+          "units": 4.0,
+          "source_line": "- ACAD 431 Devices and Systems for Body Computing Units: 4"
+        },
+        {
+          "code": "ACAD 490",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "ACAD 535",
+          "title": "Ambient Computing for Fashion",
+          "units": 4.0,
+          "source_line": "- ACAD 535 Ambient Computing for Fashion Units: 4"
+        },
+        {
+          "code": "AME 201",
+          "title": "Statics",
+          "units": 4.0,
+          "source_line": "- AME 201 Statics Units: 4.0"
+        },
+        {
+          "code": "AME 204",
+          "title": "Mechanics of Materials and Structures",
+          "units": 4.0,
+          "source_line": "- AME 204 Mechanics of Materials and Structures Units: 4"
+        },
+        {
+          "code": "AME 301",
+          "title": "Dynamics",
+          "units": 4.0,
+          "source_line": "- AME 301 Dynamics Units: 4"
+        },
+        {
+          "code": "MASC 310L",
+          "title": "Materials Behavior and Processing",
+          "units": 4.0,
+          "source_line": "- MASC 310L Materials Behavior and Processing Units: 4"
+        },
+        {
+          "code": "TAC 344",
+          "title": "Advanced iOS App Development",
+          "units": 4.0,
+          "source_line": "- TAC 344 Advanced iOS App Development Units: 4"
+        },
+        {
+          "code": "TAC 365",
+          "title": "Data Structures in C++",
+          "units": 4.0,
+          "source_line": "- TAC 365 Data Structures in C++ Units: 4"
+        },
+        {
+          "code": "TAC 382",
+          "title": "Mobile Game Development",
+          "units": 4.0,
+          "source_line": "- TAC 382 Mobile Game Development Units: 4"
+        },
+        {
+          "code": "TAC 388",
+          "title": "Developing Smart Devices",
+          "units": 4.0,
+          "source_line": "- TAC 388 Developing Smart Devices Units: 4"
+        },
+        {
+          "code": "TAC 404",
+          "title": "Advanced Front-End Web Development",
+          "units": 4.0,
+          "source_line": "- TAC 404 Advanced Front-End Web Development Units: 4"
+        },
+        {
+          "code": "TAC 405",
+          "title": "Advanced Back-End Web Development",
+          "units": 4.0,
+          "source_line": "- TAC 405 Advanced Back-End Web Development Units: 4"
+        },
+        {
+          "code": "TAC 425",
+          "title": "Web Application Security",
+          "units": 4.0,
+          "source_line": "- TAC 425 Web Application Security Units: 4"
+        },
+        {
+          "code": "TAC 460",
+          "title": "Web Application Project",
+          "units": 4.0,
+          "source_line": "- TAC 460 Web Application Project Units: 4"
+        },
+        {
+          "code": "TAC 468",
+          "title": "Connected Devices Project",
+          "units": 4.0,
+          "source_line": "- TAC 468 Connected Devices Project Units: 4"
+        },
+        {
+          "code": "TAC 476",
+          "title": "Technologies for Interactive Marketing",
+          "units": 4.0,
+          "source_line": "- TAC 476 Technologies for Interactive Marketing Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Design Strategy",
+      "level": 4,
+      "courses": [
+        {
+          "code": "ACAD 281",
+          "title": "Constructing Experiences",
+          "units": 4.0,
+          "source_line": "- ACAD 281 Constructing Experiences Units: 4"
+        },
+        {
+          "code": "ACAD 302",
+          "title": "The Hacker Imagination: from Ancient Greece to Cupertino",
+          "units": 4.0,
+          "source_line": "- ACAD 302 The Hacker Imagination: from Ancient Greece to Cupertino Units: 4"
+        },
+        {
+          "code": "ACAD 307g",
+          "title": "Punk, Counterculture, and the Do-It-Yourself (DIY) Ethos",
+          "units": 4.0,
+          "source_line": "- ACAD 307g Punk, Counterculture, and the Do-It-Yourself (DIY) Ethos Units: 4"
+        },
+        {
+          "code": "ACAD 325",
+          "title": "Human Technology Interaction and the User Experience",
+          "units": 4.0,
+          "source_line": "- ACAD 325 Human Technology Interaction and the User Experience Units: 4"
+        },
+        {
+          "code": "ACAD 350",
+          "title": "International Experience",
+          "units": 2.0,
+          "source_line": "- ACAD 350 International Experience Units: 2"
+        },
+        {
+          "code": "ACAD 377",
+          "title": "Industry Practicum II: Designing and Implementing Real-World Solutions",
+          "units": 4.0,
+          "source_line": "- ACAD 377 Industry Practicum II: Designing and Implementing Real-World Solutions Units: 4"
+        },
+        {
+          "code": "ACAD 450",
+          "title": "Industry and Impact Projects",
+          "units": 2.0,
+          "source_line": "- ACAD 450 Industry and Impact Projects Units: 2"
+        },
+        {
+          "code": "ACAD 480",
+          "title": "Design Research",
+          "units": 4.0,
+          "source_line": "- ACAD 480 Design Research Units: 4"
+        },
+        {
+          "code": "ACAD 490",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "IDSN 515",
+          "title": "Professional Practices Residential",
+          "units": 2.0,
+          "source_line": "- IDSN 515 Professional Practices Residential Units: 2"
+        },
+        {
+          "code": "IDSN 522",
+          "title": "Inclusive Design and Design Allyship",
+          "units": 2.0,
+          "source_line": "- IDSN 522 Inclusive Design and Design Allyship Units: 2"
+        },
+        {
+          "code": "IDSN 523",
+          "title": "Product Design for User Experience",
+          "units": 4.0,
+          "source_line": "- IDSN 523 Product Design for User Experience Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Health Innovation",
+      "level": 4,
+      "courses": [
+        {
+          "code": "ACAD 260",
+          "title": "Introduction to Healthcare Innovation",
+          "units": 4.0,
+          "source_line": "- ACAD 260 Introduction to Healthcare Innovation Units: 4"
+        },
+        {
+          "code": "ACAD 422",
+          "title": "Cybersecurity, Privacy and Trust in Connective Healthcare",
+          "units": 4.0,
+          "source_line": "- ACAD 422 Cybersecurity, Privacy and Trust in Connective Healthcare Units: 4"
+        },
+        {
+          "code": "ACAD 431",
+          "title": "Devices and Systems for Body Computing",
+          "units": 4.0,
+          "source_line": "- ACAD 431 Devices and Systems for Body Computing Units: 4"
+        },
+        {
+          "code": "ACAD 432",
+          "title": "Collaborative Prototyping in Health Innovation",
+          "units": 4.0,
+          "source_line": "- ACAD 432 Collaborative Prototyping in Health Innovation Units: 4"
+        },
+        {
+          "code": "ACAD 463",
+          "title": "Evidence Based Medicine for Health Innovators",
+          "units": 2.0,
+          "source_line": "- ACAD 463 Evidence Based Medicine for Health Innovators Units: 2"
+        },
+        {
+          "code": "ACAD 490",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "BPSI 411",
+          "title": "Biopharmaceutical Marketing Analysis and Strategy",
+          "units": 4.0,
+          "source_line": "- BPSI 411 Biopharmaceutical Marketing Analysis and Strategy Units: 4"
+        },
+        {
+          "code": "SOWK 643",
+          "title": "Advanced ISW Practice I: Adult Mental Health and Wellness",
+          "units": 3.0,
+          "source_line": "- SOWK 643 Advanced ISW Practice I: Adult Mental Health and Wellness Units: 3"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Product Innovation",
+      "level": 4,
+      "courses": [
+        {
+          "code": "ACAD 177",
+          "title": "Digital Toolbox: Design",
+          "units": 2.0,
+          "source_line": "- ACAD 177 Digital Toolbox: Design Units: 2"
+        },
+        {
+          "code": "ACAD 187",
+          "title": "Digital Toolbox: 3D Design",
+          "units": 2.0,
+          "source_line": "- ACAD 187 Digital Toolbox: 3D Design Units: 2"
+        },
+        {
+          "code": "ACAD 188",
+          "title": "Modeling Products with Solidworks",
+          "units": 2.0,
+          "source_line": "- ACAD 188 Modeling Products with Solidworks Units: 2"
+        },
+        {
+          "code": "ACAD 189",
+          "title": "3D Tools for Product Design",
+          "units": 2.0,
+          "source_line": "- ACAD 189 3D Tools for Product Design Units: 2"
+        },
+        {
+          "code": "ACAD 245",
+          "title": "Fundamentals of Product Design",
+          "units": 4.0,
+          "source_line": "- ACAD 245 Fundamentals of Product Design Units: 4"
+        },
+        {
+          "code": "ACAD 288",
+          "title": "Constructing Digital Worlds",
+          "units": 4.0,
+          "source_line": "- ACAD 288 Constructing Digital Worlds Units: 4"
+        },
+        {
+          "code": "ACAD 344",
+          "title": "Advanced iOS App Development",
+          "units": 4.0,
+          "source_line": "- ACAD 344 Advanced iOS App Development Units: 4"
+        },
+        {
+          "code": "ACAD 445",
+          "title": "Designing Products For Licensing",
+          "units": 4.0,
+          "source_line": "- ACAD 445 Designing Products For Licensing Units: 4"
+        },
+        {
+          "code": "ACAD 490",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "TAC 308",
+          "title": "Computer-Aided Design for Bio-Mechanical Systems",
+          "units": 3.0,
+          "source_line": "- TAC 308 Computer-Aided Design for Bio-Mechanical Systems Units: 3"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Transformative AI",
+      "level": 4,
+      "courses": [
+        {
+          "code": "ACAD 220",
+          "title": "Introduction to Data Innovation and Analytics",
+          "units": 4.0,
+          "source_line": "- ACAD 220 Introduction to Data Innovation and Analytics Units: 4"
+        },
+        {
+          "code": "ACAD 222",
+          "title": "Introduction to Machine Intelligence",
+          "units": 4.0,
+          "source_line": "- ACAD 222 Introduction to Machine Intelligence Units: 4"
+        },
+        {
+          "code": "ACAD 280",
+          "title": "Information Design",
+          "units": 4.0,
+          "source_line": "- ACAD 280 Information Design Units: 4"
+        },
+        {
+          "code": "ACAD 422",
+          "title": "Cybersecurity, Privacy and Trust in Connective Healthcare",
+          "units": 4.0,
+          "source_line": "- ACAD 422 Cybersecurity, Privacy and Trust in Connective Healthcare Units: 4"
+        },
+        {
+          "code": "ACAD 490",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "IDSN 543",
+          "title": "Augmented Intelligence",
+          "units": 4.0,
+          "source_line": "- IDSN 543 Augmented Intelligence Units: 4"
+        },
+        {
+          "code": "IDSN 544",
+          "title": "Transformative Artificial Intelligence in Society",
+          "units": 4.0,
+          "source_line": "- IDSN 544 Transformative Artificial Intelligence in Society Units: 4"
+        },
+        {
+          "code": "TAC 449",
+          "title": "Applications of Machine Learning",
+          "units": 4.0,
+          "source_line": "- TAC 449 Applications of Machine Learning Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Business Requirements (44 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BUAD 280",
+          "title": "Introduction to Financial Accounting",
+          "units": 3.0,
+          "source_line": "- BUAD 280 Introduction to Financial Accounting Units: 3"
+        },
+        {
+          "code": "BUAD 281",
+          "title": "Introduction to Managerial Accounting",
+          "units": 3.0,
+          "source_line": "- BUAD 281 Introduction to Managerial Accounting Units: 3"
+        },
+        {
+          "code": "BUAD 302",
+          "title": "Communication Strategy in Business",
+          "units": 4.0,
+          "source_line": "- BUAD 302 Communication Strategy in Business Units: 4"
+        },
+        {
+          "code": "BUAD 304",
+          "title": "Organizational Behavior and Leadership",
+          "units": 4.0,
+          "source_line": "- BUAD 304 Organizational Behavior and Leadership Units: 4"
+        },
+        {
+          "code": "BUAD 306",
+          "title": "Business Finance  or",
+          "units": 4.0,
+          "source_line": "- BUAD 306 Business Finance Units: 4 or"
+        },
+        {
+          "code": "BUAD 308",
+          "title": "Advanced Business Finance",
+          "units": 4.0,
+          "source_line": "- BUAD 308 Advanced Business Finance Units: 4"
+        },
+        {
+          "code": "BUAD 307",
+          "title": "Marketing Fundamentals",
+          "units": 4.0,
+          "source_line": "- BUAD 307 Marketing Fundamentals Units: 4"
+        },
+        {
+          "code": "BUAD 310g",
+          "title": "Applied Business Statistics  or",
+          "units": 4.0,
+          "source_line": "- BUAD 310g Applied Business Statistics Units: 4 or"
+        },
+        {
+          "code": "BUAD 312g",
+          "title": "Statistics and Data Science for Business",
+          "units": 4.0,
+          "source_line": "- BUAD 312g Statistics and Data Science for Business Units: 4"
+        },
+        {
+          "code": "BUAD 311",
+          "title": "Operations Management  or",
+          "units": 4.0,
+          "source_line": "- BUAD 311 Operations Management Units: 4 or"
+        },
+        {
+          "code": "BUAD 313",
+          "title": "Advanced Operations Management and Analytics",
+          "units": 4.0,
+          "source_line": "- BUAD 313 Advanced Operations Management and Analytics Units: 4"
+        },
+        {
+          "code": "BUAD 425",
+          "title": "Introduction to Business Analytics  or",
+          "units": 2.0,
+          "source_line": "- BUAD 425 Introduction to Business Analytics Units: 2 or"
+        },
+        {
+          "code": "BUAD 427",
+          "title": "Advanced Introduction to Business Analytics with AI",
+          "units": 2.0,
+          "source_line": "- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2"
+        },
+        {
+          "code": "ECON 351x",
+          "title": "Microeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 351x Microeconomics for Business Units: 4"
+        },
+        {
+          "code": "ECON 352x",
+          "title": "Macroeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 352x Macroeconomics for Business Units: 4"
+        },
+        {
+          "code": "BAEP 450",
+          "title": "Fundamentals of Entrepreneurship  or",
+          "units": 4.0,
+          "source_line": "- BAEP 450 Fundamentals of Entrepreneurship Units: 4 or"
+        },
+        {
+          "code": "BAEP 451",
+          "title": "The Management of New Enterprises",
+          "units": 4.0,
+          "source_line": "- BAEP 451 The Management of New Enterprises Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Integrative Business Courses (8 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ACAD 376",
+          "title": "Industry Practicum I: Designing and Implementing Real-World Solutions",
+          "units": 4.0,
+          "source_line": "- ACAD 376 Industry Practicum I: Designing and Implementing Real-World Solutions Units: 4"
+        },
+        {
+          "code": "BUAD 497",
+          "title": "Strategic Management",
+          "units": 4.0,
+          "source_line": "- BUAD 497 Strategic Management Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

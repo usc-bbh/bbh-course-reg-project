@@ -1,0 +1,85 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Musical Studies Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32248",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32248&returnto=9396",
+    "source_text_file": "394_musical_studies_minor.txt",
+    "source_content_sha256": "064b645197b582a9609c2be824fcaa3d3b1b477dfbe6388580a60946dfa57cb9",
+    "retrieved_at": "2026-07-31T01:11:08Z"
+  },
+  "totals": {
+    "stated_total_units": 18.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [],
+    "course_entry_count": 4,
+    "distinct_course_codes": 4,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This 18-unit program in musical studies, with an emphasis in performance, incorporates the study of music theory, music history, performance, and ensembles. Students may enter the program in their freshman year. An audition is required for this minor, which is not available to music majors.",
+          "source_line": "This 18-unit program in musical studies, with an emphasis in performance, incorporates the study of music theory, music history, performance, and ensembles. Students may enter the program in their freshman year. An audition is required for this minor, which is not available to music majors."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MUCO 130ax",
+          "title": "Basics of Music Theory",
+          "units": 3.0,
+          "source_line": "- MUCO 130ax Basics of Music Theory Units: 3"
+        },
+        {
+          "code": "MUCO 130bx",
+          "title": "Basics of Music Theory",
+          "units": 3.0,
+          "source_line": "- MUCO 130bx Basics of Music Theory Units: 3"
+        },
+        {
+          "code": "MUEN 300",
+          "title": "–499  units total",
+          "units": 2.0,
+          "source_line": "- MUEN 300–499 Units: 2 units total"
+        },
+        {
+          "code": "MUSC 115gp",
+          "title": "Western Music as Sounding History",
+          "units": 4.0,
+          "source_line": "- MUSC 115gp Western Music as Sounding History Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Individual Instruction at the 301 level Units: 6 units total",
+          "source_line": "- Individual Instruction at the 301 level Units: 6 units total"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Units: 18",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 18.0
+    }
+  ],
+  "parse_warnings": []
+}

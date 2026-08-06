@@ -1,0 +1,252 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Human Rights Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31899",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31899&returnto=9396",
+    "source_text_file": "338_human_rights_minor.txt",
+    "source_content_sha256": "7f3c747543259089daddaf3b0d3ffcfe850333d1f24330029091cb077fc43693",
+    "retrieved_at": "2026-07-31T01:07:16Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Required Courses (16 units)\n\n---\n\n- POSC 248gw Human Rights Units: 4\n\n### Two international human rights courses selected from:\n\n---\n\n- ANTH 330m Culture, Gender and Politics in South Asia Units: 4\n- HIST 456 Race, Slavery, and the Making of the Atlantic World Units: 4\n- HIST 365 The Second World War Units: 4, 2 years\n- IR 310 Peace and Conflict Studies Units: 4\n- IR 315 Ethnicity and Nationalism in World Politics Units: 4\n- IR 316 Gender and Global Issues Units: 4\n- IR 318 Violent Conflict Units: 4\n- IR 325 North-South Relations in the Global Economy Units: 4\n- POSC 366 Terrorism and Genocide Units: 4\n- POSC 456 Women in International Development Units: 4\n- PPD 382 International Development Units: 4\n- REL 335 Gender, Religion, and Sexuality Units: 4\n\n### One domestic human rights course selected from:\n\n---\n\n- AMST 348m Race and Environmentalism Units: 4\n- COMM 412 Communication and Social Movements Units: 4\n- FREN 370gm Equality and Difference around the Enlightenment Units: 4\n- GERO 435m Women and Aging: Psychological, Social and Political Implications Units: 4\n- JOUR 466m People of Color and the News Media Units: 4\n- POSC 380 Political Theories and Social Reform Units: 2, 4\n- POSC 441m Cultural Diversity and the Law Units: 4\n- POSC 444 Civil and Political Rights and Liberties Units: 4\n- PPD 342 Crime and Public Policy Units: 4\n- PPD 439 Housing and Community Development Units: 4\n- SOCI 356m Mexican Immigrants in Sociological Perspective Units: 4\n- SOCI 360m Social Inequality: Class, Status and Power Units: 4\n\n## Additional Requirements\n\n---\n\n#### Community Involvement (2 units)\n\nStudents are required to take their learning outside the classroom through an internship with a focus in human rights, teaching human rights in the community or an independent project.",
+      "*Political Science majors must take four courses (16 units) outside of the Political Science Department for a total of 22 units."
+    ],
+    "course_entry_count": 25,
+    "distinct_course_codes": 25,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The protection of human rights has become a matter of international concern. Despite widespread media coverage of violations, flagrant abuses occur daily throughout the world. The human rights minor provides students with in-depth knowledge about various human rights issues.",
+          "source_line": "The protection of human rights has become a matter of international concern. Despite widespread media coverage of violations, flagrant abuses occur daily throughout the world. The human rights minor provides students with in-depth knowledge about various human rights issues."
+        },
+        {
+          "text": "Drawing together classes from a range of departments in and outside the USC Dornsife College of Letters, Arts and Sciences, this interdisciplinary minor will cover the theoretical foundations of human rights, historical and current developments, case studies and policies. Students will be required to take their learning outside the classroom through an internship or by teaching human rights in the community and will be encouraged to join relevant student organizations.",
+          "source_line": "Drawing together classes from a range of departments in and outside the USC Dornsife College of Letters, Arts and Sciences, this interdisciplinary minor will cover the theoretical foundations of human rights, historical and current developments, case studies and policies. Students will be required to take their learning outside the classroom through an internship or by teaching human rights in the community and will be encouraged to join relevant student organizations."
+        },
+        {
+          "text": "Total unit requirements for the minor are 18*. Students take one core course in human rights, POSC 248gw Human Rights. In addition, the minor requires two courses dealing with international human rights, one domestic human rights related course and a community involvement experience through the Department of Political Science.",
+          "source_line": "Total unit requirements for the minor are 18*. Students take one core course in human rights, POSC 248gw Human Rights. In addition, the minor requires two courses dealing with international human rights, one domestic human rights related course and a community involvement experience through the Department of Political Science."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (16 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "POSC 248gw",
+          "title": "Human Rights",
+          "units": 4.0,
+          "source_line": "- POSC 248gw Human Rights Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Two international human rights courses selected from:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ANTH 330m",
+          "title": "Culture, Gender and Politics in South Asia",
+          "units": 4.0,
+          "source_line": "- ANTH 330m Culture, Gender and Politics in South Asia Units: 4"
+        },
+        {
+          "code": "HIST 456",
+          "title": "Race, Slavery, and the Making of the Atlantic World",
+          "units": 4.0,
+          "source_line": "- HIST 456 Race, Slavery, and the Making of the Atlantic World Units: 4"
+        },
+        {
+          "code": "HIST 365",
+          "title": "The Second World War , 2 years",
+          "units": 4.0,
+          "source_line": "- HIST 365 The Second World War Units: 4, 2 years"
+        },
+        {
+          "code": "IR 310",
+          "title": "Peace and Conflict Studies",
+          "units": 4.0,
+          "source_line": "- IR 310 Peace and Conflict Studies Units: 4"
+        },
+        {
+          "code": "IR 315",
+          "title": "Ethnicity and Nationalism in World Politics",
+          "units": 4.0,
+          "source_line": "- IR 315 Ethnicity and Nationalism in World Politics Units: 4"
+        },
+        {
+          "code": "IR 316",
+          "title": "Gender and Global Issues",
+          "units": 4.0,
+          "source_line": "- IR 316 Gender and Global Issues Units: 4"
+        },
+        {
+          "code": "IR 318",
+          "title": "Violent Conflict",
+          "units": 4.0,
+          "source_line": "- IR 318 Violent Conflict Units: 4"
+        },
+        {
+          "code": "IR 325",
+          "title": "North-South Relations in the Global Economy",
+          "units": 4.0,
+          "source_line": "- IR 325 North-South Relations in the Global Economy Units: 4"
+        },
+        {
+          "code": "POSC 366",
+          "title": "Terrorism and Genocide",
+          "units": 4.0,
+          "source_line": "- POSC 366 Terrorism and Genocide Units: 4"
+        },
+        {
+          "code": "POSC 456",
+          "title": "Women in International Development",
+          "units": 4.0,
+          "source_line": "- POSC 456 Women in International Development Units: 4"
+        },
+        {
+          "code": "PPD 382",
+          "title": "International Development",
+          "units": 4.0,
+          "source_line": "- PPD 382 International Development Units: 4"
+        },
+        {
+          "code": "REL 335",
+          "title": "Gender, Religion, and Sexuality",
+          "units": 4.0,
+          "source_line": "- REL 335 Gender, Religion, and Sexuality Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One domestic human rights course selected from:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AMST 348m",
+          "title": "Race and Environmentalism",
+          "units": 4.0,
+          "source_line": "- AMST 348m Race and Environmentalism Units: 4"
+        },
+        {
+          "code": "COMM 412",
+          "title": "Communication and Social Movements",
+          "units": 4.0,
+          "source_line": "- COMM 412 Communication and Social Movements Units: 4"
+        },
+        {
+          "code": "FREN 370gm",
+          "title": "Equality and Difference around the Enlightenment",
+          "units": 4.0,
+          "source_line": "- FREN 370gm Equality and Difference around the Enlightenment Units: 4"
+        },
+        {
+          "code": "GERO 435m",
+          "title": "Women and Aging: Psychological, Social and Political Implications",
+          "units": 4.0,
+          "source_line": "- GERO 435m Women and Aging: Psychological, Social and Political Implications Units: 4"
+        },
+        {
+          "code": "JOUR 466m",
+          "title": "People of Color and the News Media",
+          "units": 4.0,
+          "source_line": "- JOUR 466m People of Color and the News Media Units: 4"
+        },
+        {
+          "code": "POSC 380",
+          "title": "Political Theories and Social Reform , 4",
+          "units": 2.0,
+          "source_line": "- POSC 380 Political Theories and Social Reform Units: 2, 4"
+        },
+        {
+          "code": "POSC 441m",
+          "title": "Cultural Diversity and the Law",
+          "units": 4.0,
+          "source_line": "- POSC 441m Cultural Diversity and the Law Units: 4"
+        },
+        {
+          "code": "POSC 444",
+          "title": "Civil and Political Rights and Liberties",
+          "units": 4.0,
+          "source_line": "- POSC 444 Civil and Political Rights and Liberties Units: 4"
+        },
+        {
+          "code": "PPD 342",
+          "title": "Crime and Public Policy",
+          "units": 4.0,
+          "source_line": "- PPD 342 Crime and Public Policy Units: 4"
+        },
+        {
+          "code": "PPD 439",
+          "title": "Housing and Community Development",
+          "units": 4.0,
+          "source_line": "- PPD 439 Housing and Community Development Units: 4"
+        },
+        {
+          "code": "SOCI 356m",
+          "title": "Mexican Immigrants in Sociological Perspective",
+          "units": 4.0,
+          "source_line": "- SOCI 356m Mexican Immigrants in Sociological Perspective Units: 4"
+        },
+        {
+          "code": "SOCI 360m",
+          "title": "Social Inequality: Class, Status and Power",
+          "units": 4.0,
+          "source_line": "- SOCI 360m Social Inequality: Class, Status and Power Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Community Involvement (2 units)",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students are required to take their learning outside the classroom through an internship with a focus in human rights, teaching human rights in the community or an independent project. Students who choose the internship must enroll in POSC 395 and those who choose do an independent project must enroll in POSC 490x . Approval is needed to enroll in POSC 395 and POSC 490x .",
+          "source_line": "Students are required to take their learning outside the classroom through an internship with a focus in human rights, teaching human rights in the community or an independent project. Students who choose the internship must enroll in POSC 395 and those who choose do an independent project must enroll in POSC 490x . Approval is needed to enroll in POSC 395 and POSC 490x ."
+        },
+        {
+          "text": "Political Science majors must take four courses (16 units) outside of the Political Science Department for a total of 22 units.",
+          "source_line": "*Political Science majors must take four courses (16 units) outside of the Political Science Department for a total of 22 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

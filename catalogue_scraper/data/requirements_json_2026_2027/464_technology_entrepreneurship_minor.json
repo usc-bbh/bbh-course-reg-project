@@ -1,0 +1,140 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Technology Entrepreneurship Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32952",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32952&returnto=9396",
+    "source_text_file": "464_technology_entrepreneurship_minor.txt",
+    "source_content_sha256": "0ec7f88c6ef6c660bae27debd5198179912f9407a8eeb08d321bce6b78eff202",
+    "retrieved_at": "2026-07-31T01:14:10Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The minor requires at least 17 units for completion."
+    ],
+    "course_entry_count": 12,
+    "distinct_course_codes": 12,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Technology Entrepreneurship minor prepares students to design, prototype, and launch technology-driven products and ventures. Unlike traditional entrepreneurship programs that emphasize management or commercialization, this minor focuses on the hands-on technical skills, tools, and development processes used by modern startups. Students progress through a structured pathway that guides them from ideation to product design, validation, and venture creation.",
+          "source_line": "The Technology Entrepreneurship minor prepares students to design, prototype, and launch technology-driven products and ventures. Unlike traditional entrepreneurship programs that emphasize management or commercialization, this minor focuses on the hands-on technical skills, tools, and development processes used by modern startups. Students progress through a structured pathway that guides them from ideation to product design, validation, and venture creation."
+        },
+        {
+          "text": "Along the way, they gain experience with the tools and practices used in today’s tech ecosystem—including productivity platforms, wireframing and prototyping software, iterative design methods, and evidence-based venture testing. The minor supports a wide range of venture types and equips students with the technological foundation necessary to build and scale new technology-based startups. The minor requires at least 17 units for completion.",
+          "source_line": "Along the way, they gain experience with the tools and practices used in today’s tech ecosystem—including productivity platforms, wireframing and prototyping software, iterative design methods, and evidence-based venture testing. The minor supports a wide range of venture types and equips students with the technological foundation necessary to build and scale new technology-based startups. The minor requires at least 17 units for completion."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required core (11 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BUAD 301",
+          "title": "Technology Entrepreneurship , 4",
+          "units": 3.0,
+          "source_line": "- BUAD 301 Technology Entrepreneurship Units: 3, 4"
+        },
+        {
+          "code": "TAC 466",
+          "title": "Building the High Tech Startup",
+          "units": 4.0,
+          "source_line": "- TAC 466 Building the High Tech Startup Units: 4"
+        },
+        {
+          "code": "TAC 476",
+          "title": "Technologies for Interactive Marketing",
+          "units": 4.0,
+          "source_line": "- TAC 476 Technologies for Interactive Marketing Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "TAC 100g",
+          "title": "Enhanced Productivity with AI",
+          "units": 4.0,
+          "source_line": "- TAC 100g Enhanced Productivity with AI Units: 4"
+        },
+        {
+          "code": "TAC 125L",
+          "title": "Hackers to CEOs: Intro to Cyber Security in the AI Era",
+          "units": 2.0,
+          "source_line": "- TAC 125L Hackers to CEOs: Intro to Cyber Security in the AI Era Units: 2"
+        },
+        {
+          "code": "TAC 216",
+          "title": "Applied Python",
+          "units": 2.0,
+          "source_line": "- TAC 216 Applied Python Units: 2"
+        },
+        {
+          "code": "TAC 228",
+          "title": "Computer-Aided Modeling and Rapid Fabrication",
+          "units": 2.0,
+          "source_line": "- TAC 228 Computer-Aided Modeling and Rapid Fabrication Units: 2"
+        },
+        {
+          "code": "TAC 249",
+          "title": "Introduction to Data Analytics",
+          "units": 4.0,
+          "source_line": "- TAC 249 Introduction to Data Analytics Units: 4"
+        },
+        {
+          "code": "TAC 259",
+          "title": "Basics of Artificial Intelligence",
+          "units": 4.0,
+          "source_line": "- TAC 259 Basics of Artificial Intelligence Units: 4"
+        },
+        {
+          "code": "TAC 308",
+          "title": "Computer-Aided Design for Bio-Mechanical Systems",
+          "units": 3.0,
+          "source_line": "- TAC 308 Computer-Aided Design for Bio-Mechanical Systems Units: 3"
+        },
+        {
+          "code": "TAC 310",
+          "title": "Design for User Experience",
+          "units": 4.0,
+          "source_line": "- TAC 310 Design for User Experience Units: 4"
+        },
+        {
+          "code": "TAC 348",
+          "title": "Making Smart Devices: Introduction to Electronics/Wearables",
+          "units": 4.0,
+          "source_line": "- TAC 348 Making Smart Devices: Introduction to Electronics/Wearables Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "A minimum of 6 units is required from the following:",
+          "source_line": "A minimum of 6 units is required from the following:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

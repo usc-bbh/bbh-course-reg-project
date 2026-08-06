@@ -1,0 +1,329 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Middle East Studies Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31868",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31868&returnto=9396",
+    "source_text_file": "387_middle_east_studies_minor.txt",
+    "source_content_sha256": "1e97e498608233799e31202e38493ea680b8f16afe339e324711d7ef1d295fc3",
+    "retrieved_at": "2026-07-31T01:10:54Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "Courses that are cross-listed between MDES and IR can satisfy the four unique courses (at least 16 units) that must be completed outside of their major department for this interdisciplinary minor.",
+      "Students will still be required, however, to complete at least four courses (16 units) that are unique to the minor (not required to meet major course requirements)."
+    ],
+    "course_entry_count": 40,
+    "distinct_course_codes": 40,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This interdisciplinary minor offers students interested in exploring the richness and complexity of the Middle East, broadly defined as extending from Morocco through Iran, a framework for developing a basic but solid understanding of the region. Students may select courses that provide a broad introduction across disciplines, or they may choose courses that address a particular historical period or theme.",
+          "source_line": "This interdisciplinary minor offers students interested in exploring the richness and complexity of the Middle East, broadly defined as extending from Morocco through Iran, a framework for developing a basic but solid understanding of the region. Students may select courses that provide a broad introduction across disciplines, or they may choose courses that address a particular historical period or theme."
+        },
+        {
+          "text": "Twenty units (five courses) are required. All students must take MDES 201w and MDES 301g . To complete the minor a student must also take three upper-division courses from the list below. Students who are also studying a language may substitute ARAB 252 , HEBR 315 or IRAN 250 for one of the three upper-division courses. However there is no language requirement for the minor.",
+          "source_line": "Twenty units (five courses) are required. All students must take MDES 201w and MDES 301g . To complete the minor a student must also take three upper-division courses from the list below. Students who are also studying a language may substitute ARAB 252 , HEBR 315 or IRAN 250 for one of the three upper-division courses. However there is no language requirement for the minor.",
+          "states_choice_rule": true
+        },
+        {
+          "text": "A special accommodation is in place for majors in the School of International Relations who minor in Middle East Studies. Courses that are cross-listed between MDES and IR can satisfy the four unique courses (at least 16 units) that must be completed outside of their major department for this interdisciplinary minor. Students will still be required, however, to complete at least four courses (16 units) that are unique to the minor (not required to meet major course requirements).",
+          "source_line": "A special accommodation is in place for majors in the School of International Relations who minor in Middle East Studies. Courses that are cross-listed between MDES and IR can satisfy the four unique courses (at least 16 units) that must be completed outside of their major department for this interdisciplinary minor. Students will still be required, however, to complete at least four courses (16 units) that are unique to the minor (not required to meet major course requirements).",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Twenty units (five courses) are required. All students must take MDES 201w and MDES 301g . To complete the minor a student must also take three upper-division courses from the list below. Students who are also studying a language may substitute ARAB 252 , HEBR 315 or IRAN 250 for one of the three upper-division courses. However there is no language requirement for the minor.",
+      "total_units": null
+    },
+    {
+      "title": "Required Course - Lower Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MDES 201w",
+          "title": "The Middle East",
+          "units": 4.0,
+          "source_line": "- MDES 201w The Middle East Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "All students must take the following course.",
+          "source_line": "All students must take the following course."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Course - Upper Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MDES 301g",
+          "title": "The Global Middle East",
+          "units": 4.0,
+          "source_line": "- MDES 301g The Global Middle East Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ARAB 252",
+          "title": "Arabic IV",
+          "units": 4.0,
+          "source_line": "- ARAB 252 Arabic IV Units: 4"
+        },
+        {
+          "code": "ARAB 300",
+          "title": "Introduction to Translation",
+          "units": 4.0,
+          "source_line": "- ARAB 300 Introduction to Translation Units: 4"
+        },
+        {
+          "code": "ARAB 322",
+          "title": "Advanced Arabic I",
+          "units": 4.0,
+          "source_line": "- ARAB 322 Advanced Arabic I Units: 4"
+        },
+        {
+          "code": "ARAB 333",
+          "title": "Colloquial Arabic: Regional Dialects",
+          "units": 4.0,
+          "source_line": "- ARAB 333 Colloquial Arabic: Regional Dialects Units: 4"
+        },
+        {
+          "code": "ARAB 334",
+          "title": "Media Arabic",
+          "units": 4.0,
+          "source_line": "- ARAB 334 Media Arabic Units: 4"
+        },
+        {
+          "code": "ARAB 352",
+          "title": "Advanced Arabic II",
+          "units": 4.0,
+          "source_line": "- ARAB 352 Advanced Arabic II Units: 4"
+        },
+        {
+          "code": "CLAS 349gp",
+          "title": "Ancient Empires",
+          "units": 4.0,
+          "source_line": "- CLAS 349gp Ancient Empires Units: 4"
+        },
+        {
+          "code": "CLAS 371",
+          "title": "From Alexander to Cleopatra: The Mediterranean in an Age of Expansion",
+          "units": 4.0,
+          "source_line": "- CLAS 371 From Alexander to Cleopatra: The Mediterranean in an Age of Expansion Units: 4"
+        },
+        {
+          "code": "CLAS 378",
+          "title": "Ptolemaic Egypt",
+          "units": 4.0,
+          "source_line": "- CLAS 378 Ptolemaic Egypt Units: 4"
+        },
+        {
+          "code": "CLAS 420",
+          "title": "Science and Empire from Baghdad to Byzantium",
+          "units": 4.0,
+          "source_line": "- CLAS 420 Science and Empire from Baghdad to Byzantium Units: 4"
+        },
+        {
+          "code": "ECON 342",
+          "title": "Economic Development of the Middle East",
+          "units": 4.0,
+          "source_line": "- ECON 342 Economic Development of the Middle East Units: 4"
+        },
+        {
+          "code": "HEBR 315",
+          "title": "Modern Hebrew Language (Hebrew IV)",
+          "units": 4.0,
+          "source_line": "- HEBR 315 Modern Hebrew Language (Hebrew IV) Units: 4"
+        },
+        {
+          "code": "HIST 480",
+          "title": "Seminar in Middle East History",
+          "units": 4.0,
+          "source_line": "- HIST 480 Seminar in Middle East History Units: 4"
+        },
+        {
+          "code": "IR 362",
+          "title": "The International Relations of the Contemporary Middle East",
+          "units": 4.0,
+          "source_line": "- IR 362 The International Relations of the Contemporary Middle East Units: 4"
+        },
+        {
+          "code": "IR 363",
+          "title": "Middle East Political Economy",
+          "units": 4.0,
+          "source_line": "- IR 363 Middle East Political Economy Units: 4"
+        },
+        {
+          "code": "IR 464",
+          "title": "US-Middle East Foreign Policy Issues",
+          "units": 4.0,
+          "source_line": "- IR 464 US-Middle East Foreign Policy Issues Units: 4"
+        },
+        {
+          "code": "IRAN 250",
+          "title": "Persian IV",
+          "units": 4.0,
+          "source_line": "- IRAN 250 Persian IV Units: 4"
+        },
+        {
+          "code": "IRAN 320",
+          "title": "Advanced Persian I",
+          "units": 4.0,
+          "source_line": "- IRAN 320 Advanced Persian I Units: 4"
+        },
+        {
+          "code": "IRAN 325",
+          "title": "Business Persian",
+          "units": 4.0,
+          "source_line": "- IRAN 325 Business Persian Units: 4"
+        },
+        {
+          "code": "IRAN 350",
+          "title": "Advanced Persian II",
+          "units": 4.0,
+          "source_line": "- IRAN 350 Advanced Persian II Units: 4"
+        },
+        {
+          "code": "MDES 312",
+          "title": "Premodern Iran",
+          "units": 4.0,
+          "source_line": "- MDES 312 Premodern Iran Units: 4"
+        },
+        {
+          "code": "MDES 313p",
+          "title": "Modern Iran",
+          "units": 4.0,
+          "source_line": "- MDES 313p Modern Iran Units: 4"
+        },
+        {
+          "code": "MDES 314p",
+          "title": "Politics, Ideologies, Cultures of the Global South",
+          "units": 4.0,
+          "source_line": "- MDES 314p Politics, Ideologies, Cultures of the Global South Units: 4"
+        },
+        {
+          "code": "MDES 316p",
+          "title": "The Great Muslim Empires of the Near East and India",
+          "units": 4.0,
+          "source_line": "- MDES 316p The Great Muslim Empires of the Near East and India Units: 4"
+        },
+        {
+          "code": "MDES 320g",
+          "title": "Arabic Literature: Classical to Contemporary",
+          "units": 4.0,
+          "source_line": "- MDES 320g Arabic Literature: Classical to Contemporary Units: 4"
+        },
+        {
+          "code": "MDES 324",
+          "title": "Persian Literature",
+          "units": 4.0,
+          "source_line": "- MDES 324 Persian Literature Units: 4"
+        },
+        {
+          "code": "MDES 325g",
+          "title": "Politics of Film and Literature in Modern Iran",
+          "units": 4.0,
+          "source_line": "- MDES 325g Politics of Film and Literature in Modern Iran Units: 4"
+        },
+        {
+          "code": "MDES 335",
+          "title": "Nation and State in Modern Turkey",
+          "units": 4.0,
+          "source_line": "- MDES 335 Nation and State in Modern Turkey Units: 4"
+        },
+        {
+          "code": "MDES 340g",
+          "title": "The United States and the Middle East",
+          "units": 4.0,
+          "source_line": "- MDES 340g The United States and the Middle East Units: 4"
+        },
+        {
+          "code": "MDES 342g",
+          "title": "Arab Intellectuals in Question",
+          "units": 4.0,
+          "source_line": "- MDES 342g Arab Intellectuals in Question Units: 4"
+        },
+        {
+          "code": "MDES 343g",
+          "title": "Modern Arab Culture and Literature",
+          "units": 4.0,
+          "source_line": "- MDES 343g Modern Arab Culture and Literature Units: 4"
+        },
+        {
+          "code": "MDES 345p",
+          "title": "Power and Authority in the Middle East",
+          "units": 4.0,
+          "source_line": "- MDES 345p Power and Authority in the Middle East Units: 4"
+        },
+        {
+          "code": "MDES 375",
+          "title": "Politics and Society in the Contemporary Middle East",
+          "units": 4.0,
+          "source_line": "- MDES 375 Politics and Society in the Contemporary Middle East Units: 4"
+        },
+        {
+          "code": "MDES 401",
+          "title": "Environment and Politics in the Global South",
+          "units": 4.0,
+          "source_line": "- MDES 401 Environment and Politics in the Global South Units: 4"
+        },
+        {
+          "code": "MDES 403",
+          "title": "Infrastructures of Dominance: Technology, Development and the Struggle for Power",
+          "units": 4.0,
+          "source_line": "- MDES 403 Infrastructures of Dominance: Technology, Development and the Struggle for Power Units: 4"
+        },
+        {
+          "code": "MDES 441w",
+          "title": "Cities of the Middle East",
+          "units": 4.0,
+          "source_line": "- MDES 441w Cities of the Middle East Units: 4"
+        },
+        {
+          "code": "MDES 475",
+          "title": "Seminar in Middle East Studies",
+          "units": 4.0,
+          "source_line": "- MDES 475 Seminar in Middle East Studies Units: 4"
+        },
+        {
+          "code": "POSC 351",
+          "title": "Middle East Politics",
+          "units": 4.0,
+          "source_line": "- POSC 351 Middle East Politics Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Three courses from the list below, only two of which may be language courses.",
+          "source_line": "Three courses from the list below, only two of which may be language courses."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

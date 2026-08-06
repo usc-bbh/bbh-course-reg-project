@@ -1,0 +1,130 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Geodesign Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32948",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32948&returnto=9396",
+    "source_text_file": "320_geodesign_minor.txt",
+    "source_content_sha256": "4f242557b5d6767b2cf80b108644c75d31555f32e17007767c827c34633ba464",
+    "retrieved_at": "2026-07-31T01:06:33Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The minor requires at least 20 units."
+    ],
+    "course_entry_count": 7,
+    "distinct_course_codes": 7,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Minor in Geodesign expands students’ perspectives as they prepare for careers in architecture, communications, environmental studies, health promotion, public policy, real estate, social sciences, and urban planning. Emphasizing the value of interdisciplinary collaboration within urban spaces, the program is grounded in the spatial sciences and includes one lower-division elective, four core courses, and a capstone course. Together, these interconnected courses train future leaders in sustainability to apply spatial principles that foster connected and resilient communities. Students gain both conceptual and practical skills, ranging from spatial data analysis to stakeholder engagement, that help them understand local and global phenomena. The program equips students to address pressing environmental and social challenges with data-driven solutions and cultivates an appreciation for how urban structures develop across space and time.",
+          "source_line": "The Minor in Geodesign expands students’ perspectives as they prepare for careers in architecture, communications, environmental studies, health promotion, public policy, real estate, social sciences, and urban planning. Emphasizing the value of interdisciplinary collaboration within urban spaces, the program is grounded in the spatial sciences and includes one lower-division elective, four core courses, and a capstone course. Together, these interconnected courses train future leaders in sustainability to apply spatial principles that foster connected and resilient communities. Students gain both conceptual and practical skills, ranging from spatial data analysis to stakeholder engagement, that help them understand local and global phenomena. The program equips students to address pressing environmental and social challenges with data-driven solutions and cultivates an appreciation for how urban structures develop across space and time."
+        },
+        {
+          "text": "The minor requires at least 20 units.",
+          "source_line": "The minor requires at least 20 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower Division Elective (4 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "SSCI 165Lgw",
+          "title": "Sustainability Science in the City",
+          "units": 4.0,
+          "source_line": "- SSCI 165Lgw Sustainability Science in the City Units: 4"
+        },
+        {
+          "code": "SSCI 175gw",
+          "title": "Food, Health and Place",
+          "units": 4.0,
+          "source_line": "- SSCI 175gw Food, Health and Place Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one of the following courses:",
+          "source_line": "Choose one of the following courses:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one of the following courses:",
+      "total_units": null
+    },
+    {
+      "title": "Core Courses (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "SSCI 201g",
+          "title": "Principles of Geodesign",
+          "units": 4.0,
+          "source_line": "- SSCI 201g Principles of Geodesign Units: 4"
+        },
+        {
+          "code": "SSCI 301L",
+          "title": "Maps and Spatial Reasoning",
+          "units": 4.0,
+          "source_line": "- SSCI 301L Maps and Spatial Reasoning Units: 4"
+        },
+        {
+          "code": "SSCI 313",
+          "title": "Global Geodesign and Stakeholder Engagement",
+          "units": 2.0,
+          "source_line": "- SSCI 313 Global Geodesign and Stakeholder Engagement Units: 2"
+        },
+        {
+          "code": "SSCI 314",
+          "title": "Comparative Sustainability Theory and Practice for Geodesign",
+          "units": 2.0,
+          "source_line": "- SSCI 314 Comparative Sustainability Theory and Practice for Geodesign Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete all of the following courses:",
+          "source_line": "Complete all of the following courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Course (4 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "SSCI 402",
+          "title": "GIS and Sustainable Development",
+          "units": 4.0,
+          "source_line": "- SSCI 402 GIS and Sustainable Development Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete the following course after finishing core requirements:",
+          "source_line": "Complete the following course after finishing core requirements:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

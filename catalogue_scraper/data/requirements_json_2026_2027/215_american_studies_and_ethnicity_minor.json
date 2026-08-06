@@ -1,0 +1,73 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "American Studies and Ethnicity Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31695",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31695&returnto=9396",
+    "source_text_file": "215_american_studies_and_ethnicity_minor.txt",
+    "source_content_sha256": "98c65a78f8d4fbd642d5381b7cdfcc2dd001f6e4b2eccc48fe523f80a9324d58",
+    "retrieved_at": "2026-07-31T00:59:14Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 2,
+    "distinct_course_codes": 2,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "Course Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "For the minor in American Studies and Ethnicity, five courses in American Studies and Ethnicity, or courses certified for American Studies and Ethnicity credit, are required. The five courses must be distributed as follows: two core requirement courses and three additional elective courses chosen from the courses certified in American Studies and Ethnicity at the 300 level or above.",
+          "source_line": "For the minor in American Studies and Ethnicity, five courses in American Studies and Ethnicity, or courses certified for American Studies and Ethnicity credit, are required. The five courses must be distributed as follows: two core requirement courses and three additional elective courses chosen from the courses certified in American Studies and Ethnicity at the 300 level or above."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AMST 200gm",
+          "title": "Introduction to American Studies and Ethnicity",
+          "units": 4.0,
+          "source_line": "- AMST 200gm Introduction to American Studies and Ethnicity Units: 4"
+        },
+        {
+          "code": "AMST 350",
+          "title": "Junior Seminar in American Studies and Ethnicity: Theories and Methods",
+          "units": 4.0,
+          "source_line": "- AMST 350 Junior Seminar in American Studies and Ethnicity: Theories and Methods Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Elective Courses",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Three courses from the American Studies and Ethnicity major lists, or other American Studies and Ethnicity courses with the approval of the American Studies and Ethnicity director, at the 300 level or higher. No more than one course in the minor may be taken outside the college.",
+          "source_line": "Three courses from the American Studies and Ethnicity major lists, or other American Studies and Ethnicity courses with the approval of the American Studies and Ethnicity director, at the 300 level or higher. No more than one course in the minor may be taken outside the college."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

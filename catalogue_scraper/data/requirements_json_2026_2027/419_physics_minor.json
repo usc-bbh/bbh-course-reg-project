@@ -1,0 +1,131 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Physics Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31892",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31892&returnto=9396",
+    "source_text_file": "419_physics_minor.txt",
+    "source_content_sha256": "222b7d1137ae720c0249e27908a7d2eb8b55aa40ab87ad6ed25e7e5ca30341ed",
+    "retrieved_at": "2026-07-31T01:12:06Z"
+  },
+  "totals": {
+    "stated_total_units": 40.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [],
+    "course_entry_count": 11,
+    "distinct_course_codes": 11,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The physics minor is open to all students. Engineering students must take a minimum of three upper-division courses unique to the minor.",
+          "source_line": "The physics minor is open to all students. Engineering students must take a minimum of three upper-division courses unique to the minor."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (28 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4"
+        },
+        {
+          "code": "MATH 245",
+          "title": "Mathematics of Physics and Engineering I",
+          "units": 4.0,
+          "source_line": "- MATH 245 Mathematics of Physics and Engineering I Units: 4"
+        },
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4"
+        },
+        {
+          "code": "PHYS 152L",
+          "title": "Fundamentals of Physics II: Electricity and Magnetism",
+          "units": 4.0,
+          "source_line": "- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4"
+        },
+        {
+          "code": "PHYS 153L",
+          "title": "Fundamentals of Physics III: Optics, Thermo, Modern Physics",
+          "units": 4.0,
+          "source_line": "- PHYS 153L Fundamentals of Physics III: Optics, Thermo, Modern Physics Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives - Choose 3 (12 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PHYS 304",
+          "title": "Mechanics",
+          "units": 4.0,
+          "source_line": "- PHYS 304 Mechanics Units: 4"
+        },
+        {
+          "code": "PHYS 316",
+          "title": "Thermodynamics and Statistical Mechanics",
+          "units": 4.0,
+          "source_line": "- PHYS 316 Thermodynamics and Statistical Mechanics Units: 4"
+        },
+        {
+          "code": "PHYS 408a",
+          "title": "Electricity and Magnetism",
+          "units": 4.0,
+          "source_line": "- PHYS 408a Electricity and Magnetism Units: 4"
+        },
+        {
+          "code": "PHYS 438a",
+          "title": "Introduction to Quantum Mechanics and its Applications",
+          "units": 4.0,
+          "source_line": "- PHYS 438a Introduction to Quantum Mechanics and its Applications Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 40",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 40.0
+    }
+  ],
+  "parse_warnings": []
+}

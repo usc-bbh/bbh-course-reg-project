@@ -1,0 +1,211 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Marine Biology Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32470",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32470&returnto=9396",
+    "source_text_file": "378_marine_biology_minor.txt",
+    "source_content_sha256": "628ebc909cd0a82a8b2f1a84dc706b204b526564a7dd679ecce246397fa6245f",
+    "retrieved_at": "2026-07-31T01:10:32Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The minor consists of 24 units of course work.",
+      "## Required Courses (8 units)\n\n---\n\n- BISC 469L Marine Biology Units: 4 *\n- BISC 473L Biological Oceanography Units: 4 *\n\n## Field Courses and Other Electives (12 units)\n\n---\n\nNote: No more than one lower-division course may count toward the minor."
+    ],
+    "course_entry_count": 21,
+    "distinct_course_codes": 21,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Studies of the marine environment are relevant to many contemporary environmental issues and problems central to understanding earth-system evolution, dynamics, climate and sustainability. The minor in Marine Biology combines courses related specifically to marine science from several Dornsife College departments or programs. USC’s location along the Pacific Ocean and the unique facilities at the USC Wrigley Marine Science Center on Catalina Island provide superb access for students to learn outside of traditional classroom venues. Students will learn about the biology, evolution and ecology of organisms that inhabit marine environments and the ecological and physical processes linking them. This program is an appropriate start for students who are seeking a focus in marine science or who are interested in broadening their base of knowledge about marine biology, earth sciences or environmental science.",
+          "source_line": "Studies of the marine environment are relevant to many contemporary environmental issues and problems central to understanding earth-system evolution, dynamics, climate and sustainability. The minor in Marine Biology combines courses related specifically to marine science from several Dornsife College departments or programs. USC’s location along the Pacific Ocean and the unique facilities at the USC Wrigley Marine Science Center on Catalina Island provide superb access for students to learn outside of traditional classroom venues. Students will learn about the biology, evolution and ecology of organisms that inhabit marine environments and the ecological and physical processes linking them. This program is an appropriate start for students who are seeking a focus in marine science or who are interested in broadening their base of knowledge about marine biology, earth sciences or environmental science."
+        },
+        {
+          "text": "The minor consists of 24 units of course work. At least 16 must be upper-division and unique to the minor. Courses required by the student’s major or general education (GE) requirements may not be applied toward the minor. Prior to declaring the minor, students must have completed the requirement for BISC 120Lg or BISC 121Lg or BISC 103Lgx . Basic chemistry, such as CHEM 103Lgx or CHEM 105aLg and CHEM 105bL , is strongly recommended. Students are encouraged enroll in at least one field-based course. Courses may be substituted with approval of the minor in Marine Biology program director, and this approval must be filed with the Office of Academic Records and Registrar.",
+          "source_line": "The minor consists of 24 units of course work. At least 16 must be upper-division and unique to the minor. Courses required by the student’s major or general education (GE) requirements may not be applied toward the minor. Prior to declaring the minor, students must have completed the requirement for BISC 120Lg or BISC 121Lg or BISC 103Lgx . Basic chemistry, such as CHEM 103Lgx or CHEM 105aLg and CHEM 105bL , is strongly recommended. Students are encouraged enroll in at least one field-based course. Courses may be substituted with approval of the minor in Marine Biology program director, and this approval must be filed with the Office of Academic Records and Registrar."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 469L",
+          "title": "Marine Biology  *",
+          "units": 4.0,
+          "source_line": "- BISC 469L Marine Biology Units: 4 *"
+        },
+        {
+          "code": "BISC 473L",
+          "title": "Biological Oceanography  *",
+          "units": 4.0,
+          "source_line": "- BISC 473L Biological Oceanography Units: 4 *"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Field Courses and Other Electives (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 431L",
+          "title": "Aquatic Microbiology  *",
+          "units": 4.0,
+          "source_line": "- BISC 431L Aquatic Microbiology Units: 4 *"
+        },
+        {
+          "code": "BISC 457L",
+          "title": "Methods in Marine Biology and Biological Oceanography  *",
+          "units": 4.0,
+          "source_line": "- BISC 457L Methods in Marine Biology and Biological Oceanography Units: 4 *"
+        },
+        {
+          "code": "ENST 298aL",
+          "title": "Introduction to Scientific Diving",
+          "units": 2.0,
+          "source_line": "- ENST 298aL Introduction to Scientific Diving Units: 2"
+        },
+        {
+          "code": "ENST 483L",
+          "title": "Coastal Zone Sustainability",
+          "units": 4.0,
+          "source_line": "- ENST 483L Coastal Zone Sustainability Units: 4"
+        },
+        {
+          "code": "BISC 140g",
+          "title": "Our Blue Planet in a Changing Climate",
+          "units": 4.0,
+          "source_line": "- BISC 140g Our Blue Planet in a Changing Climate Units: 4"
+        },
+        {
+          "code": "BISC 313L",
+          "title": "Evolution and Population Genetics  *",
+          "units": 4.0,
+          "source_line": "- BISC 313L Evolution and Population Genetics Units: 4 *"
+        },
+        {
+          "code": "BISC 315L",
+          "title": "Introduction to Ecology  *",
+          "units": 4.0,
+          "source_line": "- BISC 315L Introduction to Ecology Units: 4 *"
+        },
+        {
+          "code": "BISC 419L",
+          "title": "Microbiology for a Sustainable Future",
+          "units": 4.0,
+          "source_line": "- BISC 419L Microbiology for a Sustainable Future Units: 4"
+        },
+        {
+          "code": "BISC 427",
+          "title": "The Global Environment  *",
+          "units": 4.0,
+          "source_line": "- BISC 427 The Global Environment Units: 4 *"
+        },
+        {
+          "code": "BISC 483",
+          "title": "Geobiology and Astrobiology  *",
+          "units": 4.0,
+          "source_line": "- BISC 483 Geobiology and Astrobiology Units: 4 *"
+        },
+        {
+          "code": "BISC 485",
+          "title": "Advanced Seminar in Bacterial Survival and Evolution  *",
+          "units": 4.0,
+          "source_line": "- BISC 485 Advanced Seminar in Bacterial Survival and Evolution Units: 4 *"
+        },
+        {
+          "code": "BISC 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8 **",
+          "units": 1.0,
+          "source_line": "- BISC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 **"
+        },
+        {
+          "code": "ENST 310",
+          "title": "Sustainable Fisheries Management  *",
+          "units": 4.0,
+          "source_line": "- ENST 310 Sustainable Fisheries Management Units: 4 *"
+        },
+        {
+          "code": "ENST 370",
+          "title": "Marine and Coastal Environmental Policy",
+          "units": 4.0,
+          "source_line": "- ENST 370 Marine and Coastal Environmental Policy Units: 4"
+        },
+        {
+          "code": "ENST 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8 **",
+          "units": 1.0,
+          "source_line": "- ENST 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 **"
+        },
+        {
+          "code": "GEOL 107Lg",
+          "title": "Oceanography",
+          "units": 4.0,
+          "source_line": "- GEOL 107Lg Oceanography Units: 4"
+        },
+        {
+          "code": "GEOL 412",
+          "title": "Oceans, Climate, and the Environment  *",
+          "units": 4.0,
+          "source_line": "- GEOL 412 Oceans, Climate, and the Environment Units: 4 *"
+        },
+        {
+          "code": "GEOL 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8 **",
+          "units": 1.0,
+          "source_line": "- GEOL 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 **"
+        },
+        {
+          "code": "SSCI 265Lg",
+          "title": "The Water Planet",
+          "units": 4.0,
+          "source_line": "- SSCI 265Lg The Water Planet Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Note: No more than one lower-division course may count toward the minor.",
+          "source_line": "Note: No more than one lower-division course may count toward the minor."
+        },
+        {
+          "text": "Field-based Courses",
+          "source_line": "- Field-based Courses"
+        },
+        {
+          "text": "Non-field-based Courses",
+          "source_line": "- Non-field-based Courses"
+        },
+        {
+          "text": "* Course requires prerequisite/corequisite",
+          "source_line": "- * Course requires prerequisite/corequisite"
+        },
+        {
+          "text": "* Research or special topic must be related to the marine environment. With permission from minor adviser.",
+          "source_line": "  ** Research or special topic must be related to the marine environment. With permission from minor adviser."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,616 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Animation and Digital Arts (BFA)",
+    "credential": "BFA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32669",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32669&returnto=9396",
+    "source_text_file": "010_animation_and_digital_arts_bfa.txt",
+    "source_content_sha256": "f0c9c2b39ae297672af31ddb738484f25eb584c65ea781cda4efaaa574f9a3ea",
+    "retrieved_at": "2026-07-31T00:49:19Z"
+  },
+  "totals": {
+    "stated_total_units": 4.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "A total of 128 units is required for the completion of the Bachelor of Fine Arts degree; 59 of these units taken in a prescribed sequential order.",
+      "## Four-Year Major Requirements (59 units)\n\n---\n\n## Year One, First Semester\n\n---\n\n- CNTV 101 Reality Starts Here Units: 2\n- CTAN 101L Introduction to the Art of Animation Units: 2\n- CTAN 451 History of Animation Units: 2\n- CTCS 190g Introduction to Cinema Units: 4\n- Take two units of movement classes from the PHED/DANC/THTR courses listed below\n- Total units: 12\n\n## Year One, Second Semester\n\n---\n\n- CTAN 102L Introduction to the Art of Movement Units: 2\n- CTAN 110 Design Fundamentals for Animation I Units: 2\n- CTAN 452 Introduction to 3-D Computer Animation Units: 2\n- CTCS 150gw The Cinematic Arts in Society Units: 4\n- Total units: 10\n\n## Year Two, First Semester\n\n---\n\n- CTAN 210 Design Fundamentals for Animation II Units: 2\n- CTAN 220 Introduction to Storyboarding Units: 2\n- CTAN 438 Story Structure for Animation Units: 2\n- Total units: 6\n\n## Year Two, Second Semester\n\n---\n\n- ART 207a Two-Dimensional Art Workshop Units: 2\n- CTAN 201L Intermediate Animation Production Units: 3\n- CTAN 202L Introduction to 3-D Character Animation Units: 3\n- CTAN 425 Studio Careers: Story to Screen Units: 2\n- Total units: 10\n\n## Year Three, First Semester\n\n---\n\n- CTAN 301L 3-D Character Performance Animation Units: 3\n- CTAN 305 Professionalism of Animation Units: 2\n- CTAN 320 Cinematography for Animators Units: 2\n- Total units: 7\n\n## Year Three, Second Semester\n\n---\n\n- CTAN 336 Ideation and Pre-Production Units: 2\n- Take one CTCS course from the *list below\n- Total units: 6\n\n## Year Four, First Semester\n\n---\n\n- CTAN 401a Senior Project Units: 4\n- Total units: 4\n\n## Year Four, Second Semester\n\n---\n\n- CTAN 401b Senior Project Units: 4\n- Total units: 4\n\n## Two units must be selected from the following:\n\n---\n\n### USC Dornsife College of Letters, Arts and Sciences – Physical Education\n\n---\n\n- PHED 104a Self-Defense Units: 1\n- PHED 104b Self-Defense Units: 1\n- PHED 120a Yoga Units: 1\n- PHED 120b Yoga Units: 1\n\n### USC Kaufman School of Dance\n\n---\n\n- DANC 181a Contemporary Dance Units: 2\n- DANC 181b Contemporary Dance Units: 2\n- DANC 184a Jazz Dance Units: 2\n- DANC 184b Jazz Dance Units: 2\n- DANC 184c Jazz Dance Units: 2\n- DANC 188a International Style Ballroom Dance Units: 2\n- DANC 188b International Style Ballroom Dance Units: 2\n- DANC 189a Tap Dance Units: 2\n- DANC 189b Tap Dance Units: 2\n\n### USC School of Dramatic Arts\n\n---\n\n- THTR 122 Improvisation and Theatre Games Units: 2\n- THTR 216 Movement for Actors Units: 2\n\n## *One CTCS course must be taken from the following list:\n\n---\n\n- CTCS 192mg Race, Class, and Gender in American Film Units: 4\n- CTCS 392 History of American Cinema to 1960 Units: 4\n- CTCS 393 Topics in Historical Cinema and Media Units: 4\n- CTCS 400 Documentary Film and Media Units: 4\n- CTCS 403 Studies in National and Regional Media Units: 4\n- CTCS 407 African American Cinema Units: 4\n- CTCS 409 Censorship in Cinema Units: 4\n- CTCS 411 Film, Television and Cultural Studies Units: 4\n- CTCS 412 Gender, Sexuality and Media Units: 4\n- CTCS 464 Film and/or Television Genres Units: 4\n- CTCS 469 Film and/or Television Style Analysis Units: 4\n- CTCS 482 Transmedia Entertainment Units: 4\n\n## Additional Requirements\n\n---\n\n### Areas of Concentration\n\n---\n\nAreas of concentration might include character animation, experimental animation, 3-D computer animation, visualizing science, interactive animation and visual effects."
+    ],
+    "course_entry_count": 48,
+    "distinct_course_codes": 48,
+    "section_count": 22
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Fine Arts in Animation and Digital Arts is a unique four-year program, offered by the School of Cinematic Arts that combines a liberal arts background with the practice of animation to prepare students for a professional career in this field. Areas of concentration might include character animation, experimental animation, visual effects, 3-D computer animation, motion graphics, immersive media, interactive animation, documentary animation and science visualization.",
+          "source_line": "The Bachelor of Fine Arts in Animation and Digital Arts is a unique four-year program, offered by the School of Cinematic Arts that combines a liberal arts background with the practice of animation to prepare students for a professional career in this field. Areas of concentration might include character animation, experimental animation, visual effects, 3-D computer animation, motion graphics, immersive media, interactive animation, documentary animation and science visualization."
+        },
+        {
+          "text": "Each fall, a class of 16 undergraduate animation and digital arts students is selected to begin the program. A total of 128 units is required for the completion of the Bachelor of Fine Arts degree; 59 of these units taken in a prescribed sequential order. There are no spring admissions.",
+          "source_line": "Each fall, a class of 16 undergraduate animation and digital arts students is selected to begin the program. A total of 128 units is required for the completion of the Bachelor of Fine Arts degree; 59 of these units taken in a prescribed sequential order. There are no spring admissions."
+        },
+        {
+          "text": "Applicants must submit a supplemental application and materials to the Undergraduate Animation and Digital Arts Program in Slideroom via the Common Application. For specific instructions, contact the Cinematic Arts Office of Admission, University Park, Los Angeles, CA 90089-2211, (213) 740-8358 or online at cinema.usc.edu.",
+          "source_line": "Applicants must submit a supplemental application and materials to the Undergraduate Animation and Digital Arts Program in Slideroom via the Common Application. For specific instructions, contact the Cinematic Arts Office of Admission, University Park, Los Angeles, CA 90089-2211, (213) 740-8358 or online at cinema.usc.edu."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education Requirements",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education .",
+          "source_line": "The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Four-Year Major Requirements (59 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Year One, First Semester",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CNTV 101",
+          "title": "Reality Starts Here",
+          "units": 2.0,
+          "source_line": "- CNTV 101 Reality Starts Here Units: 2"
+        },
+        {
+          "code": "CTAN 101L",
+          "title": "Introduction to the Art of Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 101L Introduction to the Art of Animation Units: 2"
+        },
+        {
+          "code": "CTAN 451",
+          "title": "History of Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 451 History of Animation Units: 2"
+        },
+        {
+          "code": "CTCS 190g",
+          "title": "Introduction to Cinema",
+          "units": 4.0,
+          "source_line": "- CTCS 190g Introduction to Cinema Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Take two units of movement classes from the PHED/DANC/THTR courses listed below",
+          "source_line": "- Take two units of movement classes from the PHED/DANC/THTR courses listed below"
+        },
+        {
+          "text": "Total units: 12",
+          "source_line": "- Total units: 12"
+        }
+      ],
+      "choice": null,
+      "total_units": 12.0
+    },
+    {
+      "title": "Year One, Second Semester",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTAN 102L",
+          "title": "Introduction to the Art of Movement",
+          "units": 2.0,
+          "source_line": "- CTAN 102L Introduction to the Art of Movement Units: 2"
+        },
+        {
+          "code": "CTAN 110",
+          "title": "Design Fundamentals for Animation I",
+          "units": 2.0,
+          "source_line": "- CTAN 110 Design Fundamentals for Animation I Units: 2"
+        },
+        {
+          "code": "CTAN 452",
+          "title": "Introduction to 3-D Computer Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 452 Introduction to 3-D Computer Animation Units: 2"
+        },
+        {
+          "code": "CTCS 150gw",
+          "title": "The Cinematic Arts in Society",
+          "units": 4.0,
+          "source_line": "- CTCS 150gw The Cinematic Arts in Society Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Total units: 10",
+          "source_line": "- Total units: 10"
+        }
+      ],
+      "choice": null,
+      "total_units": 10.0
+    },
+    {
+      "title": "Year Two, First Semester",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTAN 210",
+          "title": "Design Fundamentals for Animation II",
+          "units": 2.0,
+          "source_line": "- CTAN 210 Design Fundamentals for Animation II Units: 2"
+        },
+        {
+          "code": "CTAN 220",
+          "title": "Introduction to Storyboarding",
+          "units": 2.0,
+          "source_line": "- CTAN 220 Introduction to Storyboarding Units: 2"
+        },
+        {
+          "code": "CTAN 438",
+          "title": "Story Structure for Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 438 Story Structure for Animation Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Total units: 6",
+          "source_line": "- Total units: 6"
+        }
+      ],
+      "choice": null,
+      "total_units": 6.0
+    },
+    {
+      "title": "Year Two, Second Semester",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ART 207a",
+          "title": "Two-Dimensional Art Workshop",
+          "units": 2.0,
+          "source_line": "- ART 207a Two-Dimensional Art Workshop Units: 2"
+        },
+        {
+          "code": "CTAN 201L",
+          "title": "Intermediate Animation Production",
+          "units": 3.0,
+          "source_line": "- CTAN 201L Intermediate Animation Production Units: 3"
+        },
+        {
+          "code": "CTAN 202L",
+          "title": "Introduction to 3-D Character Animation",
+          "units": 3.0,
+          "source_line": "- CTAN 202L Introduction to 3-D Character Animation Units: 3"
+        },
+        {
+          "code": "CTAN 425",
+          "title": "Studio Careers: Story to Screen",
+          "units": 2.0,
+          "source_line": "- CTAN 425 Studio Careers: Story to Screen Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Total units: 10",
+          "source_line": "- Total units: 10"
+        }
+      ],
+      "choice": null,
+      "total_units": 10.0
+    },
+    {
+      "title": "Year Three, First Semester",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTAN 301L",
+          "title": "3-D Character Performance Animation",
+          "units": 3.0,
+          "source_line": "- CTAN 301L 3-D Character Performance Animation Units: 3"
+        },
+        {
+          "code": "CTAN 305",
+          "title": "Professionalism of Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 305 Professionalism of Animation Units: 2"
+        },
+        {
+          "code": "CTAN 320",
+          "title": "Cinematography for Animators",
+          "units": 2.0,
+          "source_line": "- CTAN 320 Cinematography for Animators Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Total units: 7",
+          "source_line": "- Total units: 7"
+        }
+      ],
+      "choice": null,
+      "total_units": 7.0
+    },
+    {
+      "title": "Year Three, Second Semester",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTAN 336",
+          "title": "Ideation and Pre-Production",
+          "units": 2.0,
+          "source_line": "- CTAN 336 Ideation and Pre-Production Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Take one CTCS course from the *list below",
+          "source_line": "- Take one CTCS course from the *list below"
+        },
+        {
+          "text": "Total units: 6",
+          "source_line": "- Total units: 6"
+        }
+      ],
+      "choice": null,
+      "total_units": 6.0
+    },
+    {
+      "title": "Year Four, First Semester",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTAN 401a",
+          "title": "Senior Project",
+          "units": 4.0,
+          "source_line": "- CTAN 401a Senior Project Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Total units: 4",
+          "source_line": "- Total units: 4"
+        }
+      ],
+      "choice": null,
+      "total_units": 4.0
+    },
+    {
+      "title": "Year Four, Second Semester",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTAN 401b",
+          "title": "Senior Project",
+          "units": 4.0,
+          "source_line": "- CTAN 401b Senior Project Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Total units: 4",
+          "source_line": "- Total units: 4"
+        }
+      ],
+      "choice": null,
+      "total_units": 4.0
+    },
+    {
+      "title": "Two units must be selected from the following:",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "USC Dornsife College of Letters, Arts and Sciences – Physical Education",
+      "level": 3,
+      "courses": [
+        {
+          "code": "PHED 104a",
+          "title": "Self-Defense",
+          "units": 1.0,
+          "source_line": "- PHED 104a Self-Defense Units: 1"
+        },
+        {
+          "code": "PHED 104b",
+          "title": "Self-Defense",
+          "units": 1.0,
+          "source_line": "- PHED 104b Self-Defense Units: 1"
+        },
+        {
+          "code": "PHED 120a",
+          "title": "Yoga",
+          "units": 1.0,
+          "source_line": "- PHED 120a Yoga Units: 1"
+        },
+        {
+          "code": "PHED 120b",
+          "title": "Yoga",
+          "units": 1.0,
+          "source_line": "- PHED 120b Yoga Units: 1"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "USC Kaufman School of Dance",
+      "level": 3,
+      "courses": [
+        {
+          "code": "DANC 181a",
+          "title": "Contemporary Dance",
+          "units": 2.0,
+          "source_line": "- DANC 181a Contemporary Dance Units: 2"
+        },
+        {
+          "code": "DANC 181b",
+          "title": "Contemporary Dance",
+          "units": 2.0,
+          "source_line": "- DANC 181b Contemporary Dance Units: 2"
+        },
+        {
+          "code": "DANC 184a",
+          "title": "Jazz Dance",
+          "units": 2.0,
+          "source_line": "- DANC 184a Jazz Dance Units: 2"
+        },
+        {
+          "code": "DANC 184b",
+          "title": "Jazz Dance",
+          "units": 2.0,
+          "source_line": "- DANC 184b Jazz Dance Units: 2"
+        },
+        {
+          "code": "DANC 184c",
+          "title": "Jazz Dance",
+          "units": 2.0,
+          "source_line": "- DANC 184c Jazz Dance Units: 2"
+        },
+        {
+          "code": "DANC 188a",
+          "title": "International Style Ballroom Dance",
+          "units": 2.0,
+          "source_line": "- DANC 188a International Style Ballroom Dance Units: 2"
+        },
+        {
+          "code": "DANC 188b",
+          "title": "International Style Ballroom Dance",
+          "units": 2.0,
+          "source_line": "- DANC 188b International Style Ballroom Dance Units: 2"
+        },
+        {
+          "code": "DANC 189a",
+          "title": "Tap Dance",
+          "units": 2.0,
+          "source_line": "- DANC 189a Tap Dance Units: 2"
+        },
+        {
+          "code": "DANC 189b",
+          "title": "Tap Dance",
+          "units": 2.0,
+          "source_line": "- DANC 189b Tap Dance Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "USC School of Dramatic Arts",
+      "level": 3,
+      "courses": [
+        {
+          "code": "THTR 122",
+          "title": "Improvisation and Theatre Games",
+          "units": 2.0,
+          "source_line": "- THTR 122 Improvisation and Theatre Games Units: 2"
+        },
+        {
+          "code": "THTR 216",
+          "title": "Movement for Actors",
+          "units": 2.0,
+          "source_line": "- THTR 216 Movement for Actors Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "*One CTCS course must be taken from the following list:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTCS 192mg",
+          "title": "Race, Class, and Gender in American Film",
+          "units": 4.0,
+          "source_line": "- CTCS 192mg Race, Class, and Gender in American Film Units: 4"
+        },
+        {
+          "code": "CTCS 392",
+          "title": "History of American Cinema to 1960",
+          "units": 4.0,
+          "source_line": "- CTCS 392 History of American Cinema to 1960 Units: 4"
+        },
+        {
+          "code": "CTCS 393",
+          "title": "Topics in Historical Cinema and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 393 Topics in Historical Cinema and Media Units: 4"
+        },
+        {
+          "code": "CTCS 400",
+          "title": "Documentary Film and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 400 Documentary Film and Media Units: 4"
+        },
+        {
+          "code": "CTCS 403",
+          "title": "Studies in National and Regional Media",
+          "units": 4.0,
+          "source_line": "- CTCS 403 Studies in National and Regional Media Units: 4"
+        },
+        {
+          "code": "CTCS 407",
+          "title": "African American Cinema",
+          "units": 4.0,
+          "source_line": "- CTCS 407 African American Cinema Units: 4"
+        },
+        {
+          "code": "CTCS 409",
+          "title": "Censorship in Cinema",
+          "units": 4.0,
+          "source_line": "- CTCS 409 Censorship in Cinema Units: 4"
+        },
+        {
+          "code": "CTCS 411",
+          "title": "Film, Television and Cultural Studies",
+          "units": 4.0,
+          "source_line": "- CTCS 411 Film, Television and Cultural Studies Units: 4"
+        },
+        {
+          "code": "CTCS 412",
+          "title": "Gender, Sexuality and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 412 Gender, Sexuality and Media Units: 4"
+        },
+        {
+          "code": "CTCS 464",
+          "title": "Film and/or Television Genres",
+          "units": 4.0,
+          "source_line": "- CTCS 464 Film and/or Television Genres Units: 4"
+        },
+        {
+          "code": "CTCS 469",
+          "title": "Film and/or Television Style Analysis",
+          "units": 4.0,
+          "source_line": "- CTCS 469 Film and/or Television Style Analysis Units: 4"
+        },
+        {
+          "code": "CTCS 482",
+          "title": "Transmedia Entertainment",
+          "units": 4.0,
+          "source_line": "- CTCS 482 Transmedia Entertainment Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Areas of Concentration",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Areas of concentration might include character animation, experimental animation, 3-D computer animation, visualizing science, interactive animation and visual effects. Students work in consultation with the undergraduate coordinator and faculty to help them decide their course of study while at USC.",
+          "source_line": "Areas of concentration might include character animation, experimental animation, 3-D computer animation, visualizing science, interactive animation and visual effects. Students work in consultation with the undergraduate coordinator and faculty to help them decide their course of study while at USC."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Senior Project",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "In the spring semester of their third year students develop their senior project through CTAN 336 Ideation and Pre-Production under the guidance of the lecturer. This project will focus on an area of concentration studied throughout the BFA by the student. At the end of this class, students present their senior project concepts for review to the Division of Animation and Digital Arts faculty. Progression into CTAN 401a , CTAN 401b is contingent upon faculty committee approval.",
+          "source_line": "In the spring semester of their third year students develop their senior project through CTAN 336 Ideation and Pre-Production under the guidance of the lecturer. This project will focus on an area of concentration studied throughout the BFA by the student. At the end of this class, students present their senior project concepts for review to the Division of Animation and Digital Arts faculty. Progression into CTAN 401a , CTAN 401b is contingent upon faculty committee approval."
+        },
+        {
+          "text": "In the final year, students concentrate on their senior projects, completing production and post-production. The student’s project will be presented to the committee upon completion.",
+          "source_line": "In the final year, students concentrate on their senior projects, completing production and post-production. The student’s project will be presented to the committee upon completion."
+        },
+        {
+          "text": "Completion is defined as a fully rendered, animated piece with a completed sound track. In the case of installation work, the piece must be mounted in a suitable space with all sound and animated components completed and functional.",
+          "source_line": "Completion is defined as a fully rendered, animated piece with a completed sound track. In the case of installation work, the piece must be mounted in a suitable space with all sound and animated components completed and functional."
+        },
+        {
+          "text": "In the case of an interactive work, the piece must be fully functional with completed animation, sound and interactivity.",
+          "source_line": "In the case of an interactive work, the piece must be fully functional with completed animation, sound and interactivity."
+        },
+        {
+          "text": "In addition to completion of the senior project, the student must provide the faculty committee with written and visual documentation of the research. This can be documented as a publishable paper (2,000 words), Website or interactive DVD.",
+          "source_line": "In addition to completion of the senior project, the student must provide the faculty committee with written and visual documentation of the research. This can be documented as a publishable paper (2,000 words), Website or interactive DVD."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Grade Point Average Requirements",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minimum grade of C, 2.0 (A = 4.0), must be earned in all required and prerequisite courses. A grade of C- (1.7) or lower will not fulfill a major requirement.",
+          "source_line": "A minimum grade of C, 2.0 (A = 4.0), must be earned in all required and prerequisite courses. A grade of C- (1.7) or lower will not fulfill a major requirement."
+        },
+        {
+          "text": "Students who do not earn the minimum grade of C (2.0) in CTAN 101L , CTAN 102L , CTAN 110 , CTAN 201L , CTAN 202L , CTAN 210 , CTAN 220 , CTAN 301L , CTAN 320 , or CTAN 401a , CTAN 401b after repeating these requirements will be disqualified from the program.",
+          "source_line": "Students who do not earn the minimum grade of C (2.0) in CTAN 101L , CTAN 102L , CTAN 110 , CTAN 201L , CTAN 202L , CTAN 210 , CTAN 220 , CTAN 301L , CTAN 320 , or CTAN 401a , CTAN 401b after repeating these requirements will be disqualified from the program."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Limitations on Enrollment",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Registration in graduate-level courses (numbered 500 and above) for undergraduate credit requires prior approval from the School of Cinematic Arts.",
+          "source_line": "Registration in graduate-level courses (numbered 500 and above) for undergraduate credit requires prior approval from the School of Cinematic Arts."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Curriculum Review",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Cinematic arts majors are expected to meet with an adviser every semester to review their progress. Contact the Cinematic Arts Animation and Digital Arts Division Office, University Park, Los Angeles, CA 90089-2211, (213) 740-3986 or online at cinema.usc.edu.",
+          "source_line": "Cinematic arts majors are expected to meet with an adviser every semester to review their progress. Contact the Cinematic Arts Animation and Digital Arts Division Office, University Park, Los Angeles, CA 90089-2211, (213) 740-3986 or online at cinema.usc.edu."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,450 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "East Asian Languages and Cultures Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31772",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31772&returnto=9396",
+    "source_text_file": "288_east_asian_languages_and_cultures_minor.txt",
+    "source_content_sha256": "fc144d624e8381114836e1349490464034e328962a9814f939c43d78fef8dcc3",
+    "retrieved_at": "2026-07-31T01:01:57Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "Students then also take three upper-division elective courses (12 units) for an overall minimum of 16 units.",
+      "- EALC 324gw Contemporary China: Cultural Politics and Social Realities Units: 4\n- EALC 333g Introduction to Korean Film Units: 4\n- EALC 340gp Japanese Civilization Units: 4\n- EALC 342gp Japanese Literature and Culture Units: 4\n- EALC 344gp Korean Culture from Ancient to Modern Times Units: 4\n- EALC 346g Hallyu, the Korean Wave Units: 4\n- EALC 350gp Chinese Civilization Units: 4\n- EALC 358g Transnational Chinese Literature and Culture Units: 4\n- EALC 360g Performing Japan: Bodies, Media, and Textuality Units: 4\n- EALC 374 Language and Society in East Asia Units: 4\n- EALC 375 Women and Gender in China: Past and Present Units: 4\n- EALC 382 Art and Cultural Heritage in East Asia Units: 4\n- EALC 385 Myth, Folklore, and Fantasy in Japanese Literature and Film Units: 4\n- KSI 399 Korean Studies Research Seminar Units: 4\n- EALC 400 Classical Chinese I Units: 4\n- EALC 402 Classical Chinese II Units: 4\n- EALC 426 Classical Japanese Units: 4\n- EALC 428 Nature and the Ecological Imagination in Japanese Literature Units: 4\n- EALC 430 Gender and Sexuality in Korean Literature and Culture Units: 4\n- EALC 435 Ethnic Identity and Minority Politics in China Units: 4\n- EALC 438 The Tale of Genji and its Worlds Units: 4\n- EALC 450 Contemporary Japanese Literature and Global Modernity Units: 4\n- EALC 452 Chinese Fiction Units: 4\n- EALC 455 Japanese Fiction Units: 4\n- EALC 460 Love, Self and Gender in Japanese Literature Units: 4\n- EALC 465 Topics in Korean Visual and Cultural Studies Units: 4\n- EALC 475 Topics in Chinese Photography Units: 4\n- EALC 485 Material Culture of the Silk Road Units: 4\n- EALC 489 The Mongol Era in China: Genghis Khan, Khubilai, Marco Polo Units: 4\n- EALC 499 Special Topics Units: 2, 3, 4\n- Upper-Division Language Electives\n  Up to two third- or fourth-year language courses (8 units maximum) may be used to satisfy 8 units of upper-division electives."
+    ],
+    "course_entry_count": 57,
+    "distinct_course_codes": 51,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The core requirements for the EALC minor allow students flexibility in designing their own course of study. Students typically select one language and cultural area (Chinese, Japanese or Korean) in which they do most of their course work. For this reason, one frequently hears students on campus speaking about “minoring” in Japanese, Chinese or Korean, though strictly speaking all these students are actually “minoring” in EALC. Minors are encouraged to explore beyond their individual language focus by enrolling in the full range of EALC courses available in literature, film, history, media and other aspects of East Asian cultures.",
+          "source_line": "The core requirements for the EALC minor allow students flexibility in designing their own course of study. Students typically select one language and cultural area (Chinese, Japanese or Korean) in which they do most of their course work. For this reason, one frequently hears students on campus speaking about “minoring” in Japanese, Chinese or Korean, though strictly speaking all these students are actually “minoring” in EALC. Minors are encouraged to explore beyond their individual language focus by enrolling in the full range of EALC courses available in literature, film, history, media and other aspects of East Asian cultures.",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Core requirements for EALC minors consist of an upper-division cultural studies course and a language requirement that may be waived by diagnostic exam. Students then also take three upper-division elective courses (12 units) for an overall minimum of 16 units. Students minoring in EALC are strongly encouraged to take at least one lower-division cross-cultural survey course.",
+          "source_line": "Core requirements for EALC minors consist of an upper-division cultural studies course and a language requirement that may be waived by diagnostic exam. Students then also take three upper-division elective courses (12 units) for an overall minimum of 16 units. Students minoring in EALC are strongly encouraged to take at least one lower-division cross-cultural survey course."
+        }
+      ],
+      "choice": "The core requirements for the EALC minor allow students flexibility in designing their own course of study. Students typically select one language and cultural area (Chinese, Japanese or Korean) in which they do most of their course work. For this reason, one frequently hears students on campus speaking about “minoring” in Japanese, Chinese or Korean, though strictly speaking all these students are actually “minoring” in EALC. Minors are encouraged to explore beyond their individual language focus by enrolling in the full range of EALC courses available in literature, film, history, media and other aspects of East Asian cultures.",
+      "total_units": null
+    },
+    {
+      "title": "Cultural Studies Course (Choose One)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "EALC 324gw",
+          "title": "Contemporary China: Cultural Politics and Social Realities",
+          "units": 4.0,
+          "source_line": "- EALC 324gw Contemporary China: Cultural Politics and Social Realities Units: 4"
+        },
+        {
+          "code": "EALC 340gp",
+          "title": "Japanese Civilization",
+          "units": 4.0,
+          "source_line": "- EALC 340gp Japanese Civilization Units: 4"
+        },
+        {
+          "code": "EALC 342gp",
+          "title": "Japanese Literature and Culture",
+          "units": 4.0,
+          "source_line": "- EALC 342gp Japanese Literature and Culture Units: 4"
+        },
+        {
+          "code": "EALC 344gp",
+          "title": "Korean Culture from Ancient to Modern Times",
+          "units": 4.0,
+          "source_line": "- EALC 344gp Korean Culture from Ancient to Modern Times Units: 4"
+        },
+        {
+          "code": "EALC 350gp",
+          "title": "Chinese Civilization",
+          "units": 4.0,
+          "source_line": "- EALC 350gp Chinese Civilization Units: 4"
+        },
+        {
+          "code": "EALC 382",
+          "title": "Art and Cultural Heritage in East Asia",
+          "units": 4.0,
+          "source_line": "- EALC 382 Art and Cultural Heritage in East Asia Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Cultural Studies courses provide students with an in-depth introduction to a cultural tradition within its regional context. Students are required to take one of these courses to fulfill the Cultural Studies requirement.",
+          "source_line": "Cultural Studies courses provide students with an in-depth introduction to a cultural tradition within its regional context. Students are required to take one of these courses to fulfill the Cultural Studies requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Language Requirement",
+      "level": 2,
+      "courses": [
+        {
+          "code": "EALC 206",
+          "title": "Chinese IV",
+          "units": 4.0,
+          "source_line": "- EALC 206 Chinese IV Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "EALC 217",
+          "title": "Korean IV",
+          "units": 4.0,
+          "source_line": "- EALC 217 Korean IV Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "EALC 222",
+          "title": "Japanese IV",
+          "units": 4.0,
+          "source_line": "- EALC 222 Japanese IV Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Minors must complete four semesters (two years) of one East Asian Language. This requirement may be waived by placement exam.",
+          "source_line": "Minors must complete four semesters (two years) of one East Asian Language. This requirement may be waived by placement exam.",
+          "states_choice_rule": true
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": "Minors must complete four semesters (two years) of one East Asian Language. This requirement may be waived by placement exam.",
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Electives (Choose three)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "EALC 324gw",
+          "title": "Contemporary China: Cultural Politics and Social Realities",
+          "units": 4.0,
+          "source_line": "- EALC 324gw Contemporary China: Cultural Politics and Social Realities Units: 4"
+        },
+        {
+          "code": "EALC 333g",
+          "title": "Introduction to Korean Film",
+          "units": 4.0,
+          "source_line": "- EALC 333g Introduction to Korean Film Units: 4"
+        },
+        {
+          "code": "EALC 340gp",
+          "title": "Japanese Civilization",
+          "units": 4.0,
+          "source_line": "- EALC 340gp Japanese Civilization Units: 4"
+        },
+        {
+          "code": "EALC 342gp",
+          "title": "Japanese Literature and Culture",
+          "units": 4.0,
+          "source_line": "- EALC 342gp Japanese Literature and Culture Units: 4"
+        },
+        {
+          "code": "EALC 344gp",
+          "title": "Korean Culture from Ancient to Modern Times",
+          "units": 4.0,
+          "source_line": "- EALC 344gp Korean Culture from Ancient to Modern Times Units: 4"
+        },
+        {
+          "code": "EALC 346g",
+          "title": "Hallyu, the Korean Wave",
+          "units": 4.0,
+          "source_line": "- EALC 346g Hallyu, the Korean Wave Units: 4"
+        },
+        {
+          "code": "EALC 350gp",
+          "title": "Chinese Civilization",
+          "units": 4.0,
+          "source_line": "- EALC 350gp Chinese Civilization Units: 4"
+        },
+        {
+          "code": "EALC 358g",
+          "title": "Transnational Chinese Literature and Culture",
+          "units": 4.0,
+          "source_line": "- EALC 358g Transnational Chinese Literature and Culture Units: 4"
+        },
+        {
+          "code": "EALC 360g",
+          "title": "Performing Japan: Bodies, Media, and Textuality",
+          "units": 4.0,
+          "source_line": "- EALC 360g Performing Japan: Bodies, Media, and Textuality Units: 4"
+        },
+        {
+          "code": "EALC 374",
+          "title": "Language and Society in East Asia",
+          "units": 4.0,
+          "source_line": "- EALC 374 Language and Society in East Asia Units: 4"
+        },
+        {
+          "code": "EALC 375",
+          "title": "Women and Gender in China: Past and Present",
+          "units": 4.0,
+          "source_line": "- EALC 375 Women and Gender in China: Past and Present Units: 4"
+        },
+        {
+          "code": "EALC 382",
+          "title": "Art and Cultural Heritage in East Asia",
+          "units": 4.0,
+          "source_line": "- EALC 382 Art and Cultural Heritage in East Asia Units: 4"
+        },
+        {
+          "code": "EALC 385",
+          "title": "Myth, Folklore, and Fantasy in Japanese Literature and Film",
+          "units": 4.0,
+          "source_line": "- EALC 385 Myth, Folklore, and Fantasy in Japanese Literature and Film Units: 4"
+        },
+        {
+          "code": "KSI 399",
+          "title": "Korean Studies Research Seminar",
+          "units": 4.0,
+          "source_line": "- KSI 399 Korean Studies Research Seminar Units: 4"
+        },
+        {
+          "code": "EALC 400",
+          "title": "Classical Chinese I",
+          "units": 4.0,
+          "source_line": "- EALC 400 Classical Chinese I Units: 4"
+        },
+        {
+          "code": "EALC 402",
+          "title": "Classical Chinese II",
+          "units": 4.0,
+          "source_line": "- EALC 402 Classical Chinese II Units: 4"
+        },
+        {
+          "code": "EALC 426",
+          "title": "Classical Japanese",
+          "units": 4.0,
+          "source_line": "- EALC 426 Classical Japanese Units: 4"
+        },
+        {
+          "code": "EALC 428",
+          "title": "Nature and the Ecological Imagination in Japanese Literature",
+          "units": 4.0,
+          "source_line": "- EALC 428 Nature and the Ecological Imagination in Japanese Literature Units: 4"
+        },
+        {
+          "code": "EALC 430",
+          "title": "Gender and Sexuality in Korean Literature and Culture",
+          "units": 4.0,
+          "source_line": "- EALC 430 Gender and Sexuality in Korean Literature and Culture Units: 4"
+        },
+        {
+          "code": "EALC 435",
+          "title": "Ethnic Identity and Minority Politics in China",
+          "units": 4.0,
+          "source_line": "- EALC 435 Ethnic Identity and Minority Politics in China Units: 4"
+        },
+        {
+          "code": "EALC 438",
+          "title": "The Tale of Genji and its Worlds",
+          "units": 4.0,
+          "source_line": "- EALC 438 The Tale of Genji and its Worlds Units: 4"
+        },
+        {
+          "code": "EALC 450",
+          "title": "Contemporary Japanese Literature and Global Modernity",
+          "units": 4.0,
+          "source_line": "- EALC 450 Contemporary Japanese Literature and Global Modernity Units: 4"
+        },
+        {
+          "code": "EALC 452",
+          "title": "Chinese Fiction",
+          "units": 4.0,
+          "source_line": "- EALC 452 Chinese Fiction Units: 4"
+        },
+        {
+          "code": "EALC 455",
+          "title": "Japanese Fiction",
+          "units": 4.0,
+          "source_line": "- EALC 455 Japanese Fiction Units: 4"
+        },
+        {
+          "code": "EALC 460",
+          "title": "Love, Self and Gender in Japanese Literature",
+          "units": 4.0,
+          "source_line": "- EALC 460 Love, Self and Gender in Japanese Literature Units: 4"
+        },
+        {
+          "code": "EALC 465",
+          "title": "Topics in Korean Visual and Cultural Studies",
+          "units": 4.0,
+          "source_line": "- EALC 465 Topics in Korean Visual and Cultural Studies Units: 4"
+        },
+        {
+          "code": "EALC 475",
+          "title": "Topics in Chinese Photography",
+          "units": 4.0,
+          "source_line": "- EALC 475 Topics in Chinese Photography Units: 4"
+        },
+        {
+          "code": "EALC 485",
+          "title": "Material Culture of the Silk Road",
+          "units": 4.0,
+          "source_line": "- EALC 485 Material Culture of the Silk Road Units: 4"
+        },
+        {
+          "code": "EALC 489",
+          "title": "The Mongol Era in China: Genghis Khan, Khubilai, Marco Polo",
+          "units": 4.0,
+          "source_line": "- EALC 489 The Mongol Era in China: Genghis Khan, Khubilai, Marco Polo Units: 4"
+        },
+        {
+          "code": "EALC 499",
+          "title": "Special Topics , 3, 4",
+          "units": 2.0,
+          "source_line": "- EALC 499 Special Topics Units: 2, 3, 4"
+        },
+        {
+          "code": "EALC 304",
+          "title": "Advanced Modern Chinese I",
+          "units": 4.0,
+          "source_line": "- EALC 304 Advanced Modern Chinese I Units: 4"
+        },
+        {
+          "code": "EALC 306",
+          "title": "Advanced Modern Chinese II",
+          "units": 4.0,
+          "source_line": "- EALC 306 Advanced Modern Chinese II Units: 4"
+        },
+        {
+          "code": "EALC 315",
+          "title": "Advanced Korean I",
+          "units": 4.0,
+          "source_line": "- EALC 315 Advanced Korean I Units: 4"
+        },
+        {
+          "code": "EALC 317",
+          "title": "Advanced Korean II",
+          "units": 4.0,
+          "source_line": "- EALC 317 Advanced Korean II Units: 4"
+        },
+        {
+          "code": "EALC 320",
+          "title": "Advanced Japanese I",
+          "units": 4.0,
+          "source_line": "- EALC 320 Advanced Japanese I Units: 4"
+        },
+        {
+          "code": "EALC 322",
+          "title": "Advanced Japanese II",
+          "units": 4.0,
+          "source_line": "- EALC 322 Advanced Japanese II Units: 4"
+        },
+        {
+          "code": "EALC 404",
+          "title": "Advanced Modern Chinese III",
+          "units": 4.0,
+          "source_line": "- EALC 404 Advanced Modern Chinese III Units: 4"
+        },
+        {
+          "code": "EALC 406",
+          "title": "Advanced Modern Chinese IV",
+          "units": 4.0,
+          "source_line": "- EALC 406 Advanced Modern Chinese IV Units: 4"
+        },
+        {
+          "code": "EALC 407",
+          "title": "News and Web Chinese",
+          "units": 4.0,
+          "source_line": "- EALC 407 News and Web Chinese Units: 4"
+        },
+        {
+          "code": "EALC 409",
+          "title": "Chinese Through Literary Works and Texts",
+          "units": 4.0,
+          "source_line": "- EALC 409 Chinese Through Literary Works and Texts Units: 4"
+        },
+        {
+          "code": "EALC 413",
+          "title": "Business Japanese",
+          "units": 4.0,
+          "source_line": "- EALC 413 Business Japanese Units: 4"
+        },
+        {
+          "code": "EALC 415",
+          "title": "Advanced Korean III",
+          "units": 4.0,
+          "source_line": "- EALC 415 Advanced Korean III Units: 4"
+        },
+        {
+          "code": "EALC 417",
+          "title": "Advanced Korean IV",
+          "units": 4.0,
+          "source_line": "- EALC 417 Advanced Korean IV Units: 4"
+        },
+        {
+          "code": "EALC 418",
+          "title": "Korean Multiliteracy in Contemporary Contexts",
+          "units": 4.0,
+          "source_line": "- EALC 418 Korean Multiliteracy in Contemporary Contexts Units: 4"
+        },
+        {
+          "code": "EALC 419",
+          "title": "Korean Language Through Modern Media",
+          "units": 4.0,
+          "source_line": "- EALC 419 Korean Language Through Modern Media Units: 4"
+        },
+        {
+          "code": "EALC 422",
+          "title": "Advanced Japanese III",
+          "units": 4.0,
+          "source_line": "- EALC 422 Advanced Japanese III Units: 4"
+        },
+        {
+          "code": "EALC 424",
+          "title": "Advanced Japanese IV",
+          "units": 4.0,
+          "source_line": "- EALC 424 Advanced Japanese IV Units: 4"
+        },
+        {
+          "code": "EALC 440",
+          "title": "Current Topics in Japanese",
+          "units": 4.0,
+          "source_line": "- EALC 440 Current Topics in Japanese Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Our faculty teach new courses every year. Please check the department’s Schedule of Classes to see the full range of courses. EALC 324gw , EALC 340gp , EALC 342gp , EALC 350gp and EALC 382 may count as an elective if not taken to satisfy the Cultural Studies course requirement. One upper-division course on East Asian culture from another department may likewise count toward the minor with an adviser’s approval.",
+          "source_line": "Our faculty teach new courses every year. Please check the department’s Schedule of Classes to see the full range of courses. EALC 324gw , EALC 340gp , EALC 342gp , EALC 350gp and EALC 382 may count as an elective if not taken to satisfy the Cultural Studies course requirement. One upper-division course on East Asian culture from another department may likewise count toward the minor with an adviser’s approval."
+        },
+        {
+          "text": "Upper-Division Language Electives",
+          "source_line": "- Upper-Division Language Electives"
+        },
+        {
+          "text": "Up to two third- or fourth-year language courses (8 units maximum) may be used to satisfy 8 units of upper-division electives.",
+          "source_line": "  Up to two third- or fourth-year language courses (8 units maximum) may be used to satisfy 8 units of upper-division electives."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

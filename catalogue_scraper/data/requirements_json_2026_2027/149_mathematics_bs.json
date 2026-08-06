@@ -1,0 +1,208 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Mathematics (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31853",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31853&returnto=9396",
+    "source_text_file": "149_mathematics_bs.txt",
+    "source_content_sha256": "a5c62b4cbba060bcf05c4867fb58150951709e2be473d7f27967129eb640ae0a",
+    "retrieved_at": "2026-07-31T00:55:42Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The courses must be at least 3 units each, and MATH 450 is excluded.",
+      "Students contemplating a graduate degree in Mathematics are advised to take one or more of the following:\n\n- MATH 435 Introduction to Differential Geometry Units: 4 or\n- MATH 440 Topology Units: 4 or\n- MATH 475 Introduction to Theory of Complex Variables Units: 4\n\n## Science Electives\n\n---\n\nA minimum of 16 units are required, selected in consultation with an adviser, from any course in ASTR, BISC, CHEM, GEOL, HBIO, QBIO, PHYS and CSCI that is acceptable for the Bachelor of Science degree in its respective department."
+    ],
+    "course_entry_count": 19,
+    "distinct_course_codes": 19,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "Pre-major Requirements:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II  or",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4 or"
+        },
+        {
+          "code": "MATH 127",
+          "title": "Enhanced Calculus II  or",
+          "units": 4.0,
+          "source_line": "- MATH 127 Enhanced Calculus II Units: 4 or"
+        },
+        {
+          "code": "MATH 129",
+          "title": "Calculus II for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 129 Calculus II for Engineers and Scientists Units: 4"
+        },
+        {
+          "code": "MATH 225",
+          "title": "Linear Algebra and Linear Differential Equations  or",
+          "units": 4.0,
+          "source_line": "- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or"
+        },
+        {
+          "code": "MATH 235",
+          "title": "Linear Algebra and Applications",
+          "units": 4.0,
+          "source_line": "- MATH 235 Linear Algebra and Applications Units: 4"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III  or",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4 or"
+        },
+        {
+          "code": "MATH 227",
+          "title": "Enhanced Calculus III  or",
+          "units": 4.0,
+          "source_line": "- MATH 227 Enhanced Calculus III Units: 4 or"
+        },
+        {
+          "code": "MATH 229",
+          "title": "Calculus III for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 229 Calculus III for Engineers and Scientists Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective in Logical Reasoning",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MATH 290",
+          "title": "Mathematical Reasoning and Problem Solving  or",
+          "units": 4.0,
+          "source_line": "- MATH 290 Mathematical Reasoning and Problem Solving Units: 4 or"
+        },
+        {
+          "code": "MATH 430",
+          "title": "Theory of Numbers  or",
+          "units": 4.0,
+          "source_line": "- MATH 430 Theory of Numbers Units: 4 or"
+        },
+        {
+          "code": "MATH 432",
+          "title": "Applied Combinatorics",
+          "units": 4.0,
+          "source_line": "- MATH 432 Applied Combinatorics Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "A course taken to satisfy this requirement may not also be used as an upper-division elective. Choose one:",
+          "source_line": "A course taken to satisfy this requirement may not also be used as an upper-division elective. Choose one:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "A course taken to satisfy this requirement may not also be used as an upper-division elective. Choose one:",
+      "total_units": null
+    },
+    {
+      "title": "Upper-division Math Requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MATH 410",
+          "title": "Fundamental Concepts of Modern Algebra  and",
+          "units": 4.0,
+          "source_line": "- MATH 410 Fundamental Concepts of Modern Algebra Units: 4 and"
+        },
+        {
+          "code": "MATH 425a",
+          "title": "Fundamental Concepts of Analysis  and",
+          "units": 4.0,
+          "source_line": "- MATH 425a Fundamental Concepts of Analysis Units: 4 and"
+        },
+        {
+          "code": "MATH 425b",
+          "title": "Fundamental Concepts of Analysis  and",
+          "units": 4.0,
+          "source_line": "- MATH 425b Fundamental Concepts of Analysis Units: 4 and"
+        },
+        {
+          "code": "MATH 471",
+          "title": "Topics in Linear Algebra",
+          "units": 4.0,
+          "source_line": "- MATH 471 Topics in Linear Algebra Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "The following four courses are required with a grade of C or better:",
+          "source_line": "The following four courses are required with a grade of C or better:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-division Math Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MATH 435",
+          "title": "Introduction to Differential Geometry  or",
+          "units": 4.0,
+          "source_line": "- MATH 435 Introduction to Differential Geometry Units: 4 or"
+        },
+        {
+          "code": "MATH 440",
+          "title": "Topology  or",
+          "units": 4.0,
+          "source_line": "- MATH 440 Topology Units: 4 or"
+        },
+        {
+          "code": "MATH 475",
+          "title": "Introduction to Theory of Complex Variables",
+          "units": 4.0,
+          "source_line": "- MATH 475 Introduction to Theory of Complex Variables Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Four MATH courses are required at the 400-level or above. The courses must be at least 3 units each, and MATH 450 is excluded. Students contemplating a graduate degree in Mathematics are advised to take one or more of the following:",
+          "source_line": "Four MATH courses are required at the 400-level or above. The courses must be at least 3 units each, and MATH 450 is excluded. Students contemplating a graduate degree in Mathematics are advised to take one or more of the following:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Science Electives",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minimum of 16 units are required, selected in consultation with an adviser, from any course in ASTR, BISC, CHEM, GEOL, HBIO, QBIO, PHYS and CSCI that is acceptable for the Bachelor of Science degree in its respective department. At least one of these courses must be upper-division.",
+          "source_line": "A minimum of 16 units are required, selected in consultation with an adviser, from any course in ASTR, BISC, CHEM, GEOL, HBIO, QBIO, PHYS and CSCI that is acceptable for the Bachelor of Science degree in its respective department. At least one of these courses must be upper-division."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

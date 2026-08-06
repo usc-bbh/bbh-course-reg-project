@@ -1,0 +1,155 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Environmental Chemistry and Sustainability Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31741",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31741&returnto=9396",
+    "source_text_file": "298_environmental_chemistry_and_sustainability_minor.txt",
+    "source_content_sha256": "84f11132dcfd6b39fbd90a211ae01c35ba2f871b0c4770a13fc0fa4c76996c77",
+    "retrieved_at": "2026-07-31T01:02:20Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 12,
+    "distinct_course_codes": 12,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The environmental chemistry and sustainability minor is designed for students majoring in business, engineering, law, communications and other professional fields to give them the knowledge of chemistry needed to understand, formulate and manage scientific issues related to natural environmental processes as well as technologies involving the environment.",
+          "source_line": "The environmental chemistry and sustainability minor is designed for students majoring in business, engineering, law, communications and other professional fields to give them the knowledge of chemistry needed to understand, formulate and manage scientific issues related to natural environmental processes as well as technologies involving the environment."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses, Lower-Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CHEM 105aLg",
+          "title": "General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 105aLg General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 105bL",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105bL General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 115aLg",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115aLg Advanced General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 115bL",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115bL Advanced General Chemistry Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses, Upper-Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CHEM 300L",
+          "title": "Analytical Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 300L Analytical Chemistry Units: 4"
+        },
+        {
+          "code": "ENST 320a",
+          "title": "Water and Soil Sustainability; Energy and Air Sustainability",
+          "units": 4.0,
+          "source_line": "- ENST 320a Water and Soil Sustainability; Energy and Air Sustainability Units: 4"
+        },
+        {
+          "code": "ENST 320b",
+          "title": "Water and Soil Sustainability; Energy and Air Sustainability",
+          "units": 4.0,
+          "source_line": "- ENST 320b Water and Soil Sustainability; Energy and Air Sustainability Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One Elective Course Chosen From:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CHEM 322aL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 322aL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "BISC 315L",
+          "title": "Introduction to Ecology  *",
+          "units": 4.0,
+          "source_line": "- BISC 315L Introduction to Ecology Units: 4 *"
+        },
+        {
+          "code": "BISC 419L",
+          "title": "Microbiology for a Sustainable Future  *",
+          "units": 4.0,
+          "source_line": "- BISC 419L Microbiology for a Sustainable Future Units: 4 *"
+        },
+        {
+          "code": "BISC 427",
+          "title": "The Global Environment  *",
+          "units": 4.0,
+          "source_line": "- BISC 427 The Global Environment Units: 4 *"
+        },
+        {
+          "code": "GEOL 412",
+          "title": "Oceans, Climate, and the Environment  **",
+          "units": 4.0,
+          "source_line": "- GEOL 412 Oceans, Climate, and the Environment Units: 4 **"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Prerequisite required",
+          "source_line": "*Prerequisite required"
+        },
+        {
+          "text": "*Corequisite required",
+          "source_line": "**Corequisite required"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

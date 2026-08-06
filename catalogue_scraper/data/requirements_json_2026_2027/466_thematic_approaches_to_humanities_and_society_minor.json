@@ -1,0 +1,512 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Thematic Approaches to Humanities and Society Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31946",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31946&returnto=9396",
+    "source_text_file": "466_thematic_approaches_to_humanities_and_society_minor.txt",
+    "source_content_sha256": "45953fe86a08ff92aee57cfe3099b612bea7ae9935d4caf1febd1f8321f20ad1",
+    "retrieved_at": "2026-07-31T01:14:14Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Requirements, Lower-Division (Choose One, 4 Units)\n\n---\n\n- CLAS 150gp The Greeks and their Legacies Units: 4\n- CLAS 151gp The Legacy of Rome Units: 4\n- CORE 102gp Culture and Values: Thematic Option Honors Program Units: 4\n- HIST 101gp State and Society in the Ancient World Units: 4\n- HIST 102gm The Worlds of Medieval Europe Units: 4\n- REL 132g Origins of Western Religions Units: 4\n\n## Course Requirements (6 Units)\n\n---\n\n- CORE 200 Liberal Arts Reading Salon Units: 2\n- CORE 301 Modes of Inquiry Units: 4\n\n## Requirements, Upper-Division (16 Units)\n\n---\n\nEnroll in four of the following, at least one from List A, one from List B and not more than one from List C."
+    ],
+    "course_entry_count": 61,
+    "distinct_course_codes": 61,
+    "section_count": 12
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The interdisciplinary minor in Thematic Approaches to Humanities and Society allows students to examine a range of thematic and theoretical approaches to understanding culture and society from multiple standpoints in the humanities. The minor is rich in course and schedule options, enabling students with an interest in the humanities to continue their studies. It also includes co-curricular events and advisement from Thematic Option staff. Thematic approaches to humanities and society builds on the intellectual community developed in the Thematic Option honors program and is open to all interested students.",
+          "source_line": "The interdisciplinary minor in Thematic Approaches to Humanities and Society allows students to examine a range of thematic and theoretical approaches to understanding culture and society from multiple standpoints in the humanities. The minor is rich in course and schedule options, enabling students with an interest in the humanities to continue their studies. It also includes co-curricular events and advisement from Thematic Option staff. Thematic approaches to humanities and society builds on the intellectual community developed in the Thematic Option honors program and is open to all interested students."
+        },
+        {
+          "text": "The minor focuses on themes such as interdisciplinary perspectives and modes of inquiry; approaches to criticism and history; reification, ideology, contextualization; and knowledge, human diversity and social relations. Students choose six 4-unit classes, including one lower-division elective, one upper-division Thematic Option class (CORE 301 Modes of Inquiry ), and four upper-division electives. Students also complete a 2-unit reading salon (CORE 200 Liberal Arts Reading Salon ).",
+          "source_line": "The minor focuses on themes such as interdisciplinary perspectives and modes of inquiry; approaches to criticism and history; reification, ideology, contextualization; and knowledge, human diversity and social relations. Students choose six 4-unit classes, including one lower-division elective, one upper-division Thematic Option class (CORE 301 Modes of Inquiry ), and four upper-division electives. Students also complete a 2-unit reading salon (CORE 200 Liberal Arts Reading Salon ).",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "The minor focuses on themes such as interdisciplinary perspectives and modes of inquiry; approaches to criticism and history; reification, ideology, contextualization; and knowledge, human diversity and social relations. Students choose six 4-unit classes, including one lower-division elective, one upper-division Thematic Option class (CORE 301 Modes of Inquiry ), and four upper-division electives. Students also complete a 2-unit reading salon (CORE 200 Liberal Arts Reading Salon ).",
+      "total_units": null
+    },
+    {
+      "title": "Requirements, Lower-Division (Choose One, 4 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CLAS 150gp",
+          "title": "The Greeks and their Legacies",
+          "units": 4.0,
+          "source_line": "- CLAS 150gp The Greeks and their Legacies Units: 4"
+        },
+        {
+          "code": "CLAS 151gp",
+          "title": "The Legacy of Rome",
+          "units": 4.0,
+          "source_line": "- CLAS 151gp The Legacy of Rome Units: 4"
+        },
+        {
+          "code": "CORE 102gp",
+          "title": "Culture and Values: Thematic Option Honors Program",
+          "units": 4.0,
+          "source_line": "- CORE 102gp Culture and Values: Thematic Option Honors Program Units: 4"
+        },
+        {
+          "code": "HIST 101gp",
+          "title": "State and Society in the Ancient World",
+          "units": 4.0,
+          "source_line": "- HIST 101gp State and Society in the Ancient World Units: 4"
+        },
+        {
+          "code": "HIST 102gm",
+          "title": "The Worlds of Medieval Europe",
+          "units": 4.0,
+          "source_line": "- HIST 102gm The Worlds of Medieval Europe Units: 4"
+        },
+        {
+          "code": "REL 132g",
+          "title": "Origins of Western Religions",
+          "units": 4.0,
+          "source_line": "- REL 132g Origins of Western Religions Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Course Requirements (6 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CORE 200",
+          "title": "Liberal Arts Reading Salon",
+          "units": 2.0,
+          "source_line": "- CORE 200 Liberal Arts Reading Salon Units: 2"
+        },
+        {
+          "code": "CORE 301",
+          "title": "Modes of Inquiry",
+          "units": 4.0,
+          "source_line": "- CORE 301 Modes of Inquiry Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Requirements, Upper-Division (16 Units)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Enroll in four of the following, at least one from List A, one from List B and not more than one from List C. Not more than two may come from any one department. Courses must be chosen in consultation with a Thematic Option adviser.",
+          "source_line": "Enroll in four of the following, at least one from List A, one from List B and not more than one from List C. Not more than two may come from any one department. Courses must be chosen in consultation with a Thematic Option adviser."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "List A",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Early:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "CLAS 310",
+          "title": "Pagans and Christians",
+          "units": 4.0,
+          "source_line": "- CLAS 310 Pagans and Christians Units: 4"
+        },
+        {
+          "code": "CLAS 320gmp",
+          "title": "Diversity and the Classical Western Tradition",
+          "units": 4.0,
+          "source_line": "- CLAS 320gmp Diversity and the Classical Western Tradition Units: 4"
+        },
+        {
+          "code": "CLAS 333",
+          "title": "Cult and City in Ancient Greece",
+          "units": 4.0,
+          "source_line": "- CLAS 333 Cult and City in Ancient Greece Units: 4"
+        },
+        {
+          "code": "CLAS 470",
+          "title": "Democracies Ancient and Modern",
+          "units": 4.0,
+          "source_line": "- CLAS 470 Democracies Ancient and Modern Units: 4"
+        },
+        {
+          "code": "EALC 340gp",
+          "title": "Japanese Civilization",
+          "units": 4.0,
+          "source_line": "- EALC 340gp Japanese Civilization Units: 4"
+        },
+        {
+          "code": "EALC 345",
+          "title": "Korean Civilization",
+          "units": 4.0,
+          "source_line": "- EALC 345 Korean Civilization Units: 4"
+        },
+        {
+          "code": "EALC 350gp",
+          "title": "Chinese Civilization",
+          "units": 4.0,
+          "source_line": "- EALC 350gp Chinese Civilization Units: 4"
+        },
+        {
+          "code": "EALC 355",
+          "title": "Studies in Chinese Thought",
+          "units": 4.0,
+          "source_line": "- EALC 355 Studies in Chinese Thought Units: 4"
+        },
+        {
+          "code": "EALC 365",
+          "title": "Studies in Japanese Thought",
+          "units": 4.0,
+          "source_line": "- EALC 365 Studies in Japanese Thought Units: 4"
+        },
+        {
+          "code": "REL 311g",
+          "title": "The Bible in Western Literature",
+          "units": 4.0,
+          "source_line": "- REL 311g The Bible in Western Literature Units: 4"
+        },
+        {
+          "code": "REL 315",
+          "title": "Thought and Life of Islam",
+          "units": 4.0,
+          "source_line": "- REL 315 Thought and Life of Islam Units: 4"
+        },
+        {
+          "code": "REL 317g",
+          "title": "The Bible in Its Ancient Context",
+          "units": 4.0,
+          "source_line": "- REL 317g The Bible in Its Ancient Context Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Modern:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "COLT 426",
+          "title": "Utopias",
+          "units": 4.0,
+          "source_line": "- COLT 426 Utopias Units: 4"
+        },
+        {
+          "code": "COLT 445",
+          "title": "Europe and the Writing of Others",
+          "units": 4.0,
+          "source_line": "- COLT 445 Europe and the Writing of Others Units: 4"
+        },
+        {
+          "code": "EALC 332",
+          "title": "Modern Korean Literature in Translation",
+          "units": 4.0,
+          "source_line": "- EALC 332 Modern Korean Literature in Translation Units: 4"
+        },
+        {
+          "code": "EALC 335m",
+          "title": "Korean American Literature",
+          "units": 4.0,
+          "source_line": "- EALC 335m Korean American Literature Units: 4"
+        },
+        {
+          "code": "EALC 342gp",
+          "title": "Japanese Literature and Culture",
+          "units": 4.0,
+          "source_line": "- EALC 342gp Japanese Literature and Culture Units: 4"
+        },
+        {
+          "code": "EALC 352g",
+          "title": "Chinese Literature and Culture",
+          "units": 4.0,
+          "source_line": "- EALC 352g Chinese Literature and Culture Units: 4"
+        },
+        {
+          "code": "EALC 354g",
+          "title": "Modern Chinese Literature in Translation",
+          "units": 4.0,
+          "source_line": "- EALC 354g Modern Chinese Literature in Translation Units: 4"
+        },
+        {
+          "code": "FREN 446",
+          "title": "Contemporary French Thought",
+          "units": 4.0,
+          "source_line": "- FREN 446 Contemporary French Thought Units: 4"
+        },
+        {
+          "code": "GERM 370",
+          "title": "Literature and Culture in Vienna at the Turn of the Century",
+          "units": 4.0,
+          "source_line": "- GERM 370 Literature and Culture in Vienna at the Turn of the Century Units: 4"
+        },
+        {
+          "code": "GERM 372g",
+          "title": "Literature and Culture in Berlin in the 1920s",
+          "units": 4.0,
+          "source_line": "- GERM 372g Literature and Culture in Berlin in the 1920s Units: 4"
+        },
+        {
+          "code": "PHIL 337",
+          "title": "Political Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 337 Political Philosophy Units: 4"
+        },
+        {
+          "code": "PHIL 437",
+          "title": "Social and Political Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 437 Social and Political Philosophy Units: 4"
+        },
+        {
+          "code": "REL 340",
+          "title": "Introduction to Indian Philosophy",
+          "units": 4.0,
+          "source_line": "- REL 340 Introduction to Indian Philosophy Units: 4"
+        },
+        {
+          "code": "SLL 330gp",
+          "title": "Russian Thought and Civilization",
+          "units": 4.0,
+          "source_line": "- SLL 330gp Russian Thought and Civilization Units: 4"
+        },
+        {
+          "code": "SLL 344g",
+          "title": "Tolstoy: Writer and Moralist",
+          "units": 4.0,
+          "source_line": "- SLL 344g Tolstoy: Writer and Moralist Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "List B",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Humanities and Society:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "COLT 448",
+          "title": "Multilingual Encounters",
+          "units": 4.0,
+          "source_line": "- COLT 448 Multilingual Encounters Units: 4"
+        },
+        {
+          "code": "COLT 475",
+          "title": "Politics and the Novel",
+          "units": 4.0,
+          "source_line": "- COLT 475 Politics and the Novel Units: 4"
+        },
+        {
+          "code": "ENGL 373g",
+          "title": "Literature and Society",
+          "units": 4.0,
+          "source_line": "- ENGL 373g Literature and Society Units: 4"
+        },
+        {
+          "code": "ENGL 374m",
+          "title": "Literature, Nationality and Otherness",
+          "units": 4.0,
+          "source_line": "- ENGL 374m Literature, Nationality and Otherness Units: 4"
+        },
+        {
+          "code": "FREN 370gm",
+          "title": "Equality and Difference around the Enlightenment",
+          "units": 4.0,
+          "source_line": "- FREN 370gm Equality and Difference around the Enlightenment Units: 4"
+        },
+        {
+          "code": "REL 366",
+          "title": "Religion and Social Change",
+          "units": 4.0,
+          "source_line": "- REL 366 Religion and Social Change Units: 4"
+        },
+        {
+          "code": "REL 462",
+          "title": "Religion and Violence",
+          "units": 4.0,
+          "source_line": "- REL 462 Religion and Violence Units: 4"
+        },
+        {
+          "code": "SLL 345g",
+          "title": "Literature and Philosophy: Dostoevsky",
+          "units": 4.0,
+          "source_line": "- SLL 345g Literature and Philosophy: Dostoevsky Units: 4"
+        },
+        {
+          "code": "SLL 348g",
+          "title": "The Novels of Vladimir Nabokov",
+          "units": 4.0,
+          "source_line": "- SLL 348g The Novels of Vladimir Nabokov Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Critical Approaches:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "CLAS 380",
+          "title": "Approaches to Myth",
+          "units": 4.0,
+          "source_line": "- CLAS 380 Approaches to Myth Units: 4"
+        },
+        {
+          "code": "COLT 391",
+          "title": "Literary Criticism from Plato to Postmodernism",
+          "units": 4.0,
+          "source_line": "- COLT 391 Literary Criticism from Plato to Postmodernism Units: 4"
+        },
+        {
+          "code": "COLT 454",
+          "title": "Aesthetic Philosophy and Theory",
+          "units": 4.0,
+          "source_line": "- COLT 454 Aesthetic Philosophy and Theory Units: 4"
+        },
+        {
+          "code": "ENGL 372",
+          "title": "Literature and Related Arts",
+          "units": 4.0,
+          "source_line": "- ENGL 372 Literature and Related Arts Units: 4"
+        },
+        {
+          "code": "ENGL 379",
+          "title": "History of Literary Criticism",
+          "units": 4.0,
+          "source_line": "- ENGL 379 History of Literary Criticism Units: 4"
+        },
+        {
+          "code": "ENGL 380",
+          "title": "Modern Literary Criticism: Theory and Practice",
+          "units": 4.0,
+          "source_line": "- ENGL 380 Modern Literary Criticism: Theory and Practice Units: 4"
+        },
+        {
+          "code": "LING 466",
+          "title": "Word and Phrase Origins",
+          "units": 4.0,
+          "source_line": "- LING 466 Word and Phrase Origins Units: 4"
+        },
+        {
+          "code": "PHIL 361",
+          "title": "Philosophy of Religion",
+          "units": 4.0,
+          "source_line": "- PHIL 361 Philosophy of Religion Units: 4"
+        },
+        {
+          "code": "PHIL 445",
+          "title": "Philosophy of the Arts",
+          "units": 4.0,
+          "source_line": "- PHIL 445 Philosophy of the Arts Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "List C",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Social Science Approaches:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "ANTH 372",
+          "title": "Interpretation of Myth and Narrative",
+          "units": 4.0,
+          "source_line": "- ANTH 372 Interpretation of Myth and Narrative Units: 4"
+        },
+        {
+          "code": "HIST 201",
+          "title": "Approaches to History",
+          "units": 4.0,
+          "source_line": "- HIST 201 Approaches to History Units: 4"
+        },
+        {
+          "code": "HIST 329",
+          "title": "Madness and Society in the Modern Age",
+          "units": 4.0,
+          "source_line": "- HIST 329 Madness and Society in the Modern Age Units: 4"
+        },
+        {
+          "code": "IR 325",
+          "title": "North-South Relations in the Global Economy",
+          "units": 4.0,
+          "source_line": "- IR 325 North-South Relations in the Global Economy Units: 4"
+        },
+        {
+          "code": "POSC 381",
+          "title": "Sex, Power, and Politics",
+          "units": 4.0,
+          "source_line": "- POSC 381 Sex, Power, and Politics Units: 4"
+        },
+        {
+          "code": "POSC 476",
+          "title": "Contemporary Political Thought",
+          "units": 4.0,
+          "source_line": "- POSC 476 Contemporary Political Thought Units: 4"
+        },
+        {
+          "code": "SOCI 350",
+          "title": "Social Exclusion, Social Power and Deviance",
+          "units": 4.0,
+          "source_line": "- SOCI 350 Social Exclusion, Social Power and Deviance Units: 4"
+        },
+        {
+          "code": "SOCI 360m",
+          "title": "Social Inequality: Class, Status and Power",
+          "units": 4.0,
+          "source_line": "- SOCI 360m Social Inequality: Class, Status and Power Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

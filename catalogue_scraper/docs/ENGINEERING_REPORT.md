@@ -10,11 +10,11 @@ the wrong plain-text output · **Scope found:** 158 of 470 output files (33.6%)
 
 | Item | Location |
 | --- | --- |
-| **Canonical scraper source** (the one repaired) | `~/Desktop/DEEP_WORK /BBH/DELIVERABLE_1/USC Complete Scrape/USC Complete Collector.app/Contents/Resources/scraper` |
-| Git-tracked working copy used for the repair | `~/Desktop/USC Scraper Incident Fix/04_fixed_app/USC Complete Collector.app/…/scraper` |
+| **Canonical scraper source** (the one repaired) | `(local build folder)/USC Complete Scrape/USC Complete Collector.app/Contents/Resources/scraper` |
+| Git-tracked working copy used for the repair | `04_fixed_app/USC Complete Collector.app/…/scraper` |
 | Majors output that contains the defect (207 files) | `…/DELIVERABLE_1/OTHER STUFF/MAJOR STUFF/usc_undergraduate_catalogue_2026_2027` |
 | Minors output (263 files) | `…/DELIVERABLE_1/OTHER STUFF/USC Minors Text Files/usc_minors_catalogue_2026_2027` |
-| Preserved read-only baseline of both | `~/Desktop/USC Scraper Incident Fix/01_baseline/` |
+| Preserved read-only baseline of both | `(preserved baseline, not in repo)/` |
 
 **Why this is the right repository.** Three `.app` bundles exist, each with its
 own embedded copy of the same Python package `usc_catalog_scraper`:
@@ -106,7 +106,7 @@ scores close to — and on some pages above — the true content region, despite
 −30 body penalty and a +50 bonus for acalog regions.
 
 Reproduced live against catalogue.usc.edu with the shipping code
-(`02_evidence/reproduce_container_defect.py`, snapshots retained):
+(`catalogue_scraper/tools/reproduce_container_defect.py`, snapshots retained):
 
 | Page | `td.block_content` (true content) | `<body>` (whole page) | Winner | Output |
 | --- | --- | --- | --- | --- |
@@ -150,12 +150,12 @@ clean run, because from their point of view it was one.
 
 | Evidence | Location |
 | --- | --- |
-| Live reproduction with candidate scores | `02_evidence/reproduce_container_defect.py` + terminal output |
-| Real page snapshots (5 pages, fetched 2026-07-30) | `02_evidence/snapshot_*.html` |
-| Broken vs good baseline pair | `02_evidence/BROKEN_107_baseline.txt`, `GOOD_106_baseline.txt` |
-| Full 470-file audit | `03_audit/scraper_output_audit.{csv,json,md}` |
-| Runtime analysis of the supplied sheet | `06_reports/RUNTIME_ANALYSIS.md` |
-| Fetch-log forensics (per-attempt mode/status/elapsed) | `01_baseline/*/fetch_log.csv` |
+| Live reproduction with candidate scores | `catalogue_scraper/tools/reproduce_container_defect.py` + terminal output |
+| Real page snapshots (5 pages, fetched 2026-07-30) | `catalogue_scraper/tools/snapshot_*.html` |
+| Broken vs good baseline pair | `catalogue_scraper/tools/BROKEN_107_baseline.txt`, `GOOD_106_baseline.txt` |
+| Full 470-file audit | `catalogue_scraper/tools/scraper_output_audit.{csv,json,md}` |
+| Runtime analysis of the supplied sheet | `catalogue_scraper/docs/RUNTIME_ANALYSIS.md` |
+| Fetch-log forensics (per-attempt mode/status/elapsed) | `(preserved baseline, not in repo)/*/fetch_log.csv` |
 | Regression tests pinning the defect | `tests/test_regression_incident_20260730.py` |
 
 ## 6. Full-corpus findings
@@ -201,8 +201,8 @@ Distribution — contamination tracks *content length*, not timing:
 ## 7. Every affected programme
 
 The full list of 158 files, with per-file evidence and excerpts, is in
-`03_audit/scraper_output_audit.csv` (filter `validation_status == FAIL`) and
-summarised in `03_audit/scraper_output_audit.md`. 36 majors and 122 minors.
+`catalogue_scraper/tools/scraper_output_audit.csv` (filter `validation_status == FAIL`) and
+summarised in `catalogue_scraper/tools/scraper_output_audit.md`. 36 majors and 122 minors.
 
 ## 8. Design of the fix
 
@@ -287,11 +287,10 @@ through.
 ## 11. Commands
 
 ```bash
-APP="$HOME/Desktop/USC Scraper Incident Fix/04_fixed_app/USC Complete Collector.app"
-S="$APP/Contents/Resources/scraper"
+S="catalogue_scraper"   # this module, from the repo root
 
 # run the fixed scraper (normal user workflow: just double-click the .app)
-open "$APP"
+open catalogue_scraper/macos_app/   # see macos_app/README for the .app wrapper
 
 # explicit CLI equivalent for the full 470-programme dataset
 "$S/.venv/bin/python" -m usc_catalog_scraper run --all-undergrad --resume \
@@ -300,7 +299,7 @@ open "$APP"
   --workdir "<output folder>"
 
 # validate any collection (full audit → CSV + JSON + MD)
-python3 "$HOME/Desktop/USC Scraper Incident Fix/03_audit/audit_corpus.py" \
+python3 catalogue_scraper/tools/audit_corpus.py \
   <report-out-dir> <collection-folder> [more-collection-folders...]
 
 # the app's own integrity audit (hashes, counts, indexes)
@@ -430,17 +429,17 @@ from the July baseline is a source-page edit rather than non-determinism.
 
 | Deliverable | Path |
 | --- | --- |
-| **Corrected complete output (470 files)** | `05_corrected_output/full/usc_undergrad_complete_catalogue_2026_2027/programs/` |
-| **Corrected 107** | `02_evidence/CORRECTED_107.txt` (also file 107 in the folder above) |
-| File-level audit (before / after) | `03_audit/before/` and `03_audit/after/scraper_output_audit.{csv,json,md}` |
-| Run manifest | `05_corrected_output/full/usc_undergrad_complete_catalogue_2026_2027/manifest.json` |
-| Failed / manual-review pages | `06_reports/FAILED_AND_REVIEW_PAGES.md` |
-| Debug artefacts (live page snapshots) | `02_evidence/snapshot_*.html` |
-| Preserved baseline | `01_baseline/` |
+| **Corrected complete output (470 files)** | `catalogue_scraper/data/usc_undergrad_complete_catalogue_2026_2027/programs/` |
+| **Corrected 107** | `catalogue_scraper/tools/CORRECTED_107.txt` (also file 107 in the folder above) |
+| File-level audit (before / after) | `catalogue_scraper/tools/before/` and `catalogue_scraper/tools/after/scraper_output_audit.{csv,json,md}` |
+| Run manifest | `catalogue_scraper/data/usc_undergrad_complete_catalogue_2026_2027/manifest.json` |
+| Failed / manual-review pages | `catalogue_scraper/docs/FAILED_AND_REVIEW_PAGES.md` |
+| Debug artefacts (live page snapshots) | `catalogue_scraper/tools/snapshot_*.html` |
+| Preserved baseline | `(preserved baseline, not in repo)/` |
 | Repaired app (git, 4 commits) | `04_fixed_app/USC Complete Collector.app` |
 
 The fix was also propagated into the three live apps under
-`~/Desktop/DEEP_WORK /BBH/DELIVERABLE_1/` (all compile and carry the guard); each
+`(local build folder)/` (all compile and carry the guard); each
 rebuilds its Python environment on next launch, which is pre-existing behaviour
 for a moved bundle.
 

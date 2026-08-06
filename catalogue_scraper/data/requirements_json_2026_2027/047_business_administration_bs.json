@@ -1,0 +1,275 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Business Administration (Finance) (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32694",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32694&returnto=9396",
+    "source_text_file": "047_business_administration_bs.txt",
+    "source_content_sha256": "6a9db0bb58c844c56e31acbd4c40a041d234044898948d53f8fbd9367e7f77a6",
+    "retrieved_at": "2026-07-31T00:50:41Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Composition/Writing Requirements (8 units)\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *\n- * Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BFIN majors.",
+      "## Emphasis Requirements\n\n---\n\nComplete 12 units of upper-division elective courses (300- or 400-level courses that are available for credit toward the major) offered by the Finance and Business Economics department (FBE)."
+    ],
+    "course_entry_count": 20,
+    "distinct_course_codes": 20,
+    "section_count": 7
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Science in Business Administration with an emphasis in Finance provides specialized skill sets for students wishing to work in finance industry. The degree signals to potential employers that the graduate is ready to perform complex tasks involving finance, economics and state-of-the-art computer modelling.",
+          "source_line": "The Bachelor of Science in Business Administration with an emphasis in Finance provides specialized skill sets for students wishing to work in finance industry. The degree signals to potential employers that the graduate is ready to perform complex tasks involving finance, economics and state-of-the-art computer modelling."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Requirements for Admission",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This program is available only to current Marshall and Leventhal undergraduates who satisfy the following three conditions: (1) have attained sophomore standing, (2) have completed at least one semester in residence at USC, and (3) have earned credit for the course BUAD 306 Business Finance or BUAD 308 Advanced Business Finance . Students who wish to transfer to this program should visit the Office of Undergraduate Advising and Student Affairs in the Marshall School of Business.",
+          "source_line": "This program is available only to current Marshall and Leventhal undergraduates who satisfy the following three conditions: (1) have attained sophomore standing, (2) have completed at least one semester in residence at USC, and (3) have earned credit for the course BUAD 306 Business Finance or BUAD 308 Advanced Business Finance . Students who wish to transfer to this program should visit the Office of Undergraduate Advising and Student Affairs in the Marshall School of Business."
+        },
+        {
+          "text": "Students may earn only one emphasis within the BS in Business Administration degree.",
+          "source_line": "Students may earn only one emphasis within the BS in Business Administration degree."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Requirements for Completion",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "To complete the program, students must satisfy all requirements for the Bachelor of Science degree in business administration including USC’s General Education requirements and at least 12 upper-division units in the area of emphasis.",
+          "source_line": "To complete the program, students must satisfy all requirements for the Bachelor of Science degree in business administration including USC’s General Education requirements and at least 12 upper-division units in the area of emphasis."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Composition/Writing Requirements (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement  *",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *"
+        }
+      ],
+      "notes": [
+        {
+          "text": "* Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BFIN majors.",
+          "source_line": "- * Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BFIN majors."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Business Core Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BUAD 280",
+          "title": "Introduction to Financial Accounting",
+          "units": 3.0,
+          "source_line": "- BUAD 280 Introduction to Financial Accounting Units: 3"
+        },
+        {
+          "code": "BUAD 281",
+          "title": "Introduction to Managerial Accounting",
+          "units": 3.0,
+          "source_line": "- BUAD 281 Introduction to Managerial Accounting Units: 3"
+        },
+        {
+          "code": "BUAD 302",
+          "title": "Communication Strategy in Business",
+          "units": 4.0,
+          "source_line": "- BUAD 302 Communication Strategy in Business Units: 4"
+        },
+        {
+          "code": "BUAD 304",
+          "title": "Organizational Behavior and Leadership",
+          "units": 4.0,
+          "source_line": "- BUAD 304 Organizational Behavior and Leadership Units: 4"
+        },
+        {
+          "code": "BUAD 306",
+          "title": "Business Finance",
+          "units": 4.0,
+          "source_line": "- BUAD 306 Business Finance Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 308",
+          "title": "Advanced Business Finance",
+          "units": 4.0,
+          "source_line": "- BUAD 308 Advanced Business Finance Units: 4"
+        },
+        {
+          "code": "BUAD 307",
+          "title": "Marketing Fundamentals",
+          "units": 4.0,
+          "source_line": "- BUAD 307 Marketing Fundamentals Units: 4"
+        },
+        {
+          "code": "BUAD 310g",
+          "title": "Applied Business Statistics",
+          "units": 4.0,
+          "source_line": "- BUAD 310g Applied Business Statistics Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 312g",
+          "title": "Statistics and Data Science for Business",
+          "units": 4.0,
+          "source_line": "- BUAD 312g Statistics and Data Science for Business Units: 4"
+        },
+        {
+          "code": "BUAD 311",
+          "title": "Operations Management",
+          "units": 4.0,
+          "source_line": "- BUAD 311 Operations Management Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 313",
+          "title": "Advanced Operations Management and Analytics",
+          "units": 4.0,
+          "source_line": "- BUAD 313 Advanced Operations Management and Analytics Units: 4"
+        },
+        {
+          "code": "BUAD 425",
+          "title": "Introduction to Business Analytics",
+          "units": 2.0,
+          "source_line": "- BUAD 425 Introduction to Business Analytics Units: 2",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 427",
+          "title": "Advanced Introduction to Business Analytics with AI",
+          "units": 2.0,
+          "source_line": "- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2"
+        },
+        {
+          "code": "BUAD 497",
+          "title": "Strategic Management",
+          "units": 4.0,
+          "source_line": "- BUAD 497 Strategic Management Units: 4"
+        },
+        {
+          "code": "ECON 351x",
+          "title": "Microeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 351x Microeconomics for Business Units: 4"
+        },
+        {
+          "code": "ECON 352x",
+          "title": "Macroeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 352x Macroeconomics for Business Units: 4"
+        },
+        {
+          "code": "MATH 118gx",
+          "title": "Calculus for Business and Economics  *",
+          "units": 4.0,
+          "source_line": "- MATH 118gx Calculus for Business and Economics Units: 4 *",
+          "alternative_follows": true
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I  **",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4 **"
+        }
+      ],
+      "notes": [
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Placement into MATH 118 gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher.",
+          "source_line": "*Placement into MATH 118 gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher."
+        },
+        {
+          "text": "*A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information.",
+          "source_line": "**A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Emphasis Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Complete 12 units of upper-division elective courses (300- or 400-level courses that are available for credit toward the major) offered by the Finance and Business Economics department (FBE). Note that MKT 333 (crosslisted as FBE 333) is applicable toward this emphasis.",
+          "source_line": "Complete 12 units of upper-division elective courses (300- or 400-level courses that are available for credit toward the major) offered by the Finance and Business Economics department (FBE). Note that MKT 333 (crosslisted as FBE 333) is applicable toward this emphasis."
+        },
+        {
+          "text": "Return to: USC Marshall School of Business",
+          "source_line": "Return to: USC Marshall School of Business"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

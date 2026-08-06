@@ -1,0 +1,403 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Biomedical Engineering (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32049",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32049&returnto=9396",
+    "source_text_file": "035_biomedical_engineering_bs.txt",
+    "source_content_sha256": "bf2a413ba0bd547d9bbb75ace67aa26af431b2ff8b6f0b1abe5c688455dc90a3",
+    "retrieved_at": "2026-07-31T00:50:14Z"
+  },
+  "totals": {
+    "stated_total_units": 128.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "The minimum requirement for the degree is 128 units.",
+      "## Composition/Writing Requirement\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4\n\n## General Education\n\n---\n\n- General education Units: 20\n\n## Pre-Major Requirements\n\n---\n\n### Math Requirement\n\n---\n\n- MATH 125g Calculus I Units: 4\n-\n- MATH 126g Calculus II Units: 4 or\n- MATH 129 Calculus II for Engineers and Scientists Units: 4\n-\n- MATH 226g Calculus III Units: 4 or\n- MATH 229 Calculus III for Engineers and Scientists Units: 4\n-\n- MATH 245 Mathematics of Physics and Engineering I Units: 4\n\n### Physics Requirement\n\n---\n\n- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4\n- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4\n\n### Chemistry Requirement\n\n---\n\n- CHEM 105aLg General Chemistry Units: 4 or\n- CHEM 115aLg Advanced General Chemistry Units: 4\n-\n- CHEM 105bL General Chemistry Units: 4 or\n- CHEM 115bL Advanced General Chemistry Units: 4\n\n## Major Requirements\n\n---\n\n### Biology\n\n---\n\n- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4\n-\n- BISC 312x Molecular Biochemistry Units: 4 or\n- BISC 320Lg Molecular Biology Units: 4 or\n- HBIO 301L Human Anatomy Units: 4\n\n### Organic Chemistry\n\n---\n\n- CHEM 322aL Organic Chemistry Units: 4\n- CHEM 322bL Organic Chemistry Units: 4\n- Note: CHEM 322bL may be replaced by 4 units of additional upper-division BME course work.",
+      "### Biomedical Engineering\n\n---\n\n- BME 101 Introduction to Biomedical Engineering Units: 4\n- BME 202 Control and Communication in the Nervous System Units: 4\n- BME 210 Biomedical Computer Simulation Methods Units: 4\n- BME 302L Medical Electronics Units: 4\n- BME 403L Physiological Systems Units: 4\n- BME 413 Bioengineering Signals and Systems Units: 4\n- BME 415 Regulation of Medical Products Units: 2\n- BME 423 Statistical and Data Science Methods in Biomedical Engineering Units: 4\n- BME 445aL Senior Design Project Units: 2\n- BME 445bL Senior Design Project Units: 2\n\n#### One course from the following:\n\n---\n\n- BME 404 Computational Neuromechanics Units: 4\n- BME 410L Stem Cells and Biomaterials for Tissue Engineering Units: 4\n- BME 430 Principles and Applications of Systems Biology Units: 4\n- BME 450 Introduction to Biosensors and Diagnostics Devices Units: 4\n- BME 451L Fundamentals of Biomedical Microdevices Units: 4\n\n### Electrical and Computer Engineering\n\n---\n\n- EE 202L Linear Circuits Units: 4\n\n## Electives\n\n---\n\n- Technical electives: Complete 10 units as needed to complete 128 approved program units."
+    ],
+    "course_entry_count": 36,
+    "distinct_course_codes": 36,
+    "section_count": 15
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Alfred E. Mann Department of Biomedical Engineering offers a Bachelor of Science degree in Biomedical Engineering. Additionally, there are three possible areas of emphasis within this biomedical engineering program major. These are electrical engineering, mechanical engineering, and molecular and cellular engineering. An area of emphasis appears in a special field on the transcript. The minimum requirement for the degree is 128 units. A cumulative grade point average of C (2.0) is required in all upper division courses applied toward the major, regardless of the department in which the courses are taken.",
+          "source_line": "The Alfred E. Mann Department of Biomedical Engineering offers a Bachelor of Science degree in Biomedical Engineering. Additionally, there are three possible areas of emphasis within this biomedical engineering program major. These are electrical engineering, mechanical engineering, and molecular and cellular engineering. An area of emphasis appears in a special field on the transcript. The minimum requirement for the degree is 128 units. A cumulative grade point average of C (2.0) is required in all upper division courses applied toward the major, regardless of the department in which the courses are taken."
+        },
+        {
+          "text": "See common requirements for undergraduate degrees .",
+          "source_line": "See common requirements for undergraduate degrees ."
+        },
+        {
+          "text": "Technical electives are to be selected from an approved list available in the department office.",
+          "source_line": "Technical electives are to be selected from an approved list available in the department office."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Composition/Writing Requirement",
+      "level": 2,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "General education Units: 20",
+          "source_line": "- General education Units: 20"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Pre-Major Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Math Requirement",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II  or",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4 or"
+        },
+        {
+          "code": "MATH 129",
+          "title": "Calculus II for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 129 Calculus II for Engineers and Scientists Units: 4"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III  or",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4 or"
+        },
+        {
+          "code": "MATH 229",
+          "title": "Calculus III for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 229 Calculus III for Engineers and Scientists Units: 4"
+        },
+        {
+          "code": "MATH 245",
+          "title": "Mathematics of Physics and Engineering I",
+          "units": 4.0,
+          "source_line": "- MATH 245 Mathematics of Physics and Engineering I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Physics Requirement",
+      "level": 3,
+      "courses": [
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4"
+        },
+        {
+          "code": "PHYS 152L",
+          "title": "Fundamentals of Physics II: Electricity and Magnetism",
+          "units": 4.0,
+          "source_line": "- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Chemistry Requirement",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CHEM 105aLg",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105aLg General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 115aLg",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115aLg Advanced General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 105bL",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105bL General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 115bL",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115bL Advanced General Chemistry Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Major Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Biology",
+      "level": 3,
+      "courses": [
+        {
+          "code": "BISC 220Lg",
+          "title": "General Biology: Cell Biology and Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4"
+        },
+        {
+          "code": "BISC 312x",
+          "title": "Molecular Biochemistry  or",
+          "units": 4.0,
+          "source_line": "- BISC 312x Molecular Biochemistry Units: 4 or"
+        },
+        {
+          "code": "BISC 320Lg",
+          "title": "Molecular Biology  or",
+          "units": 4.0,
+          "source_line": "- BISC 320Lg Molecular Biology Units: 4 or"
+        },
+        {
+          "code": "HBIO 301L",
+          "title": "Human Anatomy",
+          "units": 4.0,
+          "source_line": "- HBIO 301L Human Anatomy Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Organic Chemistry",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CHEM 322aL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 322aL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 322bL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 322bL Organic Chemistry Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Note: CHEM 322bL may be replaced by 4 units of additional upper-division BME course work.",
+          "source_line": "- Note: CHEM 322bL may be replaced by 4 units of additional upper-division BME course work."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Biomedical Engineering",
+      "level": 3,
+      "courses": [
+        {
+          "code": "BME 101",
+          "title": "Introduction to Biomedical Engineering",
+          "units": 4.0,
+          "source_line": "- BME 101 Introduction to Biomedical Engineering Units: 4"
+        },
+        {
+          "code": "BME 202",
+          "title": "Control and Communication in the Nervous System",
+          "units": 4.0,
+          "source_line": "- BME 202 Control and Communication in the Nervous System Units: 4"
+        },
+        {
+          "code": "BME 210",
+          "title": "Biomedical Computer Simulation Methods",
+          "units": 4.0,
+          "source_line": "- BME 210 Biomedical Computer Simulation Methods Units: 4"
+        },
+        {
+          "code": "BME 302L",
+          "title": "Medical Electronics",
+          "units": 4.0,
+          "source_line": "- BME 302L Medical Electronics Units: 4"
+        },
+        {
+          "code": "BME 403L",
+          "title": "Physiological Systems",
+          "units": 4.0,
+          "source_line": "- BME 403L Physiological Systems Units: 4"
+        },
+        {
+          "code": "BME 413",
+          "title": "Bioengineering Signals and Systems",
+          "units": 4.0,
+          "source_line": "- BME 413 Bioengineering Signals and Systems Units: 4"
+        },
+        {
+          "code": "BME 415",
+          "title": "Regulation of Medical Products",
+          "units": 2.0,
+          "source_line": "- BME 415 Regulation of Medical Products Units: 2"
+        },
+        {
+          "code": "BME 423",
+          "title": "Statistical and Data Science Methods in Biomedical Engineering",
+          "units": 4.0,
+          "source_line": "- BME 423 Statistical and Data Science Methods in Biomedical Engineering Units: 4"
+        },
+        {
+          "code": "BME 445aL",
+          "title": "Senior Design Project",
+          "units": 2.0,
+          "source_line": "- BME 445aL Senior Design Project Units: 2"
+        },
+        {
+          "code": "BME 445bL",
+          "title": "Senior Design Project",
+          "units": 2.0,
+          "source_line": "- BME 445bL Senior Design Project Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One course from the following:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "BME 404",
+          "title": "Computational Neuromechanics",
+          "units": 4.0,
+          "source_line": "- BME 404 Computational Neuromechanics Units: 4"
+        },
+        {
+          "code": "BME 410L",
+          "title": "Stem Cells and Biomaterials for Tissue Engineering",
+          "units": 4.0,
+          "source_line": "- BME 410L Stem Cells and Biomaterials for Tissue Engineering Units: 4"
+        },
+        {
+          "code": "BME 430",
+          "title": "Principles and Applications of Systems Biology",
+          "units": 4.0,
+          "source_line": "- BME 430 Principles and Applications of Systems Biology Units: 4"
+        },
+        {
+          "code": "BME 450",
+          "title": "Introduction to Biosensors and Diagnostics Devices",
+          "units": 4.0,
+          "source_line": "- BME 450 Introduction to Biosensors and Diagnostics Devices Units: 4"
+        },
+        {
+          "code": "BME 451L",
+          "title": "Fundamentals of Biomedical Microdevices",
+          "units": 4.0,
+          "source_line": "- BME 451L Fundamentals of Biomedical Microdevices Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electrical and Computer Engineering",
+      "level": 3,
+      "courses": [
+        {
+          "code": "EE 202L",
+          "title": "Linear Circuits",
+          "units": 4.0,
+          "source_line": "- EE 202L Linear Circuits Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Technical electives: Complete 10 units as needed to complete 128 approved program units. Technical electives are to be selected from an approved list available in the department office.",
+          "source_line": "- Technical electives: Complete 10 units as needed to complete 128 approved program units. Technical electives are to be selected from an approved list available in the department office."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 128",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 128.0
+    }
+  ],
+  "parse_warnings": []
+}

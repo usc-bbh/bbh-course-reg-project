@@ -18,6 +18,16 @@
 │   ├── requirements-dev.txt
 │   └── README.md                   Input/output schema contract
 │
+├── catalogue_scraper/         Module 2 — USC Catalogue scrape: degree/major/minor
+│   │                            REQUIREMENTS (Python). Not the Schedule of Classes.
+│   ├── src/usc_catalog_scraper/     Layered HTTP→browser acquisition, structural
+│   │                                content-region selection, output validation
+│   ├── tools/to_requirements_json.py  .txt → requirements JSON for the audit engine
+│   ├── data/                        470 verified programme files (2026-2027) + JSON
+│   ├── macos_app/                   Double-clickable wrapper that asks for the year
+│   ├── docs/                        Design guide + incident report
+│   └── README.md                    Requirements schema contract
+│
 ├── catalog/                   Module 3 — Schedule of Classes scrape (Python)
 │   ├── scrape_schedule.py          Scrapes classes.usc.edu; requires USC VPN
 │   ├── README.md                   Catalog schema contract + known limitations

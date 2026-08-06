@@ -1,0 +1,146 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Political Economy (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31777",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31777&returnto=9396",
+    "source_text_file": "180_political_economy_ba.txt",
+    "source_content_sha256": "25df144a5019256d9cde30190ca877090fe82240e68293126aa00b13239d8391",
+    "retrieved_at": "2026-07-31T00:56:52Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 8,
+    "distinct_course_codes": 8,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Arts in Political Economy explores the intersection of economics with politics in domestic and international contexts. It prepares students for engagement with global and regional questions that require analysis of economic and political causes and consequences and provides a useful background for a wide variety of entry positions in the public and private sectors.",
+          "source_line": "The Bachelor of Arts in Political Economy explores the intersection of economics with politics in domestic and international contexts. It prepares students for engagement with global and regional questions that require analysis of economic and political causes and consequences and provides a useful background for a wide variety of entry positions in the public and private sectors."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division Courses (16 Units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Complete two ECON and one MATH course (12 units):",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ECON 203g",
+          "title": "Principles of Microeconomics",
+          "units": 4.0,
+          "source_line": "- ECON 203g Principles of Microeconomics Units: 4"
+        },
+        {
+          "code": "ECON 205g",
+          "title": "Principles of Macroeconomics",
+          "units": 4.0,
+          "source_line": "- ECON 205g Principles of Macroeconomics Units: 4"
+        },
+        {
+          "code": "MATH 118gx",
+          "title": "Calculus for Business and Economics  or",
+          "units": 4.0,
+          "source_line": "- MATH 118gx Calculus for Business and Economics Units: 4 or"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose one (4 units):",
+      "level": 3,
+      "courses": [
+        {
+          "code": "IR 210gw",
+          "title": "International Relations: Introductory Analysis",
+          "units": 4.0,
+          "source_line": "- IR 210gw International Relations: Introductory Analysis Units: 4"
+        },
+        {
+          "code": "POSC 120g",
+          "title": "Comparative Politics",
+          "units": 4.0,
+          "source_line": "- POSC 120g Comparative Politics Units: 4"
+        },
+        {
+          "code": "POSC 130g",
+          "title": "Law, Politics and Public Policy",
+          "units": 4.0,
+          "source_line": "- POSC 130g Law, Politics and Public Policy Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Requirements (32 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ECON 303",
+          "title": "Intermediate Microeconomic Theory",
+          "units": 4.0,
+          "source_line": "- ECON 303 Intermediate Microeconomic Theory Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Economics Electives (12 units): Choose three Economics (ECON) courses numbered 300-499 (excludes ECON 351x and 352x)",
+          "source_line": "- Economics Electives (12 units): Choose three Economics (ECON) courses numbered 300-499 (excludes ECON 351x and 352x)",
+          "states_choice_rule": true
+        },
+        {
+          "text": "International Relations Electives (8 units): Choose two International Relations (IR) courses numbered 300-499",
+          "source_line": "- International Relations Electives (8 units): Choose two International Relations (IR) courses numbered 300-499",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Political Economy Electives (8 units): Choose two Political Economy in Political Science (POSC) courses numbered 300-499",
+          "source_line": "- Political Economy Electives (8 units): Choose two Political Economy in Political Science (POSC) courses numbered 300-499",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Economics Electives (12 units): Choose three Economics (ECON) courses numbered 300-499 (excludes ECON 351x and 352x)",
+      "total_units": null
+    },
+    {
+      "title": "Total: 48 units required for the major",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

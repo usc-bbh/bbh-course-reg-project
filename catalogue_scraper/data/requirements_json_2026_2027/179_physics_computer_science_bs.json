@@ -1,0 +1,193 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Physics/Computer Science (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31887",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31887&returnto=9396",
+    "source_text_file": "179_physics_computer_science_bs.txt",
+    "source_content_sha256": "4c2d3dbb19dc618772158a1b4c75e533510aa8b0e4410bb86411eac02c102d6a",
+    "retrieved_at": "2026-07-31T00:56:50Z"
+  },
+  "totals": {
+    "stated_total_units": 80.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "## Required Lower-Division Courses\n\n---\n\n- CSCI 103L Object Oriented Programming Units: 4\n- CSCI 104L Data Structures Units: 4\n- CSCI 170 Discrete Methods in Computer Science Units: 4\n- CSCI 201 Principles of Software Development Units: 4\n- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4\n- MATH 125g Calculus I Units: 4\n- MATH 126g Calculus II Units: 4\n- MATH 225 Linear Algebra and Linear Differential Equations Units: 4\n- MATH 226g Calculus III Units: 4\n- PHYS 161Lg Advanced Principles of Physics I Units: 4\n- PHYS 162L Advanced Principles of Physics II Units: 4\n- PHYS 163L Advanced Principles of Physics III Units: 4\n- PHYS 190 Physics Discovery Series Units: 4\n\n## Required Upper-Division Courses\n\n---\n\n- CSCI 350 Fundamentals of Operating Systems Units: 4\n- CSCI 356 Computer Systems Units: 4\n- MATH 445 Mathematics of Physics and Engineering II Units: 4\n- PHYS 304 Mechanics Units: 4\n- PHYS 408a Electricity and Magnetism Units: 4\n- PHYS 408b Electricity and Magnetism Units: 4\n- PHYS 438a Introduction to Quantum Mechanics and its Applications Units: 4\n\n## Total units: 80\n\n---\n\nFor those wishing to pursue an honors degree, a senior thesis with at least 2 units of PHYS 495 is also required."
+    ],
+    "course_entry_count": 20,
+    "distinct_course_codes": 20,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This program is intended for students with dual interests in physics and computer science who wish to complete the essential courses for both majors within their normal four-year career.",
+          "source_line": "This program is intended for students with dual interests in physics and computer science who wish to complete the essential courses for both majors within their normal four-year career.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "This program is intended for students with dual interests in physics and computer science who wish to complete the essential courses for both majors within their normal four-year career.",
+      "total_units": null
+    },
+    {
+      "title": "Required Lower-Division Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CSCI 103L",
+          "title": "Object Oriented Programming",
+          "units": 4.0,
+          "source_line": "- CSCI 103L Object Oriented Programming Units: 4"
+        },
+        {
+          "code": "CSCI 104L",
+          "title": "Data Structures",
+          "units": 4.0,
+          "source_line": "- CSCI 104L Data Structures Units: 4"
+        },
+        {
+          "code": "CSCI 170",
+          "title": "Discrete Methods in Computer Science",
+          "units": 4.0,
+          "source_line": "- CSCI 170 Discrete Methods in Computer Science Units: 4"
+        },
+        {
+          "code": "CSCI 201",
+          "title": "Principles of Software Development",
+          "units": 4.0,
+          "source_line": "- CSCI 201 Principles of Software Development Units: 4"
+        },
+        {
+          "code": "CSCI 270",
+          "title": "Introduction to Algorithms and Theory of Computing",
+          "units": 4.0,
+          "source_line": "- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4"
+        },
+        {
+          "code": "MATH 225",
+          "title": "Linear Algebra and Linear Differential Equations",
+          "units": 4.0,
+          "source_line": "- MATH 225 Linear Algebra and Linear Differential Equations Units: 4"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4"
+        },
+        {
+          "code": "PHYS 161Lg",
+          "title": "Advanced Principles of Physics I",
+          "units": 4.0,
+          "source_line": "- PHYS 161Lg Advanced Principles of Physics I Units: 4"
+        },
+        {
+          "code": "PHYS 162L",
+          "title": "Advanced Principles of Physics II",
+          "units": 4.0,
+          "source_line": "- PHYS 162L Advanced Principles of Physics II Units: 4"
+        },
+        {
+          "code": "PHYS 163L",
+          "title": "Advanced Principles of Physics III",
+          "units": 4.0,
+          "source_line": "- PHYS 163L Advanced Principles of Physics III Units: 4"
+        },
+        {
+          "code": "PHYS 190",
+          "title": "Physics Discovery Series",
+          "units": 4.0,
+          "source_line": "- PHYS 190 Physics Discovery Series Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Upper-Division Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CSCI 350",
+          "title": "Fundamentals of Operating Systems",
+          "units": 4.0,
+          "source_line": "- CSCI 350 Fundamentals of Operating Systems Units: 4"
+        },
+        {
+          "code": "CSCI 356",
+          "title": "Computer Systems",
+          "units": 4.0,
+          "source_line": "- CSCI 356 Computer Systems Units: 4"
+        },
+        {
+          "code": "MATH 445",
+          "title": "Mathematics of Physics and Engineering II",
+          "units": 4.0,
+          "source_line": "- MATH 445 Mathematics of Physics and Engineering II Units: 4"
+        },
+        {
+          "code": "PHYS 304",
+          "title": "Mechanics",
+          "units": 4.0,
+          "source_line": "- PHYS 304 Mechanics Units: 4"
+        },
+        {
+          "code": "PHYS 408a",
+          "title": "Electricity and Magnetism",
+          "units": 4.0,
+          "source_line": "- PHYS 408a Electricity and Magnetism Units: 4"
+        },
+        {
+          "code": "PHYS 408b",
+          "title": "Electricity and Magnetism",
+          "units": 4.0,
+          "source_line": "- PHYS 408b Electricity and Magnetism Units: 4"
+        },
+        {
+          "code": "PHYS 438a",
+          "title": "Introduction to Quantum Mechanics and its Applications",
+          "units": 4.0,
+          "source_line": "- PHYS 438a Introduction to Quantum Mechanics and its Applications Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 80",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "For those wishing to pursue an honors degree, a senior thesis with at least 2 units of PHYS 495 is also required. Students who maintain a GPA of at least 3.5 in physics courses are eligible for graduation with honors, or high honors with a GPA of at least 3.8.",
+          "source_line": "For those wishing to pursue an honors degree, a senior thesis with at least 2 units of PHYS 495 is also required. Students who maintain a GPA of at least 3.5 in physics courses are eligible for graduation with honors, or high honors with a GPA of at least 3.8."
+        }
+      ],
+      "choice": null,
+      "total_units": 80.0
+    }
+  ],
+  "parse_warnings": []
+}

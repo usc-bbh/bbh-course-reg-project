@@ -1,0 +1,228 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Medical Anthropology Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31704",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31704&returnto=9396",
+    "source_text_file": "386_medical_anthropology_minor.txt",
+    "source_content_sha256": "d3475e6bdfc2d3ddf9b23e03bc186577de868d5b22e9dc9e76166473b3778250",
+    "retrieved_at": "2026-07-31T01:10:51Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 26,
+    "distinct_course_codes": 26,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Medical anthropology examines the body, illness and healing from a cultural perspective, including comparative studies of folk healing systems, curing rituals and Western biomedical practices.",
+          "source_line": "Medical anthropology examines the body, illness and healing from a cultural perspective, including comparative studies of folk healing systems, curing rituals and Western biomedical practices."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division Courses (8 Units):",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ANTH 101g",
+          "title": "Body, Mind and Healing: Introduction to Medical Anthropology",
+          "units": 4.0,
+          "source_line": "- ANTH 101g Body, Mind and Healing: Introduction to Medical Anthropology Units: 4"
+        },
+        {
+          "code": "ANTH 105g",
+          "title": "Culture, Medicine and Politics",
+          "units": 4.0,
+          "source_line": "- ANTH 105g Culture, Medicine and Politics Units: 4"
+        },
+        {
+          "code": "ANTH 125g",
+          "title": "Social Issues in Human Sexuality and Reproduction",
+          "units": 4.0,
+          "source_line": "- ANTH 125g Social Issues in Human Sexuality and Reproduction Units: 4"
+        },
+        {
+          "code": "ANTH 201g",
+          "title": "Introduction to Social and Cultural Anthropology",
+          "units": 4.0,
+          "source_line": "- ANTH 201g Introduction to Social and Cultural Anthropology Units: 4"
+        },
+        {
+          "code": "HBIO 200Lg",
+          "title": "The Human Animal",
+          "units": 4.0,
+          "source_line": "- HBIO 200Lg The Human Animal Units: 4"
+        },
+        {
+          "code": "ANTH 273g",
+          "title": "Shamans, Spirits and Ancestors: Non-Western Religious Traditions",
+          "units": 4.0,
+          "source_line": "- ANTH 273g Shamans, Spirits and Ancestors: Non-Western Religious Traditions Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Two lower-division Anthropology courses, selected from the following:",
+          "source_line": "Two lower-division Anthropology courses, selected from the following:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Courses (16 Units):",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ANTH 300",
+          "title": "Evolution, Ecology, and Culture",
+          "units": 4.0,
+          "source_line": "- ANTH 300 Evolution, Ecology, and Culture Units: 4"
+        },
+        {
+          "code": "ANTH 301g",
+          "title": "The Global Performance of Healing",
+          "units": 4.0,
+          "source_line": "- ANTH 301g The Global Performance of Healing Units: 4"
+        },
+        {
+          "code": "ANTH 305",
+          "title": "Childhood, Birth and Reproduction",
+          "units": 4.0,
+          "source_line": "- ANTH 305 Childhood, Birth and Reproduction Units: 4"
+        },
+        {
+          "code": "ANTH 308",
+          "title": "Origins and Evolution of Human Behavior",
+          "units": 4.0,
+          "source_line": "- ANTH 308 Origins and Evolution of Human Behavior Units: 4"
+        },
+        {
+          "code": "ANTH 325",
+          "title": "Mixed Methods Research for Global and Cross-Cultural Studies",
+          "units": 4.0,
+          "source_line": "- ANTH 325 Mixed Methods Research for Global and Cross-Cultural Studies Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "ANTH 410",
+          "title": "Ethnographic Research Methods",
+          "units": 4.0,
+          "source_line": "- ANTH 410 Ethnographic Research Methods Units: 4"
+        },
+        {
+          "code": "ANTH 332g",
+          "title": "Anthropology and Narrative Medicine",
+          "units": 4.0,
+          "source_line": "- ANTH 332g Anthropology and Narrative Medicine Units: 4"
+        },
+        {
+          "code": "ANTH 338g",
+          "title": "Food in Culture and Society",
+          "units": 4.0,
+          "source_line": "- ANTH 338g Food in Culture and Society Units: 4"
+        },
+        {
+          "code": "ANTH 357g",
+          "title": "Cultures of Genocide, Cultures of Care",
+          "units": 4.0,
+          "source_line": "- ANTH 357g Cultures of Genocide, Cultures of Care Units: 4"
+        },
+        {
+          "code": "ANTH 360",
+          "title": "Symbolic Anthropology",
+          "units": 4.0,
+          "source_line": "- ANTH 360 Symbolic Anthropology Units: 4"
+        },
+        {
+          "code": "ANTH 370",
+          "title": "Sex, Love, and Marriage: An Introduction to Kinship",
+          "units": 4.0,
+          "source_line": "- ANTH 370 Sex, Love, and Marriage: An Introduction to Kinship Units: 4"
+        },
+        {
+          "code": "ANTH 373",
+          "title": "Magic, Witchcraft and Healing",
+          "units": 4.0,
+          "source_line": "- ANTH 373 Magic, Witchcraft and Healing Units: 4"
+        },
+        {
+          "code": "ANTH 380",
+          "title": "Sex and Gender in Anthropological Perspective",
+          "units": 4.0,
+          "source_line": "- ANTH 380 Sex and Gender in Anthropological Perspective Units: 4"
+        },
+        {
+          "code": "ANTH 385m",
+          "title": "Men and Masculinity",
+          "units": 4.0,
+          "source_line": "- ANTH 385m Men and Masculinity Units: 4"
+        },
+        {
+          "code": "ANTH 393",
+          "title": "Directed Internship , 3, 4, 5, 6, 7, 8",
+          "units": 2.0,
+          "source_line": "- ANTH 393 Directed Internship Units: 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "ANTH 405",
+          "title": "Evolutionary Medicine",
+          "units": 4.0,
+          "source_line": "- ANTH 405 Evolutionary Medicine Units: 4"
+        },
+        {
+          "code": "ANTH 440",
+          "title": "History of Anthropological Theory",
+          "units": 4.0,
+          "source_line": "- ANTH 440 History of Anthropological Theory Units: 4"
+        },
+        {
+          "code": "ANTH 445",
+          "title": "African American Anthropology",
+          "units": 4.0,
+          "source_line": "- ANTH 445 African American Anthropology Units: 4"
+        },
+        {
+          "code": "OT 375",
+          "title": "The Narrative Structure of Social Action: Narrative, Healing and Occupation",
+          "units": 4.0,
+          "source_line": "- OT 375 The Narrative Structure of Social Action: Narrative, Healing and Occupation Units: 4"
+        },
+        {
+          "code": "SWMS 336",
+          "title": "Health, Gender and Ethnicity",
+          "units": 4.0,
+          "source_line": "- SWMS 336 Health, Gender and Ethnicity Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "16 units of upper-division Anthropology coursework, selected from the following:",
+          "source_line": "16 units of upper-division Anthropology coursework, selected from the following:"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

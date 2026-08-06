@@ -1,0 +1,46 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Social Sciences, with an Emphasis in Psychology (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31907",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31907&returnto=9396",
+    "source_text_file": "191_social_sciences_with_an_emphasis_in_psychology_ba.txt",
+    "source_content_sha256": "aa58191c61c175d91233e714da05ef93dc5df04618db9750261e9ee3613be9b5",
+    "retrieved_at": "2026-07-31T00:57:15Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 1,
+    "distinct_course_codes": 1,
+    "section_count": 1
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [
+        {
+          "code": "MATH 208",
+          "title": "MATH 218 or MATH 265 may substitute for MATH 114",
+          "units": null,
+          "source_line": "*MATH 208 , MATH 218 or MATH 265 may substitute for MATH 114 ."
+        }
+      ],
+      "notes": [
+        {
+          "text": "The required courses are: PSYC 100 , MATH 114 *, PSYC 274L and eight upper-division courses in departments in the social sciences, including five in the Department of Psychology and three outside the department but within the division. These may be any 300- or 400-numbered courses.",
+          "source_line": "The required courses are: PSYC 100 , MATH 114 *, PSYC 274L and eight upper-division courses in departments in the social sciences, including five in the Department of Psychology and three outside the department but within the division. These may be any 300- or 400-numbered courses."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

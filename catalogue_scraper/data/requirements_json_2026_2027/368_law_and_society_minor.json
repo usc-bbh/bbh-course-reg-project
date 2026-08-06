@@ -1,0 +1,289 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Law and Society Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31900",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31900&returnto=9396",
+    "source_text_file": "368_law_and_society_minor.txt",
+    "source_content_sha256": "46acc1abea3a25415e3e514664e88a8529976d7ee6dad1a8464fabb4818386b2",
+    "retrieved_at": "2026-07-31T01:10:10Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The requirements for the minor include seven courses (28 units), including at least four upper-division courses (16 units).",
+      "## Requirements\n\n---\n\nThe Law and Society Minor requires seven courses (28 units), including at least four upper-division courses (16 units)."
+    ],
+    "course_entry_count": 27,
+    "distinct_course_codes": 27,
+    "section_count": 9
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This interdisciplinary program focuses on the effect of law on society as well as the ways in which social forces influence the legal system. The idea is that students will understand the law if they look beyond “law on the books” to “law in action.” Thus, it is important to study key legal institutions such as the legal profession, the judiciary, juries, the police, legislatures and administrative agencies. In addition, the minor introduces students to legal policies like plea bargaining and the death penalty, and the constitutional principles that underlie political debates about them, e.g., equal protection, due process and privacy.",
+          "source_line": "This interdisciplinary program focuses on the effect of law on society as well as the ways in which social forces influence the legal system. The idea is that students will understand the law if they look beyond “law on the books” to “law in action.” Thus, it is important to study key legal institutions such as the legal profession, the judiciary, juries, the police, legislatures and administrative agencies. In addition, the minor introduces students to legal policies like plea bargaining and the death penalty, and the constitutional principles that underlie political debates about them, e.g., equal protection, due process and privacy."
+        },
+        {
+          "text": "The requirements for the minor include seven courses (28 units), including at least four upper-division courses (16 units). All students are required to take POSC 130 Law, Politics, and Public Policy .",
+          "source_line": "The requirements for the minor include seven courses (28 units), including at least four upper-division courses (16 units). All students are required to take POSC 130 Law, Politics, and Public Policy ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Law and Society Minor requires seven courses (28 units), including at least four upper-division courses (16 units). All students must take the Core class. In addition, three political science upper-division courses are required, one each from categories 2, 3 and 4. Three elective courses are required: choose one course from category 5 and choose two courses from category 6.",
+          "source_line": "The Law and Society Minor requires seven courses (28 units), including at least four upper-division courses (16 units). All students must take the Core class. In addition, three political science upper-division courses are required, one each from categories 2, 3 and 4. Three elective courses are required: choose one course from category 5 and choose two courses from category 6.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "The Law and Society Minor requires seven courses (28 units), including at least four upper-division courses (16 units). All students must take the Core class. In addition, three political science upper-division courses are required, one each from categories 2, 3 and 4. Three elective courses are required: choose one course from category 5 and choose two courses from category 6.",
+      "total_units": null
+    },
+    {
+      "title": "1. Core",
+      "level": 3,
+      "courses": [
+        {
+          "code": "POSC 130g",
+          "title": "Law, Politics and Public Policy",
+          "units": 4.0,
+          "source_line": "- POSC 130g Law, Politics and Public Policy Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "2. Constitutional Law",
+      "level": 3,
+      "courses": [
+        {
+          "code": "POSC 340",
+          "title": "Constitutional Law",
+          "units": 4.0,
+          "source_line": "- POSC 340 Constitutional Law Units: 4"
+        },
+        {
+          "code": "POSC 426",
+          "title": "The United States Supreme Court",
+          "units": 4.0,
+          "source_line": "- POSC 426 The United States Supreme Court Units: 4"
+        },
+        {
+          "code": "POSC 444",
+          "title": "Civil and Political Rights and Liberties",
+          "units": 4.0,
+          "source_line": "- POSC 444 Civil and Political Rights and Liberties Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "3. International Law",
+      "level": 3,
+      "courses": [
+        {
+          "code": "POSC 345",
+          "title": "International Law",
+          "units": 4.0,
+          "source_line": "- POSC 345 International Law Units: 4"
+        },
+        {
+          "code": "POSC 448a",
+          "title": "The Politics of Peace",
+          "units": 4.0,
+          "source_line": "- POSC 448a The Politics of Peace Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "4. Policy Analysis",
+      "level": 3,
+      "courses": [
+        {
+          "code": "POSC 347",
+          "title": "Environmental Law",
+          "units": 4.0,
+          "source_line": "- POSC 347 Environmental Law Units: 4"
+        },
+        {
+          "code": "POSC 395",
+          "title": "Directed Governmental and Political Leadership Internship , 3, 4, 5, 6, 7, 8",
+          "units": 2.0,
+          "source_line": "- POSC 395 Directed Governmental and Political Leadership Internship Units: 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "POSC 432",
+          "title": "Politics of Local Criminal Justice",
+          "units": 4.0,
+          "source_line": "- POSC 432 Politics of Local Criminal Justice Units: 4"
+        },
+        {
+          "code": "POSC 435",
+          "title": "Politics and the Economy",
+          "units": 4.0,
+          "source_line": "- POSC 435 Politics and the Economy Units: 4"
+        },
+        {
+          "code": "POSC 436",
+          "title": "Environmental Politics",
+          "units": 4.0,
+          "source_line": "- POSC 436 Environmental Politics Units: 4"
+        },
+        {
+          "code": "POSC 441m",
+          "title": "Cultural Diversity and the Law",
+          "units": 4.0,
+          "source_line": "- POSC 441m Cultural Diversity and the Law Units: 4"
+        },
+        {
+          "code": "POSC 442m",
+          "title": "The Politics of Human Differences: Diversity and Discrimination",
+          "units": 4.0,
+          "source_line": "- POSC 442m The Politics of Human Differences: Diversity and Discrimination Units: 4"
+        },
+        {
+          "code": "POSC 443",
+          "title": "Law in Film",
+          "units": 4.0,
+          "source_line": "- POSC 443 Law in Film Units: 4"
+        },
+        {
+          "code": "POSC 448b",
+          "title": "The Politics of Peace",
+          "units": 4.0,
+          "source_line": "- POSC 448b The Politics of Peace Units: 4"
+        },
+        {
+          "code": "POSC 452",
+          "title": "Critical Issues in Law and Public Policy",
+          "units": 4.0,
+          "source_line": "- POSC 452 Critical Issues in Law and Public Policy Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "5. Humanistic/Historical",
+      "level": 3,
+      "courses": [
+        {
+          "code": "PHIL 340",
+          "title": "Ethics",
+          "units": 4.0,
+          "source_line": "- PHIL 340 Ethics Units: 4"
+        },
+        {
+          "code": "PHIL 430",
+          "title": "Philosophy of Law",
+          "units": 4.0,
+          "source_line": "- PHIL 430 Philosophy of Law Units: 4"
+        },
+        {
+          "code": "PHIL 440",
+          "title": "Contemporary Ethical Theory",
+          "units": 4.0,
+          "source_line": "- PHIL 440 Contemporary Ethical Theory Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "6. Society",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ANTH 345",
+          "title": "Law, Power and Culture",
+          "units": 4.0,
+          "source_line": "- ANTH 345 Law, Power and Culture Units: 4"
+        },
+        {
+          "code": "COMM 421",
+          "title": "Legal Communication",
+          "units": 4.0,
+          "source_line": "- COMM 421 Legal Communication Units: 4"
+        },
+        {
+          "code": "ECON 434",
+          "title": "Economic Analysis of Law",
+          "units": 4.0,
+          "source_line": "- ECON 434 Economic Analysis of Law Units: 4"
+        },
+        {
+          "code": "LAW 200w",
+          "title": "Law and Society",
+          "units": 4.0,
+          "source_line": "- LAW 200w Law and Society Units: 4"
+        },
+        {
+          "code": "LAW 320p",
+          "title": "Law, Enslavement and Race",
+          "units": 4.0,
+          "source_line": "- LAW 320p Law, Enslavement and Race Units: 4"
+        },
+        {
+          "code": "LAW 402",
+          "title": "Psychology and Law",
+          "units": 4.0,
+          "source_line": "- LAW 402 Psychology and Law Units: 4"
+        },
+        {
+          "code": "PHIL 431",
+          "title": "Law, Society, and Politics",
+          "units": 4.0,
+          "source_line": "- PHIL 431 Law, Society, and Politics Units: 4"
+        },
+        {
+          "code": "PHIL 437",
+          "title": "Social and Political Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 437 Social and Political Philosophy Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "At least four classes must be unique to the minor.",
+          "source_line": "At least four classes must be unique to the minor."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

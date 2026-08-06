@@ -1,0 +1,101 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Human Performance and AI in Sports Analytics Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32949",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32949&returnto=9396",
+    "source_text_file": "336_human_performance_and_ai_in_sports_analytics_minor.txt",
+    "source_content_sha256": "2e0154f0c411e2469c04f591c42c754a61f35a478efcd1ebd8cbc24528bec0ed",
+    "retrieved_at": "2026-07-31T01:07:11Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The program requires at least 18 units."
+    ],
+    "course_entry_count": 7,
+    "distinct_course_codes": 7,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This interdisciplinary program prepares students to apply AI, data science, as well as human and sport performance principles to improve athletic outcomes and reduce risk of injuries. With this minor, students are able to generate data-driven insights for key stakeholders throughout the sports industry ecosystem, thereby advancing human and athletic performance. With AI and monetization strategies reshaping the sports landscape, the program positions students to engage critically and creatively with emerging technologies and economic models. The program requires at least 18 units.",
+          "source_line": "This interdisciplinary program prepares students to apply AI, data science, as well as human and sport performance principles to improve athletic outcomes and reduce risk of injuries. With this minor, students are able to generate data-driven insights for key stakeholders throughout the sports industry ecosystem, thereby advancing human and athletic performance. With AI and monetization strategies reshaping the sports landscape, the program positions students to engage critically and creatively with emerging technologies and economic models. The program requires at least 18 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-division requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 220Lg",
+          "title": "General Biology: Cell Biology and Physiology  OR",
+          "units": 4.0,
+          "source_line": "- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 OR"
+        },
+        {
+          "code": "BISC 221Lg",
+          "title": "Advanced General Biology: Cell Biology and Physiology  OR",
+          "units": 4.0,
+          "source_line": "- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4 OR"
+        },
+        {
+          "code": "HBIO 205Lgx",
+          "title": "The Science of Sport",
+          "units": 4.0,
+          "source_line": "- HBIO 205Lgx The Science of Sport Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-division requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "DSO 478",
+          "title": "Sports Data Science, AI and Management",
+          "units": 4.0,
+          "source_line": "- DSO 478 Sports Data Science, AI and Management Units: 4"
+        },
+        {
+          "code": "DSO 484",
+          "title": "Applied AI in Sports Research - Practicum I , 4",
+          "units": 2.0,
+          "source_line": "- DSO 484 Applied AI in Sports Research - Practicum I Units: 2, 4"
+        },
+        {
+          "code": "HBIO 309",
+          "title": "The Human Machine",
+          "units": 4.0,
+          "source_line": "- HBIO 309 The Human Machine Units: 4"
+        },
+        {
+          "code": "HBIO 401L",
+          "title": "Physiology of Movement",
+          "units": 4.0,
+          "source_line": "- HBIO 401L Physiology of Movement Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

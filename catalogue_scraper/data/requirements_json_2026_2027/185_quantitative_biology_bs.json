@@ -1,0 +1,797 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Quantitative Biology (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32504",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32504&returnto=9396",
+    "source_text_file": "185_quantitative_biology_bs.txt",
+    "source_content_sha256": "353c0486f9ae19f7d2252123a7b20f967e39ebe06da8d23f4656bb4159c0717b",
+    "retrieved_at": "2026-07-31T00:57:02Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Core Courses (38 units)\n\n---\n\nStudents must complete the following courses:\n\n### Required Introductory Course (2 units)\n\n---\n\n- QBIO 105 Introduction to Quantitative Biology Seminar Units: 2\n\n### Required Foundational Science Courses (24 units)\n\n---\n\n- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or\n- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4\n-\n- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or\n- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4\n-\n- CHEM 105aLg General Chemistry Units: 4 or\n- CHEM 115aLg Advanced General Chemistry Units: 4\n-\n- MATH 125g Calculus I Units: 4\n-\n- PHYS 135aLg Physics for the Life Sciences Units: 4 or\n- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 or\n- PHYS 161Lg Advanced Principles of Physics I Units: 4 or\n- PHYS 171Lg Applied Physics I: Mechanics Units: 4\n-\n- QBIO 310 Statistical Thinking for Quantitative Biology Units: 4 or\n- MATH 307 Statistical Inference and Data Analysis I Units: 4\n\n### Required Foundational Computing Courses (12 units)\n\n---\n\nChoose one of the following tracks, with three courses in each.",
+      "---\n\n- CSCI 103L Object Oriented Programming Units: 4\n- CSCI 114x Programming for Applications of Computing Units: 4\n- And one from:\n- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4\n- QBIO 460 Introduction to Machine Learning in Biology Units: 4\n- QBIO 465 Artificial Intelligence in Biology and Medicine Units: 4\n\n## Specialization Courses (12 units)\n\n---\n\nChoose three of the following courses.",
+      "- CHEM 105bL General Chemistry Units: 4 or\n- CHEM 115bL Advanced General Chemistry Units: 4\n-\n- CHEM 322aL Organic Chemistry Units: 4\n- CHEM 322bL Organic Chemistry Units: 4\n- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4\n-\n- MATH 126g Calculus II Units: 4 or\n- MATH 127 Enhanced Calculus II Units: 4 or\n- MATH 129 Calculus II for Engineers and Scientists Units: 4\n-\n- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or\n- MATH 245 Mathematics of Physics and Engineering I Units: 4\n-\n- MATH 226g Calculus III Units: 4 or\n- MATH 227 Enhanced Calculus III Units: 4 or\n- MATH 229 Calculus III for Engineers and Scientists Units: 4\n-\n- MATH 407 Probability Theory Units: 4\n-\n- MATH 308 Statistical Inference and Data Analysis II Units: 4 or\n- MATH 408 Mathematical Statistics Units: 4\n-\n- PHYS 135bL Physics for the Life Sciences Units: 4 or\n- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4 or\n- PHYS 162L Advanced Principles of Physics II Units: 4 or\n- PHYS 172L Applied Physics II: Electricity, Magnetism and Optics Units: 4\n-\n- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4\n- QBIO 460 Introduction to Machine Learning in Biology Units: 4\n- QBIO 465 Artificial Intelligence in Biology and Medicine Units: 4\n\n## Capstone Courses (8 units)\n\n---\n\nChoose two of the following four capstone courses:\n\n- QBIO 475 Statistical and Evolutionary Genetics Units: 4\n- QBIO 478 Computational Genome Analysis Units: 4\n- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4\n- QBIO 482 Systems Biology: Modeling the Dynamics of Life Units: 4\n\n## Upper-Division Electives (minimum 8 units)\n\n---\n\nChoose two to three of the following courses for upper-division electives.",
+      "- BISC 300L Microbiology Units: 4\n- BISC 307L General Physiology Units: 4\n- BISC 313L Evolution and Population Genetics Units: 4\n- BISC 315L Introduction to Ecology Units: 4\n- BISC 320Lg Molecular Biology Units: 4\n- BISC 325 Genetics Units: 4\n-\n- BISC 330L Biochemistry Units: 4 or\n- BISC 312x Molecular Biochemistry Units: 4 or\n- CHEM 350 Molecular Principles of Biochemistry Units: 4\n-\n- BISC 403 Advanced Molecular Biology Units: 4\n- BISC 406L Biotechnology Units: 4\n- BISC 407 Cellular and Molecular Neuroscience Units: 4\n- BISC 408 Systems Neuroscience: From Synapses to Perception Units: 4\n- BISC 410 Applications of Molecular Biology to Medicine Units: 4\n- BISC 411 Advanced Cell Biology Units: 4\n- BISC 421 Neurobiology Units: 4\n- BISC 423 Epilepsy to Ecstasy: Biological Basis of Neurological Disorders Units: 4\n- BISC 424 Brain Architecture Units: 4\n- BISC 434 Introduction to Genome Science Units: 4\n- BISC 435 Advanced Biochemistry Units: 4\n- BISC 450L Principles of Immunology Units: 4\n- BISC 473L Biological Oceanography Units: 4\n- BME 430 Principles and Applications of Systems Biology Units: 4\n- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4\n- CSCI 467 Foundations of Machine Learning Units: 4\n- ECON 460 Economic Applications of Machine Learning Units: 4\n- LING 486 Natural Language Processing Units: 4\n- LING 487 Speech Synthesis and Recognition Units: 4\n- MATH 447 Mathematics of Machine Learning Units: 4\n- MATH 466 Dynamic Modeling Units: 4\n- MATH 467 Theory and Computational Methods for Optimization Units: 4\n- PHYS 444 Physical Biology: From Molecules to Cells Units: 4\n- PSYC 450 Neural Network Models of Social and Cognitive Processes Units: 4\n- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4 *\n- QBIO 460 Introduction to Machine Learning in Biology Units: 4 *\n- QBIO 465 Artificial Intelligence in Biology and Medicine Units: 4 *\n- QBIO 475 Statistical and Evolutionary Genetics Units: 4 *\n- QBIO 478 Computational Genome Analysis Units: 4 *\n- QBIO 479L Computational Genome Analysis Laboratory Units: 4\n- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4 *\n- QBIO 482 Systems Biology: Modeling the Dynamics of Life Units: 4 *\n- QBIO 499 Special Topics Units: 1, 2, 3, 4, 5, 6, 7, 8\n- SCRM 487 Regenerative Medicine: Principles, Paradigms and Practice Units: 4\n- * Foundational, Specialization or Capstone course\n\n## Research Experience (6 units)\n\n---\n\nStudents are required to enroll in a total of 6 units of directed research in a lab approved by the Quantitative Biology Executive Committee or assigned faculty adviser."
+    ],
+    "course_entry_count": 100,
+    "distinct_course_codes": 85,
+    "section_count": 12
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Department of Quantitative and Computational Biology offers a BS degree in Quantitative Biology (QBIO). This program allows biology students to achieve a fuller background in the quantitative sciences such as computer science and statistics that are essential for modern data-driven biological science. The students will take an introductory seminar, participate in undergraduate research and write an honors thesis. This program will have the designation on the transcript of Bachelor of Science in Quantitative Biology.",
+          "source_line": "The Department of Quantitative and Computational Biology offers a BS degree in Quantitative Biology (QBIO). This program allows biology students to achieve a fuller background in the quantitative sciences such as computer science and statistics that are essential for modern data-driven biological science. The students will take an introductory seminar, participate in undergraduate research and write an honors thesis. This program will have the designation on the transcript of Bachelor of Science in Quantitative Biology."
+        },
+        {
+          "text": "The general education, writing, language and diversity requirements for a USC Dornsife College of Letters, Arts and Sciences degree are applicable.",
+          "source_line": "The general education, writing, language and diversity requirements for a USC Dornsife College of Letters, Arts and Sciences degree are applicable."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Courses (38 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students must complete the following courses:",
+          "source_line": "Students must complete the following courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Introductory Course (2 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "QBIO 105",
+          "title": "Introduction to Quantitative Biology Seminar",
+          "units": 2.0,
+          "source_line": "- QBIO 105 Introduction to Quantitative Biology Seminar Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Foundational Science Courses (24 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "BISC 120Lg",
+          "title": "General Biology: Organismal Biology and Evolution  or",
+          "units": 4.0,
+          "source_line": "- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or"
+        },
+        {
+          "code": "BISC 121Lg",
+          "title": "Advanced General Biology: Organismal Biology and Evolution",
+          "units": 4.0,
+          "source_line": "- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4"
+        },
+        {
+          "code": "BISC 220Lg",
+          "title": "General Biology: Cell Biology and Physiology  or",
+          "units": 4.0,
+          "source_line": "- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or"
+        },
+        {
+          "code": "BISC 221Lg",
+          "title": "Advanced General Biology: Cell Biology and Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4"
+        },
+        {
+          "code": "CHEM 105aLg",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105aLg General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 115aLg",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115aLg Advanced General Chemistry Units: 4"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "PHYS 135aLg",
+          "title": "Physics for the Life Sciences  or",
+          "units": 4.0,
+          "source_line": "- PHYS 135aLg Physics for the Life Sciences Units: 4 or"
+        },
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves  or",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 or"
+        },
+        {
+          "code": "PHYS 161Lg",
+          "title": "Advanced Principles of Physics I  or",
+          "units": 4.0,
+          "source_line": "- PHYS 161Lg Advanced Principles of Physics I Units: 4 or"
+        },
+        {
+          "code": "PHYS 171Lg",
+          "title": "Applied Physics I: Mechanics",
+          "units": 4.0,
+          "source_line": "- PHYS 171Lg Applied Physics I: Mechanics Units: 4"
+        },
+        {
+          "code": "QBIO 310",
+          "title": "Statistical Thinking for Quantitative Biology  or",
+          "units": 4.0,
+          "source_line": "- QBIO 310 Statistical Thinking for Quantitative Biology Units: 4 or"
+        },
+        {
+          "code": "MATH 307",
+          "title": "Statistical Inference and Data Analysis I",
+          "units": 4.0,
+          "source_line": "- MATH 307 Statistical Inference and Data Analysis I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Foundational Computing Courses (12 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Choose one of the following tracks, with three courses in each.",
+          "source_line": "Choose one of the following tracks, with three courses in each.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one of the following tracks, with three courses in each.",
+      "total_units": null
+    },
+    {
+      "title": "1.",
+      "level": 4,
+      "courses": [
+        {
+          "code": "CSCI 103L",
+          "title": "Object Oriented Programming",
+          "units": 4.0,
+          "source_line": "- CSCI 103L Object Oriented Programming Units: 4"
+        },
+        {
+          "code": "CSCI 104L",
+          "title": "Data Structures",
+          "units": 4.0,
+          "source_line": "- CSCI 104L Data Structures Units: 4"
+        },
+        {
+          "code": "CSCI 170",
+          "title": "Discrete Methods in Computer Science",
+          "units": 4.0,
+          "source_line": "- CSCI 170 Discrete Methods in Computer Science Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "2.",
+      "level": 4,
+      "courses": [
+        {
+          "code": "CSCI 113x",
+          "title": "Programming Fundamentals for Computing",
+          "units": 4.0,
+          "source_line": "- CSCI 113x Programming Fundamentals for Computing Units: 4"
+        },
+        {
+          "code": "CSCI 114x",
+          "title": "Programming for Applications of Computing",
+          "units": 4.0,
+          "source_line": "- CSCI 114x Programming for Applications of Computing Units: 4"
+        },
+        {
+          "code": "QBIO 401",
+          "title": "Introduction to Computational Analysis of Biological Data",
+          "units": 4.0,
+          "source_line": "- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4"
+        },
+        {
+          "code": "QBIO 460",
+          "title": "Introduction to Machine Learning in Biology",
+          "units": 4.0,
+          "source_line": "- QBIO 460 Introduction to Machine Learning in Biology Units: 4"
+        },
+        {
+          "code": "QBIO 465",
+          "title": "Artificial Intelligence in Biology and Medicine",
+          "units": 4.0,
+          "source_line": "- QBIO 465 Artificial Intelligence in Biology and Medicine Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "And one from:",
+          "source_line": "- And one from:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "3.",
+      "level": 4,
+      "courses": [
+        {
+          "code": "CSCI 103L",
+          "title": "Object Oriented Programming",
+          "units": 4.0,
+          "source_line": "- CSCI 103L Object Oriented Programming Units: 4"
+        },
+        {
+          "code": "CSCI 114x",
+          "title": "Programming for Applications of Computing",
+          "units": 4.0,
+          "source_line": "- CSCI 114x Programming for Applications of Computing Units: 4"
+        },
+        {
+          "code": "QBIO 401",
+          "title": "Introduction to Computational Analysis of Biological Data",
+          "units": 4.0,
+          "source_line": "- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4"
+        },
+        {
+          "code": "QBIO 460",
+          "title": "Introduction to Machine Learning in Biology",
+          "units": 4.0,
+          "source_line": "- QBIO 460 Introduction to Machine Learning in Biology Units: 4"
+        },
+        {
+          "code": "QBIO 465",
+          "title": "Artificial Intelligence in Biology and Medicine",
+          "units": 4.0,
+          "source_line": "- QBIO 465 Artificial Intelligence in Biology and Medicine Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "And one from:",
+          "source_line": "- And one from:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Specialization Courses (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CHEM 105bL",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105bL General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 115bL",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115bL Advanced General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 322aL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 322aL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 322bL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 322bL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "CSCI 270",
+          "title": "Introduction to Algorithms and Theory of Computing",
+          "units": 4.0,
+          "source_line": "- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II  or",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4 or"
+        },
+        {
+          "code": "MATH 127",
+          "title": "Enhanced Calculus II  or",
+          "units": 4.0,
+          "source_line": "- MATH 127 Enhanced Calculus II Units: 4 or"
+        },
+        {
+          "code": "MATH 129",
+          "title": "Calculus II for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 129 Calculus II for Engineers and Scientists Units: 4"
+        },
+        {
+          "code": "MATH 225",
+          "title": "Linear Algebra and Linear Differential Equations  or",
+          "units": 4.0,
+          "source_line": "- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or"
+        },
+        {
+          "code": "MATH 245",
+          "title": "Mathematics of Physics and Engineering I",
+          "units": 4.0,
+          "source_line": "- MATH 245 Mathematics of Physics and Engineering I Units: 4"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III  or",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4 or"
+        },
+        {
+          "code": "MATH 227",
+          "title": "Enhanced Calculus III  or",
+          "units": 4.0,
+          "source_line": "- MATH 227 Enhanced Calculus III Units: 4 or"
+        },
+        {
+          "code": "MATH 229",
+          "title": "Calculus III for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 229 Calculus III for Engineers and Scientists Units: 4"
+        },
+        {
+          "code": "MATH 407",
+          "title": "Probability Theory",
+          "units": 4.0,
+          "source_line": "- MATH 407 Probability Theory Units: 4"
+        },
+        {
+          "code": "MATH 308",
+          "title": "Statistical Inference and Data Analysis II  or",
+          "units": 4.0,
+          "source_line": "- MATH 308 Statistical Inference and Data Analysis II Units: 4 or"
+        },
+        {
+          "code": "MATH 408",
+          "title": "Mathematical Statistics",
+          "units": 4.0,
+          "source_line": "- MATH 408 Mathematical Statistics Units: 4"
+        },
+        {
+          "code": "PHYS 135bL",
+          "title": "Physics for the Life Sciences  or",
+          "units": 4.0,
+          "source_line": "- PHYS 135bL Physics for the Life Sciences Units: 4 or"
+        },
+        {
+          "code": "PHYS 152L",
+          "title": "Fundamentals of Physics II: Electricity and Magnetism  or",
+          "units": 4.0,
+          "source_line": "- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4 or"
+        },
+        {
+          "code": "PHYS 162L",
+          "title": "Advanced Principles of Physics II  or",
+          "units": 4.0,
+          "source_line": "- PHYS 162L Advanced Principles of Physics II Units: 4 or"
+        },
+        {
+          "code": "PHYS 172L",
+          "title": "Applied Physics II: Electricity, Magnetism and Optics",
+          "units": 4.0,
+          "source_line": "- PHYS 172L Applied Physics II: Electricity, Magnetism and Optics Units: 4"
+        },
+        {
+          "code": "QBIO 401",
+          "title": "Introduction to Computational Analysis of Biological Data",
+          "units": 4.0,
+          "source_line": "- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4"
+        },
+        {
+          "code": "QBIO 460",
+          "title": "Introduction to Machine Learning in Biology",
+          "units": 4.0,
+          "source_line": "- QBIO 460 Introduction to Machine Learning in Biology Units: 4"
+        },
+        {
+          "code": "QBIO 465",
+          "title": "Artificial Intelligence in Biology and Medicine",
+          "units": 4.0,
+          "source_line": "- QBIO 465 Artificial Intelligence in Biology and Medicine Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose three of the following courses. Note: Courses taken to satisfy the Foundational Computing Course requirement may not be used as Specialization Courses.",
+          "source_line": "Choose three of the following courses. Note: Courses taken to satisfy the Foundational Computing Course requirement may not be used as Specialization Courses.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose three of the following courses. Note: Courses taken to satisfy the Foundational Computing Course requirement may not be used as Specialization Courses.",
+      "total_units": null
+    },
+    {
+      "title": "Capstone Courses (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "QBIO 475",
+          "title": "Statistical and Evolutionary Genetics",
+          "units": 4.0,
+          "source_line": "- QBIO 475 Statistical and Evolutionary Genetics Units: 4"
+        },
+        {
+          "code": "QBIO 478",
+          "title": "Computational Genome Analysis",
+          "units": 4.0,
+          "source_line": "- QBIO 478 Computational Genome Analysis Units: 4"
+        },
+        {
+          "code": "QBIO 481",
+          "title": "Structural Bioinformatics: From Atoms to Cells",
+          "units": 4.0,
+          "source_line": "- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4"
+        },
+        {
+          "code": "QBIO 482",
+          "title": "Systems Biology: Modeling the Dynamics of Life",
+          "units": 4.0,
+          "source_line": "- QBIO 482 Systems Biology: Modeling the Dynamics of Life Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose two of the following four capstone courses:",
+          "source_line": "Choose two of the following four capstone courses:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose two of the following four capstone courses:",
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Electives (minimum 8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 300L",
+          "title": "Microbiology",
+          "units": 4.0,
+          "source_line": "- BISC 300L Microbiology Units: 4"
+        },
+        {
+          "code": "BISC 307L",
+          "title": "General Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 307L General Physiology Units: 4"
+        },
+        {
+          "code": "BISC 313L",
+          "title": "Evolution and Population Genetics",
+          "units": 4.0,
+          "source_line": "- BISC 313L Evolution and Population Genetics Units: 4"
+        },
+        {
+          "code": "BISC 315L",
+          "title": "Introduction to Ecology",
+          "units": 4.0,
+          "source_line": "- BISC 315L Introduction to Ecology Units: 4"
+        },
+        {
+          "code": "BISC 320Lg",
+          "title": "Molecular Biology",
+          "units": 4.0,
+          "source_line": "- BISC 320Lg Molecular Biology Units: 4"
+        },
+        {
+          "code": "BISC 325",
+          "title": "Genetics",
+          "units": 4.0,
+          "source_line": "- BISC 325 Genetics Units: 4"
+        },
+        {
+          "code": "BISC 330L",
+          "title": "Biochemistry  or",
+          "units": 4.0,
+          "source_line": "- BISC 330L Biochemistry Units: 4 or"
+        },
+        {
+          "code": "BISC 312x",
+          "title": "Molecular Biochemistry  or",
+          "units": 4.0,
+          "source_line": "- BISC 312x Molecular Biochemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 350",
+          "title": "Molecular Principles of Biochemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 350 Molecular Principles of Biochemistry Units: 4"
+        },
+        {
+          "code": "BISC 403",
+          "title": "Advanced Molecular Biology",
+          "units": 4.0,
+          "source_line": "- BISC 403 Advanced Molecular Biology Units: 4"
+        },
+        {
+          "code": "BISC 406L",
+          "title": "Biotechnology",
+          "units": 4.0,
+          "source_line": "- BISC 406L Biotechnology Units: 4"
+        },
+        {
+          "code": "BISC 407",
+          "title": "Cellular and Molecular Neuroscience",
+          "units": 4.0,
+          "source_line": "- BISC 407 Cellular and Molecular Neuroscience Units: 4"
+        },
+        {
+          "code": "BISC 408",
+          "title": "Systems Neuroscience: From Synapses to Perception",
+          "units": 4.0,
+          "source_line": "- BISC 408 Systems Neuroscience: From Synapses to Perception Units: 4"
+        },
+        {
+          "code": "BISC 410",
+          "title": "Applications of Molecular Biology to Medicine",
+          "units": 4.0,
+          "source_line": "- BISC 410 Applications of Molecular Biology to Medicine Units: 4"
+        },
+        {
+          "code": "BISC 411",
+          "title": "Advanced Cell Biology",
+          "units": 4.0,
+          "source_line": "- BISC 411 Advanced Cell Biology Units: 4"
+        },
+        {
+          "code": "BISC 421",
+          "title": "Neurobiology",
+          "units": 4.0,
+          "source_line": "- BISC 421 Neurobiology Units: 4"
+        },
+        {
+          "code": "BISC 423",
+          "title": "Epilepsy to Ecstasy: Biological Basis of Neurological Disorders",
+          "units": 4.0,
+          "source_line": "- BISC 423 Epilepsy to Ecstasy: Biological Basis of Neurological Disorders Units: 4"
+        },
+        {
+          "code": "BISC 424",
+          "title": "Brain Architecture",
+          "units": 4.0,
+          "source_line": "- BISC 424 Brain Architecture Units: 4"
+        },
+        {
+          "code": "BISC 434",
+          "title": "Introduction to Genome Science",
+          "units": 4.0,
+          "source_line": "- BISC 434 Introduction to Genome Science Units: 4"
+        },
+        {
+          "code": "BISC 435",
+          "title": "Advanced Biochemistry",
+          "units": 4.0,
+          "source_line": "- BISC 435 Advanced Biochemistry Units: 4"
+        },
+        {
+          "code": "BISC 450L",
+          "title": "Principles of Immunology",
+          "units": 4.0,
+          "source_line": "- BISC 450L Principles of Immunology Units: 4"
+        },
+        {
+          "code": "BISC 473L",
+          "title": "Biological Oceanography",
+          "units": 4.0,
+          "source_line": "- BISC 473L Biological Oceanography Units: 4"
+        },
+        {
+          "code": "BME 430",
+          "title": "Principles and Applications of Systems Biology",
+          "units": 4.0,
+          "source_line": "- BME 430 Principles and Applications of Systems Biology Units: 4"
+        },
+        {
+          "code": "CSCI 360",
+          "title": "Artificial Intelligence: Principles and Foundations",
+          "units": 4.0,
+          "source_line": "- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4"
+        },
+        {
+          "code": "CSCI 467",
+          "title": "Foundations of Machine Learning",
+          "units": 4.0,
+          "source_line": "- CSCI 467 Foundations of Machine Learning Units: 4"
+        },
+        {
+          "code": "ECON 460",
+          "title": "Economic Applications of Machine Learning",
+          "units": 4.0,
+          "source_line": "- ECON 460 Economic Applications of Machine Learning Units: 4"
+        },
+        {
+          "code": "LING 486",
+          "title": "Natural Language Processing",
+          "units": 4.0,
+          "source_line": "- LING 486 Natural Language Processing Units: 4"
+        },
+        {
+          "code": "LING 487",
+          "title": "Speech Synthesis and Recognition",
+          "units": 4.0,
+          "source_line": "- LING 487 Speech Synthesis and Recognition Units: 4"
+        },
+        {
+          "code": "MATH 447",
+          "title": "Mathematics of Machine Learning",
+          "units": 4.0,
+          "source_line": "- MATH 447 Mathematics of Machine Learning Units: 4"
+        },
+        {
+          "code": "MATH 466",
+          "title": "Dynamic Modeling",
+          "units": 4.0,
+          "source_line": "- MATH 466 Dynamic Modeling Units: 4"
+        },
+        {
+          "code": "MATH 467",
+          "title": "Theory and Computational Methods for Optimization",
+          "units": 4.0,
+          "source_line": "- MATH 467 Theory and Computational Methods for Optimization Units: 4"
+        },
+        {
+          "code": "PHYS 444",
+          "title": "Physical Biology: From Molecules to Cells",
+          "units": 4.0,
+          "source_line": "- PHYS 444 Physical Biology: From Molecules to Cells Units: 4"
+        },
+        {
+          "code": "PSYC 450",
+          "title": "Neural Network Models of Social and Cognitive Processes",
+          "units": 4.0,
+          "source_line": "- PSYC 450 Neural Network Models of Social and Cognitive Processes Units: 4"
+        },
+        {
+          "code": "QBIO 401",
+          "title": "Introduction to Computational Analysis of Biological Data  *",
+          "units": 4.0,
+          "source_line": "- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4 *"
+        },
+        {
+          "code": "QBIO 460",
+          "title": "Introduction to Machine Learning in Biology  *",
+          "units": 4.0,
+          "source_line": "- QBIO 460 Introduction to Machine Learning in Biology Units: 4 *"
+        },
+        {
+          "code": "QBIO 465",
+          "title": "Artificial Intelligence in Biology and Medicine  *",
+          "units": 4.0,
+          "source_line": "- QBIO 465 Artificial Intelligence in Biology and Medicine Units: 4 *"
+        },
+        {
+          "code": "QBIO 475",
+          "title": "Statistical and Evolutionary Genetics  *",
+          "units": 4.0,
+          "source_line": "- QBIO 475 Statistical and Evolutionary Genetics Units: 4 *"
+        },
+        {
+          "code": "QBIO 478",
+          "title": "Computational Genome Analysis  *",
+          "units": 4.0,
+          "source_line": "- QBIO 478 Computational Genome Analysis Units: 4 *"
+        },
+        {
+          "code": "QBIO 479L",
+          "title": "Computational Genome Analysis Laboratory",
+          "units": 4.0,
+          "source_line": "- QBIO 479L Computational Genome Analysis Laboratory Units: 4"
+        },
+        {
+          "code": "QBIO 481",
+          "title": "Structural Bioinformatics: From Atoms to Cells  *",
+          "units": 4.0,
+          "source_line": "- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4 *"
+        },
+        {
+          "code": "QBIO 482",
+          "title": "Systems Biology: Modeling the Dynamics of Life  *",
+          "units": 4.0,
+          "source_line": "- QBIO 482 Systems Biology: Modeling the Dynamics of Life Units: 4 *"
+        },
+        {
+          "code": "QBIO 499",
+          "title": "Special Topics , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- QBIO 499 Special Topics Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "SCRM 487",
+          "title": "Regenerative Medicine: Principles, Paradigms and Practice",
+          "units": 4.0,
+          "source_line": "- SCRM 487 Regenerative Medicine: Principles, Paradigms and Practice Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose two to three of the following courses for upper-division electives. Note: Courses taken to satisfy the Foundational Computing Courses, Specialization Courses or Capstone Courses, may not double-count toward upper-division electives.",
+          "source_line": "Choose two to three of the following courses for upper-division electives. Note: Courses taken to satisfy the Foundational Computing Courses, Specialization Courses or Capstone Courses, may not double-count toward upper-division electives.",
+          "states_choice_rule": true
+        },
+        {
+          "text": "* Foundational, Specialization or Capstone course",
+          "source_line": "- * Foundational, Specialization or Capstone course"
+        }
+      ],
+      "choice": "Choose two to three of the following courses for upper-division electives. Note: Courses taken to satisfy the Foundational Computing Courses, Specialization Courses or Capstone Courses, may not double-count toward upper-division electives.",
+      "total_units": null
+    },
+    {
+      "title": "Research Experience (6 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "QBIO 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- QBIO 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "QBIO 493",
+          "title": "Quantitative Biology Honors Seminar",
+          "units": 1.0,
+          "source_line": "- QBIO 493 Quantitative Biology Honors Seminar Units: 1"
+        },
+        {
+          "code": "QBIO 494",
+          "title": "Quantitative Biology Honors Thesis",
+          "units": 1.0,
+          "source_line": "- QBIO 494 Quantitative Biology Honors Thesis Units: 1"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students are required to enroll in a total of 6 units of directed research in a lab approved by the Quantitative Biology Executive Committee or assigned faculty adviser. Students may choose from any of the courses listed below, however, students in the honors program will enroll in both QBIO 493 and QBIO 494 .",
+          "source_line": "Students are required to enroll in a total of 6 units of directed research in a lab approved by the Quantitative Biology Executive Committee or assigned faculty adviser. Students may choose from any of the courses listed below, however, students in the honors program will enroll in both QBIO 493 and QBIO 494 ."
+        },
+        {
+          "text": "and",
+          "source_line": "- and"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,251 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Behavioral Economics and Psychology (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32779",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32779&returnto=9396",
+    "source_text_file": "027_behavioral_economics_and_psychology_ba.txt",
+    "source_content_sha256": "7b01b4c1c9a1a9abfcf51dd59c963c65d8979c76f568bd2006e762d1503148b1",
+    "retrieved_at": "2026-07-31T00:49:56Z"
+  },
+  "totals": {
+    "stated_total_units": 128.0,
+    "stated_total_units_source": "program requires a minimum of 128 units",
+    "unit_statements_verbatim": [
+      "Completion of the program requires a minimum of 128 units.",
+      "Foundational Theory\n\n---\n\n12 units total\n\n- ECON 203g Principles of Microeconomics Units: 4\n- ECON 303 Intermediate Microeconomic Theory Units: 4\n- PSYC 100Lg Introduction to Psychology Units: 4\n\n## II.",
+      "Techniques and Methods\n\n---\n\n18 units total\n\n- ECON 317 Introduction to Statistics for Economists Units: 4\n- TAC 115 Programming in Python Units: 2 or\n- TAC 116 Accelerated Programming in Python Units: 2\n- MATH 125g Calculus I Units: 4\n- PSYC 314L Experimental Research Methods Units: 4\n- PSYC 316L Non-Experimental Research Methods Units: 4\n\n## III."
+    ],
+    "course_entry_count": 25,
+    "distinct_course_codes": 25,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Behavioral Economics and Psychology (BEEP) program aims to train students in a comprehensive set of skills necessary to understand how economic actors make decisions in real-life settings, to understand how these decisions affect economic and social outcomes and to design interventions to improve these outcomes. Concretely, students will:",
+          "source_line": "The Behavioral Economics and Psychology (BEEP) program aims to train students in a comprehensive set of skills necessary to understand how economic actors make decisions in real-life settings, to understand how these decisions affect economic and social outcomes and to design interventions to improve these outcomes. Concretely, students will:"
+        },
+        {
+          "text": "1. acquire knowledge about human cognition and decision-making and become capable of modeling behavior;",
+          "source_line": "1. acquire knowledge about human cognition and decision-making and become capable of modeling behavior;"
+        },
+        {
+          "text": "2. study how individual behavior affects outcomes in strategic interactions and markets; and",
+          "source_line": "2. study how individual behavior affects outcomes in strategic interactions and markets; and"
+        },
+        {
+          "text": "3. learn tools to collect and analyze information relevant to the areas of inquiry explored in the program.",
+          "source_line": "3. learn tools to collect and analyze information relevant to the areas of inquiry explored in the program."
+        },
+        {
+          "text": "Completion of the program requires a minimum of 128 units.",
+          "source_line": "Completion of the program requires a minimum of 128 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "I. Foundational Theory",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ECON 203g",
+          "title": "Principles of Microeconomics",
+          "units": 4.0,
+          "source_line": "- ECON 203g Principles of Microeconomics Units: 4"
+        },
+        {
+          "code": "ECON 303",
+          "title": "Intermediate Microeconomic Theory",
+          "units": 4.0,
+          "source_line": "- ECON 303 Intermediate Microeconomic Theory Units: 4"
+        },
+        {
+          "code": "PSYC 100Lg",
+          "title": "Introduction to Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 100Lg Introduction to Psychology Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "12 units total",
+          "source_line": "12 units total"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "II. Techniques and Methods",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ECON 317",
+          "title": "Introduction to Statistics for Economists",
+          "units": 4.0,
+          "source_line": "- ECON 317 Introduction to Statistics for Economists Units: 4"
+        },
+        {
+          "code": "TAC 115",
+          "title": "Programming in Python  or",
+          "units": 2.0,
+          "source_line": "- TAC 115 Programming in Python Units: 2 or"
+        },
+        {
+          "code": "TAC 116",
+          "title": "Accelerated Programming in Python",
+          "units": 2.0,
+          "source_line": "- TAC 116 Accelerated Programming in Python Units: 2"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "PSYC 314L",
+          "title": "Experimental Research Methods",
+          "units": 4.0,
+          "source_line": "- PSYC 314L Experimental Research Methods Units: 4"
+        },
+        {
+          "code": "PSYC 316L",
+          "title": "Non-Experimental Research Methods",
+          "units": 4.0,
+          "source_line": "- PSYC 316L Non-Experimental Research Methods Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "18 units total",
+          "source_line": "18 units total"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "III. Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ECON 318",
+          "title": "Introduction to Econometrics",
+          "units": 4.0,
+          "source_line": "- ECON 318 Introduction to Econometrics Units: 4"
+        },
+        {
+          "code": "ECON 404",
+          "title": "Games and Economics",
+          "units": 4.0,
+          "source_line": "- ECON 404 Games and Economics Units: 4"
+        },
+        {
+          "code": "ECON 405",
+          "title": "Neuroeconomics",
+          "units": 4.0,
+          "source_line": "- ECON 405 Neuroeconomics Units: 4"
+        },
+        {
+          "code": "ECON 415",
+          "title": "Behavioral Economics",
+          "units": 4.0,
+          "source_line": "- ECON 415 Behavioral Economics Units: 4"
+        },
+        {
+          "code": "ECON 420",
+          "title": "Experimental Economics",
+          "units": 4.0,
+          "source_line": "- ECON 420 Experimental Economics Units: 4"
+        },
+        {
+          "code": "ECON 432",
+          "title": "Economics of Happiness",
+          "units": 4.0,
+          "source_line": "- ECON 432 Economics of Happiness Units: 4"
+        },
+        {
+          "code": "ECON 620L",
+          "title": "Experimental Methods I",
+          "units": 4.0,
+          "source_line": "- ECON 620L Experimental Methods I Units: 4"
+        },
+        {
+          "code": "ECON 621L",
+          "title": "Experimental Methods II",
+          "units": 4.0,
+          "source_line": "- ECON 621L Experimental Methods II Units: 4"
+        },
+        {
+          "code": "PSYC 305",
+          "title": "Learning and Memory",
+          "units": 4.0,
+          "source_line": "- PSYC 305 Learning and Memory Units: 4"
+        },
+        {
+          "code": "PSYC 326",
+          "title": "Behavioral Neuroscience",
+          "units": 4.0,
+          "source_line": "- PSYC 326 Behavioral Neuroscience Units: 4"
+        },
+        {
+          "code": "PSYC 355",
+          "title": "Social Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 355 Social Psychology Units: 4"
+        },
+        {
+          "code": "PSYC 422",
+          "title": "Human Judgment and Decision Making",
+          "units": 4.0,
+          "source_line": "- PSYC 422 Human Judgment and Decision Making Units: 4"
+        },
+        {
+          "code": "PSYC 423",
+          "title": "User Experience",
+          "units": 4.0,
+          "source_line": "- PSYC 423 User Experience Units: 4"
+        },
+        {
+          "code": "PSYC 434",
+          "title": "Intelligence, Problem Solving and Creativity",
+          "units": 4.0,
+          "source_line": "- PSYC 434 Intelligence, Problem Solving and Creativity Units: 4"
+        },
+        {
+          "code": "PSYC 452",
+          "title": "Social Neuroscience",
+          "units": 4.0,
+          "source_line": "- PSYC 452 Social Neuroscience Units: 4"
+        },
+        {
+          "code": "PSYC 459",
+          "title": "Industrial/Organizational Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 459 Industrial/Organizational Psychology Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "28 units: seven 4-unit electives with no more than four courses (16 units) from either ECON or PSYC",
+          "source_line": "28 units: seven 4-unit electives with no more than four courses (16 units) from either ECON or PSYC"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

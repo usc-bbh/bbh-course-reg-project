@@ -1,0 +1,336 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Screenwriting Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31690",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31690&returnto=9396",
+    "source_text_file": "443_screenwriting_minor.txt",
+    "source_content_sha256": "5f0829a310f9fe930bd51c3d33404d6483155db6a2b7155d8720ea44fcb70965",
+    "retrieved_at": "2026-07-31T01:13:02Z"
+  },
+  "totals": {
+    "stated_total_units": 10.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "A total of 20 units is required to complete the Screenwriting Minor: 10 units of fundamental courses and 10 units of electives.",
+      "## Fundamentals And Feature Development (10 Units)\n\n---\n\n- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4\n- CTWR 416 Motion Picture Script Analysis Units: 2\n- CTWR 321 Breaking the Hour-Long Television Series Units: 4 * or\n- CTWR 324 Breaking the Half-Hour Television Series Units: 4 *\n- *Prerequisite Required.",
+      "### Total units: 10\n\n---\n\n## Additional Electives (10 Units)\n\n---\n\n- CTWR 303g From Page to Screen: Adapting Stories for Film and TV Units: 4\n- CTWR 402 Writing and Social Change Units: 2\n- CTWR 403 Writing the Narrative Podcast Series Units: 2\n- CTWR 404 Foundations of Comedy Units: 2\n- CTWR 407 Creating the Comedic Character Units: 2\n- CTWR 410L Character Development and Storytelling for Games Units: 4\n- CTWR 411 Television Script Analysis Units: 2\n- CTWR 417 Script Coverage and Story Analysis Units: 2\n- CTWR 421 Writing the Hour-Long Dramatic Series Units: 2 max 4 *\n- CTWR 422 Creating the Dramatic Television Series Units: 2 max 4\n- CTWR 423 Writing the Screenplay Units: 4 Units: 4 *\n- CTWR 430 Comedy Writers and Their Work Units: 2\n- CTWR 431 Screenwriters and Their Work Units: 2 max 6\n- CTWR 432 Television Writers and Their Work Units: 2\n- CTWR 433 Adaptations: Transferring Existing Work to the Screen Units: 2\n- CTWR 434 Writing the Half-Hour Comedy Series Units: 2 max 6 *\n- CTWR 435 Writing for Film and Television Genres Units: 2, 3, 4 max 8 *\n- CTWR 437 Writing the Original Situation Comedy Pilot Units: 4 max 8 *\n- CTWR 438 Micro-Stories for New Platforms Units: 2, 4 max 8\n- CTWR 439 Writing the Original Dramatic Series Pilot Units: 4 max 8 *\n- CTWR 441 Creative Consciousness and Cinematic Dreams Units: 2\n- CTWR 446 Narrative Design of the Contained Story Units: 2\n- CTWR 449 Rewriting the Original Dramatic Series Pilot Units: 4 max 8*\n- CTWR 453 Advanced Feature Rewriting Units: 4 max 8 *\n- CTWR 468 Screenwriting in Collaboration Units: 4 max 8 *\n- CTWR 477 Staff Writing the Sketch Comedy Show Units: 2 max 6*\n- CTWR 487 Staff Writing the Multi-Camera Television Series Units: 4 max 8*\n- CTWR 499 Special Topics Units: 2, 3, 4 max 8\n- *Prerequisite Required\n\n## Additional Requirements\n\n---\n\n#### Grade Point Averages\n\nA minimum grade of C (2.",
+      "#### Graduate Courses\n\nStudents may not apply more than 16 units of graduate level course work toward their university degree."
+    ],
+    "course_entry_count": 32,
+    "distinct_course_codes": 32,
+    "section_count": 9
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in Screenwriting is designed to train students in the creatively challenging field of writing for screen and television. Students learn the fundamentals of writing for film and television with the opportunity to specialize in writing feature-length screenplays, teleplays in both drama and comedy, or analysis of the craft of screenwriting.",
+          "source_line": "The minor in Screenwriting is designed to train students in the creatively challenging field of writing for screen and television. Students learn the fundamentals of writing for film and television with the opportunity to specialize in writing feature-length screenplays, teleplays in both drama and comedy, or analysis of the craft of screenwriting."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Application Procedures",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "To apply to the minor in Screenwriting, a student must be in good academic standing, have a declared major, and have previously completed with a passing grade CTWR 409 Fundamentals of Screenwriting: Character, Conflict, and Story.",
+          "source_line": "To apply to the minor in Screenwriting, a student must be in good academic standing, have a declared major, and have previously completed with a passing grade CTWR 409 Fundamentals of Screenwriting: Character, Conflict, and Story."
+        },
+        {
+          "text": "Applications and information can be obtained online at cinema.usc.edu or by emailing writing@cinema.usc.edu.",
+          "source_line": "Applications and information can be obtained online at cinema.usc.edu or by emailing writing@cinema.usc.edu."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Course Requirements for the Minor",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in Screenwriting is a specialized course of study for students who desire a solid foundation in the craft of screenwriting. A total of 20 units is required to complete the Screenwriting Minor: 10 units of fundamental courses and 10 units of electives.",
+          "source_line": "The minor in Screenwriting is a specialized course of study for students who desire a solid foundation in the craft of screenwriting. A total of 20 units is required to complete the Screenwriting Minor: 10 units of fundamental courses and 10 units of electives."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Fundamentals And Feature Development (10 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTWR 409",
+          "title": "Fundamentals of Screenwriting: Character, Conflict and Story",
+          "units": 4.0,
+          "source_line": "- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4"
+        },
+        {
+          "code": "CTWR 416",
+          "title": "Motion Picture Script Analysis",
+          "units": 2.0,
+          "source_line": "- CTWR 416 Motion Picture Script Analysis Units: 2"
+        },
+        {
+          "code": "CTWR 321",
+          "title": "Breaking the Hour-Long Television Series  * or",
+          "units": 4.0,
+          "source_line": "- CTWR 321 Breaking the Hour-Long Television Series Units: 4 * or"
+        },
+        {
+          "code": "CTWR 324",
+          "title": "Breaking the Half-Hour Television Series  *",
+          "units": 4.0,
+          "source_line": "- CTWR 324 Breaking the Half-Hour Television Series Units: 4 *"
+        }
+      ],
+      "notes": [
+        {
+          "text": "*Prerequisite Required.",
+          "source_line": "- *Prerequisite Required."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 10",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 10.0
+    },
+    {
+      "title": "Additional Electives (10 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTWR 303g",
+          "title": "From Page to Screen: Adapting Stories for Film and TV",
+          "units": 4.0,
+          "source_line": "- CTWR 303g From Page to Screen: Adapting Stories for Film and TV Units: 4"
+        },
+        {
+          "code": "CTWR 402",
+          "title": "Writing and Social Change",
+          "units": 2.0,
+          "source_line": "- CTWR 402 Writing and Social Change Units: 2"
+        },
+        {
+          "code": "CTWR 403",
+          "title": "Writing the Narrative Podcast Series",
+          "units": 2.0,
+          "source_line": "- CTWR 403 Writing the Narrative Podcast Series Units: 2"
+        },
+        {
+          "code": "CTWR 404",
+          "title": "Foundations of Comedy",
+          "units": 2.0,
+          "source_line": "- CTWR 404 Foundations of Comedy Units: 2"
+        },
+        {
+          "code": "CTWR 407",
+          "title": "Creating the Comedic Character",
+          "units": 2.0,
+          "source_line": "- CTWR 407 Creating the Comedic Character Units: 2"
+        },
+        {
+          "code": "CTWR 410L",
+          "title": "Character Development and Storytelling for Games",
+          "units": 4.0,
+          "source_line": "- CTWR 410L Character Development and Storytelling for Games Units: 4"
+        },
+        {
+          "code": "CTWR 411",
+          "title": "Television Script Analysis",
+          "units": 2.0,
+          "source_line": "- CTWR 411 Television Script Analysis Units: 2"
+        },
+        {
+          "code": "CTWR 417",
+          "title": "Script Coverage and Story Analysis",
+          "units": 2.0,
+          "source_line": "- CTWR 417 Script Coverage and Story Analysis Units: 2"
+        },
+        {
+          "code": "CTWR 421",
+          "title": "Writing the Hour-Long Dramatic Series  max 4 *",
+          "units": 2.0,
+          "source_line": "- CTWR 421 Writing the Hour-Long Dramatic Series Units: 2 max 4 *"
+        },
+        {
+          "code": "CTWR 422",
+          "title": "Creating the Dramatic Television Series  max 4",
+          "units": 2.0,
+          "source_line": "- CTWR 422 Creating the Dramatic Television Series Units: 2 max 4"
+        },
+        {
+          "code": "CTWR 423",
+          "title": "Writing the Screenplay   *",
+          "units": 4.0,
+          "source_line": "- CTWR 423 Writing the Screenplay Units: 4 Units: 4 *"
+        },
+        {
+          "code": "CTWR 430",
+          "title": "Comedy Writers and Their Work",
+          "units": 2.0,
+          "source_line": "- CTWR 430 Comedy Writers and Their Work Units: 2"
+        },
+        {
+          "code": "CTWR 431",
+          "title": "Screenwriters and Their Work  max 6",
+          "units": 2.0,
+          "source_line": "- CTWR 431 Screenwriters and Their Work Units: 2 max 6"
+        },
+        {
+          "code": "CTWR 432",
+          "title": "Television Writers and Their Work",
+          "units": 2.0,
+          "source_line": "- CTWR 432 Television Writers and Their Work Units: 2"
+        },
+        {
+          "code": "CTWR 433",
+          "title": "Adaptations: Transferring Existing Work to the Screen",
+          "units": 2.0,
+          "source_line": "- CTWR 433 Adaptations: Transferring Existing Work to the Screen Units: 2"
+        },
+        {
+          "code": "CTWR 434",
+          "title": "Writing the Half-Hour Comedy Series  max 6 *",
+          "units": 2.0,
+          "source_line": "- CTWR 434 Writing the Half-Hour Comedy Series Units: 2 max 6 *"
+        },
+        {
+          "code": "CTWR 435",
+          "title": "Writing for Film and Television Genres , 3, 4 max 8 *",
+          "units": 2.0,
+          "source_line": "- CTWR 435 Writing for Film and Television Genres Units: 2, 3, 4 max 8 *"
+        },
+        {
+          "code": "CTWR 437",
+          "title": "Writing the Original Situation Comedy Pilot  max 8 *",
+          "units": 4.0,
+          "source_line": "- CTWR 437 Writing the Original Situation Comedy Pilot Units: 4 max 8 *"
+        },
+        {
+          "code": "CTWR 438",
+          "title": "Micro-Stories for New Platforms , 4 max 8",
+          "units": 2.0,
+          "source_line": "- CTWR 438 Micro-Stories for New Platforms Units: 2, 4 max 8"
+        },
+        {
+          "code": "CTWR 439",
+          "title": "Writing the Original Dramatic Series Pilot  max 8 *",
+          "units": 4.0,
+          "source_line": "- CTWR 439 Writing the Original Dramatic Series Pilot Units: 4 max 8 *"
+        },
+        {
+          "code": "CTWR 441",
+          "title": "Creative Consciousness and Cinematic Dreams",
+          "units": 2.0,
+          "source_line": "- CTWR 441 Creative Consciousness and Cinematic Dreams Units: 2"
+        },
+        {
+          "code": "CTWR 446",
+          "title": "Narrative Design of the Contained Story",
+          "units": 2.0,
+          "source_line": "- CTWR 446 Narrative Design of the Contained Story Units: 2"
+        },
+        {
+          "code": "CTWR 449",
+          "title": "Rewriting the Original Dramatic Series Pilot  max 8*",
+          "units": 4.0,
+          "source_line": "- CTWR 449 Rewriting the Original Dramatic Series Pilot Units: 4 max 8*"
+        },
+        {
+          "code": "CTWR 453",
+          "title": "Advanced Feature Rewriting  max 8 *",
+          "units": 4.0,
+          "source_line": "- CTWR 453 Advanced Feature Rewriting Units: 4 max 8 *"
+        },
+        {
+          "code": "CTWR 468",
+          "title": "Screenwriting in Collaboration  max 8 *",
+          "units": 4.0,
+          "source_line": "- CTWR 468 Screenwriting in Collaboration Units: 4 max 8 *"
+        },
+        {
+          "code": "CTWR 477",
+          "title": "Staff Writing the Sketch Comedy Show  max 6*",
+          "units": 2.0,
+          "source_line": "- CTWR 477 Staff Writing the Sketch Comedy Show Units: 2 max 6*"
+        },
+        {
+          "code": "CTWR 487",
+          "title": "Staff Writing the Multi-Camera Television Series  max 8*",
+          "units": 4.0,
+          "source_line": "- CTWR 487 Staff Writing the Multi-Camera Television Series Units: 4 max 8*"
+        },
+        {
+          "code": "CTWR 499",
+          "title": "Special Topics , 3, 4 max 8",
+          "units": 2.0,
+          "source_line": "- CTWR 499 Special Topics Units: 2, 3, 4 max 8"
+        }
+      ],
+      "notes": [
+        {
+          "text": "*Prerequisite Required",
+          "source_line": "- *Prerequisite Required"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Grade Point Averages",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.",
+          "source_line": "A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Graduate Courses",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students may not apply more than 16 units of graduate level course work toward their university degree.",
+          "source_line": "Students may not apply more than 16 units of graduate level course work toward their university degree."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

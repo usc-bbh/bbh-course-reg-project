@@ -1,0 +1,49 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "English (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31788",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31788&returnto=9396",
+    "source_text_file": "105_english_ba.txt",
+    "source_content_sha256": "2d83f07d6c64570c8f8ed25e3578866439acbf111f7decc6a8ce0d9d23fed30b",
+    "retrieved_at": "2026-07-31T00:54:07Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "# English (BA)\n\n---\n\nAll English majors must take an introductory course (ENGL 240 ), senior seminar (ENGL 491 ) and complete a minimum of 40 units in the major, of which 24 units must be upper-division."
+    ],
+    "course_entry_count": 0,
+    "distinct_course_codes": 0,
+    "section_count": 1
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "All English majors must take an introductory course (ENGL 240 ), senior seminar (ENGL 491 ) and complete a minimum of 40 units in the major, of which 24 units must be upper-division. Students should take ENGL 240 before enrolling in upper-division literature courses or creative writing workshops.",
+          "source_line": "All English majors must take an introductory course (ENGL 240 ), senior seminar (ENGL 491 ) and complete a minimum of 40 units in the major, of which 24 units must be upper-division. Students should take ENGL 240 before enrolling in upper-division literature courses or creative writing workshops."
+        },
+        {
+          "text": "In addition to ENGL 240 , majors emphasizing English literature must take: one lower-division course and one upper-division course in early literatures; one lower-division and one upper-division course in later literatures; two courses in interpretive lenses (categories include race, gender, and/or sexuality, and genre and media studies); and two upper-division electives with at least one in the 400–499 range.",
+          "source_line": "In addition to ENGL 240 , majors emphasizing English literature must take: one lower-division course and one upper-division course in early literatures; one lower-division and one upper-division course in later literatures; two courses in interpretive lenses (categories include race, gender, and/or sexuality, and genre and media studies); and two upper-division electives with at least one in the 400–499 range."
+        },
+        {
+          "text": "In addition to ENGL 240 , majors emphasizing creative writing must take: one lower-division course in early literatures; one lower-division course in later literatures; one course in interpretive lenses; two introductory creative writing workshops in poetry and prose; one creative writing workshop at the 400-level; one course in contemporary/modern literature; and one upper-division elective in the 400–499 range.",
+          "source_line": "In addition to ENGL 240 , majors emphasizing creative writing must take: one lower-division course in early literatures; one lower-division course in later literatures; one course in interpretive lenses; two introductory creative writing workshops in poetry and prose; one creative writing workshop at the 400-level; one course in contemporary/modern literature; and one upper-division elective in the 400–499 range."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

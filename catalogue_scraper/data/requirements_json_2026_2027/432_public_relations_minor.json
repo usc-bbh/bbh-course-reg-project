@@ -1,0 +1,81 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Public Relations Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32417",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32417&returnto=9396",
+    "source_text_file": "432_public_relations_minor.txt",
+    "source_content_sha256": "284bb35163afdd977b6fde9e6a68c5581fcfd9d7aebe819257bcd4648d281a40",
+    "retrieved_at": "2026-07-31T01:12:37Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Required Courses\n\n---\n\n- PR 209 Effective Writing for Strategic Public Relations and Advertising Units: 4\n- PR 250 Strategic Public Relations and Advertising: An Introduction Units: 4\n- PR 352 Public Relations Media and Content for Non-Majors Units: 4\n\n## Elective Courses\n\n---\n\nChoose 12 units of PR and/or JOUR 300-499 level electives."
+    ],
+    "course_entry_count": 3,
+    "distinct_course_codes": 3,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The public relations minor is designed for students interested in building a career in, or developing a better understanding of, the field of public relations. At no time has public relations been more successful or more visible than it is today. Emphasis is placed throughout the program on both the practical skills required to meet the demands of the marketplace and the critical thinking required to be a successful entry-level public relations practitioner.",
+          "source_line": "The public relations minor is designed for students interested in building a career in, or developing a better understanding of, the field of public relations. At no time has public relations been more successful or more visible than it is today. Emphasis is placed throughout the program on both the practical skills required to meet the demands of the marketplace and the critical thinking required to be a successful entry-level public relations practitioner."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PR 209",
+          "title": "Effective Writing for Strategic Public Relations and Advertising",
+          "units": 4.0,
+          "source_line": "- PR 209 Effective Writing for Strategic Public Relations and Advertising Units: 4"
+        },
+        {
+          "code": "PR 250",
+          "title": "Strategic Public Relations and Advertising: An Introduction",
+          "units": 4.0,
+          "source_line": "- PR 250 Strategic Public Relations and Advertising: An Introduction Units: 4"
+        },
+        {
+          "code": "PR 352",
+          "title": "Public Relations Media and Content for Non-Majors",
+          "units": 4.0,
+          "source_line": "- PR 352 Public Relations Media and Content for Non-Majors Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Courses",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Choose 12 units of PR and/or JOUR 300-499 level electives.",
+          "source_line": "Choose 12 units of PR and/or JOUR 300-499 level electives."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

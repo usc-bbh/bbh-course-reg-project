@@ -1,0 +1,253 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Chemistry (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31734",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31734&returnto=9396",
+    "source_text_file": "063_chemistry_bs.txt",
+    "source_content_sha256": "c949f2de2a51d9f2bdbdb30d99d3d00b9d3ed014062c011a9e320415d7fb4b5e",
+    "retrieved_at": "2026-07-31T00:51:21Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 30,
+    "distinct_course_codes": 30,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "In addition to the general education, writing, foreign language and diversity requirements for a degree in the USC Dornsife College of Letters, Arts and Sciences, the following courses are required. Note that for this major, CHEM 350 satisfies General Education in Category D: Life Sciences.",
+          "source_line": "In addition to the general education, writing, foreign language and diversity requirements for a degree in the USC Dornsife College of Letters, Arts and Sciences, the following courses are required. Note that for this major, CHEM 350 satisfies General Education in Category D: Life Sciences."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses, Lower-Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CHEM 105aLg",
+          "title": "General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 105aLg General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 105bL",
+          "title": "General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 105bL General Chemistry Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "CHEM 107Lg",
+          "title": "General Chemistry for Chemistry Majors",
+          "units": 4.0,
+          "source_line": "- CHEM 107Lg General Chemistry for Chemistry Majors Units: 4"
+        },
+        {
+          "code": "CHEM 108L",
+          "title": "General Chemistry for Chemistry Majors: Kinetics and Equilibrium",
+          "units": 4.0,
+          "source_line": "- CHEM 108L General Chemistry for Chemistry Majors: Kinetics and Equilibrium Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "CHEM 115aLg",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115aLg Advanced General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 115bL",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115bL Advanced General Chemistry Units: 4"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4"
+        },
+        {
+          "code": "MATH 225",
+          "title": "Linear Algebra and Linear Differential Equations  or",
+          "units": 4.0,
+          "source_line": "- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4"
+        },
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4"
+        },
+        {
+          "code": "PHYS 152L",
+          "title": "Fundamentals of Physics II: Electricity and Magnetism",
+          "units": 4.0,
+          "source_line": "- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4"
+        },
+        {
+          "code": "PHYS 153L",
+          "title": "Fundamentals of Physics III: Optics, Thermo, Modern Physics",
+          "units": 4.0,
+          "source_line": "- PHYS 153L Fundamentals of Physics III: Optics, Thermo, Modern Physics Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses, Upper-Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CHEM 300L",
+          "title": "Analytical Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 300L Analytical Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 325aL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 325aL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 325bL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 325bL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 332L",
+          "title": "Physical Chemical Measurements",
+          "units": 4.0,
+          "source_line": "- CHEM 332L Physical Chemical Measurements Units: 4"
+        },
+        {
+          "code": "CHEM 350",
+          "title": "Molecular Principles of Biochemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 350 Molecular Principles of Biochemistry Units: 4"
+        },
+        {
+          "code": "CHEM 423L",
+          "title": "Advanced Laboratory Techniques in Organic and Inorganic Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 423L Advanced Laboratory Techniques in Organic and Inorganic Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 462L",
+          "title": "Properties and Sustainability of Polymers  or",
+          "units": 4.0,
+          "source_line": "- CHEM 462L Properties and Sustainability of Polymers Units: 4 or"
+        },
+        {
+          "code": "CHEM 463L",
+          "title": "Chemical Nanotechnology Laboratory  or",
+          "units": 2.0,
+          "source_line": "- CHEM 463L Chemical Nanotechnology Laboratory Units: 2 or"
+        },
+        {
+          "code": "CHEM 465L",
+          "title": "Chemical Instrumentation  or",
+          "units": 4.0,
+          "source_line": "- CHEM 465L Chemical Instrumentation Units: 4 or"
+        },
+        {
+          "code": "CHEM 467L",
+          "title": "Advanced Chemical Biology Laboratory",
+          "units": 2.0,
+          "source_line": "- CHEM 467L Advanced Chemical Biology Laboratory Units: 2"
+        },
+        {
+          "code": "CHEM 426",
+          "title": "Advanced Organic Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 426 Advanced Organic Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 455",
+          "title": "Chemical Nanotechnology  or",
+          "units": 4.0,
+          "source_line": "- CHEM 455 Chemical Nanotechnology Units: 4 or"
+        },
+        {
+          "code": "CHEM 461",
+          "title": "Polymer Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 461 Polymer Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 430",
+          "title": "Physical Chemistry: Thermodynamics and Kinetics",
+          "units": 4.0,
+          "source_line": "- CHEM 430 Physical Chemistry: Thermodynamics and Kinetics Units: 4"
+        },
+        {
+          "code": "CHEM 431",
+          "title": "Physical Chemistry: Quantum Mechanics",
+          "units": 4.0,
+          "source_line": "- CHEM 431 Physical Chemistry: Quantum Mechanics Units: 4"
+        },
+        {
+          "code": "CHEM 453",
+          "title": "Advanced Inorganic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 453 Advanced Inorganic Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8 (4 Units Required)",
+          "units": 1.0,
+          "source_line": "- CHEM 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 (4 Units Required)"
+        }
+      ],
+      "notes": [
+        {
+          "text": "(A total of 4 Units)",
+          "source_line": "- (A total of 4 Units)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,376 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Philosophy Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31878",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31878&returnto=9396",
+    "source_text_file": "415_philosophy_minor.txt",
+    "source_content_sha256": "c70eaf17f4b06c6449aab7a273366ab4b400f2bbe790905fd9ba1ef5ab7216ab",
+    "retrieved_at": "2026-07-31T01:11:57Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 49,
+    "distinct_course_codes": 46,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in philosophy requires the completion of five philosophy courses, at least four of which must be upper-division courses. All minors must take a gateway course — PHIL 315 , PHIL 320 , PHIL 336 , PHIL 337 , PHIL 340 , PHIL 360 or PHIL 385 .",
+          "source_line": "The minor in philosophy requires the completion of five philosophy courses, at least four of which must be upper-division courses. All minors must take a gateway course — PHIL 315 , PHIL 320 , PHIL 336 , PHIL 337 , PHIL 340 , PHIL 360 or PHIL 385 ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Distribution requirement:",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Students must take at least one course from each of the three categories listed below:",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "History of Philosophy:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "PHIL 311",
+          "title": "The Quest for the Individual in Early Modern Europe",
+          "units": 4.0,
+          "source_line": "- PHIL 311 The Quest for the Individual in Early Modern Europe Units: 4"
+        },
+        {
+          "code": "PHIL 314",
+          "title": "Origins of Free Market Thought in Early Modern Europe",
+          "units": 4.0,
+          "source_line": "- PHIL 314 Origins of Free Market Thought in Early Modern Europe Units: 4"
+        },
+        {
+          "code": "PHIL 315",
+          "title": "History of Western Philosophy: Ancient Period",
+          "units": 4.0,
+          "source_line": "- PHIL 315 History of Western Philosophy: Ancient Period Units: 4"
+        },
+        {
+          "code": "PHIL 317",
+          "title": "History of Western Philosophy: Medieval Period",
+          "units": 4.0,
+          "source_line": "- PHIL 317 History of Western Philosophy: Medieval Period Units: 4"
+        },
+        {
+          "code": "PHIL 320",
+          "title": "History of Western Philosophy: Modern Period",
+          "units": 4.0,
+          "source_line": "- PHIL 320 History of Western Philosophy: Modern Period Units: 4"
+        },
+        {
+          "code": "PHIL 410",
+          "title": "Early Greek Thought",
+          "units": 4.0,
+          "source_line": "- PHIL 410 Early Greek Thought Units: 4"
+        },
+        {
+          "code": "PHIL 411",
+          "title": "Plato",
+          "units": 4.0,
+          "source_line": "- PHIL 411 Plato Units: 4"
+        },
+        {
+          "code": "PHIL 415",
+          "title": "Aristotle",
+          "units": 4.0,
+          "source_line": "- PHIL 415 Aristotle Units: 4"
+        },
+        {
+          "code": "PHIL 416",
+          "title": "The Ancient Stoics",
+          "units": 4.0,
+          "source_line": "- PHIL 416 The Ancient Stoics Units: 4"
+        },
+        {
+          "code": "PHIL 421",
+          "title": "Continental Rationalism",
+          "units": 4.0,
+          "source_line": "- PHIL 421 Continental Rationalism Units: 4"
+        },
+        {
+          "code": "PHIL 422",
+          "title": "British Empiricism",
+          "units": 4.0,
+          "source_line": "- PHIL 422 British Empiricism Units: 4"
+        },
+        {
+          "code": "PHIL 423",
+          "title": "The Critical Philosophy of Kant",
+          "units": 4.0,
+          "source_line": "- PHIL 423 The Critical Philosophy of Kant Units: 4"
+        },
+        {
+          "code": "PHIL 424",
+          "title": "19th Century Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 424 19th Century Philosophy Units: 4"
+        },
+        {
+          "code": "PHIL 427",
+          "title": "Twentieth Century Anglo-American Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 427 Twentieth Century Anglo-American Philosophy Units: 4"
+        },
+        {
+          "code": "PHIL 428",
+          "title": "Anglo-American Philosophy Since 1950",
+          "units": 4.0,
+          "source_line": "- PHIL 428 Anglo-American Philosophy Since 1950 Units: 4"
+        },
+        {
+          "code": "PHIL 442",
+          "title": "History of Ethics to 1900",
+          "units": 4.0,
+          "source_line": "- PHIL 442 History of Ethics to 1900 Units: 4"
+        },
+        {
+          "code": "PHIL 473",
+          "title": "Wittgenstein",
+          "units": 4.0,
+          "source_line": "- PHIL 473 Wittgenstein Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Ethics, Law and Value Theory:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "PHIL 337",
+          "title": "Political Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 337 Political Philosophy Units: 4"
+        },
+        {
+          "code": "PHIL 340",
+          "title": "Ethics",
+          "units": 4.0,
+          "source_line": "- PHIL 340 Ethics Units: 4"
+        },
+        {
+          "code": "PHIL 347",
+          "title": "Philosophy in Literature",
+          "units": 4.0,
+          "source_line": "- PHIL 347 Philosophy in Literature Units: 4"
+        },
+        {
+          "code": "PHIL 361",
+          "title": "Philosophy of Religion",
+          "units": 4.0,
+          "source_line": "- PHIL 361 Philosophy of Religion Units: 4"
+        },
+        {
+          "code": "PHIL 430",
+          "title": "Philosophy of Law",
+          "units": 4.0,
+          "source_line": "- PHIL 430 Philosophy of Law Units: 4"
+        },
+        {
+          "code": "PHIL 431",
+          "title": "Law, Society, and Politics",
+          "units": 4.0,
+          "source_line": "- PHIL 431 Law, Society, and Politics Units: 4"
+        },
+        {
+          "code": "PHIL 437",
+          "title": "Social and Political Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 437 Social and Political Philosophy Units: 4"
+        },
+        {
+          "code": "PHIL 440",
+          "title": "Contemporary Ethical Theory",
+          "units": 4.0,
+          "source_line": "- PHIL 440 Contemporary Ethical Theory Units: 4"
+        },
+        {
+          "code": "PHIL 442",
+          "title": "History of Ethics to 1900",
+          "units": 4.0,
+          "source_line": "- PHIL 442 History of Ethics to 1900 Units: 4"
+        },
+        {
+          "code": "PHIL 443",
+          "title": "Value Theory",
+          "units": 4.0,
+          "source_line": "- PHIL 443 Value Theory Units: 4"
+        },
+        {
+          "code": "PHIL 445",
+          "title": "Philosophy of the Arts",
+          "units": 4.0,
+          "source_line": "- PHIL 445 Philosophy of the Arts Units: 4"
+        },
+        {
+          "code": "PHIL 446",
+          "title": "Aesthetics and the Film",
+          "units": 4.0,
+          "source_line": "- PHIL 446 Aesthetics and the Film Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Systematic Topics:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "PHIL 336",
+          "title": "Philosophy of Mind and Language",
+          "units": 4.0,
+          "source_line": "- PHIL 336 Philosophy of Mind and Language Units: 4"
+        },
+        {
+          "code": "PHIL 350",
+          "title": "Intermediate Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 350 Intermediate Logic Units: 4"
+        },
+        {
+          "code": "PHIL 360",
+          "title": "Epistemology and Metaphysics",
+          "units": 4.0,
+          "source_line": "- PHIL 360 Epistemology and Metaphysics Units: 4"
+        },
+        {
+          "code": "PHIL 362",
+          "title": "Possible Worlds",
+          "units": 4.0,
+          "source_line": "- PHIL 362 Possible Worlds Units: 4"
+        },
+        {
+          "code": "PHIL 363",
+          "title": "Philosophy of Perception",
+          "units": 4.0,
+          "source_line": "- PHIL 363 Philosophy of Perception Units: 4"
+        },
+        {
+          "code": "PHIL 385",
+          "title": "Science and Rationality",
+          "units": 4.0,
+          "source_line": "- PHIL 385 Science and Rationality Units: 4"
+        },
+        {
+          "code": "PHIL 427",
+          "title": "Twentieth Century Anglo-American Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 427 Twentieth Century Anglo-American Philosophy Units: 4"
+        },
+        {
+          "code": "PHIL 428",
+          "title": "Anglo-American Philosophy Since 1950",
+          "units": 4.0,
+          "source_line": "- PHIL 428 Anglo-American Philosophy Since 1950 Units: 4"
+        },
+        {
+          "code": "PHIL 450",
+          "title": "The Limits of Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 450 The Limits of Logic Units: 4"
+        },
+        {
+          "code": "PHIL 452",
+          "title": "Modal Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 452 Modal Logic Units: 4"
+        },
+        {
+          "code": "PHIL 460",
+          "title": "Metaphysics",
+          "units": 4.0,
+          "source_line": "- PHIL 460 Metaphysics Units: 4"
+        },
+        {
+          "code": "PHIL 462",
+          "title": "Philosophy of Mind",
+          "units": 4.0,
+          "source_line": "- PHIL 462 Philosophy of Mind Units: 4"
+        },
+        {
+          "code": "PHIL 463",
+          "title": "Theories of Action",
+          "units": 4.0,
+          "source_line": "- PHIL 463 Theories of Action Units: 4"
+        },
+        {
+          "code": "PHIL 465",
+          "title": "Philosophy of Language",
+          "units": 4.0,
+          "source_line": "- PHIL 465 Philosophy of Language Units: 4"
+        },
+        {
+          "code": "PHIL 467",
+          "title": "Language, Linguistics and Mind",
+          "units": 4.0,
+          "source_line": "- PHIL 467 Language, Linguistics and Mind Units: 4"
+        },
+        {
+          "code": "PHIL 470",
+          "title": "Theory of Knowledge",
+          "units": 4.0,
+          "source_line": "- PHIL 470 Theory of Knowledge Units: 4"
+        },
+        {
+          "code": "PHIL 480",
+          "title": "Philosophy of Mathematics",
+          "units": 4.0,
+          "source_line": "- PHIL 480 Philosophy of Mathematics Units: 4"
+        },
+        {
+          "code": "PHIL 484",
+          "title": "Philosophy of Physics",
+          "units": 4.0,
+          "source_line": "- PHIL 484 Philosophy of Physics Units: 4"
+        },
+        {
+          "code": "PHIL 485",
+          "title": "Development of Physical Science",
+          "units": 4.0,
+          "source_line": "- PHIL 485 Development of Physical Science Units: 4"
+        },
+        {
+          "code": "PHIL 486",
+          "title": "Methodologies of the Sciences",
+          "units": 4.0,
+          "source_line": "- PHIL 486 Methodologies of the Sciences Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

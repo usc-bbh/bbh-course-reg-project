@@ -1,0 +1,247 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Cultural Diplomacy Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32534",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32534&returnto=9396",
+    "source_text_file": "269_cultural_diplomacy_minor.txt",
+    "source_content_sha256": "9864bad92de1328e8b1adb0ea46eec84c98c75c7df18757882339e75135ef857",
+    "retrieved_at": "2026-07-31T01:01:16Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "0 GPA and completion of a minimum of 32 units (sophomore standing)."
+    ],
+    "course_entry_count": 28,
+    "distinct_course_codes": 25,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This 20-unit minor focuses on cultural diplomacy and the ways in which consideration of cultural issues and engagement in the cultural sphere can enhance foreign affairs and international interactions. It links existing classes and faculty expertise to expose students to a range of international issues while introducing culturally focused approaches to addressing and rectifying such issues. This minor builds a coherent picture of the power of culture as an essential dimension of foreign policy either as a barrier or a medium for engagement and a common ground. Requirements for admission are a minimum 3.0 GPA and completion of a minimum of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission.",
+          "source_line": "This 20-unit minor focuses on cultural diplomacy and the ways in which consideration of cultural issues and engagement in the cultural sphere can enhance foreign affairs and international interactions. It links existing classes and faculty expertise to expose students to a range of international issues while introducing culturally focused approaches to addressing and rectifying such issues. This minor builds a coherent picture of the power of culture as an essential dimension of foreign policy either as a barrier or a medium for engagement and a common ground. Requirements for admission are a minimum 3.0 GPA and completion of a minimum of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Core Course (4 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PUBD 369w",
+          "title": "Public Diplomacy and Global Citizenship",
+          "units": 4.0,
+          "source_line": "- PUBD 369w Public Diplomacy and Global Citizenship Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Course (4 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PUBD 417",
+          "title": "Global Engagement: Designing Public Diplomacy Strategies",
+          "units": 4.0,
+          "source_line": "- PUBD 417 Global Engagement: Designing Public Diplomacy Strategies Units: 4"
+        },
+        {
+          "code": "PUBD 418",
+          "title": "International Exchanges and Public Diplomacy",
+          "units": 4.0,
+          "source_line": "- PUBD 418 International Exchanges and Public Diplomacy Units: 4"
+        },
+        {
+          "code": "PUBD 419",
+          "title": "Public Diplomacy in Los Angeles",
+          "units": 4.0,
+          "source_line": "- PUBD 419 Public Diplomacy in Los Angeles Units: 4"
+        },
+        {
+          "code": "PUBD 420",
+          "title": "Regional Studies in Public Diplomacy",
+          "units": 4.0,
+          "source_line": "- PUBD 420 Regional Studies in Public Diplomacy Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one of the following courses:",
+          "source_line": "Choose one of the following courses:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one of the following courses:",
+      "total_units": null
+    },
+    {
+      "title": "Electives (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AHIS 486",
+          "title": "Introduction to Museums: Past, Present, and Future",
+          "units": 4.0,
+          "source_line": "- AHIS 486 Introduction to Museums: Past, Present, and Future Units: 4"
+        },
+        {
+          "code": "ANTH 205g",
+          "title": "Introduction to Global Studies and Cross-cultural Research",
+          "units": 4.0,
+          "source_line": "- ANTH 205g Introduction to Global Studies and Cross-cultural Research Units: 4"
+        },
+        {
+          "code": "COMM 206",
+          "title": "Communication and Culture",
+          "units": 4.0,
+          "source_line": "- COMM 206 Communication and Culture Units: 4"
+        },
+        {
+          "code": "COMM 308",
+          "title": "Communication and Conflict",
+          "units": 4.0,
+          "source_line": "- COMM 308 Communication and Conflict Units: 4"
+        },
+        {
+          "code": "COMM 310",
+          "title": "Media and Society",
+          "units": 4.0,
+          "source_line": "- COMM 310 Media and Society Units: 4"
+        },
+        {
+          "code": "COMM 324mw",
+          "title": "Intercultural Communication",
+          "units": 4.0,
+          "source_line": "- COMM 324mw Intercultural Communication Units: 4"
+        },
+        {
+          "code": "COMM 366",
+          "title": "Designing Media for Social Change",
+          "units": 4.0,
+          "source_line": "- COMM 366 Designing Media for Social Change Units: 4"
+        },
+        {
+          "code": "COMM 392",
+          "title": "Media and Migration in Times of European Crisis",
+          "units": 4.0,
+          "source_line": "- COMM 392 Media and Migration in Times of European Crisis Units: 4"
+        },
+        {
+          "code": "COMM 405",
+          "title": "From the Ground Up: Communicating About Food",
+          "units": 4.0,
+          "source_line": "- COMM 405 From the Ground Up: Communicating About Food Units: 4"
+        },
+        {
+          "code": "COMM 412",
+          "title": "Communication and Social Movements",
+          "units": 4.0,
+          "source_line": "- COMM 412 Communication and Social Movements Units: 4"
+        },
+        {
+          "code": "COMM 413",
+          "title": "Propaganda, Ideology and Public Controversy",
+          "units": 4.0,
+          "source_line": "- COMM 413 Propaganda, Ideology and Public Controversy Units: 4"
+        },
+        {
+          "code": "COMM 430",
+          "title": "Global Entertainment",
+          "units": 4.0,
+          "source_line": "- COMM 430 Global Entertainment Units: 4"
+        },
+        {
+          "code": "COMM 445",
+          "title": "Global Networks of Sport",
+          "units": 4.0,
+          "source_line": "- COMM 445 Global Networks of Sport Units: 4"
+        },
+        {
+          "code": "COMM 475",
+          "title": "Environmental Communication",
+          "units": 4.0,
+          "source_line": "- COMM 475 Environmental Communication Units: 4"
+        },
+        {
+          "code": "CRIT 350gw",
+          "title": "Global Art, Design and Visual Culture since 1960",
+          "units": 4.0,
+          "source_line": "- CRIT 350gw Global Art, Design and Visual Culture since 1960 Units: 4"
+        },
+        {
+          "code": "CTCS 367",
+          "title": "Global Media",
+          "units": 4.0,
+          "source_line": "- CTCS 367 Global Media Units: 4"
+        },
+        {
+          "code": "DANC 342gp",
+          "title": "International and Historical Perspectives on Dance",
+          "units": 4.0,
+          "source_line": "- DANC 342gp International and Historical Perspectives on Dance Units: 4"
+        },
+        {
+          "code": "IR 101gxw",
+          "title": "International Relations",
+          "units": 4.0,
+          "source_line": "- IR 101gxw International Relations Units: 4"
+        },
+        {
+          "code": "JOUR 484",
+          "title": "American Religion, Foreign Policy and the News Media",
+          "units": 4.0,
+          "source_line": "- JOUR 484 American Religion, Foreign Policy and the News Media Units: 4"
+        },
+        {
+          "code": "MUSC 372g",
+          "title": "Music and Politics",
+          "units": 4.0,
+          "source_line": "- MUSC 372g Music and Politics Units: 4"
+        },
+        {
+          "code": "PUBD 418",
+          "title": "International Exchanges and Public Diplomacy",
+          "units": 4.0,
+          "source_line": "- PUBD 418 International Exchanges and Public Diplomacy Units: 4"
+        },
+        {
+          "code": "PUBD 419",
+          "title": "Public Diplomacy in Los Angeles",
+          "units": 4.0,
+          "source_line": "- PUBD 419 Public Diplomacy in Los Angeles Units: 4"
+        },
+        {
+          "code": "PUBD 420",
+          "title": "Regional Studies in Public Diplomacy",
+          "units": 4.0,
+          "source_line": "- PUBD 420 Regional Studies in Public Diplomacy Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose 12 units from the following:",
+          "source_line": "Choose 12 units from the following:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

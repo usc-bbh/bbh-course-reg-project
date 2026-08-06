@@ -1,0 +1,216 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Science and Management of Biomedical Therapeutics Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32427",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32427&returnto=9396",
+    "source_text_file": "441_science_and_management_of_biomedical_therapeutics_minor.txt",
+    "source_content_sha256": "e12ebfa5228a006b4e0e8cb8bfe6d789bf4c3150ef4224833aec1743dbd90aeb",
+    "retrieved_at": "2026-07-31T01:12:57Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "# Science and Management of Biomedical Therapeutics Minor\n\n---\n\nThe minor in Science and Management of Biomedical Therapeutics consists of a minimum of 20 units of Pharmaceutical and Regulatory Science (RXRS) course work, 16 of which must be at the 300 or 400 level, and which are unique to this minor and do not overlap with the major, another minor or general education requirements of the undergraduate students.",
+      "A maximum of 4 units can be met by taking Directed Research (RXRS 490 ).",
+      "Students must be in sophomore standing and have completed a minimum of 32 USC units as an entering freshman or 16 units as an entering transfer student.",
+      "A maximum of 4 units of lower-division course work is permitted."
+    ],
+    "course_entry_count": 22,
+    "distinct_course_codes": 22,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in Science and Management of Biomedical Therapeutics consists of a minimum of 20 units of Pharmaceutical and Regulatory Science (RXRS) course work, 16 of which must be at the 300 or 400 level, and which are unique to this minor and do not overlap with the major, another minor or general education requirements of the undergraduate students.",
+          "source_line": "The minor in Science and Management of Biomedical Therapeutics consists of a minimum of 20 units of Pharmaceutical and Regulatory Science (RXRS) course work, 16 of which must be at the 300 or 400 level, and which are unique to this minor and do not overlap with the major, another minor or general education requirements of the undergraduate students."
+        },
+        {
+          "text": "The minor in Science and Management of Biomedical Therapeutics requires a minimum of five RXRS courses. A maximum of 4 units can be met by taking Directed Research (RXRS 490 ). Only students with a declared major are eligible to apply. Students must be in sophomore standing and have completed a minimum of 32 USC units as an entering freshman or 16 units as an entering transfer student.",
+          "source_line": "The minor in Science and Management of Biomedical Therapeutics requires a minimum of five RXRS courses. A maximum of 4 units can be met by taking Directed Research (RXRS 490 ). Only students with a declared major are eligible to apply. Students must be in sophomore standing and have completed a minimum of 32 USC units as an entering freshman or 16 units as an entering transfer student."
+        },
+        {
+          "text": "Course work within the minor will focus on domains of pharmacology, pharmaceutical sciences, toxicology, nutritional sciences, medical product development and drug use and abuse.",
+          "source_line": "Course work within the minor will focus on domains of pharmacology, pharmaceutical sciences, toxicology, nutritional sciences, medical product development and drug use and abuse."
+        },
+        {
+          "text": "Students will select course work in consultation with an academic adviser.",
+          "source_line": "Students will select course work in consultation with an academic adviser."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Pharmaceutical and Regulatory Science (RXRS) Course Work",
+      "level": 2,
+      "courses": [
+        {
+          "code": "RXRS 402",
+          "title": "Human Pharmacology: Challenge of Therapeutics in Society",
+          "units": 4.0,
+          "source_line": "- RXRS 402 Human Pharmacology: Challenge of Therapeutics in Society Units: 4"
+        },
+        {
+          "code": "RXRS 403",
+          "title": "Neuropharmacology in Health and Disease",
+          "units": 4.0,
+          "source_line": "- RXRS 403 Neuropharmacology in Health and Disease Units: 4"
+        },
+        {
+          "code": "RXRS 407",
+          "title": "The Discovery, Development and Marketing of Medicines",
+          "units": 4.0,
+          "source_line": "- RXRS 407 The Discovery, Development and Marketing of Medicines Units: 4"
+        },
+        {
+          "code": "RXRS 416",
+          "title": "Medical Products: From Idea to Market",
+          "units": 4.0,
+          "source_line": "- RXRS 416 Medical Products: From Idea to Market Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "To gain a solid foundation for the minor, at least two core courses (selected from the four below) are required:",
+          "source_line": "To gain a solid foundation for the minor, at least two core courses (selected from the four below) are required:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Pharmaceutical and Regulatory Science (RXRS) and Biopharmaceutical Sciences (BPSI) Course Work",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BPSI 405",
+          "title": "Organ Systems Physiology, Drug Delivery and Drug Action",
+          "units": 4.0,
+          "source_line": "- BPSI 405 Organ Systems Physiology, Drug Delivery and Drug Action Units: 4"
+        },
+        {
+          "code": "RXRS 200",
+          "title": "Approaches to Pharmacology and Drug Development",
+          "units": 4.0,
+          "source_line": "- RXRS 200 Approaches to Pharmacology and Drug Development Units: 4"
+        },
+        {
+          "code": "RXRS 201p",
+          "title": "The History and Geography of Drugs",
+          "units": 4.0,
+          "source_line": "- RXRS 201p The History and Geography of Drugs Units: 4"
+        },
+        {
+          "code": "RXRS 202w",
+          "title": "Comparative Neuropharmacology: A Kaleidoscope of Experiences",
+          "units": 4.0,
+          "source_line": "- RXRS 202w Comparative Neuropharmacology: A Kaleidoscope of Experiences Units: 4"
+        },
+        {
+          "code": "RXRS 302",
+          "title": "Introduction to Pharmacology and Therapeutics",
+          "units": 4.0,
+          "source_line": "- RXRS 302 Introduction to Pharmacology and Therapeutics Units: 4"
+        },
+        {
+          "code": "RXRS 405",
+          "title": "Breaking Brains: The Pharmacology of Addiction",
+          "units": 4.0,
+          "source_line": "- RXRS 405 Breaking Brains: The Pharmacology of Addiction Units: 4"
+        },
+        {
+          "code": "RXRS 406",
+          "title": "Clinical Pharmacology and Medication Management",
+          "units": 4.0,
+          "source_line": "- RXRS 406 Clinical Pharmacology and Medication Management Units: 4"
+        },
+        {
+          "code": "RXRS 408",
+          "title": "Arming the Immune System for Novel Therapies",
+          "units": 4.0,
+          "source_line": "- RXRS 408 Arming the Immune System for Novel Therapies Units: 4"
+        },
+        {
+          "code": "RXRS 410",
+          "title": "Cancer Biology and Pharmacotherapy",
+          "units": 4.0,
+          "source_line": "- RXRS 410 Cancer Biology and Pharmacotherapy Units: 4"
+        },
+        {
+          "code": "RXRS 411",
+          "title": "Innovations in Medical Product Development",
+          "units": 4.0,
+          "source_line": "- RXRS 411 Innovations in Medical Product Development Units: 4"
+        },
+        {
+          "code": "RXRS 412",
+          "title": "Ethics, Drugs and Society",
+          "units": 4.0,
+          "source_line": "- RXRS 412 Ethics, Drugs and Society Units: 4"
+        },
+        {
+          "code": "RXRS 413w",
+          "title": "Globalization of the Biomedical Industry",
+          "units": 4.0,
+          "source_line": "- RXRS 413w Globalization of the Biomedical Industry Units: 4"
+        },
+        {
+          "code": "RXRS 414",
+          "title": "Buzzed: Modern Substances of Abuse and Addiction",
+          "units": 4.0,
+          "source_line": "- RXRS 414 Buzzed: Modern Substances of Abuse and Addiction Units: 4"
+        },
+        {
+          "code": "RXRS 417",
+          "title": "Food Safety: The Good, The Bad and The Deadly",
+          "units": 4.0,
+          "source_line": "- RXRS 417 Food Safety: The Good, The Bad and The Deadly Units: 4"
+        },
+        {
+          "code": "RXRS 418",
+          "title": "More than Prescriptions: An Integrative Approach to Modern Healthcare",
+          "units": 4.0,
+          "source_line": "- RXRS 418 More than Prescriptions: An Integrative Approach to Modern Healthcare Units: 4"
+        },
+        {
+          "code": "RXRS 421",
+          "title": "Management and Operation of Clinical Trials",
+          "units": 4.0,
+          "source_line": "- RXRS 421 Management and Operation of Clinical Trials Units: 4"
+        },
+        {
+          "code": "RXRS 424",
+          "title": "From Poisons to Toxicology and Forensic Applications",
+          "units": 4.0,
+          "source_line": "- RXRS 424 From Poisons to Toxicology and Forensic Applications Units: 4"
+        },
+        {
+          "code": "RXRS 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- RXRS 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        }
+      ],
+      "notes": [
+        {
+          "text": "The remaining units may be selected from the following RXRS and BPSI courses. A maximum of 4 units of lower-division course work is permitted. Students may select courses from the required course work category to complete the minimum five-course requirement.",
+          "source_line": "The remaining units may be selected from the following RXRS and BPSI courses. A maximum of 4 units of lower-division course work is permitted. Students may select courses from the required course work category to complete the minimum five-course requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

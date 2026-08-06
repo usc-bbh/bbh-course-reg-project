@@ -1,0 +1,564 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Comparative Literature (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31748",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31748&returnto=9396",
+    "source_text_file": "081_comparative_literature_ba.txt",
+    "source_content_sha256": "974fe1f01de5135e967927a4ed37956946678ae42ff39f2dc327f0fcd200326b",
+    "retrieved_at": "2026-07-31T00:52:12Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Requirements for the Major\n\n---\n\n### Literature/Media/Critical Thought Track\n\n---\n\nStudents earn a BA in Comparative Literature and are required to complete at least 40 units (10 courses) as follows:\n\n#### Requirements\n\n---\n\n##### (1)\n\n---\n\n- COLT 302 Introduction to Literary Theory Units: 4\n- COLT 303 Globalization: Culture, Change, Resistance Units: 4\n\n##### (2)\n\n---\n\nAt least four additional COLT courses in one of the three concentrations.",
+      "###### Literature Concentration:\n\n---\n\n- AMST 331gw The Black Atlantic: Narratives of Migration and Travel Units: 4\n- COLT 101gp Masterpieces and Masterminds: Literature and Thought Units: 4\n- COLT 102g On Location: The Place of Literature in Global Cultures Units: 4\n- COLT 250g Cultures of Latin America Units: 4\n- COLT 251g Literature and Thought of the West Since 1800 Units: 4\n- COLT 264gp Asian Aesthetic and Literary Traditions Units: 4\n- COLT 311 Epic Units: 4\n- COLT 312 Heroes, Myths and Legends in Literature and the Arts Units: 4\n- COLT 324 Women in Medieval and Renaissance Europe Units: 4\n- COLT 335 Decadence and Modernity Units: 4\n- COLT 345 Realist Fiction Units: 4\n- COLT 346 Fictions of the First Person Units: 4\n- COLT 348 Modernist Fiction Units: 4\n- COLT 360gp Fictions of Africa Units: 4\n- COLT 374gm Women Writers in Europe and America Units: 4\n- COLT 382gw Zen and Daoism in Asian Literature Units: 4\n- COLT 420 The Fantastic Units: 4\n- COLT 426 Utopias Units: 4\n- COLT 445 Europe and the Writing of Others Units: 4\n- COLT 448 Multilingual Encounters Units: 4\n- COLT 472 Los Angeles Crime Fiction Units: 4\n- COLT 475 Politics and the Novel Units: 4\n- COLT 476 Narrative and the Law Units: 4\n- COLT 485 The Shoah (Holocaust) in Literature and the Arts Units: 4\n- EALC 454 Bildungsroman in Modern East Asia Units: 4\n- EALC 460 Love, Self and Gender in Japanese Literature Units: 4\n- FREN 272gp Medicine, Health and the Body in Literature and Culture Units: 4\n- ITAL 382g Dante Units: 4\n\n###### Media Concentration:\n\n---\n\n- COLT 357 The Avant-Garde Units: 4\n- COLT 365 Literature and Popular Culture Units: 4\n- COLT 373 Literature and Film Units: 4\n- COLT 379 Nationalism and Postcolonialism in Southeast Asian Cinema Units: 4\n- COLT 395w Urban Crossroads: Budapest Units: 4\n- COLT 415 Queer Cinema, Literature and the Visual Arts Units: 4\n- COLT 462 Soundtracks of Our Lives Units: 4\n- COLT 470 Literature and Media in Latin America Units: 4\n- COLT 480 Dada and Surrealism Units: 4\n- EALC 255gw Southeast Asian Literature and Film Units: 4\n\n###### Critical Thought Concentration:\n\n---\n\n- CLAS 370 Leaders and Communities: Classical Models Units: 4\n- COLT 375 Latin American Cultural and Literary Theory Units: 4\n- COLT 377 Gender and Sexuality in Literary Theory Units: 4\n- COLT 381 Psychoanalysis and the Arts Units: 4\n- COLT 385 Literature and Justice Units: 4\n- COLT 391 Literary Criticism from Plato to Postmodernism Units: 4\n- COLT 454 Aesthetic Philosophy and Theory Units: 4\n- COLT 471 Literature, Theory, History Units: 4\n- COLT 474 Desire, Literature, Technology Units: 4\n- COLT 476 Narrative and the Law Units: 4\n- COLT 478 Family in Theory and Literature Units: 4\n- COLT 487 Critical Image Units: 4\n- FREN 393 Theories and Theorists Units: 4\n\n##### (3)\n\n---\n\nAt least four additional COLT courses.",
+      "### Foreign Language Track\n\n---\n\nStudents earn a BA in Comparative Literature and are required to complete 40 units (10 courses) as follows:\n\n#### Requirements\n\n---\n\n##### (1)\n\n---\n\n- COLT 302 Introduction to Literary Theory Units: 4\n- COLT 303 Globalization: Culture, Change, Resistance Units: 4\n\n##### (2)\n\n---\n\nAt least five additional COLT courses, of which no more than two may be at the 100 or 200 level.",
+      "To be awarded honors, majors in comparative literature must complete 4 units of COLT 494 and 4 units of COLT 495 ."
+    ],
+    "course_entry_count": 55,
+    "distinct_course_codes": 52,
+    "section_count": 16
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students may earn the BA in Comparative Literature by satisfying the requirements for either of two tracks.",
+          "source_line": "Students may earn the BA in Comparative Literature by satisfying the requirements for either of two tracks."
+        },
+        {
+          "text": "The Literature/Media/Critical Thought Track allows students to focus their study in one of three concentrations while also taking courses in the other two. Together, these three concentrations represent the broad range of interests in the discipline: (1) literature considered comparatively and transnationally; (2) the media of other arts and modes of communication (photography, film, music, painting and digital media); (3) modes of critical thought that inform and shape theoretical reflection on the arts and society.",
+          "source_line": "The Literature/Media/Critical Thought Track allows students to focus their study in one of three concentrations while also taking courses in the other two. Together, these three concentrations represent the broad range of interests in the discipline: (1) literature considered comparatively and transnationally; (2) the media of other arts and modes of communication (photography, film, music, painting and digital media); (3) modes of critical thought that inform and shape theoretical reflection on the arts and society."
+        },
+        {
+          "text": "This track offers the opportunity to pursue a major that is broadly based in the liberal arts. Students on this track might consider extending their concentration with a double major or minor. For example, the literature concentration could be extended with a second major or minor in a national literature (French, Spanish, Italian, Russian, English, classics or an East Asian literature); the media concentration by another major or minor in cinematic arts, art history or communication; and the critical thought concentration by a second major or minor in philosophy, religion, history, sociology or anthropology.",
+          "source_line": "This track offers the opportunity to pursue a major that is broadly based in the liberal arts. Students on this track might consider extending their concentration with a double major or minor. For example, the literature concentration could be extended with a second major or minor in a national literature (French, Spanish, Italian, Russian, English, classics or an East Asian literature); the media concentration by another major or minor in cinematic arts, art history or communication; and the critical thought concentration by a second major or minor in philosophy, religion, history, sociology or anthropology."
+        },
+        {
+          "text": "The Foreign Language Track incorporates the study of at least one literature in a foreign language into the comparative perspective of the comparative literature major.",
+          "source_line": "The Foreign Language Track incorporates the study of at least one literature in a foreign language into the comparative perspective of the comparative literature major."
+        },
+        {
+          "text": "Students who intend to pursue a graduate degree in either comparative literature or a foreign literature are strongly advised to choose this track, as are students who already possess advanced skills in a language other than English. Majors in comparative literature with foreign language emphasis might consider a double major or a minor in a department of foreign language or in a non-literary field such as international relations or journalism.",
+          "source_line": "Students who intend to pursue a graduate degree in either comparative literature or a foreign literature are strongly advised to choose this track, as are students who already possess advanced skills in a language other than English. Majors in comparative literature with foreign language emphasis might consider a double major or a minor in a department of foreign language or in a non-literary field such as international relations or journalism."
+        },
+        {
+          "text": "The requirements for both tracks of the major accommodate very well semesters of study abroad. Students are helped and encouraged to plan their programs in advance to allow for that experience.",
+          "source_line": "The requirements for both tracks of the major accommodate very well semesters of study abroad. Students are helped and encouraged to plan their programs in advance to allow for that experience."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Requirements for the Major",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Literature/Media/Critical Thought Track",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students earn a BA in Comparative Literature and are required to complete at least 40 units (10 courses) as follows:",
+          "source_line": "Students earn a BA in Comparative Literature and are required to complete at least 40 units (10 courses) as follows:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Students earn a BA in Comparative Literature and are required to complete at least 40 units (10 courses) as follows:",
+      "total_units": null
+    },
+    {
+      "title": "Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "(1)",
+      "level": 5,
+      "courses": [
+        {
+          "code": "COLT 302",
+          "title": "Introduction to Literary Theory",
+          "units": 4.0,
+          "source_line": "- COLT 302 Introduction to Literary Theory Units: 4"
+        },
+        {
+          "code": "COLT 303",
+          "title": "Globalization: Culture, Change, Resistance",
+          "units": 4.0,
+          "source_line": "- COLT 303 Globalization: Culture, Change, Resistance Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "(2)",
+      "level": 5,
+      "courses": [],
+      "notes": [
+        {
+          "text": "At least four additional COLT courses in one of the three concentrations.",
+          "source_line": "At least four additional COLT courses in one of the three concentrations."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Literature Concentration:",
+      "level": 6,
+      "courses": [
+        {
+          "code": "AMST 331gw",
+          "title": "The Black Atlantic: Narratives of Migration and Travel",
+          "units": 4.0,
+          "source_line": "- AMST 331gw The Black Atlantic: Narratives of Migration and Travel Units: 4"
+        },
+        {
+          "code": "COLT 101gp",
+          "title": "Masterpieces and Masterminds: Literature and Thought",
+          "units": 4.0,
+          "source_line": "- COLT 101gp Masterpieces and Masterminds: Literature and Thought Units: 4"
+        },
+        {
+          "code": "COLT 102g",
+          "title": "On Location: The Place of Literature in Global Cultures",
+          "units": 4.0,
+          "source_line": "- COLT 102g On Location: The Place of Literature in Global Cultures Units: 4"
+        },
+        {
+          "code": "COLT 250g",
+          "title": "Cultures of Latin America",
+          "units": 4.0,
+          "source_line": "- COLT 250g Cultures of Latin America Units: 4"
+        },
+        {
+          "code": "COLT 251g",
+          "title": "Literature and Thought of the West Since 1800",
+          "units": 4.0,
+          "source_line": "- COLT 251g Literature and Thought of the West Since 1800 Units: 4"
+        },
+        {
+          "code": "COLT 264gp",
+          "title": "Asian Aesthetic and Literary Traditions",
+          "units": 4.0,
+          "source_line": "- COLT 264gp Asian Aesthetic and Literary Traditions Units: 4"
+        },
+        {
+          "code": "COLT 311",
+          "title": "Epic",
+          "units": 4.0,
+          "source_line": "- COLT 311 Epic Units: 4"
+        },
+        {
+          "code": "COLT 312",
+          "title": "Heroes, Myths and Legends in Literature and the Arts",
+          "units": 4.0,
+          "source_line": "- COLT 312 Heroes, Myths and Legends in Literature and the Arts Units: 4"
+        },
+        {
+          "code": "COLT 324",
+          "title": "Women in Medieval and Renaissance Europe",
+          "units": 4.0,
+          "source_line": "- COLT 324 Women in Medieval and Renaissance Europe Units: 4"
+        },
+        {
+          "code": "COLT 335",
+          "title": "Decadence and Modernity",
+          "units": 4.0,
+          "source_line": "- COLT 335 Decadence and Modernity Units: 4"
+        },
+        {
+          "code": "COLT 345",
+          "title": "Realist Fiction",
+          "units": 4.0,
+          "source_line": "- COLT 345 Realist Fiction Units: 4"
+        },
+        {
+          "code": "COLT 346",
+          "title": "Fictions of the First Person",
+          "units": 4.0,
+          "source_line": "- COLT 346 Fictions of the First Person Units: 4"
+        },
+        {
+          "code": "COLT 348",
+          "title": "Modernist Fiction",
+          "units": 4.0,
+          "source_line": "- COLT 348 Modernist Fiction Units: 4"
+        },
+        {
+          "code": "COLT 360gp",
+          "title": "Fictions of Africa",
+          "units": 4.0,
+          "source_line": "- COLT 360gp Fictions of Africa Units: 4"
+        },
+        {
+          "code": "COLT 374gm",
+          "title": "Women Writers in Europe and America",
+          "units": 4.0,
+          "source_line": "- COLT 374gm Women Writers in Europe and America Units: 4"
+        },
+        {
+          "code": "COLT 382gw",
+          "title": "Zen and Daoism in Asian Literature",
+          "units": 4.0,
+          "source_line": "- COLT 382gw Zen and Daoism in Asian Literature Units: 4"
+        },
+        {
+          "code": "COLT 420",
+          "title": "The Fantastic",
+          "units": 4.0,
+          "source_line": "- COLT 420 The Fantastic Units: 4"
+        },
+        {
+          "code": "COLT 426",
+          "title": "Utopias",
+          "units": 4.0,
+          "source_line": "- COLT 426 Utopias Units: 4"
+        },
+        {
+          "code": "COLT 445",
+          "title": "Europe and the Writing of Others",
+          "units": 4.0,
+          "source_line": "- COLT 445 Europe and the Writing of Others Units: 4"
+        },
+        {
+          "code": "COLT 448",
+          "title": "Multilingual Encounters",
+          "units": 4.0,
+          "source_line": "- COLT 448 Multilingual Encounters Units: 4"
+        },
+        {
+          "code": "COLT 472",
+          "title": "Los Angeles Crime Fiction",
+          "units": 4.0,
+          "source_line": "- COLT 472 Los Angeles Crime Fiction Units: 4"
+        },
+        {
+          "code": "COLT 475",
+          "title": "Politics and the Novel",
+          "units": 4.0,
+          "source_line": "- COLT 475 Politics and the Novel Units: 4"
+        },
+        {
+          "code": "COLT 476",
+          "title": "Narrative and the Law",
+          "units": 4.0,
+          "source_line": "- COLT 476 Narrative and the Law Units: 4"
+        },
+        {
+          "code": "COLT 485",
+          "title": "The Shoah (Holocaust) in Literature and the Arts",
+          "units": 4.0,
+          "source_line": "- COLT 485 The Shoah (Holocaust) in Literature and the Arts Units: 4"
+        },
+        {
+          "code": "EALC 454",
+          "title": "Bildungsroman in Modern East Asia",
+          "units": 4.0,
+          "source_line": "- EALC 454 Bildungsroman in Modern East Asia Units: 4"
+        },
+        {
+          "code": "EALC 460",
+          "title": "Love, Self and Gender in Japanese Literature",
+          "units": 4.0,
+          "source_line": "- EALC 460 Love, Self and Gender in Japanese Literature Units: 4"
+        },
+        {
+          "code": "FREN 272gp",
+          "title": "Medicine, Health and the Body in Literature and Culture",
+          "units": 4.0,
+          "source_line": "- FREN 272gp Medicine, Health and the Body in Literature and Culture Units: 4"
+        },
+        {
+          "code": "ITAL 382g",
+          "title": "Dante",
+          "units": 4.0,
+          "source_line": "- ITAL 382g Dante Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Media Concentration:",
+      "level": 6,
+      "courses": [
+        {
+          "code": "COLT 357",
+          "title": "The Avant-Garde",
+          "units": 4.0,
+          "source_line": "- COLT 357 The Avant-Garde Units: 4"
+        },
+        {
+          "code": "COLT 365",
+          "title": "Literature and Popular Culture",
+          "units": 4.0,
+          "source_line": "- COLT 365 Literature and Popular Culture Units: 4"
+        },
+        {
+          "code": "COLT 373",
+          "title": "Literature and Film",
+          "units": 4.0,
+          "source_line": "- COLT 373 Literature and Film Units: 4"
+        },
+        {
+          "code": "COLT 379",
+          "title": "Nationalism and Postcolonialism in Southeast Asian Cinema",
+          "units": 4.0,
+          "source_line": "- COLT 379 Nationalism and Postcolonialism in Southeast Asian Cinema Units: 4"
+        },
+        {
+          "code": "COLT 395w",
+          "title": "Urban Crossroads: Budapest",
+          "units": 4.0,
+          "source_line": "- COLT 395w Urban Crossroads: Budapest Units: 4"
+        },
+        {
+          "code": "COLT 415",
+          "title": "Queer Cinema, Literature and the Visual Arts",
+          "units": 4.0,
+          "source_line": "- COLT 415 Queer Cinema, Literature and the Visual Arts Units: 4"
+        },
+        {
+          "code": "COLT 462",
+          "title": "Soundtracks of Our Lives",
+          "units": 4.0,
+          "source_line": "- COLT 462 Soundtracks of Our Lives Units: 4"
+        },
+        {
+          "code": "COLT 470",
+          "title": "Literature and Media in Latin America",
+          "units": 4.0,
+          "source_line": "- COLT 470 Literature and Media in Latin America Units: 4"
+        },
+        {
+          "code": "COLT 480",
+          "title": "Dada and Surrealism",
+          "units": 4.0,
+          "source_line": "- COLT 480 Dada and Surrealism Units: 4"
+        },
+        {
+          "code": "EALC 255gw",
+          "title": "Southeast Asian Literature and Film",
+          "units": 4.0,
+          "source_line": "- EALC 255gw Southeast Asian Literature and Film Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Critical Thought Concentration:",
+      "level": 6,
+      "courses": [
+        {
+          "code": "CLAS 370",
+          "title": "Leaders and Communities: Classical Models",
+          "units": 4.0,
+          "source_line": "- CLAS 370 Leaders and Communities: Classical Models Units: 4"
+        },
+        {
+          "code": "COLT 375",
+          "title": "Latin American Cultural and Literary Theory",
+          "units": 4.0,
+          "source_line": "- COLT 375 Latin American Cultural and Literary Theory Units: 4"
+        },
+        {
+          "code": "COLT 377",
+          "title": "Gender and Sexuality in Literary Theory",
+          "units": 4.0,
+          "source_line": "- COLT 377 Gender and Sexuality in Literary Theory Units: 4"
+        },
+        {
+          "code": "COLT 381",
+          "title": "Psychoanalysis and the Arts",
+          "units": 4.0,
+          "source_line": "- COLT 381 Psychoanalysis and the Arts Units: 4"
+        },
+        {
+          "code": "COLT 385",
+          "title": "Literature and Justice",
+          "units": 4.0,
+          "source_line": "- COLT 385 Literature and Justice Units: 4"
+        },
+        {
+          "code": "COLT 391",
+          "title": "Literary Criticism from Plato to Postmodernism",
+          "units": 4.0,
+          "source_line": "- COLT 391 Literary Criticism from Plato to Postmodernism Units: 4"
+        },
+        {
+          "code": "COLT 454",
+          "title": "Aesthetic Philosophy and Theory",
+          "units": 4.0,
+          "source_line": "- COLT 454 Aesthetic Philosophy and Theory Units: 4"
+        },
+        {
+          "code": "COLT 471",
+          "title": "Literature, Theory, History",
+          "units": 4.0,
+          "source_line": "- COLT 471 Literature, Theory, History Units: 4"
+        },
+        {
+          "code": "COLT 474",
+          "title": "Desire, Literature, Technology",
+          "units": 4.0,
+          "source_line": "- COLT 474 Desire, Literature, Technology Units: 4"
+        },
+        {
+          "code": "COLT 476",
+          "title": "Narrative and the Law",
+          "units": 4.0,
+          "source_line": "- COLT 476 Narrative and the Law Units: 4"
+        },
+        {
+          "code": "COLT 478",
+          "title": "Family in Theory and Literature",
+          "units": 4.0,
+          "source_line": "- COLT 478 Family in Theory and Literature Units: 4"
+        },
+        {
+          "code": "COLT 487",
+          "title": "Critical Image",
+          "units": 4.0,
+          "source_line": "- COLT 487 Critical Image Units: 4"
+        },
+        {
+          "code": "FREN 393",
+          "title": "Theories and Theorists",
+          "units": 4.0,
+          "source_line": "- FREN 393 Theories and Theorists Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "(3)",
+      "level": 5,
+      "courses": [],
+      "notes": [
+        {
+          "text": "At least four additional COLT courses. No more than two of the 10 courses required for the major may be at the 100 or 200 level.",
+          "source_line": "At least four additional COLT courses. No more than two of the 10 courses required for the major may be at the 100 or 200 level."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Foreign Language Track",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students earn a BA in Comparative Literature and are required to complete 40 units (10 courses) as follows:",
+          "source_line": "Students earn a BA in Comparative Literature and are required to complete 40 units (10 courses) as follows:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "(1)",
+      "level": 5,
+      "courses": [
+        {
+          "code": "COLT 302",
+          "title": "Introduction to Literary Theory",
+          "units": 4.0,
+          "source_line": "- COLT 302 Introduction to Literary Theory Units: 4"
+        },
+        {
+          "code": "COLT 303",
+          "title": "Globalization: Culture, Change, Resistance",
+          "units": 4.0,
+          "source_line": "- COLT 303 Globalization: Culture, Change, Resistance Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "(2)",
+      "level": 5,
+      "courses": [],
+      "notes": [
+        {
+          "text": "At least five additional COLT courses, of which no more than two may be at the 100 or 200 level.",
+          "source_line": "At least five additional COLT courses, of which no more than two may be at the 100 or 200 level."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "(3)",
+      "level": 5,
+      "courses": [],
+      "notes": [
+        {
+          "text": "At least three upper-division courses in the literature or culture of one or more foreign languages (other than English), with all readings in that language.",
+          "source_line": "At least three upper-division courses in the literature or culture of one or more foreign languages (other than English), with all readings in that language."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Honors Program",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students who satisfy the following requirements of the honors program receive the BA in Comparative Literature with Honors. To be admissible to the honors program, an overall GPA of at least 3.0 and at least 3.5 in courses counted for major credit is required. The decision to enter the Honors Program should be made and discussed with the departmental undergraduate adviser at least one year (two semesters) before graduation.",
+          "source_line": "Students who satisfy the following requirements of the honors program receive the BA in Comparative Literature with Honors. To be admissible to the honors program, an overall GPA of at least 3.0 and at least 3.5 in courses counted for major credit is required. The decision to enter the Honors Program should be made and discussed with the departmental undergraduate adviser at least one year (two semesters) before graduation."
+        },
+        {
+          "text": "To be awarded honors, majors in comparative literature must complete 4 units of COLT 494 and 4 units of COLT 495 . These courses replace two of the COLT courses required for the major.",
+          "source_line": "To be awarded honors, majors in comparative literature must complete 4 units of COLT 494 and 4 units of COLT 495 . These courses replace two of the COLT courses required for the major.",
+          "states_choice_rule": true
+        },
+        {
+          "text": "The director of the senior honors thesis must be a member of the comparative literature faculty. The second reader may be any regular USC faculty. To qualify for the award of honors, the director and second reader must both approve the thesis.",
+          "source_line": "The director of the senior honors thesis must be a member of the comparative literature faculty. The second reader may be any regular USC faculty. To qualify for the award of honors, the director and second reader must both approve the thesis."
+        }
+      ],
+      "choice": "To be awarded honors, majors in comparative literature must complete 4 units of COLT 494 and 4 units of COLT 495 . These courses replace two of the COLT courses required for the major.",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

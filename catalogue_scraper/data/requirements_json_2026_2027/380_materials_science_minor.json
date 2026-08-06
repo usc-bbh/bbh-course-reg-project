@@ -1,0 +1,137 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Materials Science Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32875",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32875&returnto=9396",
+    "source_text_file": "380_materials_science_minor.txt",
+    "source_content_sha256": "e11455e9454b95da2870c7c6fccab5d8de8f81ee81ff201cea35e1ebdde59855",
+    "retrieved_at": "2026-07-31T01:10:36Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "Students are required to complete a minimum of of 16 units of course work consisting of both core requirements and elective courses.",
+      "The program is as follows:\n\n## Required Courses\n\n---\n\n- CHE 455 Sustainable Materials Units: 4 *\n- or\n- MASC 310L Materials Behavior and Processing Units: 4\n-\n- CHE 475 Physical Properties of Polymers Units: 4\n- MASC 483 Introduction to Machine Learning for Materials Units: 4\n\n## Electives\n\n---\n\nChoose at least 4 units:\n\n- CHE 455 Sustainable Materials Units: 4 *\n- CHEM 455 Chemical Nanotechnology Units: 4\n- MASC 350L Nanostructured Materials: Design, Synthesis and Processing Units: 4\n- MASC 455 Computational Materials I: Introduction to Atomistic Simulation Units: 4\n\n## *Note:\n\n---\n\nBSAE and BSME students must take CHE 455, which may not be double-counted as an elective."
+    ],
+    "course_entry_count": 8,
+    "distinct_course_codes": 7,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minor in materials science is open to all undergraduate students in engineering. This minor provides students with the background and skills necessary to understand and use advanced materials in different engineering applications. Students are required to complete a minimum of of 16 units of course work consisting of both core requirements and elective courses.",
+          "source_line": "A minor in materials science is open to all undergraduate students in engineering. This minor provides students with the background and skills necessary to understand and use advanced materials in different engineering applications. Students are required to complete a minimum of of 16 units of course work consisting of both core requirements and elective courses."
+        },
+        {
+          "text": "Students must apply to the Viterbi School of Engineering for the minor and departmental approval is required. The program is as follows:",
+          "source_line": "Students must apply to the Viterbi School of Engineering for the minor and departmental approval is required. The program is as follows:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CHE 455",
+          "title": "Sustainable Materials  *",
+          "units": 4.0,
+          "source_line": "- CHE 455 Sustainable Materials Units: 4 *",
+          "alternative_follows": true
+        },
+        {
+          "code": "MASC 310L",
+          "title": "Materials Behavior and Processing",
+          "units": 4.0,
+          "source_line": "- MASC 310L Materials Behavior and Processing Units: 4"
+        },
+        {
+          "code": "CHE 475",
+          "title": "Physical Properties of Polymers",
+          "units": 4.0,
+          "source_line": "- CHE 475 Physical Properties of Polymers Units: 4"
+        },
+        {
+          "code": "MASC 483",
+          "title": "Introduction to Machine Learning for Materials",
+          "units": 4.0,
+          "source_line": "- MASC 483 Introduction to Machine Learning for Materials Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CHE 455",
+          "title": "Sustainable Materials  *",
+          "units": 4.0,
+          "source_line": "- CHE 455 Sustainable Materials Units: 4 *"
+        },
+        {
+          "code": "CHEM 455",
+          "title": "Chemical Nanotechnology",
+          "units": 4.0,
+          "source_line": "- CHEM 455 Chemical Nanotechnology Units: 4"
+        },
+        {
+          "code": "MASC 350L",
+          "title": "Nanostructured Materials: Design, Synthesis and Processing",
+          "units": 4.0,
+          "source_line": "- MASC 350L Nanostructured Materials: Design, Synthesis and Processing Units: 4"
+        },
+        {
+          "code": "MASC 455",
+          "title": "Computational Materials I: Introduction to Atomistic Simulation",
+          "units": 4.0,
+          "source_line": "- MASC 455 Computational Materials I: Introduction to Atomistic Simulation Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose at least 4 units:",
+          "source_line": "Choose at least 4 units:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose at least 4 units:",
+      "total_units": null
+    },
+    {
+      "title": "*Note:",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "BSAE and BSME students must take CHE 455, which may not be double-counted as an elective. All other students must take MASC 310.",
+          "source_line": "BSAE and BSME students must take CHE 455, which may not be double-counted as an elective. All other students must take MASC 310."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

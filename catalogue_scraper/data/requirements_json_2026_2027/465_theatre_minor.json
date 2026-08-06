@@ -1,0 +1,145 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Theatre Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32011",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32011&returnto=9396",
+    "source_text_file": "465_theatre_minor.txt",
+    "source_content_sha256": "c24befa8203ef70dab1f13e7bd96acb29bbe280e4461cf77ce88856e64fe7624",
+    "retrieved_at": "2026-07-31T01:14:12Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 12,
+    "distinct_course_codes": 12,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The general minor in theatre invites students to explore the many facets of this exciting field. Students have the opportunity to take a variety of classes in acting, playwriting, literature, stage management, directing, costume design and production. The curriculum is flexible and encourages students explore theatre through a broad combination of introductory and upper-division course work. All minor students are also eligible to participate in performance and production projects.",
+          "source_line": "The general minor in theatre invites students to explore the many facets of this exciting field. Students have the opportunity to take a variety of classes in acting, playwriting, literature, stage management, directing, costume design and production. The curriculum is flexible and encourages students explore theatre through a broad combination of introductory and upper-division course work. All minor students are also eligible to participate in performance and production projects."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 101",
+          "title": "Introduction to Acting",
+          "units": 4.0,
+          "source_line": "- THTR 101 Introduction to Acting Units: 4"
+        },
+        {
+          "code": "THTR 125",
+          "title": "Text Studies for Production",
+          "units": 4.0,
+          "source_line": "- THTR 125 Text Studies for Production Units: 4"
+        },
+        {
+          "code": "THTR 130",
+          "title": "Introduction to Theatrical Production",
+          "units": 2.0,
+          "source_line": "- THTR 130 Introduction to Theatrical Production Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One of the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "THTR 225g",
+          "title": "Theatre Across History and Cultures",
+          "units": 4.0,
+          "source_line": "- THTR 225g Theatre Across History and Cultures Units: 4"
+        },
+        {
+          "code": "THTR 230",
+          "title": "Theatrical Design as Poetic Realism",
+          "units": 3.0,
+          "source_line": "- THTR 230 Theatrical Design as Poetic Realism Units: 3"
+        },
+        {
+          "code": "THTR 231",
+          "title": "Costume Construction",
+          "units": 3.0,
+          "source_line": "- THTR 231 Costume Construction Units: 3"
+        },
+        {
+          "code": "THTR 233",
+          "title": "Historic Costumes for the Theatre",
+          "units": 3.0,
+          "source_line": "- THTR 233 Historic Costumes for the Theatre Units: 3"
+        },
+        {
+          "code": "THTR 252a",
+          "title": "Intermediate Acting I: Drama/Comedy",
+          "units": 4.0,
+          "source_line": "- THTR 252a Intermediate Acting I: Drama/Comedy Units: 4"
+        },
+        {
+          "code": "THTR 305a",
+          "title": "Directing",
+          "units": 4.0,
+          "source_line": "- THTR 305a Directing Units: 4"
+        },
+        {
+          "code": "THTR 333",
+          "title": "Stage Management I",
+          "units": 3.0,
+          "source_line": "- THTR 333 Stage Management I Units: 3"
+        },
+        {
+          "code": "THTR 336",
+          "title": "Sound Design I",
+          "units": 3.0,
+          "source_line": "- THTR 336 Sound Design I Units: 3"
+        },
+        {
+          "code": "THTR 365",
+          "title": "Playwriting I",
+          "units": 4.0,
+          "source_line": "- THTR 365 Playwriting I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required upper-division THTR electives: 10-12 units",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required theatre units: 24",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

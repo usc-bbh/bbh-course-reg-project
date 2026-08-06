@@ -1,0 +1,199 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Law and Government Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32943",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32943&returnto=9396",
+    "source_text_file": "361_law_and_government_minor.txt",
+    "source_content_sha256": "4e97ca13ca62f380b7f4fd51da29e9dd6baa43a940c23916e78014c65ade7803",
+    "retrieved_at": "2026-07-31T01:08:05Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The minor totals 16 units: 4 required core law units, at least 4 elective law units, and up to 8 units of electives from various departments as listed below.",
+      "## Required Core Courses (4 units)\n\n---\n\n- LAW 201w Law and Politics Units: 4\n\n## LAW Electives (a minimum of 4 or maximum of 8 units)\n\n---\n\n- LAW 200w Law and Society Units: 4\n- LAW 207 Personal Data in the 21st Century Units: 4\n- LAW 210p Fundamentals of the U."
+    ],
+    "course_entry_count": 21,
+    "distinct_course_codes": 21,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Minor in Law and Government introduces the legal foundations of legal institutions and explores the intersections of law with government and politics.",
+          "source_line": "The Minor in Law and Government introduces the legal foundations of legal institutions and explores the intersections of law with government and politics."
+        },
+        {
+          "text": "The minor totals 16 units: 4 required core law units, at least 4 elective law units, and up to 8 units of electives from various departments as listed below.",
+          "source_line": "The minor totals 16 units: 4 required core law units, at least 4 elective law units, and up to 8 units of electives from various departments as listed below."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Core Courses (4 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "LAW 201w",
+          "title": "Law and Politics",
+          "units": 4.0,
+          "source_line": "- LAW 201w Law and Politics Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "LAW Electives (a minimum of 4 or maximum of 8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "LAW 200w",
+          "title": "Law and Society",
+          "units": 4.0,
+          "source_line": "- LAW 200w Law and Society Units: 4"
+        },
+        {
+          "code": "LAW 207",
+          "title": "Personal Data in the 21st Century",
+          "units": 4.0,
+          "source_line": "- LAW 207 Personal Data in the 21st Century Units: 4"
+        },
+        {
+          "code": "LAW 210p",
+          "title": "Fundamentals of the U.S. Legal System",
+          "units": 4.0,
+          "source_line": "- LAW 210p Fundamentals of the U.S. Legal System Units: 4"
+        },
+        {
+          "code": "LAW 225",
+          "title": "Current Court Cases",
+          "units": 2.0,
+          "source_line": "- LAW 225 Current Court Cases Units: 2"
+        },
+        {
+          "code": "LAW 301",
+          "title": "Voting Rights and the Law",
+          "units": 4.0,
+          "source_line": "- LAW 301 Voting Rights and the Law Units: 4"
+        },
+        {
+          "code": "LAW 305",
+          "title": "International Influence: Law and Power",
+          "units": 4.0,
+          "source_line": "- LAW 305 International Influence: Law and Power Units: 4"
+        },
+        {
+          "code": "LAW 406",
+          "title": "Individual Rights in U.S. Constitutional Law",
+          "units": 4.0,
+          "source_line": "- LAW 406 Individual Rights in U.S. Constitutional Law Units: 4"
+        },
+        {
+          "code": "LAW 407",
+          "title": "Regulatory Law",
+          "units": 4.0,
+          "source_line": "- LAW 407 Regulatory Law Units: 4"
+        },
+        {
+          "code": "LAW 498",
+          "title": "Law Internship , 2, 3, 4",
+          "units": 1.0,
+          "source_line": "- LAW 498 Law Internship Units: 1, 2, 3, 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Other Electives (a minimum of 4 or maximum of 8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "IR 309",
+          "title": "Global Governance",
+          "units": 4.0,
+          "source_line": "- IR 309 Global Governance Units: 4"
+        },
+        {
+          "code": "POSC 335",
+          "title": "Political Parties, Campaigns, and Elections",
+          "units": 4.0,
+          "source_line": "- POSC 335 Political Parties, Campaigns, and Elections Units: 4"
+        },
+        {
+          "code": "POSC 360",
+          "title": "Comparative Political Institutions",
+          "units": 4.0,
+          "source_line": "- POSC 360 Comparative Political Institutions Units: 4"
+        },
+        {
+          "code": "POSC 395",
+          "title": "Directed Governmental and Political Leadership Internship , 3, 4, 5, 6, 7, 8",
+          "units": 2.0,
+          "source_line": "- POSC 395 Directed Governmental and Political Leadership Internship Units: 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "POSC 425",
+          "title": "Legislative Process",
+          "units": 4.0,
+          "source_line": "- POSC 425 Legislative Process Units: 4"
+        },
+        {
+          "code": "POSC 499",
+          "title": "Special Topics , 3, 4",
+          "units": 2.0,
+          "source_line": "- POSC 499 Special Topics Units: 2, 3, 4"
+        },
+        {
+          "code": "PPD 240g",
+          "title": "Citizenship and Public Ethics",
+          "units": 4.0,
+          "source_line": "- PPD 240g Citizenship and Public Ethics Units: 4"
+        },
+        {
+          "code": "PPD 314",
+          "title": "Public Policy and Law",
+          "units": 4.0,
+          "source_line": "- PPD 314 Public Policy and Law Units: 4"
+        },
+        {
+          "code": "PPD 342",
+          "title": "Crime and Public Policy",
+          "units": 4.0,
+          "source_line": "- PPD 342 Crime and Public Policy Units: 4"
+        },
+        {
+          "code": "PPD 357",
+          "title": "Government and Business",
+          "units": 4.0,
+          "source_line": "- PPD 357 Government and Business Units: 4"
+        },
+        {
+          "code": "SCDC 435",
+          "title": "How Washington Really Works",
+          "units": 4.0,
+          "source_line": "- SCDC 435 How Washington Really Works Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

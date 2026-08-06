@@ -1,0 +1,165 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Landscape Architecture Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31559",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31559&returnto=9396",
+    "source_text_file": "356_landscape_architecture_minor.txt",
+    "source_content_sha256": "d4fd377a9e2aca3d687124653dba3f7edf8b81b734f3c5b05ee2cb7afadd1dd1",
+    "retrieved_at": "2026-07-31T01:07:52Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "#### Course Requirements\n\nThe minor in landscape architecture consists of three required courses (10 units) and a minimum of 10 units of upper-division courses.",
+      "## Required Courses\n\n---\n\n- ARCH 203 Visualizing and Experiencing the Built Environment Units: 4\n- ARCH 531 Urban Ecology Units: 3\n- ARCH 565 Global History of Designed Landscapes Units: 3\n\n## Upper Division Courses (10 Units)\n\n---\n\n- ARCH 303 Principles of Spatial Design I Units: 4\n- ARCH 432 People, Places and Culture: Architecture of the Public Realm Units: 4\n- ARCH 531 Urban Ecology Units: 3\n- ARCH 536 The Landscape Planning Process Units: 3\n- ARCH 544 Landscape as Urbanism: Case Studies Units: 3\n- ARCH 545 Contemporary Theories of Landscape Architecture Units: 3\n- ARCH 547 Advanced Topics in Urban Ecology Units: 3\n- ARCH 566 Cross Cultural Topics in Landscape Architecture History Units: 3 (max 6)\n\n## Note:\n\n---\n\nNon-architecture students must obtain written approval from their academic unit in order to take a 500-level course."
+    ],
+    "course_entry_count": 11,
+    "distinct_course_codes": 10,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor provides students with the ability to integrate the ecological and cultural dimensions of landscape architecture into their course of study. Studies are about repairing and sustaining natural systems in cities, about the history of human settlements, places, and gardens in urban landscapes, and about the cultural and aesthetic meanings of landscape architecture design. This is an excellent emphasis for students in environmental studies, civil engineering, planning and anthropology. This minor is not available to architecture majors.",
+          "source_line": "The minor provides students with the ability to integrate the ecological and cultural dimensions of landscape architecture into their course of study. Studies are about repairing and sustaining natural systems in cities, about the history of human settlements, places, and gardens in urban landscapes, and about the cultural and aesthetic meanings of landscape architecture design. This is an excellent emphasis for students in environmental studies, civil engineering, planning and anthropology. This minor is not available to architecture majors."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Admission Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students in good academic standing who have completed the freshman year are eligible.",
+          "source_line": "Students in good academic standing who have completed the freshman year are eligible."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Course Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in landscape architecture consists of three required courses (10 units) and a minimum of 10 units of upper-division courses.",
+          "source_line": "The minor in landscape architecture consists of three required courses (10 units) and a minimum of 10 units of upper-division courses."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ARCH 203",
+          "title": "Visualizing and Experiencing the Built Environment",
+          "units": 4.0,
+          "source_line": "- ARCH 203 Visualizing and Experiencing the Built Environment Units: 4"
+        },
+        {
+          "code": "ARCH 531",
+          "title": "Urban Ecology",
+          "units": 3.0,
+          "source_line": "- ARCH 531 Urban Ecology Units: 3"
+        },
+        {
+          "code": "ARCH 565",
+          "title": "Global History of Designed Landscapes",
+          "units": 3.0,
+          "source_line": "- ARCH 565 Global History of Designed Landscapes Units: 3"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper Division Courses (10 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ARCH 303",
+          "title": "Principles of Spatial Design I",
+          "units": 4.0,
+          "source_line": "- ARCH 303 Principles of Spatial Design I Units: 4"
+        },
+        {
+          "code": "ARCH 432",
+          "title": "People, Places and Culture: Architecture of the Public Realm",
+          "units": 4.0,
+          "source_line": "- ARCH 432 People, Places and Culture: Architecture of the Public Realm Units: 4"
+        },
+        {
+          "code": "ARCH 531",
+          "title": "Urban Ecology",
+          "units": 3.0,
+          "source_line": "- ARCH 531 Urban Ecology Units: 3"
+        },
+        {
+          "code": "ARCH 536",
+          "title": "The Landscape Planning Process",
+          "units": 3.0,
+          "source_line": "- ARCH 536 The Landscape Planning Process Units: 3"
+        },
+        {
+          "code": "ARCH 544",
+          "title": "Landscape as Urbanism: Case Studies",
+          "units": 3.0,
+          "source_line": "- ARCH 544 Landscape as Urbanism: Case Studies Units: 3"
+        },
+        {
+          "code": "ARCH 545",
+          "title": "Contemporary Theories of Landscape Architecture",
+          "units": 3.0,
+          "source_line": "- ARCH 545 Contemporary Theories of Landscape Architecture Units: 3"
+        },
+        {
+          "code": "ARCH 547",
+          "title": "Advanced Topics in Urban Ecology",
+          "units": 3.0,
+          "source_line": "- ARCH 547 Advanced Topics in Urban Ecology Units: 3"
+        },
+        {
+          "code": "ARCH 566",
+          "title": "Cross Cultural Topics in Landscape Architecture History  (max 6)",
+          "units": 3.0,
+          "source_line": "- ARCH 566 Cross Cultural Topics in Landscape Architecture History Units: 3 (max 6)"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Non-architecture students must obtain written approval from their academic unit in order to take a 500-level course. For more information, contact an architecture adviser, archadvs@usc.edu.",
+          "source_line": "Non-architecture students must obtain written approval from their academic unit in order to take a 500-level course. For more information, contact an architecture adviser, archadvs@usc.edu."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

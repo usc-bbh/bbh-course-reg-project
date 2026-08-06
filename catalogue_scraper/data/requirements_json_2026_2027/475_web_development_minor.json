@@ -1,0 +1,105 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Web Development Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32746",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32746&returnto=9396",
+    "source_text_file": "475_web_development_minor.txt",
+    "source_content_sha256": "8707cd65af6e62738409b7b2bf214d07cfcd49052e9fc92e7d65e52b73b3edd2",
+    "retrieved_at": "2026-07-31T01:14:35Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 8,
+    "distinct_course_codes": 8,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Web Development Minor introduces students to technologies, frameworks and methodologies used in the industry. Upon completion of the minor, students will be able to design and develop websites and web applications from the ground up. Students can use the theoretical concepts and practical applications of web development not only in the web industry, but also within a different major field of study. The broad areas of study include web development, software development, user experience / design, and project management. Electives are chosen based on students’ academic and professional goals.",
+          "source_line": "The Web Development Minor introduces students to technologies, frameworks and methodologies used in the industry. Upon completion of the minor, students will be able to design and develop websites and web applications from the ground up. Students can use the theoretical concepts and practical applications of web development not only in the web industry, but also within a different major field of study. The broad areas of study include web development, software development, user experience / design, and project management. Electives are chosen based on students’ academic and professional goals."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Requirements (14 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "TAC 104",
+          "title": "Web Development",
+          "units": 2.0,
+          "source_line": "- TAC 104 Web Development Units: 2"
+        },
+        {
+          "code": "TAC 301",
+          "title": "Front-End Web Development",
+          "units": 4.0,
+          "source_line": "- TAC 301 Front-End Web Development Units: 4"
+        },
+        {
+          "code": "TAC 304",
+          "title": "Back-End Web Development",
+          "units": 4.0,
+          "source_line": "- TAC 304 Back-End Web Development Units: 4"
+        },
+        {
+          "code": "TAC 460",
+          "title": "Web Application Project",
+          "units": 4.0,
+          "source_line": "- TAC 460 Web Application Project Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective (4 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "TAC 310",
+          "title": "Design for User Experience",
+          "units": 4.0,
+          "source_line": "- TAC 310 Design for User Experience Units: 4"
+        },
+        {
+          "code": "TAC 404",
+          "title": "Advanced Front-End Web Development",
+          "units": 4.0,
+          "source_line": "- TAC 404 Advanced Front-End Web Development Units: 4"
+        },
+        {
+          "code": "TAC 405",
+          "title": "Advanced Back-End Web Development",
+          "units": 4.0,
+          "source_line": "- TAC 405 Advanced Back-End Web Development Units: 4"
+        },
+        {
+          "code": "TAC 425",
+          "title": "Web Application Security",
+          "units": 4.0,
+          "source_line": "- TAC 425 Web Application Security Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

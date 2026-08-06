@@ -1,0 +1,158 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Linguistics Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31845",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31845&returnto=9396",
+    "source_text_file": "373_linguistics_minor.txt",
+    "source_content_sha256": "890cf87eddcd41a052ae74e3d7d9902ebfe0129d598f0068c83a41dd4d55195f",
+    "retrieved_at": "2026-07-31T01:10:21Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 9,
+    "distinct_course_codes": 9,
+    "section_count": 8
+  },
+  "sections": [
+    {
+      "title": "Lower division:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "LING 210g",
+          "title": "Introduction to Linguistics",
+          "units": 4.0,
+          "source_line": "- LING 210g Introduction to Linguistics Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "(4 units)",
+          "source_line": "(4 units)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper division:",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "(16 units)",
+          "source_line": "(16 units)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Two courses from the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "LING 301",
+          "title": "Introduction to Phonology and Morphology",
+          "units": 4.0,
+          "source_line": "- LING 301 Introduction to Phonology and Morphology Units: 4"
+        },
+        {
+          "code": "LING 302",
+          "title": "Introduction to Syntax",
+          "units": 4.0,
+          "source_line": "- LING 302 Introduction to Syntax Units: 4"
+        },
+        {
+          "code": "LING 303",
+          "title": "Introduction to Semantics and Pragmatics",
+          "units": 4.0,
+          "source_line": "- LING 303 Introduction to Semantics and Pragmatics Units: 4"
+        },
+        {
+          "code": "LING 415",
+          "title": "Phonetics",
+          "units": 4.0,
+          "source_line": "- LING 415 Phonetics Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One course from the following:",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Sociolinguistics",
+      "level": 4,
+      "courses": [
+        {
+          "code": "LING 408",
+          "title": "Sociolinguistics",
+          "units": 4.0,
+          "source_line": "- LING 408 Sociolinguistics Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Psycholinguistics",
+      "level": 4,
+      "courses": [
+        {
+          "code": "LING 405",
+          "title": "Child Language Acquisition",
+          "units": 4.0,
+          "source_line": "- LING 405 Child Language Acquisition Units: 4"
+        },
+        {
+          "code": "LING 406",
+          "title": "Psycholinguistics",
+          "units": 4.0,
+          "source_line": "- LING 406 Psycholinguistics Units: 4"
+        },
+        {
+          "code": "LING 410",
+          "title": "Second Language Acquisition",
+          "units": 4.0,
+          "source_line": "- LING 410 Second Language Acquisition Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One additional upper-division linguistics course from the USC catalogue",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Units: 20",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

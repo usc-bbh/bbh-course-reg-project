@@ -1,0 +1,168 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Disruptive Innovation Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32567",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32567&returnto=9396",
+    "source_text_file": "282_disruptive_innovation_minor.txt",
+    "source_content_sha256": "00052ce488d2325ad3de92591e30105039b0ec412d71d7ee1c29feb51aadd988",
+    "retrieved_at": "2026-07-31T01:01:47Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 14,
+    "distinct_course_codes": 14,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Disruptive Innovation minor provides students with the skills to launch resilient ventures at the intersection of business, technology and creative practice. From ideation and development to branding, fundraising and market expansion, students learn hands-on techniques to create business advantage and lead teams.",
+          "source_line": "The Disruptive Innovation minor provides students with the skills to launch resilient ventures at the intersection of business, technology and creative practice. From ideation and development to branding, fundraising and market expansion, students learn hands-on techniques to create business advantage and lead teams."
+        },
+        {
+          "text": "In an era where industries evolve at lightning speed, a minor in Disruptive Innovation positions students at the forefront of global change. This specialized program goes beyond traditional academic confines, delving into business strategy, technology integration, human-centered design and new methodologies to harness unexpected market shifts. It empowers students to not just navigate but also pioneer change, turning groundbreaking ideas into tangible advancements that can upend and redefine industries. Graduates emerge as leaders, equipped with a unique skill set that blends critical thinking, technology application, and an entrepreneurial spirit to capitalize on opportunities that others see as challenges. This minor is more than just an education; it will allow students to influence the future, transform uncertainties into prospects, and drive progress with innovation that disrupts and reshapes the world of business.",
+          "source_line": "In an era where industries evolve at lightning speed, a minor in Disruptive Innovation positions students at the forefront of global change. This specialized program goes beyond traditional academic confines, delving into business strategy, technology integration, human-centered design and new methodologies to harness unexpected market shifts. It empowers students to not just navigate but also pioneer change, turning groundbreaking ideas into tangible advancements that can upend and redefine industries. Graduates emerge as leaders, equipped with a unique skill set that blends critical thinking, technology application, and an entrepreneurial spirit to capitalize on opportunities that others see as challenges. This minor is more than just an education; it will allow students to influence the future, transform uncertainties into prospects, and drive progress with innovation that disrupts and reshapes the world of business."
+        },
+        {
+          "text": "Additional electives, including in other schools at USC, will be considered through student advisement.",
+          "source_line": "Additional electives, including in other schools at USC, will be considered through student advisement."
+        },
+        {
+          "text": "Information on how to apply for the minor can be found at:",
+          "source_line": "Information on how to apply for the minor can be found at:"
+        },
+        {
+          "text": "iovine-young.usc.edu",
+          "source_line": "iovine-young.usc.edu"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (20 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ACAD 181g",
+          "title": "Disruptive Innovation",
+          "units": 4.0,
+          "source_line": "- ACAD 181g Disruptive Innovation Units: 4"
+        },
+        {
+          "code": "ACAD 182",
+          "title": "Disruptive Validation",
+          "units": 4.0,
+          "source_line": "- ACAD 182 Disruptive Validation Units: 4"
+        },
+        {
+          "code": "ACAD 220",
+          "title": "Introduction to Data Innovation and Analytics",
+          "units": 4.0,
+          "source_line": "- ACAD 220 Introduction to Data Innovation and Analytics Units: 4"
+        },
+        {
+          "code": "ACAD 324g",
+          "title": "The Practice of Design: Ideation to Innovation",
+          "units": 4.0,
+          "source_line": "- ACAD 324g The Practice of Design: Ideation to Innovation Units: 4"
+        },
+        {
+          "code": "ACAD 360",
+          "title": "Design Strategy: Problem Solving for Organizations",
+          "units": 4.0,
+          "source_line": "- ACAD 360 Design Strategy: Problem Solving for Organizations Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must complete the following 20 units:",
+          "source_line": "Students must complete the following 20 units:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (4 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ACAD 222",
+          "title": "Introduction to Machine Intelligence",
+          "units": 4.0,
+          "source_line": "- ACAD 222 Introduction to Machine Intelligence Units: 4"
+        },
+        {
+          "code": "ACAD 245",
+          "title": "Fundamentals of Product Design",
+          "units": 4.0,
+          "source_line": "- ACAD 245 Fundamentals of Product Design Units: 4"
+        },
+        {
+          "code": "ACAD 260",
+          "title": "Introduction to Healthcare Innovation",
+          "units": 4.0,
+          "source_line": "- ACAD 260 Introduction to Healthcare Innovation Units: 4"
+        },
+        {
+          "code": "ACAD 274",
+          "title": "Designing Interactive Data Systems",
+          "units": 4.0,
+          "source_line": "- ACAD 274 Designing Interactive Data Systems Units: 4"
+        },
+        {
+          "code": "ACAD 275",
+          "title": "Dev I",
+          "units": 4.0,
+          "source_line": "- ACAD 275 Dev I Units: 4"
+        },
+        {
+          "code": "ACAD 402",
+          "title": "Modern Brand and Community Playbook",
+          "units": 2.0,
+          "source_line": "- ACAD 402 Modern Brand and Community Playbook Units: 2"
+        },
+        {
+          "code": "ACAD 406",
+          "title": "Purpose-Driven Innovation Incubator",
+          "units": 2.0,
+          "source_line": "- ACAD 406 Purpose-Driven Innovation Incubator Units: 2"
+        },
+        {
+          "code": "IDSN 577",
+          "title": "Finance for Entrepreneurs",
+          "units": 3.0,
+          "source_line": "- IDSN 577 Finance for Entrepreneurs Units: 3"
+        },
+        {
+          "code": "TAC 479",
+          "title": "Cyber Law and Privacy",
+          "units": 4.0,
+          "source_line": "- TAC 479 Cyber Law and Privacy Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must complete 4 units from the following:",
+          "source_line": "Students must complete 4 units from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Students must complete 4 units from the following:",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

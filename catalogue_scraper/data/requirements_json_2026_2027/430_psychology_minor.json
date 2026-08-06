@@ -1,0 +1,66 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Psychology Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31910",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31910&returnto=9396",
+    "source_text_file": "430_psychology_minor.txt",
+    "source_content_sha256": "c8f0095065513ecff1943295636dbd73580d2c1f8228c00397263e175bd6952f",
+    "retrieved_at": "2026-07-31T01:12:31Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "Each of the six courses must be at least 2.67 units."
+    ],
+    "course_entry_count": 0,
+    "distinct_course_codes": 0,
+    "section_count": 1
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor requires six courses: PSYC 100 and five additional courses:",
+          "source_line": "The minor requires six courses: PSYC 100 and five additional courses:"
+        },
+        {
+          "text": "One course is required in each of three of the five topic areas listed under Major Requirements. PSYC 314L may be used to fulfill one of these topic areas.",
+          "source_line": "One course is required in each of three of the five topic areas listed under Major Requirements. PSYC 314L may be used to fulfill one of these topic areas."
+        },
+        {
+          "text": "Two elective PSYC courses. One must be upper-division, 300-level or higher.",
+          "source_line": "Two elective PSYC courses. One must be upper-division, 300-level or higher."
+        },
+        {
+          "text": "Limitations:",
+          "source_line": "Limitations:"
+        },
+        {
+          "text": "1. Students must complete at least 16 upper-division PSYC units.",
+          "source_line": "1. Students must complete at least 16 upper-division PSYC units.",
+          "states_choice_rule": true
+        },
+        {
+          "text": "2. No more than four units of PSYC 490x is applicable to the minor.",
+          "source_line": "2. No more than four units of PSYC 490x is applicable to the minor."
+        },
+        {
+          "text": "3. Each of the six courses must be at least 2.67 units.",
+          "source_line": "3. Each of the six courses must be at least 2.67 units."
+        }
+      ],
+      "choice": "1. Students must complete at least 16 upper-division PSYC units.",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,339 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Folklore and Popular Culture Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31703",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31703&returnto=9396",
+    "source_text_file": "304_folklore_and_popular_culture_minor.txt",
+    "source_content_sha256": "487133c04107e6e2c18abfe304206bea73f26db8843784effef7b2b3cc374397",
+    "retrieved_at": "2026-07-31T01:02:33Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "#### Course Requirements\n\nFor the minor in Folklore and Popular Culture, students must complete five courses (20 units), as distributed below."
+    ],
+    "course_entry_count": 43,
+    "distinct_course_codes": 43,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in Folklore and Popular Culture provides an academic foundation for students interested in the many genres in the field including folktales, myths, legends, proverbs, jokes, games, folk medicine, and folk and indigenous musical traditions, from around the world. Through interdisciplinary course work, students will learn techniques of collecting, analyzing and interpreting the traditional expressive culture of diverse groups. Students will analyze the interrelationships of folklore and national, regional and ethnic identities. After becoming acquainted with methods of interpreting different forms of folklore, students will see how value systems are reflected in the data, so that students understand the ideological underpinnings of group formation, group identity, conflict and strategies for resolution. By focusing on the individual, informal culture, and the tension between the individual and myriad groups to which they belong, folklore provides yet another window into understanding how individuals function in complex societies. Since the field is historically grounded and culturally comparative, folklore provides important perspectives on the human condition.",
+          "source_line": "The minor in Folklore and Popular Culture provides an academic foundation for students interested in the many genres in the field including folktales, myths, legends, proverbs, jokes, games, folk medicine, and folk and indigenous musical traditions, from around the world. Through interdisciplinary course work, students will learn techniques of collecting, analyzing and interpreting the traditional expressive culture of diverse groups. Students will analyze the interrelationships of folklore and national, regional and ethnic identities. After becoming acquainted with methods of interpreting different forms of folklore, students will see how value systems are reflected in the data, so that students understand the ideological underpinnings of group formation, group identity, conflict and strategies for resolution. By focusing on the individual, informal culture, and the tension between the individual and myriad groups to which they belong, folklore provides yet another window into understanding how individuals function in complex societies. Since the field is historically grounded and culturally comparative, folklore provides important perspectives on the human condition."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Course Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "For the minor in Folklore and Popular Culture, students must complete five courses (20 units), as distributed below.",
+          "source_line": "For the minor in Folklore and Popular Culture, students must complete five courses (20 units), as distributed below."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Requirement",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ANTH 123gp",
+          "title": "Forms of Folklore",
+          "units": 4.0,
+          "source_line": "- ANTH 123gp Forms of Folklore Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division Courses (Choose One)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AMST 205g",
+          "title": "Introduction to American Popular Culture",
+          "units": 4.0,
+          "source_line": "- AMST 205g Introduction to American Popular Culture Units: 4"
+        },
+        {
+          "code": "AMST 285gm",
+          "title": "African American Popular Culture",
+          "units": 4.0,
+          "source_line": "- AMST 285gm African American Popular Culture Units: 4"
+        },
+        {
+          "code": "ANTH 101g",
+          "title": "Body, Mind and Healing: Introduction to Medical Anthropology",
+          "units": 4.0,
+          "source_line": "- ANTH 101g Body, Mind and Healing: Introduction to Medical Anthropology Units: 4"
+        },
+        {
+          "code": "ANTH 140g",
+          "title": "Mesoamerican Cosmovision and Culture",
+          "units": 4.0,
+          "source_line": "- ANTH 140g Mesoamerican Cosmovision and Culture Units: 4"
+        },
+        {
+          "code": "ANTH 203g",
+          "title": "Global Media",
+          "units": 4.0,
+          "source_line": "- ANTH 203g Global Media Units: 4"
+        },
+        {
+          "code": "ANTH 207",
+          "title": "Introduction to Heritage Studies",
+          "units": 4.0,
+          "source_line": "- ANTH 207 Introduction to Heritage Studies Units: 4"
+        },
+        {
+          "code": "ANTH 240gm",
+          "title": "Representing 9/11 and Hurricane Katrina",
+          "units": 4.0,
+          "source_line": "- ANTH 240gm Representing 9/11 and Hurricane Katrina Units: 4"
+        },
+        {
+          "code": "ANTH 255g",
+          "title": "Culture, Performance and Personal Narrative",
+          "units": 4.0,
+          "source_line": "- ANTH 255g Culture, Performance and Personal Narrative Units: 4"
+        },
+        {
+          "code": "ANTH 263g",
+          "title": "Exploring Culture through Film",
+          "units": 4.0,
+          "source_line": "- ANTH 263g Exploring Culture through Film Units: 4"
+        },
+        {
+          "code": "ANTH 273g",
+          "title": "Shamans, Spirits and Ancestors: Non-Western Religious Traditions",
+          "units": 4.0,
+          "source_line": "- ANTH 273g Shamans, Spirits and Ancestors: Non-Western Religious Traditions Units: 4"
+        },
+        {
+          "code": "CLAS 280gp",
+          "title": "Classical Mythology in Art and Literature",
+          "units": 4.0,
+          "source_line": "- CLAS 280gp Classical Mythology in Art and Literature Units: 4"
+        },
+        {
+          "code": "COMM 206",
+          "title": "Communication and Culture",
+          "units": 4.0,
+          "source_line": "- COMM 206 Communication and Culture Units: 4"
+        },
+        {
+          "code": "HIST 271g",
+          "title": "Telling Native American Stories",
+          "units": 4.0,
+          "source_line": "- HIST 271g Telling Native American Stories Units: 4"
+        },
+        {
+          "code": "MUSC 102gw",
+          "title": "World Music",
+          "units": 4.0,
+          "source_line": "- MUSC 102gw World Music Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Courses (Choose Three)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AMST 330m",
+          "title": "Black Music and the Political Imagination",
+          "units": 4.0,
+          "source_line": "- AMST 330m Black Music and the Political Imagination Units: 4"
+        },
+        {
+          "code": "AMST 395m",
+          "title": "African American Humor and Culture",
+          "units": 4.0,
+          "source_line": "- AMST 395m African American Humor and Culture Units: 4"
+        },
+        {
+          "code": "ANTH 301g",
+          "title": "The Global Performance of Healing",
+          "units": 4.0,
+          "source_line": "- ANTH 301g The Global Performance of Healing Units: 4"
+        },
+        {
+          "code": "ANTH 312",
+          "title": "Documenting Latinx Los Angeles Food Cultures",
+          "units": 4.0,
+          "source_line": "- ANTH 312 Documenting Latinx Los Angeles Food Cultures Units: 4"
+        },
+        {
+          "code": "ANTH 326g",
+          "title": "European Folklore and Ethnology",
+          "units": 4.0,
+          "source_line": "- ANTH 326g European Folklore and Ethnology Units: 4"
+        },
+        {
+          "code": "ANTH 332g",
+          "title": "Anthropology and Narrative Medicine",
+          "units": 4.0,
+          "source_line": "- ANTH 332g Anthropology and Narrative Medicine Units: 4"
+        },
+        {
+          "code": "ANTH 360",
+          "title": "Symbolic Anthropology",
+          "units": 4.0,
+          "source_line": "- ANTH 360 Symbolic Anthropology Units: 4"
+        },
+        {
+          "code": "ANTH 370",
+          "title": "Sex, Love, and Marriage: An Introduction to Kinship",
+          "units": 4.0,
+          "source_line": "- ANTH 370 Sex, Love, and Marriage: An Introduction to Kinship Units: 4"
+        },
+        {
+          "code": "ANTH 372",
+          "title": "Interpretation of Myth and Narrative",
+          "units": 4.0,
+          "source_line": "- ANTH 372 Interpretation of Myth and Narrative Units: 4"
+        },
+        {
+          "code": "ANTH 373",
+          "title": "Magic, Witchcraft and Healing",
+          "units": 4.0,
+          "source_line": "- ANTH 373 Magic, Witchcraft and Healing Units: 4"
+        },
+        {
+          "code": "ANTH 409",
+          "title": "Indigenous Languages in the Contemporary World",
+          "units": 4.0,
+          "source_line": "- ANTH 409 Indigenous Languages in the Contemporary World Units: 4"
+        },
+        {
+          "code": "ANTH 445",
+          "title": "African American Anthropology",
+          "units": 4.0,
+          "source_line": "- ANTH 445 African American Anthropology Units: 4"
+        },
+        {
+          "code": "ANTH 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- ANTH 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "CLAS 325",
+          "title": "Ancient Epic",
+          "units": 4.0,
+          "source_line": "- CLAS 325 Ancient Epic Units: 4"
+        },
+        {
+          "code": "CLAS 380",
+          "title": "Approaches to Myth",
+          "units": 4.0,
+          "source_line": "- CLAS 380 Approaches to Myth Units: 4"
+        },
+        {
+          "code": "COLT 311",
+          "title": "Epic",
+          "units": 4.0,
+          "source_line": "- COLT 311 Epic Units: 4"
+        },
+        {
+          "code": "COLT 312",
+          "title": "Heroes, Myths and Legends in Literature and the Arts",
+          "units": 4.0,
+          "source_line": "- COLT 312 Heroes, Myths and Legends in Literature and the Arts Units: 4"
+        },
+        {
+          "code": "COLT 365",
+          "title": "Literature and Popular Culture",
+          "units": 4.0,
+          "source_line": "- COLT 365 Literature and Popular Culture Units: 4"
+        },
+        {
+          "code": "COMM 307",
+          "title": "Sound Clash: Popular Music and American Culture",
+          "units": 4.0,
+          "source_line": "- COMM 307 Sound Clash: Popular Music and American Culture Units: 4"
+        },
+        {
+          "code": "COMM 384",
+          "title": "Interpreting Popular Culture",
+          "units": 4.0,
+          "source_line": "- COMM 384 Interpreting Popular Culture Units: 4"
+        },
+        {
+          "code": "COMM 440",
+          "title": "Music as Communication",
+          "units": 4.0,
+          "source_line": "- COMM 440 Music as Communication Units: 4"
+        },
+        {
+          "code": "DANC 302g",
+          "title": "Hip Hop Don’t Stop: Black Social Dance Culture and Media",
+          "units": 4.0,
+          "source_line": "- DANC 302g Hip Hop Don’t Stop: Black Social Dance Culture and Media Units: 4"
+        },
+        {
+          "code": "GERM 346",
+          "title": "German Folklore and Popular Culture",
+          "units": 4.0,
+          "source_line": "- GERM 346 German Folklore and Popular Culture Units: 4"
+        },
+        {
+          "code": "JS 378gp",
+          "title": "Jewish Magic in the Ancient World",
+          "units": 4.0,
+          "source_line": "- JS 378gp Jewish Magic in the Ancient World Units: 4"
+        },
+        {
+          "code": "MDA 330",
+          "title": "The Armenian Heritage: History, Arts, and Culture",
+          "units": 4.0,
+          "source_line": "- MDA 330 The Armenian Heritage: History, Arts, and Culture Units: 4"
+        },
+        {
+          "code": "MUSC 444",
+          "title": "American Roots Music: History and Culture",
+          "units": 4.0,
+          "source_line": "- MUSC 444 American Roots Music: History and Culture Units: 4"
+        },
+        {
+          "code": "POSC 441m",
+          "title": "Cultural Diversity and the Law",
+          "units": 4.0,
+          "source_line": "- POSC 441m Cultural Diversity and the Law Units: 4"
+        },
+        {
+          "code": "SPAN 385",
+          "title": "The Culture of Food in Hispanic Los Angeles",
+          "units": 4.0,
+          "source_line": "- SPAN 385 The Culture of Food in Hispanic Los Angeles Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,206 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Game User Research Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31687",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31687&returnto=9396",
+    "source_text_file": "316_game_user_research_minor.txt",
+    "source_content_sha256": "40fc3ea6081db85b2159120909cad5f4023dfb33f0bba389f6b7b98caeb5b5c8",
+    "retrieved_at": "2026-07-31T01:03:04Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "#### Course Requirements for the Minor\n\nA total of 16 units is required for the game user research minor, 2 lower-division units and a minimum of 12 upper-division units.",
+      "## Lower-division Core Units (2 Units)\n\n---\n\n- CTIN 291 Crew for Advanced Game Project Units: 2\n\n## Upper-division Core Units (8 Units)\n\n---\n\n- COMM 301Lg Empirical Research in Communication Units: 4\n- CTIN 401L Interface Design for Games Units: 2\n- CTIN 404L User Research for Games Units: 2\n\n## Electives (6 Additional Units)\n\n---\n\n- CTIN 110 Statistical Analysis for Games: Storytelling with Numbers Units: 4\n- CTIN 432 Polishing and Publishing Interactive Media Units: 2\n- CTIN 458 Business and Management of Games Units: 2\n- CTIN 463 Anatomy of a Game Units: 4\n- CTIN 482 Designing Social Games Units: 2\n- CTIN 488 Game Design Workshop Units: 4\n- CTIN 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8\n- CTIN 491L Advanced Game Project I Units: 4 *\n- CTIN 493L Advanced Game Project II Units: 2 *\n- CTIN 510 Research Methods for Innovation, Engagement and Assessment Units: 2 +\n- PSYC 301L Cognitive Processes Units: 4 *\n\n## Note:\n\n---\n\n*Prerequisite required."
+    ],
+    "course_entry_count": 15,
+    "distinct_course_codes": 15,
+    "section_count": 7
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Game and interaction design are deeply dependent upon human-computer interaction and the ability to use research methods to improve player experience. Game user research is a critical aspect of game design and development that involves management of playtests and usability tests of the software, technology and rules. Along with the ability to analyze and design for optimal player experience, this field combines the ability to analyze large batches of data, and an understanding of how to build applications that mine data from users; these skills form the backbone of an incredibly valuable team member for digital entertainment products. The Interactive Media and Games Division at the School of Cinematic Arts is a leading facility in the teaching of usability, research, and playtesting practices in this field, and the game user research minor is designed to give students an underpinning in game design, interface design and research methods, while teaching a full set of skills for playtesting and usability practice.",
+          "source_line": "Game and interaction design are deeply dependent upon human-computer interaction and the ability to use research methods to improve player experience. Game user research is a critical aspect of game design and development that involves management of playtests and usability tests of the software, technology and rules. Along with the ability to analyze and design for optimal player experience, this field combines the ability to analyze large batches of data, and an understanding of how to build applications that mine data from users; these skills form the backbone of an incredibly valuable team member for digital entertainment products. The Interactive Media and Games Division at the School of Cinematic Arts is a leading facility in the teaching of usability, research, and playtesting practices in this field, and the game user research minor is designed to give students an underpinning in game design, interface design and research methods, while teaching a full set of skills for playtesting and usability practice."
+        },
+        {
+          "text": "To be eligible for the game user research minor, a student must be in good academic standing and have a declared major. To declare the game design minor a student must get permission from the Interactive Media and Games Division (SCI 201) and submit a Change of Major/Minor form to Cinematic Arts Student Affairs (SCB 105).",
+          "source_line": "To be eligible for the game user research minor, a student must be in good academic standing and have a declared major. To declare the game design minor a student must get permission from the Interactive Media and Games Division (SCI 201) and submit a Change of Major/Minor form to Cinematic Arts Student Affairs (SCB 105)."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Course Requirements for the Minor",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A total of 16 units is required for the game user research minor, 2 lower-division units and a minimum of 12 upper-division units.",
+          "source_line": "A total of 16 units is required for the game user research minor, 2 lower-division units and a minimum of 12 upper-division units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-division Core Units (2 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTIN 291",
+          "title": "Crew for Advanced Game Project",
+          "units": 2.0,
+          "source_line": "- CTIN 291 Crew for Advanced Game Project Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-division Core Units (8 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "COMM 301Lg",
+          "title": "Empirical Research in Communication",
+          "units": 4.0,
+          "source_line": "- COMM 301Lg Empirical Research in Communication Units: 4"
+        },
+        {
+          "code": "CTIN 401L",
+          "title": "Interface Design for Games",
+          "units": 2.0,
+          "source_line": "- CTIN 401L Interface Design for Games Units: 2"
+        },
+        {
+          "code": "CTIN 404L",
+          "title": "User Research for Games",
+          "units": 2.0,
+          "source_line": "- CTIN 404L User Research for Games Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (6 Additional Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTIN 110",
+          "title": "Statistical Analysis for Games: Storytelling with Numbers",
+          "units": 4.0,
+          "source_line": "- CTIN 110 Statistical Analysis for Games: Storytelling with Numbers Units: 4"
+        },
+        {
+          "code": "CTIN 432",
+          "title": "Polishing and Publishing Interactive Media",
+          "units": 2.0,
+          "source_line": "- CTIN 432 Polishing and Publishing Interactive Media Units: 2"
+        },
+        {
+          "code": "CTIN 458",
+          "title": "Business and Management of Games",
+          "units": 2.0,
+          "source_line": "- CTIN 458 Business and Management of Games Units: 2"
+        },
+        {
+          "code": "CTIN 463",
+          "title": "Anatomy of a Game",
+          "units": 4.0,
+          "source_line": "- CTIN 463 Anatomy of a Game Units: 4"
+        },
+        {
+          "code": "CTIN 482",
+          "title": "Designing Social Games",
+          "units": 2.0,
+          "source_line": "- CTIN 482 Designing Social Games Units: 2"
+        },
+        {
+          "code": "CTIN 488",
+          "title": "Game Design Workshop",
+          "units": 4.0,
+          "source_line": "- CTIN 488 Game Design Workshop Units: 4"
+        },
+        {
+          "code": "CTIN 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- CTIN 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "CTIN 491L",
+          "title": "Advanced Game Project I  *",
+          "units": 4.0,
+          "source_line": "- CTIN 491L Advanced Game Project I Units: 4 *"
+        },
+        {
+          "code": "CTIN 493L",
+          "title": "Advanced Game Project II  *",
+          "units": 2.0,
+          "source_line": "- CTIN 493L Advanced Game Project II Units: 2 *"
+        },
+        {
+          "code": "CTIN 510",
+          "title": "Research Methods for Innovation, Engagement and Assessment  +",
+          "units": 2.0,
+          "source_line": "- CTIN 510 Research Methods for Innovation, Engagement and Assessment Units: 2 +"
+        },
+        {
+          "code": "PSYC 301L",
+          "title": "Cognitive Processes  *",
+          "units": 4.0,
+          "source_line": "- PSYC 301L Cognitive Processes Units: 4 *"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Prerequisite required.",
+          "source_line": "*Prerequisite required."
+        },
+        {
+          "text": "+Enrollment in CTIN 510 requires special permission.",
+          "source_line": "+Enrollment in CTIN 510 requires special permission."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Grade Point Average Requirement",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.",
+          "source_line": "A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,463 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Dramatic Arts, Musical Theatre Emphasis (BA)*",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32840",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32840&returnto=9396",
+    "source_text_file": "098_dramatic_arts_musical_theatre_emphasis_ba.txt",
+    "source_content_sha256": "1f94bad0021c5d0f497e6d571e4a669ca42da0209f1c2352809849fa72055462",
+    "retrieved_at": "2026-07-31T00:52:54Z"
+  },
+  "totals": {
+    "stated_total_units": 128.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "## Required Musical Theatre Emphasis Courses (65 units)\n\n---\n\nRequired Courses\n\n- THTR 101 Introduction to Acting Units: 4\n- THTR 130 Introduction to Theatrical Production Units: 2\n- THTR 342a Basic Voice Units: 2\n- THTE 107 Foundations of Vocal Performance Units: 2\n- THTE 201aL Acting for Musical Theatre Units: 4\n- THTE 201b Acting for Musical Theatre Units: 4\n- THTE 206aL Movement for Musical Theatre Units: 4\n- THTE 206bL Movement for Musical Theatre Units: 4\n- THTE 300L Script and Score Units: 2\n- THTE 306L Movement for Musical Theatre II Units: 4\n- THTE 403L Contemporary Scene Into Song Units: 2\n\n## One course in Design and Production (3 units) from:\n\n---\n\n- THTR 230 Theatrical Design as Poetic Realism Units: 3\n- THTR 231 Costume Construction Units: 3\n- THTR 232 Introduction to Theatrical Lighting Units: 3\n- THTR 233 Historic Costumes for the Theatre Units: 3\n- THTR 333 Stage Management I Units: 3\n- THTR 335 Scenic Construction Units: 3\n- THTR 437 Scene Painting Units: 3\n- THTR 439 Stage Properties Units: 3\n\n## Select 12 units from:\n\n---\n\n- THTR 305a Directing Units: 4\n- THTR 343 Musical Theatre Audition Units: 3\n- THTR 365 Playwriting I Units: 4\n- THTR 366 Playwriting II Units: 4\n- THTR 410 The Digital Actor Units: 2\n- THTR 411 The Business of Acting Units: 4\n- THTR 416 Creating Content for the Actor Units: 2.",
+      "0\n- THTR 424 Creator as Entrepreneur Units: 2\n- THTR 459 Songwriting for the Musical Theatre Units: 2\n- THTR 480a Performance for Camera Units: 2\n- THTR 489 Theatre Internship Units: 2, 3, 4, 5, 6\n- THTR 492 Producing Theatre Units: 4\n- THTR 495 Experimental Theatre Workshop I Units: 4\n- THTE 408L Movie Musical Development Units: 2\n\n## Complete 4 units of THTR 397\n\n---\n\nTHTR 397 Practicum Assignment: One Stage, One Screen.",
+      "- THTR 397 Theatre Practicum Units: 1, 2, 3, 4\n\n## Critical Studies Core (16.0 units)\n\n---\n\nComplete the two required courses below."
+    ],
+    "course_entry_count": 53,
+    "distinct_course_codes": 52,
+    "section_count": 10
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The BA Dramatic Arts, Emphasis in Musical Theatre is designed specifically to increase the versatility of its students so they are better educated, prepared and equipped to enter the professional arena of Musical Theatre.",
+          "source_line": "The BA Dramatic Arts, Emphasis in Musical Theatre is designed specifically to increase the versatility of its students so they are better educated, prepared and equipped to enter the professional arena of Musical Theatre."
+        },
+        {
+          "text": "General Education Requirements",
+          "source_line": "General Education Requirements"
+        },
+        {
+          "text": "The university’s General Education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above.",
+          "source_line": "The university’s General Education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above."
+        },
+        {
+          "text": "Note that courses within the major may also satisfy certain Core Literacy requirements. Please work with your major adviser to determine those courses.",
+          "source_line": "Note that courses within the major may also satisfy certain Core Literacy requirements. Please work with your major adviser to determine those courses."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Musical Theatre Emphasis Courses (65 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 101",
+          "title": "Introduction to Acting",
+          "units": 4.0,
+          "source_line": "- THTR 101 Introduction to Acting Units: 4"
+        },
+        {
+          "code": "THTR 130",
+          "title": "Introduction to Theatrical Production",
+          "units": 2.0,
+          "source_line": "- THTR 130 Introduction to Theatrical Production Units: 2"
+        },
+        {
+          "code": "THTR 342a",
+          "title": "Basic Voice",
+          "units": 2.0,
+          "source_line": "- THTR 342a Basic Voice Units: 2"
+        },
+        {
+          "code": "THTE 107",
+          "title": "Foundations of Vocal Performance",
+          "units": 2.0,
+          "source_line": "- THTE 107 Foundations of Vocal Performance Units: 2"
+        },
+        {
+          "code": "THTE 201aL",
+          "title": "Acting for Musical Theatre",
+          "units": 4.0,
+          "source_line": "- THTE 201aL Acting for Musical Theatre Units: 4"
+        },
+        {
+          "code": "THTE 201b",
+          "title": "Acting for Musical Theatre",
+          "units": 4.0,
+          "source_line": "- THTE 201b Acting for Musical Theatre Units: 4"
+        },
+        {
+          "code": "THTE 206aL",
+          "title": "Movement for Musical Theatre",
+          "units": 4.0,
+          "source_line": "- THTE 206aL Movement for Musical Theatre Units: 4"
+        },
+        {
+          "code": "THTE 206bL",
+          "title": "Movement for Musical Theatre",
+          "units": 4.0,
+          "source_line": "- THTE 206bL Movement for Musical Theatre Units: 4"
+        },
+        {
+          "code": "THTE 300L",
+          "title": "Script and Score",
+          "units": 2.0,
+          "source_line": "- THTE 300L Script and Score Units: 2"
+        },
+        {
+          "code": "THTE 306L",
+          "title": "Movement for Musical Theatre II",
+          "units": 4.0,
+          "source_line": "- THTE 306L Movement for Musical Theatre II Units: 4"
+        },
+        {
+          "code": "THTE 403L",
+          "title": "Contemporary Scene Into Song",
+          "units": 2.0,
+          "source_line": "- THTE 403L Contemporary Scene Into Song Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Required Courses",
+          "source_line": "Required Courses"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One course in Design and Production (3 units) from:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 230",
+          "title": "Theatrical Design as Poetic Realism",
+          "units": 3.0,
+          "source_line": "- THTR 230 Theatrical Design as Poetic Realism Units: 3"
+        },
+        {
+          "code": "THTR 231",
+          "title": "Costume Construction",
+          "units": 3.0,
+          "source_line": "- THTR 231 Costume Construction Units: 3"
+        },
+        {
+          "code": "THTR 232",
+          "title": "Introduction to Theatrical Lighting",
+          "units": 3.0,
+          "source_line": "- THTR 232 Introduction to Theatrical Lighting Units: 3"
+        },
+        {
+          "code": "THTR 233",
+          "title": "Historic Costumes for the Theatre",
+          "units": 3.0,
+          "source_line": "- THTR 233 Historic Costumes for the Theatre Units: 3"
+        },
+        {
+          "code": "THTR 333",
+          "title": "Stage Management I",
+          "units": 3.0,
+          "source_line": "- THTR 333 Stage Management I Units: 3"
+        },
+        {
+          "code": "THTR 335",
+          "title": "Scenic Construction",
+          "units": 3.0,
+          "source_line": "- THTR 335 Scenic Construction Units: 3"
+        },
+        {
+          "code": "THTR 437",
+          "title": "Scene Painting",
+          "units": 3.0,
+          "source_line": "- THTR 437 Scene Painting Units: 3"
+        },
+        {
+          "code": "THTR 439",
+          "title": "Stage Properties",
+          "units": 3.0,
+          "source_line": "- THTR 439 Stage Properties Units: 3"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Select 12 units from:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 305a",
+          "title": "Directing",
+          "units": 4.0,
+          "source_line": "- THTR 305a Directing Units: 4"
+        },
+        {
+          "code": "THTR 343",
+          "title": "Musical Theatre Audition",
+          "units": 3.0,
+          "source_line": "- THTR 343 Musical Theatre Audition Units: 3"
+        },
+        {
+          "code": "THTR 365",
+          "title": "Playwriting I",
+          "units": 4.0,
+          "source_line": "- THTR 365 Playwriting I Units: 4"
+        },
+        {
+          "code": "THTR 366",
+          "title": "Playwriting II",
+          "units": 4.0,
+          "source_line": "- THTR 366 Playwriting II Units: 4"
+        },
+        {
+          "code": "THTR 410",
+          "title": "The Digital Actor",
+          "units": 2.0,
+          "source_line": "- THTR 410 The Digital Actor Units: 2"
+        },
+        {
+          "code": "THTR 411",
+          "title": "The Business of Acting",
+          "units": 4.0,
+          "source_line": "- THTR 411 The Business of Acting Units: 4"
+        },
+        {
+          "code": "THTR 416",
+          "title": "Creating Content for the Actor",
+          "units": 2.0,
+          "source_line": "- THTR 416 Creating Content for the Actor Units: 2.0"
+        },
+        {
+          "code": "THTR 424",
+          "title": "Creator as Entrepreneur",
+          "units": 2.0,
+          "source_line": "- THTR 424 Creator as Entrepreneur Units: 2"
+        },
+        {
+          "code": "THTR 459",
+          "title": "Songwriting for the Musical Theatre",
+          "units": 2.0,
+          "source_line": "- THTR 459 Songwriting for the Musical Theatre Units: 2"
+        },
+        {
+          "code": "THTR 480a",
+          "title": "Performance for Camera",
+          "units": 2.0,
+          "source_line": "- THTR 480a Performance for Camera Units: 2"
+        },
+        {
+          "code": "THTR 489",
+          "title": "Theatre Internship , 3, 4, 5, 6",
+          "units": 2.0,
+          "source_line": "- THTR 489 Theatre Internship Units: 2, 3, 4, 5, 6"
+        },
+        {
+          "code": "THTR 492",
+          "title": "Producing Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 492 Producing Theatre Units: 4"
+        },
+        {
+          "code": "THTR 495",
+          "title": "Experimental Theatre Workshop I",
+          "units": 4.0,
+          "source_line": "- THTR 495 Experimental Theatre Workshop I Units: 4"
+        },
+        {
+          "code": "THTE 408L",
+          "title": "Movie Musical Development",
+          "units": 2.0,
+          "source_line": "- THTE 408L Movie Musical Development Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Complete 4 units of THTR 397",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 397",
+          "title": "Practicum Assignment: One Stage, One Screen. Assignment must be approved by Faculty Mentor",
+          "units": null,
+          "source_line": "THTR 397 Practicum Assignment: One Stage, One Screen. Assignment must be approved by Faculty Mentor."
+        },
+        {
+          "code": "THTR 397",
+          "title": "Theatre Practicum , 2, 3, 4",
+          "units": 1.0,
+          "source_line": "- THTR 397 Theatre Practicum Units: 1, 2, 3, 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Critical Studies Core (16.0 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 125",
+          "title": "Text Studies for Production",
+          "units": 4.0,
+          "source_line": "- THTR 125 Text Studies for Production Units: 4"
+        },
+        {
+          "code": "THTR 225g",
+          "title": "Theatre Across History and Cultures",
+          "units": 4.0,
+          "source_line": "- THTR 225g Theatre Across History and Cultures Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete the two required courses below. In addition, take one course from List A and one course from either List A or B.",
+          "source_line": "Complete the two required courses below. In addition, take one course from List A and one course from either List A or B.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Complete the two required courses below. In addition, take one course from List A and one course from either List A or B.",
+      "total_units": null
+    },
+    {
+      "title": "List A",
+      "level": 3,
+      "courses": [
+        {
+          "code": "THTR 310",
+          "title": "Comedy and Diversity",
+          "units": 4.0,
+          "source_line": "- THTR 310 Comedy and Diversity Units: 4"
+        },
+        {
+          "code": "THTR 312",
+          "title": "LGBTQ Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 312 LGBTQ Theatre Units: 4"
+        },
+        {
+          "code": "THTR 395m",
+          "title": "Drama as Human Relations",
+          "units": 4.0,
+          "source_line": "- THTR 395m Drama as Human Relations Units: 4"
+        },
+        {
+          "code": "THTR 405m",
+          "title": "Performing Identities",
+          "units": 4.0,
+          "source_line": "- THTR 405m Performing Identities Units: 4"
+        },
+        {
+          "code": "THTR 406",
+          "title": "Theatre on the Edge",
+          "units": 4.0,
+          "source_line": "- THTR 406 Theatre on the Edge Units: 4"
+        },
+        {
+          "code": "THTR 456",
+          "title": "Latinx Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 456 Latinx Theatre Units: 4"
+        },
+        {
+          "code": "THTR 460",
+          "title": "Asian and Asian American Theatre: Identity and Aesthetics",
+          "units": 4.0,
+          "source_line": "- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4"
+        },
+        {
+          "code": "THTR 476mw",
+          "title": "African American Theatre, Dance, and Performance",
+          "units": 4.0,
+          "source_line": "- THTR 476mw African American Theatre, Dance, and Performance Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "List B",
+      "level": 3,
+      "courses": [
+        {
+          "code": "THTR 301",
+          "title": "Greek and Roman Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 301 Greek and Roman Theatre Units: 4"
+        },
+        {
+          "code": "THTR 302",
+          "title": "Shakespeare in His World",
+          "units": 4.0,
+          "source_line": "- THTR 302 Shakespeare in His World Units: 4"
+        },
+        {
+          "code": "THTR 313",
+          "title": "Comedy of Manners",
+          "units": 4.0,
+          "source_line": "- THTR 313 Comedy of Manners Units: 4"
+        },
+        {
+          "code": "THTR 314",
+          "title": "Advanced Topics in Modern Drama",
+          "units": 4.0,
+          "source_line": "- THTR 314 Advanced Topics in Modern Drama Units: 4"
+        },
+        {
+          "code": "THTR 400",
+          "title": "Eco-Theatre: Art and Science in Contemporary Plays",
+          "units": 4.0,
+          "source_line": "- THTR 400 Eco-Theatre: Art and Science in Contemporary Plays Units: 4"
+        },
+        {
+          "code": "THTR 401",
+          "title": "Contemporary Theatre in a Changing World",
+          "units": 4.0,
+          "source_line": "- THTR 401 Contemporary Theatre in a Changing World Units: 4"
+        },
+        {
+          "code": "THTR 403",
+          "title": "The Performing Arts",
+          "units": 4.0,
+          "source_line": "- THTR 403 The Performing Arts Units: 4"
+        },
+        {
+          "code": "THTR 404",
+          "title": "Acting Theory",
+          "units": 4.0,
+          "source_line": "- THTR 404 Acting Theory Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required General Education Units: 36",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Units: 128",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 128.0
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,279 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Psychology (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31906",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31906&returnto=9396",
+    "source_text_file": "182_psychology_ba.txt",
+    "source_content_sha256": "8825c5ff742c8d7bbd01661f827bc32aae7ae82d4bb037589772d1f4d20f9b4b",
+    "retrieved_at": "2026-07-31T00:56:57Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Required Courses, Lower-Division\n\n---\n\n- MATH 114xg Foundations of Statistics Units: 4 *\n- PSYC 100Lg Introduction to Psychology Units: 4\n- PSYC 274Lg Statistics Units: 4 **\n\n### Note:\n\n---\n\n*At least one math course of 2.67 units or more is required.",
+      "### One course from each of four of the following five lists is also required:\n\n---\n\n#### Cognitive\n\n---\n\n- PSYC 301L Cognitive Processes Units: 4\n- PSYC 305 Learning and Memory Units: 4\n\n#### Developmental\n\n---\n\n- PSYC 336L Developmental Psychology Units: 4\n- PSYC 337L Adult Development and Aging Units: 4\n- PSYC 339Lg Origins of the Mind Units: 4\n\n#### Clinical\n\n---\n\n- PSYC 360 Psychological Disorders Units: 4\n- PSYC 361 Introduction to Clinical Psychology Units: 4\n- PSYC 367g Stress, Health, and the Mind-Body Connection Units: 4\n\n#### Biological\n\n---\n\n- PSYC 304L Sensation and Perception Units: 4\n- PSYC 326 Behavioral Neuroscience Units: 4\n- PSYC 372 Human Sexuality Units: 4\n- PSYC 420 Animal Behavior Units: 4\n\n#### Social\n\n---\n\n- PSYC 355 Social Psychology Units: 4\n- PSYC 353g Close Relationships Units: 4\n\n## Additional Requirements\n\n---\n\nTwo 400-level psychology courses other than 490x totaling 8 units are also required.",
+      "An additional psychology course, either upper- or lower-division of at least 2.67 units is required."
+    ],
+    "course_entry_count": 19,
+    "distinct_course_codes": 19,
+    "section_count": 13
+  },
+  "sections": [
+    {
+      "title": "Grade Requirement",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A grade of C- or higher is required to count a class toward major requirements.",
+          "source_line": "A grade of C- or higher is required to count a class toward major requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses, Lower-Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MATH 114xg",
+          "title": "Foundations of Statistics  *",
+          "units": 4.0,
+          "source_line": "- MATH 114xg Foundations of Statistics Units: 4 *"
+        },
+        {
+          "code": "PSYC 100Lg",
+          "title": "Introduction to Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 100Lg Introduction to Psychology Units: 4"
+        },
+        {
+          "code": "PSYC 274Lg",
+          "title": "Statistics  **",
+          "units": 4.0,
+          "source_line": "- PSYC 274Lg Statistics Units: 4 **"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "At least one math course of 2.67 units or more is required. MATH 114x (or MATH 208x or MATH 265 ) is required. Students with a strong math background may profit from a more advanced class.",
+          "source_line": "*At least one math course of 2.67 units or more is required. MATH 114x (or MATH 208x or MATH 265 ) is required. Students with a strong math background may profit from a more advanced class."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Thirty-two upper-division psychology units are required, including:",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses, Upper-Division",
+      "level": 3,
+      "courses": [
+        {
+          "code": "PSYC 314L",
+          "title": "Experimental Research Methods  **",
+          "units": 4.0,
+          "source_line": "- PSYC 314L Experimental Research Methods Units: 4 **"
+        },
+        {
+          "code": "PSYC 316L",
+          "title": "Non-Experimental Research Methods",
+          "units": 4.0,
+          "source_line": "- PSYC 316L Non-Experimental Research Methods Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "*It is recommended that no more than two upper-division psychology courses be taken prior to the completion of PSYC 274L and PSYC 314 .",
+          "source_line": "**It is recommended that no more than two upper-division psychology courses be taken prior to the completion of PSYC 274L and PSYC 314 ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One course from each of four of the following five lists is also required:",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Cognitive",
+      "level": 4,
+      "courses": [
+        {
+          "code": "PSYC 301L",
+          "title": "Cognitive Processes",
+          "units": 4.0,
+          "source_line": "- PSYC 301L Cognitive Processes Units: 4"
+        },
+        {
+          "code": "PSYC 305",
+          "title": "Learning and Memory",
+          "units": 4.0,
+          "source_line": "- PSYC 305 Learning and Memory Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Developmental",
+      "level": 4,
+      "courses": [
+        {
+          "code": "PSYC 336L",
+          "title": "Developmental Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 336L Developmental Psychology Units: 4"
+        },
+        {
+          "code": "PSYC 337L",
+          "title": "Adult Development and Aging",
+          "units": 4.0,
+          "source_line": "- PSYC 337L Adult Development and Aging Units: 4"
+        },
+        {
+          "code": "PSYC 339Lg",
+          "title": "Origins of the Mind",
+          "units": 4.0,
+          "source_line": "- PSYC 339Lg Origins of the Mind Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Clinical",
+      "level": 4,
+      "courses": [
+        {
+          "code": "PSYC 360",
+          "title": "Psychological Disorders",
+          "units": 4.0,
+          "source_line": "- PSYC 360 Psychological Disorders Units: 4"
+        },
+        {
+          "code": "PSYC 361",
+          "title": "Introduction to Clinical Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 361 Introduction to Clinical Psychology Units: 4"
+        },
+        {
+          "code": "PSYC 367g",
+          "title": "Stress, Health, and the Mind-Body Connection",
+          "units": 4.0,
+          "source_line": "- PSYC 367g Stress, Health, and the Mind-Body Connection Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Biological",
+      "level": 4,
+      "courses": [
+        {
+          "code": "PSYC 304L",
+          "title": "Sensation and Perception",
+          "units": 4.0,
+          "source_line": "- PSYC 304L Sensation and Perception Units: 4"
+        },
+        {
+          "code": "PSYC 326",
+          "title": "Behavioral Neuroscience",
+          "units": 4.0,
+          "source_line": "- PSYC 326 Behavioral Neuroscience Units: 4"
+        },
+        {
+          "code": "PSYC 372",
+          "title": "Human Sexuality",
+          "units": 4.0,
+          "source_line": "- PSYC 372 Human Sexuality Units: 4"
+        },
+        {
+          "code": "PSYC 420",
+          "title": "Animal Behavior",
+          "units": 4.0,
+          "source_line": "- PSYC 420 Animal Behavior Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Social",
+      "level": 4,
+      "courses": [
+        {
+          "code": "PSYC 355",
+          "title": "Social Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 355 Social Psychology Units: 4"
+        },
+        {
+          "code": "PSYC 353g",
+          "title": "Close Relationships",
+          "units": 4.0,
+          "source_line": "- PSYC 353g Close Relationships Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Two 400-level psychology courses other than 490x totaling 8 units are also required. PSYC 420 may not count toward this requirement if used to satisfy the biological category above.",
+          "source_line": "Two 400-level psychology courses other than 490x totaling 8 units are also required. PSYC 420 may not count toward this requirement if used to satisfy the biological category above."
+        },
+        {
+          "text": "An additional psychology course, either upper- or lower-division of at least 2.67 units is required.",
+          "source_line": "An additional psychology course, either upper- or lower-division of at least 2.67 units is required."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

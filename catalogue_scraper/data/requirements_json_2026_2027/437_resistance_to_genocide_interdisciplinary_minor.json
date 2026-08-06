@@ -1,0 +1,294 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Resistance to Genocide Interdisciplinary Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31823",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31823&returnto=9396",
+    "source_text_file": "437_resistance_to_genocide_interdisciplinary_minor.txt",
+    "source_content_sha256": "93615288970931259ab915e2e9e704908690822b91397490588b2857bf2661af",
+    "retrieved_at": "2026-07-31T01:12:48Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "#### Course Requirements\n\nThe minor requires five courses (20 units); at least four must be at the upper-division level.",
+      "As with all minors, students must choose at least four courses (16 units) outside their major department and four courses (16 units) that are not being used to satisfy any other subject requirement."
+    ],
+    "course_entry_count": 29,
+    "distinct_course_codes": 29,
+    "section_count": 8
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "To resist genocide effectively, we need to understand its history — the factors that have brought it about and those that have enabled people to prevent, resist or recuperate from mass violence. This interdisciplinary minor draws upon USC faculty in a dozen academic units researching the causes, results and representations of attempted genocide as well as resistance to genocidal mass violence. Courses include attention to different definitions of genocide, its occurrence around the world and its representation in literature and the arts.",
+          "source_line": "To resist genocide effectively, we need to understand its history — the factors that have brought it about and those that have enabled people to prevent, resist or recuperate from mass violence. This interdisciplinary minor draws upon USC faculty in a dozen academic units researching the causes, results and representations of attempted genocide as well as resistance to genocidal mass violence. Courses include attention to different definitions of genocide, its occurrence around the world and its representation in literature and the arts."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Course Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor requires five courses (20 units); at least four must be at the upper-division level. As with all minors, students must choose at least four courses (16 units) outside their major department and four courses (16 units) that are not being used to satisfy any other subject requirement.",
+          "source_line": "The minor requires five courses (20 units); at least four must be at the upper-division level. As with all minors, students must choose at least four courses (16 units) outside their major department and four courses (16 units) that are not being used to satisfy any other subject requirement.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "The minor requires five courses (20 units); at least four must be at the upper-division level. As with all minors, students must choose at least four courses (16 units) outside their major department and four courses (16 units) that are not being used to satisfy any other subject requirement.",
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division Requirement",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Choose one course (4 units) from the following list:",
+          "source_line": "Choose one course (4 units) from the following list:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one course (4 units) from the following list:",
+      "total_units": null
+    },
+    {
+      "title": "List A – Introduction to Genocide",
+      "level": 3,
+      "courses": [
+        {
+          "code": "HIST 237gp",
+          "title": "Fascism",
+          "units": 4.0,
+          "source_line": "- HIST 237gp Fascism Units: 4"
+        },
+        {
+          "code": "HIST 271g",
+          "title": "Telling Native American Stories",
+          "units": 4.0,
+          "source_line": "- HIST 271g Telling Native American Stories Units: 4"
+        },
+        {
+          "code": "JS 211gw",
+          "title": "The Holocaust",
+          "units": 4.0,
+          "source_line": "- JS 211gw The Holocaust Units: 4"
+        },
+        {
+          "code": "POSC 248gw",
+          "title": "Human Rights",
+          "units": 4.0,
+          "source_line": "- POSC 248gw Human Rights Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Choose four courses (16 units) from the lists below, at least one from each list:",
+          "source_line": "Choose four courses (16 units) from the lists below, at least one from each list:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose four courses (16 units) from the lists below, at least one from each list:",
+      "total_units": null
+    },
+    {
+      "title": "List B — Representations of Genocide",
+      "level": 3,
+      "courses": [
+        {
+          "code": "COLT 379",
+          "title": "Nationalism and Postcolonialism in Southeast Asian Cinema",
+          "units": 4.0,
+          "source_line": "- COLT 379 Nationalism and Postcolonialism in Southeast Asian Cinema Units: 4"
+        },
+        {
+          "code": "COLT 485",
+          "title": "The Shoah (Holocaust) in Literature and the Arts",
+          "units": 4.0,
+          "source_line": "- COLT 485 The Shoah (Holocaust) in Literature and the Arts Units: 4"
+        },
+        {
+          "code": "ENGL 444m",
+          "title": "Native American Literature",
+          "units": 4.0,
+          "source_line": "- ENGL 444m Native American Literature Units: 4"
+        },
+        {
+          "code": "FREN 373g",
+          "title": "Remembering Loss, Writing Memory",
+          "units": 4.0,
+          "source_line": "- FREN 373g Remembering Loss, Writing Memory Units: 4"
+        },
+        {
+          "code": "ITAL 352",
+          "title": "The Holocaust in Italian Fiction and Film",
+          "units": 4.0,
+          "source_line": "- ITAL 352 The Holocaust in Italian Fiction and Film Units: 4"
+        },
+        {
+          "code": "JS 362",
+          "title": "Terror and Resistance in Literature and the Media",
+          "units": 4.0,
+          "source_line": "- JS 362 Terror and Resistance in Literature and the Media Units: 4"
+        },
+        {
+          "code": "MUSC 430m",
+          "title": "Music and the Holocaust",
+          "units": 4.0,
+          "source_line": "- MUSC 430m Music and the Holocaust Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "List C — The Reality of Genocide",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ANTH 315gw",
+          "title": "Native North Americans",
+          "units": 4.0,
+          "source_line": "- ANTH 315gw Native North Americans Units: 4"
+        },
+        {
+          "code": "ANTH 357g",
+          "title": "Cultures of Genocide, Cultures of Care",
+          "units": 4.0,
+          "source_line": "- ANTH 357g Cultures of Genocide, Cultures of Care Units: 4"
+        },
+        {
+          "code": "COMM 479",
+          "title": "Trauma and Communication",
+          "units": 4.0,
+          "source_line": "- COMM 479 Trauma and Communication Units: 4"
+        },
+        {
+          "code": "HIST 321",
+          "title": "The Crusades",
+          "units": 4.0,
+          "source_line": "- HIST 321 The Crusades Units: 4"
+        },
+        {
+          "code": "HIST 323",
+          "title": "The Holocaust in 20th Century Europe",
+          "units": 4.0,
+          "source_line": "- HIST 323 The Holocaust in 20th Century Europe Units: 4"
+        },
+        {
+          "code": "HIST 364",
+          "title": "Religion and Difference in the Modern Middle East",
+          "units": 4.0,
+          "source_line": "- HIST 364 Religion and Difference in the Modern Middle East Units: 4"
+        },
+        {
+          "code": "HIST 448",
+          "title": "South Africa: Race, Power and Resistance",
+          "units": 4.0,
+          "source_line": "- HIST 448 South Africa: Race, Power and Resistance Units: 4"
+        },
+        {
+          "code": "IR 310",
+          "title": "Peace and Conflict Studies",
+          "units": 4.0,
+          "source_line": "- IR 310 Peace and Conflict Studies Units: 4"
+        },
+        {
+          "code": "IR 313",
+          "title": "Religions and Political Violence",
+          "units": 4.0,
+          "source_line": "- IR 313 Religions and Political Violence Units: 4"
+        },
+        {
+          "code": "IR 319",
+          "title": "Human Security and Humanitarian Intervention",
+          "units": 4.0,
+          "source_line": "- IR 319 Human Security and Humanitarian Intervention Units: 4"
+        },
+        {
+          "code": "IR 423",
+          "title": "Forced Migration and Conflict",
+          "units": 4.0,
+          "source_line": "- IR 423 Forced Migration and Conflict Units: 4"
+        },
+        {
+          "code": "LAW 310w",
+          "title": "Global Justice for Mass Atrocities and Genocide",
+          "units": 4.0,
+          "source_line": "- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4"
+        },
+        {
+          "code": "MDA 330",
+          "title": "The Armenian Heritage: History, Arts, and Culture",
+          "units": 4.0,
+          "source_line": "- MDA 330 The Armenian Heritage: History, Arts, and Culture Units: 4"
+        },
+        {
+          "code": "POSC 366",
+          "title": "Terrorism and Genocide",
+          "units": 4.0,
+          "source_line": "- POSC 366 Terrorism and Genocide Units: 4"
+        },
+        {
+          "code": "REL 334g",
+          "title": "Religion and Colonial Encounter",
+          "units": 4.0,
+          "source_line": "- REL 334g Religion and Colonial Encounter Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "List D — Capstone Courses: Resisting Genocide",
+      "level": 3,
+      "courses": [
+        {
+          "code": "HIST 444",
+          "title": "Mass Violence and Comparative Genocide in Modern World History",
+          "units": 4.0,
+          "source_line": "- HIST 444 Mass Violence and Comparative Genocide in Modern World History Units: 4"
+        },
+        {
+          "code": "HIST 446",
+          "title": "Resistance to Genocide",
+          "units": 4.0,
+          "source_line": "- HIST 446 Resistance to Genocide Units: 4"
+        },
+        {
+          "code": "IR 437",
+          "title": "Comparative Genocide",
+          "units": 4.0,
+          "source_line": "- IR 437 Comparative Genocide Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

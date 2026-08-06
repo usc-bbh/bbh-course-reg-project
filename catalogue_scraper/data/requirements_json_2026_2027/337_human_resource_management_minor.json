@@ -1,0 +1,111 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Human Resource Management Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31604",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31604&returnto=9396",
+    "source_text_file": "337_human_resource_management_minor.txt",
+    "source_content_sha256": "afa4e783f91542fe1207b43a6a2e382f0e5865e1c64549dde7598caffe922dc6",
+    "retrieved_at": "2026-07-31T01:07:14Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "To enroll in this minor, students must have completed a minimum of 32 units of collegelevel courses and have a minimum overall GPA of 2."
+    ],
+    "course_entry_count": 7,
+    "distinct_course_codes": 7,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in human resource management is appropriate for students pursuing careers in human resource management, as well as for students pursuing management positions where they will be interfacing with or relying on the human resource function for support. To enroll in this minor, students must have completed a minimum of 32 units of collegelevel courses and have a minimum overall GPA of 2.75. Completion of the human resource management minor requires a minimum GPA of 2.0 in the following business minor courses:",
+          "source_line": "The minor in human resource management is appropriate for students pursuing careers in human resource management, as well as for students pursuing management positions where they will be interfacing with or relying on the human resource function for support. To enroll in this minor, students must have completed a minimum of 32 units of collegelevel courses and have a minimum overall GPA of 2.75. Completion of the human resource management minor requires a minimum GPA of 2.0 in the following business minor courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Minor Course Requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BUAD 304",
+          "title": "Organizational Behavior and Leadership",
+          "units": 4.0,
+          "source_line": "- BUAD 304 Organizational Behavior and Leadership Units: 4"
+        },
+        {
+          "code": "MOR 471",
+          "title": "Managing and Developing People",
+          "units": 4.0,
+          "source_line": "- MOR 471 Managing and Developing People Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives",
+      "level": 3,
+      "courses": [
+        {
+          "code": "FBE 428",
+          "title": "Introduction to Employment Law",
+          "units": 4.0,
+          "source_line": "- FBE 428 Introduction to Employment Law Units: 4"
+        },
+        {
+          "code": "MOR 421",
+          "title": "Social and Ethical Issues in Business",
+          "units": 4.0,
+          "source_line": "- MOR 421 Social and Ethical Issues in Business Units: 4"
+        },
+        {
+          "code": "MOR 469",
+          "title": "Negotiation and Persuasion",
+          "units": 4.0,
+          "source_line": "- MOR 469 Negotiation and Persuasion Units: 4"
+        },
+        {
+          "code": "MOR 472",
+          "title": "Power, Politics and Influence",
+          "units": 4.0,
+          "source_line": "- MOR 472 Power, Politics and Influence Units: 4"
+        },
+        {
+          "code": "MOR 473",
+          "title": "Designing and Leading Teams",
+          "units": 4.0,
+          "source_line": "- MOR 473 Designing and Leading Teams Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose three courses from the following (12 units):",
+          "source_line": "Choose three courses from the following (12 units):",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Return to: USC Marshall School of Business",
+          "source_line": "- Return to: USC Marshall School of Business"
+        }
+      ],
+      "choice": "Choose three courses from the following (12 units):",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

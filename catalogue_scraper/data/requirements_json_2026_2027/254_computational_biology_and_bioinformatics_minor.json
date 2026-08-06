@@ -1,0 +1,310 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Computational Biology and Bioinformatics Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31723",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31723&returnto=9396",
+    "source_text_file": "254_computational_biology_and_bioinformatics_minor.txt",
+    "source_content_sha256": "4ee2dee61aaf06973f7d1075f1d62080dc26b6bdd1f409eacfb03f20ef86a779",
+    "retrieved_at": "2026-07-31T01:00:43Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "As with all minors, students must include at least four upper-division courses (16 units) and four courses (16 units) dedicated exclusively to this minor (they can overlap).",
+      "Four courses (16 units) taken outside the major department are required.",
+      "Students need to take 28 units of the courses listed: all requirements, and enough electives to add up to 28 units, while fulfilling the requirement listed above."
+    ],
+    "course_entry_count": 38,
+    "distinct_course_codes": 34,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Department of Quantitative and Computational Biology offers the Minor in Computational Biology and Bioinformatics. This minor provides essential training in using quantitative skills to solve fundamental biological problems.",
+          "source_line": "The Department of Quantitative and Computational Biology offers the Minor in Computational Biology and Bioinformatics. This minor provides essential training in using quantitative skills to solve fundamental biological problems."
+        },
+        {
+          "text": "As with all minors, students must include at least four upper-division courses (16 units) and four courses (16 units) dedicated exclusively to this minor (they can overlap). Four courses (16 units) taken outside the major department are required. Students need to take 28 units of the courses listed: all requirements, and enough electives to add up to 28 units, while fulfilling the requirement listed above.",
+          "source_line": "As with all minors, students must include at least four upper-division courses (16 units) and four courses (16 units) dedicated exclusively to this minor (they can overlap). Four courses (16 units) taken outside the major department are required. Students need to take 28 units of the courses listed: all requirements, and enough electives to add up to 28 units, while fulfilling the requirement listed above."
+        },
+        {
+          "text": "The courses are designed for students in biological sciences, neuroscience, mathematics, computer science, or biomedical engineering. Other students may need more units to receive the minor. Please contact the minor adviser for specific program requirements.",
+          "source_line": "The courses are designed for students in biological sciences, neuroscience, mathematics, computer science, or biomedical engineering. Other students may need more units to receive the minor. Please contact the minor adviser for specific program requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 320Lg",
+          "title": "Molecular Biology  or",
+          "units": 4.0,
+          "source_line": "- BISC 320Lg Molecular Biology Units: 4 or"
+        },
+        {
+          "code": "QBIO 401",
+          "title": "Introduction to Computational Analysis of Biological Data",
+          "units": 4.0,
+          "source_line": "- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4"
+        },
+        {
+          "code": "CSCI 103L",
+          "title": "Object Oriented Programming",
+          "units": 4.0,
+          "source_line": "- CSCI 103L Object Oriented Programming Units: 4"
+        },
+        {
+          "code": "CSCI 104L",
+          "title": "Data Structures",
+          "units": 4.0,
+          "source_line": "- CSCI 104L Data Structures Units: 4"
+        },
+        {
+          "code": "CSCI 170",
+          "title": "Discrete Methods in Computer Science",
+          "units": 4.0,
+          "source_line": "- CSCI 170 Discrete Methods in Computer Science Units: 4"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "QBIO 305g",
+          "title": "Statistics for Biological Sciences  or",
+          "units": 4.0,
+          "source_line": "- QBIO 305g Statistics for Biological Sciences Units: 4 or"
+        },
+        {
+          "code": "QBIO 310",
+          "title": "Statistical Thinking for Quantitative Biology",
+          "units": 4.0,
+          "source_line": "- QBIO 310 Statistical Thinking for Quantitative Biology Units: 4"
+        },
+        {
+          "code": "QBIO 478",
+          "title": "Computational Genome Analysis  or",
+          "units": 4.0,
+          "source_line": "- QBIO 478 Computational Genome Analysis Units: 4 or"
+        },
+        {
+          "code": "QBIO 481",
+          "title": "Structural Bioinformatics: From Atoms to Cells",
+          "units": 4.0,
+          "source_line": "- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 230Lgx",
+          "title": "The Biology of the Brain",
+          "units": 4.0,
+          "source_line": "- BISC 230Lgx The Biology of the Brain Units: 4"
+        },
+        {
+          "code": "BISC 300L",
+          "title": "Microbiology",
+          "units": 4.0,
+          "source_line": "- BISC 300L Microbiology Units: 4"
+        },
+        {
+          "code": "BISC 313L",
+          "title": "Evolution and Population Genetics",
+          "units": 4.0,
+          "source_line": "- BISC 313L Evolution and Population Genetics Units: 4"
+        },
+        {
+          "code": "BISC 320Lg",
+          "title": "Molecular Biology  *",
+          "units": 4.0,
+          "source_line": "- BISC 320Lg Molecular Biology Units: 4 *"
+        },
+        {
+          "code": "BISC 325",
+          "title": "Genetics",
+          "units": 4.0,
+          "source_line": "- BISC 325 Genetics Units: 4"
+        },
+        {
+          "code": "BISC 330L",
+          "title": "Biochemistry",
+          "units": 4.0,
+          "source_line": "- BISC 330L Biochemistry Units: 4"
+        },
+        {
+          "code": "BISC 403",
+          "title": "Advanced Molecular Biology",
+          "units": 4.0,
+          "source_line": "- BISC 403 Advanced Molecular Biology Units: 4"
+        },
+        {
+          "code": "BISC 406L",
+          "title": "Biotechnology",
+          "units": 4.0,
+          "source_line": "- BISC 406L Biotechnology Units: 4"
+        },
+        {
+          "code": "BISC 410",
+          "title": "Applications of Molecular Biology to Medicine",
+          "units": 4.0,
+          "source_line": "- BISC 410 Applications of Molecular Biology to Medicine Units: 4"
+        },
+        {
+          "code": "BISC 486",
+          "title": "Regenerative Medicine: Principles, Paradigms and Practice",
+          "units": 4.0,
+          "source_line": "- BISC 486 Regenerative Medicine: Principles, Paradigms and Practice Units: 4"
+        },
+        {
+          "code": "CSCI 201",
+          "title": "Principles of Software Development",
+          "units": 4.0,
+          "source_line": "- CSCI 201 Principles of Software Development Units: 4"
+        },
+        {
+          "code": "CSCI 270",
+          "title": "Introduction to Algorithms and Theory of Computing",
+          "units": 4.0,
+          "source_line": "- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4"
+        },
+        {
+          "code": "CSCI 485",
+          "title": "File and Database Management",
+          "units": 4.0,
+          "source_line": "- CSCI 485 File and Database Management Units: 4"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4"
+        },
+        {
+          "code": "MATH 225",
+          "title": "Linear Algebra and Linear Differential Equations",
+          "units": 4.0,
+          "source_line": "- MATH 225 Linear Algebra and Linear Differential Equations Units: 4"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4"
+        },
+        {
+          "code": "MATH 408",
+          "title": "Mathematical Statistics",
+          "units": 4.0,
+          "source_line": "- MATH 408 Mathematical Statistics Units: 4"
+        },
+        {
+          "code": "MATH 432",
+          "title": "Applied Combinatorics",
+          "units": 4.0,
+          "source_line": "- MATH 432 Applied Combinatorics Units: 4"
+        },
+        {
+          "code": "MATH 458",
+          "title": "Numerical Methods",
+          "units": 4.0,
+          "source_line": "- MATH 458 Numerical Methods Units: 4"
+        },
+        {
+          "code": "MATH 465",
+          "title": "Nonlinear Dynamics and Chaos",
+          "units": 4.0,
+          "source_line": "- MATH 465 Nonlinear Dynamics and Chaos Units: 4"
+        },
+        {
+          "code": "MATH 466",
+          "title": "Dynamic Modeling",
+          "units": 4.0,
+          "source_line": "- MATH 466 Dynamic Modeling Units: 4"
+        },
+        {
+          "code": "MATH 467",
+          "title": "Theory and Computational Methods for Optimization",
+          "units": 4.0,
+          "source_line": "- MATH 467 Theory and Computational Methods for Optimization Units: 4"
+        },
+        {
+          "code": "QBIO 401",
+          "title": "Introduction to Computational Analysis of Biological Data  *",
+          "units": 4.0,
+          "source_line": "- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4 *"
+        },
+        {
+          "code": "QBIO 475",
+          "title": "Statistical and Evolutionary Genetics",
+          "units": 4.0,
+          "source_line": "- QBIO 475 Statistical and Evolutionary Genetics Units: 4"
+        },
+        {
+          "code": "QBIO 478",
+          "title": "Computational Genome Analysis  *",
+          "units": 4.0,
+          "source_line": "- QBIO 478 Computational Genome Analysis Units: 4 *"
+        },
+        {
+          "code": "QBIO 479L",
+          "title": "Computational Genome Analysis Laboratory",
+          "units": 4.0,
+          "source_line": "- QBIO 479L Computational Genome Analysis Laboratory Units: 4"
+        },
+        {
+          "code": "QBIO 481",
+          "title": "Structural Bioinformatics: From Atoms to Cells  *",
+          "units": 4.0,
+          "source_line": "- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4 *"
+        },
+        {
+          "code": "QBIO 482",
+          "title": "Systems Biology: Modeling the Dynamics of Life",
+          "units": 4.0,
+          "source_line": "- QBIO 482 Systems Biology: Modeling the Dynamics of Life Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students who have satisfied a required course with AP credit will select an elective course to complete the minor requirements.",
+          "source_line": "Students who have satisfied a required course with AP credit will select an elective course to complete the minor requirements."
+        },
+        {
+          "text": "A selected required course may not double-count toward electives.",
+          "source_line": "A selected required course may not double-count toward electives."
+        },
+        {
+          "text": "* Optional required course.",
+          "source_line": "- * Optional required course."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

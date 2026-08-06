@@ -1,0 +1,219 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Global Geodesign (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32569",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32569&returnto=9396",
+    "source_text_file": "119_global_geodesign_bs.txt",
+    "source_content_sha256": "9b44a2cd0cb150ec13d857c469a8e79337a8178eea4633357ed7b65003d4fe1f",
+    "retrieved_at": "2026-07-31T00:54:37Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The minimum unit requirement for the Bachelor of Science in Global Geodesign is 128 units."
+    ],
+    "course_entry_count": 18,
+    "distinct_course_codes": 18,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Allen Hancock Foundation Building B55",
+          "source_line": "Allen Hancock Foundation Building B55"
+        },
+        {
+          "text": "(213) 740-5910",
+          "source_line": "(213) 740-5910"
+        },
+        {
+          "text": "FAX: (213) 740-9687",
+          "source_line": "FAX: (213) 740-9687"
+        },
+        {
+          "text": "Email: spatialsciences@dornsife.usc.edu",
+          "source_line": "Email: spatialsciences@dornsife.usc.edu"
+        },
+        {
+          "text": "Director: John P. Wilson, PhD",
+          "source_line": "Director: John P. Wilson, PhD"
+        },
+        {
+          "text": "The USC Dornsife Spatial Sciences Institute offers a pioneering Bachelor of Science in Global Geodesign to prepare individuals with the integrative ability to analyze the role of place, space and time to address issues of environmental sustainability and human well-being on neighborhood, community, regional and global scales in multidisciplinary and multi-dimensional ways.",
+          "source_line": "The USC Dornsife Spatial Sciences Institute offers a pioneering Bachelor of Science in Global Geodesign to prepare individuals with the integrative ability to analyze the role of place, space and time to address issues of environmental sustainability and human well-being on neighborhood, community, regional and global scales in multidisciplinary and multi-dimensional ways."
+        },
+        {
+          "text": "Throughout their program, USC Global Geodesign students engage with faculty and leading practitioners from around the world to gain integrative experiences in spatial sciences, architecture, landscape architecture and urban and regional planning. Global geodesign graduates develop perspectives and backgrounds that will uniquely position them to contribute to improving the built and natural environments in multicultural and multi-scalar ways.",
+          "source_line": "Throughout their program, USC Global Geodesign students engage with faculty and leading practitioners from around the world to gain integrative experiences in spatial sciences, architecture, landscape architecture and urban and regional planning. Global geodesign graduates develop perspectives and backgrounds that will uniquely position them to contribute to improving the built and natural environments in multicultural and multi-scalar ways."
+        },
+        {
+          "text": "The minimum unit requirement for the Bachelor of Science in Global Geodesign is 128 units.",
+          "source_line": "The minimum unit requirement for the Bachelor of Science in Global Geodesign is 128 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Major Requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ECON 203g",
+          "title": "Principles of Microeconomics",
+          "units": 4.0,
+          "source_line": "- ECON 203g Principles of Microeconomics Units: 4"
+        },
+        {
+          "code": "MATH 114xg",
+          "title": "Foundations of Statistics",
+          "units": 4.0,
+          "source_line": "- MATH 114xg Foundations of Statistics Units: 4"
+        },
+        {
+          "code": "SSCI 381",
+          "title": "Statistics for the Spatial Sciences",
+          "units": 4.0,
+          "source_line": "- SSCI 381 Statistics for the Spatial Sciences Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Courses should be taken in addition to core major requirements and general degree requirements.",
+          "source_line": "Courses should be taken in addition to core major requirements and general degree requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Global Geodesign Core Requirements",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ARCH 203",
+          "title": "Visualizing and Experiencing the Built Environment",
+          "units": 4.0,
+          "source_line": "- ARCH 203 Visualizing and Experiencing the Built Environment Units: 4"
+        },
+        {
+          "code": "ARCH 214ag",
+          "title": "World History of Architecture",
+          "units": 3.0,
+          "source_line": "- ARCH 214ag World History of Architecture Units: 3"
+        },
+        {
+          "code": "ARCH 303",
+          "title": "Principles of Spatial Design I",
+          "units": 4.0,
+          "source_line": "- ARCH 303 Principles of Spatial Design I Units: 4"
+        },
+        {
+          "code": "ARCH 403",
+          "title": "Principles of Spatial Design II",
+          "units": 4.0,
+          "source_line": "- ARCH 403 Principles of Spatial Design II Units: 4"
+        },
+        {
+          "code": "PPD 227",
+          "title": "Planning for the Future City",
+          "units": 4.0,
+          "source_line": "- PPD 227 Planning for the Future City Units: 4"
+        },
+        {
+          "code": "RED 417",
+          "title": "History of Planning and Development",
+          "units": 4.0,
+          "source_line": "- RED 417 History of Planning and Development Units: 4"
+        },
+        {
+          "code": "RED 425",
+          "title": "Designing Livable Communities",
+          "units": 4.0,
+          "source_line": "- RED 425 Designing Livable Communities Units: 4"
+        },
+        {
+          "code": "SSCI 201g",
+          "title": "Principles of Geodesign",
+          "units": 4.0,
+          "source_line": "- SSCI 201g Principles of Geodesign Units: 4"
+        },
+        {
+          "code": "SSCI 301L",
+          "title": "Maps and Spatial Reasoning",
+          "units": 4.0,
+          "source_line": "- SSCI 301L Maps and Spatial Reasoning Units: 4"
+        },
+        {
+          "code": "SSCI 313",
+          "title": "Global Geodesign and Stakeholder Engagement",
+          "units": 2.0,
+          "source_line": "- SSCI 313 Global Geodesign and Stakeholder Engagement Units: 2"
+        },
+        {
+          "code": "SSCI 314",
+          "title": "Comparative Sustainability Theory and Practice for Geodesign",
+          "units": 2.0,
+          "source_line": "- SSCI 314 Comparative Sustainability Theory and Practice for Geodesign Units: 2"
+        },
+        {
+          "code": "SSCI 350",
+          "title": "International Geodesign",
+          "units": 4.0,
+          "source_line": "- SSCI 350 International Geodesign Units: 4"
+        },
+        {
+          "code": "SSCI 382L",
+          "title": "Geographic Information Science: Spatial Analytics",
+          "units": 4.0,
+          "source_line": "- SSCI 382L Geographic Information Science: Spatial Analytics Units: 4"
+        },
+        {
+          "code": "SSCI 383L",
+          "title": "Geographic Information Science: Geospatial Modeling and Customization",
+          "units": 4.0,
+          "source_line": "- SSCI 383L Geographic Information Science: Geospatial Modeling and Customization Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Major core requirements.",
+          "source_line": "Major core requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Global Geodesign Capstone",
+      "level": 3,
+      "courses": [
+        {
+          "code": "SSCI 412",
+          "title": "Geodesign Practicum",
+          "units": 4.0,
+          "source_line": "- SSCI 412 Geodesign Practicum Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Culminating capstone class required for degree completion.",
+          "source_line": "Culminating capstone class required for degree completion."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

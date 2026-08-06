@@ -1,0 +1,238 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "South Asian Studies Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32824",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32824&returnto=9396",
+    "source_text_file": "449_south_asian_studies_minor.txt",
+    "source_content_sha256": "5b7d502cd5ceafb7f18d2af5d9e99a5ed058a7bc1c311050c9e03832d1b8a191",
+    "retrieved_at": "2026-07-31T01:13:17Z"
+  },
+  "totals": {
+    "stated_total_units": 20.0,
+    "stated_total_units_source": "minor requires a minimum of 20 units",
+    "unit_statements_verbatim": [
+      "The minor requires a minimum of 20 units."
+    ],
+    "course_entry_count": 24,
+    "distinct_course_codes": 24,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This interdisciplinary minor offers students a framework for developing a fundamental understanding of the richness and complexity of South Asia, broadly defined as including Afghanistan, Bangladesh, India, the Maldives, Nepal, Pakistan and Sri Lanka.",
+          "source_line": "This interdisciplinary minor offers students a framework for developing a fundamental understanding of the richness and complexity of South Asia, broadly defined as including Afghanistan, Bangladesh, India, the Maldives, Nepal, Pakistan and Sri Lanka."
+        },
+        {
+          "text": "Students may select courses that provide an introduction across disciplines, or they may choose courses that address a particular historical period or theme.",
+          "source_line": "Students may select courses that provide an introduction across disciplines, or they may choose courses that address a particular historical period or theme."
+        },
+        {
+          "text": "The minor requires a minimum of 20 units.",
+          "source_line": "The minor requires a minimum of 20 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Introduction to the Minor",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MDA 340p",
+          "title": "South Asian Studies: Arts, Cultures, History and Religion",
+          "units": 4.0,
+          "source_line": "- MDA 340p South Asian Studies: Arts, Cultures, History and Religion Units: 4"
+        },
+        {
+          "code": "REL 340",
+          "title": "Introduction to Indian Philosophy",
+          "units": 4.0,
+          "source_line": "- REL 340 Introduction to Indian Philosophy Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "4 units, select one course:",
+          "source_line": "4 units, select one course:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "4 units, select one course:",
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division Course",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AHIS 125gp",
+          "title": "Arts of Asia I: Antiquity to 1300",
+          "units": 4.0,
+          "source_line": "- AHIS 125gp Arts of Asia I: Antiquity to 1300 Units: 4"
+        },
+        {
+          "code": "DANC 187",
+          "title": "Bollywood Dance",
+          "units": 2.0,
+          "source_line": "- DANC 187 Bollywood Dance Units: 2"
+        },
+        {
+          "code": "HIST 108g",
+          "title": "Histories of South Asia",
+          "units": 4.0,
+          "source_line": "- HIST 108g Histories of South Asia Units: 4"
+        },
+        {
+          "code": "LING 125",
+          "title": "Hindi I",
+          "units": 4.0,
+          "source_line": "- LING 125 Hindi I Units: 4"
+        },
+        {
+          "code": "PHED 120a",
+          "title": "Yoga",
+          "units": 1.0,
+          "source_line": "- PHED 120a Yoga Units: 1"
+        },
+        {
+          "code": "PHED 120b",
+          "title": "Yoga",
+          "units": 1.0,
+          "source_line": "- PHED 120b Yoga Units: 1"
+        },
+        {
+          "code": "PHED 122",
+          "title": "Yoga and Meditation",
+          "units": 1.0,
+          "source_line": "- PHED 122 Yoga and Meditation Units: 1"
+        },
+        {
+          "code": "REL 130g",
+          "title": "Indian Traditions of Mind and Body",
+          "units": 4.0,
+          "source_line": "- REL 130g Indian Traditions of Mind and Body Units: 4"
+        },
+        {
+          "code": "REL 134g",
+          "title": "Introduction to Buddhism",
+          "units": 4.0,
+          "source_line": "- REL 134g Introduction to Buddhism Units: 4"
+        },
+        {
+          "code": "REL 136g",
+          "title": "Sense and Sensuality in Indian Religions and Culture",
+          "units": 4.0,
+          "source_line": "- REL 136g Sense and Sensuality in Indian Religions and Culture Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "4 units, select at least one course:",
+          "source_line": "4 units, select at least one course:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "4 units, select at least one course:",
+      "total_units": null
+    },
+    {
+      "title": "Required Upper-Division Courses:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AHIS 381g",
+          "title": "Visual Cultures of Asia",
+          "units": 4.0,
+          "source_line": "- AHIS 381g Visual Cultures of Asia Units: 4"
+        },
+        {
+          "code": "AMST 449m",
+          "title": "Asian American Literature",
+          "units": 4.0,
+          "source_line": "- AMST 449m Asian American Literature Units: 4"
+        },
+        {
+          "code": "ANTH 330m",
+          "title": "Culture, Gender and Politics in South Asia",
+          "units": 4.0,
+          "source_line": "- ANTH 330m Culture, Gender and Politics in South Asia Units: 4"
+        },
+        {
+          "code": "ENGL 333g",
+          "title": "Literature of Gandhi’s India",
+          "units": 4.0,
+          "source_line": "- ENGL 333g Literature of Gandhi’s India Units: 4"
+        },
+        {
+          "code": "HIST 391",
+          "title": "Feminist Histories of South Asia",
+          "units": 4.0,
+          "source_line": "- HIST 391 Feminist Histories of South Asia Units: 4"
+        },
+        {
+          "code": "HIST 394p",
+          "title": "The Great Muslim Empires of the Near East and India",
+          "units": 4.0,
+          "source_line": "- HIST 394p The Great Muslim Empires of the Near East and India Units: 4"
+        },
+        {
+          "code": "HIST 430",
+          "title": "Migration and Displacement in the Indian Ocean World",
+          "units": 4.0,
+          "source_line": "- HIST 430 Migration and Displacement in the Indian Ocean World Units: 4"
+        },
+        {
+          "code": "IR 361",
+          "title": "South and Southeast Asia in International Affairs",
+          "units": 4.0,
+          "source_line": "- IR 361 South and Southeast Asia in International Affairs Units: 4"
+        },
+        {
+          "code": "IR 384",
+          "title": "Asian Security Issues",
+          "units": 4.0,
+          "source_line": "- IR 384 Asian Security Issues Units: 4"
+        },
+        {
+          "code": "POSC 328",
+          "title": "Asian American Politics",
+          "units": 4.0,
+          "source_line": "- POSC 328 Asian American Politics Units: 4"
+        },
+        {
+          "code": "REL 330",
+          "title": "Introduction to the Religions of India",
+          "units": 4.0,
+          "source_line": "- REL 330 Introduction to the Religions of India Units: 4"
+        },
+        {
+          "code": "REL 336w",
+          "title": "Re-Viewing Religion in Asian America",
+          "units": 4.0,
+          "source_line": "- REL 336w Re-Viewing Religion in Asian America Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "12 units, select three courses:",
+          "source_line": "12 units, select three courses:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "12 units, select three courses:",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

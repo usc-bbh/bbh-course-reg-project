@@ -1,0 +1,428 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "International Relations and the Global Economy (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31832",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31832&returnto=9396",
+    "source_text_file": "137_international_relations_and_the_global_economy_ba.txt",
+    "source_content_sha256": "475c52ed43d1452a0f25c2103876fa67a7212d86570bda236f2aadfc90f16db0",
+    "retrieved_at": "2026-07-31T00:55:18Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Lower-Division Courses\n\n---\n\n- ECON 203g Principles of Microeconomics Units: 4\n- ECON 205g Principles of Macroeconomics Units: 4\n- IR 210gw International Relations: Introductory Analysis Units: 4\n-\n- MATH 118gx Calculus for Business and Economics Units: 4 * or\n- MATH 125g Calculus I Units: 4 *\n\n## Core Skills and Issues\n\n---\n\n- ECON 303 Intermediate Microeconomic Theory Units: 4\n- ECON 305 Intermediate Macroeconomic Theory Units: 4\n- ECON 317 Introduction to Statistics for Economists Units: 4\n- IR 330 Politics of the World Economy Units: 4\n\n### Choose two courses (8 units):\n\n---\n\n- ECON 318 Introduction to Econometrics Units: 4\n- IR 324 Multinational Enterprises and World Politics Units: 4\n- IR 325 North-South Relations in the Global Economy Units: 4\n- IR 326 U.",
+      "Foreign Economic Policy Units: 4\n- IR 328 The Evolving Global Economic Architecture-Capital Mobility Units: 4\n- IR 329 The Global Finance and Monetary Regime Units: 4\n- IR 331 The Global Economy 2040 Units: 4\n- IR 332 Money, Guns and Oil Units: 4\n\n## Regional Study\n\n---\n\nChoose one course (4 units):\n\n- ECON 340 Economics of Less Developed Countries Units: 4\n- ECON 342 Economic Development of the Middle East Units: 4\n- ECON 343 Economic Development of East Asia Units: 4\n- ECON 344 Economic Development of Sub-Saharan Africa Units: 4\n- ECON 346 Economics of Transition and Development: China Units: 4\n- IR 317 The Political Economy of Africa Units: 4\n- IR 340 The Political Economy of China Units: 4\n- IR 360 International Relations of the Pacific Rim Units: 4\n- IR 363 Middle East Political Economy Units: 4\n- IR 364 The Political Economy of Latin American Development Units: 4\n- IR 384 Asian Security Issues Units: 4\n- IR 425 The New Triangle: China, the U."
+    ],
+    "course_entry_count": 52,
+    "distinct_course_codes": 52,
+    "section_count": 7
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The BA in International Relations and the Global Economy (IRGE) offers students rigorous interdisciplinary training at the intersection of international relations and economics. The major prepares students for careers ranging from foreign policy and international development to international finance and political risk analysis. It is also ideally suited for students who plan to seek advanced degrees in the social sciences.",
+          "source_line": "The BA in International Relations and the Global Economy (IRGE) offers students rigorous interdisciplinary training at the intersection of international relations and economics. The major prepares students for careers ranging from foreign policy and international development to international finance and political risk analysis. It is also ideally suited for students who plan to seek advanced degrees in the social sciences."
+        },
+        {
+          "text": "The degree cannot also be combined as an additional major with any economics degree. The degree is administered by the School of International Relations.",
+          "source_line": "The degree cannot also be combined as an additional major with any economics degree. The degree is administered by the School of International Relations."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ECON 203g",
+          "title": "Principles of Microeconomics",
+          "units": 4.0,
+          "source_line": "- ECON 203g Principles of Microeconomics Units: 4"
+        },
+        {
+          "code": "ECON 205g",
+          "title": "Principles of Macroeconomics",
+          "units": 4.0,
+          "source_line": "- ECON 205g Principles of Macroeconomics Units: 4"
+        },
+        {
+          "code": "IR 210gw",
+          "title": "International Relations: Introductory Analysis",
+          "units": 4.0,
+          "source_line": "- IR 210gw International Relations: Introductory Analysis Units: 4"
+        },
+        {
+          "code": "MATH 118gx",
+          "title": "Calculus for Business and Economics  * or",
+          "units": 4.0,
+          "source_line": "- MATH 118gx Calculus for Business and Economics Units: 4 * or"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I  *",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4 *"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Skills and Issues",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ECON 303",
+          "title": "Intermediate Microeconomic Theory",
+          "units": 4.0,
+          "source_line": "- ECON 303 Intermediate Microeconomic Theory Units: 4"
+        },
+        {
+          "code": "ECON 305",
+          "title": "Intermediate Macroeconomic Theory",
+          "units": 4.0,
+          "source_line": "- ECON 305 Intermediate Macroeconomic Theory Units: 4"
+        },
+        {
+          "code": "ECON 317",
+          "title": "Introduction to Statistics for Economists",
+          "units": 4.0,
+          "source_line": "- ECON 317 Introduction to Statistics for Economists Units: 4"
+        },
+        {
+          "code": "IR 330",
+          "title": "Politics of the World Economy",
+          "units": 4.0,
+          "source_line": "- IR 330 Politics of the World Economy Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose two courses (8 units):",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ECON 318",
+          "title": "Introduction to Econometrics",
+          "units": 4.0,
+          "source_line": "- ECON 318 Introduction to Econometrics Units: 4"
+        },
+        {
+          "code": "IR 324",
+          "title": "Multinational Enterprises and World Politics",
+          "units": 4.0,
+          "source_line": "- IR 324 Multinational Enterprises and World Politics Units: 4"
+        },
+        {
+          "code": "IR 325",
+          "title": "North-South Relations in the Global Economy",
+          "units": 4.0,
+          "source_line": "- IR 325 North-South Relations in the Global Economy Units: 4"
+        },
+        {
+          "code": "IR 326",
+          "title": "U.S. Foreign Economic Policy",
+          "units": 4.0,
+          "source_line": "- IR 326 U.S. Foreign Economic Policy Units: 4"
+        },
+        {
+          "code": "IR 328",
+          "title": "The Evolving Global Economic Architecture-Capital Mobility",
+          "units": 4.0,
+          "source_line": "- IR 328 The Evolving Global Economic Architecture-Capital Mobility Units: 4"
+        },
+        {
+          "code": "IR 329",
+          "title": "The Global Finance and Monetary Regime",
+          "units": 4.0,
+          "source_line": "- IR 329 The Global Finance and Monetary Regime Units: 4"
+        },
+        {
+          "code": "IR 331",
+          "title": "The Global Economy 2040",
+          "units": 4.0,
+          "source_line": "- IR 331 The Global Economy 2040 Units: 4"
+        },
+        {
+          "code": "IR 332",
+          "title": "Money, Guns and Oil",
+          "units": 4.0,
+          "source_line": "- IR 332 Money, Guns and Oil Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Regional Study",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ECON 340",
+          "title": "Economics of Less Developed Countries",
+          "units": 4.0,
+          "source_line": "- ECON 340 Economics of Less Developed Countries Units: 4"
+        },
+        {
+          "code": "ECON 342",
+          "title": "Economic Development of the Middle East",
+          "units": 4.0,
+          "source_line": "- ECON 342 Economic Development of the Middle East Units: 4"
+        },
+        {
+          "code": "ECON 343",
+          "title": "Economic Development of East Asia",
+          "units": 4.0,
+          "source_line": "- ECON 343 Economic Development of East Asia Units: 4"
+        },
+        {
+          "code": "ECON 344",
+          "title": "Economic Development of Sub-Saharan Africa",
+          "units": 4.0,
+          "source_line": "- ECON 344 Economic Development of Sub-Saharan Africa Units: 4"
+        },
+        {
+          "code": "ECON 346",
+          "title": "Economics of Transition and Development: China",
+          "units": 4.0,
+          "source_line": "- ECON 346 Economics of Transition and Development: China Units: 4"
+        },
+        {
+          "code": "IR 317",
+          "title": "The Political Economy of Africa",
+          "units": 4.0,
+          "source_line": "- IR 317 The Political Economy of Africa Units: 4"
+        },
+        {
+          "code": "IR 340",
+          "title": "The Political Economy of China",
+          "units": 4.0,
+          "source_line": "- IR 340 The Political Economy of China Units: 4"
+        },
+        {
+          "code": "IR 360",
+          "title": "International Relations of the Pacific Rim",
+          "units": 4.0,
+          "source_line": "- IR 360 International Relations of the Pacific Rim Units: 4"
+        },
+        {
+          "code": "IR 363",
+          "title": "Middle East Political Economy",
+          "units": 4.0,
+          "source_line": "- IR 363 Middle East Political Economy Units: 4"
+        },
+        {
+          "code": "IR 364",
+          "title": "The Political Economy of Latin American Development",
+          "units": 4.0,
+          "source_line": "- IR 364 The Political Economy of Latin American Development Units: 4"
+        },
+        {
+          "code": "IR 384",
+          "title": "Asian Security Issues",
+          "units": 4.0,
+          "source_line": "- IR 384 Asian Security Issues Units: 4"
+        },
+        {
+          "code": "IR 425",
+          "title": "The New Triangle: China, the U.S. and Latin America",
+          "units": 4.0,
+          "source_line": "- IR 425 The New Triangle: China, the U.S. and Latin America Units: 4"
+        },
+        {
+          "code": "IR 428",
+          "title": "China’s Political Economy",
+          "units": 4.0,
+          "source_line": "- IR 428 China’s Political Economy Units: 4"
+        },
+        {
+          "code": "IR 439",
+          "title": "Political Economy of Russia and Eurasia",
+          "units": 4.0,
+          "source_line": "- IR 439 Political Economy of Russia and Eurasia Units: 4"
+        },
+        {
+          "code": "IR 468",
+          "title": "European Integration",
+          "units": 4.0,
+          "source_line": "- IR 468 European Integration Units: 4"
+        },
+        {
+          "code": "POSC 430",
+          "title": "Political Economy of Mexico",
+          "units": 4.0,
+          "source_line": "- POSC 430 Political Economy of Mexico Units: 4"
+        },
+        {
+          "code": "POSC 431",
+          "title": "Political Economy of Central America",
+          "units": 4.0,
+          "source_line": "- POSC 431 Political Economy of Central America Units: 4"
+        },
+        {
+          "code": "POSC 435",
+          "title": "Politics and the Economy",
+          "units": 4.0,
+          "source_line": "- POSC 435 Politics and the Economy Units: 4"
+        },
+        {
+          "code": "POSC 451",
+          "title": "Politics of Resources and Development",
+          "units": 4.0,
+          "source_line": "- POSC 451 Politics of Resources and Development Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one course (4 units):",
+          "source_line": "Choose one course (4 units):",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one course (4 units):",
+      "total_units": null
+    },
+    {
+      "title": "Senior Emphasis",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ECON 404",
+          "title": "Games and Economics",
+          "units": 4.0,
+          "source_line": "- ECON 404 Games and Economics Units: 4"
+        },
+        {
+          "code": "ECON 415",
+          "title": "Behavioral Economics",
+          "units": 4.0,
+          "source_line": "- ECON 415 Behavioral Economics Units: 4"
+        },
+        {
+          "code": "ECON 450",
+          "title": "International Trade  (prerequisite: ECON 303 )",
+          "units": 4.0,
+          "source_line": "- ECON 450 International Trade Units: 4 (prerequisite: ECON 303 )"
+        },
+        {
+          "code": "ECON 452",
+          "title": "International Finance",
+          "units": 4.0,
+          "source_line": "- ECON 452 International Finance Units: 4"
+        },
+        {
+          "code": "ECON 457",
+          "title": "Financial Markets",
+          "units": 4.0,
+          "source_line": "- ECON 457 Financial Markets Units: 4"
+        },
+        {
+          "code": "ECON 474",
+          "title": "Economic Consulting and Applied Managerial Economics",
+          "units": 4.0,
+          "source_line": "- ECON 474 Economic Consulting and Applied Managerial Economics Units: 4"
+        },
+        {
+          "code": "ECON 487",
+          "title": "Resource and Environmental Economics",
+          "units": 4.0,
+          "source_line": "- ECON 487 Resource and Environmental Economics Units: 4"
+        },
+        {
+          "code": "IR 412",
+          "title": "Applied Data Science for International Relations 1",
+          "units": 2.0,
+          "source_line": "- IR 412 Applied Data Science for International Relations 1 Units: 2"
+        },
+        {
+          "code": "IR 413",
+          "title": "Applied Data Science for International Relations 2",
+          "units": 2.0,
+          "source_line": "- IR 413 Applied Data Science for International Relations 2 Units: 2"
+        },
+        {
+          "code": "IR 420",
+          "title": "Political Economy of Corruption",
+          "units": 4.0,
+          "source_line": "- IR 420 Political Economy of Corruption Units: 4"
+        },
+        {
+          "code": "IR 427",
+          "title": "Seminar on Economics and Security",
+          "units": 4.0,
+          "source_line": "- IR 427 Seminar on Economics and Security Units: 4"
+        },
+        {
+          "code": "IR 430",
+          "title": "The Politics of International Trade",
+          "units": 4.0,
+          "source_line": "- IR 430 The Politics of International Trade Units: 4"
+        },
+        {
+          "code": "IR 431",
+          "title": "Commercial and Financial Globalization-Trends, Challenges",
+          "units": 4.0,
+          "source_line": "- IR 431 Commercial and Financial Globalization-Trends, Challenges Units: 4"
+        },
+        {
+          "code": "IR 454",
+          "title": "The International Political Economy of Development",
+          "units": 4.0,
+          "source_line": "- IR 454 The International Political Economy of Development Units: 4"
+        },
+        {
+          "code": "IR 455",
+          "title": "The Political Economy of Autocracy",
+          "units": 4.0,
+          "source_line": "- IR 455 The Political Economy of Autocracy Units: 4"
+        },
+        {
+          "code": "IR 470",
+          "title": "Comparative Regionalism",
+          "units": 4.0,
+          "source_line": "- IR 470 Comparative Regionalism Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one course (4 units):",
+          "source_line": "Choose one course (4 units):",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one course (4 units):",
+      "total_units": null
+    },
+    {
+      "title": "Total: 12 courses, 48 units",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Prerequisite required",
+          "source_line": "*Prerequisite required"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

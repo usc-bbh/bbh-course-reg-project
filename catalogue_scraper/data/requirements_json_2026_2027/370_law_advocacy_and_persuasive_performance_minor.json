@@ -1,0 +1,190 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Law, Advocacy and Persuasive Performance Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32933",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32933&returnto=9396",
+    "source_text_file": "370_law_advocacy_and_persuasive_performance_minor.txt",
+    "source_content_sha256": "48c11e8a677318c532e4fc35d0b5d1acf69890d8c76678cf44346552c85bcd2e",
+    "retrieved_at": "2026-07-31T01:10:15Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 20,
+    "distinct_course_codes": 20,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in Law, Advocacy and Persuasive Performance is an innovative and interdisciplinary minor that explores the intersection between dramatic arts and the law which emphasizes performance-based skills essential to the law and the legal profession: persuasive speaking, improvisation, audience analysis and storytelling.",
+          "source_line": "The minor in Law, Advocacy and Persuasive Performance is an innovative and interdisciplinary minor that explores the intersection between dramatic arts and the law which emphasizes performance-based skills essential to the law and the legal profession: persuasive speaking, improvisation, audience analysis and storytelling."
+        },
+        {
+          "text": "The minor totals 16 unit: 8 required law and theatre units, 4 law and 4 dramatic arts elective units.",
+          "source_line": "The minor totals 16 unit: 8 required law and theatre units, 4 law and 4 dramatic arts elective units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses: 8 units",
+      "level": 2,
+      "courses": [
+        {
+          "code": "LAW 200w",
+          "title": "Law and Society",
+          "units": 4.0,
+          "source_line": "- LAW 200w Law and Society Units: 4"
+        },
+        {
+          "code": "THTR 122",
+          "title": "Improvisation and Theatre Games",
+          "units": 2.0,
+          "source_line": "- THTR 122 Improvisation and Theatre Games Units: 2"
+        },
+        {
+          "code": "THTR 421",
+          "title": "Public Speaking as Performance: A Course for Non-Actors",
+          "units": 2.0,
+          "source_line": "- THTR 421 Public Speaking as Performance: A Course for Non-Actors Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Law Electives: 4 units",
+      "level": 2,
+      "courses": [
+        {
+          "code": "LAW 150w",
+          "title": "Stereotypes, Prejudice and the Rule of Law",
+          "units": 4.0,
+          "source_line": "- LAW 150w Stereotypes, Prejudice and the Rule of Law Units: 4"
+        },
+        {
+          "code": "LAW 202",
+          "title": "Wrongful Convictions",
+          "units": 4.0,
+          "source_line": "- LAW 202 Wrongful Convictions Units: 4"
+        },
+        {
+          "code": "LAW 203",
+          "title": "Criminal Punishment in the Age of Mass Incarceration",
+          "units": 4.0,
+          "source_line": "- LAW 203 Criminal Punishment in the Age of Mass Incarceration Units: 4"
+        },
+        {
+          "code": "LAW 212",
+          "title": "Immigration Law for a New America",
+          "units": 4.0,
+          "source_line": "- LAW 212 Immigration Law for a New America Units: 4"
+        },
+        {
+          "code": "LAW 250w",
+          "title": "Children and the Law",
+          "units": 4.0,
+          "source_line": "- LAW 250w Children and the Law Units: 4"
+        },
+        {
+          "code": "LAW 301",
+          "title": "Voting Rights and the Law",
+          "units": 4.0,
+          "source_line": "- LAW 301 Voting Rights and the Law Units: 4"
+        },
+        {
+          "code": "LAW 310w",
+          "title": "Global Justice for Mass Atrocities and Genocide",
+          "units": 4.0,
+          "source_line": "- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4"
+        },
+        {
+          "code": "LAW 320p",
+          "title": "Law, Enslavement and Race",
+          "units": 4.0,
+          "source_line": "- LAW 320p Law, Enslavement and Race Units: 4"
+        },
+        {
+          "code": "LAW 355",
+          "title": "Law and Homelessness",
+          "units": 4.0,
+          "source_line": "- LAW 355 Law and Homelessness Units: 4"
+        },
+        {
+          "code": "LAW 403",
+          "title": "Mental Health Law",
+          "units": 4.0,
+          "source_line": "- LAW 403 Mental Health Law Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Dramatic Arts Electives: 4 units",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 101",
+          "title": "Introduction to Acting",
+          "units": 4.0,
+          "source_line": "- THTR 101 Introduction to Acting Units: 4"
+        },
+        {
+          "code": "THTR 216",
+          "title": "Movement for Actors",
+          "units": 2.0,
+          "source_line": "- THTR 216 Movement for Actors Units: 2"
+        },
+        {
+          "code": "THTR 322",
+          "title": "Improv 2: Advanced Improv",
+          "units": 2.0,
+          "source_line": "- THTR 322 Improv 2: Advanced Improv Units: 2"
+        },
+        {
+          "code": "THTR 414",
+          "title": "Secrets of Storytelling",
+          "units": 2.0,
+          "source_line": "- THTR 414 Secrets of Storytelling Units: 2"
+        },
+        {
+          "code": "THTR 426",
+          "title": "Being on Screen: A Class for Presenters, Hosts, and Others",
+          "units": 2.0,
+          "source_line": "- THTR 426 Being on Screen: A Class for Presenters, Hosts, and Others Units: 2"
+        },
+        {
+          "code": "THTR 445",
+          "title": "Developing Your Speaking Voice",
+          "units": 2.0,
+          "source_line": "- THTR 445 Developing Your Speaking Voice Units: 2"
+        },
+        {
+          "code": "THTR 479",
+          "title": "Solo Performance",
+          "units": 4.0,
+          "source_line": "- THTR 479 Solo Performance Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

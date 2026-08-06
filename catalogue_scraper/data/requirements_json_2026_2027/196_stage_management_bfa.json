@@ -1,0 +1,386 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Stage Management (BFA)",
+    "credential": "BFA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32833",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32833&returnto=9396",
+    "source_text_file": "196_stage_management_bfa.txt",
+    "source_content_sha256": "3816522975a071d33ce9b5a42b72bb2409971c0069d98a68c372443546135326",
+    "retrieved_at": "2026-07-31T00:57:27Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "A total of 128 units of course work is required for the degree, including a 16-unit Critical Studies core in addition to required courses for the program.",
+      "## Required Courses for the Stage Management BFA (60 units)\n\n---\n\n- MPKS 150a Beginning Piano Units: 2\n- PHED 161 First Aid Units: 1\n- THTR 101 Introduction to Acting Units: 4\n- THTR 131a Advanced Theatrical Production Units: 2\n- THTR 131b Advanced Theatrical Production Units: 2\n- THTR 132a Art of Theatrical Design Units: 2\n- THTR 132b Art of Theatrical Design Units: 2\n- THTR 332 Lighting Design I Units: 4\n- THTR 333 Stage Management I Units: 3\n- THTR 336 Sound Design I Units: 3\n- THTR 397 Theatre Practicum Units: 1, 2, 3, 4 (6 Units Required)\n- THTR 430 Stage Management II Units: 3\n- THTR 443 Production Management Units: 4\n- THTR 453 Taking it on the Road and Beyond Units: 4\n- THTR 491 Theatre Organization and Administration Units: 4\n- THTR 493a Periods and Styles Units: 2\n- THTR 493b Periods and Styles Units: 2\n- THTR 497 Advanced Theatre Practicum Units: 2\n\n### One course (4 units) from:\n\n---\n\n- THTR 305a Directing Units: 4\n- THTR 309 Dramaturgy Units: 4\n\n### One course (4 units) from:\n\n---\n\n- THTR 330 Scene Design I Units: 4\n- THTR 331 Costume Design I Units: 4\n\n## Critical Studies Core (16 units)\n\n---\n\nComplete the two required courses below."
+    ],
+    "course_entry_count": 40,
+    "distinct_course_codes": 40,
+    "section_count": 10
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Fine Arts in Stage Management provides four years of intensive training at the undergraduate level. A total of 128 units of course work is required for the degree, including a 16-unit Critical Studies core in addition to required courses for the program.",
+          "source_line": "The Bachelor of Fine Arts in Stage Management provides four years of intensive training at the undergraduate level. A total of 128 units of course work is required for the degree, including a 16-unit Critical Studies core in addition to required courses for the program."
+        },
+        {
+          "text": "All BFA students are required to earn a grade point average of 2.75 (A = 4.0) in their theatre courses each semester. BFA students who fail to earn a GPA of 2.75 in their theatre courses will be placed on probation the following semester. Students who remain on probation for a consecutive second semester will be disqualified from the BFA program.",
+          "source_line": "All BFA students are required to earn a grade point average of 2.75 (A = 4.0) in their theatre courses each semester. BFA students who fail to earn a GPA of 2.75 in their theatre courses will be placed on probation the following semester. Students who remain on probation for a consecutive second semester will be disqualified from the BFA program."
+        },
+        {
+          "text": "A student disqualified from continued study in the BFA program for failing to meet the GPA standards outlined above will be given the option of transferring into the BA program.",
+          "source_line": "A student disqualified from continued study in the BFA program for failing to meet the GPA standards outlined above will be given the option of transferring into the BA program."
+        },
+        {
+          "text": "General Education Requirements",
+          "source_line": "General Education Requirements"
+        },
+        {
+          "text": "The university’s General Education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above.",
+          "source_line": "The university’s General Education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above."
+        },
+        {
+          "text": "Note that courses within the program will also satisfy certain Core Literacy requirements. Please work with your adviser to determine those courses.",
+          "source_line": "Note that courses within the program will also satisfy certain Core Literacy requirements. Please work with your adviser to determine those courses."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses for the Stage Management BFA (60 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MPKS 150a",
+          "title": "Beginning Piano",
+          "units": 2.0,
+          "source_line": "- MPKS 150a Beginning Piano Units: 2"
+        },
+        {
+          "code": "PHED 161",
+          "title": "First Aid",
+          "units": 1.0,
+          "source_line": "- PHED 161 First Aid Units: 1"
+        },
+        {
+          "code": "THTR 101",
+          "title": "Introduction to Acting",
+          "units": 4.0,
+          "source_line": "- THTR 101 Introduction to Acting Units: 4"
+        },
+        {
+          "code": "THTR 131a",
+          "title": "Advanced Theatrical Production",
+          "units": 2.0,
+          "source_line": "- THTR 131a Advanced Theatrical Production Units: 2"
+        },
+        {
+          "code": "THTR 131b",
+          "title": "Advanced Theatrical Production",
+          "units": 2.0,
+          "source_line": "- THTR 131b Advanced Theatrical Production Units: 2"
+        },
+        {
+          "code": "THTR 132a",
+          "title": "Art of Theatrical Design",
+          "units": 2.0,
+          "source_line": "- THTR 132a Art of Theatrical Design Units: 2"
+        },
+        {
+          "code": "THTR 132b",
+          "title": "Art of Theatrical Design",
+          "units": 2.0,
+          "source_line": "- THTR 132b Art of Theatrical Design Units: 2"
+        },
+        {
+          "code": "THTR 332",
+          "title": "Lighting Design I",
+          "units": 4.0,
+          "source_line": "- THTR 332 Lighting Design I Units: 4"
+        },
+        {
+          "code": "THTR 333",
+          "title": "Stage Management I",
+          "units": 3.0,
+          "source_line": "- THTR 333 Stage Management I Units: 3"
+        },
+        {
+          "code": "THTR 336",
+          "title": "Sound Design I",
+          "units": 3.0,
+          "source_line": "- THTR 336 Sound Design I Units: 3"
+        },
+        {
+          "code": "THTR 397",
+          "title": "Theatre Practicum , 2, 3, 4 (6 Units Required)",
+          "units": 1.0,
+          "source_line": "- THTR 397 Theatre Practicum Units: 1, 2, 3, 4 (6 Units Required)"
+        },
+        {
+          "code": "THTR 430",
+          "title": "Stage Management II",
+          "units": 3.0,
+          "source_line": "- THTR 430 Stage Management II Units: 3"
+        },
+        {
+          "code": "THTR 443",
+          "title": "Production Management",
+          "units": 4.0,
+          "source_line": "- THTR 443 Production Management Units: 4"
+        },
+        {
+          "code": "THTR 453",
+          "title": "Taking it on the Road and Beyond",
+          "units": 4.0,
+          "source_line": "- THTR 453 Taking it on the Road and Beyond Units: 4"
+        },
+        {
+          "code": "THTR 491",
+          "title": "Theatre Organization and Administration",
+          "units": 4.0,
+          "source_line": "- THTR 491 Theatre Organization and Administration Units: 4"
+        },
+        {
+          "code": "THTR 493a",
+          "title": "Periods and Styles",
+          "units": 2.0,
+          "source_line": "- THTR 493a Periods and Styles Units: 2"
+        },
+        {
+          "code": "THTR 493b",
+          "title": "Periods and Styles",
+          "units": 2.0,
+          "source_line": "- THTR 493b Periods and Styles Units: 2"
+        },
+        {
+          "code": "THTR 497",
+          "title": "Advanced Theatre Practicum",
+          "units": 2.0,
+          "source_line": "- THTR 497 Advanced Theatre Practicum Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One course (4 units) from:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "THTR 305a",
+          "title": "Directing",
+          "units": 4.0,
+          "source_line": "- THTR 305a Directing Units: 4"
+        },
+        {
+          "code": "THTR 309",
+          "title": "Dramaturgy",
+          "units": 4.0,
+          "source_line": "- THTR 309 Dramaturgy Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One course (4 units) from:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "THTR 330",
+          "title": "Scene Design I",
+          "units": 4.0,
+          "source_line": "- THTR 330 Scene Design I Units: 4"
+        },
+        {
+          "code": "THTR 331",
+          "title": "Costume Design I",
+          "units": 4.0,
+          "source_line": "- THTR 331 Costume Design I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Critical Studies Core (16 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 125",
+          "title": "Text Studies for Production",
+          "units": 4.0,
+          "source_line": "- THTR 125 Text Studies for Production Units: 4"
+        },
+        {
+          "code": "THTR 225g",
+          "title": "Theatre Across History and Cultures",
+          "units": 4.0,
+          "source_line": "- THTR 225g Theatre Across History and Cultures Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete the two required courses below. In addition, take one course from List A and one course from either List A or B.",
+          "source_line": "Complete the two required courses below. In addition, take one course from List A and one course from either List A or B.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Complete the two required courses below. In addition, take one course from List A and one course from either List A or B.",
+      "total_units": null
+    },
+    {
+      "title": "List A",
+      "level": 3,
+      "courses": [
+        {
+          "code": "THTR 310",
+          "title": "Comedy and Diversity",
+          "units": 4.0,
+          "source_line": "- THTR 310 Comedy and Diversity Units: 4"
+        },
+        {
+          "code": "THTR 312",
+          "title": "LGBTQ Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 312 LGBTQ Theatre Units: 4"
+        },
+        {
+          "code": "THTR 395m",
+          "title": "Drama as Human Relations",
+          "units": 4.0,
+          "source_line": "- THTR 395m Drama as Human Relations Units: 4"
+        },
+        {
+          "code": "THTR 405m",
+          "title": "Performing Identities",
+          "units": 4.0,
+          "source_line": "- THTR 405m Performing Identities Units: 4"
+        },
+        {
+          "code": "THTR 406",
+          "title": "Theatre on the Edge",
+          "units": 4.0,
+          "source_line": "- THTR 406 Theatre on the Edge Units: 4"
+        },
+        {
+          "code": "THTR 456",
+          "title": "Latinx Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 456 Latinx Theatre Units: 4"
+        },
+        {
+          "code": "THTR 460",
+          "title": "Asian and Asian American Theatre: Identity and Aesthetics",
+          "units": 4.0,
+          "source_line": "- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4"
+        },
+        {
+          "code": "THTR 476mw",
+          "title": "African American Theatre, Dance, and Performance",
+          "units": 4.0,
+          "source_line": "- THTR 476mw African American Theatre, Dance, and Performance Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "List B",
+      "level": 3,
+      "courses": [
+        {
+          "code": "THTR 301",
+          "title": "Greek and Roman Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 301 Greek and Roman Theatre Units: 4"
+        },
+        {
+          "code": "THTR 302",
+          "title": "Shakespeare in His World",
+          "units": 4.0,
+          "source_line": "- THTR 302 Shakespeare in His World Units: 4"
+        },
+        {
+          "code": "THTR 313",
+          "title": "Comedy of Manners",
+          "units": 4.0,
+          "source_line": "- THTR 313 Comedy of Manners Units: 4"
+        },
+        {
+          "code": "THTR 314",
+          "title": "Advanced Topics in Modern Drama",
+          "units": 4.0,
+          "source_line": "- THTR 314 Advanced Topics in Modern Drama Units: 4"
+        },
+        {
+          "code": "THTR 400",
+          "title": "Eco-Theatre: Art and Science in Contemporary Plays",
+          "units": 4.0,
+          "source_line": "- THTR 400 Eco-Theatre: Art and Science in Contemporary Plays Units: 4"
+        },
+        {
+          "code": "THTR 401",
+          "title": "Contemporary Theatre in a Changing World",
+          "units": 4.0,
+          "source_line": "- THTR 401 Contemporary Theatre in a Changing World Units: 4"
+        },
+        {
+          "code": "THTR 403",
+          "title": "The Performing Arts",
+          "units": 4.0,
+          "source_line": "- THTR 403 The Performing Arts Units: 4"
+        },
+        {
+          "code": "THTR 404",
+          "title": "Acting Theory",
+          "units": 4.0,
+          "source_line": "- THTR 404 Acting Theory Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education Units: 36",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives Units: 16",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total: 128",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

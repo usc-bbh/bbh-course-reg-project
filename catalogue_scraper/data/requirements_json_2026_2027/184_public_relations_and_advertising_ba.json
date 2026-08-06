@@ -1,0 +1,112 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Public Relations and Advertising (BA)*",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32806",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32806&returnto=9396",
+    "source_text_file": "184_public_relations_and_advertising_ba.txt",
+    "source_content_sha256": "312764487d0c7281b59e4159939be186df57a900e971d85b695f22dd9c092046",
+    "retrieved_at": "2026-07-31T00:57:01Z"
+  },
+  "totals": {
+    "stated_total_units": 44.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [],
+    "course_entry_count": 7,
+    "distinct_course_codes": 7,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Public relations and advertising are the cornerstone of modern communication. Previously considered very separate disciplines, these functions have increased synergies as organizations relay on them to connect to their audiences through paid, earned, shared and owned media. Students gain a range of skills from creative to strategic to analytic and land jobs in organizations of all types, including non-profits, entertainment brands, sports teams, social action groups, PR and ad agencies, and Fortune 500 companies. Upon graduation our students leave prepared for occupations in content creation; media ​and influencer relations; digital/​social media marketing; ​applied research and data analysis; media buying ​and ​creative development; advertising and PR account management; and more.",
+          "source_line": "Public relations and advertising are the cornerstone of modern communication. Previously considered very separate disciplines, these functions have increased synergies as organizations relay on them to connect to their audiences through paid, earned, shared and owned media. Students gain a range of skills from creative to strategic to analytic and land jobs in organizations of all types, including non-profits, entertainment brands, sports teams, social action groups, PR and ad agencies, and Fortune 500 companies. Upon graduation our students leave prepared for occupations in content creation; media ​and influencer relations; digital/​social media marketing; ​applied research and data analysis; media buying ​and ​creative development; advertising and PR account management; and more."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 44",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 44.0
+    },
+    {
+      "title": "Required Courses, Lower Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ASCJ 200",
+          "title": "Navigating Media and News in the Digital Age",
+          "units": 4.0,
+          "source_line": "- ASCJ 200 Navigating Media and News in the Digital Age Units: 4"
+        },
+        {
+          "code": "PR 209",
+          "title": "Effective Writing for Strategic Public Relations and Advertising",
+          "units": 4.0,
+          "source_line": "- PR 209 Effective Writing for Strategic Public Relations and Advertising Units: 4"
+        },
+        {
+          "code": "PR 250",
+          "title": "Strategic Public Relations and Advertising: An Introduction",
+          "units": 4.0,
+          "source_line": "- PR 250 Strategic Public Relations and Advertising: An Introduction Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses, Upper Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PR 351a",
+          "title": "Multichannel Strategy and Content Creation",
+          "units": 4.0,
+          "source_line": "- PR 351a Multichannel Strategy and Content Creation Units: 4"
+        },
+        {
+          "code": "PR 427",
+          "title": "Structured Inquiry in Public Relations and Advertising",
+          "units": 4.0,
+          "source_line": "- PR 427 Structured Inquiry in Public Relations and Advertising Units: 4"
+        },
+        {
+          "code": "PR 429",
+          "title": "Business and Economic Foundations of Public Relations and Advertising",
+          "units": 4.0,
+          "source_line": "- PR 429 Business and Economic Foundations of Public Relations and Advertising Units: 4"
+        },
+        {
+          "code": "PR 450",
+          "title": "Building Integrated Campaigns",
+          "units": 4.0,
+          "source_line": "- PR 450 Building Integrated Campaigns Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Plus 16 upper-division PR and/or JOUR elective units chosen in consultation with an adviser",
+          "source_line": "- Plus 16 upper-division PR and/or JOUR elective units chosen in consultation with an adviser"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

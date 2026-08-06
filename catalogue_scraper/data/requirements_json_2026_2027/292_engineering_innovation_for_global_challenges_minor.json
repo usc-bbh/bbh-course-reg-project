@@ -1,0 +1,89 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Engineering Innovation for Global Challenges Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32744",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32744&returnto=9396",
+    "source_text_file": "292_engineering_innovation_for_global_challenges_minor.txt",
+    "source_content_sha256": "d75fb707978bb49abfe632ab85f50649930868752cbfbf61bb385edb66b8a727",
+    "retrieved_at": "2026-07-31T01:02:06Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Required Courses (18 units)\n\n---\n\nThe following is a list of required courses for the Minor in Engineering Innovation for Global Challenges."
+    ],
+    "course_entry_count": 5,
+    "distinct_course_codes": 5,
+    "section_count": 2
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This minor equips students from various academic backgrounds to leverage engineering innovation in addressing the greatest challenges facing our world today. With a focus on the knowledge, tools, techniques and mindsets that have evolved in engineering innovation from the Industrial Revolution to the Second Machine Age with its self-driving cars, next-generation robots, and 3D printing, this minor brings time-tested principles together with novel, integrated approaches to bear upon wicked problems such as climate change, human displacement, pandemics, access to education, and a widening socio-economic gap. In pursuing these grand challenges, engineers, scientists, innovators and entrepreneurs must increasingly frame their work to address areas of human concern – sustainability, health, vulnerability, and the joy of living – while they lead the design of ingenious products, services and technologies with a human-centered approach.",
+          "source_line": "This minor equips students from various academic backgrounds to leverage engineering innovation in addressing the greatest challenges facing our world today. With a focus on the knowledge, tools, techniques and mindsets that have evolved in engineering innovation from the Industrial Revolution to the Second Machine Age with its self-driving cars, next-generation robots, and 3D printing, this minor brings time-tested principles together with novel, integrated approaches to bear upon wicked problems such as climate change, human displacement, pandemics, access to education, and a widening socio-economic gap. In pursuing these grand challenges, engineers, scientists, innovators and entrepreneurs must increasingly frame their work to address areas of human concern – sustainability, health, vulnerability, and the joy of living – while they lead the design of ingenious products, services and technologies with a human-centered approach."
+        },
+        {
+          "text": "This is a minor for a new generation of students who see themselves as makers, inventors, entrepreneurs, engineers, designers and peace builders, who want to create real solutions and put them to work against the wicked problems. The minor prepares students to think globally and develop culturally relevant perspectives and teaches the skills that not only inform the way we work in diverse teams but also shape the future of global collaboration.",
+          "source_line": "This is a minor for a new generation of students who see themselves as makers, inventors, entrepreneurs, engineers, designers and peace builders, who want to create real solutions and put them to work against the wicked problems. The minor prepares students to think globally and develop culturally relevant perspectives and teaches the skills that not only inform the way we work in diverse teams but also shape the future of global collaboration."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (18 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ENGR 254",
+          "title": "Immersive Storytelling For Engineers, Innovators and Makers",
+          "units": 2.0,
+          "source_line": "- ENGR 254 Immersive Storytelling For Engineers, Innovators and Makers Units: 2"
+        },
+        {
+          "code": "ENGR 270w",
+          "title": "Ethics in Global Engineering and Scientific Innovation",
+          "units": 4.0,
+          "source_line": "- ENGR 270w Ethics in Global Engineering and Scientific Innovation Units: 4"
+        },
+        {
+          "code": "ENGR 365",
+          "title": "Prototyping for Design and Development of Physical Products  or",
+          "units": 4.0,
+          "source_line": "- ENGR 365 Prototyping for Design and Development of Physical Products Units: 4 or"
+        },
+        {
+          "code": "TAC 310",
+          "title": "Design for User Experience",
+          "units": 4.0,
+          "source_line": "- TAC 310 Design for User Experience Units: 4"
+        },
+        {
+          "code": "ENGR 385",
+          "title": "Human-Systems Integration for Global Engineering",
+          "units": 4.0,
+          "source_line": "- ENGR 385 Human-Systems Integration for Global Engineering Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "The following is a list of required courses for the Minor in Engineering Innovation for Global Challenges. It is preferable that students in the minor take ENGR 254, 270, 365 and 382 before CE 486ab. Orientation seminars will be provided to give students a guideline on the courses, how they fit together, what the path is to become global innovators. These efforts will be synergized with the orientation seminars for Grand Challenges Scholars Program at Viterbi School of Engineering.",
+          "source_line": "The following is a list of required courses for the Minor in Engineering Innovation for Global Challenges. It is preferable that students in the minor take ENGR 254, 270, 365 and 382 before CE 486ab. Orientation seminars will be provided to give students a guideline on the courses, how they fit together, what the path is to become global innovators. These efforts will be synergized with the orientation seminars for Grand Challenges Scholars Program at Viterbi School of Engineering."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

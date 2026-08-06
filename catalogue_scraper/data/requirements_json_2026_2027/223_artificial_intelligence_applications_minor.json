@@ -1,0 +1,177 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Artificial Intelligence Applications Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32792",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32792&returnto=9396",
+    "source_text_file": "223_artificial_intelligence_applications_minor.txt",
+    "source_content_sha256": "0621ec42b37906d69c4c086febb7eae9cb3810228b2d595d2ba260e789f5f451",
+    "retrieved_at": "2026-07-31T00:59:31Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The minor requires a minimum of 18-20 units.",
+      "## Core Requirements (12 units)\n\n---\n\n- TAC 259 Basics of Artificial Intelligence Units: 4\n- TAC 359 Applied Neural Networks Units: 4\n- TAC 459 Applied Natural Language Processing and Generative AI Units: 4\n\n## Programming Fundamentals (2-4 units)\n\n---\n\nChoose either the CSCI course or the TAC sequence:\n\n### CSCI course:\n\n---\n\n- CSCI 113x Programming Fundamentals for Computing Units: 4\n\n### TAC sequence:\n\n---\n\nTAC 115 or TAC 116 may be waived with demonstrated prior Python programming experience."
+    ],
+    "course_entry_count": 11,
+    "distinct_course_codes": 10,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "AI is a rapidly advancing discipline at the intersection of computer science, technology, cognitive science, and data science. AI has great promise to change the world in ways we cannot foresee. Society, industry, business, commerce, entertainment, medicine, finance and many other aspects of our lives could be transformed by advances in AI.",
+          "source_line": "AI is a rapidly advancing discipline at the intersection of computer science, technology, cognitive science, and data science. AI has great promise to change the world in ways we cannot foresee. Society, industry, business, commerce, entertainment, medicine, finance and many other aspects of our lives could be transformed by advances in AI."
+        },
+        {
+          "text": "Students in the minor will learn the foundations of AI and core concepts as well as tools and frameworks to solve real world problems. Applications such as computer vision and natural language processing will be discussed in core courses. Students will have the option to take an elective in topics such as the use of AI in autonomous driving and cybersecurity. Additionally, ethical issues will be explored in the core as well as in specialized elective courses.",
+          "source_line": "Students in the minor will learn the foundations of AI and core concepts as well as tools and frameworks to solve real world problems. Applications such as computer vision and natural language processing will be discussed in core courses. Students will have the option to take an elective in topics such as the use of AI in autonomous driving and cybersecurity. Additionally, ethical issues will be explored in the core as well as in specialized elective courses."
+        },
+        {
+          "text": "The minor requires a minimum of 18-20 units.",
+          "source_line": "The minor requires a minimum of 18-20 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Requirements (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "TAC 259",
+          "title": "Basics of Artificial Intelligence",
+          "units": 4.0,
+          "source_line": "- TAC 259 Basics of Artificial Intelligence Units: 4"
+        },
+        {
+          "code": "TAC 359",
+          "title": "Applied Neural Networks",
+          "units": 4.0,
+          "source_line": "- TAC 359 Applied Neural Networks Units: 4"
+        },
+        {
+          "code": "TAC 459",
+          "title": "Applied Natural Language Processing and Generative AI",
+          "units": 4.0,
+          "source_line": "- TAC 459 Applied Natural Language Processing and Generative AI Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Programming Fundamentals (2-4 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Choose either the CSCI course or the TAC sequence:",
+          "source_line": "Choose either the CSCI course or the TAC sequence:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "CSCI course:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CSCI 113x",
+          "title": "Programming Fundamentals for Computing",
+          "units": 4.0,
+          "source_line": "- CSCI 113x Programming Fundamentals for Computing Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "TAC sequence:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "TAC 115",
+          "title": "or TAC 116 may be waived with demonstrated prior Python programming experience",
+          "units": null,
+          "source_line": "TAC 115 or TAC 116 may be waived with demonstrated prior Python programming experience."
+        },
+        {
+          "code": "TAC 115",
+          "title": "Programming in Python",
+          "units": 2.0,
+          "source_line": "- TAC 115 Programming in Python Units: 2",
+          "alternative_follows": true
+        },
+        {
+          "code": "TAC 116",
+          "title": "Accelerated Programming in Python",
+          "units": 2.0,
+          "source_line": "- TAC 116 Accelerated Programming in Python Units: 2"
+        },
+        {
+          "code": "TAC 216",
+          "title": "Applied Python",
+          "units": 2.0,
+          "source_line": "- TAC 216 Applied Python Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (4 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "EIS 370",
+          "title": "Ethical Issues in Artificial Intelligence",
+          "units": 4.0,
+          "source_line": "- EIS 370 Ethical Issues in Artificial Intelligence Units: 4"
+        },
+        {
+          "code": "TAC 429",
+          "title": "Embodied Artificial Intelligence",
+          "units": 4.0,
+          "source_line": "- TAC 429 Embodied Artificial Intelligence Units: 4"
+        },
+        {
+          "code": "PHIL 265g",
+          "title": "Ethics, Technology and Value",
+          "units": 4.0,
+          "source_line": "- PHIL 265g Ethics, Technology and Value Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one of the following:",
+          "source_line": "Choose one of the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one of the following:",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

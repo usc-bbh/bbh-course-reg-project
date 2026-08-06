@@ -1,0 +1,50 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Religion Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31921",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31921&returnto=9396",
+    "source_text_file": "436_religion_minor.txt",
+    "source_content_sha256": "edae21cbfebb0a596bfa5bcba7c263e76a0dbedfc2f84b15fb6668fed568e322",
+    "retrieved_at": "2026-07-31T01:12:46Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The total unit requirement for the minor is 20 units; 16 of those units must be upper-division."
+    ],
+    "course_entry_count": 0,
+    "distinct_course_codes": 0,
+    "section_count": 1
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students taking the religion minor must enroll in REL 301 Introduction to the Study of Religion . In addition, they must complete four additional religion courses, at least three of which must be upper-division courses.",
+          "source_line": "Students taking the religion minor must enroll in REL 301 Introduction to the Study of Religion . In addition, they must complete four additional religion courses, at least three of which must be upper-division courses.",
+          "states_choice_rule": true
+        },
+        {
+          "text": "The total unit requirement for the minor is 20 units; 16 of those units must be upper-division.",
+          "source_line": "The total unit requirement for the minor is 20 units; 16 of those units must be upper-division."
+        },
+        {
+          "text": "Students who wish to focus their minor in Jewish studies must minor in Judaic Studies.",
+          "source_line": "Students who wish to focus their minor in Jewish studies must minor in Judaic Studies."
+        }
+      ],
+      "choice": "Students taking the religion minor must enroll in REL 301 Introduction to the Study of Religion . In addition, they must complete four additional religion courses, at least three of which must be upper-division courses.",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

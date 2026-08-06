@@ -1,0 +1,400 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Astronautical Engineering (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32045",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32045&returnto=9396",
+    "source_text_file": "024_astronautical_engineering_bs.txt",
+    "source_content_sha256": "d6656fe29b104907433d9f511b35a3888826c860a17c235770bc4813968b6eb1",
+    "retrieved_at": "2026-07-31T00:49:50Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The requirement for this degree is a minimum of 132 units.",
+      "## University Requirements (32 units)\n\n---\n\n### Composition/Writing Requirements (8 units)\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4\n\n### General Education (24 units)\n\n---\n\nGE Electives to satisfy the GE-A, B, C and D requirements.",
+      "## Pre-Major Requirements (32 units)\n\n---\n\n### Mathematics Requirements (16 units)\n\n---\n\n- MATH 125g Calculus I Units: 4\n-\n- MATH 126g Calculus II Units: 4 or\n- MATH 127 Enhanced Calculus II Units: 4 or\n- MATH 129 Calculus II for Engineers and Scientists Units: 4\n-\n- MATH 226g Calculus III Units: 4 or\n- MATH 227 Enhanced Calculus III Units: 4 or\n- MATH 229 Calculus III for Engineers and Scientists Units: 4\n-\n- MATH 245 Mathematics of Physics and Engineering I Units: 4\n\n### Physics Requirements (12 units)\n\n---\n\n- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 or\n- PHYS 161Lg Advanced Principles of Physics I Units: 4\n-\n- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4 or\n- PHYS 162L Advanced Principles of Physics II Units: 4\n-\n- PHYS 153L Fundamentals of Physics III: Optics, Thermo, Modern Physics Units: 4 or\n- PHYS 163L Advanced Principles of Physics III Units: 4\n\n### Chemistry Requirement (4 units)\n\n---\n\n- CHEM 105aLg General Chemistry Units: 4 or\n- CHEM 115aLg Advanced General Chemistry Units: 4 or\n- MASC 110L Materials Science Units: 4\n\n## Major Requirements (68 units)\n\n---\n\n### ASTE (24 units)\n\n---\n\n- ASTE 101L Introduction to Astronautics Units: 4\n- ASTE 280 Foundations of Astronautical Engineering Units: 4\n- ASTE 305 Astronautical Gas Dynamics Units: 4\n- ASTE 331 Spacecraft Systems Engineering Units: 4\n- ASTE 421x Mission Systems Design Units: 3, 4\n- ASTE 475 Rocket Propulsion Units: 2, 4\n\n### AME (36 units)\n\n---\n\n- AME 201 Statics Units: 4.",
+      "0\n- AME 204 Mechanics of Materials and Structures Units: 4\n- AME 208 Computational Methods in Engineering Units: 4\n- AME 301 Dynamics Units: 4\n- AME 308 Computer-Aided Engineering Units: 4\n- AME 310 Engineering Thermodynamics I Units: 4\n- AME 341aL Mechoptronics Laboratory Units: 4\n- AME 341bL Mechoptronics Laboratory Units: 4\n- AME 441aL Senior Projects Laboratory Units: 4\n\n### ENGR (2 units)\n\n---\n\n- ENGR 102 Viterbi First-Year Academy Units: 2\n\n### TAC (2 units)\n\n---\n\n- TAC 168 Introduction to MATLAB Units: 2\n\n### Technical Electives (4 units)\n\n---\n\nTechnical electives consist of (1) any upper division course in engineering except CE 404, CE 412 and ISE 440, or (2) an upper division course in chemistry, physics or mathematics and MATH 225.",
+      "No more than 3 units of 490 course work can be used to satisfy the technical elective requirement."
+    ],
+    "course_entry_count": 36,
+    "distinct_course_codes": 36,
+    "section_count": 15
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Science in Astronautical Engineering prepares students for engineering careers in the space industry, for research and development in industry and government centers and laboratories, and for graduate study. The program combines a core in the fundamentals of engineering, specialized work in astronautics and space technology, and technical electives to broaden and/or deepen the course work.",
+          "source_line": "The Bachelor of Science in Astronautical Engineering prepares students for engineering careers in the space industry, for research and development in industry and government centers and laboratories, and for graduate study. The program combines a core in the fundamentals of engineering, specialized work in astronautics and space technology, and technical electives to broaden and/or deepen the course work."
+        },
+        {
+          "text": "The requirement for this degree is a minimum of 132 units. A cumulative grade point average of C (2.0) is required in all upper-division courses applied toward the major, regardless of the department in which the courses are taken. See also the common requirements for undergraduate degrees section.",
+          "source_line": "The requirement for this degree is a minimum of 132 units. A cumulative grade point average of C (2.0) is required in all upper-division courses applied toward the major, regardless of the department in which the courses are taken. See also the common requirements for undergraduate degrees section."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "University Requirements (32 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Composition/Writing Requirements (8 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education (24 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE Electives to satisfy the GE-A, B, C and D requirements.",
+          "source_line": "GE Electives to satisfy the GE-A, B, C and D requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Pre-Major Requirements (32 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Mathematics Requirements (16 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II  or",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4 or"
+        },
+        {
+          "code": "MATH 127",
+          "title": "Enhanced Calculus II  or",
+          "units": 4.0,
+          "source_line": "- MATH 127 Enhanced Calculus II Units: 4 or"
+        },
+        {
+          "code": "MATH 129",
+          "title": "Calculus II for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 129 Calculus II for Engineers and Scientists Units: 4"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III  or",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4 or"
+        },
+        {
+          "code": "MATH 227",
+          "title": "Enhanced Calculus III  or",
+          "units": 4.0,
+          "source_line": "- MATH 227 Enhanced Calculus III Units: 4 or"
+        },
+        {
+          "code": "MATH 229",
+          "title": "Calculus III for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 229 Calculus III for Engineers and Scientists Units: 4"
+        },
+        {
+          "code": "MATH 245",
+          "title": "Mathematics of Physics and Engineering I",
+          "units": 4.0,
+          "source_line": "- MATH 245 Mathematics of Physics and Engineering I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Physics Requirements (12 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves  or",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 or"
+        },
+        {
+          "code": "PHYS 161Lg",
+          "title": "Advanced Principles of Physics I",
+          "units": 4.0,
+          "source_line": "- PHYS 161Lg Advanced Principles of Physics I Units: 4"
+        },
+        {
+          "code": "PHYS 152L",
+          "title": "Fundamentals of Physics II: Electricity and Magnetism  or",
+          "units": 4.0,
+          "source_line": "- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4 or"
+        },
+        {
+          "code": "PHYS 162L",
+          "title": "Advanced Principles of Physics II",
+          "units": 4.0,
+          "source_line": "- PHYS 162L Advanced Principles of Physics II Units: 4"
+        },
+        {
+          "code": "PHYS 153L",
+          "title": "Fundamentals of Physics III: Optics, Thermo, Modern Physics  or",
+          "units": 4.0,
+          "source_line": "- PHYS 153L Fundamentals of Physics III: Optics, Thermo, Modern Physics Units: 4 or"
+        },
+        {
+          "code": "PHYS 163L",
+          "title": "Advanced Principles of Physics III",
+          "units": 4.0,
+          "source_line": "- PHYS 163L Advanced Principles of Physics III Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Chemistry Requirement (4 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CHEM 105aLg",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105aLg General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 115aLg",
+          "title": "Advanced General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 115aLg Advanced General Chemistry Units: 4 or"
+        },
+        {
+          "code": "MASC 110L",
+          "title": "Materials Science",
+          "units": 4.0,
+          "source_line": "- MASC 110L Materials Science Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Major Requirements (68 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "ASTE (24 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ASTE 101L",
+          "title": "Introduction to Astronautics",
+          "units": 4.0,
+          "source_line": "- ASTE 101L Introduction to Astronautics Units: 4"
+        },
+        {
+          "code": "ASTE 280",
+          "title": "Foundations of Astronautical Engineering",
+          "units": 4.0,
+          "source_line": "- ASTE 280 Foundations of Astronautical Engineering Units: 4"
+        },
+        {
+          "code": "ASTE 305",
+          "title": "Astronautical Gas Dynamics",
+          "units": 4.0,
+          "source_line": "- ASTE 305 Astronautical Gas Dynamics Units: 4"
+        },
+        {
+          "code": "ASTE 331",
+          "title": "Spacecraft Systems Engineering",
+          "units": 4.0,
+          "source_line": "- ASTE 331 Spacecraft Systems Engineering Units: 4"
+        },
+        {
+          "code": "ASTE 421x",
+          "title": "Mission Systems Design , 4",
+          "units": 3.0,
+          "source_line": "- ASTE 421x Mission Systems Design Units: 3, 4"
+        },
+        {
+          "code": "ASTE 475",
+          "title": "Rocket Propulsion , 4",
+          "units": 2.0,
+          "source_line": "- ASTE 475 Rocket Propulsion Units: 2, 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "AME (36 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AME 201",
+          "title": "Statics",
+          "units": 4.0,
+          "source_line": "- AME 201 Statics Units: 4.0"
+        },
+        {
+          "code": "AME 204",
+          "title": "Mechanics of Materials and Structures",
+          "units": 4.0,
+          "source_line": "- AME 204 Mechanics of Materials and Structures Units: 4"
+        },
+        {
+          "code": "AME 208",
+          "title": "Computational Methods in Engineering",
+          "units": 4.0,
+          "source_line": "- AME 208 Computational Methods in Engineering Units: 4"
+        },
+        {
+          "code": "AME 301",
+          "title": "Dynamics",
+          "units": 4.0,
+          "source_line": "- AME 301 Dynamics Units: 4"
+        },
+        {
+          "code": "AME 308",
+          "title": "Computer-Aided Engineering",
+          "units": 4.0,
+          "source_line": "- AME 308 Computer-Aided Engineering Units: 4"
+        },
+        {
+          "code": "AME 310",
+          "title": "Engineering Thermodynamics I",
+          "units": 4.0,
+          "source_line": "- AME 310 Engineering Thermodynamics I Units: 4"
+        },
+        {
+          "code": "AME 341aL",
+          "title": "Mechoptronics Laboratory",
+          "units": 4.0,
+          "source_line": "- AME 341aL Mechoptronics Laboratory Units: 4"
+        },
+        {
+          "code": "AME 341bL",
+          "title": "Mechoptronics Laboratory",
+          "units": 4.0,
+          "source_line": "- AME 341bL Mechoptronics Laboratory Units: 4"
+        },
+        {
+          "code": "AME 441aL",
+          "title": "Senior Projects Laboratory",
+          "units": 4.0,
+          "source_line": "- AME 441aL Senior Projects Laboratory Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "ENGR (2 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ENGR 102",
+          "title": "Viterbi First-Year Academy",
+          "units": 2.0,
+          "source_line": "- ENGR 102 Viterbi First-Year Academy Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "TAC (2 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "TAC 168",
+          "title": "Introduction to MATLAB",
+          "units": 2.0,
+          "source_line": "- TAC 168 Introduction to MATLAB Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Technical Electives (4 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Technical electives consist of (1) any upper division course in engineering except CE 404, CE 412 and ISE 440, or (2) an upper division course in chemistry, physics or mathematics and MATH 225. No more than 3 units of 490 course work can be used to satisfy the technical elective requirement.",
+          "source_line": "Technical electives consist of (1) any upper division course in engineering except CE 404, CE 412 and ISE 440, or (2) an upper division course in chemistry, physics or mathematics and MATH 225. No more than 3 units of 490 course work can be used to satisfy the technical elective requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total minimum units: 132",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "​​​​​​​",
+          "source_line": "​​​​​​​"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,131 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Petroleum Engineering Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32068",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32068&returnto=9396",
+    "source_text_file": "414_petroleum_engineering_minor.txt",
+    "source_content_sha256": "b184a988db2e8aea0a34e74a99e4ef84935b4c2b257709ab67dbf28305d81a6a",
+    "retrieved_at": "2026-07-31T01:11:54Z"
+  },
+  "totals": {
+    "stated_total_units": 16.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [],
+    "course_entry_count": 11,
+    "distinct_course_codes": 11,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minor in petroleum engineering consisting of 16 required units is available to undergraduate majors in various fields of engineering and applied science. Besides preparing for graduate study in petroleum engineering, the program will prepare students for careers in areas of national need such as the exploration, recovery and production of subterranean resources, and the underground disposal of hazardous wastes.",
+          "source_line": "A minor in petroleum engineering consisting of 16 required units is available to undergraduate majors in various fields of engineering and applied science. Besides preparing for graduate study in petroleum engineering, the program will prepare students for careers in areas of national need such as the exploration, recovery and production of subterranean resources, and the underground disposal of hazardous wastes."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Prerequisite courses:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4"
+        },
+        {
+          "code": "MATH 245",
+          "title": "Mathematics of Physics and Engineering I",
+          "units": 4.0,
+          "source_line": "- MATH 245 Mathematics of Physics and Engineering I Units: 4"
+        },
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4"
+        },
+        {
+          "code": "CHEM 105aLg",
+          "title": "General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 105aLg General Chemistry Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PTE 461",
+          "title": "Formation Data Sensing with Well Logs",
+          "units": 4.0,
+          "source_line": "- PTE 461 Formation Data Sensing with Well Logs Units: 4"
+        },
+        {
+          "code": "PTE 462",
+          "title": "Economic, Risk and Formation Productivity Analysis",
+          "units": 4.0,
+          "source_line": "- PTE 462 Economic, Risk and Formation Productivity Analysis Units: 4"
+        },
+        {
+          "code": "PTE 463L",
+          "title": "Introduction to Transport Processes in Porous Media",
+          "units": 4.0,
+          "source_line": "- PTE 463L Introduction to Transport Processes in Porous Media Units: 4"
+        },
+        {
+          "code": "PTE 464L",
+          "title": "Modeling and Simulation of Subsurface Flow Systems",
+          "units": 4.0,
+          "source_line": "- PTE 464L Modeling and Simulation of Subsurface Flow Systems Units: 4"
+        },
+        {
+          "code": "PTE 465L",
+          "title": "Drilling Technology and Subsurface Methods",
+          "units": 3.0,
+          "source_line": "- PTE 465L Drilling Technology and Subsurface Methods Units: 3"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 16",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 16.0
+    }
+  ],
+  "parse_warnings": []
+}

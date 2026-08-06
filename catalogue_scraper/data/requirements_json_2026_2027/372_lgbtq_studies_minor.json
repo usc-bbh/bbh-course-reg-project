@@ -1,0 +1,165 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "LGBTQ Studies Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31816",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31816&returnto=9396",
+    "source_text_file": "372_lgbtq_studies_minor.txt",
+    "source_content_sha256": "ab4af4bbba0dd7a224565e739c6d25b2599f7e34cf8be261601c7308e4c06950",
+    "retrieved_at": "2026-07-31T01:10:19Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "Twenty units of course work are required for completion of the LGBTQ Studies minor: one course selected from SWMS 210gmw , SWMS 212gp , SWMS 215gw , SWMS 221g ; required SWMS 306 ; and 12 units of upper-division electives.",
+      "## Required Course – Lower Division (4 Units)\n\n---\n\nChoose one:\n\n- SWMS 210gmw Social Analysis of Gender Units: 4\n- SWMS 212gp Introduction to Gender and Sexuality: American Perspectives Units: 4\n- SWMS 215gw Introduction to Gender and Sexuality: International Perspectives Units: 4\n- SWMS 221g Introduction to Queer Theory Units: 4\n\n## Required Course – Upper Division (4 Units)\n\n---\n\n- SWMS 306 Contemporary Issues in LGBTQ Studies Units: 4\n\n## Upper-Division Electives (12 Units)\n\n---\n\nChoose three:\n\n- ENGL 344gm Sexual/Textual Diversity Units: 4\n- ITAL 350g Gender and Sexuality in Renaissance Italy Units: 4\n- SWMS 308 Advanced Gender Theory Units: 4\n- SWMS 310 Gender and Social Justice Units: 4\n- SWMS 311 Gender and Sexuality Studies: Internship Units: 2, 4, 8\n- SWMS 355 Transgender Studies Units: 4\n- SWMS 358 U."
+    ],
+    "course_entry_count": 14,
+    "distinct_course_codes": 14,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The LGBTQ Studies minor focuses on how sexuality and sexual orientation shape gender identities, roles and status in societies past and present. Twenty units of course work are required for completion of the LGBTQ Studies minor: one course selected from SWMS 210gmw , SWMS 212gp , SWMS 215gw , SWMS 221g ; required SWMS 306 ; and 12 units of upper-division electives.",
+          "source_line": "The LGBTQ Studies minor focuses on how sexuality and sexual orientation shape gender identities, roles and status in societies past and present. Twenty units of course work are required for completion of the LGBTQ Studies minor: one course selected from SWMS 210gmw , SWMS 212gp , SWMS 215gw , SWMS 221g ; required SWMS 306 ; and 12 units of upper-division electives."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Course – Lower Division (4 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "SWMS 210gmw",
+          "title": "Social Analysis of Gender",
+          "units": 4.0,
+          "source_line": "- SWMS 210gmw Social Analysis of Gender Units: 4"
+        },
+        {
+          "code": "SWMS 212gp",
+          "title": "Introduction to Gender and Sexuality: American Perspectives",
+          "units": 4.0,
+          "source_line": "- SWMS 212gp Introduction to Gender and Sexuality: American Perspectives Units: 4"
+        },
+        {
+          "code": "SWMS 215gw",
+          "title": "Introduction to Gender and Sexuality: International Perspectives",
+          "units": 4.0,
+          "source_line": "- SWMS 215gw Introduction to Gender and Sexuality: International Perspectives Units: 4"
+        },
+        {
+          "code": "SWMS 221g",
+          "title": "Introduction to Queer Theory",
+          "units": 4.0,
+          "source_line": "- SWMS 221g Introduction to Queer Theory Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one:",
+          "source_line": "Choose one:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one:",
+      "total_units": null
+    },
+    {
+      "title": "Required Course – Upper Division (4 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "SWMS 306",
+          "title": "Contemporary Issues in LGBTQ Studies",
+          "units": 4.0,
+          "source_line": "- SWMS 306 Contemporary Issues in LGBTQ Studies Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Electives (12 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ENGL 344gm",
+          "title": "Sexual/Textual Diversity",
+          "units": 4.0,
+          "source_line": "- ENGL 344gm Sexual/Textual Diversity Units: 4"
+        },
+        {
+          "code": "ITAL 350g",
+          "title": "Gender and Sexuality in Renaissance Italy",
+          "units": 4.0,
+          "source_line": "- ITAL 350g Gender and Sexuality in Renaissance Italy Units: 4"
+        },
+        {
+          "code": "SWMS 308",
+          "title": "Advanced Gender Theory",
+          "units": 4.0,
+          "source_line": "- SWMS 308 Advanced Gender Theory Units: 4"
+        },
+        {
+          "code": "SWMS 310",
+          "title": "Gender and Social Justice",
+          "units": 4.0,
+          "source_line": "- SWMS 310 Gender and Social Justice Units: 4"
+        },
+        {
+          "code": "SWMS 311",
+          "title": "Gender and Sexuality Studies: Internship , 4, 8",
+          "units": 2.0,
+          "source_line": "- SWMS 311 Gender and Sexuality Studies: Internship Units: 2, 4, 8"
+        },
+        {
+          "code": "SWMS 355",
+          "title": "Transgender Studies",
+          "units": 4.0,
+          "source_line": "- SWMS 355 Transgender Studies Units: 4"
+        },
+        {
+          "code": "SWMS 358",
+          "title": "U.S. Gay and Lesbian History",
+          "units": 4.0,
+          "source_line": "- SWMS 358 U.S. Gay and Lesbian History Units: 4"
+        },
+        {
+          "code": "SWMS 385m",
+          "title": "Men and Masculinity",
+          "units": 4.0,
+          "source_line": "- SWMS 385m Men and Masculinity Units: 4"
+        },
+        {
+          "code": "SWMS 425",
+          "title": "Queer Los Angeles",
+          "units": 4.0,
+          "source_line": "- SWMS 425 Queer Los Angeles Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose three:",
+          "source_line": "Choose three:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose three:",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

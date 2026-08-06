@@ -1,0 +1,227 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Human Security and Geospatial Intelligence Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32459",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32459&returnto=9396",
+    "source_text_file": "339_human_security_and_geospatial_intelligence_minor.txt",
+    "source_content_sha256": "00c24eb1baaf7bcaa26e9b56d7a0df348cb51d1b4fe9511354e6d90bacbf0211",
+    "retrieved_at": "2026-07-31T01:07:19Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The minor requires at least 20 units."
+    ],
+    "course_entry_count": 24,
+    "distinct_course_codes": 24,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Allen Hancock Foundation Building B55",
+          "source_line": "Allen Hancock Foundation Building B55"
+        },
+        {
+          "text": "(213) 740-5910",
+          "source_line": "(213) 740-5910"
+        },
+        {
+          "text": "FAX: (213) 740-9687",
+          "source_line": "FAX: (213) 740-9687"
+        },
+        {
+          "text": "Email: spatialsciences@dornsife.usc.edu",
+          "source_line": "Email: spatialsciences@dornsife.usc.edu"
+        },
+        {
+          "text": "Director: John P. Wilson, PhD",
+          "source_line": "Director: John P. Wilson, PhD"
+        },
+        {
+          "text": "The interdisciplinary minor in Human Security and Geospatial Intelligence aims to educate future leaders in location-based analytics to gather, interpret, and implement actionable intelligence to promote human security and serves to connect many collaborative and interrelated disciplines to provide a framework for students interested in learning how to develop and deliver analytical and spatial solutions.",
+          "source_line": "The interdisciplinary minor in Human Security and Geospatial Intelligence aims to educate future leaders in location-based analytics to gather, interpret, and implement actionable intelligence to promote human security and serves to connect many collaborative and interrelated disciplines to provide a framework for students interested in learning how to develop and deliver analytical and spatial solutions."
+        },
+        {
+          "text": "The minor requires at least 20 units.",
+          "source_line": "The minor requires at least 20 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division Elective (4 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ENST 100g",
+          "title": "Introduction to Environmental Studies",
+          "units": 4.0,
+          "source_line": "- ENST 100g Introduction to Environmental Studies Units: 4"
+        },
+        {
+          "code": "ENST 150gx",
+          "title": "Environmental Issues in Society",
+          "units": 4.0,
+          "source_line": "- ENST 150gx Environmental Issues in Society Units: 4"
+        },
+        {
+          "code": "ENST 250",
+          "title": "Climate Change: Science, History and Solutions",
+          "units": 4.0,
+          "source_line": "- ENST 250 Climate Change: Science, History and Solutions Units: 4"
+        },
+        {
+          "code": "GEOL 108Lg",
+          "title": "Natural Disasters and Their Global Impact",
+          "units": 4.0,
+          "source_line": "- GEOL 108Lg Natural Disasters and Their Global Impact Units: 4"
+        },
+        {
+          "code": "IR 101gxw",
+          "title": "International Relations",
+          "units": 4.0,
+          "source_line": "- IR 101gxw International Relations Units: 4"
+        },
+        {
+          "code": "IR 150",
+          "title": "Environmental Issues in Society",
+          "units": 4.0,
+          "source_line": "- IR 150 Environmental Issues in Society Units: 4"
+        },
+        {
+          "code": "IR 210gw",
+          "title": "International Relations: Introductory Analysis",
+          "units": 4.0,
+          "source_line": "- IR 210gw International Relations: Introductory Analysis Units: 4"
+        },
+        {
+          "code": "IR 211g",
+          "title": "International Relations: Approaches to Research",
+          "units": 4.0,
+          "source_line": "- IR 211g International Relations: Approaches to Research Units: 4"
+        },
+        {
+          "code": "NSC 201",
+          "title": "Leadership and Management",
+          "units": 3.0,
+          "source_line": "- NSC 201 Leadership and Management Units: 3"
+        },
+        {
+          "code": "POSC 100g",
+          "title": "Theory and Practice of American Democracy",
+          "units": 4.0,
+          "source_line": "- POSC 100g Theory and Practice of American Democracy Units: 4"
+        },
+        {
+          "code": "POSC 110g",
+          "title": "Ideology and Political Conflict",
+          "units": 4.0,
+          "source_line": "- POSC 110g Ideology and Political Conflict Units: 4"
+        },
+        {
+          "code": "POSC 120g",
+          "title": "Comparative Politics",
+          "units": 4.0,
+          "source_line": "- POSC 120g Comparative Politics Units: 4"
+        },
+        {
+          "code": "POSC 130g",
+          "title": "Law, Politics and Public Policy",
+          "units": 4.0,
+          "source_line": "- POSC 130g Law, Politics and Public Policy Units: 4"
+        },
+        {
+          "code": "POSC 201w",
+          "title": "Law and Politics",
+          "units": 4.0,
+          "source_line": "- POSC 201w Law and Politics Units: 4"
+        },
+        {
+          "code": "POSC 248gw",
+          "title": "Human Rights",
+          "units": 4.0,
+          "source_line": "- POSC 248gw Human Rights Units: 4"
+        },
+        {
+          "code": "POSC 265gw",
+          "title": "Environmental Challenges",
+          "units": 4.0,
+          "source_line": "- POSC 265gw Environmental Challenges Units: 4"
+        },
+        {
+          "code": "SSCI 135g",
+          "title": "Maps in the Digital World",
+          "units": 4.0,
+          "source_line": "- SSCI 135g Maps in the Digital World Units: 4"
+        },
+        {
+          "code": "SSCI 165Lgw",
+          "title": "Sustainability Science in the City",
+          "units": 4.0,
+          "source_line": "- SSCI 165Lgw Sustainability Science in the City Units: 4"
+        },
+        {
+          "code": "SSCI 214g",
+          "title": "Human Populations and Natural Hazards",
+          "units": 4.0,
+          "source_line": "- SSCI 214g Human Populations and Natural Hazards Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Core (16 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "IR 304",
+          "title": "National Intelligence and the Shaping of Policy  or",
+          "units": 4.0,
+          "source_line": "- IR 304 National Intelligence and the Shaping of Policy Units: 4 or"
+        },
+        {
+          "code": "IR 319",
+          "title": "Human Security and Humanitarian Intervention",
+          "units": 4.0,
+          "source_line": "- IR 319 Human Security and Humanitarian Intervention Units: 4"
+        },
+        {
+          "code": "SSCI 202",
+          "title": "Principles of Geospatial Intelligence",
+          "units": 4.0,
+          "source_line": "- SSCI 202 Principles of Geospatial Intelligence Units: 4"
+        },
+        {
+          "code": "SSCI 301L",
+          "title": "Maps and Spatial Reasoning",
+          "units": 4.0,
+          "source_line": "- SSCI 301L Maps and Spatial Reasoning Units: 4"
+        },
+        {
+          "code": "SSCI 420",
+          "title": "Human Security and Geospatial Intelligence Practicum",
+          "units": 4.0,
+          "source_line": "- SSCI 420 Human Security and Geospatial Intelligence Practicum Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

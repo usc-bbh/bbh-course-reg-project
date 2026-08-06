@@ -1,0 +1,275 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Russian Area Studies Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31926",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31926&returnto=9396",
+    "source_text_file": "439_russian_area_studies_minor.txt",
+    "source_content_sha256": "52162b0a7a4a078916d0cd8e1741e21ae57540c7f4fef2b35f4ff4b72b8b3af6",
+    "retrieved_at": "2026-07-31T01:12:52Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 32,
+    "distinct_course_codes": 32,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "Lower-division Requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "RUSS 120",
+          "title": "Beginning Russian I",
+          "units": 4.0,
+          "source_line": "- RUSS 120 Beginning Russian I Units: 4"
+        },
+        {
+          "code": "RUSS 140",
+          "title": "Russian Language and Culture in the Post-Soviet Space",
+          "units": 2.0,
+          "source_line": "- RUSS 140 Russian Language and Culture in the Post-Soviet Space Units: 2"
+        },
+        {
+          "code": "RUSS 150",
+          "title": "Beginning Russian II",
+          "units": 4.0,
+          "source_line": "- RUSS 150 Beginning Russian II Units: 4"
+        },
+        {
+          "code": "RUSS 220",
+          "title": "Intermediate Russian I",
+          "units": 4.0,
+          "source_line": "- RUSS 220 Intermediate Russian I Units: 4"
+        },
+        {
+          "code": "RUSS 250",
+          "title": "Intermediate Russian II",
+          "units": 4.0,
+          "source_line": "- RUSS 250 Intermediate Russian II Units: 4"
+        },
+        {
+          "code": "RUSS 255",
+          "title": "Business Russian",
+          "units": 4.0,
+          "source_line": "- RUSS 255 Business Russian Units: 4"
+        },
+        {
+          "code": "SLL 110g",
+          "title": "Russia in the Modern Era",
+          "units": 4.0,
+          "source_line": "- SLL 110g Russia in the Modern Era Units: 4"
+        },
+        {
+          "code": "SLL 199",
+          "title": "Chess and Critical Thinking",
+          "units": 2.0,
+          "source_line": "- SLL 199 Chess and Critical Thinking Units: 2"
+        },
+        {
+          "code": "SLL 210",
+          "title": "Masterpieces of the Russian Short Story",
+          "units": 4.0,
+          "source_line": "- SLL 210 Masterpieces of the Russian Short Story Units: 4"
+        },
+        {
+          "code": "SLL 299",
+          "title": "Chess — Advanced Thinking Techniques",
+          "units": 2.0,
+          "source_line": "- SLL 299 Chess — Advanced Thinking Techniques Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "One lower-division course from the courses detailed below or selected in consultation with an adviser:",
+          "source_line": "One lower-division course from the courses detailed below or selected in consultation with an adviser:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-division Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "The core course",
+      "level": 3,
+      "courses": [
+        {
+          "code": "SLL 330gp",
+          "title": "Russian Thought and Civilization",
+          "units": 4.0,
+          "source_line": "- SLL 330gp Russian Thought and Civilization Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Students may take 4 units outside the Slavic department, from among the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "HIST 415",
+          "title": "Medieval and Early Modern Russia , 2 years",
+          "units": 4.0,
+          "source_line": "- HIST 415 Medieval and Early Modern Russia Units: 4, 2 years"
+        },
+        {
+          "code": "HIST 416",
+          "title": "History of Imperial Russia: 1689–1917",
+          "units": 4.0,
+          "source_line": "- HIST 416 History of Imperial Russia: 1689–1917 Units: 4"
+        },
+        {
+          "code": "HIST 417",
+          "title": "History of Soviet Russia: 1917–1991 , 2 years",
+          "units": 4.0,
+          "source_line": "- HIST 417 History of Soviet Russia: 1917–1991 Units: 4, 2 years"
+        },
+        {
+          "code": "HIST 424",
+          "title": "Family, Work, and Leisure in Russian History",
+          "units": 4.0,
+          "source_line": "- HIST 424 Family, Work, and Leisure in Russian History Units: 4"
+        },
+        {
+          "code": "IR 345",
+          "title": "Russian and Post-Soviet Foreign Policy",
+          "units": 4.0,
+          "source_line": "- IR 345 Russian and Post-Soviet Foreign Policy Units: 4"
+        },
+        {
+          "code": "IR 346",
+          "title": "Communism and Post-Communism: Eastern Europe and the Balkans",
+          "units": 4.0,
+          "source_line": "- IR 346 Communism and Post-Communism: Eastern Europe and the Balkans Units: 4"
+        },
+        {
+          "code": "IR 439",
+          "title": "Political Economy of Russia and Eurasia",
+          "units": 4.0,
+          "source_line": "- IR 439 Political Economy of Russia and Eurasia Units: 4"
+        },
+        {
+          "code": "MDA 333",
+          "title": "Colloquium in Armenian Studies: Social and Cultural Issues",
+          "units": 2.0,
+          "source_line": "- MDA 333 Colloquium in Armenian Studies: Social and Cultural Issues Units: 2"
+        },
+        {
+          "code": "HIST 323",
+          "title": "The Holocaust in 20th Century Europe",
+          "units": 4.0,
+          "source_line": "- HIST 323 The Holocaust in 20th Century Europe Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "And a minimum of two electives, to be chosen from among: any upper-division SLL/RUSS course in Russian or Eastern European literature, art or culture",
+      "level": 3,
+      "courses": [
+        {
+          "code": "SLL 300",
+          "title": "The Russian Novel",
+          "units": 4.0,
+          "source_line": "- SLL 300 The Russian Novel Units: 4"
+        },
+        {
+          "code": "SLL 301",
+          "title": "Russian Literary Avant-Garde",
+          "units": 4.0,
+          "source_line": "- SLL 301 Russian Literary Avant-Garde Units: 4"
+        },
+        {
+          "code": "SLL 302g",
+          "title": "Modern Russian Literature",
+          "units": 4.0,
+          "source_line": "- SLL 302g Modern Russian Literature Units: 4"
+        },
+        {
+          "code": "SLL 303",
+          "title": "Contemporary Russian Literature",
+          "units": 4.0,
+          "source_line": "- SLL 303 Contemporary Russian Literature Units: 4"
+        },
+        {
+          "code": "SLL 310gw",
+          "title": "The Eastern European Jewish Experience: Literature and Film",
+          "units": 4.0,
+          "source_line": "- SLL 310gw The Eastern European Jewish Experience: Literature and Film Units: 4"
+        },
+        {
+          "code": "SLL 321",
+          "title": "Cultures of Russia",
+          "units": 4.0,
+          "source_line": "- SLL 321 Cultures of Russia Units: 4"
+        },
+        {
+          "code": "SLL 344g",
+          "title": "Tolstoy: Writer and Moralist",
+          "units": 4.0,
+          "source_line": "- SLL 344g Tolstoy: Writer and Moralist Units: 4"
+        },
+        {
+          "code": "SLL 345g",
+          "title": "Literature and Philosophy: Dostoevsky",
+          "units": 4.0,
+          "source_line": "- SLL 345g Literature and Philosophy: Dostoevsky Units: 4"
+        },
+        {
+          "code": "SLL 346",
+          "title": "Russian Drama and the Western Tradition",
+          "units": 4.0,
+          "source_line": "- SLL 346 Russian Drama and the Western Tradition Units: 4"
+        },
+        {
+          "code": "SLL 348g",
+          "title": "The Novels of Vladimir Nabokov",
+          "units": 4.0,
+          "source_line": "- SLL 348g The Novels of Vladimir Nabokov Units: 4"
+        },
+        {
+          "code": "SLL 378",
+          "title": "Modern Russian Art",
+          "units": 4.0,
+          "source_line": "- SLL 378 Modern Russian Art Units: 4"
+        },
+        {
+          "code": "SLL 397p",
+          "title": "Literature, Ideology and Film in Eastern European History",
+          "units": 4.0,
+          "source_line": "- SLL 397p Literature, Ideology and Film in Eastern European History Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Minimum units required: 20",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

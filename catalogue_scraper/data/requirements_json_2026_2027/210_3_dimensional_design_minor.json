@@ -1,0 +1,170 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "3-Dimensional Design Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31582",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31582&returnto=9396",
+    "source_text_file": "210_3_dimensional_design_minor.txt",
+    "source_content_sha256": "07e51ce2d8f65147185190995862adbcf0efdbe3ed761682b02a277767f61ea3",
+    "retrieved_at": "2026-07-31T00:57:58Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 16,
+    "distinct_course_codes": 16,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minor in 3-Dimensional Design offers USC students in all fields of studies the opportunity to gain knowledge and skills in 3-D thinking, imaging and production. Course work will focus on the process behind creating well-designed, expressive functional objects and spaces (both actual and virtual). The minor would be of particular interest to students wishing to further develop specializations such as package design, product design, and environmental design (way-finding, signage, display).",
+          "source_line": "A minor in 3-Dimensional Design offers USC students in all fields of studies the opportunity to gain knowledge and skills in 3-D thinking, imaging and production. Course work will focus on the process behind creating well-designed, expressive functional objects and spaces (both actual and virtual). The minor would be of particular interest to students wishing to further develop specializations such as package design, product design, and environmental design (way-finding, signage, display)."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required lower-division courses (10 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "DES 102",
+          "title": "Design Fundamentals",
+          "units": 4.0,
+          "source_line": "- DES 102 Design Fundamentals Units: 4"
+        },
+        {
+          "code": "DES 213",
+          "title": "Digital 3D Design",
+          "units": 2.0,
+          "source_line": "- DES 213 Digital 3D Design Units: 2"
+        },
+        {
+          "code": "DES 230",
+          "title": "3D Design: Materials and Tools",
+          "units": 4.0,
+          "source_line": "- DES 230 3D Design: Materials and Tools Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-division courses (12 units) chosen from the following:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ART 444",
+          "title": "Modeling and Mold Making",
+          "units": 2.0,
+          "source_line": "- ART 444 Modeling and Mold Making Units: 2"
+        },
+        {
+          "code": "DES 302",
+          "title": "Design III",
+          "units": 4.0,
+          "source_line": "- DES 302 Design III Units: 4"
+        },
+        {
+          "code": "DES 303",
+          "title": "Advanced Digital Design",
+          "units": 2.0,
+          "source_line": "- DES 303 Advanced Digital Design Units: 2"
+        },
+        {
+          "code": "DES 313",
+          "title": "Graphic Design in Fashion",
+          "units": 4.0,
+          "source_line": "- DES 313 Graphic Design in Fashion Units: 4"
+        },
+        {
+          "code": "DES 323g",
+          "title": "Design Theory",
+          "units": 4.0,
+          "source_line": "- DES 323g Design Theory Units: 4"
+        },
+        {
+          "code": "DES 330",
+          "title": "3D Design: Objects and Space",
+          "units": 4.0,
+          "source_line": "- DES 330 3D Design: Objects and Space Units: 4"
+        },
+        {
+          "code": "DES 332a",
+          "title": "Typography",
+          "units": 2.0,
+          "source_line": "- DES 332a Typography Units: 2"
+        },
+        {
+          "code": "DES 332b",
+          "title": "Typography",
+          "units": 2.0,
+          "source_line": "- DES 332b Typography Units: 2"
+        },
+        {
+          "code": "DES 402",
+          "title": "Advanced Design Projects",
+          "units": 4.0,
+          "source_line": "- DES 402 Advanced Design Projects Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Minimum Units: 22",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Optional lower-division course(s) chosen from the following:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ART 140",
+          "title": "Sculpture I",
+          "units": 4.0,
+          "source_line": "- ART 140 Sculpture I Units: 4"
+        },
+        {
+          "code": "DES 202",
+          "title": "Design II",
+          "units": 4.0,
+          "source_line": "- DES 202 Design II Units: 4"
+        },
+        {
+          "code": "DES 203",
+          "title": "Digital Design Fundamentals",
+          "units": 2.0,
+          "source_line": "- DES 203 Digital Design Fundamentals Units: 2"
+        },
+        {
+          "code": "TAC 215L",
+          "title": "Introduction to 3D Modeling, Animation and Visual Effects",
+          "units": 2.0,
+          "source_line": "- TAC 215L Introduction to 3D Modeling, Animation and Visual Effects Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

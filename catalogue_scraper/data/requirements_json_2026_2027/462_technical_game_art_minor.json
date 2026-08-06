@@ -1,0 +1,116 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Technical Game Art Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32724",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32724&returnto=9396",
+    "source_text_file": "462_technical_game_art_minor.txt",
+    "source_content_sha256": "4d1f708b17b99fd04d5ddc65ab39806553a9235690a56fdda656006ffbe44aaf",
+    "retrieved_at": "2026-07-31T01:14:05Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 8,
+    "distinct_course_codes": 8,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Technical Game Art minor is a unique 16-unit program, offered by the Information Technology Program that combines an engineering background with the production practice of character modeling, rigging and animation to prepare students for a professional career in the field of 3d games and cinematics. Focuses on creative orchestrations per project, user-friendly toolsets and production planning.",
+          "source_line": "The Technical Game Art minor is a unique 16-unit program, offered by the Information Technology Program that combines an engineering background with the production practice of character modeling, rigging and animation to prepare students for a professional career in the field of 3d games and cinematics. Focuses on creative orchestrations per project, user-friendly toolsets and production planning."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (14 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "TAC 215L",
+          "title": "Introduction to 3D Modeling, Animation and Visual Effects",
+          "units": 2.0,
+          "source_line": "- TAC 215L Introduction to 3D Modeling, Animation and Visual Effects Units: 2"
+        },
+        {
+          "code": "TAC 351",
+          "title": "3D Character Modeling for Games",
+          "units": 4.0,
+          "source_line": "- TAC 351 3D Character Modeling for Games Units: 4"
+        },
+        {
+          "code": "TAC 361",
+          "title": "Character Rigging for Games",
+          "units": 4.0,
+          "source_line": "- TAC 361 Character Rigging for Games Units: 4"
+        },
+        {
+          "code": "TAC 371",
+          "title": "Technical Character Animation for Games",
+          "units": 4.0,
+          "source_line": "- TAC 371 Technical Character Animation for Games Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete all of the following:",
+          "source_line": "Complete all of the following:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (2 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "TAC 115",
+          "title": "Programming in Python",
+          "units": 2.0,
+          "source_line": "- TAC 115 Programming in Python Units: 2"
+        },
+        {
+          "code": "TAC 116",
+          "title": "Accelerated Programming in Python",
+          "units": 2.0,
+          "source_line": "- TAC 116 Accelerated Programming in Python Units: 2"
+        },
+        {
+          "code": "CTAN 452",
+          "title": "Introduction to 3-D Computer Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 452 Introduction to 3-D Computer Animation Units: 2"
+        },
+        {
+          "code": "CTAN 462",
+          "title": "Visual Effects",
+          "units": 2.0,
+          "source_line": "- CTAN 462 Visual Effects Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete one of the following:",
+          "source_line": "Complete one of the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Complete one of the following:",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

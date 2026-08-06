@@ -1,0 +1,337 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Cinematic Arts Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31678",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31678&returnto=9396",
+    "source_text_file": "243_cinematic_arts_minor.txt",
+    "source_content_sha256": "27d98400134993227b7bcbcd69dfc62aeba14000440f55c60ef9726c87ff893b",
+    "retrieved_at": "2026-07-31T01:00:20Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "#### Course Requirements for the Minor\n\nA total of 20 units is required for the minor in cinematic arts, one 4-unit lower-division course and 16 upper-division units.",
+      "## Lower-division Requirement\n\n---\n\n- CTCS 190g Introduction to Cinema Units: 4 * or\n- CTCS 191 Introduction to Television and Video Units: 4\n\n### Note:\n\n---\n\n*Gateway course\n\n## Upper-division Requirement\n\n---\n\n### 8 units from the following:\n\n---\n\n- CTAN 432 The World of Visual Effects Units: 2\n- CTAN 451 History of Animation Units: 2\n- CTAN 452 Introduction to 3-D Computer Animation Units: 2\n- CTAN 462 Visual Effects Units: 2\n- CTCS 303 Japanese Anime Units: 2\n- CTCS 400 Documentary Film and Media Units: 4\n- CTCS 407 African American Cinema Units: 4\n- CTCS 411 Film, Television and Cultural Studies Units: 4\n- CTCS 412 Gender, Sexuality and Media Units: 4\n- CTCS 414 Latina/o Screen Cultures Units: 4\n- CTCS 464 Film and/or Television Genres Units: 4\n- CTCS 466 Theatrical Film Symposium Units: 4\n- CTCS 467 Television Symposium Units: 4\n- CTCS 469 Film and/or Television Style Analysis Units: 4\n- CTIN 482 Designing Social Games Units: 2\n- CTPR 327 Motion Picture Cinematography Units: 3\n- CTPR 335 Motion Picture Editing Units: 3\n- CTPR 385 Colloquium: Motion Picture Production Techniques Units: 4\n- CTPR 409 Trojan Vision, Live Television Production Units: 1, 2, 4\n- CTPR 460 Film Business Procedures and Distribution Units: 2 or 4\n- CTPR 461 Managing Television Stations and Internet Media Units: 2\n- CTPR 484 Comedy Television Production Units: 4\n- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4\n- CTWR 411 Television Script Analysis Units: 2\n- CTWR 416 Motion Picture Script Analysis Units: 2\n- CTWR 431 Screenwriters and Their Work Units: 2\n- CTWR 432 Television Writers and Their Work Units: 2\n- IML 420m New Media for Social Change Units: 4\n- IML 421 Designing and Writing for Transmedia Narratives Units: 4\n- IML 423 Remixing the Archive Units: 4\n- IML 455 Future Cinema Units: 4\n- IML 456 Nature, Design and Media Units: 2\n- IML 458 The Embedded Story: Designing Digital Landscapes and Languages Units: 2\n\n### Plus 8 additional upper-division units of Cinematic Arts electives\n\n---\n\n## Additional Requirements\n\n---\n\n#### Grade Point Average Requirement\n\nA minimum grade of C (2."
+    ],
+    "course_entry_count": 35,
+    "distinct_course_codes": 35,
+    "section_count": 9
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in cinematic arts combines an introduction to this exciting and influential field with a diversified set of classes in critical studies, production, screenwriting, the entertainment industry, animation and interactive media. The curriculum is purposely flexible; students may choose to sample different areas in their upper-division courses or emphasize a single primary interest, such as production.",
+          "source_line": "The minor in cinematic arts combines an introduction to this exciting and influential field with a diversified set of classes in critical studies, production, screenwriting, the entertainment industry, animation and interactive media. The curriculum is purposely flexible; students may choose to sample different areas in their upper-division courses or emphasize a single primary interest, such as production."
+        },
+        {
+          "text": "To be eligible for the cinematic arts minor, a student must be in good academic standing and have a declared major. To declare the cinematic arts minor a student must submit a Change of Major/Minor form to Cinematic Arts Office of Student Services, SCB 105.",
+          "source_line": "To be eligible for the cinematic arts minor, a student must be in good academic standing and have a declared major. To declare the cinematic arts minor a student must submit a Change of Major/Minor form to Cinematic Arts Office of Student Services, SCB 105."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Course Requirements for the Minor",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A total of 20 units is required for the minor in cinematic arts, one 4-unit lower-division course and 16 upper-division units.",
+          "source_line": "A total of 20 units is required for the minor in cinematic arts, one 4-unit lower-division course and 16 upper-division units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-division Requirement",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTCS 190g",
+          "title": "Introduction to Cinema  * or",
+          "units": 4.0,
+          "source_line": "- CTCS 190g Introduction to Cinema Units: 4 * or"
+        },
+        {
+          "code": "CTCS 191",
+          "title": "Introduction to Television and Video",
+          "units": 4.0,
+          "source_line": "- CTCS 191 Introduction to Television and Video Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Gateway course",
+          "source_line": "*Gateway course"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-division Requirement",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "8 units from the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTAN 432",
+          "title": "The World of Visual Effects",
+          "units": 2.0,
+          "source_line": "- CTAN 432 The World of Visual Effects Units: 2"
+        },
+        {
+          "code": "CTAN 451",
+          "title": "History of Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 451 History of Animation Units: 2"
+        },
+        {
+          "code": "CTAN 452",
+          "title": "Introduction to 3-D Computer Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 452 Introduction to 3-D Computer Animation Units: 2"
+        },
+        {
+          "code": "CTAN 462",
+          "title": "Visual Effects",
+          "units": 2.0,
+          "source_line": "- CTAN 462 Visual Effects Units: 2"
+        },
+        {
+          "code": "CTCS 303",
+          "title": "Japanese Anime",
+          "units": 2.0,
+          "source_line": "- CTCS 303 Japanese Anime Units: 2"
+        },
+        {
+          "code": "CTCS 400",
+          "title": "Documentary Film and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 400 Documentary Film and Media Units: 4"
+        },
+        {
+          "code": "CTCS 407",
+          "title": "African American Cinema",
+          "units": 4.0,
+          "source_line": "- CTCS 407 African American Cinema Units: 4"
+        },
+        {
+          "code": "CTCS 411",
+          "title": "Film, Television and Cultural Studies",
+          "units": 4.0,
+          "source_line": "- CTCS 411 Film, Television and Cultural Studies Units: 4"
+        },
+        {
+          "code": "CTCS 412",
+          "title": "Gender, Sexuality and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 412 Gender, Sexuality and Media Units: 4"
+        },
+        {
+          "code": "CTCS 414",
+          "title": "Latina/o Screen Cultures",
+          "units": 4.0,
+          "source_line": "- CTCS 414 Latina/o Screen Cultures Units: 4"
+        },
+        {
+          "code": "CTCS 464",
+          "title": "Film and/or Television Genres",
+          "units": 4.0,
+          "source_line": "- CTCS 464 Film and/or Television Genres Units: 4"
+        },
+        {
+          "code": "CTCS 466",
+          "title": "Theatrical Film Symposium",
+          "units": 4.0,
+          "source_line": "- CTCS 466 Theatrical Film Symposium Units: 4"
+        },
+        {
+          "code": "CTCS 467",
+          "title": "Television Symposium",
+          "units": 4.0,
+          "source_line": "- CTCS 467 Television Symposium Units: 4"
+        },
+        {
+          "code": "CTCS 469",
+          "title": "Film and/or Television Style Analysis",
+          "units": 4.0,
+          "source_line": "- CTCS 469 Film and/or Television Style Analysis Units: 4"
+        },
+        {
+          "code": "CTIN 482",
+          "title": "Designing Social Games",
+          "units": 2.0,
+          "source_line": "- CTIN 482 Designing Social Games Units: 2"
+        },
+        {
+          "code": "CTPR 327",
+          "title": "Motion Picture Cinematography",
+          "units": 3.0,
+          "source_line": "- CTPR 327 Motion Picture Cinematography Units: 3"
+        },
+        {
+          "code": "CTPR 335",
+          "title": "Motion Picture Editing",
+          "units": 3.0,
+          "source_line": "- CTPR 335 Motion Picture Editing Units: 3"
+        },
+        {
+          "code": "CTPR 385",
+          "title": "Colloquium: Motion Picture Production Techniques",
+          "units": 4.0,
+          "source_line": "- CTPR 385 Colloquium: Motion Picture Production Techniques Units: 4"
+        },
+        {
+          "code": "CTPR 409",
+          "title": "Trojan Vision, Live Television Production , 2, 4",
+          "units": 1.0,
+          "source_line": "- CTPR 409 Trojan Vision, Live Television Production Units: 1, 2, 4"
+        },
+        {
+          "code": "CTPR 460",
+          "title": "Film Business Procedures and Distribution  or 4",
+          "units": 2.0,
+          "source_line": "- CTPR 460 Film Business Procedures and Distribution Units: 2 or 4"
+        },
+        {
+          "code": "CTPR 461",
+          "title": "Managing Television Stations and Internet Media",
+          "units": 2.0,
+          "source_line": "- CTPR 461 Managing Television Stations and Internet Media Units: 2"
+        },
+        {
+          "code": "CTPR 484",
+          "title": "Comedy Television Production",
+          "units": 4.0,
+          "source_line": "- CTPR 484 Comedy Television Production Units: 4"
+        },
+        {
+          "code": "CTWR 409",
+          "title": "Fundamentals of Screenwriting: Character, Conflict and Story",
+          "units": 4.0,
+          "source_line": "- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4"
+        },
+        {
+          "code": "CTWR 411",
+          "title": "Television Script Analysis",
+          "units": 2.0,
+          "source_line": "- CTWR 411 Television Script Analysis Units: 2"
+        },
+        {
+          "code": "CTWR 416",
+          "title": "Motion Picture Script Analysis",
+          "units": 2.0,
+          "source_line": "- CTWR 416 Motion Picture Script Analysis Units: 2"
+        },
+        {
+          "code": "CTWR 431",
+          "title": "Screenwriters and Their Work",
+          "units": 2.0,
+          "source_line": "- CTWR 431 Screenwriters and Their Work Units: 2"
+        },
+        {
+          "code": "CTWR 432",
+          "title": "Television Writers and Their Work",
+          "units": 2.0,
+          "source_line": "- CTWR 432 Television Writers and Their Work Units: 2"
+        },
+        {
+          "code": "IML 420m",
+          "title": "New Media for Social Change",
+          "units": 4.0,
+          "source_line": "- IML 420m New Media for Social Change Units: 4"
+        },
+        {
+          "code": "IML 421",
+          "title": "Designing and Writing for Transmedia Narratives",
+          "units": 4.0,
+          "source_line": "- IML 421 Designing and Writing for Transmedia Narratives Units: 4"
+        },
+        {
+          "code": "IML 423",
+          "title": "Remixing the Archive",
+          "units": 4.0,
+          "source_line": "- IML 423 Remixing the Archive Units: 4"
+        },
+        {
+          "code": "IML 455",
+          "title": "Future Cinema",
+          "units": 4.0,
+          "source_line": "- IML 455 Future Cinema Units: 4"
+        },
+        {
+          "code": "IML 456",
+          "title": "Nature, Design and Media",
+          "units": 2.0,
+          "source_line": "- IML 456 Nature, Design and Media Units: 2"
+        },
+        {
+          "code": "IML 458",
+          "title": "The Embedded Story: Designing Digital Landscapes and Languages",
+          "units": 2.0,
+          "source_line": "- IML 458 The Embedded Story: Designing Digital Landscapes and Languages Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Plus 8 additional upper-division units of Cinematic Arts electives",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Grade Point Average Requirement",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.",
+          "source_line": "A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

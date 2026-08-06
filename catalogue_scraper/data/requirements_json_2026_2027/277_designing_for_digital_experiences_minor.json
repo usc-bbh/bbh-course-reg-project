@@ -1,0 +1,157 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Designing for Digital Experiences Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32661",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32661&returnto=9396",
+    "source_text_file": "277_designing_for_digital_experiences_minor.txt",
+    "source_content_sha256": "d4b38ae025c649587b337552e940fef7eedc47179f4ccb2deeaab786b50817f9",
+    "retrieved_at": "2026-07-31T01:01:35Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 13,
+    "distinct_course_codes": 13,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Designing for Digital Experiences minor provides students in all fields of study an opportunity to gain essential knowledge and skills in interaction design. Courses focus on the tools required to implement powerful interactive visual and touch experiences, as well as the conceptual and theoretical knowledge necessary to apply universal standards for human-centered design. The minor is of particular interest to students wishing to further develop highly sought-after specializations such as interaction design, data visualization, app design, social media marketing and digital art direction.",
+          "source_line": "The Designing for Digital Experiences minor provides students in all fields of study an opportunity to gain essential knowledge and skills in interaction design. Courses focus on the tools required to implement powerful interactive visual and touch experiences, as well as the conceptual and theoretical knowledge necessary to apply universal standards for human-centered design. The minor is of particular interest to students wishing to further develop highly sought-after specializations such as interaction design, data visualization, app design, social media marketing and digital art direction."
+        },
+        {
+          "text": "Additional electives, including in other schools at USC, will be considered through student advisement.",
+          "source_line": "Additional electives, including in other schools at USC, will be considered through student advisement."
+        },
+        {
+          "text": "Information on how to apply for the minor can be found at:",
+          "source_line": "Information on how to apply for the minor can be found at:"
+        },
+        {
+          "text": "iovine-young.usc.edu",
+          "source_line": "iovine-young.usc.edu"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (16 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ACAD 177",
+          "title": "Digital Toolbox: Design",
+          "units": 2.0,
+          "source_line": "- ACAD 177 Digital Toolbox: Design Units: 2"
+        },
+        {
+          "code": "ACAD 178",
+          "title": "Digital Toolbox: Motion Graphics",
+          "units": 2.0,
+          "source_line": "- ACAD 178 Digital Toolbox: Motion Graphics Units: 2"
+        },
+        {
+          "code": "ACAD 275",
+          "title": "Dev I",
+          "units": 4.0,
+          "source_line": "- ACAD 275 Dev I Units: 4"
+        },
+        {
+          "code": "ACAD 280",
+          "title": "Information Design",
+          "units": 4.0,
+          "source_line": "- ACAD 280 Information Design Units: 4"
+        },
+        {
+          "code": "ACAD 324g",
+          "title": "The Practice of Design: Ideation to Innovation",
+          "units": 4.0,
+          "source_line": "- ACAD 324g The Practice of Design: Ideation to Innovation Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must complete the following 16 units:",
+          "source_line": "Students must complete the following 16 units:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ACAD 180",
+          "title": "Digital Toolbox: Audio and Video",
+          "units": 2.0,
+          "source_line": "- ACAD 180 Digital Toolbox: Audio and Video Units: 2"
+        },
+        {
+          "code": "ACAD 186",
+          "title": "Digital Toolbox: Computational Visual Design",
+          "units": 2.0,
+          "source_line": "- ACAD 186 Digital Toolbox: Computational Visual Design Units: 2"
+        },
+        {
+          "code": "ACAD 207",
+          "title": "Narrative Technology and the Human Experience",
+          "units": 4.0,
+          "source_line": "- ACAD 207 Narrative Technology and the Human Experience Units: 4"
+        },
+        {
+          "code": "ACAD 217",
+          "title": "Extended Reality Design",
+          "units": 4.0,
+          "source_line": "- ACAD 217 Extended Reality Design Units: 4"
+        },
+        {
+          "code": "ACAD 276",
+          "title": "Dev II",
+          "units": 4.0,
+          "source_line": "- ACAD 276 Dev II Units: 4"
+        },
+        {
+          "code": "ACAD 402",
+          "title": "Modern Brand and Community Playbook",
+          "units": 2.0,
+          "source_line": "- ACAD 402 Modern Brand and Community Playbook Units: 2"
+        },
+        {
+          "code": "ACAD 415",
+          "title": "Dev III: Designing Applications for Emerging Platforms",
+          "units": 4.0,
+          "source_line": "- ACAD 415 Dev III: Designing Applications for Emerging Platforms Units: 4"
+        },
+        {
+          "code": "DSCI 454",
+          "title": "Visualization for Data-driven Decision Making",
+          "units": 4.0,
+          "source_line": "- DSCI 454 Visualization for Data-driven Decision Making Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must complete 8 units from the following:",
+          "source_line": "Students must complete 8 units from the following:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

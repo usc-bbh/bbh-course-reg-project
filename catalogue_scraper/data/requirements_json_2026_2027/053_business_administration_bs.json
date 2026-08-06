@@ -1,0 +1,507 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Business Administration (World Program) (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31595",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31595&returnto=9396",
+    "source_text_file": "053_business_administration_bs.txt",
+    "source_content_sha256": "ed781c2dad51dcd0479afba3aa0884a3b8484a8cf61d4faa621e6ef675a1b464",
+    "retrieved_at": "2026-07-31T00:50:55Z"
+  },
+  "totals": {
+    "stated_total_units": 30.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "Students should note the following USC degree requirements for the WBB program:\n\n- A minimum of 32 units must be taken in residence at USC."
+    ],
+    "course_entry_count": 18,
+    "distinct_course_codes": 18,
+    "section_count": 15
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The World Bachelor in Business (WBB) Program offers students the opportunity for immersive study at three highly regarded business schools, one in each of the major economic/cultural zones of the world: the Americas, Asia and Europe. The program is designed and offered in cooperation with the Hong Kong University of Science and Technology (HKUST) and Bocconi University. Students spend at least one year at each campus and receive a degree from each university. The program is available to entering freshmen only. Prospective students should consult with the USC Marshall Undergraduate Admissions office for program and admissions information.",
+          "source_line": "The World Bachelor in Business (WBB) Program offers students the opportunity for immersive study at three highly regarded business schools, one in each of the major economic/cultural zones of the world: the Americas, Asia and Europe. The program is designed and offered in cooperation with the Hong Kong University of Science and Technology (HKUST) and Bocconi University. Students spend at least one year at each campus and receive a degree from each university. The program is available to entering freshmen only. Prospective students should consult with the USC Marshall Undergraduate Admissions office for program and admissions information."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Requirements for Completion",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Specific courses completed at each university are used to fulfill specific requirements at the other universities. To successfully move through the curriculum, which includes the ability to begin coursework at partner institutions, and graduate (obtain all three degrees/diplomas), students must satisfy the academic standards and policies of all partner institutions and successfully complete the required coursework each term.",
+          "source_line": "Specific courses completed at each university are used to fulfill specific requirements at the other universities. To successfully move through the curriculum, which includes the ability to begin coursework at partner institutions, and graduate (obtain all three degrees/diplomas), students must satisfy the academic standards and policies of all partner institutions and successfully complete the required coursework each term."
+        },
+        {
+          "text": "The USC degree requirements published here are those of the USC Marshall Bachelor of Science in Business Administration program. Students should consult with the WBB program academic adviser at each university.",
+          "source_line": "The USC degree requirements published here are those of the USC Marshall Bachelor of Science in Business Administration program. Students should consult with the WBB program academic adviser at each university."
+        },
+        {
+          "text": "Students should note the following USC degree requirements for the WBB program:",
+          "source_line": "Students should note the following USC degree requirements for the WBB program:"
+        },
+        {
+          "text": "A minimum of 32 units must be taken in residence at USC. The units applied toward this requirement must be taken for a letter grade and cannot be taken on a P/NP or CR/NC basis.",
+          "source_line": "- A minimum of 32 units must be taken in residence at USC. The units applied toward this requirement must be taken for a letter grade and cannot be taken on a P/NP or CR/NC basis."
+        },
+        {
+          "text": "In addition to meeting university GPA requirements, a minimum grade of C- must be earned on all upper-division course work taken at USC and required for the major.",
+          "source_line": "- In addition to meeting university GPA requirements, a minimum grade of C- must be earned on all upper-division course work taken at USC and required for the major."
+        },
+        {
+          "text": "A minimum grade of C- for course work completed at HKUST and Bocconi University must be earned for the course credits to transfer to USC.",
+          "source_line": "- A minimum grade of C- for course work completed at HKUST and Bocconi University must be earned for the course credits to transfer to USC."
+        },
+        {
+          "text": "USC GPA calculations will be based on course work completed at USC.",
+          "source_line": "- USC GPA calculations will be based on course work completed at USC."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Sample Program",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "WBB students spend the first year taking classes in Los Angeles at USC, the second year taking classes in Hong Kong at HKUST and the third year taking classes in Milan at Bocconi University. In the final year, students choose their location of study in consultation with the program directors. Each year includes at least one cohort class designed specifically for the WBB program.",
+          "source_line": "WBB students spend the first year taking classes in Los Angeles at USC, the second year taking classes in Hong Kong at HKUST and the third year taking classes in Milan at Bocconi University. In the final year, students choose their location of study in consultation with the program directors. Each year includes at least one cohort class designed specifically for the WBB program."
+        },
+        {
+          "text": "The following sample program is typical for most WBB students. It is not the only possible program of study, but it does serve as a representative guideline. Students will meet with a WBB program academic adviser at each location to ensure that each student’s program of study will fulfill WBB program requirements.",
+          "source_line": "The following sample program is typical for most WBB students. It is not the only possible program of study, but it does serve as a representative guideline. Students will meet with a WBB program academic adviser at each location to ensure that each student’s program of study will fulfill WBB program requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Year One - USC",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BUAD 111",
+          "title": "World Bachelor in Business Program Freshman Academy",
+          "units": 2.0,
+          "source_line": "- BUAD 111 World Bachelor in Business Program Freshman Academy Units: 2"
+        },
+        {
+          "code": "BUAD 114",
+          "title": "Global Social Impact",
+          "units": 2.0,
+          "source_line": "- BUAD 114 Global Social Impact Units: 2"
+        },
+        {
+          "code": "BUAD 280",
+          "title": "Introduction to Financial Accounting",
+          "units": 3.0,
+          "source_line": "- BUAD 280 Introduction to Financial Accounting Units: 3"
+        },
+        {
+          "code": "ECON 351x",
+          "title": "Microeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 351x Microeconomics for Business Units: 4"
+        },
+        {
+          "code": "GESM 120g",
+          "title": "Seminar in Humanistic Inquiry  *",
+          "units": 4.0,
+          "source_line": "- GESM 120g Seminar in Humanistic Inquiry Units: 4 *"
+        },
+        {
+          "code": "MATH 118gx",
+          "title": "Calculus for Business and Economics  **",
+          "units": 4.0,
+          "source_line": "- MATH 118gx Calculus for Business and Economics Units: 4 **"
+        },
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "GE-D Life Sciences Units: 4",
+          "source_line": "- GE-D Life Sciences Units: 4"
+        },
+        {
+          "text": "GE-E Physical Sciences Units: 4",
+          "source_line": "- GE-E Physical Sciences Units: 4"
+        },
+        {
+          "text": "Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BUSW majors.",
+          "source_line": "- Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BUSW majors."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 35",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Satisfies GE-B requirement.",
+          "source_line": "* Satisfies GE-B requirement."
+        },
+        {
+          "text": "* Satisfies GE-F requirement.",
+          "source_line": "** Satisfies GE-F requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": 35.0
+    },
+    {
+      "title": "Year Two - HKUST",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "C-Comm Chinese Communications Units: 3",
+          "source_line": "- C-Comm Chinese Communications Units: 3"
+        },
+        {
+          "text": "Common Core Arts (select courses) Units: 3*",
+          "source_line": "- Common Core Arts (select courses) Units: 3*",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Common Core Humanities (select courses) Units: 3**",
+          "source_line": "- Common Core Humanities (select courses) Units: 3**",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Common Core Technology (select courses) Units: 3",
+          "source_line": "- Common Core Technology (select courses) Units: 3",
+          "states_choice_rule": true
+        },
+        {
+          "text": "ECON 2123 Macroeconomics Units: 3",
+          "source_line": "- ECON 2123 Macroeconomics Units: 3"
+        },
+        {
+          "text": "FINA 1303 Introduction to Financial Markets Units: 3",
+          "source_line": "- FINA 1303 Introduction to Financial Markets Units: 3"
+        },
+        {
+          "text": "ISOM 2010 Intro to Information Systems Units: 3",
+          "source_line": "- ISOM 2010 Intro to Information Systems Units: 3"
+        },
+        {
+          "text": "ISOM 2500 Business Statistics Units: 3",
+          "source_line": "- ISOM 2500 Business Statistics Units: 3"
+        },
+        {
+          "text": "MGMT 2110 Organizational Behavior Units: 3",
+          "source_line": "- MGMT 2110 Organizational Behavior Units: 3"
+        },
+        {
+          "text": "WBBA 2010 Understanding Business in Asia Units: 2",
+          "source_line": "- WBBA 2010 Understanding Business in Asia Units: 2"
+        },
+        {
+          "text": "WBBA 2020 Seminars in Asia’s Business Units: 1",
+          "source_line": "- WBBA 2020 Seminars in Asia’s Business Units: 1"
+        },
+        {
+          "text": "WBBA 2030 Effective Communication in Business Units: 3",
+          "source_line": "- WBBA 2030 Effective Communication in Business Units: 3"
+        }
+      ],
+      "choice": "Common Core Arts (select courses) Units: 3*",
+      "total_units": null
+    },
+    {
+      "title": "Total units: 33",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Satisfies USC GE-A The Arts requirement.",
+          "source_line": "*Satisfies USC GE-A The Arts requirement."
+        },
+        {
+          "text": "*Satisfies USC GE-B Humanistic Inquiry requirement.",
+          "source_line": "**Satisfies USC GE-B Humanistic Inquiry requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": 33.0
+    },
+    {
+      "title": "Year Three - Bocconi",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "30015 Marketing Units: 3",
+          "source_line": "- 30015 Marketing Units: 3"
+        },
+        {
+          "text": "30056 European Economic Policy Units: 3*",
+          "source_line": "- 30056 European Economic Policy Units: 3*"
+        },
+        {
+          "text": "30361 Doing Business in Europe Units: 1",
+          "source_line": "- 30361 Doing Business in Europe Units: 1"
+        },
+        {
+          "text": "30364 Accounting Module II (Managerial Accounting) Units: 3",
+          "source_line": "- 30364 Accounting Module II (Managerial Accounting) Units: 3"
+        },
+        {
+          "text": "30366 Finance Module II (Corporate Finance) Units: 3",
+          "source_line": "- 30366 Finance Module II (Corporate Finance) Units: 3"
+        },
+        {
+          "text": "30372 Global History Units: 3**",
+          "source_line": "- 30372 Global History Units: 3**"
+        },
+        {
+          "text": "30375 Mathematics — Module II (Applied) Units: 3",
+          "source_line": "- 30375 Mathematics — Module II (Applied) Units: 3"
+        },
+        {
+          "text": "30430 Law Module I (Public Law) Units: 3",
+          "source_line": "- 30430 Law Module I (Public Law) Units: 3"
+        },
+        {
+          "text": "30431 Law Module II (Private Law) Units: 3",
+          "source_line": "- 30431 Law Module II (Private Law) Units: 3"
+        },
+        {
+          "text": "30444 Public Management (Business Government Relations) Units: 3",
+          "source_line": "- 30444 Public Management (Business Government Relations) Units: 3"
+        },
+        {
+          "text": "303xx Second Language Units: 3",
+          "source_line": "- 303xx Second Language Units: 3"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 31",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Satisfies USC GE-C Social Analysis and GE-G Citizenship in a Diverse World requirements.",
+          "source_line": "* Satisfies USC GE-C Social Analysis and GE-G Citizenship in a Diverse World requirements."
+        },
+        {
+          "text": "* Satisfies USC GE-C Social Analysis and GE-H Traditions and Historical Foundations requirements.",
+          "source_line": "** Satisfies USC GE-C Social Analysis and GE-H Traditions and Historical Foundations requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": 31.0
+    },
+    {
+      "title": "Year Four, Option One - USC",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BUAD 311",
+          "title": "Operations Management  or",
+          "units": 4.0,
+          "source_line": "- BUAD 311 Operations Management Units: 4 or"
+        },
+        {
+          "code": "BUAD 313",
+          "title": "Advanced Operations Management and Analytics",
+          "units": 4.0,
+          "source_line": "- BUAD 313 Advanced Operations Management and Analytics Units: 4"
+        },
+        {
+          "code": "BUAD 425",
+          "title": "Introduction to Business Analytics",
+          "units": 2.0,
+          "source_line": "- BUAD 425 Introduction to Business Analytics Units: 2",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 427",
+          "title": "Advanced Introduction to Business Analytics with AI",
+          "units": 2.0,
+          "source_line": "- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2"
+        },
+        {
+          "code": "BUAD 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- BUAD 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "BUAD 497",
+          "title": "Strategic Management",
+          "units": 4.0,
+          "source_line": "- BUAD 497 Strategic Management Units: 4"
+        },
+        {
+          "code": "FBE 403",
+          "title": "Introduction to the Legal Environment of Business  or",
+          "units": 4.0,
+          "source_line": "- FBE 403 Introduction to the Legal Environment of Business Units: 4 or"
+        },
+        {
+          "code": "FBE 429",
+          "title": "International Business Law",
+          "units": 4.0,
+          "source_line": "- FBE 429 International Business Law Units: 4"
+        },
+        {
+          "code": "BUCO 425",
+          "title": "Ethics and Professional Communication  or",
+          "units": 4.0,
+          "source_line": "- BUCO 425 Ethics and Professional Communication Units: 4 or"
+        },
+        {
+          "code": "MOR 421",
+          "title": "Social and Ethical Issues in Business",
+          "units": 4.0,
+          "source_line": "- MOR 421 Social and Ethical Issues in Business Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "2 units total (1 unit in fall and 1 unit in spring)",
+          "source_line": "- 2 units total (1 unit in fall and 1 unit in spring)"
+        },
+        {
+          "text": "Free electives Units: 9-16",
+          "source_line": "- Free electives Units: 9-16"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 29-36",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 29.0
+    },
+    {
+      "title": "Year Four, Option Two - HKUST",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "ACCT 3610 Function of Law in Society and Business Units: 3",
+          "source_line": "- ACCT 3610 Function of Law in Society and Business Units: 3"
+        },
+        {
+          "text": "ISOM 2700 Operations Management Units: 3",
+          "source_line": "- ISOM 2700 Operations Management Units: 3"
+        },
+        {
+          "text": "MGMT 2130 Business Ethics and Social Responsibility Units: 2",
+          "source_line": "- MGMT 2130 Business Ethics and Social Responsibility Units: 2"
+        },
+        {
+          "text": "MGMT 4210 Corporate Strategy Units: 3",
+          "source_line": "- MGMT 4210 Corporate Strategy Units: 3"
+        },
+        {
+          "text": "WBBA 4010 Capstone Project Units: 4",
+          "source_line": "- WBBA 4010 Capstone Project Units: 4"
+        },
+        {
+          "text": "Electives Units: 15-18",
+          "source_line": "- Electives Units: 15-18"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 30-33",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 30.0
+    },
+    {
+      "title": "Year Four, Option Three - Bocconi",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "30012 Business Strategy Units: 4",
+          "source_line": "- 30012 Business Strategy Units: 4"
+        },
+        {
+          "text": "30058 Comparative Business and European Law Units: 3",
+          "source_line": "- 30058 Comparative Business and European Law Units: 3"
+        },
+        {
+          "text": "30296 Global Sustainability Strategy Units: 3",
+          "source_line": "- 30296 Global Sustainability Strategy Units: 3"
+        },
+        {
+          "text": "30214 Sustainable Operations Management Units: 3",
+          "source_line": "- 30214 Sustainable Operations Management Units: 3"
+        },
+        {
+          "text": "Final Paper Units: 2",
+          "source_line": "- Final Paper Units: 2"
+        },
+        {
+          "text": "Electives Units: 15-18",
+          "source_line": "- Electives Units: 15-18"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 30-33",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Return to: USC Marshall School of Business",
+          "source_line": "Return to: USC Marshall School of Business"
+        }
+      ],
+      "choice": null,
+      "total_units": 30.0
+    }
+  ],
+  "parse_warnings": []
+}

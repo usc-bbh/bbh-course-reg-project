@@ -1,0 +1,99 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Global Health Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32214",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32214&returnto=9396",
+    "source_text_file": "326_global_health_minor.txt",
+    "source_content_sha256": "2d28c0b4ba22f1c9a9bf62cf5eebe6bb68fee1ac857b377c6adbfcf495876bf9",
+    "retrieved_at": "2026-07-31T01:06:46Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 7,
+    "distinct_course_codes": 7,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This minor provides students with a basic understanding of the factors that determine the health of populations around the globe. Curriculum focuses on the cultural, environmental and clinical aspects of various health topics such as maternal and child health, aging, obesity, infectious disease and others. By studying these issues, students from majors across the university will be prepared to assess and contribute to the resolution of emerging global health challenges. This minor will appeal to a wide variety of majors, particularly majors centered on international affairs, business and health care.",
+          "source_line": "This minor provides students with a basic understanding of the factors that determine the health of populations around the globe. Curriculum focuses on the cultural, environmental and clinical aspects of various health topics such as maternal and child health, aging, obesity, infectious disease and others. By studying these issues, students from majors across the university will be prepared to assess and contribute to the resolution of emerging global health challenges. This minor will appeal to a wide variety of majors, particularly majors centered on international affairs, business and health care."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (20 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HP 270",
+          "title": "Introduction to Global Health",
+          "units": 4.0,
+          "source_line": "- HP 270 Introduction to Global Health Units: 4"
+        },
+        {
+          "code": "HP 470",
+          "title": "Case Studies in Global Health",
+          "units": 4.0,
+          "source_line": "- HP 470 Case Studies in Global Health Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Three of the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "GERO 483",
+          "title": "Global Health and Aging",
+          "units": 4.0,
+          "source_line": "- GERO 483 Global Health and Aging Units: 4"
+        },
+        {
+          "code": "HP 365gmw",
+          "title": "Culture, Lifestyle, and Health",
+          "units": 4.0,
+          "source_line": "- HP 365gmw Culture, Lifestyle, and Health Units: 4"
+        },
+        {
+          "code": "HP 401",
+          "title": "Cultural Competence in Medicine",
+          "units": 4.0,
+          "source_line": "- HP 401 Cultural Competence in Medicine Units: 4"
+        },
+        {
+          "code": "HP 402",
+          "title": "Maternal and Child Health",
+          "units": 4.0,
+          "source_line": "- HP 402 Maternal and Child Health Units: 4"
+        },
+        {
+          "code": "HP 422",
+          "title": "AIDS in Society",
+          "units": 4.0,
+          "source_line": "- HP 422 AIDS in Society Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

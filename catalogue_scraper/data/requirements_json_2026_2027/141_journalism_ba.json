@@ -1,0 +1,263 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Journalism (BA)*",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32448",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32448&returnto=9396",
+    "source_text_file": "141_journalism_ba.txt",
+    "source_content_sha256": "be75c3b6970575555916aaf216c23c61c5c5477a66d4bd0566747161d71541fb",
+    "retrieved_at": "2026-07-31T00:55:25Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "Students are required to complete 46 units for the major, including 32 units of required core courses.",
+      "## Required Courses, Lower Division\n\n---\n\n- JOUR 201 Culture of Journalism: Past, Present and Future Units: 4\n- JOUR 206 Reporting and Writing Practicum Units: 1 (2 units required)\n- JOUR 207 Reporting and Writing I Units: 4\n\n## Required Courses, Upper Division\n\n---\n\n- JOUR 301 The Business of News Units: 2\n- JOUR 307 Reporting and Writing II Units: 3\n- JOUR 321 Visual Journalism Units: 3\n- JOUR 322 Introduction to Investigative and Data Journalism Units: 2\n- JOUR 372 Engaging Diverse Communities Units: 2\n- JOUR 414 Advanced Digital Media Storytelling Units: 2\n- JOUR 462 Law of Mass Communication Units: 4\n\n## Annenberg Experience\n\n---\n\nChoose one of the following required core courses (4 units total):\n\n- ASCJ 200 Navigating Media and News in the Digital Age Units: 4\n- JOUR 300 Journalism and Society Units: 4\n\n## Advanced Reporting Elective\n\n---\n\nChoose one course:\n\n- JOUR 310 Investigative Reporting Units: 4\n- JOUR 320 Introduction to Coding for Storytelling Units: 2\n- JOUR 402 Advanced Video Reporting Units: 6\n- JOUR 403 Television News and Sports Production Units: 6\n- JOUR 405 Non-Fiction Television Units: 4\n- JOUR 409 Audio Storytelling for Radio and Podcast Units: 4\n- JOUR 435 Writing Magazine Non-Fiction Units: 4\n- JOUR 441 Sports Reporting Units: 4\n- JOUR 445 Reporting on Race Units: 4\n- JOUR 446 Entertainment Reporting Units: 4\n- JOUR 447 Arts Reporting Units: 4\n- JOUR 448 Government and Public Affairs Reporting Units: 4\n- JOUR 458 Media, Food and Culture Units: 4\n- JOUR 488 Data-Driven Storytelling About Los Angeles Units: 4\n\n## Upper-Division Electives\n\n---\n\nConsult with an advisor to determine your remaining units required to complete the degree."
+    ],
+    "course_entry_count": 26,
+    "distinct_course_codes": 26,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The undergraduate journalism degree at USC Annenberg School of Journalism teaches students to think critically and innovatively, to research, write and investigate, to create meaningful journalism across multiple platforms, and to understand the role of news and information in a democratic society. Students participate in multiple experiential learning opportunities through a modern Media Center newsroom, led by students and supported by faculty.",
+          "source_line": "The undergraduate journalism degree at USC Annenberg School of Journalism teaches students to think critically and innovatively, to research, write and investigate, to create meaningful journalism across multiple platforms, and to understand the role of news and information in a democratic society. Students participate in multiple experiential learning opportunities through a modern Media Center newsroom, led by students and supported by faculty."
+        },
+        {
+          "text": "Students are required to complete 46 units for the major, including 32 units of required core courses.",
+          "source_line": "Students are required to complete 46 units for the major, including 32 units of required core courses."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses, Lower Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "JOUR 201",
+          "title": "Culture of Journalism: Past, Present and Future",
+          "units": 4.0,
+          "source_line": "- JOUR 201 Culture of Journalism: Past, Present and Future Units: 4"
+        },
+        {
+          "code": "JOUR 206",
+          "title": "Reporting and Writing Practicum  (2 units required)",
+          "units": 1.0,
+          "source_line": "- JOUR 206 Reporting and Writing Practicum Units: 1 (2 units required)"
+        },
+        {
+          "code": "JOUR 207",
+          "title": "Reporting and Writing I",
+          "units": 4.0,
+          "source_line": "- JOUR 207 Reporting and Writing I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses, Upper Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "JOUR 301",
+          "title": "The Business of News",
+          "units": 2.0,
+          "source_line": "- JOUR 301 The Business of News Units: 2"
+        },
+        {
+          "code": "JOUR 307",
+          "title": "Reporting and Writing II",
+          "units": 3.0,
+          "source_line": "- JOUR 307 Reporting and Writing II Units: 3"
+        },
+        {
+          "code": "JOUR 321",
+          "title": "Visual Journalism",
+          "units": 3.0,
+          "source_line": "- JOUR 321 Visual Journalism Units: 3"
+        },
+        {
+          "code": "JOUR 322",
+          "title": "Introduction to Investigative and Data Journalism",
+          "units": 2.0,
+          "source_line": "- JOUR 322 Introduction to Investigative and Data Journalism Units: 2"
+        },
+        {
+          "code": "JOUR 372",
+          "title": "Engaging Diverse Communities",
+          "units": 2.0,
+          "source_line": "- JOUR 372 Engaging Diverse Communities Units: 2"
+        },
+        {
+          "code": "JOUR 414",
+          "title": "Advanced Digital Media Storytelling",
+          "units": 2.0,
+          "source_line": "- JOUR 414 Advanced Digital Media Storytelling Units: 2"
+        },
+        {
+          "code": "JOUR 462",
+          "title": "Law of Mass Communication",
+          "units": 4.0,
+          "source_line": "- JOUR 462 Law of Mass Communication Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Annenberg Experience",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ASCJ 200",
+          "title": "Navigating Media and News in the Digital Age",
+          "units": 4.0,
+          "source_line": "- ASCJ 200 Navigating Media and News in the Digital Age Units: 4"
+        },
+        {
+          "code": "JOUR 300",
+          "title": "Journalism and Society",
+          "units": 4.0,
+          "source_line": "- JOUR 300 Journalism and Society Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one of the following required core courses (4 units total):",
+          "source_line": "Choose one of the following required core courses (4 units total):",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one of the following required core courses (4 units total):",
+      "total_units": null
+    },
+    {
+      "title": "Advanced Reporting Elective",
+      "level": 2,
+      "courses": [
+        {
+          "code": "JOUR 310",
+          "title": "Investigative Reporting",
+          "units": 4.0,
+          "source_line": "- JOUR 310 Investigative Reporting Units: 4"
+        },
+        {
+          "code": "JOUR 320",
+          "title": "Introduction to Coding for Storytelling",
+          "units": 2.0,
+          "source_line": "- JOUR 320 Introduction to Coding for Storytelling Units: 2"
+        },
+        {
+          "code": "JOUR 402",
+          "title": "Advanced Video Reporting",
+          "units": 6.0,
+          "source_line": "- JOUR 402 Advanced Video Reporting Units: 6"
+        },
+        {
+          "code": "JOUR 403",
+          "title": "Television News and Sports Production",
+          "units": 6.0,
+          "source_line": "- JOUR 403 Television News and Sports Production Units: 6"
+        },
+        {
+          "code": "JOUR 405",
+          "title": "Non-Fiction Television",
+          "units": 4.0,
+          "source_line": "- JOUR 405 Non-Fiction Television Units: 4"
+        },
+        {
+          "code": "JOUR 409",
+          "title": "Audio Storytelling for Radio and Podcast",
+          "units": 4.0,
+          "source_line": "- JOUR 409 Audio Storytelling for Radio and Podcast Units: 4"
+        },
+        {
+          "code": "JOUR 435",
+          "title": "Writing Magazine Non-Fiction",
+          "units": 4.0,
+          "source_line": "- JOUR 435 Writing Magazine Non-Fiction Units: 4"
+        },
+        {
+          "code": "JOUR 441",
+          "title": "Sports Reporting",
+          "units": 4.0,
+          "source_line": "- JOUR 441 Sports Reporting Units: 4"
+        },
+        {
+          "code": "JOUR 445",
+          "title": "Reporting on Race",
+          "units": 4.0,
+          "source_line": "- JOUR 445 Reporting on Race Units: 4"
+        },
+        {
+          "code": "JOUR 446",
+          "title": "Entertainment Reporting",
+          "units": 4.0,
+          "source_line": "- JOUR 446 Entertainment Reporting Units: 4"
+        },
+        {
+          "code": "JOUR 447",
+          "title": "Arts Reporting",
+          "units": 4.0,
+          "source_line": "- JOUR 447 Arts Reporting Units: 4"
+        },
+        {
+          "code": "JOUR 448",
+          "title": "Government and Public Affairs Reporting",
+          "units": 4.0,
+          "source_line": "- JOUR 448 Government and Public Affairs Reporting Units: 4"
+        },
+        {
+          "code": "JOUR 458",
+          "title": "Media, Food and Culture",
+          "units": 4.0,
+          "source_line": "- JOUR 458 Media, Food and Culture Units: 4"
+        },
+        {
+          "code": "JOUR 488",
+          "title": "Data-Driven Storytelling About Los Angeles",
+          "units": 4.0,
+          "source_line": "- JOUR 488 Data-Driven Storytelling About Los Angeles Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one course:",
+          "source_line": "Choose one course:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one course:",
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Electives",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Consult with an advisor to determine your remaining units required to complete the degree.",
+          "source_line": "Consult with an advisor to determine your remaining units required to complete the degree."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

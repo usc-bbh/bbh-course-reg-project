@@ -1,0 +1,223 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Biopharmaceutical Business Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32708",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32708&returnto=9396",
+    "source_text_file": "230_biopharmaceutical_business_minor.txt",
+    "source_content_sha256": "a88aba49ab90ae0288991cb6500ad988a986c966b041bf9956bb170b4875a68a",
+    "retrieved_at": "2026-07-31T00:59:48Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The minor in Biopharmaceutical Business is 22 units.",
+      "A maximum of 4 units can be met by taking Directed Research (BPSI 490x ).",
+      "Students must be in sophomore standing and have completed a minimum of 32 USC units as an entering freshman or 16 units as an entering transfer student.",
+      "## Biopharmaceutical Sciences Requirement\n\n---\n\nThree courses (10 units).",
+      "- BPSI 410 Biopharmaceutical Product Development and Brand Planning Units: 4\n- BPSI 411 Biopharmaceutical Marketing Analysis and Strategy Units: 4\n- BPSI 414 Pharmacoethics Units: 2\n\n## Biopharmaceutical Sciences Requirement\n\n---\n\nMinimum 8 units."
+    ],
+    "course_entry_count": 20,
+    "distinct_course_codes": 20,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in Biopharmaceutical Business will provide a foundation in biopharmaceutical business and marketing practices that can be used in a variety of careers. For example, graduates may find jobs in product development, marketing and brand management in the biopharmaceutical industry. Beyond the biopharmaceutical industry, graduates may apply their knowledge to applied business areas of medical and pharmacy practice, healthcare law, healthcare finance and healthcare consulting.",
+          "source_line": "The minor in Biopharmaceutical Business will provide a foundation in biopharmaceutical business and marketing practices that can be used in a variety of careers. For example, graduates may find jobs in product development, marketing and brand management in the biopharmaceutical industry. Beyond the biopharmaceutical industry, graduates may apply their knowledge to applied business areas of medical and pharmacy practice, healthcare law, healthcare finance and healthcare consulting."
+        },
+        {
+          "text": "The minor in Biopharmaceutical Business is 22 units. Course work must not overlap with the major, another minor or general education requirements of the undergraduate students. A maximum of 4 units can be met by taking Directed Research (BPSI 490x ).",
+          "source_line": "The minor in Biopharmaceutical Business is 22 units. Course work must not overlap with the major, another minor or general education requirements of the undergraduate students. A maximum of 4 units can be met by taking Directed Research (BPSI 490x )."
+        },
+        {
+          "text": "Only students with a declared major are eligible to apply. Students must be in sophomore standing and have completed a minimum of 32 USC units as an entering freshman or 16 units as an entering transfer student.",
+          "source_line": "Only students with a declared major are eligible to apply. Students must be in sophomore standing and have completed a minimum of 32 USC units as an entering freshman or 16 units as an entering transfer student."
+        },
+        {
+          "text": "Students will select course work in consultation with an academic adviser.",
+          "source_line": "Students will select course work in consultation with an academic adviser."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Biopharmaceutical Sciences Requirement",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BPSI 410",
+          "title": "Biopharmaceutical Product Development and Brand Planning",
+          "units": 4.0,
+          "source_line": "- BPSI 410 Biopharmaceutical Product Development and Brand Planning Units: 4"
+        },
+        {
+          "code": "BPSI 411",
+          "title": "Biopharmaceutical Marketing Analysis and Strategy",
+          "units": 4.0,
+          "source_line": "- BPSI 411 Biopharmaceutical Marketing Analysis and Strategy Units: 4"
+        },
+        {
+          "code": "BPSI 414",
+          "title": "Pharmacoethics",
+          "units": 2.0,
+          "source_line": "- BPSI 414 Pharmacoethics Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Three courses (10 units).",
+          "source_line": "Three courses (10 units)."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Biopharmaceutical Sciences Requirement",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BPSI 402",
+          "title": "Biopharmaceutics I",
+          "units": 4.0,
+          "source_line": "- BPSI 402 Biopharmaceutics I Units: 4"
+        },
+        {
+          "code": "BPSI 403",
+          "title": "Biopharmaceutics II",
+          "units": 4.0,
+          "source_line": "- BPSI 403 Biopharmaceutics II Units: 4"
+        },
+        {
+          "code": "BPSI 405",
+          "title": "Organ Systems Physiology, Drug Delivery and Drug Action",
+          "units": 4.0,
+          "source_line": "- BPSI 405 Organ Systems Physiology, Drug Delivery and Drug Action Units: 4"
+        },
+        {
+          "code": "BPSI 406",
+          "title": "Drug Safety Pharmacology and Toxicology",
+          "units": 4.0,
+          "source_line": "- BPSI 406 Drug Safety Pharmacology and Toxicology Units: 4"
+        },
+        {
+          "code": "BPSI 407",
+          "title": "Pharmaceutical and Health Economics",
+          "units": 4.0,
+          "source_line": "- BPSI 407 Pharmaceutical and Health Economics Units: 4"
+        },
+        {
+          "code": "BPSI 408",
+          "title": "Biologics and Vaccines",
+          "units": 4.0,
+          "source_line": "- BPSI 408 Biologics and Vaccines Units: 4"
+        },
+        {
+          "code": "BPSI 412",
+          "title": "Targeted and Precision Medicines",
+          "units": 4.0,
+          "source_line": "- BPSI 412 Targeted and Precision Medicines Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Minimum 8 units.",
+          "source_line": "Minimum 8 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Biopharmaceutical Sciences Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BPSI 413",
+          "title": "Rigor, Resources and Reproducibility",
+          "units": 2.0,
+          "source_line": "- BPSI 413 Rigor, Resources and Reproducibility Units: 2"
+        },
+        {
+          "code": "BPSI 415",
+          "title": "Science Talk",
+          "units": 2.0,
+          "source_line": "- BPSI 415 Science Talk Units: 2"
+        },
+        {
+          "code": "BPSI 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- BPSI 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "RXRS 200",
+          "title": "Approaches to Pharmacology and Drug Development",
+          "units": 4.0,
+          "source_line": "- RXRS 200 Approaches to Pharmacology and Drug Development Units: 4"
+        },
+        {
+          "code": "RXRS 407",
+          "title": "The Discovery, Development and Marketing of Medicines",
+          "units": 4.0,
+          "source_line": "- RXRS 407 The Discovery, Development and Marketing of Medicines Units: 4"
+        },
+        {
+          "code": "RXRS 412",
+          "title": "Ethics, Drugs and Society",
+          "units": 4.0,
+          "source_line": "- RXRS 412 Ethics, Drugs and Society Units: 4"
+        },
+        {
+          "code": "RXRS 413w",
+          "title": "Globalization of the Biomedical Industry",
+          "units": 4.0,
+          "source_line": "- RXRS 413w Globalization of the Biomedical Industry Units: 4"
+        },
+        {
+          "code": "RXRS 416",
+          "title": "Medical Products: From Idea to Market",
+          "units": 4.0,
+          "source_line": "- RXRS 416 Medical Products: From Idea to Market Units: 4"
+        },
+        {
+          "code": "RXRS 421",
+          "title": "Management and Operation of Clinical Trials",
+          "units": 4.0,
+          "source_line": "- RXRS 421 Management and Operation of Clinical Trials Units: 4"
+        },
+        {
+          "code": "RXRS 422",
+          "title": "Regulation, Guidance and Control of Medical Products",
+          "units": 2.0,
+          "source_line": "- RXRS 422 Regulation, Guidance and Control of Medical Products Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select from the following courses to complete the requirements for the minor.",
+          "source_line": "Select from the following courses to complete the requirements for the minor."
+        },
+        {
+          "text": "A maximum of 4 units can be met by taking Directed Research (BPSI 490x)",
+          "source_line": "- A maximum of 4 units can be met by taking Directed Research (BPSI 490x)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

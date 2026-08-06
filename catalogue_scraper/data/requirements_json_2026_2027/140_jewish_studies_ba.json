@@ -1,0 +1,455 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Jewish Studies (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32429",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32429&returnto=9396",
+    "source_text_file": "140_jewish_studies_ba.txt",
+    "source_content_sha256": "3b2381e2ccee238df80d5c4a0a533c66ea79001c3fbec4cfa4beaffe489df5de",
+    "retrieved_at": "2026-07-31T00:55:23Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "A total of eight courses are required for the degree (32 units."
+    ],
+    "course_entry_count": 56,
+    "distinct_course_codes": 54,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The interdisciplinary major in Jewish Studies investigates the study of Jewish religion, history, culture and languages through a variety of academic perspectives. Students can work with scholars in the School of Religion in USC Dornsife College, the Louchheim School for Judaic Studies at Hebrew Union College-Jewish Institute of Religion and faculty across the USC campus trained in religious studies, Jewish thought, history, linguistics, literature, international relations, political science, music and sociology. The curriculum is designed to allow students options in combining courses that focus on Judaism as a religion with those that focus on history, literature and other forms of Jewish culture and civilization.",
+          "source_line": "The interdisciplinary major in Jewish Studies investigates the study of Jewish religion, history, culture and languages through a variety of academic perspectives. Students can work with scholars in the School of Religion in USC Dornsife College, the Louchheim School for Judaic Studies at Hebrew Union College-Jewish Institute of Religion and faculty across the USC campus trained in religious studies, Jewish thought, history, linguistics, literature, international relations, political science, music and sociology. The curriculum is designed to allow students options in combining courses that focus on Judaism as a religion with those that focus on history, literature and other forms of Jewish culture and civilization."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Major Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students choose among courses that focus on Judaism as a living religious system and those that focus on Jewish history, culture and society in its global setting.",
+          "source_line": "Students choose among courses that focus on Judaism as a living religious system and those that focus on Jewish history, culture and society in its global setting."
+        },
+        {
+          "text": "Three core courses are required: REL 301 Approaches to the Study of Religion , REL 401 Seminar in Religious Studies , and either JS 100gp Jewish History or JS 180gp Judaism .",
+          "source_line": "Three core courses are required: REL 301 Approaches to the Study of Religion , REL 401 Seminar in Religious Studies , and either JS 100gp Jewish History or JS 180gp Judaism ."
+        },
+        {
+          "text": "Students must choose one course from the Judaism as a Religious Tradition track and one course from the Jewish History and Culture track which are listed below.",
+          "source_line": "Students must choose one course from the Judaism as a Religious Tradition track and one course from the Jewish History and Culture track which are listed below.",
+          "states_choice_rule": true
+        },
+        {
+          "text": "In addition, students must select three courses from either track. No more than two courses in total may come from the lower-division (100 and 200) levels. A total of eight courses are required for the degree (32 units.)",
+          "source_line": "In addition, students must select three courses from either track. No more than two courses in total may come from the lower-division (100 and 200) levels. A total of eight courses are required for the degree (32 units.)",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Students must choose one course from the Judaism as a Religious Tradition track and one course from the Jewish History and Culture track which are listed below.",
+      "total_units": null
+    },
+    {
+      "title": "A. Core Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "JS 100gp",
+          "title": "Jewish History",
+          "units": 4.0,
+          "source_line": "- JS 100gp Jewish History Units: 4"
+        },
+        {
+          "code": "JS 180gp",
+          "title": "Judaism",
+          "units": 4.0,
+          "source_line": "- JS 180gp Judaism Units: 4"
+        },
+        {
+          "code": "REL 301",
+          "title": "Approaches to the Study of Religion",
+          "units": 4.0,
+          "source_line": "- REL 301 Approaches to the Study of Religion Units: 4"
+        },
+        {
+          "code": "REL 401",
+          "title": "Seminar in Religious Studies",
+          "units": 4.0,
+          "source_line": "- REL 401 Seminar in Religious Studies Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Three courses are required. Students must take REL 301 and REL 401 and select one course from either JS 100 or JS 180 .",
+          "source_line": "Three courses are required. Students must take REL 301 and REL 401 and select one course from either JS 100 or JS 180 .",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Three courses are required. Students must take REL 301 and REL 401 and select one course from either JS 100 or JS 180 .",
+      "total_units": null
+    },
+    {
+      "title": "B. Judaism as a Religious Tradition (at least one course required)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "JS 180gp",
+          "title": "Judaism",
+          "units": 4.0,
+          "source_line": "- JS 180gp Judaism Units: 4"
+        },
+        {
+          "code": "JS 258gp",
+          "title": "Food and Faith",
+          "units": 4.0,
+          "source_line": "- JS 258gp Food and Faith Units: 4"
+        },
+        {
+          "code": "JS 314gp",
+          "title": "Holy War And History: Jews, Christians, Muslims",
+          "units": 4.0,
+          "source_line": "- JS 314gp Holy War And History: Jews, Christians, Muslims Units: 4"
+        },
+        {
+          "code": "JS 321",
+          "title": "Gender and Judaism",
+          "units": 4.0,
+          "source_line": "- JS 321 Gender and Judaism Units: 4"
+        },
+        {
+          "code": "JS 361gp",
+          "title": "Scripture and Polemic in Judaism, Christianity and Islam",
+          "units": 4.0,
+          "source_line": "- JS 361gp Scripture and Polemic in Judaism, Christianity and Islam Units: 4"
+        },
+        {
+          "code": "JS 374",
+          "title": "Messiah: The History of an Idea",
+          "units": 4.0,
+          "source_line": "- JS 374 Messiah: The History of an Idea Units: 4"
+        },
+        {
+          "code": "JS 378gp",
+          "title": "Jewish Magic in the Ancient World",
+          "units": 4.0,
+          "source_line": "- JS 378gp Jewish Magic in the Ancient World Units: 4"
+        },
+        {
+          "code": "JS 382g",
+          "title": "Judaism as an American Religion",
+          "units": 4.0,
+          "source_line": "- JS 382g Judaism as an American Religion Units: 4"
+        },
+        {
+          "code": "JS 467",
+          "title": "Modern Jewish Thought",
+          "units": 4.0,
+          "source_line": "- JS 467 Modern Jewish Thought Units: 4"
+        },
+        {
+          "code": "REL 111g",
+          "title": "The World of the Hebrew Bible",
+          "units": 4.0,
+          "source_line": "- REL 111g The World of the Hebrew Bible Units: 4"
+        },
+        {
+          "code": "REL 112g",
+          "title": "Religions of Ancient Egypt and the Near East",
+          "units": 4.0,
+          "source_line": "- REL 112g Religions of Ancient Egypt and the Near East Units: 4"
+        },
+        {
+          "code": "REL 114g",
+          "title": "The Mediterranean: A Religious History",
+          "units": 4.0,
+          "source_line": "- REL 114g The Mediterranean: A Religious History Units: 4"
+        },
+        {
+          "code": "REL 115g",
+          "title": "Jerusalem, City of Three Faiths",
+          "units": 4.0,
+          "source_line": "- REL 115g Jerusalem, City of Three Faiths Units: 4"
+        },
+        {
+          "code": "REL 121g",
+          "title": "The New Testament",
+          "units": 4.0,
+          "source_line": "- REL 121g The New Testament Units: 4"
+        },
+        {
+          "code": "REL 132g",
+          "title": "Origins of Western Religions",
+          "units": 4.0,
+          "source_line": "- REL 132g Origins of Western Religions Units: 4"
+        },
+        {
+          "code": "REL 311g",
+          "title": "The Bible in Western Literature",
+          "units": 4.0,
+          "source_line": "- REL 311g The Bible in Western Literature Units: 4"
+        },
+        {
+          "code": "REL 312",
+          "title": "Biblical Wisdom Literature",
+          "units": 4.0,
+          "source_line": "- REL 312 Biblical Wisdom Literature Units: 4"
+        },
+        {
+          "code": "REL 317g",
+          "title": "The Bible in Its Ancient Context",
+          "units": 4.0,
+          "source_line": "- REL 317g The Bible in Its Ancient Context Units: 4"
+        },
+        {
+          "code": "REL 359g",
+          "title": "Culture in Diaspora: The Jews of Spain",
+          "units": 4.0,
+          "source_line": "- REL 359g Culture in Diaspora: The Jews of Spain Units: 4"
+        },
+        {
+          "code": "REL 364",
+          "title": "Religion and Ethics",
+          "units": 4.0,
+          "source_line": "- REL 364 Religion and Ethics Units: 4"
+        },
+        {
+          "code": "REL 394",
+          "title": "Archaeology of Egypt and the Near East",
+          "units": 4.0,
+          "source_line": "- REL 394 Archaeology of Egypt and the Near East Units: 4"
+        },
+        {
+          "code": "REL 473",
+          "title": "Advanced Hebrew Bible Studies",
+          "units": 4.0,
+          "source_line": "- REL 473 Advanced Hebrew Bible Studies Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "C. Jewish History and Culture (at least one course required)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HEBR 315",
+          "title": "Modern Hebrew Language (Hebrew IV)",
+          "units": 4.0,
+          "source_line": "- HEBR 315 Modern Hebrew Language (Hebrew IV) Units: 4"
+        },
+        {
+          "code": "HIST 305",
+          "title": "Women and Gender in Pre-Modern Europe",
+          "units": 4.0,
+          "source_line": "- HIST 305 Women and Gender in Pre-Modern Europe Units: 4"
+        },
+        {
+          "code": "HIST 323",
+          "title": "The Holocaust in 20th Century Europe",
+          "units": 4.0,
+          "source_line": "- HIST 323 The Holocaust in 20th Century Europe Units: 4"
+        },
+        {
+          "code": "HIST 402",
+          "title": "Cultural Heritage, Religion, and Politics in the Middle East",
+          "units": 4.0,
+          "source_line": "- HIST 402 Cultural Heritage, Religion, and Politics in the Middle East Units: 4"
+        },
+        {
+          "code": "HIST 443",
+          "title": "Race and Religious Riots in Modern World History",
+          "units": 4.0,
+          "source_line": "- HIST 443 Race and Religious Riots in Modern World History Units: 4"
+        },
+        {
+          "code": "HIST 444",
+          "title": "Mass Violence and Comparative Genocide in Modern World History",
+          "units": 4.0,
+          "source_line": "- HIST 444 Mass Violence and Comparative Genocide in Modern World History Units: 4"
+        },
+        {
+          "code": "HIST 446",
+          "title": "Resistance to Genocide",
+          "units": 4.0,
+          "source_line": "- HIST 446 Resistance to Genocide Units: 4"
+        },
+        {
+          "code": "ITAL 352",
+          "title": "The Holocaust in Italian Fiction and Film",
+          "units": 4.0,
+          "source_line": "- ITAL 352 The Holocaust in Italian Fiction and Film Units: 4"
+        },
+        {
+          "code": "JS 100gp",
+          "title": "Jewish History",
+          "units": 4.0,
+          "source_line": "- JS 100gp Jewish History Units: 4"
+        },
+        {
+          "code": "JS 211gw",
+          "title": "The Holocaust",
+          "units": 4.0,
+          "source_line": "- JS 211gw The Holocaust Units: 4"
+        },
+        {
+          "code": "JS 214",
+          "title": "Zionism, Israel, and the Modern World",
+          "units": 4.0,
+          "source_line": "- JS 214 Zionism, Israel, and the Modern World Units: 4"
+        },
+        {
+          "code": "JS 300",
+          "title": "American Jewish History",
+          "units": 4.0,
+          "source_line": "- JS 300 American Jewish History Units: 4"
+        },
+        {
+          "code": "JS 315g",
+          "title": "Anti-Semitism, Racism and Other Hatreds",
+          "units": 4.0,
+          "source_line": "- JS 315g Anti-Semitism, Racism and Other Hatreds Units: 4"
+        },
+        {
+          "code": "JS 330",
+          "title": "Jewish Politics in the Contemporary World",
+          "units": 4.0,
+          "source_line": "- JS 330 Jewish Politics in the Contemporary World Units: 4"
+        },
+        {
+          "code": "JS 340",
+          "title": "Modern Jewish History",
+          "units": 4.0,
+          "source_line": "- JS 340 Modern Jewish History Units: 4"
+        },
+        {
+          "code": "JS 342",
+          "title": "Reading in Two Directions: Connecting Law and Literature in Jewish Tradition",
+          "units": 4.0,
+          "source_line": "- JS 342 Reading in Two Directions: Connecting Law and Literature in Jewish Tradition Units: 4"
+        },
+        {
+          "code": "JS 360m",
+          "title": "Identity, Community, and Service: Jews and Other Americans",
+          "units": 4.0,
+          "source_line": "- JS 360m Identity, Community, and Service: Jews and Other Americans Units: 4"
+        },
+        {
+          "code": "JS 362",
+          "title": "Terror and Resistance in Literature and the Media",
+          "units": 4.0,
+          "source_line": "- JS 362 Terror and Resistance in Literature and the Media Units: 4"
+        },
+        {
+          "code": "JS 370gp",
+          "title": "Digs and Dispute: Religion and Archaeology in Israel",
+          "units": 4.0,
+          "source_line": "- JS 370gp Digs and Dispute: Religion and Archaeology in Israel Units: 4"
+        },
+        {
+          "code": "JS 379gm",
+          "title": "Mixing and Matching: Intermarriage in the 21st Century",
+          "units": 4.0,
+          "source_line": "- JS 379gm Mixing and Matching: Intermarriage in the 21st Century Units: 4"
+        },
+        {
+          "code": "JS 381",
+          "title": "The Jew in American Society",
+          "units": 4.0,
+          "source_line": "- JS 381 The Jew in American Society Units: 4"
+        },
+        {
+          "code": "JS 383gp",
+          "title": "Jews in American Popular Culture",
+          "units": 4.0,
+          "source_line": "- JS 383gp Jews in American Popular Culture Units: 4"
+        },
+        {
+          "code": "JS 389",
+          "title": "Culture and Society in Israel: Inventing the Dream",
+          "units": 4.0,
+          "source_line": "- JS 389 Culture and Society in Israel: Inventing the Dream Units: 4"
+        },
+        {
+          "code": "JS 390",
+          "title": "Special Problems , 2, 3, 4",
+          "units": 1.0,
+          "source_line": "- JS 390 Special Problems Units: 1, 2, 3, 4"
+        },
+        {
+          "code": "JS 415",
+          "title": "The American Jewish Experience in Film",
+          "units": 4.0,
+          "source_line": "- JS 415 The American Jewish Experience in Film Units: 4"
+        },
+        {
+          "code": "JS 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- JS 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "JS 499",
+          "title": "Special Topics",
+          "units": 4.0,
+          "source_line": "- JS 499 Special Topics Units: 4"
+        },
+        {
+          "code": "MSCR 475",
+          "title": "Introduction to Jewish Music",
+          "units": 2.0,
+          "source_line": "- MSCR 475 Introduction to Jewish Music Units: 2"
+        },
+        {
+          "code": "REL 324g",
+          "title": "Sex and the Bible: Gender, Sexuality, and Scripture",
+          "units": 4.0,
+          "source_line": "- REL 324g Sex and the Bible: Gender, Sexuality, and Scripture Units: 4"
+        },
+        {
+          "code": "SPAN 350",
+          "title": "Cultural Cross-Currents of the Iberian Middle Ages",
+          "units": 4.0,
+          "source_line": "- SPAN 350 Cultural Cross-Currents of the Iberian Middle Ages Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "D. Major Electives (three courses required)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "In addition to the three core courses in Area A and one required course in each of Areas B and C, students must complete three additional courses chosen from lists B and C. No more than two courses in total may come from the lower-division (100 and 200) levels.",
+          "source_line": "In addition to the three core courses in Area A and one required course in each of Areas B and C, students must complete three additional courses chosen from lists B and C. No more than two courses in total may come from the lower-division (100 and 200) levels.",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Jewish Studies majors are encouraged to take HEBR 120 , HEBR 150 and HEBR 220 , which fulfill the Dornsife College foreign language requirement.",
+          "source_line": "Jewish Studies majors are encouraged to take HEBR 120 , HEBR 150 and HEBR 220 , which fulfill the Dornsife College foreign language requirement."
+        }
+      ],
+      "choice": "In addition to the three core courses in Area A and one required course in each of Areas B and C, students must complete three additional courses chosen from lists B and C. No more than two courses in total may come from the lower-division (100 and 200) levels.",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

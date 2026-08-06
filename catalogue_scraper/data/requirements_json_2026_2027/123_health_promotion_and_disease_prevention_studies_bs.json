@@ -1,0 +1,493 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Health Promotion and Disease Prevention Studies (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32209",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32209&returnto=9396",
+    "source_text_file": "123_health_promotion_and_disease_prevention_studies_bs.txt",
+    "source_content_sha256": "357cfc6c9ac84973d4f349e75e8c9718a76f09fa9a6e401c09ba10c06e8d7467",
+    "retrieved_at": "2026-07-31T00:54:46Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "edu/pphs/education/bachelor-of-science/\n\nDirector: Daniel Soto, EdD, MPH\n\n#### Program Requirements\n\nThe Bachelor of Science degree is awarded after students successfully complete 128 units, consisting of 66 units for the major and fulfillment of USC general education requirements including third semester equivalency in a foreign language.",
+      "#### Requirements for the Major (66 units)\n\nThe program is divided into core and elective components.",
+      "The following core component (42 units) is required of all students.",
+      "## Non-HP Courses (20 Units)\n\n---\n\n- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or\n- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4\n-\n- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or\n- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4\n-\n- CHEM 105aLg General Chemistry Units: 4 or\n- CHEM 115aLg Advanced General Chemistry Units: 4\n-\n- MATH 108g Contemporary Precalculus Units: 4 or\n- MATH 125g Calculus I Units: 4 [*]\n-\n- PSYC 100Lg Introduction to Psychology Units: 4\n\n### Note:\n\n---\n\n[*]MATH 125 allows students who have placed out of MATH 108 to take a higher-level math class; it also satisfies the math requirement for premedical students.",
+      "## HP Courses (22 Units)\n\n---\n\n- HP 200 Introduction to Health Promotion and Disease Prevention Units: 4\n- HP 300 Principles of Human Behavior Units: 4\n- HP 320 Biological and Behavioral Basis of Disease Units: 4\n- HP 340Lg Health Behavior Statistical Methods Units: 4\n- HP 350L Health Behavior Research Methods Units: 4\n-\n- HP 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 , max 12\n\n## Advanced HP and Health Profession Preparatory Courses\n\n---\n\nA total of 24 units of electives are required of all students (at least 12 of the 24 must be HP courses)."
+    ],
+    "course_entry_count": 54,
+    "distinct_course_codes": 54,
+    "section_count": 9
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The undergraduate program in Health Promotion and Disease Prevention Studies (HP) provides a well-rounded, professionally focused education leading to the Bachelor of Science degree. The program is concerned with the sociocultural, behavioral, psychological, and biological factors contributing to wellness and disease. It is an ideal major for students interested in medicine, pharmacy, dentistry, public health, epidemiology, health psychology and health behavior research. Areas of study include: global health; cultural diversity in medicine; substance abuse prevention and program planning; nutrition and fitness; health promotion of minority and underserved populations; and general public health issues (e.g., violence prevention, chronic disease, infectious disease and behavioral medicine).",
+          "source_line": "The undergraduate program in Health Promotion and Disease Prevention Studies (HP) provides a well-rounded, professionally focused education leading to the Bachelor of Science degree. The program is concerned with the sociocultural, behavioral, psychological, and biological factors contributing to wellness and disease. It is an ideal major for students interested in medicine, pharmacy, dentistry, public health, epidemiology, health psychology and health behavior research. Areas of study include: global health; cultural diversity in medicine; substance abuse prevention and program planning; nutrition and fitness; health promotion of minority and underserved populations; and general public health issues (e.g., violence prevention, chronic disease, infectious disease and behavioral medicine)."
+        },
+        {
+          "text": "837 Downey Way",
+          "source_line": "837 Downey Way"
+        },
+        {
+          "text": "Stonier Hall, Suite 101",
+          "source_line": "Stonier Hall, Suite 101"
+        },
+        {
+          "text": "Los Angeles, CA 90089-1149",
+          "source_line": "Los Angeles, CA 90089-1149"
+        },
+        {
+          "text": "(213) 740-1060",
+          "source_line": "(213) 740-1060"
+        },
+        {
+          "text": "bhealthy@usc.edu",
+          "source_line": "bhealthy@usc.edu"
+        },
+        {
+          "text": "keck.usc.edu/pphs/education/bachelor-of-science/",
+          "source_line": "keck.usc.edu/pphs/education/bachelor-of-science/"
+        },
+        {
+          "text": "Director: Daniel Soto, EdD, MPH",
+          "source_line": "Director: Daniel Soto, EdD, MPH"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Science degree is awarded after students successfully complete 128 units, consisting of 66 units for the major and fulfillment of USC general education requirements including third semester equivalency in a foreign language.",
+          "source_line": "The Bachelor of Science degree is awarded after students successfully complete 128 units, consisting of 66 units for the major and fulfillment of USC general education requirements including third semester equivalency in a foreign language."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education .",
+          "source_line": "The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Requirements for the Major (66 units)",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The program is divided into core and elective components.",
+          "source_line": "The program is divided into core and elective components."
+        },
+        {
+          "text": "The following core component (42 units) is required of all students.",
+          "source_line": "The following core component (42 units) is required of all students."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Non-HP Courses (20 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 120Lg",
+          "title": "General Biology: Organismal Biology and Evolution  or",
+          "units": 4.0,
+          "source_line": "- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or"
+        },
+        {
+          "code": "BISC 121Lg",
+          "title": "Advanced General Biology: Organismal Biology and Evolution",
+          "units": 4.0,
+          "source_line": "- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4"
+        },
+        {
+          "code": "BISC 220Lg",
+          "title": "General Biology: Cell Biology and Physiology  or",
+          "units": 4.0,
+          "source_line": "- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or"
+        },
+        {
+          "code": "BISC 221Lg",
+          "title": "Advanced General Biology: Cell Biology and Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4"
+        },
+        {
+          "code": "CHEM 105aLg",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105aLg General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 115aLg",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115aLg Advanced General Chemistry Units: 4"
+        },
+        {
+          "code": "MATH 108g",
+          "title": "Contemporary Precalculus  or",
+          "units": 4.0,
+          "source_line": "- MATH 108g Contemporary Precalculus Units: 4 or"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I  [*]",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4 [*]"
+        },
+        {
+          "code": "PSYC 100Lg",
+          "title": "Introduction to Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 100Lg Introduction to Psychology Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "[*]MATH 125 allows students who have placed out of MATH 108 to take a higher-level math class; it also satisfies the math requirement for premedical students.",
+          "source_line": "[*]MATH 125 allows students who have placed out of MATH 108 to take a higher-level math class; it also satisfies the math requirement for premedical students."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "HP Courses (22 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HP 200",
+          "title": "Introduction to Health Promotion and Disease Prevention",
+          "units": 4.0,
+          "source_line": "- HP 200 Introduction to Health Promotion and Disease Prevention Units: 4"
+        },
+        {
+          "code": "HP 300",
+          "title": "Principles of Human Behavior",
+          "units": 4.0,
+          "source_line": "- HP 300 Principles of Human Behavior Units: 4"
+        },
+        {
+          "code": "HP 320",
+          "title": "Biological and Behavioral Basis of Disease",
+          "units": 4.0,
+          "source_line": "- HP 320 Biological and Behavioral Basis of Disease Units: 4"
+        },
+        {
+          "code": "HP 340Lg",
+          "title": "Health Behavior Statistical Methods",
+          "units": 4.0,
+          "source_line": "- HP 340Lg Health Behavior Statistical Methods Units: 4"
+        },
+        {
+          "code": "HP 350L",
+          "title": "Health Behavior Research Methods",
+          "units": 4.0,
+          "source_line": "- HP 350L Health Behavior Research Methods Units: 4"
+        },
+        {
+          "code": "HP 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8 , max 12",
+          "units": 1.0,
+          "source_line": "- HP 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 , max 12"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Advanced HP and Health Profession Preparatory Courses",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A total of 24 units of electives are required of all students (at least 12 of the 24 must be HP courses).",
+          "source_line": "A total of 24 units of electives are required of all students (at least 12 of the 24 must be HP courses)."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (24 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ADSC 250",
+          "title": "Fundamentals of Addiction Science",
+          "units": 4.0,
+          "source_line": "- ADSC 250 Fundamentals of Addiction Science Units: 4"
+        },
+        {
+          "code": "BISC 320Lg",
+          "title": "Molecular Biology",
+          "units": 4.0,
+          "source_line": "- BISC 320Lg Molecular Biology Units: 4"
+        },
+        {
+          "code": "BISC 330L",
+          "title": "Biochemistry",
+          "units": 4.0,
+          "source_line": "- BISC 330L Biochemistry Units: 4"
+        },
+        {
+          "code": "BISC 428",
+          "title": "The Biology of Health from a Global Perspective",
+          "units": 4.0,
+          "source_line": "- BISC 428 The Biology of Health from a Global Perspective Units: 4"
+        },
+        {
+          "code": "CHEM 105bL",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105bL General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 115bL",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115bL Advanced General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 322aL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 322aL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 322bL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 322bL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "HBIO 301L",
+          "title": "Human Anatomy",
+          "units": 4.0,
+          "source_line": "- HBIO 301L Human Anatomy Units: 4"
+        },
+        {
+          "code": "HP 365gmw",
+          "title": "Culture, Lifestyle, and Health",
+          "units": 4.0,
+          "source_line": "- HP 365gmw Culture, Lifestyle, and Health Units: 4"
+        },
+        {
+          "code": "HP 370g",
+          "title": "Introduction to Epidemiology: Methods and Applications",
+          "units": 4.0,
+          "source_line": "- HP 370g Introduction to Epidemiology: Methods and Applications Units: 4"
+        },
+        {
+          "code": "HP 401",
+          "title": "Cultural Competence in Medicine",
+          "units": 4.0,
+          "source_line": "- HP 401 Cultural Competence in Medicine Units: 4"
+        },
+        {
+          "code": "HP 402",
+          "title": "Maternal and Child Health",
+          "units": 4.0,
+          "source_line": "- HP 402 Maternal and Child Health Units: 4"
+        },
+        {
+          "code": "HP 405",
+          "title": "Sexually Transmitted Diseases: A Global Public Health Priority",
+          "units": 4.0,
+          "source_line": "- HP 405 Sexually Transmitted Diseases: A Global Public Health Priority Units: 4"
+        },
+        {
+          "code": "HP 408",
+          "title": "Environmental Health in the Community",
+          "units": 4.0,
+          "source_line": "- HP 408 Environmental Health in the Community Units: 4"
+        },
+        {
+          "code": "HP 410",
+          "title": "Issues in Prevention and Cessation of Drug Abuse",
+          "units": 4.0,
+          "source_line": "- HP 410 Issues in Prevention and Cessation of Drug Abuse Units: 4"
+        },
+        {
+          "code": "HP 420m",
+          "title": "Gender and Minority Health Issues",
+          "units": 4.0,
+          "source_line": "- HP 420m Gender and Minority Health Issues Units: 4"
+        },
+        {
+          "code": "HP 421",
+          "title": "Violence as a Public Health Issue",
+          "units": 4.0,
+          "source_line": "- HP 421 Violence as a Public Health Issue Units: 4"
+        },
+        {
+          "code": "HP 422",
+          "title": "AIDS in Society",
+          "units": 4.0,
+          "source_line": "- HP 422 AIDS in Society Units: 4"
+        },
+        {
+          "code": "HP 430",
+          "title": "Obesity and Health",
+          "units": 4.0,
+          "source_line": "- HP 430 Obesity and Health Units: 4"
+        },
+        {
+          "code": "HP 431",
+          "title": "Behavior and Education Strategies for Nutrition and Fitness",
+          "units": 4.0,
+          "source_line": "- HP 431 Behavior and Education Strategies for Nutrition and Fitness Units: 4"
+        },
+        {
+          "code": "HP 432",
+          "title": "Clinical Nutrition",
+          "units": 4.0,
+          "source_line": "- HP 432 Clinical Nutrition Units: 4"
+        },
+        {
+          "code": "HP 440",
+          "title": "Happiness, Well-Being, and Health",
+          "units": 4.0,
+          "source_line": "- HP 440 Happiness, Well-Being, and Health Units: 4"
+        },
+        {
+          "code": "HP 442",
+          "title": "Chronic Disease Epidemiology",
+          "units": 4.0,
+          "source_line": "- HP 442 Chronic Disease Epidemiology Units: 4"
+        },
+        {
+          "code": "HP 446",
+          "title": "Poisons, People, and Politics",
+          "units": 4.0,
+          "source_line": "- HP 446 Poisons, People, and Politics Units: 4"
+        },
+        {
+          "code": "HP 448",
+          "title": "Global Environmental Changes and Health",
+          "units": 4.0,
+          "source_line": "- HP 448 Global Environmental Changes and Health Units: 4"
+        },
+        {
+          "code": "HP 450",
+          "title": "Traditional Eastern Medicine and Modern Health",
+          "units": 4.0,
+          "source_line": "- HP 450 Traditional Eastern Medicine and Modern Health Units: 4"
+        },
+        {
+          "code": "HP 460",
+          "title": "Adolescent Health",
+          "units": 4.0,
+          "source_line": "- HP 460 Adolescent Health Units: 4"
+        },
+        {
+          "code": "PHYS 135aLg",
+          "title": "Physics for the Life Sciences  and",
+          "units": 4.0,
+          "source_line": "- PHYS 135aLg Physics for the Life Sciences Units: 4 and"
+        },
+        {
+          "code": "PHYS 135bL",
+          "title": "Physics for the Life Sciences  or",
+          "units": 4.0,
+          "source_line": "- PHYS 135bL Physics for the Life Sciences Units: 4 or"
+        },
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves  and",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 and"
+        },
+        {
+          "code": "PHYS 152L",
+          "title": "Fundamentals of Physics II: Electricity and Magnetism",
+          "units": 4.0,
+          "source_line": "- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4"
+        },
+        {
+          "code": "PPD 325",
+          "title": "Fundamentals of Health Policy and Management",
+          "units": 4.0,
+          "source_line": "- PPD 325 Fundamentals of Health Policy and Management Units: 4"
+        },
+        {
+          "code": "PPD 330",
+          "title": "Introduction to Health Care Systems",
+          "units": 4.0,
+          "source_line": "- PPD 330 Introduction to Health Care Systems Units: 4"
+        },
+        {
+          "code": "PSYC 336L",
+          "title": "Developmental Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 336L Developmental Psychology Units: 4"
+        },
+        {
+          "code": "PSYC 355",
+          "title": "Social Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 355 Social Psychology Units: 4"
+        },
+        {
+          "code": "PSYC 437",
+          "title": "Adolescent Development",
+          "units": 4.0,
+          "source_line": "- PSYC 437 Adolescent Development Units: 4"
+        },
+        {
+          "code": "SOCI 350",
+          "title": "Social Exclusion, Social Power and Deviance",
+          "units": 4.0,
+          "source_line": "- SOCI 350 Social Exclusion, Social Power and Deviance Units: 4"
+        },
+        {
+          "code": "SOCI 475",
+          "title": "Medical Sociology",
+          "units": 4.0,
+          "source_line": "- SOCI 475 Medical Sociology Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,740 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Biological Sciences (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31718",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31718&returnto=9396",
+    "source_text_file": "031_biological_sciences_bs.txt",
+    "source_content_sha256": "5fb64b4d9694e92ad2e7049c1d5e95e53cca29c4ae3a351ff362ce7efaa98a94",
+    "retrieved_at": "2026-07-31T00:50:04Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Lower-Division BISC Core Courses (8 units)\n\n---\n\n- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or\n- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4\n-\n- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or\n- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4\n\n## Collateral Sciences Courses (32 units)\n\n---\n\n### General Chemistry Requirement: 8 units\n\n---\n\n- CHEM 105aLg General Chemistry Units: 4 or\n- CHEM 107Lg General Chemistry for Chemistry Majors Units: 4 or\n- CHEM 115aLg Advanced General Chemistry Units: 4\n-\n- CHEM 105bL General Chemistry Units: 4 or\n- CHEM 108L General Chemistry for Chemistry Majors: Kinetics and Equilibrium Units: 4 or\n- CHEM 115bL Advanced General Chemistry Units: 4\n\n### Organic Chemistry Requirement: 8 units\n\n---\n\n- CHEM 322aL Organic Chemistry Units: 4 or\n- CHEM 325aL Organic Chemistry Units: 4\n-\n- CHEM 322bL Organic Chemistry Units: 4 or\n- CHEM 325bL Organic Chemistry Units: 4\n\n### Calculus Requirement: 4 units\n\n---\n\n- MATH 125g Calculus I Units: 4\n\n### Statistics Requirement: 4 units\n\n---\n\n- MATH 208x Elementary Probability and Statistics Units: 4 or\n- QBIO 305g Statistics for Biological Sciences Units: 4 or\n- QBIO 310 Statistical Thinking for Quantitative Biology Units: 4\n\n### Physics Requirement: 8 units\n\n---\n\n- PHYS 135aLg Physics for the Life Sciences Units: 4 or\n- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4\n-\n- PHYS 135bL Physics for the Life Sciences Units: 4 or\n- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4\n\n## Introduction to Research-Active Faculty (1 to 2 units)\n\n---\n\nEnroll in one or two of the courses below.",
+      "- BISC 193 Introduction to Research I Units: 1\n- BISC 194 Introduction to Research II Units: 1\n- BISC 199 Neuroscience Colloquium Units: 1\n\n## Upper-Division BISC Core Courses (12 units)\n\n---\n\n- BISC 320Lg Molecular Biology Units: 4\n- BISC 325 Genetics Units: 4\n- BISC 330L Biochemistry Units: 4\n\n## Upper-Division Electives (20 units)\n\n---\n\nTwenty units of upper-division BISC course work available for major credit are required.",
+      "No more than 4 units of BISC 490x may be used to fulfill the upper-division elective requirement.",
+      "In addition, no more than two seminars (BISC 460 to BISC 462 ), totaling 4 units, may be applied to the upper-division elective requirement.",
+      "Honors students are required to take two semesters of BISC 493x Honors Seminar (1 unit/ - semester) and one semester of BISC 494x Honors Thesis (2 units) in addition to fulfilling all requirements of the BA or BS degree."
+    ],
+    "course_entry_count": 89,
+    "distinct_course_codes": 89,
+    "section_count": 16
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The general education, writing, foreign language and diversity requirements for a degree in the USC Dornsife College of Letters, Arts and Sciences are applicable. Among all undergraduate degrees in Biological Sciences offered by the Department of Biological Sciences, this degree provides the most general life science training. Students seeking a more focused curriculum may choose from four areas of emphasis within the Biological Sciences major. These are Biotechnology; Ecology, Evolution and Environment; Marine Biology; and Molecular, Cellular and Developmental Biology. Areas of emphasis are denoted on transcripts.",
+          "source_line": "The general education, writing, foreign language and diversity requirements for a degree in the USC Dornsife College of Letters, Arts and Sciences are applicable. Among all undergraduate degrees in Biological Sciences offered by the Department of Biological Sciences, this degree provides the most general life science training. Students seeking a more focused curriculum may choose from four areas of emphasis within the Biological Sciences major. These are Biotechnology; Ecology, Evolution and Environment; Marine Biology; and Molecular, Cellular and Developmental Biology. Areas of emphasis are denoted on transcripts.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "The general education, writing, foreign language and diversity requirements for a degree in the USC Dornsife College of Letters, Arts and Sciences are applicable. Among all undergraduate degrees in Biological Sciences offered by the Department of Biological Sciences, this degree provides the most general life science training. Students seeking a more focused curriculum may choose from four areas of emphasis within the Biological Sciences major. These are Biotechnology; Ecology, Evolution and Environment; Marine Biology; and Molecular, Cellular and Developmental Biology. Areas of emphasis are denoted on transcripts.",
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division BISC Core Courses (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 120Lg",
+          "title": "General Biology: Organismal Biology and Evolution  or",
+          "units": 4.0,
+          "source_line": "- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or"
+        },
+        {
+          "code": "BISC 121Lg",
+          "title": "Advanced General Biology: Organismal Biology and Evolution",
+          "units": 4.0,
+          "source_line": "- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4"
+        },
+        {
+          "code": "BISC 220Lg",
+          "title": "General Biology: Cell Biology and Physiology  or",
+          "units": 4.0,
+          "source_line": "- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or"
+        },
+        {
+          "code": "BISC 221Lg",
+          "title": "Advanced General Biology: Cell Biology and Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Collateral Sciences Courses (32 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Chemistry Requirement: 8 units",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CHEM 105aLg",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105aLg General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 107Lg",
+          "title": "General Chemistry for Chemistry Majors  or",
+          "units": 4.0,
+          "source_line": "- CHEM 107Lg General Chemistry for Chemistry Majors Units: 4 or"
+        },
+        {
+          "code": "CHEM 115aLg",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115aLg Advanced General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 105bL",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105bL General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 108L",
+          "title": "General Chemistry for Chemistry Majors: Kinetics and Equilibrium  or",
+          "units": 4.0,
+          "source_line": "- CHEM 108L General Chemistry for Chemistry Majors: Kinetics and Equilibrium Units: 4 or"
+        },
+        {
+          "code": "CHEM 115bL",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115bL Advanced General Chemistry Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Organic Chemistry Requirement: 8 units",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CHEM 322aL",
+          "title": "Organic Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 322aL Organic Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 325aL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 325aL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 322bL",
+          "title": "Organic Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 322bL Organic Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 325bL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 325bL Organic Chemistry Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Calculus Requirement: 4 units",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Statistics Requirement: 4 units",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MATH 208x",
+          "title": "Elementary Probability and Statistics  or",
+          "units": 4.0,
+          "source_line": "- MATH 208x Elementary Probability and Statistics Units: 4 or"
+        },
+        {
+          "code": "QBIO 305g",
+          "title": "Statistics for Biological Sciences  or",
+          "units": 4.0,
+          "source_line": "- QBIO 305g Statistics for Biological Sciences Units: 4 or"
+        },
+        {
+          "code": "QBIO 310",
+          "title": "Statistical Thinking for Quantitative Biology",
+          "units": 4.0,
+          "source_line": "- QBIO 310 Statistical Thinking for Quantitative Biology Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Physics Requirement: 8 units",
+      "level": 3,
+      "courses": [
+        {
+          "code": "PHYS 135aLg",
+          "title": "Physics for the Life Sciences  or",
+          "units": 4.0,
+          "source_line": "- PHYS 135aLg Physics for the Life Sciences Units: 4 or"
+        },
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4"
+        },
+        {
+          "code": "PHYS 135bL",
+          "title": "Physics for the Life Sciences  or",
+          "units": 4.0,
+          "source_line": "- PHYS 135bL Physics for the Life Sciences Units: 4 or"
+        },
+        {
+          "code": "PHYS 152L",
+          "title": "Fundamentals of Physics II: Electricity and Magnetism",
+          "units": 4.0,
+          "source_line": "- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Introduction to Research-Active Faculty (1 to 2 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 193",
+          "title": "Introduction to Research I",
+          "units": 1.0,
+          "source_line": "- BISC 193 Introduction to Research I Units: 1"
+        },
+        {
+          "code": "BISC 194",
+          "title": "Introduction to Research II",
+          "units": 1.0,
+          "source_line": "- BISC 194 Introduction to Research II Units: 1"
+        },
+        {
+          "code": "BISC 199",
+          "title": "Neuroscience Colloquium",
+          "units": 1.0,
+          "source_line": "- BISC 199 Neuroscience Colloquium Units: 1"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Enroll in one or two of the courses below.",
+          "source_line": "Enroll in one or two of the courses below."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division BISC Core Courses (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 320Lg",
+          "title": "Molecular Biology",
+          "units": 4.0,
+          "source_line": "- BISC 320Lg Molecular Biology Units: 4"
+        },
+        {
+          "code": "BISC 325",
+          "title": "Genetics",
+          "units": 4.0,
+          "source_line": "- BISC 325 Genetics Units: 4"
+        },
+        {
+          "code": "BISC 330L",
+          "title": "Biochemistry",
+          "units": 4.0,
+          "source_line": "- BISC 330L Biochemistry Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Electives (20 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 300L",
+          "title": "Microbiology",
+          "units": 4.0,
+          "source_line": "- BISC 300L Microbiology Units: 4"
+        },
+        {
+          "code": "BISC 303L",
+          "title": "The Kingdom Plantae: An Introduction to Botany",
+          "units": 4.0,
+          "source_line": "- BISC 303L The Kingdom Plantae: An Introduction to Botany Units: 4"
+        },
+        {
+          "code": "BISC 307L",
+          "title": "General Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 307L General Physiology Units: 4"
+        },
+        {
+          "code": "BISC 313L",
+          "title": "Evolution and Population Genetics",
+          "units": 4.0,
+          "source_line": "- BISC 313L Evolution and Population Genetics Units: 4"
+        },
+        {
+          "code": "BISC 314L",
+          "title": "Cell Culture",
+          "units": 4.0,
+          "source_line": "- BISC 314L Cell Culture Units: 4"
+        },
+        {
+          "code": "BISC 315L",
+          "title": "Introduction to Ecology",
+          "units": 4.0,
+          "source_line": "- BISC 315L Introduction to Ecology Units: 4"
+        },
+        {
+          "code": "BISC 321",
+          "title": "Multidisciplinary Seminar: Science, Technology and Society",
+          "units": 2.0,
+          "source_line": "- BISC 321 Multidisciplinary Seminar: Science, Technology and Society Units: 2"
+        },
+        {
+          "code": "BISC 326L",
+          "title": "Urban Conservation Biology",
+          "units": 4.0,
+          "source_line": "- BISC 326L Urban Conservation Biology Units: 4"
+        },
+        {
+          "code": "BISC 363L",
+          "title": "Mammalogy",
+          "units": 4.0,
+          "source_line": "- BISC 363L Mammalogy Units: 4"
+        },
+        {
+          "code": "BISC 365",
+          "title": "Phylogenetics and Evolution",
+          "units": 2.0,
+          "source_line": "- BISC 365 Phylogenetics and Evolution Units: 2"
+        },
+        {
+          "code": "BISC 369L",
+          "title": "Ecology and the Natural History of California",
+          "units": 4.0,
+          "source_line": "- BISC 369L Ecology and the Natural History of California Units: 4"
+        },
+        {
+          "code": "BISC 372",
+          "title": "Cell Biology",
+          "units": 4.0,
+          "source_line": "- BISC 372 Cell Biology Units: 4"
+        },
+        {
+          "code": "BISC 379L",
+          "title": "Our Future Changing Ocean",
+          "units": 4.0,
+          "source_line": "- BISC 379L Our Future Changing Ocean Units: 4"
+        },
+        {
+          "code": "BISC 402",
+          "title": "RNA Biology and Biotechnology",
+          "units": 4.0,
+          "source_line": "- BISC 402 RNA Biology and Biotechnology Units: 4"
+        },
+        {
+          "code": "BISC 403",
+          "title": "Advanced Molecular Biology",
+          "units": 4.0,
+          "source_line": "- BISC 403 Advanced Molecular Biology Units: 4"
+        },
+        {
+          "code": "BISC 404L",
+          "title": "Biodiversity Data Analytics",
+          "units": 4.0,
+          "source_line": "- BISC 404L Biodiversity Data Analytics Units: 4"
+        },
+        {
+          "code": "BISC 406L",
+          "title": "Biotechnology",
+          "units": 4.0,
+          "source_line": "- BISC 406L Biotechnology Units: 4"
+        },
+        {
+          "code": "BISC 407",
+          "title": "Cellular and Molecular Neuroscience",
+          "units": 4.0,
+          "source_line": "- BISC 407 Cellular and Molecular Neuroscience Units: 4"
+        },
+        {
+          "code": "BISC 408",
+          "title": "Systems Neuroscience: From Synapses to Perception",
+          "units": 4.0,
+          "source_line": "- BISC 408 Systems Neuroscience: From Synapses to Perception Units: 4"
+        },
+        {
+          "code": "BISC 410",
+          "title": "Applications of Molecular Biology to Medicine",
+          "units": 4.0,
+          "source_line": "- BISC 410 Applications of Molecular Biology to Medicine Units: 4"
+        },
+        {
+          "code": "BISC 411",
+          "title": "Advanced Cell Biology",
+          "units": 4.0,
+          "source_line": "- BISC 411 Advanced Cell Biology Units: 4"
+        },
+        {
+          "code": "BISC 414",
+          "title": "Biology of Cancer",
+          "units": 4.0,
+          "source_line": "- BISC 414 Biology of Cancer Units: 4"
+        },
+        {
+          "code": "BISC 421",
+          "title": "Neurobiology",
+          "units": 4.0,
+          "source_line": "- BISC 421 Neurobiology Units: 4"
+        },
+        {
+          "code": "BISC 423",
+          "title": "Epilepsy to Ecstasy: Biological Basis of Neurological Disorders",
+          "units": 4.0,
+          "source_line": "- BISC 423 Epilepsy to Ecstasy: Biological Basis of Neurological Disorders Units: 4"
+        },
+        {
+          "code": "BISC 424",
+          "title": "Brain Architecture",
+          "units": 4.0,
+          "source_line": "- BISC 424 Brain Architecture Units: 4"
+        },
+        {
+          "code": "BISC 425",
+          "title": "Genetics through the Scientific Literature",
+          "units": 4.0,
+          "source_line": "- BISC 425 Genetics through the Scientific Literature Units: 4"
+        },
+        {
+          "code": "BISC 427",
+          "title": "The Global Environment",
+          "units": 4.0,
+          "source_line": "- BISC 427 The Global Environment Units: 4"
+        },
+        {
+          "code": "BISC 428",
+          "title": "The Biology of Health from a Global Perspective",
+          "units": 4.0,
+          "source_line": "- BISC 428 The Biology of Health from a Global Perspective Units: 4"
+        },
+        {
+          "code": "BISC 429",
+          "title": "Cancer Immunology",
+          "units": 4.0,
+          "source_line": "- BISC 429 Cancer Immunology Units: 4"
+        },
+        {
+          "code": "BISC 431L",
+          "title": "Aquatic Microbiology",
+          "units": 4.0,
+          "source_line": "- BISC 431L Aquatic Microbiology Units: 4"
+        },
+        {
+          "code": "BISC 434",
+          "title": "Introduction to Genome Science",
+          "units": 4.0,
+          "source_line": "- BISC 434 Introduction to Genome Science Units: 4"
+        },
+        {
+          "code": "BISC 435",
+          "title": "Advanced Biochemistry",
+          "units": 4.0,
+          "source_line": "- BISC 435 Advanced Biochemistry Units: 4"
+        },
+        {
+          "code": "BISC 438",
+          "title": "Nutritional Biochemistry",
+          "units": 4.0,
+          "source_line": "- BISC 438 Nutritional Biochemistry Units: 4"
+        },
+        {
+          "code": "BISC 444",
+          "title": "Practical Analysis of Biological Data in R",
+          "units": 2.0,
+          "source_line": "- BISC 444 Practical Analysis of Biological Data in R Units: 2"
+        },
+        {
+          "code": "BISC 445L",
+          "title": "Fundamentals of Vertebrate Biology",
+          "units": 4.0,
+          "source_line": "- BISC 445L Fundamentals of Vertebrate Biology Units: 4"
+        },
+        {
+          "code": "BISC 450L",
+          "title": "Principles of Immunology",
+          "units": 4.0,
+          "source_line": "- BISC 450L Principles of Immunology Units: 4"
+        },
+        {
+          "code": "BISC 451",
+          "title": "Protein Engineering",
+          "units": 4.0,
+          "source_line": "- BISC 451 Protein Engineering Units: 4"
+        },
+        {
+          "code": "BISC 460",
+          "title": "Seminar in Ecology, Evolution and Environment",
+          "units": 2.0,
+          "source_line": "- BISC 460 Seminar in Ecology, Evolution and Environment Units: 2"
+        },
+        {
+          "code": "BISC 461",
+          "title": "Seminar in Molecular and Computational Biology",
+          "units": 2.0,
+          "source_line": "- BISC 461 Seminar in Molecular and Computational Biology Units: 2"
+        },
+        {
+          "code": "BISC 462",
+          "title": "Seminar in Neurobiology",
+          "units": 2.0,
+          "source_line": "- BISC 462 Seminar in Neurobiology Units: 2"
+        },
+        {
+          "code": "BISC 466",
+          "title": "Neuroimmunology",
+          "units": 4.0,
+          "source_line": "- BISC 466 Neuroimmunology Units: 4"
+        },
+        {
+          "code": "BISC 469L",
+          "title": "Marine Biology",
+          "units": 4.0,
+          "source_line": "- BISC 469L Marine Biology Units: 4"
+        },
+        {
+          "code": "BISC 473L",
+          "title": "Biological Oceanography",
+          "units": 4.0,
+          "source_line": "- BISC 473L Biological Oceanography Units: 4"
+        },
+        {
+          "code": "BISC 480L",
+          "title": "Developmental Biology",
+          "units": 4.0,
+          "source_line": "- BISC 480L Developmental Biology Units: 4"
+        },
+        {
+          "code": "BISC 483",
+          "title": "Geobiology and Astrobiology",
+          "units": 4.0,
+          "source_line": "- BISC 483 Geobiology and Astrobiology Units: 4"
+        },
+        {
+          "code": "BISC 485",
+          "title": "Advanced Seminar in Bacterial Survival and Evolution",
+          "units": 4.0,
+          "source_line": "- BISC 485 Advanced Seminar in Bacterial Survival and Evolution Units: 4"
+        },
+        {
+          "code": "BISC 488",
+          "title": "Microscopy and Spectroscopy of Biological Systems",
+          "units": 2.0,
+          "source_line": "- BISC 488 Microscopy and Spectroscopy of Biological Systems Units: 2"
+        },
+        {
+          "code": "BISC 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- BISC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "BISC 491L",
+          "title": "Practical Aquaculture",
+          "units": 4.0,
+          "source_line": "- BISC 491L Practical Aquaculture Units: 4"
+        },
+        {
+          "code": "BISC 493x",
+          "title": "Honors Seminar",
+          "units": 1.0,
+          "source_line": "- BISC 493x Honors Seminar Units: 1"
+        },
+        {
+          "code": "BISC 494x",
+          "title": "Honors Thesis",
+          "units": 2.0,
+          "source_line": "- BISC 494x Honors Thesis Units: 2"
+        },
+        {
+          "code": "ENST 335",
+          "title": "Science, Health and the Environment",
+          "units": 4.0,
+          "source_line": "- ENST 335 Science, Health and the Environment Units: 4"
+        },
+        {
+          "code": "GEOL 412",
+          "title": "Oceans, Climate, and the Environment",
+          "units": 4.0,
+          "source_line": "- GEOL 412 Oceans, Climate, and the Environment Units: 4"
+        },
+        {
+          "code": "GERO 440",
+          "title": "Biodemography of Aging",
+          "units": 4.0,
+          "source_line": "- GERO 440 Biodemography of Aging Units: 4"
+        },
+        {
+          "code": "HBIO 301L",
+          "title": "Human Anatomy",
+          "units": 4.0,
+          "source_line": "- HBIO 301L Human Anatomy Units: 4"
+        },
+        {
+          "code": "QBIO 401",
+          "title": "Introduction to Computational Analysis of Biological Data",
+          "units": 4.0,
+          "source_line": "- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4"
+        },
+        {
+          "code": "QBIO 475",
+          "title": "Statistical and Evolutionary Genetics",
+          "units": 4.0,
+          "source_line": "- QBIO 475 Statistical and Evolutionary Genetics Units: 4"
+        },
+        {
+          "code": "QBIO 478",
+          "title": "Computational Genome Analysis",
+          "units": 4.0,
+          "source_line": "- QBIO 478 Computational Genome Analysis Units: 4"
+        },
+        {
+          "code": "QBIO 481",
+          "title": "Structural Bioinformatics: From Atoms to Cells",
+          "units": 4.0,
+          "source_line": "- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4"
+        },
+        {
+          "code": "QBIO 482",
+          "title": "Systems Biology: Modeling the Dynamics of Life",
+          "units": 4.0,
+          "source_line": "- QBIO 482 Systems Biology: Modeling the Dynamics of Life Units: 4"
+        },
+        {
+          "code": "SCRM 487",
+          "title": "Regenerative Medicine: Principles, Paradigms and Practice",
+          "units": 4.0,
+          "source_line": "- SCRM 487 Regenerative Medicine: Principles, Paradigms and Practice Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Twenty units of upper-division BISC course work available for major credit are required. At least two courses in the upper-division electives must carry a lab (“L”) or be 490. No more than 4 units of BISC 490x may be used to fulfill the upper-division elective requirement. In addition, no more than two seminars (BISC 460 to BISC 462 ), totaling 4 units, may be applied to the upper-division elective requirement.",
+          "source_line": "Twenty units of upper-division BISC course work available for major credit are required. At least two courses in the upper-division electives must carry a lab (“L”) or be 490. No more than 4 units of BISC 490x may be used to fulfill the upper-division elective requirement. In addition, no more than two seminars (BISC 460 to BISC 462 ), totaling 4 units, may be applied to the upper-division elective requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total required units: 128",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Scholarship in Major Subject",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The department requires that students receive a grade no lower than C- in their five core courses. They must maintain a 2.0 GPA in the upper-division biology and chemistry courses required for the major, as well as an overall 2.0 GPA. All major core courses must be taken on a letter grade basis.",
+          "source_line": "The department requires that students receive a grade no lower than C- in their five core courses. They must maintain a 2.0 GPA in the upper-division biology and chemistry courses required for the major, as well as an overall 2.0 GPA. All major core courses must be taken on a letter grade basis."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Honors Program in Biological Sciences",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The department offers an honors program to outstanding students already pursuing studies for the BA or BS degree in Biological Sciences. This program offers students an opportunity to participate in undergraduate research, experience in writing an honors thesis summarizing the completed research, and experience in an honors seminar. Honors students are required to take two semesters of BISC 493x Honors Seminar (1 unit/ - semester) and one semester of BISC 494x Honors Thesis (2 units) in addition to fulfilling all requirements of the BA or BS degree. Honors students must also choose BISC 490x as one of their upper division electives. This program leads to the designation on the transcript of Bachelor of Arts or Bachelor of Science in Biological Sciences with Honors.",
+          "source_line": "The department offers an honors program to outstanding students already pursuing studies for the BA or BS degree in Biological Sciences. This program offers students an opportunity to participate in undergraduate research, experience in writing an honors thesis summarizing the completed research, and experience in an honors seminar. Honors students are required to take two semesters of BISC 493x Honors Seminar (1 unit/ - semester) and one semester of BISC 494x Honors Thesis (2 units) in addition to fulfilling all requirements of the BA or BS degree. Honors students must also choose BISC 490x as one of their upper division electives. This program leads to the designation on the transcript of Bachelor of Arts or Bachelor of Science in Biological Sciences with Honors.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "The department offers an honors program to outstanding students already pursuing studies for the BA or BS degree in Biological Sciences. This program offers students an opportunity to participate in undergraduate research, experience in writing an honors thesis summarizing the completed research, and experience in an honors seminar. Honors students are required to take two semesters of BISC 493x Honors Seminar (1 unit/ - semester) and one semester of BISC 494x Honors Thesis (2 units) in addition to fulfilling all requirements of the BA or BS degree. Honors students must also choose BISC 490x as one of their upper division electives. This program leads to the designation on the transcript of Bachelor of Arts or Bachelor of Science in Biological Sciences with Honors.",
+      "total_units": null
+    },
+    {
+      "title": "Honors Admission Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students may apply to the department for admission to the honors program after having completed at least one year of work at USC with a minimum GPA of 3.5 in all science and math courses required for the major.",
+          "source_line": "Students may apply to the department for admission to the honors program after having completed at least one year of work at USC with a minimum GPA of 3.5 in all science and math courses required for the major."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Honors Scholarship Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "For continuation in the honors programs, students must maintain a minimum GPA of 3.5 in the sciences and mathematics courses required for the major.",
+          "source_line": "For continuation in the honors programs, students must maintain a minimum GPA of 3.5 in the sciences and mathematics courses required for the major."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

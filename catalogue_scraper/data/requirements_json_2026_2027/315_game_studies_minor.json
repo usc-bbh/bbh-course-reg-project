@@ -1,0 +1,269 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Game Studies Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31686",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31686&returnto=9396",
+    "source_text_file": "315_game_studies_minor.txt",
+    "source_content_sha256": "b7fadacaa027722d2da825e7e804d7c7f18e825763d09c18c149f579fd158bcf",
+    "retrieved_at": "2026-07-31T01:03:02Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "#### Course Requirements for the Minor:\n\nA total of 24 units is required for the game design minor, at least 6 lower-division units and at least 14 upper-division units.",
+      "## Lower-division Core Units (6 Units)\n\n---\n\n- CTIN 101 Fundamentals of Procedural Media Units: 2\n- CTIN 190 Introduction to Interactive Entertainment Units: 4\n\n## Upper-division Core Units (10 Units)\n\n---\n\n- CTIN 462 Video Game Franchises Units: 4\n- CTIN 464 Game Studies Seminar Units: 2\n- CTIN 488 Game Design Workshop Units: 4\n\n## Electives (8 Additional Units)\n\n---\n\n- AHIS 363m Contemporary Art and the Culture Wars Units: 4\n- AHIS 429 Studies in Art, Science, and Technology Units: 4\n- ANTH 123gp Forms of Folklore Units: 4\n- COMM 340 The Cultures of New Media Units: 4\n- COMM 350 Video Games: Business, Science and Culture Units: 4\n- CTCS 367 Global Media Units: 4\n- CTCS 412 Gender, Sexuality and Media Units: 4\n- CTCS 469 Film and/or Television Style Analysis Units: 4\n- CTCS 478 Culture, Technology and Communications Units: 4\n- CTCS 482 Transmedia Entertainment Units: 4\n- CTIN 289 Game Development Fundamentals Units: 4\n- CTIN 463 Anatomy of a Game Units: 4\n- CTIN 492L Experimental Game Topics Units: 4\n- CTWR 410L Character Development and Storytelling for Games Units: 4\n- HIST 380 American Popular Culture Units: 4\n- IML 466 Digital Studies Symposium Units: 2\n- JOUR 381 Entertainment, Business and Media in Today’s Society Units: 4\n- THTR 395m Drama as Human Relations Units: 4\n- THTR 403 The Performing Arts Units: 4\n- THTR 405m Performing Identities Units: 4\n- THTR 406 Theatre on the Edge Units: 4\n- THTR 488mw Theatre in the Community Units: 4\n\n## Additional Requirements\n\n---\n\n#### Grade Point Average Requirement\n\nA minimum grade of C (2."
+    ],
+    "course_entry_count": 27,
+    "distinct_course_codes": 27,
+    "section_count": 7
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Games are a major cultural form, with game sales now exceeding box office revenue in the United States. Attention to games and interactive media is growing, and it has become necessary to understand them as meaningful systems, reflect on their cultural influence, and to help guide their evolution with insightful criticism. The game studies minor prepares a student with fundamental underpinnings in media criticism and games.",
+          "source_line": "Games are a major cultural form, with game sales now exceeding box office revenue in the United States. Attention to games and interactive media is growing, and it has become necessary to understand them as meaningful systems, reflect on their cultural influence, and to help guide their evolution with insightful criticism. The game studies minor prepares a student with fundamental underpinnings in media criticism and games."
+        },
+        {
+          "text": "To be eligible for the game studies minor, a student must be in good academic standing and have a declared major. To declare the game design minor a student must get permission from the Interactive Media and Games Division (SCI 201) and submit a Change of Major/Minor form to Cinematic Arts Student Affairs (SCB 105).",
+          "source_line": "To be eligible for the game studies minor, a student must be in good academic standing and have a declared major. To declare the game design minor a student must get permission from the Interactive Media and Games Division (SCI 201) and submit a Change of Major/Minor form to Cinematic Arts Student Affairs (SCB 105)."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Course Requirements for the Minor:",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A total of 24 units is required for the game design minor, at least 6 lower-division units and at least 14 upper-division units.",
+          "source_line": "A total of 24 units is required for the game design minor, at least 6 lower-division units and at least 14 upper-division units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-division Core Units (6 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTIN 101",
+          "title": "Fundamentals of Procedural Media",
+          "units": 2.0,
+          "source_line": "- CTIN 101 Fundamentals of Procedural Media Units: 2"
+        },
+        {
+          "code": "CTIN 190",
+          "title": "Introduction to Interactive Entertainment",
+          "units": 4.0,
+          "source_line": "- CTIN 190 Introduction to Interactive Entertainment Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-division Core Units (10 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTIN 462",
+          "title": "Video Game Franchises",
+          "units": 4.0,
+          "source_line": "- CTIN 462 Video Game Franchises Units: 4"
+        },
+        {
+          "code": "CTIN 464",
+          "title": "Game Studies Seminar",
+          "units": 2.0,
+          "source_line": "- CTIN 464 Game Studies Seminar Units: 2"
+        },
+        {
+          "code": "CTIN 488",
+          "title": "Game Design Workshop",
+          "units": 4.0,
+          "source_line": "- CTIN 488 Game Design Workshop Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (8 Additional Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AHIS 363m",
+          "title": "Contemporary Art and the Culture Wars",
+          "units": 4.0,
+          "source_line": "- AHIS 363m Contemporary Art and the Culture Wars Units: 4"
+        },
+        {
+          "code": "AHIS 429",
+          "title": "Studies in Art, Science, and Technology",
+          "units": 4.0,
+          "source_line": "- AHIS 429 Studies in Art, Science, and Technology Units: 4"
+        },
+        {
+          "code": "ANTH 123gp",
+          "title": "Forms of Folklore",
+          "units": 4.0,
+          "source_line": "- ANTH 123gp Forms of Folklore Units: 4"
+        },
+        {
+          "code": "COMM 340",
+          "title": "The Cultures of New Media",
+          "units": 4.0,
+          "source_line": "- COMM 340 The Cultures of New Media Units: 4"
+        },
+        {
+          "code": "COMM 350",
+          "title": "Video Games: Business, Science and Culture",
+          "units": 4.0,
+          "source_line": "- COMM 350 Video Games: Business, Science and Culture Units: 4"
+        },
+        {
+          "code": "CTCS 367",
+          "title": "Global Media",
+          "units": 4.0,
+          "source_line": "- CTCS 367 Global Media Units: 4"
+        },
+        {
+          "code": "CTCS 412",
+          "title": "Gender, Sexuality and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 412 Gender, Sexuality and Media Units: 4"
+        },
+        {
+          "code": "CTCS 469",
+          "title": "Film and/or Television Style Analysis",
+          "units": 4.0,
+          "source_line": "- CTCS 469 Film and/or Television Style Analysis Units: 4"
+        },
+        {
+          "code": "CTCS 478",
+          "title": "Culture, Technology and Communications",
+          "units": 4.0,
+          "source_line": "- CTCS 478 Culture, Technology and Communications Units: 4"
+        },
+        {
+          "code": "CTCS 482",
+          "title": "Transmedia Entertainment",
+          "units": 4.0,
+          "source_line": "- CTCS 482 Transmedia Entertainment Units: 4"
+        },
+        {
+          "code": "CTIN 289",
+          "title": "Game Development Fundamentals",
+          "units": 4.0,
+          "source_line": "- CTIN 289 Game Development Fundamentals Units: 4"
+        },
+        {
+          "code": "CTIN 463",
+          "title": "Anatomy of a Game",
+          "units": 4.0,
+          "source_line": "- CTIN 463 Anatomy of a Game Units: 4"
+        },
+        {
+          "code": "CTIN 492L",
+          "title": "Experimental Game Topics",
+          "units": 4.0,
+          "source_line": "- CTIN 492L Experimental Game Topics Units: 4"
+        },
+        {
+          "code": "CTWR 410L",
+          "title": "Character Development and Storytelling for Games",
+          "units": 4.0,
+          "source_line": "- CTWR 410L Character Development and Storytelling for Games Units: 4"
+        },
+        {
+          "code": "HIST 380",
+          "title": "American Popular Culture",
+          "units": 4.0,
+          "source_line": "- HIST 380 American Popular Culture Units: 4"
+        },
+        {
+          "code": "IML 466",
+          "title": "Digital Studies Symposium",
+          "units": 2.0,
+          "source_line": "- IML 466 Digital Studies Symposium Units: 2"
+        },
+        {
+          "code": "JOUR 381",
+          "title": "Entertainment, Business and Media in Today’s Society",
+          "units": 4.0,
+          "source_line": "- JOUR 381 Entertainment, Business and Media in Today’s Society Units: 4"
+        },
+        {
+          "code": "THTR 395m",
+          "title": "Drama as Human Relations",
+          "units": 4.0,
+          "source_line": "- THTR 395m Drama as Human Relations Units: 4"
+        },
+        {
+          "code": "THTR 403",
+          "title": "The Performing Arts",
+          "units": 4.0,
+          "source_line": "- THTR 403 The Performing Arts Units: 4"
+        },
+        {
+          "code": "THTR 405m",
+          "title": "Performing Identities",
+          "units": 4.0,
+          "source_line": "- THTR 405m Performing Identities Units: 4"
+        },
+        {
+          "code": "THTR 406",
+          "title": "Theatre on the Edge",
+          "units": 4.0,
+          "source_line": "- THTR 406 Theatre on the Edge Units: 4"
+        },
+        {
+          "code": "THTR 488mw",
+          "title": "Theatre in the Community",
+          "units": 4.0,
+          "source_line": "- THTR 488mw Theatre in the Community Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Grade Point Average Requirement",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.",
+          "source_line": "A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

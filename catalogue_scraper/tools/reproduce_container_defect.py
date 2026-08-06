@@ -8,6 +8,7 @@ prints every candidate's score so the winner is visible.
 Usage: reproduce_container_defect.py OUTDIR
 Run with the app's venv python.
 """
+
 from __future__ import annotations
 
 import sys
@@ -42,20 +43,21 @@ def fetch_all(outdir: Path) -> None:
     work = outdir / "_repro_work"
     work.mkdir(parents=True, exist_ok=True)
     db = StateDB(work / "repro.sqlite3")
-    orch = AcquisitionOrchestrator(
-        cfg, db, state_dir=work, screenshots_dir=work, headed=False
-    )
+    orch = AcquisitionOrchestrator(cfg, db, state_dir=work, screenshots_dir=work, headed=False)
     try:
         for label, poid in CASES:
             snap = outdir / f"snapshot_{label}.html"
             if snap.exists() and snap.stat().st_size > 20000:
                 print(f"[cached] {label}")
                 continue
-            url = (f"https://catalogue.usc.edu/preview_program.php?"
-                   f"catoid=22&poid={poid}&returnto=9396")
+            url = (
+                f"https://catalogue.usc.edu/preview_program.php?catoid=22&poid={poid}&returnto=9396"
+            )
             r = orch.acquire(url, PageKind.PROGRAM_PAGE, label=label)
-            print(f"[fetch] {label}: mode={r.mode.value} status={r.http_status} "
-                  f"bytes={len(r.html or '')}")
+            print(
+                f"[fetch] {label}: mode={r.mode.value} status={r.http_status} "
+                f"bytes={len(r.html or '')}"
+            )
             if r.html:
                 snap.write_text(r.html, encoding="utf-8")
     finally:
@@ -84,22 +86,31 @@ def analyze(outdir: Path) -> None:
                 found = []
             for el in found[:4]:
                 bonus = 50.0 if "acalog" in slabel else 0.0
-                rows.append((_score(el) + bonus, f"{slabel} ({selector})",
-                             el.name, _text_len(el), bonus))
+                rows.append(
+                    (_score(el) + bonus, f"{slabel} ({selector})", el.name, _text_len(el), bonus)
+                )
         body = soup.body
         if body is not None:
-            rows.append((_score(body) - 0.0, "document body fallback", "body",
-                         _text_len(body), 0.0))
+            rows.append(
+                (_score(body) - 0.0, "document body fallback", "body", _text_len(body), 0.0)
+            )
         rows.sort(key=lambda t: -t[0])
-        for score, lab, name, tlen, bonus in rows[:6]:
+        for score, lab, name, tlen, _bonus in rows[:6]:
             mark = "  <== WINNER" if (score, lab) == (rows[0][0], rows[0][1]) else ""
             print(f"   {score:9.1f}  <{name:6}> textlen={tlen:<7} {lab[:56]:<58}{mark}")
         # what the pipeline actually produces
         container, evidence = select_main_container(soup, cfg)
         text = render_text(clean_content(container, cfg), cfg)
-        contaminated = any(s in text for s in
-                           ("Skip to Navigation", "Row 1:", "University of Southern California |",
-                            "Begin Responsive", "<script"))
+        contaminated = any(
+            s in text
+            for s in (
+                "Skip to Navigation",
+                "Row 1:",
+                "University of Southern California |",
+                "Begin Responsive",
+                "<script",
+            )
+        )
         print(f"   selected: <{container.name}> | {evidence[:80]}")
         print(f"   rendered: {len(text)} chars | CONTAMINATED={contaminated}")
         first = next((ln for ln in text.splitlines() if ln.strip()), "")

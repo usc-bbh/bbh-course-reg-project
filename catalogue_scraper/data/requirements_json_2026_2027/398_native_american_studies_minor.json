@@ -1,0 +1,135 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Native American Studies Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32497",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32497&returnto=9396",
+    "source_text_file": "398_native_american_studies_minor.txt",
+    "source_content_sha256": "510af9e5b95e5ff94a29015fa27815192affeebcee9c6e27c6ec3661f10551ac",
+    "retrieved_at": "2026-07-31T01:11:17Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 10,
+    "distinct_course_codes": 10,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This minor is an overview of Native American studies. We will study Indigenous intellectualism and resistance through Indigenous language revitalization, art, decolonization and political resistance.",
+          "source_line": "This minor is an overview of Native American studies. We will study Indigenous intellectualism and resistance through Indigenous language revitalization, art, decolonization and political resistance."
+        },
+        {
+          "text": "Minimum Required Units: 20",
+          "source_line": "Minimum Required Units: 20"
+        },
+        {
+          "text": "Students choose five classes in American Studies and Ethnicity, or courses certified for American Studies and Ethnicity credit. The five courses are distributed as follows: two core requirement courses and three additional elective courses chosen from the courses listed below.",
+          "source_line": "Students choose five classes in American Studies and Ethnicity, or courses certified for American Studies and Ethnicity credit. The five courses are distributed as follows: two core requirement courses and three additional elective courses chosen from the courses listed below."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Requirements - 8 Units",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AMST 204g",
+          "title": "Introduction to Native Studies",
+          "units": 4.0,
+          "source_line": "- AMST 204g Introduction to Native Studies Units: 4"
+        },
+        {
+          "code": "AMST 200gm",
+          "title": "Introduction to American Studies and Ethnicity",
+          "units": 4.0,
+          "source_line": "- AMST 200gm Introduction to American Studies and Ethnicity Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "AMST 350",
+          "title": "Junior Seminar in American Studies and Ethnicity: Theories and Methods",
+          "units": 4.0,
+          "source_line": "- AMST 350 Junior Seminar in American Studies and Ethnicity: Theories and Methods Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "and",
+          "source_line": "- and"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Courses - 12 Units",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AMST 140gw",
+          "title": "Borderlands in a Global Context",
+          "units": 4.0,
+          "source_line": "- AMST 140gw Borderlands in a Global Context Units: 4"
+        },
+        {
+          "code": "AMST 320",
+          "title": "Social Construction of Race and Citizenship",
+          "units": 4.0,
+          "source_line": "- AMST 320 Social Construction of Race and Citizenship Units: 4"
+        },
+        {
+          "code": "AMST 342m",
+          "title": "Law and Identities",
+          "units": 4.0,
+          "source_line": "- AMST 342m Law and Identities Units: 4"
+        },
+        {
+          "code": "AMST 345",
+          "title": "Law and American Indian Studies",
+          "units": 4.0,
+          "source_line": "- AMST 345 Law and American Indian Studies Units: 4"
+        },
+        {
+          "code": "AMST 365",
+          "title": "Leadership in the Community — Internship",
+          "units": 4.0,
+          "source_line": "- AMST 365 Leadership in the Community — Internship Units: 4"
+        },
+        {
+          "code": "ENGL 444m",
+          "title": "Native American Literature",
+          "units": 4.0,
+          "source_line": "- ENGL 444m Native American Literature Units: 4"
+        },
+        {
+          "code": "HIST 271g",
+          "title": "Telling Native American Stories",
+          "units": 4.0,
+          "source_line": "- HIST 271g Telling Native American Stories Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

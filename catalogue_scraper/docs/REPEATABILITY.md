@@ -1,7 +1,7 @@
 # Repeatability check
 
-- Run A: `/Users/francisruan/Desktop/USC Scraper Incident Fix/05_corrected_output/full/usc_undergrad_complete_catalogue_2026_2027/programs` (470 files)
-- Run B: `/Users/francisruan/Desktop/USC Scraper Incident Fix/05_corrected_output/verify_run2/usc_undergrad_complete_catalogue_2026_2027/programs` (60 files)
+- Run A: `catalogue_scraper/data/usc_undergrad_complete_catalogue_2026_2027/programs` (470 files)
+- Run B: `05_corrected_output/verify_run2/usc_undergrad_complete_catalogue_2026_2027/programs` (60 files)
 - Files compared (present in both): **60**
 - **Byte-identical substantive content: 60/60**
 - Differing: 0

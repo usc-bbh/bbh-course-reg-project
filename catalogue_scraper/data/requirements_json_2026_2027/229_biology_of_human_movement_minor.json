@@ -1,0 +1,148 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Biology of Human Movement Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32665",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32665&returnto=9396",
+    "source_text_file": "229_biology_of_human_movement_minor.txt",
+    "source_content_sha256": "5b497c3626f24efbbb63c6374f596e780bb0ed1a4fcef47f106195f06327407d",
+    "retrieved_at": "2026-07-31T00:59:46Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 13,
+    "distinct_course_codes": 13,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This minor provides students with an interdisciplinary perspective that integrates elements of anatomy, biomechanics, motor control as well as evolution and applies them to the assessment and improvement of human performance during the activities of daily living. This minor is ideal for students interested in fields such as bioengineering, biokinesiology, health promotion, athletics and dance.",
+          "source_line": "This minor provides students with an interdisciplinary perspective that integrates elements of anatomy, biomechanics, motor control as well as evolution and applies them to the assessment and improvement of human performance during the activities of daily living. This minor is ideal for students interested in fields such as bioengineering, biokinesiology, health promotion, athletics and dance."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Prerequisite Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 220Lg",
+          "title": "General Biology: Cell Biology and Physiology  or",
+          "units": 4.0,
+          "source_line": "- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or"
+        },
+        {
+          "code": "BISC 221Lg",
+          "title": "Advanced General Biology: Cell Biology and Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4"
+        },
+        {
+          "code": "MATH 108g",
+          "title": "Contemporary Precalculus  or",
+          "units": 4.0,
+          "source_line": "- MATH 108g Contemporary Precalculus Units: 4 or"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "PHYS 135aLg",
+          "title": "Physics for the Life Sciences  or",
+          "units": 4.0,
+          "source_line": "- PHYS 135aLg Physics for the Life Sciences Units: 4 or"
+        },
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HBIO 301L",
+          "title": "Human Anatomy",
+          "units": 4.0,
+          "source_line": "- HBIO 301L Human Anatomy Units: 4"
+        },
+        {
+          "code": "HBIO 401L",
+          "title": "Physiology of Movement  or",
+          "units": 4.0,
+          "source_line": "- HBIO 401L Physiology of Movement Units: 4 or"
+        },
+        {
+          "code": "HBIO 408L",
+          "title": "Biomechanics",
+          "units": 4.0,
+          "source_line": "- HBIO 408L Biomechanics Units: 4"
+        },
+        {
+          "code": "HBIO 309",
+          "title": "The Human Machine  or",
+          "units": 4.0,
+          "source_line": "- HBIO 309 The Human Machine Units: 4 or"
+        },
+        {
+          "code": "HBIO 400L",
+          "title": "Motor Control and Learning",
+          "units": 4.0,
+          "source_line": "- HBIO 400L Motor Control and Learning Units: 4"
+        },
+        {
+          "code": "HBIO 439L",
+          "title": "Human Performance and Bioenergetics  or 4 or",
+          "units": 2.0,
+          "source_line": "- HBIO 439L Human Performance and Bioenergetics Units: 2 or 4 or"
+        },
+        {
+          "code": "HBIO 442L",
+          "title": "Evaluation and Rehabilitation of Athletic Injuries",
+          "units": 4.0,
+          "source_line": "- HBIO 442L Evaluation and Rehabilitation of Athletic Injuries Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Four courses for a total 16 units from the following options are required:",
+          "source_line": "Four courses for a total 16 units from the following options are required:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Minimum Upper-Division Core Units Required: 16",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

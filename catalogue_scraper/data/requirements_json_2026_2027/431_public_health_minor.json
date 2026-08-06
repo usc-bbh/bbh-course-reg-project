@@ -1,0 +1,147 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Public Health Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32216",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32216&returnto=9396",
+    "source_text_file": "431_public_health_minor.txt",
+    "source_content_sha256": "9c6d6e9542f981bcaebda5d372fbf13d58571f0a157368655465d23107fbc156",
+    "retrieved_at": "2026-07-31T01:12:34Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 15,
+    "distinct_course_codes": 15,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This minor is designed for students interested in a broad array of health issues. The focus of the minor is on reducing disability and mortality from avoidable injuries and chronic disease, educating the community about healthy lifestyles, assuring access to health care, and measuring changes using various indicators over time. This minor teaches students to meet the challenges of the changing environment of the health care system. It complements a number of majors including psychology, sociology, American studies and ethnicity, biological sciences, economics, environmental studies, kinesiology, gender studies, international relations, philosophy, religion, gerontology and political science.",
+          "source_line": "This minor is designed for students interested in a broad array of health issues. The focus of the minor is on reducing disability and mortality from avoidable injuries and chronic disease, educating the community about healthy lifestyles, assuring access to health care, and measuring changes using various indicators over time. This minor teaches students to meet the challenges of the changing environment of the health care system. It complements a number of majors including psychology, sociology, American studies and ethnicity, biological sciences, economics, environmental studies, kinesiology, gender studies, international relations, philosophy, religion, gerontology and political science."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (20-24 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HP 200",
+          "title": "Introduction to Health Promotion and Disease Prevention",
+          "units": 4.0,
+          "source_line": "- HP 200 Introduction to Health Promotion and Disease Prevention Units: 4"
+        },
+        {
+          "code": "PPD 330",
+          "title": "Introduction to Health Care Systems",
+          "units": 4.0,
+          "source_line": "- PPD 330 Introduction to Health Care Systems Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Three of the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "HP 365gmw",
+          "title": "Culture, Lifestyle, and Health",
+          "units": 4.0,
+          "source_line": "- HP 365gmw Culture, Lifestyle, and Health Units: 4"
+        },
+        {
+          "code": "HP 370g",
+          "title": "Introduction to Epidemiology: Methods and Applications",
+          "units": 4.0,
+          "source_line": "- HP 370g Introduction to Epidemiology: Methods and Applications Units: 4"
+        },
+        {
+          "code": "HP 401",
+          "title": "Cultural Competence in Medicine",
+          "units": 4.0,
+          "source_line": "- HP 401 Cultural Competence in Medicine Units: 4"
+        },
+        {
+          "code": "HP 402",
+          "title": "Maternal and Child Health",
+          "units": 4.0,
+          "source_line": "- HP 402 Maternal and Child Health Units: 4"
+        },
+        {
+          "code": "HP 408",
+          "title": "Environmental Health in the Community",
+          "units": 4.0,
+          "source_line": "- HP 408 Environmental Health in the Community Units: 4"
+        },
+        {
+          "code": "HP 410",
+          "title": "Issues in Prevention and Cessation of Drug Abuse",
+          "units": 4.0,
+          "source_line": "- HP 410 Issues in Prevention and Cessation of Drug Abuse Units: 4"
+        },
+        {
+          "code": "HP 420m",
+          "title": "Gender and Minority Health Issues",
+          "units": 4.0,
+          "source_line": "- HP 420m Gender and Minority Health Issues Units: 4"
+        },
+        {
+          "code": "HP 421",
+          "title": "Violence as a Public Health Issue",
+          "units": 4.0,
+          "source_line": "- HP 421 Violence as a Public Health Issue Units: 4"
+        },
+        {
+          "code": "HP 422",
+          "title": "AIDS in Society",
+          "units": 4.0,
+          "source_line": "- HP 422 AIDS in Society Units: 4"
+        },
+        {
+          "code": "HP 430",
+          "title": "Obesity and Health",
+          "units": 4.0,
+          "source_line": "- HP 430 Obesity and Health Units: 4"
+        },
+        {
+          "code": "HP 441",
+          "title": "Health Promotion in the Workplace",
+          "units": 4.0,
+          "source_line": "- HP 441 Health Promotion in the Workplace Units: 4"
+        },
+        {
+          "code": "HP 442",
+          "title": "Chronic Disease Epidemiology",
+          "units": 4.0,
+          "source_line": "- HP 442 Chronic Disease Epidemiology Units: 4"
+        },
+        {
+          "code": "HP 460",
+          "title": "Adolescent Health",
+          "units": 4.0,
+          "source_line": "- HP 460 Adolescent Health Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

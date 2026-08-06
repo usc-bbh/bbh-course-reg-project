@@ -1,0 +1,189 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Law and Biopharmaceutical Sciences Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32880",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32880&returnto=9396",
+    "source_text_file": "360_law_and_biopharmaceutical_sciences_minor.txt",
+    "source_content_sha256": "81acbd209ad69330dfe29a2a1ae875675c54861d6ea0f71bbb5a84ef746de798",
+    "retrieved_at": "2026-07-31T01:08:02Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The minor consists of a minimum of 20 units of course work from USC Gould and USC Mann.",
+      "At least 16 units must be unique to this minor and do not overlap with the major, another minor or general education requirements.",
+      "## Required Courses\n\n---\n\n8 units\n\n- LAW 210p Fundamentals of the U."
+    ],
+    "course_entry_count": 16,
+    "distinct_course_codes": 16,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in Law and Biopharmaceutical Sciences studies the intersection of pharmaceutical and regulatory science and the legal system through examining contemporary issues related to the oversight, management, production and management of legal content from the perspective of science and pharmacy.",
+          "source_line": "The minor in Law and Biopharmaceutical Sciences studies the intersection of pharmaceutical and regulatory science and the legal system through examining contemporary issues related to the oversight, management, production and management of legal content from the perspective of science and pharmacy."
+        },
+        {
+          "text": "The minor consists of a minimum of 20 units of course work from USC Gould and USC Mann. At least 16 units must be unique to this minor and do not overlap with the major, another minor or general education requirements.",
+          "source_line": "The minor consists of a minimum of 20 units of course work from USC Gould and USC Mann. At least 16 units must be unique to this minor and do not overlap with the major, another minor or general education requirements."
+        },
+        {
+          "text": "Only students with a declared major are eligible to apply.",
+          "source_line": "Only students with a declared major are eligible to apply."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "LAW 210p",
+          "title": "Fundamentals of the U.S. Legal System",
+          "units": 4.0,
+          "source_line": "- LAW 210p Fundamentals of the U.S. Legal System Units: 4"
+        },
+        {
+          "code": "RXRS 412",
+          "title": "Ethics, Drugs and Society",
+          "units": 4.0,
+          "source_line": "- RXRS 412 Ethics, Drugs and Society Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "8 units",
+          "source_line": "8 units"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Law Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "LAW 211",
+          "title": "Intellectual Property and Technology",
+          "units": 4.0,
+          "source_line": "- LAW 211 Intellectual Property and Technology Units: 4"
+        },
+        {
+          "code": "LAW 306",
+          "title": "Issues in the Use of AI in Law and Regulation",
+          "units": 4.0,
+          "source_line": "- LAW 306 Issues in the Use of AI in Law and Regulation Units: 4"
+        },
+        {
+          "code": "LAW 350",
+          "title": "Law and Entrepreneurship",
+          "units": 4.0,
+          "source_line": "- LAW 350 Law and Entrepreneurship Units: 4"
+        },
+        {
+          "code": "LAW 407",
+          "title": "Regulatory Law",
+          "units": 4.0,
+          "source_line": "- LAW 407 Regulatory Law Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Minimum of 4 units or a maximum of 8 units",
+          "source_line": "Minimum of 4 units or a maximum of 8 units"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Biopharmaceutical Sciences Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BPSI 406",
+          "title": "Drug Safety Pharmacology and Toxicology",
+          "units": 4.0,
+          "source_line": "- BPSI 406 Drug Safety Pharmacology and Toxicology Units: 4"
+        },
+        {
+          "code": "BPSI 407",
+          "title": "Pharmaceutical and Health Economics",
+          "units": 4.0,
+          "source_line": "- BPSI 407 Pharmaceutical and Health Economics Units: 4"
+        },
+        {
+          "code": "BPSI 410",
+          "title": "Biopharmaceutical Product Development and Brand Planning",
+          "units": 4.0,
+          "source_line": "- BPSI 410 Biopharmaceutical Product Development and Brand Planning Units: 4"
+        },
+        {
+          "code": "BPSI 414",
+          "title": "Pharmacoethics",
+          "units": 2.0,
+          "source_line": "- BPSI 414 Pharmacoethics Units: 2"
+        },
+        {
+          "code": "RXRS 407",
+          "title": "The Discovery, Development and Marketing of Medicines",
+          "units": 4.0,
+          "source_line": "- RXRS 407 The Discovery, Development and Marketing of Medicines Units: 4"
+        },
+        {
+          "code": "RXRS 413w",
+          "title": "Globalization of the Biomedical Industry",
+          "units": 4.0,
+          "source_line": "- RXRS 413w Globalization of the Biomedical Industry Units: 4"
+        },
+        {
+          "code": "RXRS 414",
+          "title": "Buzzed: Modern Substances of Abuse and Addiction",
+          "units": 4.0,
+          "source_line": "- RXRS 414 Buzzed: Modern Substances of Abuse and Addiction Units: 4"
+        },
+        {
+          "code": "RXRS 416",
+          "title": "Medical Products: From Idea to Market",
+          "units": 4.0,
+          "source_line": "- RXRS 416 Medical Products: From Idea to Market Units: 4"
+        },
+        {
+          "code": "RXRS 421",
+          "title": "Management and Operation of Clinical Trials",
+          "units": 4.0,
+          "source_line": "- RXRS 421 Management and Operation of Clinical Trials Units: 4"
+        },
+        {
+          "code": "RXRS 422",
+          "title": "Regulation, Guidance and Control of Medical Products",
+          "units": 2.0,
+          "source_line": "- RXRS 422 Regulation, Guidance and Control of Medical Products Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Minimum of 4 units or a maximum of 8 units",
+          "source_line": "Minimum of 4 units or a maximum of 8 units"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

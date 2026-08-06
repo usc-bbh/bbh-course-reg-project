@@ -1,0 +1,137 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Earth Sciences (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31759",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31759&returnto=9396",
+    "source_text_file": "099_earth_sciences_ba.txt",
+    "source_content_sha256": "f01f547efb7378ef5b231c155155afc154a1e8445022b5c01dbcb01cb03272a4",
+    "retrieved_at": "2026-07-31T00:52:56Z"
+  },
+  "totals": {
+    "stated_total_units": 48.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [],
+    "course_entry_count": 7,
+    "distinct_course_codes": 7,
+    "section_count": 7
+  },
+  "sections": [
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Introduction:",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Any GEOL 100- or 200-level course (4 units):",
+          "source_line": "Any GEOL 100- or 200-level course (4 units):"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "GEOL 315L",
+          "title": "Minerals and Earth Systems",
+          "units": 4.0,
+          "source_line": "- GEOL 315L Minerals and Earth Systems Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives:",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "28 additional units must be selected from MATH 225 , MATH 226 , or any upper-division course listed or cross-listed as GEOL (28 units):",
+          "source_line": "28 additional units must be selected from MATH 225 , MATH 226 , or any upper-division course listed or cross-listed as GEOL (28 units):"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required courses in other departments (8 units):",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CHEM 105aLg",
+          "title": "General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 105aLg General Chemistry Units: 4"
+        },
+        {
+          "code": "MATH 118gx",
+          "title": "Calculus for Business and Economics  or",
+          "units": 4.0,
+          "source_line": "- MATH 118gx Calculus for Business and Economics Units: 4 or"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose any one of the following (4 units):",
+      "level": 3,
+      "courses": [
+        {
+          "code": "BISC 120Lg",
+          "title": "General Biology: Organismal Biology and Evolution",
+          "units": 4.0,
+          "source_line": "- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4"
+        },
+        {
+          "code": "CHEM 105bL",
+          "title": "General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 105bL General Chemistry Units: 4"
+        },
+        {
+          "code": "PHYS 135aLg",
+          "title": "Physics for the Life Sciences",
+          "units": 4.0,
+          "source_line": "- PHYS 135aLg Physics for the Life Sciences Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 48",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 48.0
+    }
+  ],
+  "parse_warnings": []
+}

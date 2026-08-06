@@ -1,0 +1,590 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Writing for Screen and Television (BFA)",
+    "credential": "BFA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31674",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31674&returnto=9396",
+    "source_text_file": "202_writing_for_screen_and_television_bfa.txt",
+    "source_content_sha256": "8c4230cf7564bcdab017fb5d76298f13b2ec18d6b22cae763b7005fa4475018c",
+    "retrieved_at": "2026-07-31T00:57:42Z"
+  },
+  "totals": {
+    "stated_total_units": 6.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "A total of 128 units is required for completion of the Bachelor of Fine Arts degree; 70 of these units are taken in a prescribed sequential order.",
+      "## Four-Year Major Requirements (70 units)\n\n---\n\n### Year One, First Semester\n\n---\n\n- CNTV 101 Reality Starts Here Units: 2\n- CTCS 190g Introduction to Cinema Units: 4\n- CTWR 100g Story: Character, Conflict, and Catharsis Units: 4\n- CTWR 120 Genesis of the Screenplay Units: 2\n\n#### Total units: 12\n\n---\n\n### Year One, Second Semester\n\n---\n\n- CTCS 150gw The Cinematic Arts in Society Units: 4\n-\n- CTCS 191 Introduction to Television and Video Units: 4 or\n- CTCS 192mg Race, Class, and Gender in American Film Units: 4 or\n- CTCS 201 History of the International Cinema II Units: 4\n-\n- CTWR 250 Breaking the Story Units: 2\n- CTWR 321 Breaking the Hour-Long Television Series Units: 4\n\n#### Total units: 14\n\n---\n\n### Year Two, First Semester\n\n---\n\n- CTPR 290 Cinematic Communication Units: 4, 6 (6 units only)\n- CTWR 206a Writing the Screenplay Units: 4\n- CTWR 316 Advanced Script Analysis Units: 4\n\n#### Total units: 14\n\n---\n\n### Year Two, Second Semester\n\n---\n\n- CTWR 206b Writing the Screenplay Units: 4\n- CTWR 437 Writing the Original Situation Comedy Pilot Units: 4 or\n- CTWR 439 Writing the Original Dramatic Series Pilot Units: 4\n\n#### Total units: 8\n\n---\n\n### Year Three, First Semester\n\n---\n\n- CTWR 305 Advanced Screenwriting: The Relationship Screenplay Units: 4\n\n#### Total units: 4\n\n---\n\n### Year Three, Second Semester\n\n---\n\n- CTWR 449 Rewriting the Original Dramatic Series Pilot Units: 4\n- or\n- CTWR 453 Advanced Feature Rewriting Units: 4\n-\n- CTCS 403 Studies in National and Regional Media Units: 4 or\n- CTCS 407 African American Cinema Units: 4 or\n- CTCS 411 Film, Television and Cultural Studies Units: 4 or\n- CTCS 412 Gender, Sexuality and Media Units: 4 or\n- CTCS 414 Latina/o Screen Cultures Units: 4 or\n- CTCS 417 African American Television Units: 4 or\n- CTCS 464 Film and/or Television Genres Units: 4 or\n- CTCS 469 Film and/or Television Style Analysis Units: 4\n\n#### Total units: 8\n\n---\n\n### Year Four, First Semester\n\n---\n\n- CTWR 418a Senior Thesis Units: 4 or\n- CTWR 419a Senior Thesis in Dramatic Television Units: 4 or\n- CTWR 420a Senior Thesis in Half-Hour Television Comedy Units: 4\n\n#### Total units: 4\n\n---\n\n### Year Four, Second Semester\n\n---\n\n- CTWR 418b Senior Thesis Units: 4 or\n- CTWR 419b Senior Thesis in Dramatic Television Units: 4 or\n- CTWR 420b Senior Thesis in Half-Hour Television Comedy Units: 4\n-\n- CTWR 459a Entertainment Industry Seminar Units: 2\n\n#### Total units: 6\n\n---\n\n## Electives\n\n---\n\nSuggested electives in Cinematic Arts include:\n\n- CTWR 303g From Page to Screen: Adapting Stories for Film and TV Units: 4\n- CTWR 404 Foundations of Comedy Units: 2\n- CTWR 407 Creating the Comedic Character Units: 2\n- CTWR 410L Character Development and Storytelling for Games Units: 4\n- CTWR 417 Script Coverage and Story Analysis Units: 2\n- CTWR 422 Creating the Dramatic Television Series Units: 2\n- CTWR 430 Comedy Writers and Their Work Units: 2\n- CTWR 431 Screenwriters and Their Work Units: 2 max 6\n- CTWR 432 Television Writers and Their Work Units: 2 max 6\n- CTWR 433 Adaptations: Transferring Existing Work to the Screen Units: 2\n- CTWR 435 Writing for Film and Television Genres Units: 2, 3, 4 max 8\n- CTWR 437 Writing the Original Situation Comedy Pilot Units: 4 max 8\n- CTWR 438 Micro-Stories for New Platforms Units: 2, 4\n- CTWR 439 Writing the Original Dramatic Series Pilot Units: 4 max 8\n- CTWR 441 Creative Consciousness and Cinematic Dreams Units: 2\n- CTWR 449 Rewriting the Original Dramatic Series Pilot Units: 4 max 8\n- CTWR 468 Screenwriting in Collaboration Units: 4 max 8\n- CTWR 477 Staff Writing the Sketch Comedy Show Units: 2 max 6\n- CTWR 487 Staff Writing the Multi-Camera Television Series Units: 4 max 8\n- CTWR 497 Staff Writing the Single-Camera Half-Hour Series Units: 4 max 8\n- CTWR 499 Special Topics Units: 2, 3, 4 max 8\n\n## Grade Point Average Requirements\n\n---\n\nA minimum grade of C (2."
+    ],
+    "course_entry_count": 56,
+    "distinct_course_codes": 52,
+    "section_count": 22
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Fine Arts in Writing for Screen and Television is a unique, four-year program for students who seek intensive professional preparation for a career in screen and television writing. This rigorous program emphasizes small, workshop-style classes, and attracts students from all over the world. Students attend a variety of guest speaker presentations, take high-level industry internships, are provided with mentors and taught by world-class professors.",
+          "source_line": "The Bachelor of Fine Arts in Writing for Screen and Television is a unique, four-year program for students who seek intensive professional preparation for a career in screen and television writing. This rigorous program emphasizes small, workshop-style classes, and attracts students from all over the world. Students attend a variety of guest speaker presentations, take high-level industry internships, are provided with mentors and taught by world-class professors."
+        },
+        {
+          "text": "Each fall, a class of 30 undergraduate writing students is selected to begin the program. A total of 128 units is required for completion of the Bachelor of Fine Arts degree; 70 of these units are taken in a prescribed sequential order. There are no spring admissions.",
+          "source_line": "Each fall, a class of 30 undergraduate writing students is selected to begin the program. A total of 128 units is required for completion of the Bachelor of Fine Arts degree; 70 of these units are taken in a prescribed sequential order. There are no spring admissions."
+        },
+        {
+          "text": "Applicants must submit supplemental application and materials to the program office. For specific instructions, contact The John Wells Division of Writing for Screen and Television, University Park, Los Angeles, CA 90089-2211 or telephone (213) 740-3303, or online at cinema.usc.edu.",
+          "source_line": "Applicants must submit supplemental application and materials to the program office. For specific instructions, contact The John Wells Division of Writing for Screen and Television, University Park, Los Angeles, CA 90089-2211 or telephone (213) 740-3303, or online at cinema.usc.edu."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education Requirements",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education .",
+          "source_line": "The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Production Courses",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTPR 290",
+          "title": "introduces the interrelationship of visuals, sound and editing in cinematic communication. Students participate in directing and producing workshops as well as individual and group projects. Approximately $1,000 should be budgeted for miscellaneous expenses, lab and insurance fees",
+          "units": null,
+          "source_line": "CTPR 290 introduces the interrelationship of visuals, sound and editing in cinematic communication. Students participate in directing and producing workshops as well as individual and group projects. Approximately $1,000 should be budgeted for miscellaneous expenses, lab and insurance fees."
+        }
+      ],
+      "notes": [
+        {
+          "text": "Undergraduate writing students are required to take CTPR 290 Cinematic Communication . This introductory production course is taken during the sophomore year.",
+          "source_line": "Undergraduate writing students are required to take CTPR 290 Cinematic Communication . This introductory production course is taken during the sophomore year."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Four-Year Major Requirements (70 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Year One, First Semester",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CNTV 101",
+          "title": "Reality Starts Here",
+          "units": 2.0,
+          "source_line": "- CNTV 101 Reality Starts Here Units: 2"
+        },
+        {
+          "code": "CTCS 190g",
+          "title": "Introduction to Cinema",
+          "units": 4.0,
+          "source_line": "- CTCS 190g Introduction to Cinema Units: 4"
+        },
+        {
+          "code": "CTWR 100g",
+          "title": "Story: Character, Conflict, and Catharsis",
+          "units": 4.0,
+          "source_line": "- CTWR 100g Story: Character, Conflict, and Catharsis Units: 4"
+        },
+        {
+          "code": "CTWR 120",
+          "title": "Genesis of the Screenplay",
+          "units": 2.0,
+          "source_line": "- CTWR 120 Genesis of the Screenplay Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 12",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 12.0
+    },
+    {
+      "title": "Year One, Second Semester",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTCS 150gw",
+          "title": "The Cinematic Arts in Society",
+          "units": 4.0,
+          "source_line": "- CTCS 150gw The Cinematic Arts in Society Units: 4"
+        },
+        {
+          "code": "CTCS 191",
+          "title": "Introduction to Television and Video  or",
+          "units": 4.0,
+          "source_line": "- CTCS 191 Introduction to Television and Video Units: 4 or"
+        },
+        {
+          "code": "CTCS 192mg",
+          "title": "Race, Class, and Gender in American Film  or",
+          "units": 4.0,
+          "source_line": "- CTCS 192mg Race, Class, and Gender in American Film Units: 4 or"
+        },
+        {
+          "code": "CTCS 201",
+          "title": "History of the International Cinema II",
+          "units": 4.0,
+          "source_line": "- CTCS 201 History of the International Cinema II Units: 4"
+        },
+        {
+          "code": "CTWR 250",
+          "title": "Breaking the Story",
+          "units": 2.0,
+          "source_line": "- CTWR 250 Breaking the Story Units: 2"
+        },
+        {
+          "code": "CTWR 321",
+          "title": "Breaking the Hour-Long Television Series",
+          "units": 4.0,
+          "source_line": "- CTWR 321 Breaking the Hour-Long Television Series Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 14",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 14.0
+    },
+    {
+      "title": "Year Two, First Semester",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTPR 290",
+          "title": "Cinematic Communication , 6 (6 units only)",
+          "units": 4.0,
+          "source_line": "- CTPR 290 Cinematic Communication Units: 4, 6 (6 units only)"
+        },
+        {
+          "code": "CTWR 206a",
+          "title": "Writing the Screenplay",
+          "units": 4.0,
+          "source_line": "- CTWR 206a Writing the Screenplay Units: 4"
+        },
+        {
+          "code": "CTWR 316",
+          "title": "Advanced Script Analysis",
+          "units": 4.0,
+          "source_line": "- CTWR 316 Advanced Script Analysis Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 14",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 14.0
+    },
+    {
+      "title": "Year Two, Second Semester",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTWR 206b",
+          "title": "Writing the Screenplay",
+          "units": 4.0,
+          "source_line": "- CTWR 206b Writing the Screenplay Units: 4"
+        },
+        {
+          "code": "CTWR 437",
+          "title": "Writing the Original Situation Comedy Pilot  or",
+          "units": 4.0,
+          "source_line": "- CTWR 437 Writing the Original Situation Comedy Pilot Units: 4 or"
+        },
+        {
+          "code": "CTWR 439",
+          "title": "Writing the Original Dramatic Series Pilot",
+          "units": 4.0,
+          "source_line": "- CTWR 439 Writing the Original Dramatic Series Pilot Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 8",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 8.0
+    },
+    {
+      "title": "Year Three, First Semester",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTWR 305",
+          "title": "Advanced Screenwriting: The Relationship Screenplay",
+          "units": 4.0,
+          "source_line": "- CTWR 305 Advanced Screenwriting: The Relationship Screenplay Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 4",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 4.0
+    },
+    {
+      "title": "Year Three, Second Semester",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTWR 449",
+          "title": "Rewriting the Original Dramatic Series Pilot",
+          "units": 4.0,
+          "source_line": "- CTWR 449 Rewriting the Original Dramatic Series Pilot Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "CTWR 453",
+          "title": "Advanced Feature Rewriting",
+          "units": 4.0,
+          "source_line": "- CTWR 453 Advanced Feature Rewriting Units: 4"
+        },
+        {
+          "code": "CTCS 403",
+          "title": "Studies in National and Regional Media  or",
+          "units": 4.0,
+          "source_line": "- CTCS 403 Studies in National and Regional Media Units: 4 or"
+        },
+        {
+          "code": "CTCS 407",
+          "title": "African American Cinema  or",
+          "units": 4.0,
+          "source_line": "- CTCS 407 African American Cinema Units: 4 or"
+        },
+        {
+          "code": "CTCS 411",
+          "title": "Film, Television and Cultural Studies  or",
+          "units": 4.0,
+          "source_line": "- CTCS 411 Film, Television and Cultural Studies Units: 4 or"
+        },
+        {
+          "code": "CTCS 412",
+          "title": "Gender, Sexuality and Media  or",
+          "units": 4.0,
+          "source_line": "- CTCS 412 Gender, Sexuality and Media Units: 4 or"
+        },
+        {
+          "code": "CTCS 414",
+          "title": "Latina/o Screen Cultures  or",
+          "units": 4.0,
+          "source_line": "- CTCS 414 Latina/o Screen Cultures Units: 4 or"
+        },
+        {
+          "code": "CTCS 417",
+          "title": "African American Television  or",
+          "units": 4.0,
+          "source_line": "- CTCS 417 African American Television Units: 4 or"
+        },
+        {
+          "code": "CTCS 464",
+          "title": "Film and/or Television Genres  or",
+          "units": 4.0,
+          "source_line": "- CTCS 464 Film and/or Television Genres Units: 4 or"
+        },
+        {
+          "code": "CTCS 469",
+          "title": "Film and/or Television Style Analysis",
+          "units": 4.0,
+          "source_line": "- CTCS 469 Film and/or Television Style Analysis Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 8",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 8.0
+    },
+    {
+      "title": "Year Four, First Semester",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTWR 418a",
+          "title": "Senior Thesis  or",
+          "units": 4.0,
+          "source_line": "- CTWR 418a Senior Thesis Units: 4 or"
+        },
+        {
+          "code": "CTWR 419a",
+          "title": "Senior Thesis in Dramatic Television  or",
+          "units": 4.0,
+          "source_line": "- CTWR 419a Senior Thesis in Dramatic Television Units: 4 or"
+        },
+        {
+          "code": "CTWR 420a",
+          "title": "Senior Thesis in Half-Hour Television Comedy",
+          "units": 4.0,
+          "source_line": "- CTWR 420a Senior Thesis in Half-Hour Television Comedy Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 4",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 4.0
+    },
+    {
+      "title": "Year Four, Second Semester",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTWR 418b",
+          "title": "Senior Thesis  or",
+          "units": 4.0,
+          "source_line": "- CTWR 418b Senior Thesis Units: 4 or"
+        },
+        {
+          "code": "CTWR 419b",
+          "title": "Senior Thesis in Dramatic Television  or",
+          "units": 4.0,
+          "source_line": "- CTWR 419b Senior Thesis in Dramatic Television Units: 4 or"
+        },
+        {
+          "code": "CTWR 420b",
+          "title": "Senior Thesis in Half-Hour Television Comedy",
+          "units": 4.0,
+          "source_line": "- CTWR 420b Senior Thesis in Half-Hour Television Comedy Units: 4"
+        },
+        {
+          "code": "CTWR 459a",
+          "title": "Entertainment Industry Seminar",
+          "units": 2.0,
+          "source_line": "- CTWR 459a Entertainment Industry Seminar Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 6",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 6.0
+    },
+    {
+      "title": "Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTWR 303g",
+          "title": "From Page to Screen: Adapting Stories for Film and TV",
+          "units": 4.0,
+          "source_line": "- CTWR 303g From Page to Screen: Adapting Stories for Film and TV Units: 4"
+        },
+        {
+          "code": "CTWR 404",
+          "title": "Foundations of Comedy",
+          "units": 2.0,
+          "source_line": "- CTWR 404 Foundations of Comedy Units: 2"
+        },
+        {
+          "code": "CTWR 407",
+          "title": "Creating the Comedic Character",
+          "units": 2.0,
+          "source_line": "- CTWR 407 Creating the Comedic Character Units: 2"
+        },
+        {
+          "code": "CTWR 410L",
+          "title": "Character Development and Storytelling for Games",
+          "units": 4.0,
+          "source_line": "- CTWR 410L Character Development and Storytelling for Games Units: 4"
+        },
+        {
+          "code": "CTWR 417",
+          "title": "Script Coverage and Story Analysis",
+          "units": 2.0,
+          "source_line": "- CTWR 417 Script Coverage and Story Analysis Units: 2"
+        },
+        {
+          "code": "CTWR 422",
+          "title": "Creating the Dramatic Television Series",
+          "units": 2.0,
+          "source_line": "- CTWR 422 Creating the Dramatic Television Series Units: 2"
+        },
+        {
+          "code": "CTWR 430",
+          "title": "Comedy Writers and Their Work",
+          "units": 2.0,
+          "source_line": "- CTWR 430 Comedy Writers and Their Work Units: 2"
+        },
+        {
+          "code": "CTWR 431",
+          "title": "Screenwriters and Their Work  max 6",
+          "units": 2.0,
+          "source_line": "- CTWR 431 Screenwriters and Their Work Units: 2 max 6"
+        },
+        {
+          "code": "CTWR 432",
+          "title": "Television Writers and Their Work  max 6",
+          "units": 2.0,
+          "source_line": "- CTWR 432 Television Writers and Their Work Units: 2 max 6"
+        },
+        {
+          "code": "CTWR 433",
+          "title": "Adaptations: Transferring Existing Work to the Screen",
+          "units": 2.0,
+          "source_line": "- CTWR 433 Adaptations: Transferring Existing Work to the Screen Units: 2"
+        },
+        {
+          "code": "CTWR 435",
+          "title": "Writing for Film and Television Genres , 3, 4 max 8",
+          "units": 2.0,
+          "source_line": "- CTWR 435 Writing for Film and Television Genres Units: 2, 3, 4 max 8"
+        },
+        {
+          "code": "CTWR 437",
+          "title": "Writing the Original Situation Comedy Pilot  max 8",
+          "units": 4.0,
+          "source_line": "- CTWR 437 Writing the Original Situation Comedy Pilot Units: 4 max 8"
+        },
+        {
+          "code": "CTWR 438",
+          "title": "Micro-Stories for New Platforms , 4",
+          "units": 2.0,
+          "source_line": "- CTWR 438 Micro-Stories for New Platforms Units: 2, 4"
+        },
+        {
+          "code": "CTWR 439",
+          "title": "Writing the Original Dramatic Series Pilot  max 8",
+          "units": 4.0,
+          "source_line": "- CTWR 439 Writing the Original Dramatic Series Pilot Units: 4 max 8"
+        },
+        {
+          "code": "CTWR 441",
+          "title": "Creative Consciousness and Cinematic Dreams",
+          "units": 2.0,
+          "source_line": "- CTWR 441 Creative Consciousness and Cinematic Dreams Units: 2"
+        },
+        {
+          "code": "CTWR 449",
+          "title": "Rewriting the Original Dramatic Series Pilot  max 8",
+          "units": 4.0,
+          "source_line": "- CTWR 449 Rewriting the Original Dramatic Series Pilot Units: 4 max 8"
+        },
+        {
+          "code": "CTWR 468",
+          "title": "Screenwriting in Collaboration  max 8",
+          "units": 4.0,
+          "source_line": "- CTWR 468 Screenwriting in Collaboration Units: 4 max 8"
+        },
+        {
+          "code": "CTWR 477",
+          "title": "Staff Writing the Sketch Comedy Show  max 6",
+          "units": 2.0,
+          "source_line": "- CTWR 477 Staff Writing the Sketch Comedy Show Units: 2 max 6"
+        },
+        {
+          "code": "CTWR 487",
+          "title": "Staff Writing the Multi-Camera Television Series  max 8",
+          "units": 4.0,
+          "source_line": "- CTWR 487 Staff Writing the Multi-Camera Television Series Units: 4 max 8"
+        },
+        {
+          "code": "CTWR 497",
+          "title": "Staff Writing the Single-Camera Half-Hour Series  max 8",
+          "units": 4.0,
+          "source_line": "- CTWR 497 Staff Writing the Single-Camera Half-Hour Series Units: 4 max 8"
+        },
+        {
+          "code": "CTWR 499",
+          "title": "Special Topics , 3, 4 max 8",
+          "units": 2.0,
+          "source_line": "- CTWR 499 Special Topics Units: 2, 3, 4 max 8"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Suggested electives in Cinematic Arts include:",
+          "source_line": "Suggested electives in Cinematic Arts include:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Grade Point Average Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minimum grade of C (2.0) must be earned in all required and prerequisite courses (a grade of C- (1.7) or lower will not fulfill a major requirement).",
+          "source_line": "A minimum grade of C (2.0) must be earned in all required and prerequisite courses (a grade of C- (1.7) or lower will not fulfill a major requirement)."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

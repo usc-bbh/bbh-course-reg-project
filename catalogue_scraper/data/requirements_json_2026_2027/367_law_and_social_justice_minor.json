@@ -1,0 +1,324 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Law and Social Justice Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32702",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32702&returnto=9396",
+    "source_text_file": "367_law_and_social_justice_minor.txt",
+    "source_content_sha256": "371b0bf10adac3134488716336d2d6dfabbe10b572d35a7097d32cbbd0997401",
+    "retrieved_at": "2026-07-31T01:10:08Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The Law and Social Justice minor totals 20 units; 8 required units and 12 elective units, as detailed below.",
+      "## Law and Social Justice Minor (20 units)\n\n---\n\n### Required Core Courses (8 units)\n\n---\n\nStudents must enroll in 8 units from the following courses:\n\n- LAW 101w Law and the U.",
+      "Legal System Units: 4\n- LAW 300 Concepts in American Law Units: 4\n\n### Law Electives (4 units)\n\n---\n\nStudents must enroll in 4 units of law elective courses:\n\n- LAW 150w Stereotypes, Prejudice and the Rule of Law Units: 4\n- LAW 200w Law and Society Units: 4\n- LAW 202 Wrongful Convictions Units: 4\n- LAW 203 Criminal Punishment in the Age of Mass Incarceration Units: 4\n- LAW 205 Introduction to Criminal Law Units: 4\n- LAW 250w Children and the Law Units: 4\n- LAW 275p Equal by Law: The History of Civil Rights Law in the United States Units: 4\n- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4\n- LAW 320p Law, Enslavement and Race Units: 4\n- LAW 355 Law and Homelessness Units: 4\n- LAW 403 Mental Health Law Units: 4\n- LAW 404 Psychology of the Criminal Justice Process Units: 4\n- LAW 406 Individual Rights in U.",
+      "Constitutional Law Units: 4\n- LAW 498 Law Internship Units: 1, 2, 3, 4\n\n### Other Electives (8 units)\n\n---\n\nStudents must enroll in 8 units of social justice elective courses:\n\n- COMM 366 Designing Media for Social Change Units: 4\n- COMM 367 Community Engagement and Service Learning Units: 4\n- COMM 412 Communication and Social Movements Units: 4\n- LAW 222 Interdisciplinary Perspectives on the Law Units: 2\n- LAW 223 Exploring Courthouses in Los Angeles Units: 2\n- LAW 225 Current Court Cases Units: 2\n- LAW 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8\n- LAW 492 Undergraduate Law Review Units: 2\n- LAW 498 Law Internship Units: 1, 2, 3, 4\n- MDA 300 The Dornsife Toolkit Units: 2\n- PHIL 174gw Freedom, Equality, and Social Justice Units: 4\n- POSC 248gw Human Rights Units: 4\n- POSC 441m Cultural Diversity and the Law Units: 4\n- POSC 444 Civil and Political Rights and Liberties Units: 4\n- SOCI 150gm Social Problems Units: 4 *\n- SOCI 250gmw Grassroots Participation in Global Perspective Units: 4 *\n- SOCI 425 Social Movements: Power, Resistance and Political Dynamics Units: 4 *\n- SOWK 324 Juvenile Justice in America Units: 4\n- SOWK 424 Community Experience in Juvenile Justice Environments Units: 4\n- SWMS 349 Women and the Law Units: 4\n- * Sociology courses taken as part of this minor will have prerequisites waived by the Sociology Department."
+    ],
+    "course_entry_count": 37,
+    "distinct_course_codes": 36,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Law and Social Justice minor provides foundational knowledge of current legal systems of justice and encourages critical-analysis skills to recognize where and how changes can be made.",
+          "source_line": "The Law and Social Justice minor provides foundational knowledge of current legal systems of justice and encourages critical-analysis skills to recognize where and how changes can be made."
+        },
+        {
+          "text": "The Law and Social Justice minor totals 20 units; 8 required units and 12 elective units, as detailed below.",
+          "source_line": "The Law and Social Justice minor totals 20 units; 8 required units and 12 elective units, as detailed below."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Law and Social Justice Minor (20 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Core Courses (8 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "LAW 101w",
+          "title": "Law and the U.S. Constitution in Global History",
+          "units": 4.0,
+          "source_line": "- LAW 101w Law and the U.S. Constitution in Global History Units: 4"
+        },
+        {
+          "code": "LAW 210p",
+          "title": "Fundamentals of the U.S. Legal System",
+          "units": 4.0,
+          "source_line": "- LAW 210p Fundamentals of the U.S. Legal System Units: 4"
+        },
+        {
+          "code": "LAW 300",
+          "title": "Concepts in American Law",
+          "units": 4.0,
+          "source_line": "- LAW 300 Concepts in American Law Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must enroll in 8 units from the following courses:",
+          "source_line": "Students must enroll in 8 units from the following courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Law Electives (4 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "LAW 150w",
+          "title": "Stereotypes, Prejudice and the Rule of Law",
+          "units": 4.0,
+          "source_line": "- LAW 150w Stereotypes, Prejudice and the Rule of Law Units: 4"
+        },
+        {
+          "code": "LAW 200w",
+          "title": "Law and Society",
+          "units": 4.0,
+          "source_line": "- LAW 200w Law and Society Units: 4"
+        },
+        {
+          "code": "LAW 202",
+          "title": "Wrongful Convictions",
+          "units": 4.0,
+          "source_line": "- LAW 202 Wrongful Convictions Units: 4"
+        },
+        {
+          "code": "LAW 203",
+          "title": "Criminal Punishment in the Age of Mass Incarceration",
+          "units": 4.0,
+          "source_line": "- LAW 203 Criminal Punishment in the Age of Mass Incarceration Units: 4"
+        },
+        {
+          "code": "LAW 205",
+          "title": "Introduction to Criminal Law",
+          "units": 4.0,
+          "source_line": "- LAW 205 Introduction to Criminal Law Units: 4"
+        },
+        {
+          "code": "LAW 250w",
+          "title": "Children and the Law",
+          "units": 4.0,
+          "source_line": "- LAW 250w Children and the Law Units: 4"
+        },
+        {
+          "code": "LAW 275p",
+          "title": "Equal by Law: The History of Civil Rights Law in the United States",
+          "units": 4.0,
+          "source_line": "- LAW 275p Equal by Law: The History of Civil Rights Law in the United States Units: 4"
+        },
+        {
+          "code": "LAW 310w",
+          "title": "Global Justice for Mass Atrocities and Genocide",
+          "units": 4.0,
+          "source_line": "- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4"
+        },
+        {
+          "code": "LAW 320p",
+          "title": "Law, Enslavement and Race",
+          "units": 4.0,
+          "source_line": "- LAW 320p Law, Enslavement and Race Units: 4"
+        },
+        {
+          "code": "LAW 355",
+          "title": "Law and Homelessness",
+          "units": 4.0,
+          "source_line": "- LAW 355 Law and Homelessness Units: 4"
+        },
+        {
+          "code": "LAW 403",
+          "title": "Mental Health Law",
+          "units": 4.0,
+          "source_line": "- LAW 403 Mental Health Law Units: 4"
+        },
+        {
+          "code": "LAW 404",
+          "title": "Psychology of the Criminal Justice Process",
+          "units": 4.0,
+          "source_line": "- LAW 404 Psychology of the Criminal Justice Process Units: 4"
+        },
+        {
+          "code": "LAW 406",
+          "title": "Individual Rights in U.S. Constitutional Law",
+          "units": 4.0,
+          "source_line": "- LAW 406 Individual Rights in U.S. Constitutional Law Units: 4"
+        },
+        {
+          "code": "LAW 498",
+          "title": "Law Internship , 2, 3, 4",
+          "units": 1.0,
+          "source_line": "- LAW 498 Law Internship Units: 1, 2, 3, 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must enroll in 4 units of law elective courses:",
+          "source_line": "Students must enroll in 4 units of law elective courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Other Electives (8 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "COMM 366",
+          "title": "Designing Media for Social Change",
+          "units": 4.0,
+          "source_line": "- COMM 366 Designing Media for Social Change Units: 4"
+        },
+        {
+          "code": "COMM 367",
+          "title": "Community Engagement and Service Learning",
+          "units": 4.0,
+          "source_line": "- COMM 367 Community Engagement and Service Learning Units: 4"
+        },
+        {
+          "code": "COMM 412",
+          "title": "Communication and Social Movements",
+          "units": 4.0,
+          "source_line": "- COMM 412 Communication and Social Movements Units: 4"
+        },
+        {
+          "code": "LAW 222",
+          "title": "Interdisciplinary Perspectives on the Law",
+          "units": 2.0,
+          "source_line": "- LAW 222 Interdisciplinary Perspectives on the Law Units: 2"
+        },
+        {
+          "code": "LAW 223",
+          "title": "Exploring Courthouses in Los Angeles",
+          "units": 2.0,
+          "source_line": "- LAW 223 Exploring Courthouses in Los Angeles Units: 2"
+        },
+        {
+          "code": "LAW 225",
+          "title": "Current Court Cases",
+          "units": 2.0,
+          "source_line": "- LAW 225 Current Court Cases Units: 2"
+        },
+        {
+          "code": "LAW 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- LAW 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "LAW 492",
+          "title": "Undergraduate Law Review",
+          "units": 2.0,
+          "source_line": "- LAW 492 Undergraduate Law Review Units: 2"
+        },
+        {
+          "code": "LAW 498",
+          "title": "Law Internship , 2, 3, 4",
+          "units": 1.0,
+          "source_line": "- LAW 498 Law Internship Units: 1, 2, 3, 4"
+        },
+        {
+          "code": "MDA 300",
+          "title": "The Dornsife Toolkit",
+          "units": 2.0,
+          "source_line": "- MDA 300 The Dornsife Toolkit Units: 2"
+        },
+        {
+          "code": "PHIL 174gw",
+          "title": "Freedom, Equality, and Social Justice",
+          "units": 4.0,
+          "source_line": "- PHIL 174gw Freedom, Equality, and Social Justice Units: 4"
+        },
+        {
+          "code": "POSC 248gw",
+          "title": "Human Rights",
+          "units": 4.0,
+          "source_line": "- POSC 248gw Human Rights Units: 4"
+        },
+        {
+          "code": "POSC 441m",
+          "title": "Cultural Diversity and the Law",
+          "units": 4.0,
+          "source_line": "- POSC 441m Cultural Diversity and the Law Units: 4"
+        },
+        {
+          "code": "POSC 444",
+          "title": "Civil and Political Rights and Liberties",
+          "units": 4.0,
+          "source_line": "- POSC 444 Civil and Political Rights and Liberties Units: 4"
+        },
+        {
+          "code": "SOCI 150gm",
+          "title": "Social Problems  *",
+          "units": 4.0,
+          "source_line": "- SOCI 150gm Social Problems Units: 4 *"
+        },
+        {
+          "code": "SOCI 250gmw",
+          "title": "Grassroots Participation in Global Perspective  *",
+          "units": 4.0,
+          "source_line": "- SOCI 250gmw Grassroots Participation in Global Perspective Units: 4 *"
+        },
+        {
+          "code": "SOCI 425",
+          "title": "Social Movements: Power, Resistance and Political Dynamics  *",
+          "units": 4.0,
+          "source_line": "- SOCI 425 Social Movements: Power, Resistance and Political Dynamics Units: 4 *"
+        },
+        {
+          "code": "SOWK 324",
+          "title": "Juvenile Justice in America",
+          "units": 4.0,
+          "source_line": "- SOWK 324 Juvenile Justice in America Units: 4"
+        },
+        {
+          "code": "SOWK 424",
+          "title": "Community Experience in Juvenile Justice Environments",
+          "units": 4.0,
+          "source_line": "- SOWK 424 Community Experience in Juvenile Justice Environments Units: 4"
+        },
+        {
+          "code": "SWMS 349",
+          "title": "Women and the Law",
+          "units": 4.0,
+          "source_line": "- SWMS 349 Women and the Law Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must enroll in 8 units of social justice elective courses:",
+          "source_line": "Students must enroll in 8 units of social justice elective courses:"
+        },
+        {
+          "text": "* Sociology courses taken as part of this minor will have prerequisites waived by the Sociology Department.",
+          "source_line": "- * Sociology courses taken as part of this minor will have prerequisites waived by the Sociology Department."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

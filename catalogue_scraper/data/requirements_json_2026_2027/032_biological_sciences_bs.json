@@ -1,0 +1,560 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Biological Sciences (Ecology, Evolution and Environment) (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32784",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32784&returnto=9396",
+    "source_text_file": "032_biological_sciences_bs.txt",
+    "source_content_sha256": "e92513b5a0ede2b4a645ce4f14a7b0da7953c50622784d453b6c22a12f4a9e63",
+    "retrieved_at": "2026-07-31T00:50:06Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Lower-Division BISC Core Courses (8 units)\n\n---\n\n- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or\n- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4\n-\n- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or\n- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4\n\n## Collateral Sciences Courses (32 units)\n\n---\n\n### General Chemistry Requirement: 8 units\n\n---\n\n- CHEM 105aLg General Chemistry Units: 4 or\n- CHEM 107Lg General Chemistry for Chemistry Majors Units: 4 or\n- CHEM 115aLg Advanced General Chemistry Units: 4\n-\n- CHEM 105bL General Chemistry Units: 4 or\n- CHEM 108L General Chemistry for Chemistry Majors: Kinetics and Equilibrium Units: 4 or\n- CHEM 115bL Advanced General Chemistry Units: 4\n\n### Organic Chemistry Requirement: 8 units\n\n---\n\n- CHEM 322aL Organic Chemistry Units: 4 or\n- CHEM 325aL Organic Chemistry Units: 4\n-\n- CHEM 322bL Organic Chemistry Units: 4 or\n- CHEM 325bL Organic Chemistry Units: 4\n\n### Calculus Requirement: 4 units\n\n---\n\n- MATH 125g Calculus I Units: 4\n\n### Statistics Requirement: 4 units\n\n---\n\n- MATH 208x Elementary Probability and Statistics Units: 4 or\n- QBIO 305g Statistics for Biological Sciences Units: 4 or\n- QBIO 310 Statistical Thinking for Quantitative Biology Units: 4\n\n### Physics Requirement: 8 units\n\n---\n\n- PHYS 135aLg Physics for the Life Sciences Units: 4 or\n- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4\n-\n- PHYS 135bL Physics for the Life Sciences Units: 4 or\n- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4\n\n## Introduction to Research-Active Faculty (1 to 2 units)\n\n---\n\nEnroll in one or two of the courses below.",
+      "- BISC 193 Introduction to Research I Units: 1\n- BISC 194 Introduction to Research II Units: 1\n- BISC 199 Neuroscience Colloquium Units: 1\n\n## Upper-Division Core Courses (12 units)\n\n---\n\nSelect three courses from the options listed below.",
+      "- BISC 313L Evolution and Population Genetics Units: 4\n- BISC 315L Introduction to Ecology Units: 4 or\n- BISC 404L Biodiversity Data Analytics Units: 4\n- BISC 326L Urban Conservation Biology Units: 4\n\n## Research-Based Learning Requirement (2 units)\n\n---\n\n- BISC 444 Practical Analysis of Biological Data in R Units: 2\n\n## Ecology, Evolution and Environment Seminar Requirement (2 units)\n\n---\n\nEnroll in an emphasis-relevant section of the seminar course.",
+      "- BISC 460 Seminar in Ecology, Evolution and Environment Units: 2\n\n## Ecology, Evolution and Environment Capstone Requirement (4 units)\n\n---\n\nEnroll in 4 units of BISC 490.",
+      "- BISC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8\n\n## Upper-Division Electives (10 to 12 units)\n\n---\n\nSelect three or four electives from the course options listed below.",
+      "Honors students are required to take two semesters of BISC 493x Honors Seminar (1 unit/ - semester) and one semester of BISC 494x Honors Thesis (2 units) in addition to fulfilling all requirements of the BA or BS degree."
+    ],
+    "course_entry_count": 53,
+    "distinct_course_codes": 51,
+    "section_count": 18
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The general education, writing, foreign language and diversity requirements for a degree in the USC Dornsife College of Letters, Arts and Sciences apply. All students will take foundational courses in biological sciences, chemistry, math, statistics and physics. The Ecology, Evolution and Environment emphasis empowers students with the experimental and theoretical tools required to understand the forces that drive and maintain biodiversity on the planet. This fundamental question spans many different hierarchies in biology – from genes and molecules, to organisms and populations, to species and ecosystems. How do all these interactions work, and what causes them to fail? The Ecology, Evolution and Environment curriculum was designed by active research faculty with an eye towards modern biological techniques and a strong emphasis on field biology. Ecology, Evolution and Environment students will be uniquely prepared to pursue a career in sustainability in addition to careers with a strong focus on ecology, evolution and environment in both the public and private sector.",
+          "source_line": "The general education, writing, foreign language and diversity requirements for a degree in the USC Dornsife College of Letters, Arts and Sciences apply. All students will take foundational courses in biological sciences, chemistry, math, statistics and physics. The Ecology, Evolution and Environment emphasis empowers students with the experimental and theoretical tools required to understand the forces that drive and maintain biodiversity on the planet. This fundamental question spans many different hierarchies in biology – from genes and molecules, to organisms and populations, to species and ecosystems. How do all these interactions work, and what causes them to fail? The Ecology, Evolution and Environment curriculum was designed by active research faculty with an eye towards modern biological techniques and a strong emphasis on field biology. Ecology, Evolution and Environment students will be uniquely prepared to pursue a career in sustainability in addition to careers with a strong focus on ecology, evolution and environment in both the public and private sector."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division BISC Core Courses (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 120Lg",
+          "title": "General Biology: Organismal Biology and Evolution  or",
+          "units": 4.0,
+          "source_line": "- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or"
+        },
+        {
+          "code": "BISC 121Lg",
+          "title": "Advanced General Biology: Organismal Biology and Evolution",
+          "units": 4.0,
+          "source_line": "- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4"
+        },
+        {
+          "code": "BISC 220Lg",
+          "title": "General Biology: Cell Biology and Physiology  or",
+          "units": 4.0,
+          "source_line": "- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or"
+        },
+        {
+          "code": "BISC 221Lg",
+          "title": "Advanced General Biology: Cell Biology and Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Collateral Sciences Courses (32 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Chemistry Requirement: 8 units",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CHEM 105aLg",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105aLg General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 107Lg",
+          "title": "General Chemistry for Chemistry Majors  or",
+          "units": 4.0,
+          "source_line": "- CHEM 107Lg General Chemistry for Chemistry Majors Units: 4 or"
+        },
+        {
+          "code": "CHEM 115aLg",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115aLg Advanced General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 105bL",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105bL General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 108L",
+          "title": "General Chemistry for Chemistry Majors: Kinetics and Equilibrium  or",
+          "units": 4.0,
+          "source_line": "- CHEM 108L General Chemistry for Chemistry Majors: Kinetics and Equilibrium Units: 4 or"
+        },
+        {
+          "code": "CHEM 115bL",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115bL Advanced General Chemistry Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Organic Chemistry Requirement: 8 units",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CHEM 322aL",
+          "title": "Organic Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 322aL Organic Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 325aL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 325aL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 322bL",
+          "title": "Organic Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 322bL Organic Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 325bL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 325bL Organic Chemistry Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Calculus Requirement: 4 units",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Statistics Requirement: 4 units",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MATH 208x",
+          "title": "Elementary Probability and Statistics  or",
+          "units": 4.0,
+          "source_line": "- MATH 208x Elementary Probability and Statistics Units: 4 or"
+        },
+        {
+          "code": "QBIO 305g",
+          "title": "Statistics for Biological Sciences  or",
+          "units": 4.0,
+          "source_line": "- QBIO 305g Statistics for Biological Sciences Units: 4 or"
+        },
+        {
+          "code": "QBIO 310",
+          "title": "Statistical Thinking for Quantitative Biology",
+          "units": 4.0,
+          "source_line": "- QBIO 310 Statistical Thinking for Quantitative Biology Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Physics Requirement: 8 units",
+      "level": 3,
+      "courses": [
+        {
+          "code": "PHYS 135aLg",
+          "title": "Physics for the Life Sciences  or",
+          "units": 4.0,
+          "source_line": "- PHYS 135aLg Physics for the Life Sciences Units: 4 or"
+        },
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4"
+        },
+        {
+          "code": "PHYS 135bL",
+          "title": "Physics for the Life Sciences  or",
+          "units": 4.0,
+          "source_line": "- PHYS 135bL Physics for the Life Sciences Units: 4 or"
+        },
+        {
+          "code": "PHYS 152L",
+          "title": "Fundamentals of Physics II: Electricity and Magnetism",
+          "units": 4.0,
+          "source_line": "- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Introduction to Research-Active Faculty (1 to 2 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 193",
+          "title": "Introduction to Research I",
+          "units": 1.0,
+          "source_line": "- BISC 193 Introduction to Research I Units: 1"
+        },
+        {
+          "code": "BISC 194",
+          "title": "Introduction to Research II",
+          "units": 1.0,
+          "source_line": "- BISC 194 Introduction to Research II Units: 1"
+        },
+        {
+          "code": "BISC 199",
+          "title": "Neuroscience Colloquium",
+          "units": 1.0,
+          "source_line": "- BISC 199 Neuroscience Colloquium Units: 1"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Enroll in one or two of the courses below.",
+          "source_line": "Enroll in one or two of the courses below."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Core Courses (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 313L",
+          "title": "Evolution and Population Genetics",
+          "units": 4.0,
+          "source_line": "- BISC 313L Evolution and Population Genetics Units: 4"
+        },
+        {
+          "code": "BISC 315L",
+          "title": "Introduction to Ecology  or",
+          "units": 4.0,
+          "source_line": "- BISC 315L Introduction to Ecology Units: 4 or"
+        },
+        {
+          "code": "BISC 404L",
+          "title": "Biodiversity Data Analytics",
+          "units": 4.0,
+          "source_line": "- BISC 404L Biodiversity Data Analytics Units: 4"
+        },
+        {
+          "code": "BISC 326L",
+          "title": "Urban Conservation Biology",
+          "units": 4.0,
+          "source_line": "- BISC 326L Urban Conservation Biology Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select three courses from the options listed below. Courses cannot count toward more than one degree requirement.",
+          "source_line": "Select three courses from the options listed below. Courses cannot count toward more than one degree requirement.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select three courses from the options listed below. Courses cannot count toward more than one degree requirement.",
+      "total_units": null
+    },
+    {
+      "title": "Research-Based Learning Requirement (2 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 444",
+          "title": "Practical Analysis of Biological Data in R",
+          "units": 2.0,
+          "source_line": "- BISC 444 Practical Analysis of Biological Data in R Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Ecology, Evolution and Environment Seminar Requirement (2 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 460",
+          "title": "Seminar in Ecology, Evolution and Environment",
+          "units": 2.0,
+          "source_line": "- BISC 460 Seminar in Ecology, Evolution and Environment Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Enroll in an emphasis-relevant section of the seminar course.",
+          "source_line": "Enroll in an emphasis-relevant section of the seminar course."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Ecology, Evolution and Environment Capstone Requirement (4 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- BISC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Enroll in 4 units of BISC 490.",
+          "source_line": "Enroll in 4 units of BISC 490."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Electives (10 to 12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 303L",
+          "title": "The Kingdom Plantae: An Introduction to Botany",
+          "units": 4.0,
+          "source_line": "- BISC 303L The Kingdom Plantae: An Introduction to Botany Units: 4"
+        },
+        {
+          "code": "BISC 315L",
+          "title": "Introduction to Ecology",
+          "units": 4.0,
+          "source_line": "- BISC 315L Introduction to Ecology Units: 4"
+        },
+        {
+          "code": "BISC 320Lg",
+          "title": "Molecular Biology",
+          "units": 4.0,
+          "source_line": "- BISC 320Lg Molecular Biology Units: 4"
+        },
+        {
+          "code": "BISC 325",
+          "title": "Genetics",
+          "units": 4.0,
+          "source_line": "- BISC 325 Genetics Units: 4"
+        },
+        {
+          "code": "BISC 330L",
+          "title": "Biochemistry",
+          "units": 4.0,
+          "source_line": "- BISC 330L Biochemistry Units: 4"
+        },
+        {
+          "code": "BISC 363L",
+          "title": "Mammalogy",
+          "units": 4.0,
+          "source_line": "- BISC 363L Mammalogy Units: 4"
+        },
+        {
+          "code": "BISC 364L",
+          "title": "Advanced Techniques in Field Mammalogy",
+          "units": 4.0,
+          "source_line": "- BISC 364L Advanced Techniques in Field Mammalogy Units: 4"
+        },
+        {
+          "code": "BISC 365",
+          "title": "Phylogenetics and Evolution",
+          "units": 2.0,
+          "source_line": "- BISC 365 Phylogenetics and Evolution Units: 2"
+        },
+        {
+          "code": "BISC 369L",
+          "title": "Ecology and the Natural History of California",
+          "units": 4.0,
+          "source_line": "- BISC 369L Ecology and the Natural History of California Units: 4"
+        },
+        {
+          "code": "BISC 379L",
+          "title": "Our Future Changing Ocean",
+          "units": 4.0,
+          "source_line": "- BISC 379L Our Future Changing Ocean Units: 4"
+        },
+        {
+          "code": "BISC 404L",
+          "title": "Biodiversity Data Analytics",
+          "units": 4.0,
+          "source_line": "- BISC 404L Biodiversity Data Analytics Units: 4"
+        },
+        {
+          "code": "BISC 434",
+          "title": "Introduction to Genome Science",
+          "units": 4.0,
+          "source_line": "- BISC 434 Introduction to Genome Science Units: 4"
+        },
+        {
+          "code": "BISC 445L",
+          "title": "Fundamentals of Vertebrate Biology",
+          "units": 4.0,
+          "source_line": "- BISC 445L Fundamentals of Vertebrate Biology Units: 4"
+        },
+        {
+          "code": "BISC 480L",
+          "title": "Developmental Biology",
+          "units": 4.0,
+          "source_line": "- BISC 480L Developmental Biology Units: 4"
+        },
+        {
+          "code": "BISC 491L",
+          "title": "Practical Aquaculture",
+          "units": 4.0,
+          "source_line": "- BISC 491L Practical Aquaculture Units: 4"
+        },
+        {
+          "code": "BISC 493x",
+          "title": "Honors Seminar",
+          "units": 1.0,
+          "source_line": "- BISC 493x Honors Seminar Units: 1"
+        },
+        {
+          "code": "BISC 494x",
+          "title": "Honors Thesis",
+          "units": 2.0,
+          "source_line": "- BISC 494x Honors Thesis Units: 2"
+        },
+        {
+          "code": "HBIO 301L",
+          "title": "Human Anatomy",
+          "units": 4.0,
+          "source_line": "- HBIO 301L Human Anatomy Units: 4"
+        },
+        {
+          "code": "QBIO 401",
+          "title": "Introduction to Computational Analysis of Biological Data",
+          "units": 4.0,
+          "source_line": "- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4"
+        },
+        {
+          "code": "QBIO 475",
+          "title": "Statistical and Evolutionary Genetics",
+          "units": 4.0,
+          "source_line": "- QBIO 475 Statistical and Evolutionary Genetics Units: 4"
+        },
+        {
+          "code": "QBIO 482",
+          "title": "Systems Biology: Modeling the Dynamics of Life",
+          "units": 4.0,
+          "source_line": "- QBIO 482 Systems Biology: Modeling the Dynamics of Life Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select three or four electives from the course options listed below. Courses cannot count toward more than one degree requirement.",
+          "source_line": "Select three or four electives from the course options listed below. Courses cannot count toward more than one degree requirement.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select three or four electives from the course options listed below. Courses cannot count toward more than one degree requirement.",
+      "total_units": null
+    },
+    {
+      "title": "Scholarship in Major Subject",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The department requires that students receive a grade no lower than C- in the five lower- and upper-division core courses. Students must maintain a 2.0 GPA in the upper-division course work required for the major, as well as an overall 2.0 GPA. All major core courses must be taken on a letter grade basis.",
+          "source_line": "The department requires that students receive a grade no lower than C- in the five lower- and upper-division core courses. Students must maintain a 2.0 GPA in the upper-division course work required for the major, as well as an overall 2.0 GPA. All major core courses must be taken on a letter grade basis."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Honors Program in Biological Sciences",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The department offers an honors program to outstanding students already pursuing studies for the BA or BS degree in Biological Sciences. This program offers students an opportunity to participate in undergraduate research, experience in writing an honors thesis summarizing the completed research, and experience in an honors seminar. Honors students are required to take two semesters of BISC 493x Honors Seminar (1 unit/ - semester) and one semester of BISC 494x Honors Thesis (2 units) in addition to fulfilling all requirements of the BA or BS degree. Honors students must also choose BISC 490x as one of their upper division electives. This program leads to the designation on the transcript of Bachelor of Arts or Bachelor of Science in Biological Sciences with Honors.",
+          "source_line": "The department offers an honors program to outstanding students already pursuing studies for the BA or BS degree in Biological Sciences. This program offers students an opportunity to participate in undergraduate research, experience in writing an honors thesis summarizing the completed research, and experience in an honors seminar. Honors students are required to take two semesters of BISC 493x Honors Seminar (1 unit/ - semester) and one semester of BISC 494x Honors Thesis (2 units) in addition to fulfilling all requirements of the BA or BS degree. Honors students must also choose BISC 490x as one of their upper division electives. This program leads to the designation on the transcript of Bachelor of Arts or Bachelor of Science in Biological Sciences with Honors.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "The department offers an honors program to outstanding students already pursuing studies for the BA or BS degree in Biological Sciences. This program offers students an opportunity to participate in undergraduate research, experience in writing an honors thesis summarizing the completed research, and experience in an honors seminar. Honors students are required to take two semesters of BISC 493x Honors Seminar (1 unit/ - semester) and one semester of BISC 494x Honors Thesis (2 units) in addition to fulfilling all requirements of the BA or BS degree. Honors students must also choose BISC 490x as one of their upper division electives. This program leads to the designation on the transcript of Bachelor of Arts or Bachelor of Science in Biological Sciences with Honors.",
+      "total_units": null
+    },
+    {
+      "title": "Honors Admission Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students may apply to the department for admission to the honors program after having completed at least one year of work at USC with a minimum GPA of 3.5 in all science and math courses required for the major.",
+          "source_line": "Students may apply to the department for admission to the honors program after having completed at least one year of work at USC with a minimum GPA of 3.5 in all science and math courses required for the major."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Honors Scholarship Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "For continuation in the honors programs, students must maintain a minimum GPA of 3.5 in the sciences and mathematics courses required for the major.",
+          "source_line": "For continuation in the honors programs, students must maintain a minimum GPA of 3.5 in the sciences and mathematics courses required for the major."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

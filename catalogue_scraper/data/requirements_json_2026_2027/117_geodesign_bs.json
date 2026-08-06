@@ -1,0 +1,435 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Geodesign (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31939",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31939&returnto=9396",
+    "source_text_file": "117_geodesign_bs.txt",
+    "source_content_sha256": "7431eae06674e3bb11a134ee536a4451dadd3c239b54eb66ea354879c44b5efe",
+    "retrieved_at": "2026-07-31T00:54:33Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "No more than 16 units of core courses may be taken prior to the successful completion of the geodesign pre-major requirements.",
+      "## Pre-Major Courses (8 Units)\n\n---\n\n- ECON 203g Principles of Microeconomics Units: 4\n- MATH 114xg Foundations of Statistics Units: 4\n\n## Core Courses + Capstone Course (48 Units)\n\n---\n\n- ARCH 203 Visualizing and Experiencing the Built Environment Units: 4\n- ARCH 303 Principles of Spatial Design I Units: 4\n- ARCH 403 Principles of Spatial Design II Units: 4\n- PPD 227 Planning for the Future City Units: 4\n- RED 417 History of Planning and Development Units: 4\n- RED 425 Designing Livable Communities Units: 4\n- SSCI 201g Principles of Geodesign Units: 4\n- SSCI 301L Maps and Spatial Reasoning Units: 4\n- SSCI 381 Statistics for the Spatial Sciences Units: 4\n- SSCI 382L Geographic Information Science: Spatial Analytics Units: 4\n- SSCI 383L Geographic Information Science: Geospatial Modeling and Customization Units: 4 (capstone course)\n- SSCI 412 Geodesign Practicum Units: 4\n\n## Additional Requirements\n\n---\n\n#### Capstone Course\n\nAll students will take 4 units of a capstone experience during their senior year.",
+      "This may be fulfilled by taking SSCI 412L GeoDesign Practicum (4 units) , which may be offered by any of the 3 units cross-listed (SSCI, ARCH, PPD) and will require students to use their knowledge and skills on a real project with a real client.",
+      "#### Major Electives (24 Units)\n\nA suite of courses that further the development of practical, theoretical, and field knowledge and skills, including computer graphics, drawing, policy analysis, public finance, and statistics.",
+      "Choose additional electives from the two lists equal to at least six courses (24 units) in all."
+    ],
+    "course_entry_count": 41,
+    "distinct_course_codes": 40,
+    "section_count": 14
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Science in Geodesign is an interdisciplinary major offered by the Dornsife College of Letters, Arts and Sciences, the USC School of Architecture, and the USC Price School of Public Policy. This degree prepares students for professional careers and/or graduate study by engaging them in the acquisition, representation, analysis, modeling and visualization of spatial information set in the context of the built environment and policy. The underlying spatial principles, methods and tools can be used to support sustainable planning, facility and infrastructure management, the design of livable and healthy communities, and a series of regional planning applications to address pollution, water and energy needs, and the impact of population growth on the environment. The major electives provide students with opportunities to explore one or more facets of the built environment and a series of complementary analytical and visualization tools in more detail. Finally, the major is structured to provide students with sufficient elective credits to explore minors or other programs at USC so they can broaden their education to better prepare themselves for the next stage of their lives.",
+          "source_line": "The Bachelor of Science in Geodesign is an interdisciplinary major offered by the Dornsife College of Letters, Arts and Sciences, the USC School of Architecture, and the USC Price School of Public Policy. This degree prepares students for professional careers and/or graduate study by engaging them in the acquisition, representation, analysis, modeling and visualization of spatial information set in the context of the built environment and policy. The underlying spatial principles, methods and tools can be used to support sustainable planning, facility and infrastructure management, the design of livable and healthy communities, and a series of regional planning applications to address pollution, water and energy needs, and the impact of population growth on the environment. The major electives provide students with opportunities to explore one or more facets of the built environment and a series of complementary analytical and visualization tools in more detail. Finally, the major is structured to provide students with sufficient elective credits to explore minors or other programs at USC so they can broaden their education to better prepare themselves for the next stage of their lives."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education .",
+          "source_line": "The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Major Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minimum grade of C, 2.0 (A = 4.0) must be earned in each of the core courses and the capstone course. In addition, a minimum grade point average of C (2.0) or higher must be achieved in the major to earn the geodesign degree. No more than 16 units of core courses may be taken prior to the successful completion of the geodesign pre-major requirements.",
+          "source_line": "A minimum grade of C, 2.0 (A = 4.0) must be earned in each of the core courses and the capstone course. In addition, a minimum grade point average of C (2.0) or higher must be achieved in the major to earn the geodesign degree. No more than 16 units of core courses may be taken prior to the successful completion of the geodesign pre-major requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Pre-major Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Both pre-major requirements must be taken for a letter grade and a minimum grade of C, 2.0 (A = 4.0), must be earned in each of the pre-major courses.",
+          "source_line": "Both pre-major requirements must be taken for a letter grade and a minimum grade of C, 2.0 (A = 4.0), must be earned in each of the pre-major courses."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Departmental Honors",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students in the BS in HSGI program can receive departmental honors by satisfying a > 3.7 GPA in major core courses in their second to last semester and an overall GPA > 3.5, and by presenting a poster or making a presentation of their research at an academic or professional conference and/or by exhibiting leadership within a club or organization.",
+          "source_line": "Students in the BS in HSGI program can receive departmental honors by satisfying a > 3.7 GPA in major core courses in their second to last semester and an overall GPA > 3.5, and by presenting a poster or making a presentation of their research at an academic or professional conference and/or by exhibiting leadership within a club or organization."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Pre-Major Courses (8 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ECON 203g",
+          "title": "Principles of Microeconomics",
+          "units": 4.0,
+          "source_line": "- ECON 203g Principles of Microeconomics Units: 4"
+        },
+        {
+          "code": "MATH 114xg",
+          "title": "Foundations of Statistics",
+          "units": 4.0,
+          "source_line": "- MATH 114xg Foundations of Statistics Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Courses + Capstone Course (48 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ARCH 203",
+          "title": "Visualizing and Experiencing the Built Environment",
+          "units": 4.0,
+          "source_line": "- ARCH 203 Visualizing and Experiencing the Built Environment Units: 4"
+        },
+        {
+          "code": "ARCH 303",
+          "title": "Principles of Spatial Design I",
+          "units": 4.0,
+          "source_line": "- ARCH 303 Principles of Spatial Design I Units: 4"
+        },
+        {
+          "code": "ARCH 403",
+          "title": "Principles of Spatial Design II",
+          "units": 4.0,
+          "source_line": "- ARCH 403 Principles of Spatial Design II Units: 4"
+        },
+        {
+          "code": "PPD 227",
+          "title": "Planning for the Future City",
+          "units": 4.0,
+          "source_line": "- PPD 227 Planning for the Future City Units: 4"
+        },
+        {
+          "code": "RED 417",
+          "title": "History of Planning and Development",
+          "units": 4.0,
+          "source_line": "- RED 417 History of Planning and Development Units: 4"
+        },
+        {
+          "code": "RED 425",
+          "title": "Designing Livable Communities",
+          "units": 4.0,
+          "source_line": "- RED 425 Designing Livable Communities Units: 4"
+        },
+        {
+          "code": "SSCI 201g",
+          "title": "Principles of Geodesign",
+          "units": 4.0,
+          "source_line": "- SSCI 201g Principles of Geodesign Units: 4"
+        },
+        {
+          "code": "SSCI 301L",
+          "title": "Maps and Spatial Reasoning",
+          "units": 4.0,
+          "source_line": "- SSCI 301L Maps and Spatial Reasoning Units: 4"
+        },
+        {
+          "code": "SSCI 381",
+          "title": "Statistics for the Spatial Sciences",
+          "units": 4.0,
+          "source_line": "- SSCI 381 Statistics for the Spatial Sciences Units: 4"
+        },
+        {
+          "code": "SSCI 382L",
+          "title": "Geographic Information Science: Spatial Analytics",
+          "units": 4.0,
+          "source_line": "- SSCI 382L Geographic Information Science: Spatial Analytics Units: 4"
+        },
+        {
+          "code": "SSCI 383L",
+          "title": "Geographic Information Science: Geospatial Modeling and Customization  (capstone course)",
+          "units": 4.0,
+          "source_line": "- SSCI 383L Geographic Information Science: Geospatial Modeling and Customization Units: 4 (capstone course)"
+        },
+        {
+          "code": "SSCI 412",
+          "title": "Geodesign Practicum",
+          "units": 4.0,
+          "source_line": "- SSCI 412 Geodesign Practicum Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Course",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "All students will take 4 units of a capstone experience during their senior year. This may be fulfilled by taking SSCI 412L GeoDesign Practicum (4 units) , which may be offered by any of the 3 units cross-listed (SSCI, ARCH, PPD) and will require students to use their knowledge and skills on a real project with a real client.",
+          "source_line": "All students will take 4 units of a capstone experience during their senior year. This may be fulfilled by taking SSCI 412L GeoDesign Practicum (4 units) , which may be offered by any of the 3 units cross-listed (SSCI, ARCH, PPD) and will require students to use their knowledge and skills on a real project with a real client."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Major Electives (24 Units)",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A suite of courses that further the development of practical, theoretical, and field knowledge and skills, including computer graphics, drawing, policy analysis, public finance, and statistics. Choose additional electives from the two lists equal to at least six courses (24 units) in all. At least two courses must come from Group A and two courses from Group B.",
+          "source_line": "A suite of courses that further the development of practical, theoretical, and field knowledge and skills, including computer graphics, drawing, policy analysis, public finance, and statistics. Choose additional electives from the two lists equal to at least six courses (24 units) in all. At least two courses must come from Group A and two courses from Group B.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "A suite of courses that further the development of practical, theoretical, and field knowledge and skills, including computer graphics, drawing, policy analysis, public finance, and statistics. Choose additional electives from the two lists equal to at least six courses (24 units) in all. At least two courses must come from Group A and two courses from Group B.",
+      "total_units": null
+    },
+    {
+      "title": "Group A: Built Environment",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ANTH 355",
+          "title": "Urban Anthropology",
+          "units": 4.0,
+          "source_line": "- ANTH 355 Urban Anthropology Units: 4"
+        },
+        {
+          "code": "ENST 323",
+          "title": "Politics of Global Environment",
+          "units": 4.0,
+          "source_line": "- ENST 323 Politics of Global Environment Units: 4"
+        },
+        {
+          "code": "ENST 335",
+          "title": "Science, Health and the Environment",
+          "units": 4.0,
+          "source_line": "- ENST 335 Science, Health and the Environment Units: 4"
+        },
+        {
+          "code": "POSC 363",
+          "title": "Cities and Regions in World Politics",
+          "units": 4.0,
+          "source_line": "- POSC 363 Cities and Regions in World Politics Units: 4"
+        },
+        {
+          "code": "PPD 360",
+          "title": "Urban Transportation Planning and Policy",
+          "units": 4.0,
+          "source_line": "- PPD 360 Urban Transportation Planning and Policy Units: 4"
+        },
+        {
+          "code": "PPD 361",
+          "title": "Sustainable Communities, Policy and Planning",
+          "units": 4.0,
+          "source_line": "- PPD 361 Sustainable Communities, Policy and Planning Units: 4"
+        },
+        {
+          "code": "PPD 410",
+          "title": "Comparative Urban Development",
+          "units": 4.0,
+          "source_line": "- PPD 410 Comparative Urban Development Units: 4"
+        },
+        {
+          "code": "SOCI 242g",
+          "title": "Sociology, Demography and Health",
+          "units": 4.0,
+          "source_line": "- SOCI 242g Sociology, Demography and Health Units: 4"
+        },
+        {
+          "code": "SSCI 165Lgw",
+          "title": "Sustainability Science in the City",
+          "units": 4.0,
+          "source_line": "- SSCI 165Lgw Sustainability Science in the City Units: 4"
+        },
+        {
+          "code": "SSCI 175gw",
+          "title": "Food, Health and Place",
+          "units": 4.0,
+          "source_line": "- SSCI 175gw Food, Health and Place Units: 4"
+        },
+        {
+          "code": "SSCI 214g",
+          "title": "Human Populations and Natural Hazards",
+          "units": 4.0,
+          "source_line": "- SSCI 214g Human Populations and Natural Hazards Units: 4"
+        },
+        {
+          "code": "SSCI 265Lg",
+          "title": "The Water Planet",
+          "units": 4.0,
+          "source_line": "- SSCI 265Lg The Water Planet Units: 4"
+        },
+        {
+          "code": "SSCI 350",
+          "title": "International Geodesign",
+          "units": 4.0,
+          "source_line": "- SSCI 350 International Geodesign Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Group B: Design, Analysis And Computation",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ARCH 307",
+          "title": "Digital Tools for Architecture",
+          "units": 3.0,
+          "source_line": "- ARCH 307 Digital Tools for Architecture Units: 3"
+        },
+        {
+          "code": "DES 102",
+          "title": "Design Fundamentals",
+          "units": 4.0,
+          "source_line": "- DES 102 Design Fundamentals Units: 4"
+        },
+        {
+          "code": "DES 203",
+          "title": "Digital Design Fundamentals",
+          "units": 2.0,
+          "source_line": "- DES 203 Digital Design Fundamentals Units: 2"
+        },
+        {
+          "code": "ENST 387",
+          "title": "Economics for Natural Resources and the Environment",
+          "units": 4.0,
+          "source_line": "- ENST 387 Economics for Natural Resources and the Environment Units: 4"
+        },
+        {
+          "code": "IR 323",
+          "title": "Politics of Global Environment",
+          "units": 4.0,
+          "source_line": "- IR 323 Politics of Global Environment Units: 4"
+        },
+        {
+          "code": "POSC 265gw",
+          "title": "Environmental Challenges",
+          "units": 4.0,
+          "source_line": "- POSC 265gw Environmental Challenges Units: 4"
+        },
+        {
+          "code": "POSC 363",
+          "title": "Cities and Regions in World Politics",
+          "units": 4.0,
+          "source_line": "- POSC 363 Cities and Regions in World Politics Units: 4"
+        },
+        {
+          "code": "POSC 436",
+          "title": "Environmental Politics",
+          "units": 4.0,
+          "source_line": "- POSC 436 Environmental Politics Units: 4"
+        },
+        {
+          "code": "PPD 430",
+          "title": "Urban Informatics",
+          "units": 4.0,
+          "source_line": "- PPD 430 Urban Informatics Units: 4"
+        },
+        {
+          "code": "SSCI 135g",
+          "title": "Maps in the Digital World",
+          "units": 4.0,
+          "source_line": "- SSCI 135g Maps in the Digital World Units: 4"
+        },
+        {
+          "code": "SSCI 220L",
+          "title": "Spatial Data Collection Using Drones",
+          "units": 4.0,
+          "source_line": "- SSCI 220L Spatial Data Collection Using Drones Units: 4"
+        },
+        {
+          "code": "SSCI 313",
+          "title": "Global Geodesign and Stakeholder Engagement",
+          "units": 2.0,
+          "source_line": "- SSCI 313 Global Geodesign and Stakeholder Engagement Units: 2"
+        },
+        {
+          "code": "SSCI 314",
+          "title": "Comparative Sustainability Theory and Practice for Geodesign",
+          "units": 2.0,
+          "source_line": "- SSCI 314 Comparative Sustainability Theory and Practice for Geodesign Units: 2"
+        },
+        {
+          "code": "SSCI 402",
+          "title": "GIS and Sustainable Development",
+          "units": 4.0,
+          "source_line": "- SSCI 402 GIS and Sustainable Development Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Honors",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Candidates for the BS in Geodesign can receive an honors degree by meeting these requirements: a 3.7 GPA in department courses at the time of graduation; completion of an honors research project or thesis under the guidance of a faculty member (SSCI 412L ). Admission to the program is granted by the departmental undergraduate adviser in the semester preceding enrollment in SSCI 412L ; students should have a 3.7 GPA in the major at this time.",
+          "source_line": "Candidates for the BS in Geodesign can receive an honors degree by meeting these requirements: a 3.7 GPA in department courses at the time of graduation; completion of an honors research project or thesis under the guidance of a faculty member (SSCI 412L ). Admission to the program is granted by the departmental undergraduate adviser in the semester preceding enrollment in SSCI 412L ; students should have a 3.7 GPA in the major at this time."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

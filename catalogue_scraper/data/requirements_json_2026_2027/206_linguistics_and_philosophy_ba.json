@@ -1,0 +1,265 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Linguistics and Philosophy (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31843",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31843&returnto=9396",
+    "source_text_file": "206_linguistics_and_philosophy_ba.txt",
+    "source_content_sha256": "0a23ccb6537893389e0dfb7273d23448dc63d317d012bb831b60a3fbd338ceaa",
+    "retrieved_at": "2026-07-31T00:57:52Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 23,
+    "distinct_course_codes": 23,
+    "section_count": 8
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Combined major program between the Department of Linguistics and the Department of Philosophy.",
+          "source_line": "Combined major program between the Department of Linguistics and the Department of Philosophy."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "For the lower division,",
+      "level": 2,
+      "courses": [
+        {
+          "code": "LING 210g",
+          "title": "Introduction to Linguistics  is required",
+          "units": 4.0,
+          "source_line": "- LING 210g Introduction to Linguistics Units: 4 is required"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "For the upper division the following courses are required:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "LING 302",
+          "title": "Introduction to Syntax",
+          "units": 4.0,
+          "source_line": "- LING 302 Introduction to Syntax Units: 4"
+        },
+        {
+          "code": "LING 303",
+          "title": "Introduction to Semantics and Pragmatics",
+          "units": 4.0,
+          "source_line": "- LING 303 Introduction to Semantics and Pragmatics Units: 4"
+        },
+        {
+          "code": "PHIL 350",
+          "title": "Intermediate Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 350 Intermediate Logic Units: 4"
+        },
+        {
+          "code": "PHIL 465",
+          "title": "Philosophy of Language",
+          "units": 4.0,
+          "source_line": "- PHIL 465 Philosophy of Language Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Two courses selected from",
+      "level": 2,
+      "courses": [
+        {
+          "code": "LING 301",
+          "title": "Introduction to Phonology and Morphology",
+          "units": 4.0,
+          "source_line": "- LING 301 Introduction to Phonology and Morphology Units: 4"
+        },
+        {
+          "code": "LING 380",
+          "title": "Languages of the World",
+          "units": 4.0,
+          "source_line": "- LING 380 Languages of the World Units: 4"
+        },
+        {
+          "code": "LING 401",
+          "title": "Advanced Phonology",
+          "units": 4.0,
+          "source_line": "- LING 401 Advanced Phonology Units: 4"
+        },
+        {
+          "code": "LING 402",
+          "title": "Advanced Syntax",
+          "units": 4.0,
+          "source_line": "- LING 402 Advanced Syntax Units: 4"
+        },
+        {
+          "code": "LING 403",
+          "title": "Advanced Semantics",
+          "units": 4.0,
+          "source_line": "- LING 403 Advanced Semantics Units: 4"
+        },
+        {
+          "code": "LING 405",
+          "title": "Child Language Acquisition",
+          "units": 4.0,
+          "source_line": "- LING 405 Child Language Acquisition Units: 4"
+        },
+        {
+          "code": "LING 406",
+          "title": "Psycholinguistics",
+          "units": 4.0,
+          "source_line": "- LING 406 Psycholinguistics Units: 4"
+        },
+        {
+          "code": "LING 407",
+          "title": "Atypical Language",
+          "units": 4.0,
+          "source_line": "- LING 407 Atypical Language Units: 4"
+        },
+        {
+          "code": "LING 410",
+          "title": "Second Language Acquisition",
+          "units": 4.0,
+          "source_line": "- LING 410 Second Language Acquisition Units: 4"
+        },
+        {
+          "code": "LING 415",
+          "title": "Phonetics",
+          "units": 4.0,
+          "source_line": "- LING 415 Phonetics Units: 4"
+        },
+        {
+          "code": "LING 466",
+          "title": "Word and Phrase Origins",
+          "units": 4.0,
+          "source_line": "- LING 466 Word and Phrase Origins Units: 4"
+        },
+        {
+          "code": "LING 467",
+          "title": "Language, Linguistics and Mind  * and",
+          "units": 4.0,
+          "source_line": "- LING 467 Language, Linguistics and Mind Units: 4 * and"
+        },
+        {
+          "code": "LING 485",
+          "title": "Field Methodology",
+          "units": 4.0,
+          "source_line": "- LING 485 Field Methodology Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "And three courses selected from",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PHIL 450",
+          "title": "The Limits of Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 450 The Limits of Logic Units: 4"
+        },
+        {
+          "code": "PHIL 460",
+          "title": "Metaphysics",
+          "units": 4.0,
+          "source_line": "- PHIL 460 Metaphysics Units: 4"
+        },
+        {
+          "code": "PHIL 462",
+          "title": "Philosophy of Mind",
+          "units": 4.0,
+          "source_line": "- PHIL 462 Philosophy of Mind Units: 4"
+        },
+        {
+          "code": "PHIL 467",
+          "title": "Language, Linguistics and Mind  * and",
+          "units": 4.0,
+          "source_line": "- PHIL 467 Language, Linguistics and Mind Units: 4 * and"
+        },
+        {
+          "code": "PHIL 470",
+          "title": "Theory of Knowledge",
+          "units": 4.0,
+          "source_line": "- PHIL 470 Theory of Knowledge Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This course may count toward only one program requirement.",
+          "source_line": "*This course may count toward only one program requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Experience",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Linguistics and Philosophy major requires a capstone experience, which can be fulfilled in one of the following ways:",
+          "source_line": "The Linguistics and Philosophy major requires a capstone experience, which can be fulfilled in one of the following ways:"
+        },
+        {
+          "text": "(A) A research paper completed as Honors Thesis LING 497 , or as Directed Research LING 490 or as a Linguistic 400-level course research paper.",
+          "source_line": "(A) A research paper completed as Honors Thesis LING 497 , or as Directed Research LING 490 or as a Linguistic 400-level course research paper."
+        },
+        {
+          "text": "(B) A poster presented at the USC UG symposium [https://ahf.usc.edu/signature-events/symposium/] or at a conference.",
+          "source_line": "(B) A poster presented at the USC UG symposium [https://ahf.usc.edu/signature-events/symposium/] or at a conference."
+        },
+        {
+          "text": "(C) A summer internship related to the degree.",
+          "source_line": "(C) A summer internship related to the degree."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Linguistics and Philosophy Major with Honors",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Linguistics and Philosophy major with honors requires the student to complete the requirements for the major with a GPA of 3.5 or above and to complete in addition LING 497 Honors Thesis or PHIL 494 Senior Thesis with a grade of B+ or better. Intent to complete the major with honors should be registered with the undergraduate adviser no later than the second semester of the junior year.",
+          "source_line": "The Linguistics and Philosophy major with honors requires the student to complete the requirements for the major with a GPA of 3.5 or above and to complete in addition LING 497 Honors Thesis or PHIL 494 Senior Thesis with a grade of B+ or better. Intent to complete the major with honors should be registered with the undergraduate adviser no later than the second semester of the junior year.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "The Linguistics and Philosophy major with honors requires the student to complete the requirements for the major with a GPA of 3.5 or above and to complete in addition LING 497 Honors Thesis or PHIL 494 Senior Thesis with a grade of B+ or better. Intent to complete the major with honors should be registered with the undergraduate adviser no later than the second semester of the junior year.",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

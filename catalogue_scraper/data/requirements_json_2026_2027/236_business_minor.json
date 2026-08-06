@@ -1,0 +1,227 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Business Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31597",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31597&returnto=9396",
+    "source_text_file": "236_business_minor.txt",
+    "source_content_sha256": "503ced50316c7ae04343b3cf335d8f53d5044768c80e5acc207d6e91e7187190",
+    "retrieved_at": "2026-07-31T01:00:04Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "To enroll in the business minor, students must have completed a minimum of 32 units of college-level courses and attained a minimum overall GPA of 2.",
+      "Successful completion of the business minor requires at least 23 units with a minimum cumulative GPA of 2."
+    ],
+    "course_entry_count": 21,
+    "distinct_course_codes": 21,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in business is available to students in all schools and departments except the Marshall School of Business. The minor provides the opportunity for students to gain understanding of key concepts and tools of business.",
+          "source_line": "The minor in business is available to students in all schools and departments except the Marshall School of Business. The minor provides the opportunity for students to gain understanding of key concepts and tools of business."
+        },
+        {
+          "text": "To enroll in the business minor, students must have completed a minimum of 32 units of college-level courses and attained a minimum overall GPA of 2.75.",
+          "source_line": "To enroll in the business minor, students must have completed a minimum of 32 units of college-level courses and attained a minimum overall GPA of 2.75."
+        },
+        {
+          "text": "Successful completion of the business minor requires at least 23 units with a minimum cumulative GPA of 2.0 in the courses applied to the minor.",
+          "source_line": "Successful completion of the business minor requires at least 23 units with a minimum cumulative GPA of 2.0 in the courses applied to the minor."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Minor Course Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose one of the following six options: (units 2-8) *",
+      "level": 3,
+      "courses": [
+        {
+          "code": "BUAD 200x",
+          "title": "Economic Foundations for Business",
+          "units": 2.0,
+          "source_line": "- BUAD 200x Economic Foundations for Business Units: 2",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 201x",
+          "title": "Introduction to Business for Non-Majors",
+          "units": 4.0,
+          "source_line": "- BUAD 201x Introduction to Business for Non-Majors Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 351",
+          "title": "Economic Analysis for Business Decisions  and",
+          "units": 4.0,
+          "source_line": "- BUAD 351 Economic Analysis for Business Decisions Units: 4 and"
+        },
+        {
+          "code": "BUAD 352",
+          "title": "Macroeconomic Analysis for Business Decisions  or",
+          "units": 4.0,
+          "source_line": "- BUAD 352 Macroeconomic Analysis for Business Decisions Units: 4 or"
+        },
+        {
+          "code": "ECON 203g",
+          "title": "Principles of Microeconomics  and",
+          "units": 4.0,
+          "source_line": "- ECON 203g Principles of Microeconomics Units: 4 and"
+        },
+        {
+          "code": "ECON 205g",
+          "title": "Principles of Macroeconomics",
+          "units": 4.0,
+          "source_line": "- ECON 205g Principles of Macroeconomics Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "ECON 303",
+          "title": "Intermediate Microeconomic Theory  and",
+          "units": 4.0,
+          "source_line": "- ECON 303 Intermediate Microeconomic Theory Units: 4 and"
+        },
+        {
+          "code": "ECON 305",
+          "title": "Intermediate Macroeconomic Theory",
+          "units": 4.0,
+          "source_line": "- ECON 305 Intermediate Macroeconomic Theory Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "ECON 351x",
+          "title": "Microeconomics for Business  and",
+          "units": 4.0,
+          "source_line": "- ECON 351x Microeconomics for Business Units: 4 and"
+        },
+        {
+          "code": "ECON 352x",
+          "title": "Macroeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 352x Macroeconomics for Business Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "[*]Students who have earned scores of 4 or 5 on both the AP Microeconomics and the AP Macroeconomics exams will be waived out of the first requirement (BUAD 200 , BUAD 201 , 351/352 or ECON).",
+          "source_line": "- [*]Students who have earned scores of 4 or 5 on both the AP Microeconomics and the AP Macroeconomics exams will be waived out of the first requirement (BUAD 200 , BUAD 201 , 351/352 or ECON)."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Required Course Work:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ACCT 410x",
+          "title": "Foundations of Accounting  or",
+          "units": 4.0,
+          "source_line": "- ACCT 410x Foundations of Accounting Units: 4 or"
+        },
+        {
+          "code": "BUAD 280",
+          "title": "Introduction to Financial Accounting  or",
+          "units": 3.0,
+          "source_line": "- BUAD 280 Introduction to Financial Accounting Units: 3 or"
+        },
+        {
+          "code": "BUAD 305",
+          "title": "Abridged Core Concepts of Accounting Information",
+          "units": 4.0,
+          "source_line": "- BUAD 305 Abridged Core Concepts of Accounting Information Units: 4"
+        },
+        {
+          "code": "BUAD 306",
+          "title": "Business Finance  or",
+          "units": 4.0,
+          "source_line": "- BUAD 306 Business Finance Units: 4 or"
+        },
+        {
+          "code": "BUAD 308",
+          "title": "Advanced Business Finance",
+          "units": 4.0,
+          "source_line": "- BUAD 308 Advanced Business Finance Units: 4"
+        },
+        {
+          "code": "BUAD 302",
+          "title": "Communication Strategy in Business",
+          "units": 4.0,
+          "source_line": "- BUAD 302 Communication Strategy in Business Units: 4"
+        },
+        {
+          "code": "BUAD 304",
+          "title": "Organizational Behavior and Leadership",
+          "units": 4.0,
+          "source_line": "- BUAD 304 Organizational Behavior and Leadership Units: 4"
+        },
+        {
+          "code": "BUAD 307",
+          "title": "Marketing Fundamentals",
+          "units": 4.0,
+          "source_line": "- BUAD 307 Marketing Fundamentals Units: 4"
+        },
+        {
+          "code": "BUAD 315x",
+          "title": "Basics of Project and Operations Management for Non-Majors  or",
+          "units": 2.0,
+          "source_line": "- BUAD 315x Basics of Project and Operations Management for Non-Majors Units: 2 or"
+        },
+        {
+          "code": "BUAD 311",
+          "title": "Operations Management  or",
+          "units": 4.0,
+          "source_line": "- BUAD 311 Operations Management Units: 4 or"
+        },
+        {
+          "code": "BUAD 313",
+          "title": "Advanced Operations Management and Analytics",
+          "units": 4.0,
+          "source_line": "- BUAD 313 Advanced Operations Management and Analytics Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

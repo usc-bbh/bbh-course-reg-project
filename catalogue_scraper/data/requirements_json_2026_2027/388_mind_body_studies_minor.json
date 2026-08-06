@@ -1,0 +1,246 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Mind Body Studies Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32739",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32739&returnto=9396",
+    "source_text_file": "388_mind_body_studies_minor.txt",
+    "source_content_sha256": "87146634ef8c8562481c2c8c7812a38d58edd7920c7b1c114da673cffd08f07c",
+    "retrieved_at": "2026-07-31T01:10:56Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "Required Course Work (20 units): Students will complete a combination of experiential classes in Physical Education and Mind Body Health, as well as theory and research-based interdisciplinary electives.",
+      "## Core Courses (3 units)\n\n---\n\n- PHED 120a Yoga Units: 1\n-\n- PHED 119 Introduction to Mindfulness Units: 2 or\n- PHED 160 Stress Management for Healthy Living Units: 2\n\n## Upper-Division Courses (choose 12 units)\n\n---\n\n- BAEP 472 The Science of Peak Performance Units: 2\n- DANC 362 Pilates Mat Training Units: 2\n- GERO 411L Physiology, Nutrition, and Aging Units: 2 or 4\n- HBIO 301L Human Anatomy Units: 4\n- HBIO 309 The Human Machine Units: 4\n- HBIO 401L Physiology of Movement Units: 4\n- MKT 404 Happiness and Wellbeing in the Marketplace Units: 4\n- OT 325 The Brain: Mind, Body, and Self Units: 4\n- PSYC 339Lg Origins of the Mind Units: 4\n- REL 340 Introduction to Indian Philosophy Units: 4\n\n## Elective (choose 5 units)\n\n---\n\n- PHED 106a Physical Conditioning Units: 1\n- PHED 110a Swimming Units: 1\n- PHED 118 Sleep for Peak Performance Units: 2\n- PHED 119 Introduction to Mindfulness Units: 2 *\n- PHED 120b Yoga Units: 1\n- PHED 122 Yoga and Meditation Units: 1\n- PHED 123 Yoga Therapy Units: 2\n- PHED 124 Walking for Fitness Units: 1\n- PHED 127 Principles of Yoga Through Community Outreach Units: 2\n- PHED 134 Hiking Units: 1\n- PHED 160 Stress Management for Healthy Living Units: 2 *\n- PHED 163 Health Coaching Units: 3\n- PHED 299 Special Topics Units: 1, 2, 3, 4, 5, 6, 7, 8\n\n## Minimum Units: 20\n\n---\n\nNote: No more than 4 units of physical education activity courses may be applied to a student’s overall unit requirement, toward his or her USC degree."
+    ],
+    "course_entry_count": 26,
+    "distinct_course_codes": 24,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students will explore the interconnectedness of body and mind wellbeing through an experiential, interdisciplinary study that blends theory, research and practice. Offered through the Department of Physical Education and Mind Body Health, core course work includes foundations in yoga, mindfulness and stress management for a comprehensive approach to healthy living. Interdisciplinary course work examines mental and physical health for a multi-dimensional view of mind-body awareness and connection. This minor is designed for students who want to add a dimension of wellbeing to their personal and academic lives. It is particularly suited for those with career interests in health care, physical therapy, psychology or social work.",
+          "source_line": "Students will explore the interconnectedness of body and mind wellbeing through an experiential, interdisciplinary study that blends theory, research and practice. Offered through the Department of Physical Education and Mind Body Health, core course work includes foundations in yoga, mindfulness and stress management for a comprehensive approach to healthy living. Interdisciplinary course work examines mental and physical health for a multi-dimensional view of mind-body awareness and connection. This minor is designed for students who want to add a dimension of wellbeing to their personal and academic lives. It is particularly suited for those with career interests in health care, physical therapy, psychology or social work."
+        },
+        {
+          "text": "Required Course Work (20 units): Students will complete a combination of experiential classes in Physical Education and Mind Body Health, as well as theory and research-based interdisciplinary electives.",
+          "source_line": "Required Course Work (20 units): Students will complete a combination of experiential classes in Physical Education and Mind Body Health, as well as theory and research-based interdisciplinary electives."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Courses (3 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PHED 120a",
+          "title": "Yoga",
+          "units": 1.0,
+          "source_line": "- PHED 120a Yoga Units: 1"
+        },
+        {
+          "code": "PHED 119",
+          "title": "Introduction to Mindfulness  or",
+          "units": 2.0,
+          "source_line": "- PHED 119 Introduction to Mindfulness Units: 2 or"
+        },
+        {
+          "code": "PHED 160",
+          "title": "Stress Management for Healthy Living",
+          "units": 2.0,
+          "source_line": "- PHED 160 Stress Management for Healthy Living Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Courses (choose 12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BAEP 472",
+          "title": "The Science of Peak Performance",
+          "units": 2.0,
+          "source_line": "- BAEP 472 The Science of Peak Performance Units: 2"
+        },
+        {
+          "code": "DANC 362",
+          "title": "Pilates Mat Training",
+          "units": 2.0,
+          "source_line": "- DANC 362 Pilates Mat Training Units: 2"
+        },
+        {
+          "code": "GERO 411L",
+          "title": "Physiology, Nutrition, and Aging  or 4",
+          "units": 2.0,
+          "source_line": "- GERO 411L Physiology, Nutrition, and Aging Units: 2 or 4"
+        },
+        {
+          "code": "HBIO 301L",
+          "title": "Human Anatomy",
+          "units": 4.0,
+          "source_line": "- HBIO 301L Human Anatomy Units: 4"
+        },
+        {
+          "code": "HBIO 309",
+          "title": "The Human Machine",
+          "units": 4.0,
+          "source_line": "- HBIO 309 The Human Machine Units: 4"
+        },
+        {
+          "code": "HBIO 401L",
+          "title": "Physiology of Movement",
+          "units": 4.0,
+          "source_line": "- HBIO 401L Physiology of Movement Units: 4"
+        },
+        {
+          "code": "MKT 404",
+          "title": "Happiness and Wellbeing in the Marketplace",
+          "units": 4.0,
+          "source_line": "- MKT 404 Happiness and Wellbeing in the Marketplace Units: 4"
+        },
+        {
+          "code": "OT 325",
+          "title": "The Brain: Mind, Body, and Self",
+          "units": 4.0,
+          "source_line": "- OT 325 The Brain: Mind, Body, and Self Units: 4"
+        },
+        {
+          "code": "PSYC 339Lg",
+          "title": "Origins of the Mind",
+          "units": 4.0,
+          "source_line": "- PSYC 339Lg Origins of the Mind Units: 4"
+        },
+        {
+          "code": "REL 340",
+          "title": "Introduction to Indian Philosophy",
+          "units": 4.0,
+          "source_line": "- REL 340 Introduction to Indian Philosophy Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective (choose 5 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PHED 106a",
+          "title": "Physical Conditioning",
+          "units": 1.0,
+          "source_line": "- PHED 106a Physical Conditioning Units: 1"
+        },
+        {
+          "code": "PHED 110a",
+          "title": "Swimming",
+          "units": 1.0,
+          "source_line": "- PHED 110a Swimming Units: 1"
+        },
+        {
+          "code": "PHED 118",
+          "title": "Sleep for Peak Performance",
+          "units": 2.0,
+          "source_line": "- PHED 118 Sleep for Peak Performance Units: 2"
+        },
+        {
+          "code": "PHED 119",
+          "title": "Introduction to Mindfulness  *",
+          "units": 2.0,
+          "source_line": "- PHED 119 Introduction to Mindfulness Units: 2 *"
+        },
+        {
+          "code": "PHED 120b",
+          "title": "Yoga",
+          "units": 1.0,
+          "source_line": "- PHED 120b Yoga Units: 1"
+        },
+        {
+          "code": "PHED 122",
+          "title": "Yoga and Meditation",
+          "units": 1.0,
+          "source_line": "- PHED 122 Yoga and Meditation Units: 1"
+        },
+        {
+          "code": "PHED 123",
+          "title": "Yoga Therapy",
+          "units": 2.0,
+          "source_line": "- PHED 123 Yoga Therapy Units: 2"
+        },
+        {
+          "code": "PHED 124",
+          "title": "Walking for Fitness",
+          "units": 1.0,
+          "source_line": "- PHED 124 Walking for Fitness Units: 1"
+        },
+        {
+          "code": "PHED 127",
+          "title": "Principles of Yoga Through Community Outreach",
+          "units": 2.0,
+          "source_line": "- PHED 127 Principles of Yoga Through Community Outreach Units: 2"
+        },
+        {
+          "code": "PHED 134",
+          "title": "Hiking",
+          "units": 1.0,
+          "source_line": "- PHED 134 Hiking Units: 1"
+        },
+        {
+          "code": "PHED 160",
+          "title": "Stress Management for Healthy Living  *",
+          "units": 2.0,
+          "source_line": "- PHED 160 Stress Management for Healthy Living Units: 2 *"
+        },
+        {
+          "code": "PHED 163",
+          "title": "Health Coaching",
+          "units": 3.0,
+          "source_line": "- PHED 163 Health Coaching Units: 3"
+        },
+        {
+          "code": "PHED 299",
+          "title": "Special Topics , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- PHED 299 Special Topics Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Minimum Units: 20",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Note: No more than 4 units of physical education activity courses may be applied to a student’s overall unit requirement, toward his or her USC degree.",
+          "source_line": "Note: No more than 4 units of physical education activity courses may be applied to a student’s overall unit requirement, toward his or her USC degree."
+        },
+        {
+          "text": "Core courses may not double count as electives.",
+          "source_line": "*Core courses may not double count as electives."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

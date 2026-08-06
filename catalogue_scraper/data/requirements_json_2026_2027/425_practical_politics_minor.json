@@ -1,0 +1,207 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Practical Politics Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32481",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32481&returnto=9396",
+    "source_text_file": "425_practical_politics_minor.txt",
+    "source_content_sha256": "73dc020813f1f0ed0402a56b55456a8f5ad3f45ae52b96096be7ad9985d4586c",
+    "retrieved_at": "2026-07-31T01:12:18Z"
+  },
+  "totals": {
+    "stated_total_units": 16.0,
+    "stated_total_units_source": "minor requires 16 units",
+    "unit_statements_verbatim": [
+      "## Requirements\n\n---\n\nThe Practical Politics minor requires students to take five courses (20 units) from the following three categories.",
+      "The minor requires 16 units of upper-division courses.",
+      "Only 4 units of the 20 units may be fulfilled with a 100- or 200-level course.",
+      "Two courses in American Politics from the following list (8 units):\n\n---\n\n- POSC 100g Theory and Practice of American Democracy Units: 4\n- POSC 334 Interest Groups and Elite Behavior Units: 4\n- POSC 335 Political Parties, Campaigns, and Elections Units: 4\n- POSC 422 Political Attitudes and Behavior Units: 4\n- POSC 423 Presidents and the Presidency Units: 4\n- POSC 424m Political Participation and American Diversity Units: 4\n- POSC 425 Legislative Process Units: 4\n- POSC 435 Politics and the Economy Units: 4\n- POSC 437 Mass Media and Politics Units: 4\n- POSC 449 Political Psychology Units: 4\n\n## 2.",
+      "Two courses in Applied Politics from the following list (8 units):\n\n---\n\n- POSC 323 Applied Politics Units: 4 *\n- POSC 325 State Politics Units: 4\n- POSC 420 Practicum in the American Political Process Units: 4 *\n- POSC 439 Critical Issues in American Politics Units: 4\n- POSC 452 Critical Issues in Law and Public Policy Units: 4\n\n### Note:\n\n---\n\nMultiple sections of Applied Politics (POSC 323 ) and Practicum in the American Political Process (POSC 420 ) may be offered and can be counted toward the minor."
+    ],
+    "course_entry_count": 16,
+    "distinct_course_codes": 16,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Practical Politics Minor offers students a unique opportunity to study the theory and practice of American Democracy. The minor includes courses on campaigns, elections, political communications, legislative politics, and governing. Students will engage with faculty who possess a wealth of knowledge and experience in electoral politics and campaign strategy. The minor will help students develop a multitude of skills applicable to the job market, such as problem solving, polling, social media analytics, micro-targeting, research, writing and public speaking. Students will also complete an internship that will provide them with professional training and exposure to different careers. In addition, students can pursue courses through Maymester and the Dornsife in Washington D.C. program toward the minor.",
+          "source_line": "The Practical Politics Minor offers students a unique opportunity to study the theory and practice of American Democracy. The minor includes courses on campaigns, elections, political communications, legislative politics, and governing. Students will engage with faculty who possess a wealth of knowledge and experience in electoral politics and campaign strategy. The minor will help students develop a multitude of skills applicable to the job market, such as problem solving, polling, social media analytics, micro-targeting, research, writing and public speaking. Students will also complete an internship that will provide them with professional training and exposure to different careers. In addition, students can pursue courses through Maymester and the Dornsife in Washington D.C. program toward the minor."
+        },
+        {
+          "text": "The Practical Politics Minor complements many majors in the Dornsife College of Letters, Arts, and Sciences including economics; sociology; philosophy, politics, and law; and international relations, as well as majors outside of the college including communications; business and public policy.",
+          "source_line": "The Practical Politics Minor complements many majors in the Dornsife College of Letters, Arts, and Sciences including economics; sociology; philosophy, politics, and law; and international relations, as well as majors outside of the college including communications; business and public policy."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Practical Politics minor requires students to take five courses (20 units) from the following three categories. The minor requires 16 units of upper-division courses. Only 4 units of the 20 units may be fulfilled with a 100- or 200-level course.",
+          "source_line": "The Practical Politics minor requires students to take five courses (20 units) from the following three categories. The minor requires 16 units of upper-division courses. Only 4 units of the 20 units may be fulfilled with a 100- or 200-level course."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "1. Two courses in American Politics from the following list (8 units):",
+      "level": 2,
+      "courses": [
+        {
+          "code": "POSC 100g",
+          "title": "Theory and Practice of American Democracy",
+          "units": 4.0,
+          "source_line": "- POSC 100g Theory and Practice of American Democracy Units: 4"
+        },
+        {
+          "code": "POSC 334",
+          "title": "Interest Groups and Elite Behavior",
+          "units": 4.0,
+          "source_line": "- POSC 334 Interest Groups and Elite Behavior Units: 4"
+        },
+        {
+          "code": "POSC 335",
+          "title": "Political Parties, Campaigns, and Elections",
+          "units": 4.0,
+          "source_line": "- POSC 335 Political Parties, Campaigns, and Elections Units: 4"
+        },
+        {
+          "code": "POSC 422",
+          "title": "Political Attitudes and Behavior",
+          "units": 4.0,
+          "source_line": "- POSC 422 Political Attitudes and Behavior Units: 4"
+        },
+        {
+          "code": "POSC 423",
+          "title": "Presidents and the Presidency",
+          "units": 4.0,
+          "source_line": "- POSC 423 Presidents and the Presidency Units: 4"
+        },
+        {
+          "code": "POSC 424m",
+          "title": "Political Participation and American Diversity",
+          "units": 4.0,
+          "source_line": "- POSC 424m Political Participation and American Diversity Units: 4"
+        },
+        {
+          "code": "POSC 425",
+          "title": "Legislative Process",
+          "units": 4.0,
+          "source_line": "- POSC 425 Legislative Process Units: 4"
+        },
+        {
+          "code": "POSC 435",
+          "title": "Politics and the Economy",
+          "units": 4.0,
+          "source_line": "- POSC 435 Politics and the Economy Units: 4"
+        },
+        {
+          "code": "POSC 437",
+          "title": "Mass Media and Politics",
+          "units": 4.0,
+          "source_line": "- POSC 437 Mass Media and Politics Units: 4"
+        },
+        {
+          "code": "POSC 449",
+          "title": "Political Psychology",
+          "units": 4.0,
+          "source_line": "- POSC 449 Political Psychology Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "2. Two courses in Applied Politics from the following list (8 units):",
+      "level": 2,
+      "courses": [
+        {
+          "code": "POSC 323",
+          "title": "Applied Politics  *",
+          "units": 4.0,
+          "source_line": "- POSC 323 Applied Politics Units: 4 *"
+        },
+        {
+          "code": "POSC 325",
+          "title": "State Politics",
+          "units": 4.0,
+          "source_line": "- POSC 325 State Politics Units: 4"
+        },
+        {
+          "code": "POSC 420",
+          "title": "Practicum in the American Political Process  *",
+          "units": 4.0,
+          "source_line": "- POSC 420 Practicum in the American Political Process Units: 4 *"
+        },
+        {
+          "code": "POSC 439",
+          "title": "Critical Issues in American Politics",
+          "units": 4.0,
+          "source_line": "- POSC 439 Critical Issues in American Politics Units: 4"
+        },
+        {
+          "code": "POSC 452",
+          "title": "Critical Issues in Law and Public Policy",
+          "units": 4.0,
+          "source_line": "- POSC 452 Critical Issues in Law and Public Policy Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Multiple sections of Applied Politics (POSC 323 ) and Practicum in the American Political Process (POSC 420 ) may be offered and can be counted toward the minor.",
+          "source_line": "Multiple sections of Applied Politics (POSC 323 ) and Practicum in the American Political Process (POSC 420 ) may be offered and can be counted toward the minor."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "3. One course in Practical Experience from the following list (4 units):",
+      "level": 2,
+      "courses": [
+        {
+          "code": "POSC 395",
+          "title": "Directed Governmental and Political Leadership Internship , 3, 4, 5, 6, 7, 8",
+          "units": 2.0,
+          "source_line": "- POSC 395 Directed Governmental and Political Leadership Internship Units: 2, 3, 4, 5, 6, 7, 8"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Internship in Washington DC (part of the Washington DC Program)",
+          "source_line": "- Internship in Washington DC (part of the Washington DC Program)"
+        },
+        {
+          "text": "Maymester in Washington DC",
+          "source_line": "- Maymester in Washington DC"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

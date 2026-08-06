@@ -1,0 +1,165 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Physical Sciences (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31891",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31891&returnto=9396",
+    "source_text_file": "176_physical_sciences_bs.txt",
+    "source_content_sha256": "82c8dcc068a585d986cd53c89a4f57656b22e88bfea28f340683856049829a81",
+    "retrieved_at": "2026-07-31T00:56:43Z"
+  },
+  "totals": {
+    "stated_total_units": 64.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [],
+    "course_entry_count": 9,
+    "distinct_course_codes": 9,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This program is intended for students with an interest in the physical sciences. The program is designed to allow students interested in teaching at the secondary level to enroll in courses required for the California Single Subject Teaching credential offered through the School of Education.",
+          "source_line": "This program is intended for students with an interest in the physical sciences. The program is designed to allow students interested in teaching at the secondary level to enroll in courses required for the California Single Subject Teaching credential offered through the School of Education."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Lower-Division Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CHEM 115aLg",
+          "title": "Advanced General Chemistry  **",
+          "units": 4.0,
+          "source_line": "- CHEM 115aLg Advanced General Chemistry Units: 4 **"
+        },
+        {
+          "code": "CHEM 115bL",
+          "title": "Advanced General Chemistry  **",
+          "units": 4.0,
+          "source_line": "- CHEM 115bL Advanced General Chemistry Units: 4 **"
+        },
+        {
+          "code": "GEOL 105Lg",
+          "title": "Planet Earth",
+          "units": 4.0,
+          "source_line": "- GEOL 105Lg Planet Earth Units: 4"
+        },
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4"
+        },
+        {
+          "code": "PHYS 152L",
+          "title": "Fundamentals of Physics II: Electricity and Magnetism",
+          "units": 4.0,
+          "source_line": "- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4"
+        },
+        {
+          "code": "PHYS 153L",
+          "title": "Fundamentals of Physics III: Optics, Thermo, Modern Physics",
+          "units": 4.0,
+          "source_line": "- PHYS 153L Fundamentals of Physics III: Optics, Thermo, Modern Physics Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Upper-Division Courses",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Astronomy elective* Units: 4",
+          "source_line": "- Astronomy elective* Units: 4"
+        },
+        {
+          "text": "Chemistry elective* Units: 4",
+          "source_line": "- Chemistry elective* Units: 4"
+        },
+        {
+          "text": "Earth Science elective* Units: 4",
+          "source_line": "- Earth Science elective* Units: 4"
+        },
+        {
+          "text": "Physics elective* Units: 4",
+          "source_line": "- Physics elective* Units: 4"
+        },
+        {
+          "text": "Three additional electives from these fields* Units: 12",
+          "source_line": "- Three additional electives from these fields* Units: 12"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Upper-division courses must be applicable to majors in their respective departments.",
+          "source_line": "*Upper-division courses must be applicable to majors in their respective departments."
+        },
+        {
+          "text": "*CHEM 105aL , CHEM 105bL may be substituted for the sequence CHEM 115aL , CHEM 115bL .",
+          "source_line": "**CHEM 105aL , CHEM 105bL may be substituted for the sequence CHEM 115aL , CHEM 115bL ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Other Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 64",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 64.0
+    }
+  ],
+  "parse_warnings": []
+}

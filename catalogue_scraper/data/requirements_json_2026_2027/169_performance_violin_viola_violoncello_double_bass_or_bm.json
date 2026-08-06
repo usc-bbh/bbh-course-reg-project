@@ -1,0 +1,1731 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Performance (Violin), (Viola), (Violoncello), (Double Bass) or (Harp) (BM)",
+    "credential": "BM",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32236",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32236&returnto=9396",
+    "source_text_file": "169_performance_violin_viola_violoncello_double_bass_or_bm.txt",
+    "source_content_sha256": "02c9aeceb04b87843e18f80601a5ef30326f6810e971cbf885876d8c4b8692c6",
+    "retrieved_at": "2026-07-31T00:56:29Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Curriculum Requirements For Violin, Viola and Violoncello Majors\n\n---\n\n### General Education *\n\n---\n\n#### Core Literacies\n\n---\n\nGE-A: The Arts (one course)\n\nGE-B: Humanistic Inquiry (two courses)\n\nGE-C: Social Analysis (two courses)\n\nGE-D: Life Sciences (one course)\n\nGE-E: Physical Sciences (one course)\n\nGE-F: Quantitative Reasoning (one course)\n\n#### Global Perspectives\n\n---\n\nGE-G: Global Perspectives I (one course)\n\nGE-H: Global Perspectives II (one course)\n\n#### Writing\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4\n\n### Core Thornton Academic Courses (36 units)\n\n---\n\n- MUCD 348 Instrumental Conducting and Orchestration Units: 2\n- MUCO 132a Aural Skills I Units: 2\n- MUCO 132b Aural Skills I Units: 2\n- MUCO 133a Theory I Units: 3\n- MUCO 133b Theory I Units: 3\n- MUCO 232a Aural Skills II Units: 2\n- MUCO 232b Aural Skills II Units: 2\n- MUCO 233a Theory II Units: 3\n- MUCO 233b Theory II Units: 3\n- MUHL 250g Music and Ideas Units: 4\n- MUHL 350g Western Art Music History I Units: 4\n- MUHL 351 Western Art Music History II Units: 4\n- MUSC 496 Careers in Music Units: 2\n\n### Program Specific Courses (40 units)\n\n---\n\n#### Individual Instruction (16 units)\n\n---\n\n- MPST 153 Individual Instruction Units: 1 or 2\n- 4 units total of MPST 153 in your primary instrument\n- MPST 253 Individual Instruction Units: 1 or 2\n- 4 units total of MPST 253 in your primary instrument\n- MPST 353 Individual Instruction Units: 1 or 2\n- 4 units total of MPST 353 in your primary instrument\n- MPST 453 Individual Instruction Units: 1 or 2\n- 4 units total of MPST 453 in your primary instrument\n\n#### Ensembles (16 units)\n\n---\n\n- MUEN 320 USC Symphony Units: 1 [**]\n- 8 units total of MUEN 320\n- MUEN 327 String Chamber Music Units: 1\n- 8 units total of MUEN 327\n\n#### Program Intensive (8 units)\n\n---\n\n- MPST 472 Orchestra Repertoire–Strings Units: 2\n- Select two units from the following:\n- MPKS 481 Interpretation of Baroque Music Units: 2\n- MPKS 482 Interpretation of Music of the Classical Period Units: 2\n- Select two units from the following:\n- MPKS 250a Keyboard Instruction I Units: 2\n- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2\n- Select two units from the following:\n- DANC 177 Introduction to Dance Forms and Techniques Units: 1, 2\n- Any course from DANC 180 - 189\n\n### Electives (20 units)\n\n---\n\n#### Contemporary Division Electives (4 units)\n\n---\n\nSelect 4 units from the Contemporary Division\n\nCourses include those listed below or others, in consultation with your chair and the Contemporary Division:\n\n- MPGU 145 Guitar Proficiency for the Pop Guitarist Units: 2\n- MPGU 150 Functional Skills for the Popular Guitarist Units: 2\n- MPPM 120 Popular Music Performance I Units: 2\n- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2\n- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2\n- MPPM 370 The Vocal Edge: Contemporary Vocal Performance Techniques Units: 2\n- MTEC 245 Introduction to MIDI Sequencing Units: 1\n- MTEC 246 Introduction to Audio Recording and Editing Units: 1\n- MTEC 248 Introduction to Music Notation Units: 1\n- MTEC 249 Introduction to Web Design for Musicians Units: 1\n- MTEC 277x Introduction to Music Technology Units: 4\n- MUIN 272x Basics of the Music Industry Units: 4\n- MUIN 425 Live Music Production and Promotion Units: 4\n- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2\n- MUJZ 150 Beginning Jazz Improvisation Units: 2\n- MUJZ 218a Afro-Latin Percussion Instruments Units: 2\n- MUJZ 450 Intermediate Jazz Improvisation Units: 2\n- MUSC 255 Songwriting I Units: 2\n\n#### General Electives (16 units)\n\n---\n\n### Capstone Projects (4 units)\n\n---\n\n- MUSC 480 Young Artist Project I Units: 2\n- MUSC 481 Young Artist Project II Units: 2\n- Junior Recital: 0 units\n- Senior Recital: 0 units\n\n## Total Required For Degree: 132\n\n---\n\n* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.",
+      "## Curriculum Requirements For Double Bass Majors\n\n---\n\n### General Education *\n\n---\n\n#### Core Literacies\n\n---\n\nGE-A: The Arts (one course)\n\nGE-B: Humanistic Inquiry (two courses)\n\nGE-C: Social Analysis (two courses)\n\nGE-D: Life Sciences (one course)\n\nGE-E: Physical Sciences (one course)\n\nGE-F: Quantitative Reasoning (one course)\n\n#### Global Perspectives\n\n---\n\nGE-G: Global Perspectives I (one course)\n\nGE-H: Global Perspectives II (one course)\n\n#### Writing\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4\n\n### Core Thornton Academic Courses (36 units)\n\n---\n\n- MUCD 348 Instrumental Conducting and Orchestration Units: 2\n- MUCO 132a Aural Skills I Units: 2\n- MUCO 132b Aural Skills I Units: 2\n- MUCO 133a Theory I Units: 3\n- MUCO 133b Theory I Units: 3\n- MUCO 232a Aural Skills II Units: 2\n- MUCO 232b Aural Skills II Units: 2\n- MUCO 233a Theory II Units: 3\n- MUCO 233b Theory II Units: 3\n- MUHL 250g Music and Ideas Units: 4\n- MUHL 350g Western Art Music History I Units: 4\n- MUHL 351 Western Art Music History II Units: 4\n- MUSC 496 Careers in Music Units: 2\n\n### Program Specific Courses (38 units)\n\n---\n\n#### Individual Instruction (20 units)\n\n---\n\n- MPST 153 Individual Instruction Units: 1 or 2\n- 4 units total of MPST 153 (Double Bass)\n- MPST 253 Individual Instruction Units: 1 or 2\n- 4 units total of MPST 253 (Double Bass)\n- MPST 353 Individual Instruction Units: 1 or 2\n- 4 units total of MPST 353 (Double Bass)\n- MPST 453 Individual Instruction Units: 1 or 2\n- 4 units total of MPST 453 (Double Bass)\n- Select four units from the following:\n- MPEM 301 Individual Instruction Units: 1, 2\n- MPPM 301 Individual Instruction Units: 1, 2\n- MUJZ 301 Individual Instruction Units: 1, 2\n\n#### Ensembles (12 units)\n\n---\n\n- MUEN 320 USC Symphony Units: 1 [**]\n- 8 units total of MUEN 320\n- Select four units from the following:\n- MUEN 325 Wind and Percussion Chamber Music Units: 1\n- MUEN 327 String Chamber Music Units: 1\n- MUEN 330 Contemporary Music Ensemble Units: 1\n- MUEN 350 Early Music Ensemble Units: 1\n- MPPM 420 Popular Music Performance Styles and Genres Units: 2 ***\n\n#### Program Intensive (6 units)\n\n---\n\n- Select two units from the following:\n- MPKS 481 Interpretation of Baroque Music Units: 2\n- MPKS 482 Interpretation of Music of the Classical Period Units: 2\n- Select two units from the following:\n- MPKS 250a Keyboard Instruction I Units: 2\n- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2\n- Select two units from the following:\n- DANC 177 Introduction to Dance Forms and Techniques Units: 1, 2\n- Any course from DANC 180 - 189\n\n### Electives (22 units)\n\n---\n\n#### Contemporary Division Electives (4 units)\n\n---\n\nSelect 4 units from the Contemporary Division\n\nCourses include those listed below or others, in consultation with your chair and the Contemporary Division:\n\n- MPGU 145 Guitar Proficiency for the Pop Guitarist Units: 2\n- MPGU 150 Functional Skills for the Popular Guitarist Units: 2\n- MPPM 120 Popular Music Performance I Units: 2\n- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2\n- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2\n- MPPM 370 The Vocal Edge: Contemporary Vocal Performance Techniques Units: 2\n- MTEC 245 Introduction to MIDI Sequencing Units: 1\n- MTEC 246 Introduction to Audio Recording and Editing Units: 1\n- MTEC 248 Introduction to Music Notation Units: 1\n- MTEC 249 Introduction to Web Design for Musicians Units: 1\n- MTEC 277x Introduction to Music Technology Units: 4\n- MUIN 272x Basics of the Music Industry Units: 4\n- MUIN 425 Live Music Production and Promotion Units: 4\n- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2\n- MUJZ 150 Beginning Jazz Improvisation Units: 2\n- MUJZ 218a Afro-Latin Percussion Instruments Units: 2\n- MUJZ 450 Intermediate Jazz Improvisation Units: 2\n- MUSC 255 Songwriting I Units: 2\n\n#### General Electives (18 units)\n\n---\n\n### Capstone Projects (4 units)\n\n---\n\n- MUSC 480 Young Artist Project I Units: 2\n- MUSC 481 Young Artist Project II Units: 2\n- Junior Recital: 0 units\n- Senior Recital: 0 units\n\n## Total Required For Degree: 132\n\n---\n\n* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.",
+      "[**]Required each semester in residence\n\n***If registering for MPPM 420, you must take the section listed under the section title “Pop String Ensemble”\n\n## Curriculum Requirements For Harp Majors\n\n---\n\n### General Education *\n\n---\n\n#### Core Literacies\n\n---\n\nGE-A: The Arts (one course)\n\nGE-B: Humanistic Inquiry (two courses)\n\nGE-C: Social Analysis (two courses)\n\nGE-D: Life Sciences (one course)\n\nGE-E: Physical Sciences (one course)\n\nGE-F: Quantitative Reasoning (one course)\n\n#### Global Perspectives\n\n---\n\nGE-G: Global Perspectives I (one course)\n\nGE-H: Global Perspectives II (one course)\n\n#### Writing\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4\n\n### Core Thornton Academic Courses (36 units)\n\n---\n\n- MUCD 348 Instrumental Conducting and Orchestration Units: 2\n- MUCO 132a Aural Skills I Units: 2\n- MUCO 132b Aural Skills I Units: 2\n- MUCO 133a Theory I Units: 3\n- MUCO 133b Theory I Units: 3\n- MUCO 232a Aural Skills II Units: 2\n- MUCO 232b Aural Skills II Units: 2\n- MUCO 233a Theory II Units: 3\n- MUCO 233b Theory II Units: 3\n- MUHL 250g Music and Ideas Units: 4\n- MUHL 350g Western Art Music History I Units: 4\n- MUHL 351 Western Art Music History II Units: 4\n- MUSC 496 Careers in Music Units: 2\n\n### Program Specific Courses (40 units)\n\n---\n\n#### Individual Instruction (16 units)\n\n---\n\n- MPST 153 Individual Instruction Units: 1 or 2\n- 4 units total of MPST 153 (Harp)\n- MPST 253 Individual Instruction Units: 1 or 2\n- 4 units total of MPST 253 (Harp)\n- MPST 353 Individual Instruction Units: 1 or 2\n- 4 units total of MPST 353 (Harp)\n- MPST 453 Individual Instruction Units: 1 or 2\n- 4 units total of MPST 453 (Harp)\n\n#### Ensembles (12 units)\n\n---\n\n- MUEN 320 USC Symphony Units: 1 [**]\n- 8 units total of MUEN 320\n- Select four units from the following:\n- MUEN 325 Wind and Percussion Chamber Music Units: 1\n- MUEN 327 String Chamber Music Units: 1\n- MUEN 330 Contemporary Music Ensemble Units: 1\n- MUEN 350 Early Music Ensemble Units: 1\n- MPPM 420 Popular Music Performance Styles and Genres Units: 2 ***\n\n#### Program Intensive (6 units)\n\n---\n\n- Select two units from the following:\n- MPKS 481 Interpretation of Baroque Music Units: 2\n- MPKS 482 Interpretation of Music of the Classical Period Units: 2\n- Select two units from the following:\n- MPKS 250a Keyboard Instruction I Units: 2\n- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2\n- Select two units from the following:\n- DANC 177 Introduction to Dance Forms and Techniques Units: 1, 2\n- Any course from DANC 180 - 189\n\n#### Music Electives (6 units)\n\n---\n\n### Electives (20 units)\n\n---\n\n#### Contemporary Division Electives (4 units)\n\n---\n\nSelect 4 units from the Contemporary Division\n\nCourses include those listed below or others, in consultation with your chair and the Contemporary Division:\n\n- MPGU 145 Guitar Proficiency for the Pop Guitarist Units: 2\n- MPGU 150 Functional Skills for the Popular Guitarist Units: 2\n- MPPM 120 Popular Music Performance I Units: 2\n- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2\n- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2\n- MPPM 370 The Vocal Edge: Contemporary Vocal Performance Techniques Units: 2\n- MTEC 245 Introduction to MIDI Sequencing Units: 1\n- MTEC 246 Introduction to Audio Recording and Editing Units: 1\n- MTEC 248 Introduction to Music Notation Units: 1\n- MTEC 249 Introduction to Web Design for Musicians Units: 1\n- MTEC 277x Introduction to Music Technology Units: 4\n- MUIN 272x Basics of the Music Industry Units: 4\n- MUIN 425 Live Music Production and Promotion Units: 4\n- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2\n- MUJZ 150 Beginning Jazz Improvisation Units: 2\n- MUJZ 218a Afro-Latin Percussion Instruments Units: 2\n- MUJZ 450 Intermediate Jazz Improvisation Units: 2\n- MUSC 255 Songwriting I Units: 2\n\n#### General Electives (16 units)\n\n---\n\n### Capstone Projects (4 units)\n\n---\n\n- MUSC 480 Young Artist Project I Units: 2\n- MUSC 481 Young Artist Project II Units: 2\n- Junior Recital: 0 units\n- Senior Recital: 0 units\n\n## Total Required For Degree: 132\n\n---\n\n* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements."
+    ],
+    "course_entry_count": 150,
+    "distinct_course_codes": 53,
+    "section_count": 52
+  },
+  "sections": [
+    {
+      "title": "Overview",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "All USC Thornton undergraduate programs in classical performance and composition combine a rigorous foundation of the finest conservatory training with curricular flexibility for students to chart their own artistic pathways. All curricular components are designed to support students in creating a distinctive musical voice and preparing for a fulfilling musical career.",
+          "source_line": "All USC Thornton undergraduate programs in classical performance and composition combine a rigorous foundation of the finest conservatory training with curricular flexibility for students to chart their own artistic pathways. All curricular components are designed to support students in creating a distinctive musical voice and preparing for a fulfilling musical career."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Entrance Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees. Specific entrance requirements are reviewed on an annual basis and published online at music.usc.edu.",
+          "source_line": "Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees. Specific entrance requirements are reviewed on an annual basis and published online at music.usc.edu."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "USC's General Education program, revised in fall 2015, provides a coherent, integrated approach to the study of the liberal arts, with the goal of nurturing habits of thought that are essential for professional success, personal development, and meaningful lifelong learning. Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC. With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements. Academic advisers in the Thornton School carefully guide Thornton students in making their course choices. This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements.",
+          "source_line": "USC's General Education program, revised in fall 2015, provides a coherent, integrated approach to the study of the liberal arts, with the goal of nurturing habits of thought that are essential for professional success, personal development, and meaningful lifelong learning. Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC. With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements. Academic advisers in the Thornton School carefully guide Thornton students in making their course choices. This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Projects",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Young Artist Project",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "During the junior and senior years of the program, students develop and fully realize unique individualized, mentored projects related to their work as classical musicians. This could involve developing a hybrid performance, conducting original research, exploring new creative technologies, or applying creative expression to a pressing social issue.",
+          "source_line": "During the junior and senior years of the program, students develop and fully realize unique individualized, mentored projects related to their work as classical musicians. This could involve developing a hybrid performance, conducting original research, exploring new creative technologies, or applying creative expression to a pressing social issue."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Recitals",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A junior and senior recital must be completed under approved faculty supervision and guidance. The faculty of the department of the student's major program determines the detailed requirements of the recitals, including content, length, format and other specifications. In cases in which a performance venue is required in order to present the recitals, reservations must be made according to the current guidelines of the Music Operations office.",
+          "source_line": "A junior and senior recital must be completed under approved faculty supervision and guidance. The faculty of the department of the student's major program determines the detailed requirements of the recitals, including content, length, format and other specifications. In cases in which a performance venue is required in order to present the recitals, reservations must be made according to the current guidelines of the Music Operations office."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Curriculum Requirements For Violin, Viola and Violoncello Majors",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education *",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Literacies",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-A: The Arts (one course)",
+          "source_line": "GE-A: The Arts (one course)"
+        },
+        {
+          "text": "GE-B: Humanistic Inquiry (two courses)",
+          "source_line": "GE-B: Humanistic Inquiry (two courses)"
+        },
+        {
+          "text": "GE-C: Social Analysis (two courses)",
+          "source_line": "GE-C: Social Analysis (two courses)"
+        },
+        {
+          "text": "GE-D: Life Sciences (one course)",
+          "source_line": "GE-D: Life Sciences (one course)"
+        },
+        {
+          "text": "GE-E: Physical Sciences (one course)",
+          "source_line": "GE-E: Physical Sciences (one course)"
+        },
+        {
+          "text": "GE-F: Quantitative Reasoning (one course)",
+          "source_line": "GE-F: Quantitative Reasoning (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Global Perspectives",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-G: Global Perspectives I (one course)",
+          "source_line": "GE-G: Global Perspectives I (one course)"
+        },
+        {
+          "text": "GE-H: Global Perspectives II (one course)",
+          "source_line": "GE-H: Global Perspectives II (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Writing",
+      "level": 4,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Thornton Academic Courses (36 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MUCD 348",
+          "title": "Instrumental Conducting and Orchestration",
+          "units": 2.0,
+          "source_line": "- MUCD 348 Instrumental Conducting and Orchestration Units: 2"
+        },
+        {
+          "code": "MUCO 132a",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132a Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 132b",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132b Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 133a",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133a Theory I Units: 3"
+        },
+        {
+          "code": "MUCO 133b",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133b Theory I Units: 3"
+        },
+        {
+          "code": "MUCO 232a",
+          "title": "Aural Skills II",
+          "units": 2.0,
+          "source_line": "- MUCO 232a Aural Skills II Units: 2"
+        },
+        {
+          "code": "MUCO 232b",
+          "title": "Aural Skills II",
+          "units": 2.0,
+          "source_line": "- MUCO 232b Aural Skills II Units: 2"
+        },
+        {
+          "code": "MUCO 233a",
+          "title": "Theory II",
+          "units": 3.0,
+          "source_line": "- MUCO 233a Theory II Units: 3"
+        },
+        {
+          "code": "MUCO 233b",
+          "title": "Theory II",
+          "units": 3.0,
+          "source_line": "- MUCO 233b Theory II Units: 3"
+        },
+        {
+          "code": "MUHL 250g",
+          "title": "Music and Ideas",
+          "units": 4.0,
+          "source_line": "- MUHL 250g Music and Ideas Units: 4"
+        },
+        {
+          "code": "MUHL 350g",
+          "title": "Western Art Music History I",
+          "units": 4.0,
+          "source_line": "- MUHL 350g Western Art Music History I Units: 4"
+        },
+        {
+          "code": "MUHL 351",
+          "title": "Western Art Music History II",
+          "units": 4.0,
+          "source_line": "- MUHL 351 Western Art Music History II Units: 4"
+        },
+        {
+          "code": "MUSC 496",
+          "title": "Careers in Music",
+          "units": 2.0,
+          "source_line": "- MUSC 496 Careers in Music Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Specific Courses (40 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Individual Instruction (16 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPST 153",
+          "title": "Individual Instruction  or 2",
+          "units": 1.0,
+          "source_line": "- MPST 153 Individual Instruction Units: 1 or 2"
+        },
+        {
+          "code": "MPST 253",
+          "title": "Individual Instruction  or 2",
+          "units": 1.0,
+          "source_line": "- MPST 253 Individual Instruction Units: 1 or 2"
+        },
+        {
+          "code": "MPST 353",
+          "title": "Individual Instruction  or 2",
+          "units": 1.0,
+          "source_line": "- MPST 353 Individual Instruction Units: 1 or 2"
+        },
+        {
+          "code": "MPST 453",
+          "title": "Individual Instruction  or 2",
+          "units": 1.0,
+          "source_line": "- MPST 453 Individual Instruction Units: 1 or 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "4 units total of MPST 153 in your primary instrument",
+          "source_line": "- 4 units total of MPST 153 in your primary instrument"
+        },
+        {
+          "text": "4 units total of MPST 253 in your primary instrument",
+          "source_line": "- 4 units total of MPST 253 in your primary instrument"
+        },
+        {
+          "text": "4 units total of MPST 353 in your primary instrument",
+          "source_line": "- 4 units total of MPST 353 in your primary instrument"
+        },
+        {
+          "text": "4 units total of MPST 453 in your primary instrument",
+          "source_line": "- 4 units total of MPST 453 in your primary instrument"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Ensembles (16 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MUEN 320",
+          "title": "USC Symphony  [**]",
+          "units": 1.0,
+          "source_line": "- MUEN 320 USC Symphony Units: 1 [**]"
+        },
+        {
+          "code": "MUEN 327",
+          "title": "String Chamber Music",
+          "units": 1.0,
+          "source_line": "- MUEN 327 String Chamber Music Units: 1"
+        }
+      ],
+      "notes": [
+        {
+          "text": "8 units total of MUEN 320",
+          "source_line": "- 8 units total of MUEN 320"
+        },
+        {
+          "text": "8 units total of MUEN 327",
+          "source_line": "- 8 units total of MUEN 327"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Intensive (8 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPST 472",
+          "title": "Orchestra Repertoire–Strings",
+          "units": 2.0,
+          "source_line": "- MPST 472 Orchestra Repertoire–Strings Units: 2"
+        },
+        {
+          "code": "MPKS 481",
+          "title": "Interpretation of Baroque Music",
+          "units": 2.0,
+          "source_line": "- MPKS 481 Interpretation of Baroque Music Units: 2"
+        },
+        {
+          "code": "MPKS 482",
+          "title": "Interpretation of Music of the Classical Period",
+          "units": 2.0,
+          "source_line": "- MPKS 482 Interpretation of Music of the Classical Period Units: 2"
+        },
+        {
+          "code": "MPKS 250a",
+          "title": "Keyboard Instruction I",
+          "units": 2.0,
+          "source_line": "- MPKS 250a Keyboard Instruction I Units: 2"
+        },
+        {
+          "code": "MUJZ 141a",
+          "title": "Basic Keyboard Skills for the Improviser",
+          "units": 2.0,
+          "source_line": "- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2"
+        },
+        {
+          "code": "DANC 177",
+          "title": "Introduction to Dance Forms and Techniques , 2",
+          "units": 1.0,
+          "source_line": "- DANC 177 Introduction to Dance Forms and Techniques Units: 1, 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select two units from the following:",
+          "source_line": "- Select two units from the following:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Select two units from the following:",
+          "source_line": "- Select two units from the following:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Select two units from the following:",
+          "source_line": "- Select two units from the following:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Any course from DANC 180 - 189",
+          "source_line": "- Any course from DANC 180 - 189"
+        }
+      ],
+      "choice": "Select two units from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Electives (20 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Contemporary Division Electives (4 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPGU 145",
+          "title": "Guitar Proficiency for the Pop Guitarist",
+          "units": 2.0,
+          "source_line": "- MPGU 145 Guitar Proficiency for the Pop Guitarist Units: 2"
+        },
+        {
+          "code": "MPGU 150",
+          "title": "Functional Skills for the Popular Guitarist",
+          "units": 2.0,
+          "source_line": "- MPGU 150 Functional Skills for the Popular Guitarist Units: 2"
+        },
+        {
+          "code": "MPPM 120",
+          "title": "Popular Music Performance I",
+          "units": 2.0,
+          "source_line": "- MPPM 120 Popular Music Performance I Units: 2"
+        },
+        {
+          "code": "MPPM 240",
+          "title": "Drumming Proficiency for the Popular Musician",
+          "units": 2.0,
+          "source_line": "- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2"
+        },
+        {
+          "code": "MPPM 250",
+          "title": "Keyboard Proficiency for the Popular Musician",
+          "units": 2.0,
+          "source_line": "- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2"
+        },
+        {
+          "code": "MPPM 370",
+          "title": "The Vocal Edge: Contemporary Vocal Performance Techniques",
+          "units": 2.0,
+          "source_line": "- MPPM 370 The Vocal Edge: Contemporary Vocal Performance Techniques Units: 2"
+        },
+        {
+          "code": "MTEC 245",
+          "title": "Introduction to MIDI Sequencing",
+          "units": 1.0,
+          "source_line": "- MTEC 245 Introduction to MIDI Sequencing Units: 1"
+        },
+        {
+          "code": "MTEC 246",
+          "title": "Introduction to Audio Recording and Editing",
+          "units": 1.0,
+          "source_line": "- MTEC 246 Introduction to Audio Recording and Editing Units: 1"
+        },
+        {
+          "code": "MTEC 248",
+          "title": "Introduction to Music Notation",
+          "units": 1.0,
+          "source_line": "- MTEC 248 Introduction to Music Notation Units: 1"
+        },
+        {
+          "code": "MTEC 249",
+          "title": "Introduction to Web Design for Musicians",
+          "units": 1.0,
+          "source_line": "- MTEC 249 Introduction to Web Design for Musicians Units: 1"
+        },
+        {
+          "code": "MTEC 277x",
+          "title": "Introduction to Music Technology",
+          "units": 4.0,
+          "source_line": "- MTEC 277x Introduction to Music Technology Units: 4"
+        },
+        {
+          "code": "MUIN 272x",
+          "title": "Basics of the Music Industry",
+          "units": 4.0,
+          "source_line": "- MUIN 272x Basics of the Music Industry Units: 4"
+        },
+        {
+          "code": "MUIN 425",
+          "title": "Live Music Production and Promotion",
+          "units": 4.0,
+          "source_line": "- MUIN 425 Live Music Production and Promotion Units: 4"
+        },
+        {
+          "code": "MUJZ 141a",
+          "title": "Basic Keyboard Skills for the Improviser",
+          "units": 2.0,
+          "source_line": "- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2"
+        },
+        {
+          "code": "MUJZ 150",
+          "title": "Beginning Jazz Improvisation",
+          "units": 2.0,
+          "source_line": "- MUJZ 150 Beginning Jazz Improvisation Units: 2"
+        },
+        {
+          "code": "MUJZ 218a",
+          "title": "Afro-Latin Percussion Instruments",
+          "units": 2.0,
+          "source_line": "- MUJZ 218a Afro-Latin Percussion Instruments Units: 2"
+        },
+        {
+          "code": "MUJZ 450",
+          "title": "Intermediate Jazz Improvisation",
+          "units": 2.0,
+          "source_line": "- MUJZ 450 Intermediate Jazz Improvisation Units: 2"
+        },
+        {
+          "code": "MUSC 255",
+          "title": "Songwriting I",
+          "units": 2.0,
+          "source_line": "- MUSC 255 Songwriting I Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select 4 units from the Contemporary Division",
+          "source_line": "Select 4 units from the Contemporary Division",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Courses include those listed below or others, in consultation with your chair and the Contemporary Division:",
+          "source_line": "Courses include those listed below or others, in consultation with your chair and the Contemporary Division:"
+        }
+      ],
+      "choice": "Select 4 units from the Contemporary Division",
+      "total_units": null
+    },
+    {
+      "title": "General Electives (16 units)",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Projects (4 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MUSC 480",
+          "title": "Young Artist Project I",
+          "units": 2.0,
+          "source_line": "- MUSC 480 Young Artist Project I Units: 2"
+        },
+        {
+          "code": "MUSC 481",
+          "title": "Young Artist Project II",
+          "units": 2.0,
+          "source_line": "- MUSC 481 Young Artist Project II Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Junior Recital: 0 units",
+          "source_line": "- Junior Recital: 0 units"
+        },
+        {
+          "text": "Senior Recital: 0 units",
+          "source_line": "- Senior Recital: 0 units"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Required For Degree: 132",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.",
+          "source_line": "* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements."
+        },
+        {
+          "text": "[**]Required each semester in residence.",
+          "source_line": "[**]Required each semester in residence."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Curriculum Requirements For Double Bass Majors",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education *",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Literacies",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-A: The Arts (one course)",
+          "source_line": "GE-A: The Arts (one course)"
+        },
+        {
+          "text": "GE-B: Humanistic Inquiry (two courses)",
+          "source_line": "GE-B: Humanistic Inquiry (two courses)"
+        },
+        {
+          "text": "GE-C: Social Analysis (two courses)",
+          "source_line": "GE-C: Social Analysis (two courses)"
+        },
+        {
+          "text": "GE-D: Life Sciences (one course)",
+          "source_line": "GE-D: Life Sciences (one course)"
+        },
+        {
+          "text": "GE-E: Physical Sciences (one course)",
+          "source_line": "GE-E: Physical Sciences (one course)"
+        },
+        {
+          "text": "GE-F: Quantitative Reasoning (one course)",
+          "source_line": "GE-F: Quantitative Reasoning (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Global Perspectives",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-G: Global Perspectives I (one course)",
+          "source_line": "GE-G: Global Perspectives I (one course)"
+        },
+        {
+          "text": "GE-H: Global Perspectives II (one course)",
+          "source_line": "GE-H: Global Perspectives II (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Writing",
+      "level": 4,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Thornton Academic Courses (36 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MUCD 348",
+          "title": "Instrumental Conducting and Orchestration",
+          "units": 2.0,
+          "source_line": "- MUCD 348 Instrumental Conducting and Orchestration Units: 2"
+        },
+        {
+          "code": "MUCO 132a",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132a Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 132b",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132b Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 133a",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133a Theory I Units: 3"
+        },
+        {
+          "code": "MUCO 133b",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133b Theory I Units: 3"
+        },
+        {
+          "code": "MUCO 232a",
+          "title": "Aural Skills II",
+          "units": 2.0,
+          "source_line": "- MUCO 232a Aural Skills II Units: 2"
+        },
+        {
+          "code": "MUCO 232b",
+          "title": "Aural Skills II",
+          "units": 2.0,
+          "source_line": "- MUCO 232b Aural Skills II Units: 2"
+        },
+        {
+          "code": "MUCO 233a",
+          "title": "Theory II",
+          "units": 3.0,
+          "source_line": "- MUCO 233a Theory II Units: 3"
+        },
+        {
+          "code": "MUCO 233b",
+          "title": "Theory II",
+          "units": 3.0,
+          "source_line": "- MUCO 233b Theory II Units: 3"
+        },
+        {
+          "code": "MUHL 250g",
+          "title": "Music and Ideas",
+          "units": 4.0,
+          "source_line": "- MUHL 250g Music and Ideas Units: 4"
+        },
+        {
+          "code": "MUHL 350g",
+          "title": "Western Art Music History I",
+          "units": 4.0,
+          "source_line": "- MUHL 350g Western Art Music History I Units: 4"
+        },
+        {
+          "code": "MUHL 351",
+          "title": "Western Art Music History II",
+          "units": 4.0,
+          "source_line": "- MUHL 351 Western Art Music History II Units: 4"
+        },
+        {
+          "code": "MUSC 496",
+          "title": "Careers in Music",
+          "units": 2.0,
+          "source_line": "- MUSC 496 Careers in Music Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Specific Courses (38 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Individual Instruction (20 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPST 153",
+          "title": "Individual Instruction  or 2",
+          "units": 1.0,
+          "source_line": "- MPST 153 Individual Instruction Units: 1 or 2"
+        },
+        {
+          "code": "MPST 253",
+          "title": "Individual Instruction  or 2",
+          "units": 1.0,
+          "source_line": "- MPST 253 Individual Instruction Units: 1 or 2"
+        },
+        {
+          "code": "MPST 353",
+          "title": "Individual Instruction  or 2",
+          "units": 1.0,
+          "source_line": "- MPST 353 Individual Instruction Units: 1 or 2"
+        },
+        {
+          "code": "MPST 453",
+          "title": "Individual Instruction  or 2",
+          "units": 1.0,
+          "source_line": "- MPST 453 Individual Instruction Units: 1 or 2"
+        },
+        {
+          "code": "MPEM 301",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MPEM 301 Individual Instruction Units: 1, 2"
+        },
+        {
+          "code": "MPPM 301",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MPPM 301 Individual Instruction Units: 1, 2"
+        },
+        {
+          "code": "MUJZ 301",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MUJZ 301 Individual Instruction Units: 1, 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "4 units total of MPST 153 (Double Bass)",
+          "source_line": "- 4 units total of MPST 153 (Double Bass)"
+        },
+        {
+          "text": "4 units total of MPST 253 (Double Bass)",
+          "source_line": "- 4 units total of MPST 253 (Double Bass)"
+        },
+        {
+          "text": "4 units total of MPST 353 (Double Bass)",
+          "source_line": "- 4 units total of MPST 353 (Double Bass)"
+        },
+        {
+          "text": "4 units total of MPST 453 (Double Bass)",
+          "source_line": "- 4 units total of MPST 453 (Double Bass)"
+        },
+        {
+          "text": "Select four units from the following:",
+          "source_line": "- Select four units from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select four units from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Ensembles (12 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MUEN 320",
+          "title": "USC Symphony  [**]",
+          "units": 1.0,
+          "source_line": "- MUEN 320 USC Symphony Units: 1 [**]"
+        },
+        {
+          "code": "MUEN 325",
+          "title": "Wind and Percussion Chamber Music",
+          "units": 1.0,
+          "source_line": "- MUEN 325 Wind and Percussion Chamber Music Units: 1"
+        },
+        {
+          "code": "MUEN 327",
+          "title": "String Chamber Music",
+          "units": 1.0,
+          "source_line": "- MUEN 327 String Chamber Music Units: 1"
+        },
+        {
+          "code": "MUEN 330",
+          "title": "Contemporary Music Ensemble",
+          "units": 1.0,
+          "source_line": "- MUEN 330 Contemporary Music Ensemble Units: 1"
+        },
+        {
+          "code": "MUEN 350",
+          "title": "Early Music Ensemble",
+          "units": 1.0,
+          "source_line": "- MUEN 350 Early Music Ensemble Units: 1"
+        },
+        {
+          "code": "MPPM 420",
+          "title": "Popular Music Performance Styles and Genres  ***",
+          "units": 2.0,
+          "source_line": "- MPPM 420 Popular Music Performance Styles and Genres Units: 2 ***"
+        }
+      ],
+      "notes": [
+        {
+          "text": "8 units total of MUEN 320",
+          "source_line": "- 8 units total of MUEN 320"
+        },
+        {
+          "text": "Select four units from the following:",
+          "source_line": "- Select four units from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select four units from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Program Intensive (6 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPKS 481",
+          "title": "Interpretation of Baroque Music",
+          "units": 2.0,
+          "source_line": "- MPKS 481 Interpretation of Baroque Music Units: 2"
+        },
+        {
+          "code": "MPKS 482",
+          "title": "Interpretation of Music of the Classical Period",
+          "units": 2.0,
+          "source_line": "- MPKS 482 Interpretation of Music of the Classical Period Units: 2"
+        },
+        {
+          "code": "MPKS 250a",
+          "title": "Keyboard Instruction I",
+          "units": 2.0,
+          "source_line": "- MPKS 250a Keyboard Instruction I Units: 2"
+        },
+        {
+          "code": "MUJZ 141a",
+          "title": "Basic Keyboard Skills for the Improviser",
+          "units": 2.0,
+          "source_line": "- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2"
+        },
+        {
+          "code": "DANC 177",
+          "title": "Introduction to Dance Forms and Techniques , 2",
+          "units": 1.0,
+          "source_line": "- DANC 177 Introduction to Dance Forms and Techniques Units: 1, 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select two units from the following:",
+          "source_line": "- Select two units from the following:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Select two units from the following:",
+          "source_line": "- Select two units from the following:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Select two units from the following:",
+          "source_line": "- Select two units from the following:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Any course from DANC 180 - 189",
+          "source_line": "- Any course from DANC 180 - 189"
+        }
+      ],
+      "choice": "Select two units from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Electives (22 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Contemporary Division Electives (4 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPGU 145",
+          "title": "Guitar Proficiency for the Pop Guitarist",
+          "units": 2.0,
+          "source_line": "- MPGU 145 Guitar Proficiency for the Pop Guitarist Units: 2"
+        },
+        {
+          "code": "MPGU 150",
+          "title": "Functional Skills for the Popular Guitarist",
+          "units": 2.0,
+          "source_line": "- MPGU 150 Functional Skills for the Popular Guitarist Units: 2"
+        },
+        {
+          "code": "MPPM 120",
+          "title": "Popular Music Performance I",
+          "units": 2.0,
+          "source_line": "- MPPM 120 Popular Music Performance I Units: 2"
+        },
+        {
+          "code": "MPPM 240",
+          "title": "Drumming Proficiency for the Popular Musician",
+          "units": 2.0,
+          "source_line": "- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2"
+        },
+        {
+          "code": "MPPM 250",
+          "title": "Keyboard Proficiency for the Popular Musician",
+          "units": 2.0,
+          "source_line": "- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2"
+        },
+        {
+          "code": "MPPM 370",
+          "title": "The Vocal Edge: Contemporary Vocal Performance Techniques",
+          "units": 2.0,
+          "source_line": "- MPPM 370 The Vocal Edge: Contemporary Vocal Performance Techniques Units: 2"
+        },
+        {
+          "code": "MTEC 245",
+          "title": "Introduction to MIDI Sequencing",
+          "units": 1.0,
+          "source_line": "- MTEC 245 Introduction to MIDI Sequencing Units: 1"
+        },
+        {
+          "code": "MTEC 246",
+          "title": "Introduction to Audio Recording and Editing",
+          "units": 1.0,
+          "source_line": "- MTEC 246 Introduction to Audio Recording and Editing Units: 1"
+        },
+        {
+          "code": "MTEC 248",
+          "title": "Introduction to Music Notation",
+          "units": 1.0,
+          "source_line": "- MTEC 248 Introduction to Music Notation Units: 1"
+        },
+        {
+          "code": "MTEC 249",
+          "title": "Introduction to Web Design for Musicians",
+          "units": 1.0,
+          "source_line": "- MTEC 249 Introduction to Web Design for Musicians Units: 1"
+        },
+        {
+          "code": "MTEC 277x",
+          "title": "Introduction to Music Technology",
+          "units": 4.0,
+          "source_line": "- MTEC 277x Introduction to Music Technology Units: 4"
+        },
+        {
+          "code": "MUIN 272x",
+          "title": "Basics of the Music Industry",
+          "units": 4.0,
+          "source_line": "- MUIN 272x Basics of the Music Industry Units: 4"
+        },
+        {
+          "code": "MUIN 425",
+          "title": "Live Music Production and Promotion",
+          "units": 4.0,
+          "source_line": "- MUIN 425 Live Music Production and Promotion Units: 4"
+        },
+        {
+          "code": "MUJZ 141a",
+          "title": "Basic Keyboard Skills for the Improviser",
+          "units": 2.0,
+          "source_line": "- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2"
+        },
+        {
+          "code": "MUJZ 150",
+          "title": "Beginning Jazz Improvisation",
+          "units": 2.0,
+          "source_line": "- MUJZ 150 Beginning Jazz Improvisation Units: 2"
+        },
+        {
+          "code": "MUJZ 218a",
+          "title": "Afro-Latin Percussion Instruments",
+          "units": 2.0,
+          "source_line": "- MUJZ 218a Afro-Latin Percussion Instruments Units: 2"
+        },
+        {
+          "code": "MUJZ 450",
+          "title": "Intermediate Jazz Improvisation",
+          "units": 2.0,
+          "source_line": "- MUJZ 450 Intermediate Jazz Improvisation Units: 2"
+        },
+        {
+          "code": "MUSC 255",
+          "title": "Songwriting I",
+          "units": 2.0,
+          "source_line": "- MUSC 255 Songwriting I Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select 4 units from the Contemporary Division",
+          "source_line": "Select 4 units from the Contemporary Division",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Courses include those listed below or others, in consultation with your chair and the Contemporary Division:",
+          "source_line": "Courses include those listed below or others, in consultation with your chair and the Contemporary Division:"
+        }
+      ],
+      "choice": "Select 4 units from the Contemporary Division",
+      "total_units": null
+    },
+    {
+      "title": "General Electives (18 units)",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Projects (4 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MUSC 480",
+          "title": "Young Artist Project I",
+          "units": 2.0,
+          "source_line": "- MUSC 480 Young Artist Project I Units: 2"
+        },
+        {
+          "code": "MUSC 481",
+          "title": "Young Artist Project II",
+          "units": 2.0,
+          "source_line": "- MUSC 481 Young Artist Project II Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Junior Recital: 0 units",
+          "source_line": "- Junior Recital: 0 units"
+        },
+        {
+          "text": "Senior Recital: 0 units",
+          "source_line": "- Senior Recital: 0 units"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Required For Degree: 132",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.",
+          "source_line": "* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements."
+        },
+        {
+          "text": "[**]Required each semester in residence",
+          "source_line": "[**]Required each semester in residence"
+        },
+        {
+          "text": "**If registering for MPPM 420, you must take the section listed under the section title “Pop String Ensemble”",
+          "source_line": "***If registering for MPPM 420, you must take the section listed under the section title “Pop String Ensemble”"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Curriculum Requirements For Harp Majors",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education *",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Literacies",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-A: The Arts (one course)",
+          "source_line": "GE-A: The Arts (one course)"
+        },
+        {
+          "text": "GE-B: Humanistic Inquiry (two courses)",
+          "source_line": "GE-B: Humanistic Inquiry (two courses)"
+        },
+        {
+          "text": "GE-C: Social Analysis (two courses)",
+          "source_line": "GE-C: Social Analysis (two courses)"
+        },
+        {
+          "text": "GE-D: Life Sciences (one course)",
+          "source_line": "GE-D: Life Sciences (one course)"
+        },
+        {
+          "text": "GE-E: Physical Sciences (one course)",
+          "source_line": "GE-E: Physical Sciences (one course)"
+        },
+        {
+          "text": "GE-F: Quantitative Reasoning (one course)",
+          "source_line": "GE-F: Quantitative Reasoning (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Global Perspectives",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-G: Global Perspectives I (one course)",
+          "source_line": "GE-G: Global Perspectives I (one course)"
+        },
+        {
+          "text": "GE-H: Global Perspectives II (one course)",
+          "source_line": "GE-H: Global Perspectives II (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Writing",
+      "level": 4,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Thornton Academic Courses (36 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MUCD 348",
+          "title": "Instrumental Conducting and Orchestration",
+          "units": 2.0,
+          "source_line": "- MUCD 348 Instrumental Conducting and Orchestration Units: 2"
+        },
+        {
+          "code": "MUCO 132a",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132a Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 132b",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132b Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 133a",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133a Theory I Units: 3"
+        },
+        {
+          "code": "MUCO 133b",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133b Theory I Units: 3"
+        },
+        {
+          "code": "MUCO 232a",
+          "title": "Aural Skills II",
+          "units": 2.0,
+          "source_line": "- MUCO 232a Aural Skills II Units: 2"
+        },
+        {
+          "code": "MUCO 232b",
+          "title": "Aural Skills II",
+          "units": 2.0,
+          "source_line": "- MUCO 232b Aural Skills II Units: 2"
+        },
+        {
+          "code": "MUCO 233a",
+          "title": "Theory II",
+          "units": 3.0,
+          "source_line": "- MUCO 233a Theory II Units: 3"
+        },
+        {
+          "code": "MUCO 233b",
+          "title": "Theory II",
+          "units": 3.0,
+          "source_line": "- MUCO 233b Theory II Units: 3"
+        },
+        {
+          "code": "MUHL 250g",
+          "title": "Music and Ideas",
+          "units": 4.0,
+          "source_line": "- MUHL 250g Music and Ideas Units: 4"
+        },
+        {
+          "code": "MUHL 350g",
+          "title": "Western Art Music History I",
+          "units": 4.0,
+          "source_line": "- MUHL 350g Western Art Music History I Units: 4"
+        },
+        {
+          "code": "MUHL 351",
+          "title": "Western Art Music History II",
+          "units": 4.0,
+          "source_line": "- MUHL 351 Western Art Music History II Units: 4"
+        },
+        {
+          "code": "MUSC 496",
+          "title": "Careers in Music",
+          "units": 2.0,
+          "source_line": "- MUSC 496 Careers in Music Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Specific Courses (40 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Individual Instruction (16 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPST 153",
+          "title": "Individual Instruction  or 2",
+          "units": 1.0,
+          "source_line": "- MPST 153 Individual Instruction Units: 1 or 2"
+        },
+        {
+          "code": "MPST 253",
+          "title": "Individual Instruction  or 2",
+          "units": 1.0,
+          "source_line": "- MPST 253 Individual Instruction Units: 1 or 2"
+        },
+        {
+          "code": "MPST 353",
+          "title": "Individual Instruction  or 2",
+          "units": 1.0,
+          "source_line": "- MPST 353 Individual Instruction Units: 1 or 2"
+        },
+        {
+          "code": "MPST 453",
+          "title": "Individual Instruction  or 2",
+          "units": 1.0,
+          "source_line": "- MPST 453 Individual Instruction Units: 1 or 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "4 units total of MPST 153 (Harp)",
+          "source_line": "- 4 units total of MPST 153 (Harp)"
+        },
+        {
+          "text": "4 units total of MPST 253 (Harp)",
+          "source_line": "- 4 units total of MPST 253 (Harp)"
+        },
+        {
+          "text": "4 units total of MPST 353 (Harp)",
+          "source_line": "- 4 units total of MPST 353 (Harp)"
+        },
+        {
+          "text": "4 units total of MPST 453 (Harp)",
+          "source_line": "- 4 units total of MPST 453 (Harp)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Ensembles (12 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MUEN 320",
+          "title": "USC Symphony  [**]",
+          "units": 1.0,
+          "source_line": "- MUEN 320 USC Symphony Units: 1 [**]"
+        },
+        {
+          "code": "MUEN 325",
+          "title": "Wind and Percussion Chamber Music",
+          "units": 1.0,
+          "source_line": "- MUEN 325 Wind and Percussion Chamber Music Units: 1"
+        },
+        {
+          "code": "MUEN 327",
+          "title": "String Chamber Music",
+          "units": 1.0,
+          "source_line": "- MUEN 327 String Chamber Music Units: 1"
+        },
+        {
+          "code": "MUEN 330",
+          "title": "Contemporary Music Ensemble",
+          "units": 1.0,
+          "source_line": "- MUEN 330 Contemporary Music Ensemble Units: 1"
+        },
+        {
+          "code": "MUEN 350",
+          "title": "Early Music Ensemble",
+          "units": 1.0,
+          "source_line": "- MUEN 350 Early Music Ensemble Units: 1"
+        },
+        {
+          "code": "MPPM 420",
+          "title": "Popular Music Performance Styles and Genres  ***",
+          "units": 2.0,
+          "source_line": "- MPPM 420 Popular Music Performance Styles and Genres Units: 2 ***"
+        }
+      ],
+      "notes": [
+        {
+          "text": "8 units total of MUEN 320",
+          "source_line": "- 8 units total of MUEN 320"
+        },
+        {
+          "text": "Select four units from the following:",
+          "source_line": "- Select four units from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select four units from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Program Intensive (6 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPKS 481",
+          "title": "Interpretation of Baroque Music",
+          "units": 2.0,
+          "source_line": "- MPKS 481 Interpretation of Baroque Music Units: 2"
+        },
+        {
+          "code": "MPKS 482",
+          "title": "Interpretation of Music of the Classical Period",
+          "units": 2.0,
+          "source_line": "- MPKS 482 Interpretation of Music of the Classical Period Units: 2"
+        },
+        {
+          "code": "MPKS 250a",
+          "title": "Keyboard Instruction I",
+          "units": 2.0,
+          "source_line": "- MPKS 250a Keyboard Instruction I Units: 2"
+        },
+        {
+          "code": "MUJZ 141a",
+          "title": "Basic Keyboard Skills for the Improviser",
+          "units": 2.0,
+          "source_line": "- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2"
+        },
+        {
+          "code": "DANC 177",
+          "title": "Introduction to Dance Forms and Techniques , 2",
+          "units": 1.0,
+          "source_line": "- DANC 177 Introduction to Dance Forms and Techniques Units: 1, 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select two units from the following:",
+          "source_line": "- Select two units from the following:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Select two units from the following:",
+          "source_line": "- Select two units from the following:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Select two units from the following:",
+          "source_line": "- Select two units from the following:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Any course from DANC 180 - 189",
+          "source_line": "- Any course from DANC 180 - 189"
+        }
+      ],
+      "choice": "Select two units from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Music Electives (6 units)",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (20 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Contemporary Division Electives (4 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPGU 145",
+          "title": "Guitar Proficiency for the Pop Guitarist",
+          "units": 2.0,
+          "source_line": "- MPGU 145 Guitar Proficiency for the Pop Guitarist Units: 2"
+        },
+        {
+          "code": "MPGU 150",
+          "title": "Functional Skills for the Popular Guitarist",
+          "units": 2.0,
+          "source_line": "- MPGU 150 Functional Skills for the Popular Guitarist Units: 2"
+        },
+        {
+          "code": "MPPM 120",
+          "title": "Popular Music Performance I",
+          "units": 2.0,
+          "source_line": "- MPPM 120 Popular Music Performance I Units: 2"
+        },
+        {
+          "code": "MPPM 240",
+          "title": "Drumming Proficiency for the Popular Musician",
+          "units": 2.0,
+          "source_line": "- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2"
+        },
+        {
+          "code": "MPPM 250",
+          "title": "Keyboard Proficiency for the Popular Musician",
+          "units": 2.0,
+          "source_line": "- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2"
+        },
+        {
+          "code": "MPPM 370",
+          "title": "The Vocal Edge: Contemporary Vocal Performance Techniques",
+          "units": 2.0,
+          "source_line": "- MPPM 370 The Vocal Edge: Contemporary Vocal Performance Techniques Units: 2"
+        },
+        {
+          "code": "MTEC 245",
+          "title": "Introduction to MIDI Sequencing",
+          "units": 1.0,
+          "source_line": "- MTEC 245 Introduction to MIDI Sequencing Units: 1"
+        },
+        {
+          "code": "MTEC 246",
+          "title": "Introduction to Audio Recording and Editing",
+          "units": 1.0,
+          "source_line": "- MTEC 246 Introduction to Audio Recording and Editing Units: 1"
+        },
+        {
+          "code": "MTEC 248",
+          "title": "Introduction to Music Notation",
+          "units": 1.0,
+          "source_line": "- MTEC 248 Introduction to Music Notation Units: 1"
+        },
+        {
+          "code": "MTEC 249",
+          "title": "Introduction to Web Design for Musicians",
+          "units": 1.0,
+          "source_line": "- MTEC 249 Introduction to Web Design for Musicians Units: 1"
+        },
+        {
+          "code": "MTEC 277x",
+          "title": "Introduction to Music Technology",
+          "units": 4.0,
+          "source_line": "- MTEC 277x Introduction to Music Technology Units: 4"
+        },
+        {
+          "code": "MUIN 272x",
+          "title": "Basics of the Music Industry",
+          "units": 4.0,
+          "source_line": "- MUIN 272x Basics of the Music Industry Units: 4"
+        },
+        {
+          "code": "MUIN 425",
+          "title": "Live Music Production and Promotion",
+          "units": 4.0,
+          "source_line": "- MUIN 425 Live Music Production and Promotion Units: 4"
+        },
+        {
+          "code": "MUJZ 141a",
+          "title": "Basic Keyboard Skills for the Improviser",
+          "units": 2.0,
+          "source_line": "- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2"
+        },
+        {
+          "code": "MUJZ 150",
+          "title": "Beginning Jazz Improvisation",
+          "units": 2.0,
+          "source_line": "- MUJZ 150 Beginning Jazz Improvisation Units: 2"
+        },
+        {
+          "code": "MUJZ 218a",
+          "title": "Afro-Latin Percussion Instruments",
+          "units": 2.0,
+          "source_line": "- MUJZ 218a Afro-Latin Percussion Instruments Units: 2"
+        },
+        {
+          "code": "MUJZ 450",
+          "title": "Intermediate Jazz Improvisation",
+          "units": 2.0,
+          "source_line": "- MUJZ 450 Intermediate Jazz Improvisation Units: 2"
+        },
+        {
+          "code": "MUSC 255",
+          "title": "Songwriting I",
+          "units": 2.0,
+          "source_line": "- MUSC 255 Songwriting I Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select 4 units from the Contemporary Division",
+          "source_line": "Select 4 units from the Contemporary Division",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Courses include those listed below or others, in consultation with your chair and the Contemporary Division:",
+          "source_line": "Courses include those listed below or others, in consultation with your chair and the Contemporary Division:"
+        }
+      ],
+      "choice": "Select 4 units from the Contemporary Division",
+      "total_units": null
+    },
+    {
+      "title": "General Electives (16 units)",
+      "level": 4,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Projects (4 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MUSC 480",
+          "title": "Young Artist Project I",
+          "units": 2.0,
+          "source_line": "- MUSC 480 Young Artist Project I Units: 2"
+        },
+        {
+          "code": "MUSC 481",
+          "title": "Young Artist Project II",
+          "units": 2.0,
+          "source_line": "- MUSC 481 Young Artist Project II Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Junior Recital: 0 units",
+          "source_line": "- Junior Recital: 0 units"
+        },
+        {
+          "text": "Senior Recital: 0 units",
+          "source_line": "- Senior Recital: 0 units"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Required For Degree: 132",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.",
+          "source_line": "* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements."
+        },
+        {
+          "text": "[**]Required each semester in residence",
+          "source_line": "[**]Required each semester in residence"
+        },
+        {
+          "text": "​​​​​​​***If registering for MPPM 420 , you must take the section listed under the section title “Pop String Ensemble.”",
+          "source_line": "​​​​​​​***If registering for MPPM 420 , you must take the section listed under the section title “Pop String Ensemble.”"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

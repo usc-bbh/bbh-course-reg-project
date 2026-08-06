@@ -1,0 +1,39 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Nonprofits, Philanthropy and Volunteerism Interdisciplinary Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32395",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32395&returnto=9396",
+    "source_text_file": "402_nonprofits_philanthropy_and_volunteerism_interdisciplinary_minor.txt",
+    "source_content_sha256": "acd84255a96f6180d36d299bb77a67b225a30b727c74057cd8c057ac83e0f4e8",
+    "retrieved_at": "2026-07-31T01:26:36Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 0,
+    "distinct_course_codes": 0,
+    "section_count": 1
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This four-course minor enables students to learn about the nonprofit sector — its organizations, philanthropy and voluntary action. See complete description in the USC Price School of Public Policy section.",
+          "source_line": "This four-course minor enables students to learn about the nonprofit sector — its organizations, philanthropy and voluntary action. See complete description in the USC Price School of Public Policy section."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

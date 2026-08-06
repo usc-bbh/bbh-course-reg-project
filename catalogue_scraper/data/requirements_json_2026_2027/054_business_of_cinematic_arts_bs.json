@@ -1,0 +1,513 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Business of Cinematic Arts (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32780",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32780&returnto=9396",
+    "source_text_file": "054_business_of_cinematic_arts_bs.txt",
+    "source_content_sha256": "b54b8ed42d11923bfc6c81db7fc44b98209133e3d172f0dace75caaff39fb868",
+    "retrieved_at": "2026-07-31T00:50:57Z"
+  },
+  "totals": {
+    "stated_total_units": 128.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "### Degree Requirements\n\nThis degree requires at least 128 units including USC’s General Education requirements.",
+      "## Composition/Writing Requirement (8 units)\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *\n- * Note: The section of WRIT 340 titled “Advanced Writing for Business: Entertainment Industry” is strongly recommended for BCA majors when available.",
+      "## Major Requirements (84 Units)\n\n---\n\n### Business Requirements (48 units)\n\n---\n\n- BUAD 280 Introduction to Financial Accounting Units: 3\n- BUAD 281 Introduction to Managerial Accounting Units: 3\n- BUAD 302 Communication Strategy in Business Units: 4\n- BUAD 304 Organizational Behavior and Leadership Units: 4\n-\n- BUAD 306 Business Finance Units: 4\n- or\n- BUAD 308 Advanced Business Finance Units: 4\n-\n- BUAD 307 Marketing Fundamentals Units: 4\n-\n- BUAD 310g Applied Business Statistics Units: 4\n- or\n- BUAD 312g Statistics and Data Science for Business Units: 4\n-\n- BUAD 311 Operations Management Units: 4\n- or\n- BUAD 313 Advanced Operations Management and Analytics Units: 4\n-\n- BUAD 425 Introduction to Business Analytics Units: 2\n- or\n- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2\n-\n- BUAD 497 Strategic Management Units: 4\n- ECON 351x Microeconomics for Business Units: 4\n- ECON 352x Macroeconomics for Business Units: 4\n-\n- MATH 118gx Calculus for Business and Economics Units: 4 *\n- or\n- MATH 125g Calculus I Units: 4 **\n\n#### Note:\n\n---\n\n* Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam.",
+      "### Cinematic Arts Requirements (24 units)\n\n---\n\n- CNTV 428 Fundamentals of Entertainment Law and Dealmaking Units: 2\n- CNTV 441 Business and Cinematic Arts Entertainment Practicum Units: 2\n- CNTV 458 Producing and Marketing Feature Length Films Units: 2\n- CNTV 463 Television: Integrating Creative and Business Objectives Units: 2\n- CNTV 481 Entertainment Industry Launchpad Units: 4\n- CTCS 190g Introduction to Cinema Units: 4 *\n- CTIN 458 Business and Management of Games Units: 2\n- CTPR 385 Colloquium: Motion Picture Production Techniques Units: 4\n- CTPR 410 The Entertainment Industry: From Idea to Audience Units: 2\n- * Satisfies GE Category A: The Arts.",
+      "### Electives (12 units)\n\n---\n\n#### Business Electives (8-12 units)\n\n---\n\nComplete at least 8 units of upper-division elective courses offered by the Marshall School, specifically 300- or 400-level courses with a prefix ACCT, BAEP, BUCO, DSO, FBE, MKT MOR or RISK.",
+      "#### Cinematic Arts Electives (0-4 units)\n\n---\n\n- CNTV 375 Breaking Into the Entertainment Industry Units: 2\n- CNTV 457 The Entertainment Entrepreneur: Getting Your First Project Made Units: 2\n- CTAN 432 The World of Visual Effects Units: 2\n- CTAN 451 History of Animation Units: 2\n- CTCS 367 Global Media Units: 4\n- CTCS 403 Studies in National and Regional Media Units: 4\n- CTCS 499 Special Topics Units: 2, 3, 4\n- CTPR 425 Production Planning Units: 2\n- CTPR 426 The Production Experience Units: 2\n- CTPR 458 Organizing Creativity: Entertainment Industry Decision Making Units: 2\n- CTPR 460 Film Business Procedures and Distribution Units: 2 or 4\n- CTWR 404 Foundations of Comedy Units: 2\n- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4\n- CTWR 411 Television Script Analysis Units: 2\n- CTWR 416 Motion Picture Script Analysis Units: 2\n- CTWR 417 Script Coverage and Story Analysis Units: 2\n- CTWR 422 Creating the Dramatic Television Series Units: 2\n- CTWR 430 Comedy Writers and Their Work Units: 2\n- CTWR 431 Screenwriters and Their Work Units: 2\n- CTWR 432 Television Writers and Their Work Units: 2\n\n#### Free Electives (12 units)\n\n---\n\nThe curriculum of this program allows for as many as 12 units of free electives."
+    ],
+    "course_entry_count": 50,
+    "distinct_course_codes": 50,
+    "section_count": 12
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The combined Bachelor of Science degree program in the Business of Cinematic Arts offers qualified students an opportunity to gain an educational foundation in both areas.",
+          "source_line": "The combined Bachelor of Science degree program in the Business of Cinematic Arts offers qualified students an opportunity to gain an educational foundation in both areas."
+        },
+        {
+          "text": "The degree cannot be combined as an additional major with either business administration or cinematic arts. The degree is administered by the Marshall School of Business.",
+          "source_line": "The degree cannot be combined as an additional major with either business administration or cinematic arts. The degree is administered by the Marshall School of Business."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Degree Requirements",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This degree requires at least 128 units including USC’s General Education requirements.",
+          "source_line": "This degree requires at least 128 units including USC’s General Education requirements."
+        },
+        {
+          "text": "A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken.",
+          "source_line": "A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Composition/Writing Requirement (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement  *",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *"
+        }
+      ],
+      "notes": [
+        {
+          "text": "* Note: The section of WRIT 340 titled “Advanced Writing for Business: Entertainment Industry” is strongly recommended for BCA majors when available.",
+          "source_line": "- * Note: The section of WRIT 340 titled “Advanced Writing for Business: Entertainment Industry” is strongly recommended for BCA majors when available."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Major Requirements (84 Units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Business Requirements (48 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "BUAD 280",
+          "title": "Introduction to Financial Accounting",
+          "units": 3.0,
+          "source_line": "- BUAD 280 Introduction to Financial Accounting Units: 3"
+        },
+        {
+          "code": "BUAD 281",
+          "title": "Introduction to Managerial Accounting",
+          "units": 3.0,
+          "source_line": "- BUAD 281 Introduction to Managerial Accounting Units: 3"
+        },
+        {
+          "code": "BUAD 302",
+          "title": "Communication Strategy in Business",
+          "units": 4.0,
+          "source_line": "- BUAD 302 Communication Strategy in Business Units: 4"
+        },
+        {
+          "code": "BUAD 304",
+          "title": "Organizational Behavior and Leadership",
+          "units": 4.0,
+          "source_line": "- BUAD 304 Organizational Behavior and Leadership Units: 4"
+        },
+        {
+          "code": "BUAD 306",
+          "title": "Business Finance",
+          "units": 4.0,
+          "source_line": "- BUAD 306 Business Finance Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 308",
+          "title": "Advanced Business Finance",
+          "units": 4.0,
+          "source_line": "- BUAD 308 Advanced Business Finance Units: 4"
+        },
+        {
+          "code": "BUAD 307",
+          "title": "Marketing Fundamentals",
+          "units": 4.0,
+          "source_line": "- BUAD 307 Marketing Fundamentals Units: 4"
+        },
+        {
+          "code": "BUAD 310g",
+          "title": "Applied Business Statistics",
+          "units": 4.0,
+          "source_line": "- BUAD 310g Applied Business Statistics Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 312g",
+          "title": "Statistics and Data Science for Business",
+          "units": 4.0,
+          "source_line": "- BUAD 312g Statistics and Data Science for Business Units: 4"
+        },
+        {
+          "code": "BUAD 311",
+          "title": "Operations Management",
+          "units": 4.0,
+          "source_line": "- BUAD 311 Operations Management Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 313",
+          "title": "Advanced Operations Management and Analytics",
+          "units": 4.0,
+          "source_line": "- BUAD 313 Advanced Operations Management and Analytics Units: 4"
+        },
+        {
+          "code": "BUAD 425",
+          "title": "Introduction to Business Analytics",
+          "units": 2.0,
+          "source_line": "- BUAD 425 Introduction to Business Analytics Units: 2",
+          "alternative_follows": true
+        },
+        {
+          "code": "BUAD 427",
+          "title": "Advanced Introduction to Business Analytics with AI",
+          "units": 2.0,
+          "source_line": "- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2"
+        },
+        {
+          "code": "BUAD 497",
+          "title": "Strategic Management",
+          "units": 4.0,
+          "source_line": "- BUAD 497 Strategic Management Units: 4"
+        },
+        {
+          "code": "ECON 351x",
+          "title": "Microeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 351x Microeconomics for Business Units: 4"
+        },
+        {
+          "code": "ECON 352x",
+          "title": "Macroeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 352x Macroeconomics for Business Units: 4"
+        },
+        {
+          "code": "MATH 118gx",
+          "title": "Calculus for Business and Economics  *",
+          "units": 4.0,
+          "source_line": "- MATH 118gx Calculus for Business and Economics Units: 4 *",
+          "alternative_follows": true
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I  **",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4 **"
+        }
+      ],
+      "notes": [
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MATH 117g",
+          "title": "MATH 118gx and MATH 125g satisfy GE category F: Quantitative Reasoning",
+          "units": null,
+          "source_line": "MATH 117g , MATH 118gx and MATH 125g satisfy GE category F: Quantitative Reasoning."
+        }
+      ],
+      "notes": [
+        {
+          "text": "Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher.",
+          "source_line": "* Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher."
+        },
+        {
+          "text": "* A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information.",
+          "source_line": "** A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Cinematic Arts Requirements (24 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CNTV 428",
+          "title": "Fundamentals of Entertainment Law and Dealmaking",
+          "units": 2.0,
+          "source_line": "- CNTV 428 Fundamentals of Entertainment Law and Dealmaking Units: 2"
+        },
+        {
+          "code": "CNTV 441",
+          "title": "Business and Cinematic Arts Entertainment Practicum",
+          "units": 2.0,
+          "source_line": "- CNTV 441 Business and Cinematic Arts Entertainment Practicum Units: 2"
+        },
+        {
+          "code": "CNTV 458",
+          "title": "Producing and Marketing Feature Length Films",
+          "units": 2.0,
+          "source_line": "- CNTV 458 Producing and Marketing Feature Length Films Units: 2"
+        },
+        {
+          "code": "CNTV 463",
+          "title": "Television: Integrating Creative and Business Objectives",
+          "units": 2.0,
+          "source_line": "- CNTV 463 Television: Integrating Creative and Business Objectives Units: 2"
+        },
+        {
+          "code": "CNTV 481",
+          "title": "Entertainment Industry Launchpad",
+          "units": 4.0,
+          "source_line": "- CNTV 481 Entertainment Industry Launchpad Units: 4"
+        },
+        {
+          "code": "CTCS 190g",
+          "title": "Introduction to Cinema  *",
+          "units": 4.0,
+          "source_line": "- CTCS 190g Introduction to Cinema Units: 4 *"
+        },
+        {
+          "code": "CTIN 458",
+          "title": "Business and Management of Games",
+          "units": 2.0,
+          "source_line": "- CTIN 458 Business and Management of Games Units: 2"
+        },
+        {
+          "code": "CTPR 385",
+          "title": "Colloquium: Motion Picture Production Techniques",
+          "units": 4.0,
+          "source_line": "- CTPR 385 Colloquium: Motion Picture Production Techniques Units: 4"
+        },
+        {
+          "code": "CTPR 410",
+          "title": "The Entertainment Industry: From Idea to Audience",
+          "units": 2.0,
+          "source_line": "- CTPR 410 The Entertainment Industry: From Idea to Audience Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "* Satisfies GE Category A: The Arts.",
+          "source_line": "- * Satisfies GE Category A: The Arts."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (12 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Business Electives (8-12 units)",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Complete at least 8 units of upper-division elective courses offered by the Marshall School, specifically 300- or 400-level courses with a prefix ACCT, BAEP, BUCO, DSO, FBE, MKT MOR or RISK. Students can also satisfy the business electives requirement through participation in a Marshall School sponsored international exchange program.",
+          "source_line": "Complete at least 8 units of upper-division elective courses offered by the Marshall School, specifically 300- or 400-level courses with a prefix ACCT, BAEP, BUCO, DSO, FBE, MKT MOR or RISK. Students can also satisfy the business electives requirement through participation in a Marshall School sponsored international exchange program.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Complete at least 8 units of upper-division elective courses offered by the Marshall School, specifically 300- or 400-level courses with a prefix ACCT, BAEP, BUCO, DSO, FBE, MKT MOR or RISK. Students can also satisfy the business electives requirement through participation in a Marshall School sponsored international exchange program.",
+      "total_units": null
+    },
+    {
+      "title": "Cinematic Arts Electives (0-4 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "CNTV 375",
+          "title": "Breaking Into the Entertainment Industry",
+          "units": 2.0,
+          "source_line": "- CNTV 375 Breaking Into the Entertainment Industry Units: 2"
+        },
+        {
+          "code": "CNTV 457",
+          "title": "The Entertainment Entrepreneur: Getting Your First Project Made",
+          "units": 2.0,
+          "source_line": "- CNTV 457 The Entertainment Entrepreneur: Getting Your First Project Made Units: 2"
+        },
+        {
+          "code": "CTAN 432",
+          "title": "The World of Visual Effects",
+          "units": 2.0,
+          "source_line": "- CTAN 432 The World of Visual Effects Units: 2"
+        },
+        {
+          "code": "CTAN 451",
+          "title": "History of Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 451 History of Animation Units: 2"
+        },
+        {
+          "code": "CTCS 367",
+          "title": "Global Media",
+          "units": 4.0,
+          "source_line": "- CTCS 367 Global Media Units: 4"
+        },
+        {
+          "code": "CTCS 403",
+          "title": "Studies in National and Regional Media",
+          "units": 4.0,
+          "source_line": "- CTCS 403 Studies in National and Regional Media Units: 4"
+        },
+        {
+          "code": "CTCS 499",
+          "title": "Special Topics , 3, 4",
+          "units": 2.0,
+          "source_line": "- CTCS 499 Special Topics Units: 2, 3, 4"
+        },
+        {
+          "code": "CTPR 425",
+          "title": "Production Planning",
+          "units": 2.0,
+          "source_line": "- CTPR 425 Production Planning Units: 2"
+        },
+        {
+          "code": "CTPR 426",
+          "title": "The Production Experience",
+          "units": 2.0,
+          "source_line": "- CTPR 426 The Production Experience Units: 2"
+        },
+        {
+          "code": "CTPR 458",
+          "title": "Organizing Creativity: Entertainment Industry Decision Making",
+          "units": 2.0,
+          "source_line": "- CTPR 458 Organizing Creativity: Entertainment Industry Decision Making Units: 2"
+        },
+        {
+          "code": "CTPR 460",
+          "title": "Film Business Procedures and Distribution  or 4",
+          "units": 2.0,
+          "source_line": "- CTPR 460 Film Business Procedures and Distribution Units: 2 or 4"
+        },
+        {
+          "code": "CTWR 404",
+          "title": "Foundations of Comedy",
+          "units": 2.0,
+          "source_line": "- CTWR 404 Foundations of Comedy Units: 2"
+        },
+        {
+          "code": "CTWR 409",
+          "title": "Fundamentals of Screenwriting: Character, Conflict and Story",
+          "units": 4.0,
+          "source_line": "- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4"
+        },
+        {
+          "code": "CTWR 411",
+          "title": "Television Script Analysis",
+          "units": 2.0,
+          "source_line": "- CTWR 411 Television Script Analysis Units: 2"
+        },
+        {
+          "code": "CTWR 416",
+          "title": "Motion Picture Script Analysis",
+          "units": 2.0,
+          "source_line": "- CTWR 416 Motion Picture Script Analysis Units: 2"
+        },
+        {
+          "code": "CTWR 417",
+          "title": "Script Coverage and Story Analysis",
+          "units": 2.0,
+          "source_line": "- CTWR 417 Script Coverage and Story Analysis Units: 2"
+        },
+        {
+          "code": "CTWR 422",
+          "title": "Creating the Dramatic Television Series",
+          "units": 2.0,
+          "source_line": "- CTWR 422 Creating the Dramatic Television Series Units: 2"
+        },
+        {
+          "code": "CTWR 430",
+          "title": "Comedy Writers and Their Work",
+          "units": 2.0,
+          "source_line": "- CTWR 430 Comedy Writers and Their Work Units: 2"
+        },
+        {
+          "code": "CTWR 431",
+          "title": "Screenwriters and Their Work",
+          "units": 2.0,
+          "source_line": "- CTWR 431 Screenwriters and Their Work Units: 2"
+        },
+        {
+          "code": "CTWR 432",
+          "title": "Television Writers and Their Work",
+          "units": 2.0,
+          "source_line": "- CTWR 432 Television Writers and Their Work Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Free Electives (12 units)",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The curriculum of this program allows for as many as 12 units of free electives.",
+          "source_line": "The curriculum of this program allows for as many as 12 units of free electives."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 128",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Return to: USC Marshall School of Business",
+          "source_line": "Return to: USC Marshall School of Business"
+        }
+      ],
+      "choice": null,
+      "total_units": 128.0
+    }
+  ],
+  "parse_warnings": []
+}

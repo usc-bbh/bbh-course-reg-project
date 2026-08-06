@@ -1,0 +1,282 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Philosophy of Law, Politics and Economics Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32667",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32667&returnto=9396",
+    "source_text_file": "416_philosophy_of_law_politics_and_economics_minor.txt",
+    "source_content_sha256": "71d81843a4bffeb3bdfd88efa5c01278963cdd93017f83e838c776d03044ad0d",
+    "retrieved_at": "2026-07-31T01:11:59Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 29,
+    "distinct_course_codes": 29,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Philosophy of Law, Politics and Economics minor requires a minimum of five courses, at least three of which must be philosophy courses, and at least four of which must be upper-division. Students must complete one course in Logic, and at least one course from each of the following three categories: Philosophy and Economics, Philosophy and Politics, Philosophy and Law.",
+          "source_line": "The Philosophy of Law, Politics and Economics minor requires a minimum of five courses, at least three of which must be philosophy courses, and at least four of which must be upper-division. Students must complete one course in Logic, and at least one course from each of the following three categories: Philosophy and Economics, Philosophy and Politics, Philosophy and Law.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "The Philosophy of Law, Politics and Economics minor requires a minimum of five courses, at least three of which must be philosophy courses, and at least four of which must be upper-division. Students must complete one course in Logic, and at least one course from each of the following three categories: Philosophy and Economics, Philosophy and Politics, Philosophy and Law.",
+      "total_units": null
+    },
+    {
+      "title": "Logic",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PHIL 220",
+          "title": "Introduction to Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 220 Introduction to Logic Units: 4"
+        },
+        {
+          "code": "PHIL 222g",
+          "title": "Logic and Language",
+          "units": 4.0,
+          "source_line": "- PHIL 222g Logic and Language Units: 4"
+        },
+        {
+          "code": "PHIL 350",
+          "title": "Intermediate Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 350 Intermediate Logic Units: 4"
+        },
+        {
+          "code": "PHIL 450",
+          "title": "The Limits of Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 450 The Limits of Logic Units: 4"
+        },
+        {
+          "code": "PHIL 452",
+          "title": "Modal Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 452 Modal Logic Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must complete one course from this category.",
+          "source_line": "Students must complete one course from this category.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Students must complete one course from this category.",
+      "total_units": null
+    },
+    {
+      "title": "Philosophy and Economics",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PHIL 101g",
+          "title": "Free People, Free Thought and Free Markets",
+          "units": 4.0,
+          "source_line": "- PHIL 101g Free People, Free Thought and Free Markets Units: 4"
+        },
+        {
+          "code": "PHIL 311",
+          "title": "The Quest for the Individual in Early Modern Europe",
+          "units": 4.0,
+          "source_line": "- PHIL 311 The Quest for the Individual in Early Modern Europe Units: 4"
+        },
+        {
+          "code": "PHIL 314",
+          "title": "Origins of Free Market Thought in Early Modern Europe",
+          "units": 4.0,
+          "source_line": "- PHIL 314 Origins of Free Market Thought in Early Modern Europe Units: 4"
+        },
+        {
+          "code": "PHIL 339",
+          "title": "Philosophy of Economics",
+          "units": 4.0,
+          "source_line": "- PHIL 339 Philosophy of Economics Units: 4"
+        },
+        {
+          "code": "ECON 203g",
+          "title": "Principles of Microeconomics",
+          "units": 4.0,
+          "source_line": "- ECON 203g Principles of Microeconomics Units: 4"
+        },
+        {
+          "code": "ECON 238xg",
+          "title": "Political Economy and Social Issues",
+          "units": 4.0,
+          "source_line": "- ECON 238xg Political Economy and Social Issues Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must complete at least one course from this category.",
+          "source_line": "Students must complete at least one course from this category.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Students must complete at least one course from this category.",
+      "total_units": null
+    },
+    {
+      "title": "Philosophy and Politics",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PHIL 103g",
+          "title": "Philosophy, Politics and Economics in Europe, from Renaissance to Enlightenment",
+          "units": 4.0,
+          "source_line": "- PHIL 103g Philosophy, Politics and Economics in Europe, from Renaissance to Enlightenment Units: 4"
+        },
+        {
+          "code": "PHIL 174gw",
+          "title": "Freedom, Equality, and Social Justice",
+          "units": 4.0,
+          "source_line": "- PHIL 174gw Freedom, Equality, and Social Justice Units: 4"
+        },
+        {
+          "code": "PHIL 258g",
+          "title": "Probability and Rational Choice",
+          "units": 4.0,
+          "source_line": "- PHIL 258g Probability and Rational Choice Units: 4"
+        },
+        {
+          "code": "PHIL 337",
+          "title": "Political Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 337 Political Philosophy Units: 4"
+        },
+        {
+          "code": "PHIL 437",
+          "title": "Social and Political Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 437 Social and Political Philosophy Units: 4"
+        },
+        {
+          "code": "PHIL 440",
+          "title": "Contemporary Ethical Theory",
+          "units": 4.0,
+          "source_line": "- PHIL 440 Contemporary Ethical Theory Units: 4"
+        },
+        {
+          "code": "POSC 130g",
+          "title": "Law, Politics and Public Policy",
+          "units": 4.0,
+          "source_line": "- POSC 130g Law, Politics and Public Policy Units: 4"
+        },
+        {
+          "code": "POSC 370",
+          "title": "European Political Thought I",
+          "units": 4.0,
+          "source_line": "- POSC 370 European Political Thought I Units: 4"
+        },
+        {
+          "code": "POSC 371",
+          "title": "European Political Thought II",
+          "units": 4.0,
+          "source_line": "- POSC 371 European Political Thought II Units: 4"
+        },
+        {
+          "code": "POSC 375",
+          "title": "American Political Thought",
+          "units": 4.0,
+          "source_line": "- POSC 375 American Political Thought Units: 4"
+        },
+        {
+          "code": "POSC 380",
+          "title": "Political Theories and Social Reform , 4",
+          "units": 2.0,
+          "source_line": "- POSC 380 Political Theories and Social Reform Units: 2, 4"
+        },
+        {
+          "code": "POSC 476",
+          "title": "Contemporary Political Thought",
+          "units": 4.0,
+          "source_line": "- POSC 476 Contemporary Political Thought Units: 4"
+        },
+        {
+          "code": "POSC 479",
+          "title": "Critical Issues in Political Thought",
+          "units": 4.0,
+          "source_line": "- POSC 479 Critical Issues in Political Thought Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must complete at least one course from this category.",
+          "source_line": "Students must complete at least one course from this category.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Students must complete at least one course from this category.",
+      "total_units": null
+    },
+    {
+      "title": "Philosophy and Law",
+      "level": 2,
+      "courses": [
+        {
+          "code": "LAW 210p",
+          "title": "Fundamentals of the U.S. Legal System",
+          "units": 4.0,
+          "source_line": "- LAW 210p Fundamentals of the U.S. Legal System Units: 4"
+        },
+        {
+          "code": "PHIL 178gw",
+          "title": "Moral Dilemmas in the Legal Domain",
+          "units": 4.0,
+          "source_line": "- PHIL 178gw Moral Dilemmas in the Legal Domain Units: 4"
+        },
+        {
+          "code": "PHIL 430",
+          "title": "Philosophy of Law",
+          "units": 4.0,
+          "source_line": "- PHIL 430 Philosophy of Law Units: 4"
+        },
+        {
+          "code": "PHIL 431",
+          "title": "Law, Society, and Politics",
+          "units": 4.0,
+          "source_line": "- PHIL 431 Law, Society, and Politics Units: 4"
+        },
+        {
+          "code": "POSC 340",
+          "title": "Constitutional Law",
+          "units": 4.0,
+          "source_line": "- POSC 340 Constitutional Law Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must complete at least one course from this category.",
+          "source_line": "Students must complete at least one course from this category.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Students must complete at least one course from this category.",
+      "total_units": null
+    },
+    {
+      "title": "Minimum Units Required: 20",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,107 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Architecture Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31558",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31558&returnto=9396",
+    "source_text_file": "221_architecture_minor.txt",
+    "source_content_sha256": "0a9755940caf8316c94f7296abf22fca1b72687e2bf9b238684d553445290bec",
+    "retrieved_at": "2026-07-31T00:59:27Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "#### Course Requirements\n\nThe requirements for the minor include three required courses (8 units) and a minimum of 12 units of upper division courses."
+    ],
+    "course_entry_count": 3,
+    "distinct_course_codes": 3,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in architecture provides the flexibility of complementing a student’s major with an area of specialization. Taking a minor in architecture is a unique opportunity for a student to stimulate his or her imagination and learn creative approaches to problem solving.",
+          "source_line": "The minor in architecture provides the flexibility of complementing a student’s major with an area of specialization. Taking a minor in architecture is a unique opportunity for a student to stimulate his or her imagination and learn creative approaches to problem solving."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Admission Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students in good academic standing who have completed the freshman year are eligible.",
+          "source_line": "Students in good academic standing who have completed the freshman year are eligible."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Course Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The requirements for the minor include three required courses (8 units) and a minimum of 12 units of upper division courses.",
+          "source_line": "The requirements for the minor include three required courses (8 units) and a minimum of 12 units of upper division courses."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ARCH 106x",
+          "title": "Workshop in Architecture",
+          "units": 2.0,
+          "source_line": "- ARCH 106x Workshop in Architecture Units: 2"
+        },
+        {
+          "code": "ARCH 114",
+          "title": "Architecture: Culture and Community",
+          "units": 2.0,
+          "source_line": "- ARCH 114 Architecture: Culture and Community Units: 2"
+        },
+        {
+          "code": "ARCH 304x",
+          "title": "Intensive Survey: Prehistory to the Present",
+          "units": 4.0,
+          "source_line": "- ARCH 304x Intensive Survey: Prehistory to the Present Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students may elect to take the upper division courses in an area of specialization, such as architectural history and theory, historic preservation, computers and design, visual communication, landscape architecture, public places — urban spaces, housing or practice management. This minor is not available to architecture majors.",
+          "source_line": "Students may elect to take the upper division courses in an area of specialization, such as architectural history and theory, historic preservation, computers and design, visual communication, landscape architecture, public places — urban spaces, housing or practice management. This minor is not available to architecture majors."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,534 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Music (BA)*",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32242",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32242&returnto=9396",
+    "source_text_file": "153_music_ba.txt",
+    "source_content_sha256": "7c55dc9030145e0dda02a8168ae10d3aa17b35935481f4cacbaba35b95147632",
+    "retrieved_at": "2026-07-31T00:55:51Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "Students will enroll in 4 units of Directed Research 490 in the appropriate department in order to facilitate the Senior Thesis requirement.",
+      "## Curriculum Requirements\n\n---\n\n### General Education *\n\n---\n\n#### Core Literacies\n\n---\n\nGE-A: The Arts (one course)\n\nGE-B: Humanistic Inquiry (two courses)\n\nGE-C: Social Analysis (two courses)\n\nGE-D: Life Sciences (one course)\n\nGE-E: Physical Sciences (one course)\n\nGE-F: Quantitative Reasoning (one course)\n\n#### Global Perspectives\n\n---\n\nGE-G: Global Perspectives I (one course)\n\nGE-H: Global Perspectives II (one course)\n\n#### Writing\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4\n\n### Core Thornton Academic Courses (38 units)\n\n---\n\n#### Thornton Academic Courses (16 units)\n\n---\n\n- MUCD 348 Instrumental Conducting and Orchestration Units: 2\n- MUCO 132a Aural Skills I Units: 2\n- MUCO 132b Aural Skills I Units: 2\n- MUCO 133a Theory I Units: 3\n- MUCO 133b Theory I Units: 3\n- MUHL 250g Music and Ideas Units: 4\n\n#### Musicianship (10 units)\n\n---\n\nSelect one concentration from the following:\n\n##### Classical Concentration\n\n---\n\n- MUCO 232a Aural Skills II Units: 2\n- MUCO 232b Aural Skills II Units: 2\n- MUCO 233a Theory II Units: 3\n- MUCO 233b Theory II Units: 3\n\n##### Popular Music Concentration\n\n---\n\n- MUCO 131a Harmony in Popular Music Units: 2\n- MUCO 131b Harmony in Popular Music Units: 2\n- MUCO 232a Aural Skills II Units: 2\n- MUCO 232b Aural Skills II Units: 2\n- MUSC 255 Songwriting I Units: 2\n\n##### Jazz Concentration\n\n---\n\n- MUJZ 195L Jazz Elements I Units: 2\n- 4 units total of MUJZ 195\n- MUJZ 305a Advanced Jazz Theory Units: 2\n- MUJZ 305b Advanced Jazz Theory Units: 2\n- MUJZ 400 Arranging for Jazz Ensemble Units: 2\n\n#### Music History (8 units)\n\n---\n\n​​​​​​​Select two courses from the following:\n\n- MPPM 350g A History of Popular Music Units: 4\n- MUHL 350g Western Art Music History I Units: 4\n- MUHL 351 Western Art Music History II Units: 4\n- MUJZ 350g A History of Jazz Music Units: 4\n\n#### Keyboard/Drumming (4 units)\n\n---\n\n​​​​​​​Select two courses from the following:\n\n- MPKS 250a Keyboard Instruction I Units: 2\n- MPKS 250b Keyboard Instruction I Units: 2\n- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2\n- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2\n- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2\n\n### Program Specific Courses (12 units)\n\n---\n\n#### Individual Instruction (8 units)\n\n---\n\n- 4 units total of Individual Instruction at the 153 level in primary instrument/voice\n- 4 units total of Individual Instruction at the 353 level in primary instrument/voice\n\n#### Ensembles (4 units)\n\n---\n\n- MUEN Ensemble Electives at the 300-level: four 1-unit courses\n\n### Foreign Language (12 units)\n\n---\n\n- Three 4-unit courses in the same language\n\n### Music Electives at the 300 or 400 Level (10 units)\n\n---\n\n### Electives (20 units)\n\n---\n\n### Capstone Project (4 units)\n\n---\n\n- Enroll in 4 units total of Directed Research 490 in order to facilitate the Senior Thesis requirement\n- Senior Thesis: 0 units\n\n## Total required for degree: 128\n\n---\n\n[*]With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements."
+    ],
+    "course_entry_count": 30,
+    "distinct_course_codes": 28,
+    "section_count": 26
+  },
+  "sections": [
+    {
+      "title": "Overview",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Arts in Music combines a rigorous foundation in music consisting of theory, aural skills, and music history, with the USC general education program, foreign language study, and the flexibility of a Bachelor of Arts curriculum. Within the core Thornton academic courses, students will have the opportunity to choose course groupings that reflect their interests within classical, popular music, and jazz disciplines. At the end of the program, students will complete a senior thesis as a capstone project.",
+          "source_line": "The Bachelor of Arts in Music combines a rigorous foundation in music consisting of theory, aural skills, and music history, with the USC general education program, foreign language study, and the flexibility of a Bachelor of Arts curriculum. Within the core Thornton academic courses, students will have the opportunity to choose course groupings that reflect their interests within classical, popular music, and jazz disciplines. At the end of the program, students will complete a senior thesis as a capstone project."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Entrance Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Admission to the Bachelor of Arts in Music is available to current USC undergraduates who wish to change their major program of study to the BA Music. Students will be required to apply for and be approved for admission. Specific entrance requirements are available at the Thornton School of Music website (music.usc.edu).",
+          "source_line": "Admission to the Bachelor of Arts in Music is available to current USC undergraduates who wish to change their major program of study to the BA Music. Students will be required to apply for and be approved for admission. Specific entrance requirements are available at the Thornton School of Music website (music.usc.edu)."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "USC’s General Education program, revised in fall 2015, provides a coherent, integrated approach to the study of the liberal arts, with the goal of nurturing habits of thought that are essential for professional success, personal development, and meaningful lifelong learning. Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC. With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements. Academic advisers in the Thornton School carefully guide Thornton students in making their course choices. This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements.",
+          "source_line": "USC’s General Education program, revised in fall 2015, provides a coherent, integrated approach to the study of the liberal arts, with the goal of nurturing habits of thought that are essential for professional success, personal development, and meaningful lifelong learning. Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC. With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements. Academic advisers in the Thornton School carefully guide Thornton students in making their course choices. This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Project",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Senior Thesis",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The capstone will consist of one or two substantial papers on a topic that is either a focus of traditional music research (e.g., musicology, ethnomusicology, music teaching and learning, music theory and analysis, the music industry), or an interdisciplinary topic that explores music’s relationship to other fields of study. The expected total length is a minimum of 50 double-spaced pages, exclusive of bibliography. This can be one 50-page paper or two papers of roughly 25 pages each. Students will enroll in 4 units of Directed Research 490 in the appropriate department in order to facilitate the Senior Thesis requirement. Students will be required to secure a Senior Thesis adviser who will also serve as the supervising faculty member on the Directed Research contract.",
+          "source_line": "The capstone will consist of one or two substantial papers on a topic that is either a focus of traditional music research (e.g., musicology, ethnomusicology, music teaching and learning, music theory and analysis, the music industry), or an interdisciplinary topic that explores music’s relationship to other fields of study. The expected total length is a minimum of 50 double-spaced pages, exclusive of bibliography. This can be one 50-page paper or two papers of roughly 25 pages each. Students will enroll in 4 units of Directed Research 490 in the appropriate department in order to facilitate the Senior Thesis requirement. Students will be required to secure a Senior Thesis adviser who will also serve as the supervising faculty member on the Directed Research contract."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Curriculum Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education *",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Literacies",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-A: The Arts (one course)",
+          "source_line": "GE-A: The Arts (one course)"
+        },
+        {
+          "text": "GE-B: Humanistic Inquiry (two courses)",
+          "source_line": "GE-B: Humanistic Inquiry (two courses)"
+        },
+        {
+          "text": "GE-C: Social Analysis (two courses)",
+          "source_line": "GE-C: Social Analysis (two courses)"
+        },
+        {
+          "text": "GE-D: Life Sciences (one course)",
+          "source_line": "GE-D: Life Sciences (one course)"
+        },
+        {
+          "text": "GE-E: Physical Sciences (one course)",
+          "source_line": "GE-E: Physical Sciences (one course)"
+        },
+        {
+          "text": "GE-F: Quantitative Reasoning (one course)",
+          "source_line": "GE-F: Quantitative Reasoning (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Global Perspectives",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "GE-G: Global Perspectives I (one course)",
+          "source_line": "GE-G: Global Perspectives I (one course)"
+        },
+        {
+          "text": "GE-H: Global Perspectives II (one course)",
+          "source_line": "GE-H: Global Perspectives II (one course)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Writing",
+      "level": 4,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Thornton Academic Courses (38 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Thornton Academic Courses (16 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MUCD 348",
+          "title": "Instrumental Conducting and Orchestration",
+          "units": 2.0,
+          "source_line": "- MUCD 348 Instrumental Conducting and Orchestration Units: 2"
+        },
+        {
+          "code": "MUCO 132a",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132a Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 132b",
+          "title": "Aural Skills I",
+          "units": 2.0,
+          "source_line": "- MUCO 132b Aural Skills I Units: 2"
+        },
+        {
+          "code": "MUCO 133a",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133a Theory I Units: 3"
+        },
+        {
+          "code": "MUCO 133b",
+          "title": "Theory I",
+          "units": 3.0,
+          "source_line": "- MUCO 133b Theory I Units: 3"
+        },
+        {
+          "code": "MUHL 250g",
+          "title": "Music and Ideas",
+          "units": 4.0,
+          "source_line": "- MUHL 250g Music and Ideas Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Musicianship (10 units)",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Select one concentration from the following:",
+          "source_line": "Select one concentration from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select one concentration from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Classical Concentration",
+      "level": 5,
+      "courses": [
+        {
+          "code": "MUCO 232a",
+          "title": "Aural Skills II",
+          "units": 2.0,
+          "source_line": "- MUCO 232a Aural Skills II Units: 2"
+        },
+        {
+          "code": "MUCO 232b",
+          "title": "Aural Skills II",
+          "units": 2.0,
+          "source_line": "- MUCO 232b Aural Skills II Units: 2"
+        },
+        {
+          "code": "MUCO 233a",
+          "title": "Theory II",
+          "units": 3.0,
+          "source_line": "- MUCO 233a Theory II Units: 3"
+        },
+        {
+          "code": "MUCO 233b",
+          "title": "Theory II",
+          "units": 3.0,
+          "source_line": "- MUCO 233b Theory II Units: 3"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Popular Music Concentration",
+      "level": 5,
+      "courses": [
+        {
+          "code": "MUCO 131a",
+          "title": "Harmony in Popular Music",
+          "units": 2.0,
+          "source_line": "- MUCO 131a Harmony in Popular Music Units: 2"
+        },
+        {
+          "code": "MUCO 131b",
+          "title": "Harmony in Popular Music",
+          "units": 2.0,
+          "source_line": "- MUCO 131b Harmony in Popular Music Units: 2"
+        },
+        {
+          "code": "MUCO 232a",
+          "title": "Aural Skills II",
+          "units": 2.0,
+          "source_line": "- MUCO 232a Aural Skills II Units: 2"
+        },
+        {
+          "code": "MUCO 232b",
+          "title": "Aural Skills II",
+          "units": 2.0,
+          "source_line": "- MUCO 232b Aural Skills II Units: 2"
+        },
+        {
+          "code": "MUSC 255",
+          "title": "Songwriting I",
+          "units": 2.0,
+          "source_line": "- MUSC 255 Songwriting I Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Jazz Concentration",
+      "level": 5,
+      "courses": [
+        {
+          "code": "MUJZ 195L",
+          "title": "Jazz Elements I",
+          "units": 2.0,
+          "source_line": "- MUJZ 195L Jazz Elements I Units: 2"
+        },
+        {
+          "code": "MUJZ 305a",
+          "title": "Advanced Jazz Theory",
+          "units": 2.0,
+          "source_line": "- MUJZ 305a Advanced Jazz Theory Units: 2"
+        },
+        {
+          "code": "MUJZ 305b",
+          "title": "Advanced Jazz Theory",
+          "units": 2.0,
+          "source_line": "- MUJZ 305b Advanced Jazz Theory Units: 2"
+        },
+        {
+          "code": "MUJZ 400",
+          "title": "Arranging for Jazz Ensemble",
+          "units": 2.0,
+          "source_line": "- MUJZ 400 Arranging for Jazz Ensemble Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "4 units total of MUJZ 195",
+          "source_line": "- 4 units total of MUJZ 195"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Music History (8 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPPM 350g",
+          "title": "A History of Popular Music",
+          "units": 4.0,
+          "source_line": "- MPPM 350g A History of Popular Music Units: 4"
+        },
+        {
+          "code": "MUHL 350g",
+          "title": "Western Art Music History I",
+          "units": 4.0,
+          "source_line": "- MUHL 350g Western Art Music History I Units: 4"
+        },
+        {
+          "code": "MUHL 351",
+          "title": "Western Art Music History II",
+          "units": 4.0,
+          "source_line": "- MUHL 351 Western Art Music History II Units: 4"
+        },
+        {
+          "code": "MUJZ 350g",
+          "title": "A History of Jazz Music",
+          "units": 4.0,
+          "source_line": "- MUJZ 350g A History of Jazz Music Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "​​​​​​​Select two courses from the following:",
+          "source_line": "​​​​​​​Select two courses from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "​​​​​​​Select two courses from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Keyboard/Drumming (4 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "MPKS 250a",
+          "title": "Keyboard Instruction I",
+          "units": 2.0,
+          "source_line": "- MPKS 250a Keyboard Instruction I Units: 2"
+        },
+        {
+          "code": "MPKS 250b",
+          "title": "Keyboard Instruction I",
+          "units": 2.0,
+          "source_line": "- MPKS 250b Keyboard Instruction I Units: 2"
+        },
+        {
+          "code": "MPPM 240",
+          "title": "Drumming Proficiency for the Popular Musician",
+          "units": 2.0,
+          "source_line": "- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2"
+        },
+        {
+          "code": "MPPM 250",
+          "title": "Keyboard Proficiency for the Popular Musician",
+          "units": 2.0,
+          "source_line": "- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2"
+        },
+        {
+          "code": "MUJZ 141a",
+          "title": "Basic Keyboard Skills for the Improviser",
+          "units": 2.0,
+          "source_line": "- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "​​​​​​​Select two courses from the following:",
+          "source_line": "​​​​​​​Select two courses from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "​​​​​​​Select two courses from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Program Specific Courses (12 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Individual Instruction (8 units)",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "4 units total of Individual Instruction at the 153 level in primary instrument/voice",
+          "source_line": "- 4 units total of Individual Instruction at the 153 level in primary instrument/voice"
+        },
+        {
+          "text": "4 units total of Individual Instruction at the 353 level in primary instrument/voice",
+          "source_line": "- 4 units total of Individual Instruction at the 353 level in primary instrument/voice"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Ensembles (4 units)",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "MUEN Ensemble Electives at the 300-level: four 1-unit courses",
+          "source_line": "- MUEN Ensemble Electives at the 300-level: four 1-unit courses"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Foreign Language (12 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Three 4-unit courses in the same language",
+          "source_line": "- Three 4-unit courses in the same language"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Music Electives at the 300 or 400 Level (10 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (20 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Project (4 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Enroll in 4 units total of Directed Research 490 in order to facilitate the Senior Thesis requirement",
+          "source_line": "- Enroll in 4 units total of Directed Research 490 in order to facilitate the Senior Thesis requirement"
+        },
+        {
+          "text": "Senior Thesis: 0 units",
+          "source_line": "- Senior Thesis: 0 units"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total required for degree: 128",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "[*]With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.​​​​​​​",
+          "source_line": "[*]With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.​​​​​​​"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

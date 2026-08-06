@@ -1,0 +1,573 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Human Technology Interaction (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32920",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32920&returnto=9396",
+    "source_text_file": "131_human_technology_interaction_bs.txt",
+    "source_content_sha256": "7d33a6038805a049c5f284409757c38dd89583e34e6f81e82c724ccf754f5fb9",
+    "retrieved_at": "2026-07-31T00:55:05Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The degree requires at least 128 units for program completion.",
+      "## Challenge Based Reflective Learning Required Courses (16 Units)\n\n---\n\nAny 2-unit course needs to be taken twice for 4 units.",
+      "- ACAD 174 Innovators Forum Units: 2\n-\n- ACAD 376 Industry Practicum I: Designing and Implementing Real-World Solutions Units: 4 or\n- ACAD 419 Professional Internship Units: 1, 2 or\n- ACAD 450 Industry and Impact Projects Units: 2\n-\n- ACAD 475a The Garage Experience Units: 4\n- ACAD 475b The Garage Experience Units: 4\n\n## HTI Design Sequence Required Courses (12 Units)\n\n---\n\n- ACAD 176 Rapid Visualization Units: 4\n- ACAD 325 Human Technology Interaction and the User Experience Units: 4\n- ACAD 360 Design Strategy: Problem Solving for Organizations Units: 4\n\n## Business Courses in Product and Process Innovation Requirements (8 Units)\n\n---\n\n- ACAD 183 Product Management for Challenge-Based Innovation Units: 4\n-\n- ACAD 184 Operations Management and Finance for Challenge-Based Innova Units: 4 or\n- ACAD 185 Analytics and Marketing for Challenge-Based Innovation Units: 4\n\n## IYA Technology Requirements (12 Units)\n\n---\n\nChoose 12 units from ONE area below:\n\n### Extended Reality\n\n---\n\n- ACAD 217 Extended Reality Design Units: 4\n- ACAD 288 Constructing Digital Worlds Units: 4\n- IDSN 537 Extended Reality for Fashion Units: 4\n- IDSN 539 Extended Reality Development Units: 4\n- IDSN 574 Extended Reality in Medicine Units: 4\n\n### Interactive AI\n\n---\n\n- ACAD 191 Python for Machine Intelligence Units: 2\n- ACAD 220 Introduction to Data Innovation and Analytics Units: 4\n- ACAD 222 Introduction to Machine Intelligence Units: 4\n- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8\n- IDSN 543 Augmented Intelligence Units: 4\n- IDSN 544 Transformative Artificial Intelligence in Society Units: 4\n\n### IoT and Physical Computing\n\n---\n\n- ACAD 230 Introduction to Interactive Physical Computing Units: 4\n- ACAD 535 Ambient Computing for Fashion Units: 4\n- IDSN 567 Materials Science for Product Design Units: 4\n- IDSN 571 Devices and Systems for Body Computing Units: 4\n- IDSN 572 Embedded Computing for Human Performance Units: 4\n\n### Web and App Development\n\n---\n\n- ACAD 275 Dev I Units: 4\n- ACAD 276 Dev II Units: 4\n- ACAD 415 Dev III: Designing Applications for Emerging Platforms Units: 4\n-\n- ACAD 404 Advanced Front-End Web Development Units: 4 or\n- ACAD 405 Advanced Back-End Web Development Units: 4\n- IDSN 533 iOS Application Design and Development Units: 4\n\n## Software Development Requirements – Viterbi School of Engineering (20 Units)\n\n---\n\nEnrollment in CSCI 103L requires (a) taking CSCI 102L , or (b) prior introductory programming in Java or C++ and passing the CSCI 102 challenge exam.",
+      "- CSCI 103L Object Oriented Programming Units: 4\n- CSCI 104L Data Structures Units: 4\n- CSCI 170 Discrete Methods in Computer Science Units: 4\n- CSCI 201 Principles of Software Development Units: 4\n- CSCI 310 Software Engineering Units: 4\n\n## HTI Elective within Viterbi School of Engineering (4 units)\n\n---\n\nNote that some of the courses below have additional prerequisites.",
+      "- CSCI 445L Foundations of Robotics Units: 4\n- DSCI 352 Applied Machine Learning and Data Mining Units: 4\n- ISE 370L Human Factors in Work and Systems Design Units: 4\n- ISE 440 Socio-Technical Systems and Work Organizations Units: 4\n- ISE 470 Human/Computer Interface Design Units: 4\n- TAC 359 Applied Neural Networks Units: 4\n- TAC 449 Applications of Machine Learning Units: 4\n- TAC 459 Applied Natural Language Processing and Generative AI Units: 4\n\n## HTI Electives from Keck, Annenberg, Dornsife, Marshall, Rossier (12 Units)\n\n---\n\nChoose 12 units from the following (or other approved electives from these schools):\n\n- ARCG 305Lg Virtual and Digital Culture, Heritage and Archaeology Units: 2, 4\n- BIOC 581 Toolbox for Biochemistry and Molecular Biology Units: 2, 4\n- BISC 408 Systems Neuroscience: From Synapses to Perception Units: 4\n- BUAD 310g Applied Business Statistics Units: 4\n- DSO 470 Optimization and Analytics for Better Decisions using GenAI Units: 4\n- ECON 415 Behavioral Economics Units: 4\n- MDA 423 User Experience Units: 4\n- MEDS 445 Cancer: Biology, Prevention and Therapy from the Bench to the Bedside Units: 4\n- OHNS 303 Telehealth and Assistive Technology in SLP Units: 4\n- PSYC 301L Cognitive Processes Units: 4\n- PSYC 304L Sensation and Perception Units: 4\n- PSYC 423 User Experience Units: 4\n- PSYC 440 Foundations of Cognitive Neuroscience Units: 4\n- PSYC 454 Social Cognition Units: 4\n\n## Additional Domain-Specific Electives (8 Units)\n\n---\n\nTake an additional 8 units of elective course work with adviser approval."
+    ],
+    "course_entry_count": 61,
+    "distinct_course_codes": 61,
+    "section_count": 14
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Science in Human Technology Interaction (BS HTI) is offered by the Iovine Young Academy, a global educational leader in product and process innovation. The degree is offered in partnership with the Viterbi School of Engineering and in collaboration with four other USC schools (Dornsife, Keck, Annenberg and Rossier). The degree prepares students for careers in Full Stack Development for Emerging Technologies (Interactive AI, Extended Reality, Data and Decision systems, IoT and Physical Computing). Graduates are able to collaborate with diverse stakeholders to develop and implement novel strategies for integrating emerging technologies into products and processes in a manner that leverages the interaction of human expertise with emerging technologies and advances improved performance of human experts and overall product/process innovation. Students develop integrated expertise across front end, back end and API development as well as complementary skills in product design and product management.",
+          "source_line": "The Bachelor of Science in Human Technology Interaction (BS HTI) is offered by the Iovine Young Academy, a global educational leader in product and process innovation. The degree is offered in partnership with the Viterbi School of Engineering and in collaboration with four other USC schools (Dornsife, Keck, Annenberg and Rossier). The degree prepares students for careers in Full Stack Development for Emerging Technologies (Interactive AI, Extended Reality, Data and Decision systems, IoT and Physical Computing). Graduates are able to collaborate with diverse stakeholders to develop and implement novel strategies for integrating emerging technologies into products and processes in a manner that leverages the interaction of human expertise with emerging technologies and advances improved performance of human experts and overall product/process innovation. Students develop integrated expertise across front end, back end and API development as well as complementary skills in product design and product management."
+        },
+        {
+          "text": "Students complete the IYA sequences of courses on interaction design, technology development and business management and a Viterbi sequence of courses on software development. They complement this knowledge with HTI electives spanning the sciences, humanities, communication, medicine and education.",
+          "source_line": "Students complete the IYA sequences of courses on interaction design, technology development and business management and a Viterbi sequence of courses on software development. They complement this knowledge with HTI electives spanning the sciences, humanities, communication, medicine and education."
+        },
+        {
+          "text": "The degree leverages the IYA’s unique Challenge Based Reflective Learning Framework that motivates learning through complex sociotechnical challenges provided by industry and community partners. Students and industry partners work together to learn how to spot challenges and generate creative responses in complex and often under-explored territories. To accomplish this, students work in and out, back and forth and through a series of stages for product innovation: discern, prompt, prototype and iterate.",
+          "source_line": "The degree leverages the IYA’s unique Challenge Based Reflective Learning Framework that motivates learning through complex sociotechnical challenges provided by industry and community partners. Students and industry partners work together to learn how to spot challenges and generate creative responses in complex and often under-explored territories. To accomplish this, students work in and out, back and forth and through a series of stages for product innovation: discern, prompt, prototype and iterate."
+        },
+        {
+          "text": "The degree requires at least 128 units for program completion.",
+          "source_line": "The degree requires at least 128 units for program completion."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Challenge Based Reflective Learning Required Courses (16 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ACAD 174",
+          "title": "Innovators Forum",
+          "units": 2.0,
+          "source_line": "- ACAD 174 Innovators Forum Units: 2"
+        },
+        {
+          "code": "ACAD 376",
+          "title": "Industry Practicum I: Designing and Implementing Real-World Solutions  or",
+          "units": 4.0,
+          "source_line": "- ACAD 376 Industry Practicum I: Designing and Implementing Real-World Solutions Units: 4 or"
+        },
+        {
+          "code": "ACAD 419",
+          "title": "Professional Internship , 2 or",
+          "units": 1.0,
+          "source_line": "- ACAD 419 Professional Internship Units: 1, 2 or"
+        },
+        {
+          "code": "ACAD 450",
+          "title": "Industry and Impact Projects",
+          "units": 2.0,
+          "source_line": "- ACAD 450 Industry and Impact Projects Units: 2"
+        },
+        {
+          "code": "ACAD 475a",
+          "title": "The Garage Experience",
+          "units": 4.0,
+          "source_line": "- ACAD 475a The Garage Experience Units: 4"
+        },
+        {
+          "code": "ACAD 475b",
+          "title": "The Garage Experience",
+          "units": 4.0,
+          "source_line": "- ACAD 475b The Garage Experience Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Any 2-unit course needs to be taken twice for 4 units.",
+          "source_line": "Any 2-unit course needs to be taken twice for 4 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "HTI Design Sequence Required Courses (12 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ACAD 176",
+          "title": "Rapid Visualization",
+          "units": 4.0,
+          "source_line": "- ACAD 176 Rapid Visualization Units: 4"
+        },
+        {
+          "code": "ACAD 325",
+          "title": "Human Technology Interaction and the User Experience",
+          "units": 4.0,
+          "source_line": "- ACAD 325 Human Technology Interaction and the User Experience Units: 4"
+        },
+        {
+          "code": "ACAD 360",
+          "title": "Design Strategy: Problem Solving for Organizations",
+          "units": 4.0,
+          "source_line": "- ACAD 360 Design Strategy: Problem Solving for Organizations Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Business Courses in Product and Process Innovation Requirements (8 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ACAD 183",
+          "title": "Product Management for Challenge-Based Innovation",
+          "units": 4.0,
+          "source_line": "- ACAD 183 Product Management for Challenge-Based Innovation Units: 4"
+        },
+        {
+          "code": "ACAD 184",
+          "title": "Operations Management and Finance for Challenge-Based Innova  or",
+          "units": 4.0,
+          "source_line": "- ACAD 184 Operations Management and Finance for Challenge-Based Innova Units: 4 or"
+        },
+        {
+          "code": "ACAD 185",
+          "title": "Analytics and Marketing for Challenge-Based Innovation",
+          "units": 4.0,
+          "source_line": "- ACAD 185 Analytics and Marketing for Challenge-Based Innovation Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "IYA Technology Requirements (12 Units)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Choose 12 units from ONE area below:",
+          "source_line": "Choose 12 units from ONE area below:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose 12 units from ONE area below:",
+      "total_units": null
+    },
+    {
+      "title": "Extended Reality",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ACAD 217",
+          "title": "Extended Reality Design",
+          "units": 4.0,
+          "source_line": "- ACAD 217 Extended Reality Design Units: 4"
+        },
+        {
+          "code": "ACAD 288",
+          "title": "Constructing Digital Worlds",
+          "units": 4.0,
+          "source_line": "- ACAD 288 Constructing Digital Worlds Units: 4"
+        },
+        {
+          "code": "IDSN 537",
+          "title": "Extended Reality for Fashion",
+          "units": 4.0,
+          "source_line": "- IDSN 537 Extended Reality for Fashion Units: 4"
+        },
+        {
+          "code": "IDSN 539",
+          "title": "Extended Reality Development",
+          "units": 4.0,
+          "source_line": "- IDSN 539 Extended Reality Development Units: 4"
+        },
+        {
+          "code": "IDSN 574",
+          "title": "Extended Reality in Medicine",
+          "units": 4.0,
+          "source_line": "- IDSN 574 Extended Reality in Medicine Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Interactive AI",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ACAD 191",
+          "title": "Python for Machine Intelligence",
+          "units": 2.0,
+          "source_line": "- ACAD 191 Python for Machine Intelligence Units: 2"
+        },
+        {
+          "code": "ACAD 220",
+          "title": "Introduction to Data Innovation and Analytics",
+          "units": 4.0,
+          "source_line": "- ACAD 220 Introduction to Data Innovation and Analytics Units: 4"
+        },
+        {
+          "code": "ACAD 222",
+          "title": "Introduction to Machine Intelligence",
+          "units": 4.0,
+          "source_line": "- ACAD 222 Introduction to Machine Intelligence Units: 4"
+        },
+        {
+          "code": "ACAD 490",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "IDSN 543",
+          "title": "Augmented Intelligence",
+          "units": 4.0,
+          "source_line": "- IDSN 543 Augmented Intelligence Units: 4"
+        },
+        {
+          "code": "IDSN 544",
+          "title": "Transformative Artificial Intelligence in Society",
+          "units": 4.0,
+          "source_line": "- IDSN 544 Transformative Artificial Intelligence in Society Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "IoT and Physical Computing",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ACAD 230",
+          "title": "Introduction to Interactive Physical Computing",
+          "units": 4.0,
+          "source_line": "- ACAD 230 Introduction to Interactive Physical Computing Units: 4"
+        },
+        {
+          "code": "ACAD 535",
+          "title": "Ambient Computing for Fashion",
+          "units": 4.0,
+          "source_line": "- ACAD 535 Ambient Computing for Fashion Units: 4"
+        },
+        {
+          "code": "IDSN 567",
+          "title": "Materials Science for Product Design",
+          "units": 4.0,
+          "source_line": "- IDSN 567 Materials Science for Product Design Units: 4"
+        },
+        {
+          "code": "IDSN 571",
+          "title": "Devices and Systems for Body Computing",
+          "units": 4.0,
+          "source_line": "- IDSN 571 Devices and Systems for Body Computing Units: 4"
+        },
+        {
+          "code": "IDSN 572",
+          "title": "Embedded Computing for Human Performance",
+          "units": 4.0,
+          "source_line": "- IDSN 572 Embedded Computing for Human Performance Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Web and App Development",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ACAD 275",
+          "title": "Dev I",
+          "units": 4.0,
+          "source_line": "- ACAD 275 Dev I Units: 4"
+        },
+        {
+          "code": "ACAD 276",
+          "title": "Dev II",
+          "units": 4.0,
+          "source_line": "- ACAD 276 Dev II Units: 4"
+        },
+        {
+          "code": "ACAD 415",
+          "title": "Dev III: Designing Applications for Emerging Platforms",
+          "units": 4.0,
+          "source_line": "- ACAD 415 Dev III: Designing Applications for Emerging Platforms Units: 4"
+        },
+        {
+          "code": "ACAD 404",
+          "title": "Advanced Front-End Web Development  or",
+          "units": 4.0,
+          "source_line": "- ACAD 404 Advanced Front-End Web Development Units: 4 or"
+        },
+        {
+          "code": "ACAD 405",
+          "title": "Advanced Back-End Web Development",
+          "units": 4.0,
+          "source_line": "- ACAD 405 Advanced Back-End Web Development Units: 4"
+        },
+        {
+          "code": "IDSN 533",
+          "title": "iOS Application Design and Development",
+          "units": 4.0,
+          "source_line": "- IDSN 533 iOS Application Design and Development Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Software Development Requirements – Viterbi School of Engineering (20 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CSCI 103L",
+          "title": "Object Oriented Programming",
+          "units": 4.0,
+          "source_line": "- CSCI 103L Object Oriented Programming Units: 4"
+        },
+        {
+          "code": "CSCI 104L",
+          "title": "Data Structures",
+          "units": 4.0,
+          "source_line": "- CSCI 104L Data Structures Units: 4"
+        },
+        {
+          "code": "CSCI 170",
+          "title": "Discrete Methods in Computer Science",
+          "units": 4.0,
+          "source_line": "- CSCI 170 Discrete Methods in Computer Science Units: 4"
+        },
+        {
+          "code": "CSCI 201",
+          "title": "Principles of Software Development",
+          "units": 4.0,
+          "source_line": "- CSCI 201 Principles of Software Development Units: 4"
+        },
+        {
+          "code": "CSCI 310",
+          "title": "Software Engineering",
+          "units": 4.0,
+          "source_line": "- CSCI 310 Software Engineering Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Enrollment in CSCI 103L requires (a) taking CSCI 102L , or (b) prior introductory programming in Java or C++ and passing the CSCI 102 challenge exam.",
+          "source_line": "Enrollment in CSCI 103L requires (a) taking CSCI 102L , or (b) prior introductory programming in Java or C++ and passing the CSCI 102 challenge exam."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "HTI Elective within Viterbi School of Engineering (4 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CSCI 445L",
+          "title": "Foundations of Robotics",
+          "units": 4.0,
+          "source_line": "- CSCI 445L Foundations of Robotics Units: 4"
+        },
+        {
+          "code": "DSCI 352",
+          "title": "Applied Machine Learning and Data Mining",
+          "units": 4.0,
+          "source_line": "- DSCI 352 Applied Machine Learning and Data Mining Units: 4"
+        },
+        {
+          "code": "ISE 370L",
+          "title": "Human Factors in Work and Systems Design",
+          "units": 4.0,
+          "source_line": "- ISE 370L Human Factors in Work and Systems Design Units: 4"
+        },
+        {
+          "code": "ISE 440",
+          "title": "Socio-Technical Systems and Work Organizations",
+          "units": 4.0,
+          "source_line": "- ISE 440 Socio-Technical Systems and Work Organizations Units: 4"
+        },
+        {
+          "code": "ISE 470",
+          "title": "Human/Computer Interface Design",
+          "units": 4.0,
+          "source_line": "- ISE 470 Human/Computer Interface Design Units: 4"
+        },
+        {
+          "code": "TAC 359",
+          "title": "Applied Neural Networks",
+          "units": 4.0,
+          "source_line": "- TAC 359 Applied Neural Networks Units: 4"
+        },
+        {
+          "code": "TAC 449",
+          "title": "Applications of Machine Learning",
+          "units": 4.0,
+          "source_line": "- TAC 449 Applications of Machine Learning Units: 4"
+        },
+        {
+          "code": "TAC 459",
+          "title": "Applied Natural Language Processing and Generative AI",
+          "units": 4.0,
+          "source_line": "- TAC 459 Applied Natural Language Processing and Generative AI Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Note that some of the courses below have additional prerequisites.",
+          "source_line": "Note that some of the courses below have additional prerequisites."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "HTI Electives from Keck, Annenberg, Dornsife, Marshall, Rossier (12 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ARCG 305Lg",
+          "title": "Virtual and Digital Culture, Heritage and Archaeology , 4",
+          "units": 2.0,
+          "source_line": "- ARCG 305Lg Virtual and Digital Culture, Heritage and Archaeology Units: 2, 4"
+        },
+        {
+          "code": "BIOC 581",
+          "title": "Toolbox for Biochemistry and Molecular Biology , 4",
+          "units": 2.0,
+          "source_line": "- BIOC 581 Toolbox for Biochemistry and Molecular Biology Units: 2, 4"
+        },
+        {
+          "code": "BISC 408",
+          "title": "Systems Neuroscience: From Synapses to Perception",
+          "units": 4.0,
+          "source_line": "- BISC 408 Systems Neuroscience: From Synapses to Perception Units: 4"
+        },
+        {
+          "code": "BUAD 310g",
+          "title": "Applied Business Statistics",
+          "units": 4.0,
+          "source_line": "- BUAD 310g Applied Business Statistics Units: 4"
+        },
+        {
+          "code": "DSO 470",
+          "title": "Optimization and Analytics for Better Decisions using GenAI",
+          "units": 4.0,
+          "source_line": "- DSO 470 Optimization and Analytics for Better Decisions using GenAI Units: 4"
+        },
+        {
+          "code": "ECON 415",
+          "title": "Behavioral Economics",
+          "units": 4.0,
+          "source_line": "- ECON 415 Behavioral Economics Units: 4"
+        },
+        {
+          "code": "MDA 423",
+          "title": "User Experience",
+          "units": 4.0,
+          "source_line": "- MDA 423 User Experience Units: 4"
+        },
+        {
+          "code": "MEDS 445",
+          "title": "Cancer: Biology, Prevention and Therapy from the Bench to the Bedside",
+          "units": 4.0,
+          "source_line": "- MEDS 445 Cancer: Biology, Prevention and Therapy from the Bench to the Bedside Units: 4"
+        },
+        {
+          "code": "OHNS 303",
+          "title": "Telehealth and Assistive Technology in SLP",
+          "units": 4.0,
+          "source_line": "- OHNS 303 Telehealth and Assistive Technology in SLP Units: 4"
+        },
+        {
+          "code": "PSYC 301L",
+          "title": "Cognitive Processes",
+          "units": 4.0,
+          "source_line": "- PSYC 301L Cognitive Processes Units: 4"
+        },
+        {
+          "code": "PSYC 304L",
+          "title": "Sensation and Perception",
+          "units": 4.0,
+          "source_line": "- PSYC 304L Sensation and Perception Units: 4"
+        },
+        {
+          "code": "PSYC 423",
+          "title": "User Experience",
+          "units": 4.0,
+          "source_line": "- PSYC 423 User Experience Units: 4"
+        },
+        {
+          "code": "PSYC 440",
+          "title": "Foundations of Cognitive Neuroscience",
+          "units": 4.0,
+          "source_line": "- PSYC 440 Foundations of Cognitive Neuroscience Units: 4"
+        },
+        {
+          "code": "PSYC 454",
+          "title": "Social Cognition",
+          "units": 4.0,
+          "source_line": "- PSYC 454 Social Cognition Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose 12 units from the following (or other approved electives from these schools):",
+          "source_line": "Choose 12 units from the following (or other approved electives from these schools):"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Domain-Specific Electives (8 Units)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Take an additional 8 units of elective course work with adviser approval.",
+          "source_line": "Take an additional 8 units of elective course work with adviser approval."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "University General Education and Writing Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The university requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education .",
+          "source_line": "The university requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

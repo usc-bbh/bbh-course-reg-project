@@ -1,0 +1,404 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Media Arts and Practice (BA)*",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31669",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31669&returnto=9396",
+    "source_text_file": "151_media_arts_and_practice_ba.txt",
+    "source_content_sha256": "9f940f396e7daa1423e27a21ada5e180ec89e595aa90d06419624214eecc4be3",
+    "retrieved_at": "2026-07-31T00:55:47Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Program Requirements\n\n---\n\nA total of 66 units is required to complete the major.",
+      "## Core Studio Courses\n\n---\n\n- CNTV 101 Reality Starts Here Units: 2\n- CTCS 150gw The Cinematic Arts in Society Units: 4\n- IML 201 The Languages of Digital Media Units: 4\n- IML 202 Media Arts and Practice Studio I Units: 4\n- IML 203 Media Arts and Practice Studio II Units: 4\n- IML 295Lm Identity, Power, and Digital Culture Units: 4\n- IML 310 Professionalism for Media Arts Units: 2\n- IML 346 Methods in Digital Research Units: 2\n- IML 440 Thesis Studio Units: 4\n- IML 466 Digital Studies Symposium Units: 2\n\n## Platform-Specific Courses\n\n---\n\n- IML 230 Introduction to Visual Design Units: 4\n- IML 288 Introduction to Creative Coding Units: 4\n- IML 300 Introduction to Creative Web Programming Units: 4\n- IML 328 Introduction to Sound Units: 2\n- IML 335 Introduction to Video Units: 2\n- IML 354 Introduction to 3-D Modeling Units: 2\n- Choose 8 units from the following courses:\n- IML 400 Advanced Platform: Creative Coding and Web Design Units: 4\n- IML 404 Advanced Platform: Tangible and Spatial Computing Units: 4\n- IML 428 Advanced Platform: Sound Units: 4\n- IML 430 Advanced Platform: Visual Design Units: 4\n- IML 435 Advanced Platform: Video Units: 4\n- IML 436 Advanced Platform: Hypercinemas Units: 4\n- IML 454 Advanced Platform: 3-D Design Units: 4\n- IML 481 Advanced Platform: Mixed Realities Units: 4\n\n## Media Arts Electives\n\n---\n\nThis requirement allows students to expand their inquiry into media arts as a discipline.",
+      "Choose 8 units from the following courses:\n\n- IML 419 Emotion in Digital Culture Units: 4\n- IML 418 Sensory Design Units: 4\n- IML 420m New Media for Social Change Units: 4\n- IML 421 Designing and Writing for Transmedia Narratives Units: 4\n- IML 422 Information Visualization Units: 4\n- IML 423 Remixing the Archive Units: 4\n- IML 424 The Music Festival Experience Units: 4\n- IML 425 Narrative Across Media Units: 4\n- IML 427 DIY Music Videos from Critique to Creation Units: 4\n- IML 450 Critical Play and Documentary Games Units: 4\n- IML 452 Integrative Design for Mobile Devices Units: 4\n- IML 453 Design Fiction and Speculative Futures Units: 4\n- IML 455 Future Cinema Units: 4\n- IML 456 Nature, Design and Media Units: 2\n- IML 458 The Embedded Story: Designing Digital Landscapes and Languages Units: 2\n- IML 460 AI and Creativity Units: 4\n- IML 475 Media Arts Research Lab Units: 2, 3, 4\n- IML 477 Embodied Storytelling and Immersive Docu-Narratives Units: 4\n- IML 493 Creativity and Wellbeing Units: 2, 4\n- IML 499 Special Topics Units: 2, 3, 4\n\n## Additional Requirements\n\n---\n\n### Thesis Sequence\n\nThe media arts and practice major culminates in a digital thesis project that students research, develop and construct during their senior year."
+    ],
+    "course_entry_count": 44,
+    "distinct_course_codes": 44,
+    "section_count": 9
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Arts in Media Arts and Practice is a hybrid theory/practice program integrating creative and critical approaches to the history, theory and practice of digital media in the 21st century. Students learn how to work with a broad spectrum of media-making tools, including video, sound, graphic design and interactive media, while also exploring the relationships among media forms, emerging technologies, and culture. Students explore an array of methods, including worldbuilding, design fiction and critical making, as well as how to integrate research and creativity while working with faculty mentors in SCA’s varied research labs. The Media Arts and Practice major is ideal for students who are innovative storytellers eager to explore a full range of cinematic techniques and platforms; who are committed to making a positive difference in the world; and who will use their skills across diverse fields after graduation.",
+          "source_line": "The Bachelor of Arts in Media Arts and Practice is a hybrid theory/practice program integrating creative and critical approaches to the history, theory and practice of digital media in the 21st century. Students learn how to work with a broad spectrum of media-making tools, including video, sound, graphic design and interactive media, while also exploring the relationships among media forms, emerging technologies, and culture. Students explore an array of methods, including worldbuilding, design fiction and critical making, as well as how to integrate research and creativity while working with faculty mentors in SCA’s varied research labs. The Media Arts and Practice major is ideal for students who are innovative storytellers eager to explore a full range of cinematic techniques and platforms; who are committed to making a positive difference in the world; and who will use their skills across diverse fields after graduation."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A total of 66 units is required to complete the major. All courses must be taken for a letter grade.",
+          "source_line": "A total of 66 units is required to complete the major. All courses must be taken for a letter grade."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Studio Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CNTV 101",
+          "title": "Reality Starts Here",
+          "units": 2.0,
+          "source_line": "- CNTV 101 Reality Starts Here Units: 2"
+        },
+        {
+          "code": "CTCS 150gw",
+          "title": "The Cinematic Arts in Society",
+          "units": 4.0,
+          "source_line": "- CTCS 150gw The Cinematic Arts in Society Units: 4"
+        },
+        {
+          "code": "IML 201",
+          "title": "The Languages of Digital Media",
+          "units": 4.0,
+          "source_line": "- IML 201 The Languages of Digital Media Units: 4"
+        },
+        {
+          "code": "IML 202",
+          "title": "Media Arts and Practice Studio I",
+          "units": 4.0,
+          "source_line": "- IML 202 Media Arts and Practice Studio I Units: 4"
+        },
+        {
+          "code": "IML 203",
+          "title": "Media Arts and Practice Studio II",
+          "units": 4.0,
+          "source_line": "- IML 203 Media Arts and Practice Studio II Units: 4"
+        },
+        {
+          "code": "IML 295Lm",
+          "title": "Identity, Power, and Digital Culture",
+          "units": 4.0,
+          "source_line": "- IML 295Lm Identity, Power, and Digital Culture Units: 4"
+        },
+        {
+          "code": "IML 310",
+          "title": "Professionalism for Media Arts",
+          "units": 2.0,
+          "source_line": "- IML 310 Professionalism for Media Arts Units: 2"
+        },
+        {
+          "code": "IML 346",
+          "title": "Methods in Digital Research",
+          "units": 2.0,
+          "source_line": "- IML 346 Methods in Digital Research Units: 2"
+        },
+        {
+          "code": "IML 440",
+          "title": "Thesis Studio",
+          "units": 4.0,
+          "source_line": "- IML 440 Thesis Studio Units: 4"
+        },
+        {
+          "code": "IML 466",
+          "title": "Digital Studies Symposium",
+          "units": 2.0,
+          "source_line": "- IML 466 Digital Studies Symposium Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Platform-Specific Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "IML 230",
+          "title": "Introduction to Visual Design",
+          "units": 4.0,
+          "source_line": "- IML 230 Introduction to Visual Design Units: 4"
+        },
+        {
+          "code": "IML 288",
+          "title": "Introduction to Creative Coding",
+          "units": 4.0,
+          "source_line": "- IML 288 Introduction to Creative Coding Units: 4"
+        },
+        {
+          "code": "IML 300",
+          "title": "Introduction to Creative Web Programming",
+          "units": 4.0,
+          "source_line": "- IML 300 Introduction to Creative Web Programming Units: 4"
+        },
+        {
+          "code": "IML 328",
+          "title": "Introduction to Sound",
+          "units": 2.0,
+          "source_line": "- IML 328 Introduction to Sound Units: 2"
+        },
+        {
+          "code": "IML 335",
+          "title": "Introduction to Video",
+          "units": 2.0,
+          "source_line": "- IML 335 Introduction to Video Units: 2"
+        },
+        {
+          "code": "IML 354",
+          "title": "Introduction to 3-D Modeling",
+          "units": 2.0,
+          "source_line": "- IML 354 Introduction to 3-D Modeling Units: 2"
+        },
+        {
+          "code": "IML 400",
+          "title": "Advanced Platform: Creative Coding and Web Design",
+          "units": 4.0,
+          "source_line": "- IML 400 Advanced Platform: Creative Coding and Web Design Units: 4"
+        },
+        {
+          "code": "IML 404",
+          "title": "Advanced Platform: Tangible and Spatial Computing",
+          "units": 4.0,
+          "source_line": "- IML 404 Advanced Platform: Tangible and Spatial Computing Units: 4"
+        },
+        {
+          "code": "IML 428",
+          "title": "Advanced Platform: Sound",
+          "units": 4.0,
+          "source_line": "- IML 428 Advanced Platform: Sound Units: 4"
+        },
+        {
+          "code": "IML 430",
+          "title": "Advanced Platform: Visual Design",
+          "units": 4.0,
+          "source_line": "- IML 430 Advanced Platform: Visual Design Units: 4"
+        },
+        {
+          "code": "IML 435",
+          "title": "Advanced Platform: Video",
+          "units": 4.0,
+          "source_line": "- IML 435 Advanced Platform: Video Units: 4"
+        },
+        {
+          "code": "IML 436",
+          "title": "Advanced Platform: Hypercinemas",
+          "units": 4.0,
+          "source_line": "- IML 436 Advanced Platform: Hypercinemas Units: 4"
+        },
+        {
+          "code": "IML 454",
+          "title": "Advanced Platform: 3-D Design",
+          "units": 4.0,
+          "source_line": "- IML 454 Advanced Platform: 3-D Design Units: 4"
+        },
+        {
+          "code": "IML 481",
+          "title": "Advanced Platform: Mixed Realities",
+          "units": 4.0,
+          "source_line": "- IML 481 Advanced Platform: Mixed Realities Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose 8 units from the following courses:",
+          "source_line": "- Choose 8 units from the following courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Media Arts Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "IML 419",
+          "title": "Emotion in Digital Culture",
+          "units": 4.0,
+          "source_line": "- IML 419 Emotion in Digital Culture Units: 4"
+        },
+        {
+          "code": "IML 418",
+          "title": "Sensory Design",
+          "units": 4.0,
+          "source_line": "- IML 418 Sensory Design Units: 4"
+        },
+        {
+          "code": "IML 420m",
+          "title": "New Media for Social Change",
+          "units": 4.0,
+          "source_line": "- IML 420m New Media for Social Change Units: 4"
+        },
+        {
+          "code": "IML 421",
+          "title": "Designing and Writing for Transmedia Narratives",
+          "units": 4.0,
+          "source_line": "- IML 421 Designing and Writing for Transmedia Narratives Units: 4"
+        },
+        {
+          "code": "IML 422",
+          "title": "Information Visualization",
+          "units": 4.0,
+          "source_line": "- IML 422 Information Visualization Units: 4"
+        },
+        {
+          "code": "IML 423",
+          "title": "Remixing the Archive",
+          "units": 4.0,
+          "source_line": "- IML 423 Remixing the Archive Units: 4"
+        },
+        {
+          "code": "IML 424",
+          "title": "The Music Festival Experience",
+          "units": 4.0,
+          "source_line": "- IML 424 The Music Festival Experience Units: 4"
+        },
+        {
+          "code": "IML 425",
+          "title": "Narrative Across Media",
+          "units": 4.0,
+          "source_line": "- IML 425 Narrative Across Media Units: 4"
+        },
+        {
+          "code": "IML 427",
+          "title": "DIY Music Videos from Critique to Creation",
+          "units": 4.0,
+          "source_line": "- IML 427 DIY Music Videos from Critique to Creation Units: 4"
+        },
+        {
+          "code": "IML 450",
+          "title": "Critical Play and Documentary Games",
+          "units": 4.0,
+          "source_line": "- IML 450 Critical Play and Documentary Games Units: 4"
+        },
+        {
+          "code": "IML 452",
+          "title": "Integrative Design for Mobile Devices",
+          "units": 4.0,
+          "source_line": "- IML 452 Integrative Design for Mobile Devices Units: 4"
+        },
+        {
+          "code": "IML 453",
+          "title": "Design Fiction and Speculative Futures",
+          "units": 4.0,
+          "source_line": "- IML 453 Design Fiction and Speculative Futures Units: 4"
+        },
+        {
+          "code": "IML 455",
+          "title": "Future Cinema",
+          "units": 4.0,
+          "source_line": "- IML 455 Future Cinema Units: 4"
+        },
+        {
+          "code": "IML 456",
+          "title": "Nature, Design and Media",
+          "units": 2.0,
+          "source_line": "- IML 456 Nature, Design and Media Units: 2"
+        },
+        {
+          "code": "IML 458",
+          "title": "The Embedded Story: Designing Digital Landscapes and Languages",
+          "units": 2.0,
+          "source_line": "- IML 458 The Embedded Story: Designing Digital Landscapes and Languages Units: 2"
+        },
+        {
+          "code": "IML 460",
+          "title": "AI and Creativity",
+          "units": 4.0,
+          "source_line": "- IML 460 AI and Creativity Units: 4"
+        },
+        {
+          "code": "IML 475",
+          "title": "Media Arts Research Lab , 3, 4",
+          "units": 2.0,
+          "source_line": "- IML 475 Media Arts Research Lab Units: 2, 3, 4"
+        },
+        {
+          "code": "IML 477",
+          "title": "Embodied Storytelling and Immersive Docu-Narratives",
+          "units": 4.0,
+          "source_line": "- IML 477 Embodied Storytelling and Immersive Docu-Narratives Units: 4"
+        },
+        {
+          "code": "IML 493",
+          "title": "Creativity and Wellbeing , 4",
+          "units": 2.0,
+          "source_line": "- IML 493 Creativity and Wellbeing Units: 2, 4"
+        },
+        {
+          "code": "IML 499",
+          "title": "Special Topics , 3, 4",
+          "units": 2.0,
+          "source_line": "- IML 499 Special Topics Units: 2, 3, 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "This requirement allows students to expand their inquiry into media arts as a discipline. Choose 8 units from the following courses:",
+          "source_line": "This requirement allows students to expand their inquiry into media arts as a discipline. Choose 8 units from the following courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Thesis Sequence",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The media arts and practice major culminates in a digital thesis project that students research, develop and construct during their senior year. These projects will engage a key issue faced by contemporary media arts practitioners and will represent the convergence of conceptual excellence and digital innovation.",
+          "source_line": "The media arts and practice major culminates in a digital thesis project that students research, develop and construct during their senior year. These projects will engage a key issue faced by contemporary media arts practitioners and will represent the convergence of conceptual excellence and digital innovation."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Grade Point Average Requirements",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minimum grade of C (2.0) must be earned in all required and prerequisite courses. A grade of C- (1.7) or lower will not satisfy a major requirement.",
+          "source_line": "A minimum grade of C (2.0) must be earned in all required and prerequisite courses. A grade of C- (1.7) or lower will not satisfy a major requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Curriculum Review",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Media arts and practice majors are expected to meet with an academic adviser every semester to review their progress. Contact the Media Arts and Practice program at map@cinema.usc.edu for an appointment.",
+          "source_line": "Media arts and practice majors are expected to meet with an academic adviser every semester to review their progress. Contact the Media Arts and Practice program at map@cinema.usc.edu for an appointment."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

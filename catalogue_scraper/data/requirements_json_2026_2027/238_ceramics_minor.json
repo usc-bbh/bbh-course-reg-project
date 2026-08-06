@@ -1,0 +1,120 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Ceramics Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31573",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31573&returnto=9396",
+    "source_text_file": "238_ceramics_minor.txt",
+    "source_content_sha256": "d8baabcb3127b92b009499cca4c02f2936ef08f2a7c5d14fa9f0060b0b122d4e",
+    "retrieved_at": "2026-07-31T01:00:08Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 9,
+    "distinct_course_codes": 9,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students enrolled in this minor will be introduced to the rich traditions of ceramic practice — from wheel throwing to 3-D modeling — while encouraging the use of materials and methods as vehicles for individual expression in contemporary art. They will be exposed to lectures and readings in the history of clay and critical writings on the subject. A variety of classes is offered including beginning and advanced ceramics, wheel throwing, clay and glaze formulation, art and technology, modeling and mold making, sculpture, visual literacy and theory and criticism. As students advance in the level of their studies, they can choose to follow a traditional approach to clay and/or pursue exploration and experimentation with the medium including freedom to create mixed-media pieces or to bring technology in to their work. The goal is to create a strong foundation in clay significant to the career path of their choosing. The total number of units is required for this minor is 20.",
+          "source_line": "Students enrolled in this minor will be introduced to the rich traditions of ceramic practice — from wheel throwing to 3-D modeling — while encouraging the use of materials and methods as vehicles for individual expression in contemporary art. They will be exposed to lectures and readings in the history of clay and critical writings on the subject. A variety of classes is offered including beginning and advanced ceramics, wheel throwing, clay and glaze formulation, art and technology, modeling and mold making, sculpture, visual literacy and theory and criticism. As students advance in the level of their studies, they can choose to follow a traditional approach to clay and/or pursue exploration and experimentation with the medium including freedom to create mixed-media pieces or to bring technology in to their work. The goal is to create a strong foundation in clay significant to the career path of their choosing. The total number of units is required for this minor is 20."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required lower-division course (4 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ART 130",
+          "title": "Ceramics I",
+          "units": 4.0,
+          "source_line": "- ART 130 Ceramics I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Three required upper-division courses (10 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ART 330",
+          "title": "Ceramics II",
+          "units": 4.0,
+          "source_line": "- ART 330 Ceramics II Units: 4"
+        },
+        {
+          "code": "ART 432",
+          "title": "Clay and Glazes",
+          "units": 2.0,
+          "source_line": "- ART 432 Clay and Glazes Units: 2"
+        },
+        {
+          "code": "ART 430",
+          "title": "Topics in Advanced Ceramics  max 12",
+          "units": 4.0,
+          "source_line": "- ART 430 Topics in Advanced Ceramics Units: 4 max 12"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-division electives (6 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ART 441",
+          "title": "Installation Art",
+          "units": 4.0,
+          "source_line": "- ART 441 Installation Art Units: 4"
+        },
+        {
+          "code": "ART 442",
+          "title": "Art and Technology",
+          "units": 4.0,
+          "source_line": "- ART 442 Art and Technology Units: 4"
+        },
+        {
+          "code": "ART 443",
+          "title": "Woodworking",
+          "units": 2.0,
+          "source_line": "- ART 443 Woodworking Units: 2"
+        },
+        {
+          "code": "ART 444",
+          "title": "Modeling and Mold Making",
+          "units": 2.0,
+          "source_line": "- ART 444 Modeling and Mold Making Units: 2"
+        },
+        {
+          "code": "ART 445",
+          "title": "Metal",
+          "units": 2.0,
+          "source_line": "- ART 445 Metal Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

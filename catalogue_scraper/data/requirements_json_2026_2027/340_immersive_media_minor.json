@@ -1,0 +1,329 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Immersive Media Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32506",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32506&returnto=9396",
+    "source_text_file": "340_immersive_media_minor.txt",
+    "source_content_sha256": "5ffa4b22dcee5a1176a1f5d99fc48972017ea3798dfba3ea6ad645be24bba711",
+    "retrieved_at": "2026-07-31T01:07:21Z"
+  },
+  "totals": {
+    "stated_total_units": 24.0,
+    "stated_total_units_source": "requires a minimum of 24 units",
+    "unit_statements_verbatim": [
+      "The minor in immersive media requires a minimum of 24 units.",
+      "- CSCI 420 Computer Graphics Units: 4 *\n- CTAN 443L Character Development for 3-D Animation and Games Units: 2 *\n- CTAN 462 Visual Effects Units: 2\n- CTAN 464L Digital Lighting and Rendering Units: 2 *\n- CTAN 465L Digital Effects Animation Units: 2 *\n- CTAN 485 Character Modeling Units: 2\n- CTAN 495 Visual Music Units: 2\n- CTAN 497L Procedural Animation Units: 2 *\n- CTAN 508 Compositing and the Art of Creating Visual Styles Units: 2 * +\n- CTAN 564L Motion Capture Fundamentals Units: 2 * +\n- CTIN 404L User Research for Games Units: 2\n- CTIN 444 Audio Expression Units: 2\n- CTIN 479 Documentary and Activist Games Units: 2\n- CTIN 486 Alternative Control Workshop Units: 2\n- CTIN 489L Intermediate Game Design and Production Units: 4 4 Units: 4\n- CTIN 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8\n- CTIN 492L Experimental Game Topics Units: 4\n- CTIN 503 Interactive Entertainment, Science, and Healthcare Units: 2 +\n- CTWR 405 Storytelling for Virtual and Augmented Reality Units: 2 *\n- CTXA 410 Audio Design for Animation and Immersive Media Units: 2 2 Units: 2\n- IML 335 Introduction to Video Units: 2\n- IML 354 Introduction to 3-D Modeling Units: 2\n- IML 475 Media Arts Research Lab Units: 2, 3, 4\n- IML 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8\n- IML 543 Media Design Studio Units: 4 * +\n- IML 575 Media Arts Research Practicum Units: 2, 3, 4 +\n- TAC 380 Video Game Programming Units: 4 *\n- TAC 450 High Performance Computing in Applied Machine Learning Units: 2 *\n\n## Note:\n\n---\n\n*Prerequisite Required."
+    ],
+    "course_entry_count": 36,
+    "distinct_course_codes": 35,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minor in immersive media is open to all undergraduate students at USC. This interdisciplinary minor provides the opportunity for technically minded students, business and entrepreneurially driven students, and/or creatively driven students to gain knowledge about the virtual reality industry and how to create content effectively. Students can add depth within a specific area by selecting elective courses within the same area or can add breadth by choosing elective courses from two separate areas.",
+          "source_line": "A minor in immersive media is open to all undergraduate students at USC. This interdisciplinary minor provides the opportunity for technically minded students, business and entrepreneurially driven students, and/or creatively driven students to gain knowledge about the virtual reality industry and how to create content effectively. Students can add depth within a specific area by selecting elective courses within the same area or can add breadth by choosing elective courses from two separate areas."
+        },
+        {
+          "text": "To be eligible for the immersive media minor, a student must be in good academic standing and have a declared major. To declare the immersive media minor a student must get permission from the Interactive Media Division (SCI 201), and submit a change of major/minor form to Cinematic Arts Student Services (SCB 105).",
+          "source_line": "To be eligible for the immersive media minor, a student must be in good academic standing and have a declared major. To declare the immersive media minor a student must get permission from the Interactive Media Division (SCI 201), and submit a change of major/minor form to Cinematic Arts Student Services (SCB 105)."
+        },
+        {
+          "text": "The minor in immersive media requires a minimum of 24 units.",
+          "source_line": "The minor in immersive media requires a minimum of 24 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower Division Requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTIN 289",
+          "title": "Game Development Fundamentals",
+          "units": 4.0,
+          "source_line": "- CTIN 289 Game Development Fundamentals Units: 4"
+        },
+        {
+          "code": "CTIN 290",
+          "title": "Digital Media Workshop",
+          "units": 4.0,
+          "source_line": "- CTIN 290 Digital Media Workshop Units: 4"
+        },
+        {
+          "code": "TAC 165",
+          "title": "Introduction to C++ Programming",
+          "units": 2.0,
+          "source_line": "- TAC 165 Introduction to C++ Programming Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper Division Requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTAN 452",
+          "title": "Introduction to 3-D Computer Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 452 Introduction to 3-D Computer Animation Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Units",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTAN 502L",
+          "title": "Experiments in Immersive Design  +",
+          "units": 2.0,
+          "source_line": "- CTAN 502L Experiments in Immersive Design Units: 2 +"
+        },
+        {
+          "code": "CTAN 504L",
+          "title": "Creative Production in Virtual Reality  * +",
+          "units": 2.0,
+          "source_line": "- CTAN 504L Creative Production in Virtual Reality Units: 2 * +"
+        },
+        {
+          "code": "CTIN 492L",
+          "title": "Experimental Game Topics",
+          "units": 4.0,
+          "source_line": "- CTIN 492L Experimental Game Topics Units: 4"
+        },
+        {
+          "code": "IML 436",
+          "title": "Advanced Platform: Hypercinemas  *",
+          "units": 4.0,
+          "source_line": "- IML 436 Advanced Platform: Hypercinemas Units: 4 *"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Take four units from the following list:",
+          "source_line": "Take four units from the following list:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CSCI 420",
+          "title": "Computer Graphics  *",
+          "units": 4.0,
+          "source_line": "- CSCI 420 Computer Graphics Units: 4 *"
+        },
+        {
+          "code": "CTAN 443L",
+          "title": "Character Development for 3-D Animation and Games  *",
+          "units": 2.0,
+          "source_line": "- CTAN 443L Character Development for 3-D Animation and Games Units: 2 *"
+        },
+        {
+          "code": "CTAN 462",
+          "title": "Visual Effects",
+          "units": 2.0,
+          "source_line": "- CTAN 462 Visual Effects Units: 2"
+        },
+        {
+          "code": "CTAN 464L",
+          "title": "Digital Lighting and Rendering  *",
+          "units": 2.0,
+          "source_line": "- CTAN 464L Digital Lighting and Rendering Units: 2 *"
+        },
+        {
+          "code": "CTAN 465L",
+          "title": "Digital Effects Animation  *",
+          "units": 2.0,
+          "source_line": "- CTAN 465L Digital Effects Animation Units: 2 *"
+        },
+        {
+          "code": "CTAN 485",
+          "title": "Character Modeling",
+          "units": 2.0,
+          "source_line": "- CTAN 485 Character Modeling Units: 2"
+        },
+        {
+          "code": "CTAN 495",
+          "title": "Visual Music",
+          "units": 2.0,
+          "source_line": "- CTAN 495 Visual Music Units: 2"
+        },
+        {
+          "code": "CTAN 497L",
+          "title": "Procedural Animation  *",
+          "units": 2.0,
+          "source_line": "- CTAN 497L Procedural Animation Units: 2 *"
+        },
+        {
+          "code": "CTAN 508",
+          "title": "Compositing and the Art of Creating Visual Styles  * +",
+          "units": 2.0,
+          "source_line": "- CTAN 508 Compositing and the Art of Creating Visual Styles Units: 2 * +"
+        },
+        {
+          "code": "CTAN 564L",
+          "title": "Motion Capture Fundamentals  * +",
+          "units": 2.0,
+          "source_line": "- CTAN 564L Motion Capture Fundamentals Units: 2 * +"
+        },
+        {
+          "code": "CTIN 404L",
+          "title": "User Research for Games",
+          "units": 2.0,
+          "source_line": "- CTIN 404L User Research for Games Units: 2"
+        },
+        {
+          "code": "CTIN 444",
+          "title": "Audio Expression",
+          "units": 2.0,
+          "source_line": "- CTIN 444 Audio Expression Units: 2"
+        },
+        {
+          "code": "CTIN 479",
+          "title": "Documentary and Activist Games",
+          "units": 2.0,
+          "source_line": "- CTIN 479 Documentary and Activist Games Units: 2"
+        },
+        {
+          "code": "CTIN 486",
+          "title": "Alternative Control Workshop",
+          "units": 2.0,
+          "source_line": "- CTIN 486 Alternative Control Workshop Units: 2"
+        },
+        {
+          "code": "CTIN 489L",
+          "title": "Intermediate Game Design and Production  4",
+          "units": 4.0,
+          "source_line": "- CTIN 489L Intermediate Game Design and Production Units: 4 4 Units: 4"
+        },
+        {
+          "code": "CTIN 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- CTIN 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "CTIN 492L",
+          "title": "Experimental Game Topics",
+          "units": 4.0,
+          "source_line": "- CTIN 492L Experimental Game Topics Units: 4"
+        },
+        {
+          "code": "CTIN 503",
+          "title": "Interactive Entertainment, Science, and Healthcare  +",
+          "units": 2.0,
+          "source_line": "- CTIN 503 Interactive Entertainment, Science, and Healthcare Units: 2 +"
+        },
+        {
+          "code": "CTWR 405",
+          "title": "Storytelling for Virtual and Augmented Reality  *",
+          "units": 2.0,
+          "source_line": "- CTWR 405 Storytelling for Virtual and Augmented Reality Units: 2 *"
+        },
+        {
+          "code": "CTXA 410",
+          "title": "Audio Design for Animation and Immersive Media  2",
+          "units": 2.0,
+          "source_line": "- CTXA 410 Audio Design for Animation and Immersive Media Units: 2 2 Units: 2"
+        },
+        {
+          "code": "IML 335",
+          "title": "Introduction to Video",
+          "units": 2.0,
+          "source_line": "- IML 335 Introduction to Video Units: 2"
+        },
+        {
+          "code": "IML 354",
+          "title": "Introduction to 3-D Modeling",
+          "units": 2.0,
+          "source_line": "- IML 354 Introduction to 3-D Modeling Units: 2"
+        },
+        {
+          "code": "IML 475",
+          "title": "Media Arts Research Lab , 3, 4",
+          "units": 2.0,
+          "source_line": "- IML 475 Media Arts Research Lab Units: 2, 3, 4"
+        },
+        {
+          "code": "IML 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- IML 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "IML 543",
+          "title": "Media Design Studio  * +",
+          "units": 4.0,
+          "source_line": "- IML 543 Media Design Studio Units: 4 * +"
+        },
+        {
+          "code": "IML 575",
+          "title": "Media Arts Research Practicum , 3, 4 +",
+          "units": 2.0,
+          "source_line": "- IML 575 Media Arts Research Practicum Units: 2, 3, 4 +"
+        },
+        {
+          "code": "TAC 380",
+          "title": "Video Game Programming  *",
+          "units": 4.0,
+          "source_line": "- TAC 380 Video Game Programming Units: 4 *"
+        },
+        {
+          "code": "TAC 450",
+          "title": "High Performance Computing in Applied Machine Learning  *",
+          "units": 2.0,
+          "source_line": "- TAC 450 High Performance Computing in Applied Machine Learning Units: 2 *"
+        }
+      ],
+      "notes": [
+        {
+          "text": "A minimum of eight units is required.",
+          "source_line": "A minimum of eight units is required."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Prerequisite Required.",
+          "source_line": "*Prerequisite Required."
+        },
+        {
+          "text": "+Enrollment in graduate-level courses requires special permission.",
+          "source_line": "+Enrollment in graduate-level courses requires special permission."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

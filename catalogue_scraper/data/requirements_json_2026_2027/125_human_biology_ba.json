@@ -1,0 +1,460 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Human Biology (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31720",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31720&returnto=9396",
+    "source_text_file": "125_human_biology_ba.txt",
+    "source_content_sha256": "baf8da369b77e34c55628685b6e466a7517eb5ba79a77817a440133355b321fb",
+    "retrieved_at": "2026-07-31T00:54:51Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "#### Summary of Requirements\n\nStudents must complete the general core consisting of 21 units.",
+      "In addition, they must select 16 units from one of the three track modules below, as well as 8 additional units from the restricted elective list or any other track in the major.",
+      "Total requirements: 45 units including at least 24 upper-division.",
+      "## General Core (21 Units)\n\n---\n\n- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or\n- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4 or\n- HBIO 200Lg The Human Animal Units: 4\n-\n- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or\n- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4\n-\n- HBIO 120 Introduction to Human and Evolutionary Biology Units: 1\n- HBIO 202Lg Nutrition for Life Units: 4\n- HBIO 301L Human Anatomy Units: 4\n-\n- MATH 108g Contemporary Precalculus Units: 4 or\n- MATH 125g Calculus I Units: 4 or\n- MATH 126g Calculus II Units: 4\n\n## Major Track (16 Units)\n\n---\n\nChoose 16 units from one of the track modules below.",
+      "### Human Physiology and Metabolism (16 units)\n\n---\n\nThe Human Physiology and Metabolism track explores human movement through the study of body form and function, using general principles of physiology, and biomechanics.",
+      "- HBIO 302L Nutrition and Metabolism Units: 4 *\n- HBIO 370 Genetics and Disease Units: 4 *\n- HBIO 360L Nutrition and Disease Units: 4 *\n- HBIO 407L Endocrinology and Metabolism Units: 4 *\n- HBIO 408L Biomechanics Units: 4 *\n- HBIO 420L Applied Human Physiology Units: 4 *\n\n### Human Evolutionary Biology (16 units)\n\n---\n\nThe Human Evolution track examines how and why humans evolved using evolutionary mechanisms and hypotheses.",
+      "- HBIO 300 Evolution, Ecology, and Culture Units: 4\n- HBIO 306 Biology of the Non-Human Primates Units: 4\n- HBIO 308 Origins and Evolution of Human Behavior Units: 4\n- HBIO 403L Forensic Science of the Bones Units: 4 *\n- HBIO 405 Evolutionary Medicine Units: 4 *\n- HBIO 406 Theory and Method in Human Evolutionary Biology Units: 4 *\n\n### Human Performance (16 units)\n\n---\n\nThe Human Performance track examines the scientific link between nutrition, athletic performance and the physiological response to exercise.",
+      "- HBIO 250g The Pharmacology of Performance-Enhancing Drugs Units: 4\n- HBIO 320 Muscle Physiology Units: 4 *\n- HBIO 400L Motor Control and Learning Units: 4 *\n- HBIO 401L Physiology of Movement Units: 4 *\n- HBIO 441L Prevention of Athletic Injuries Units: 4 *\n\n## Restricted Electives (8 Units)\n\n---\n\nA minimum of 8 units is required."
+    ],
+    "course_entry_count": 51,
+    "distinct_course_codes": 51,
+    "section_count": 9
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The section of Human and Evolutionary Biology within the Department of Biological Sciences oversees the Human Biology BA at USC. This degree is designed for students seeking a course of study in human applied physiology and metabolism, performance and/or human evolution. The Human Biology BA is an excellent option for students pursuing pre-professional education in the fields of physical therapy, nutrition, pharmacology, sports training, kinesiology, biomechanics, human evolution, primatology, evolutionary biology, etc.",
+          "source_line": "The section of Human and Evolutionary Biology within the Department of Biological Sciences oversees the Human Biology BA at USC. This degree is designed for students seeking a course of study in human applied physiology and metabolism, performance and/or human evolution. The Human Biology BA is an excellent option for students pursuing pre-professional education in the fields of physical therapy, nutrition, pharmacology, sports training, kinesiology, biomechanics, human evolution, primatology, evolutionary biology, etc."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Summary of Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students must complete the general core consisting of 21 units. In addition, they must select 16 units from one of the three track modules below, as well as 8 additional units from the restricted elective list or any other track in the major. No more than one course may be lower division (100- or 200-level) from the major track and electives combined. Total requirements: 45 units including at least 24 upper-division.",
+          "source_line": "Students must complete the general core consisting of 21 units. In addition, they must select 16 units from one of the three track modules below, as well as 8 additional units from the restricted elective list or any other track in the major. No more than one course may be lower division (100- or 200-level) from the major track and electives combined. Total requirements: 45 units including at least 24 upper-division.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Students must complete the general core consisting of 21 units. In addition, they must select 16 units from one of the three track modules below, as well as 8 additional units from the restricted elective list or any other track in the major. No more than one course may be lower division (100- or 200-level) from the major track and electives combined. Total requirements: 45 units including at least 24 upper-division.",
+      "total_units": null
+    },
+    {
+      "title": "General Core (21 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 120Lg",
+          "title": "General Biology: Organismal Biology and Evolution  or",
+          "units": 4.0,
+          "source_line": "- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or"
+        },
+        {
+          "code": "BISC 121Lg",
+          "title": "Advanced General Biology: Organismal Biology and Evolution  or",
+          "units": 4.0,
+          "source_line": "- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4 or"
+        },
+        {
+          "code": "HBIO 200Lg",
+          "title": "The Human Animal",
+          "units": 4.0,
+          "source_line": "- HBIO 200Lg The Human Animal Units: 4"
+        },
+        {
+          "code": "BISC 220Lg",
+          "title": "General Biology: Cell Biology and Physiology  or",
+          "units": 4.0,
+          "source_line": "- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or"
+        },
+        {
+          "code": "BISC 221Lg",
+          "title": "Advanced General Biology: Cell Biology and Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4"
+        },
+        {
+          "code": "HBIO 120",
+          "title": "Introduction to Human and Evolutionary Biology",
+          "units": 1.0,
+          "source_line": "- HBIO 120 Introduction to Human and Evolutionary Biology Units: 1"
+        },
+        {
+          "code": "HBIO 202Lg",
+          "title": "Nutrition for Life",
+          "units": 4.0,
+          "source_line": "- HBIO 202Lg Nutrition for Life Units: 4"
+        },
+        {
+          "code": "HBIO 301L",
+          "title": "Human Anatomy",
+          "units": 4.0,
+          "source_line": "- HBIO 301L Human Anatomy Units: 4"
+        },
+        {
+          "code": "MATH 108g",
+          "title": "Contemporary Precalculus  or",
+          "units": 4.0,
+          "source_line": "- MATH 108g Contemporary Precalculus Units: 4 or"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I  or",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4 or"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Major Track (16 Units)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Choose 16 units from one of the track modules below.",
+          "source_line": "Choose 16 units from one of the track modules below.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose 16 units from one of the track modules below.",
+      "total_units": null
+    },
+    {
+      "title": "Human Physiology and Metabolism (16 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "HBIO 302L",
+          "title": "Nutrition and Metabolism  *",
+          "units": 4.0,
+          "source_line": "- HBIO 302L Nutrition and Metabolism Units: 4 *"
+        },
+        {
+          "code": "HBIO 370",
+          "title": "Genetics and Disease  *",
+          "units": 4.0,
+          "source_line": "- HBIO 370 Genetics and Disease Units: 4 *"
+        },
+        {
+          "code": "HBIO 360L",
+          "title": "Nutrition and Disease  *",
+          "units": 4.0,
+          "source_line": "- HBIO 360L Nutrition and Disease Units: 4 *"
+        },
+        {
+          "code": "HBIO 407L",
+          "title": "Endocrinology and Metabolism  *",
+          "units": 4.0,
+          "source_line": "- HBIO 407L Endocrinology and Metabolism Units: 4 *"
+        },
+        {
+          "code": "HBIO 408L",
+          "title": "Biomechanics  *",
+          "units": 4.0,
+          "source_line": "- HBIO 408L Biomechanics Units: 4 *"
+        },
+        {
+          "code": "HBIO 420L",
+          "title": "Applied Human Physiology  *",
+          "units": 4.0,
+          "source_line": "- HBIO 420L Applied Human Physiology Units: 4 *"
+        }
+      ],
+      "notes": [
+        {
+          "text": "The Human Physiology and Metabolism track explores human movement through the study of body form and function, using general principles of physiology, and biomechanics. Courses in this track further examine physiology and nutrition with an emphasis on human health and disease.",
+          "source_line": "The Human Physiology and Metabolism track explores human movement through the study of body form and function, using general principles of physiology, and biomechanics. Courses in this track further examine physiology and nutrition with an emphasis on human health and disease."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Human Evolutionary Biology (16 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "HBIO 300",
+          "title": "Evolution, Ecology, and Culture",
+          "units": 4.0,
+          "source_line": "- HBIO 300 Evolution, Ecology, and Culture Units: 4"
+        },
+        {
+          "code": "HBIO 306",
+          "title": "Biology of the Non-Human Primates",
+          "units": 4.0,
+          "source_line": "- HBIO 306 Biology of the Non-Human Primates Units: 4"
+        },
+        {
+          "code": "HBIO 308",
+          "title": "Origins and Evolution of Human Behavior",
+          "units": 4.0,
+          "source_line": "- HBIO 308 Origins and Evolution of Human Behavior Units: 4"
+        },
+        {
+          "code": "HBIO 403L",
+          "title": "Forensic Science of the Bones  *",
+          "units": 4.0,
+          "source_line": "- HBIO 403L Forensic Science of the Bones Units: 4 *"
+        },
+        {
+          "code": "HBIO 405",
+          "title": "Evolutionary Medicine  *",
+          "units": 4.0,
+          "source_line": "- HBIO 405 Evolutionary Medicine Units: 4 *"
+        },
+        {
+          "code": "HBIO 406",
+          "title": "Theory and Method in Human Evolutionary Biology  *",
+          "units": 4.0,
+          "source_line": "- HBIO 406 Theory and Method in Human Evolutionary Biology Units: 4 *"
+        }
+      ],
+      "notes": [
+        {
+          "text": "The Human Evolution track examines how and why humans evolved using evolutionary mechanisms and hypotheses. The track courses explore paleo-human ancestors, primates (prosimians, monkeys and apes), and the impact of society and culture on evolution.",
+          "source_line": "The Human Evolution track examines how and why humans evolved using evolutionary mechanisms and hypotheses. The track courses explore paleo-human ancestors, primates (prosimians, monkeys and apes), and the impact of society and culture on evolution."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Human Performance (16 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "HBIO 250g",
+          "title": "The Pharmacology of Performance-Enhancing Drugs",
+          "units": 4.0,
+          "source_line": "- HBIO 250g The Pharmacology of Performance-Enhancing Drugs Units: 4"
+        },
+        {
+          "code": "HBIO 320",
+          "title": "Muscle Physiology  *",
+          "units": 4.0,
+          "source_line": "- HBIO 320 Muscle Physiology Units: 4 *"
+        },
+        {
+          "code": "HBIO 400L",
+          "title": "Motor Control and Learning  *",
+          "units": 4.0,
+          "source_line": "- HBIO 400L Motor Control and Learning Units: 4 *"
+        },
+        {
+          "code": "HBIO 401L",
+          "title": "Physiology of Movement  *",
+          "units": 4.0,
+          "source_line": "- HBIO 401L Physiology of Movement Units: 4 *"
+        },
+        {
+          "code": "HBIO 441L",
+          "title": "Prevention of Athletic Injuries  *",
+          "units": 4.0,
+          "source_line": "- HBIO 441L Prevention of Athletic Injuries Units: 4 *"
+        }
+      ],
+      "notes": [
+        {
+          "text": "The Human Performance track examines the scientific link between nutrition, athletic performance and the physiological response to exercise. The track further provides students with knowledge of prevention, treatment and rehabilitation of athletic injuries.",
+          "source_line": "The Human Performance track examines the scientific link between nutrition, athletic performance and the physiological response to exercise. The track further provides students with knowledge of prevention, treatment and rehabilitation of athletic injuries."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Restricted Electives (8 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 300L",
+          "title": "Microbiology  *",
+          "units": 4.0,
+          "source_line": "- BISC 300L Microbiology Units: 4 *"
+        },
+        {
+          "code": "BISC 307L",
+          "title": "General Physiology  *",
+          "units": 4.0,
+          "source_line": "- BISC 307L General Physiology Units: 4 *"
+        },
+        {
+          "code": "BISC 312x",
+          "title": "Molecular Biochemistry  *",
+          "units": 4.0,
+          "source_line": "- BISC 312x Molecular Biochemistry Units: 4 *"
+        },
+        {
+          "code": "BISC 313L",
+          "title": "Evolution and Population Genetics  *",
+          "units": 4.0,
+          "source_line": "- BISC 313L Evolution and Population Genetics Units: 4 *"
+        },
+        {
+          "code": "BISC 320Lg",
+          "title": "Molecular Biology  *",
+          "units": 4.0,
+          "source_line": "- BISC 320Lg Molecular Biology Units: 4 *"
+        },
+        {
+          "code": "BISC 325",
+          "title": "Genetics  *",
+          "units": 4.0,
+          "source_line": "- BISC 325 Genetics Units: 4 *"
+        },
+        {
+          "code": "BISC 421",
+          "title": "Neurobiology  *",
+          "units": 4.0,
+          "source_line": "- BISC 421 Neurobiology Units: 4 *"
+        },
+        {
+          "code": "BISC 423",
+          "title": "Epilepsy to Ecstasy: Biological Basis of Neurological Disorders  *",
+          "units": 4.0,
+          "source_line": "- BISC 423 Epilepsy to Ecstasy: Biological Basis of Neurological Disorders Units: 4 *"
+        },
+        {
+          "code": "BISC 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8 (4 Units Required) *",
+          "units": 1.0,
+          "source_line": "- BISC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 (4 Units Required) *"
+        },
+        {
+          "code": "CHEM 322aL",
+          "title": "Organic Chemistry  *",
+          "units": 4.0,
+          "source_line": "- CHEM 322aL Organic Chemistry Units: 4 *"
+        },
+        {
+          "code": "CHEM 322bL",
+          "title": "Organic Chemistry  *",
+          "units": 4.0,
+          "source_line": "- CHEM 322bL Organic Chemistry Units: 4 *"
+        },
+        {
+          "code": "HBIO 309",
+          "title": "The Human Machine",
+          "units": 4.0,
+          "source_line": "- HBIO 309 The Human Machine Units: 4"
+        },
+        {
+          "code": "HBIO 409",
+          "title": "Metabolic Diseases  *",
+          "units": 4.0,
+          "source_line": "- HBIO 409 Metabolic Diseases Units: 4 *"
+        },
+        {
+          "code": "HBIO 435",
+          "title": "Neurobiology of Feeding Behavior and Obesity  *",
+          "units": 4.0,
+          "source_line": "- HBIO 435 Neurobiology of Feeding Behavior and Obesity Units: 4 *"
+        },
+        {
+          "code": "HBIO 439L",
+          "title": "Human Performance and Bioenergetics  or 4 (4 Units Required) *",
+          "units": 2.0,
+          "source_line": "- HBIO 439L Human Performance and Bioenergetics Units: 2 or 4 (4 Units Required) *"
+        },
+        {
+          "code": "HBIO 442L",
+          "title": "Evaluation and Rehabilitation of Athletic Injuries  *",
+          "units": 4.0,
+          "source_line": "- HBIO 442L Evaluation and Rehabilitation of Athletic Injuries Units: 4 *"
+        },
+        {
+          "code": "HBIO 491L",
+          "title": "Laboratory Experience in Kinesiology , 4 *",
+          "units": 2.0,
+          "source_line": "- HBIO 491L Laboratory Experience in Kinesiology Units: 2, 4 *"
+        },
+        {
+          "code": "MATH 114xg",
+          "title": "Foundations of Statistics  or",
+          "units": 4.0,
+          "source_line": "- MATH 114xg Foundations of Statistics Units: 4 or"
+        },
+        {
+          "code": "MATH 208x",
+          "title": "Elementary Probability and Statistics  or",
+          "units": 4.0,
+          "source_line": "- MATH 208x Elementary Probability and Statistics Units: 4 or"
+        },
+        {
+          "code": "PSYC 274Lg",
+          "title": "Statistics  *",
+          "units": 4.0,
+          "source_line": "- PSYC 274Lg Statistics Units: 4 *"
+        },
+        {
+          "code": "PSYC 339Lg",
+          "title": "Origins of the Mind  *",
+          "units": 4.0,
+          "source_line": "- PSYC 339Lg Origins of the Mind Units: 4 *"
+        },
+        {
+          "code": "PSYC 360",
+          "title": "Psychological Disorders  *",
+          "units": 4.0,
+          "source_line": "- PSYC 360 Psychological Disorders Units: 4 *"
+        },
+        {
+          "code": "QBIO 305g",
+          "title": "Statistics for Biological Sciences",
+          "units": 4.0,
+          "source_line": "- QBIO 305g Statistics for Biological Sciences Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "A minimum of 8 units is required. Courses can be selected from the elective list below or from any other track in the major.",
+          "source_line": "A minimum of 8 units is required. Courses can be selected from the elective list below or from any other track in the major."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Prerequisite required",
+          "source_line": "*Prerequisite required"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

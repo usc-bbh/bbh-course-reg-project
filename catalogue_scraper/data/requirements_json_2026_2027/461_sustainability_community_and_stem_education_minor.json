@@ -1,0 +1,207 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Sustainability, Community and STEM Education Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32922",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32922&returnto=9396",
+    "source_text_file": "461_sustainability_community_and_stem_education_minor.txt",
+    "source_content_sha256": "18d4faa1e1f12cd2c26094a82bb24184d8b894046467242653d9d240ab761143",
+    "retrieved_at": "2026-07-31T01:14:02Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "##### The required course work consists of 20 units.",
+      "Core Courses (Each course is 4 units):\n\n- EDUC 477 – Explores community-driven sustainability initiatives, integrating environmental literacy with STEM education to design interdisciplinary projects that promote equity and civic engagement."
+    ],
+    "course_entry_count": 10,
+    "distinct_course_codes": 5,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Sustainability, Community and STEM Education (SCSE) minor prepares future educators to integrate sustainability principles into STEM education while fostering equitable and inclusive learning environments. Designed for those interested in teaching science (biological sciences, chemistry, geoscience or physics) at the secondary level, the SCSE minor equips students with the pedagogical and content knowledge necessary to engage diverse learners in sustainability-focused STEM instruction.",
+          "source_line": "The Sustainability, Community and STEM Education (SCSE) minor prepares future educators to integrate sustainability principles into STEM education while fostering equitable and inclusive learning environments. Designed for those interested in teaching science (biological sciences, chemistry, geoscience or physics) at the secondary level, the SCSE minor equips students with the pedagogical and content knowledge necessary to engage diverse learners in sustainability-focused STEM instruction."
+        },
+        {
+          "text": "Through interdisciplinary course work and clinical field experiences in urban schools and community organizations, students will develop the skills to design NGSS-aligned unit plans, implement equity-centered sustainability lessons and engage in real-world problem-solving. The program emphasizes systems thinking, inclusive instructional strategies and the application of Sustainable Development Goals (SDGs) in STEM education.",
+          "source_line": "Through interdisciplinary course work and clinical field experiences in urban schools and community organizations, students will develop the skills to design NGSS-aligned unit plans, implement equity-centered sustainability lessons and engage in real-world problem-solving. The program emphasizes systems thinking, inclusive instructional strategies and the application of Sustainable Development Goals (SDGs) in STEM education."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Features and Career Pathways",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The SCSE minor aligns with USC’s Assignment: Earth initiative and national trends emphasizing sustainability in education. Graduates will be well-positioned for careers as:",
+          "source_line": "The SCSE minor aligns with USC’s Assignment: Earth initiative and national trends emphasizing sustainability in education. Graduates will be well-positioned for careers as:"
+        },
+        {
+          "text": "Secondary STEM educators with sustainability expertise",
+          "source_line": "- Secondary STEM educators with sustainability expertise"
+        },
+        {
+          "text": "Environmental education specialists",
+          "source_line": "- Environmental education specialists"
+        },
+        {
+          "text": "Curriculum designers focused on sustainability and equity",
+          "source_line": "- Curriculum designers focused on sustainability and equity"
+        },
+        {
+          "text": "Science and sustainability policymakers",
+          "source_line": "- Science and sustainability policymakers"
+        },
+        {
+          "text": "STEM-focused instructional leaders",
+          "source_line": "- STEM-focused instructional leaders"
+        },
+        {
+          "text": "As a California-based licensure program, candidates enrolled in the SCSE minor must satisfy requirements in addition to the courses listed below. Please refer to the information about these requirements in the Credential Programs section of the Rossier School section of the catalogue.",
+          "source_line": "As a California-based licensure program, candidates enrolled in the SCSE minor must satisfy requirements in addition to the courses listed below. Please refer to the information about these requirements in the Credential Programs section of the Rossier School section of the catalogue."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "The required course work consists of 20 units. Core Courses (Each course is 4 units):",
+      "level": 5,
+      "courses": [
+        {
+          "code": "EDUC 477",
+          "title": "– Explores community-driven sustainability initiatives, integrating environmental literacy with STEM education to design interdisciplinary projects that promote equity and civic engagement",
+          "units": null,
+          "source_line": "- EDUC 477 – Explores community-driven sustainability initiatives, integrating environmental literacy with STEM education to design interdisciplinary projects that promote equity and civic engagement."
+        },
+        {
+          "code": "EDUC 478",
+          "title": "– Examines how digital tools, AI and engineering practices can be leveraged to teach sustainability in STEM, with an emphasis on culturally responsive and ethical technology use",
+          "units": null,
+          "source_line": "- EDUC 478 – Examines how digital tools, AI and engineering practices can be leveraged to teach sustainability in STEM, with an emphasis on culturally responsive and ethical technology use."
+        },
+        {
+          "code": "EDUC 481",
+          "title": "– Focuses on systems thinking, interdisciplinary teaching and the use of Sustainable Development Goals (SDGs) to create sustainability-focused STEM curricula",
+          "units": null,
+          "source_line": "- EDUC 481 – Focuses on systems thinking, interdisciplinary teaching and the use of Sustainable Development Goals (SDGs) to create sustainability-focused STEM curricula."
+        },
+        {
+          "code": "EDUC 483",
+          "title": "– Investigates how STEM education can address sustainability and career pathways while incorporating social-emotional learning and equity-based instructional practices",
+          "units": null,
+          "source_line": "- EDUC 483 – Investigates how STEM education can address sustainability and career pathways while incorporating social-emotional learning and equity-based instructional practices."
+        },
+        {
+          "code": "EDUC 485",
+          "title": "(Maymester Capstone) - A hands-on teaching experience where students design, implement and assess sustainability-focused STEM lessons in real-world classroom or community settings",
+          "units": null,
+          "source_line": "- EDUC 485 (Maymester Capstone) - A hands-on teaching experience where students design, implement and assess sustainability-focused STEM lessons in real-world classroom or community settings."
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Clinical Fieldwork and Practicum",
+      "level": 5,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students in the SCSE minor engage in clinical placements in secondary science classrooms and community-based sustainability projects, totaling up to 838 hours of fieldwork. The Maymester capstone experience further deepens students’ ability to apply instructional strategies and sustainability principles in authentic educational settings.",
+          "source_line": "Students in the SCSE minor engage in clinical placements in secondary science classrooms and community-based sustainability projects, totaling up to 838 hours of fieldwork. The Maymester capstone experience further deepens students’ ability to apply instructional strategies and sustainability principles in authentic educational settings."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Benefits",
+      "level": 5,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Prepares future STEM educators to integrate sustainability into science instruction",
+          "source_line": "- Prepares future STEM educators to integrate sustainability into science instruction"
+        },
+        {
+          "text": "Equips students with interdisciplinary teaching strategies and real-world applications",
+          "source_line": "- Equips students with interdisciplinary teaching strategies and real-world applications"
+        },
+        {
+          "text": "Fulfills credentialing requirements for secondary science education in California",
+          "source_line": "- Fulfills credentialing requirements for secondary science education in California"
+        },
+        {
+          "text": "Provides hands-on experience through clinical practice in urban schools and community organizations",
+          "source_line": "- Provides hands-on experience through clinical practice in urban schools and community organizations"
+        },
+        {
+          "text": "Positions graduates for careers in science education, sustainability policy, and curriculum design",
+          "source_line": "- Positions graduates for careers in science education, sustainability policy, and curriculum design"
+        },
+        {
+          "text": "The SCSE minor is open to all USC undergraduates and may be completed in one or two academic years. By combining sustainability with STEM education, the program empowers students to become leaders in equity-focused science teaching and environmental advocacy.",
+          "source_line": "The SCSE minor is open to all USC undergraduates and may be completed in one or two academic years. By combining sustainability with STEM education, the program empowers students to become leaders in equity-focused science teaching and environmental advocacy."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (20 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "EDUC 477",
+          "title": "Community-Based Sustainability and STEM Education",
+          "units": 4.0,
+          "source_line": "- EDUC 477 Community-Based Sustainability and STEM Education Units: 4"
+        },
+        {
+          "code": "EDUC 478",
+          "title": "Teaching STEM, Sustainability, Technology and Engineering",
+          "units": 4.0,
+          "source_line": "- EDUC 478 Teaching STEM, Sustainability, Technology and Engineering Units: 4"
+        },
+        {
+          "code": "EDUC 481",
+          "title": "Sustainable and Equitable STEM Literacies",
+          "units": 4.0,
+          "source_line": "- EDUC 481 Sustainable and Equitable STEM Literacies Units: 4"
+        },
+        {
+          "code": "EDUC 483",
+          "title": "Inclusive Practices in Sustainability and STEM Education",
+          "units": 4.0,
+          "source_line": "- EDUC 483 Inclusive Practices in Sustainability and STEM Education Units: 4"
+        },
+        {
+          "code": "EDUC 485",
+          "title": "Applied Teaching in Sustainable STEM Education",
+          "units": 4.0,
+          "source_line": "- EDUC 485 Applied Teaching in Sustainable STEM Education Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

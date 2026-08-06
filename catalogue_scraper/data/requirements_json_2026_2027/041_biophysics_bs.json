@@ -1,0 +1,213 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Biophysics (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31890",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31890&returnto=9396",
+    "source_text_file": "041_biophysics_bs.txt",
+    "source_content_sha256": "69976ada3dd697e3334b7499f95aa08c5a0bd0685fd8f70f3bb72c00d28107d4",
+    "retrieved_at": "2026-07-31T00:50:28Z"
+  },
+  "totals": {
+    "stated_total_units": 84.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "## Required Lower-Division Courses\n\n---\n\n- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4\n- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4\n- CHEM 115aLg Advanced General Chemistry Units: 4 *\n- CHEM 115bL Advanced General Chemistry Units: 4 *\n- MATH 125g Calculus I Units: 4\n- MATH 225 Linear Algebra and Linear Differential Equations Units: 4\n- MATH 226g Calculus III Units: 4\n- PHYS 161Lg Advanced Principles of Physics I Units: 4\n- PHYS 162L Advanced Principles of Physics II Units: 4\n- PHYS 163L Advanced Principles of Physics III Units: 4\n- PHYS 190 Physics Discovery Series Units: 4\n\n## Required Upper-Division Courses\n\n---\n\n- BISC 320Lg Molecular Biology Units: 4\n- BISC 330L Biochemistry Units: 4\n- CHEM 322aL Organic Chemistry Units: 4\n- CHEM 322bL Organic Chemistry Units: 4\n- MATH 445 Mathematics of Physics and Engineering II Units: 4\n- PHYS 304 Mechanics Units: 4\n- PHYS 316 Thermodynamics and Statistical Mechanics Units: 4\n- PHYS 408a Electricity and Magnetism Units: 4\n- PHYS 438a Introduction to Quantum Mechanics and its Applications Units: 4\n- PHYS 444 Physical Biology: From Molecules to Cells Units: 4\n\n## Departmental Honors\n\n---\n\nFor those wishing to pursue an honors degree, a senior thesis with at least 2 units of PHYS 490x is also required."
+    ],
+    "course_entry_count": 22,
+    "distinct_course_codes": 22,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This program is intended for students with an interest in the interdisciplinary field of biophysics. The degree program provides the physics and biology background necessary for the field while simultaneously fulfilling medical school entrance requirements.",
+          "source_line": "This program is intended for students with an interest in the interdisciplinary field of biophysics. The degree program provides the physics and biology background necessary for the field while simultaneously fulfilling medical school entrance requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Lower-Division Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 120Lg",
+          "title": "General Biology: Organismal Biology and Evolution",
+          "units": 4.0,
+          "source_line": "- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4"
+        },
+        {
+          "code": "BISC 220Lg",
+          "title": "General Biology: Cell Biology and Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4"
+        },
+        {
+          "code": "CHEM 115aLg",
+          "title": "Advanced General Chemistry  *",
+          "units": 4.0,
+          "source_line": "- CHEM 115aLg Advanced General Chemistry Units: 4 *"
+        },
+        {
+          "code": "CHEM 115bL",
+          "title": "Advanced General Chemistry  *",
+          "units": 4.0,
+          "source_line": "- CHEM 115bL Advanced General Chemistry Units: 4 *"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "MATH 225",
+          "title": "Linear Algebra and Linear Differential Equations",
+          "units": 4.0,
+          "source_line": "- MATH 225 Linear Algebra and Linear Differential Equations Units: 4"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4"
+        },
+        {
+          "code": "PHYS 161Lg",
+          "title": "Advanced Principles of Physics I",
+          "units": 4.0,
+          "source_line": "- PHYS 161Lg Advanced Principles of Physics I Units: 4"
+        },
+        {
+          "code": "PHYS 162L",
+          "title": "Advanced Principles of Physics II",
+          "units": 4.0,
+          "source_line": "- PHYS 162L Advanced Principles of Physics II Units: 4"
+        },
+        {
+          "code": "PHYS 163L",
+          "title": "Advanced Principles of Physics III",
+          "units": 4.0,
+          "source_line": "- PHYS 163L Advanced Principles of Physics III Units: 4"
+        },
+        {
+          "code": "PHYS 190",
+          "title": "Physics Discovery Series",
+          "units": 4.0,
+          "source_line": "- PHYS 190 Physics Discovery Series Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Upper-Division Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 320Lg",
+          "title": "Molecular Biology",
+          "units": 4.0,
+          "source_line": "- BISC 320Lg Molecular Biology Units: 4"
+        },
+        {
+          "code": "BISC 330L",
+          "title": "Biochemistry",
+          "units": 4.0,
+          "source_line": "- BISC 330L Biochemistry Units: 4"
+        },
+        {
+          "code": "CHEM 322aL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 322aL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 322bL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 322bL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "MATH 445",
+          "title": "Mathematics of Physics and Engineering II",
+          "units": 4.0,
+          "source_line": "- MATH 445 Mathematics of Physics and Engineering II Units: 4"
+        },
+        {
+          "code": "PHYS 304",
+          "title": "Mechanics",
+          "units": 4.0,
+          "source_line": "- PHYS 304 Mechanics Units: 4"
+        },
+        {
+          "code": "PHYS 316",
+          "title": "Thermodynamics and Statistical Mechanics",
+          "units": 4.0,
+          "source_line": "- PHYS 316 Thermodynamics and Statistical Mechanics Units: 4"
+        },
+        {
+          "code": "PHYS 408a",
+          "title": "Electricity and Magnetism",
+          "units": 4.0,
+          "source_line": "- PHYS 408a Electricity and Magnetism Units: 4"
+        },
+        {
+          "code": "PHYS 438a",
+          "title": "Introduction to Quantum Mechanics and its Applications",
+          "units": 4.0,
+          "source_line": "- PHYS 438a Introduction to Quantum Mechanics and its Applications Units: 4"
+        },
+        {
+          "code": "PHYS 444",
+          "title": "Physical Biology: From Molecules to Cells",
+          "units": 4.0,
+          "source_line": "- PHYS 444 Physical Biology: From Molecules to Cells Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Departmental Honors",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "For those wishing to pursue an honors degree, a senior thesis with at least 2 units of PHYS 490x is also required. Students who maintain a GPA of at least 3.5 in physics courses are eligible for graduation with honors, or high honors with a GPA of at least 3.8.",
+          "source_line": "For those wishing to pursue an honors degree, a senior thesis with at least 2 units of PHYS 490x is also required. Students who maintain a GPA of at least 3.5 in physics courses are eligible for graduation with honors, or high honors with a GPA of at least 3.8."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 84",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CHEM 105aLg",
+          "title": "and CHEM 105bL may be substituted for the sequence CHEM 115aLg and CHEM 115bL",
+          "units": null,
+          "source_line": "*CHEM 105aLg and CHEM 105bL may be substituted for the sequence CHEM 115aLg and CHEM 115bL"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": 84.0
+    }
+  ],
+  "parse_warnings": []
+}

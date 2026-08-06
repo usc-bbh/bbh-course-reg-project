@@ -1,0 +1,325 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Game Art (BFA)",
+    "credential": "BFA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32728",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32728&returnto=9396",
+    "source_text_file": "114_game_art_bfa.txt",
+    "source_content_sha256": "fab59bb2383895d8511f3e1804bbf501667581bcdc35073a0fcde2a8c1d63529",
+    "retrieved_at": "2026-07-31T00:54:27Z"
+  },
+  "totals": {
+    "stated_total_units": 128.0,
+    "stated_total_units_source": "degree requires 128 units",
+    "unit_statements_verbatim": [
+      "The degree requires 128 units, including 58 units in the major.",
+      "​\n\nThe Bachelor of Fine Arts in Game Art requires a minimum of 128 units, with 58 units required for the major.",
+      "## Required Courses\n\n---\n\n- ART 207a Two-Dimensional Art Workshop Units: 2\n- ART 207b Two-Dimensional Art Workshop Units: 2\n- CNTV 101 Reality Starts Here Units: 2\n- CTCS 150gw The Cinematic Arts in Society Units: 4\n- CTAN 452 Introduction to 3-D Computer Animation Units: 2\n- CTIN 290 Digital Media Workshop Units: 4\n- CTIN 488 Game Design Workshop Units: 4\n- CTIN 489L Intermediate Game Design and Production Units: 4\n- Capstone Requirements\n- CTIN 491L Advanced Game Project I Units: 4\n- CTIN 493L Advanced Game Project II Units: 2\n- CTIN 498 Game Art Capstone Units: 2\n\n## Electives\n\n---\n\nAt least 26 units must be taken from the following list:\n\n- CTAN 280 Intermediate Character Animation for Games Units: 4\n- CTAN 420 Concept Design for Animation Units: 2\n- CTAN 455L Organic Modeling for Animation Units: 2 *\n- CTAN 460 Character Design Workshop Units: 2\n- CTAN 464L Digital Lighting and Rendering Units: 2 *\n- CTAN 465L Digital Effects Animation Units: 2 *\n- CTAN 480 Advanced Character Animation for Games Units: 2\n- CTAN 485 Character Modeling Units: 2\n- CTAN 497L Procedural Animation Units: 2 *\n- CTAN 564L Motion Capture Fundamentals Units: 2 **\n- CTIN 190 Introduction to Interactive Entertainment Units: 4\n- CTIN 191 Survey of Themed Entertainment Units: 4\n- CTIN 289 Game Development Fundamentals Units: 4\n- CTIN 401L Interface Design for Games Units: 2\n- CTIN 403L Advanced Visual Design for Games Units: 2\n- CTIN 410L Narrative Design Workshop Units: 4\n- CTIN 415 Undergraduate Advanced Games Project Pre-Production Units: 2\n- CTIN 422 Games as Live Service Operations (GLO) Units: 2, 4\n- CTIN 433 Visual Development for Games Units: 2\n- CTIN 478 Level Design Workshop Units: 2\n- CTIN 481 Introduction to World Building for Games Units: 2\n- CTPR 524 Virtual Production Units: 2 **\n- CTPR 544 Virtual Production in LED Volumes Units: 4 **\n- CTWR 410L Character Development and Storytelling for Games Units: 4\n- TAC 115 Programming in Python Units: 2\n- TAC 351 3D Character Modeling for Games Units: 4\n- TAC 361 Character Rigging for Games Units: 4\n- TAC 371 Technical Character Animation for Games Units: 4\n- *Prerequisite required."
+    ],
+    "course_entry_count": 39,
+    "distinct_course_codes": 39,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Fine Arts in Game Art is a unique four-year program offered by the School of Cinematic Arts. Students study within the framework that combines a broad liberal arts background with specialization in a profession. Areas of concentration might include character animation, environmental design, visual effects, 3-D pipelines and interactive animation.",
+          "source_line": "The Bachelor of Fine Arts in Game Art is a unique four-year program offered by the School of Cinematic Arts. Students study within the framework that combines a broad liberal arts background with specialization in a profession. Areas of concentration might include character animation, environmental design, visual effects, 3-D pipelines and interactive animation."
+        },
+        {
+          "text": "Undergraduate students take their pre-professional courses in the USC Dornsife College of Letters, Arts and Sciences, including the general education requirements. Major courses are selected from the curriculum of the School of Cinematic Arts. The degree requires 128 units, including 58 units in the major.",
+          "source_line": "Undergraduate students take their pre-professional courses in the USC Dornsife College of Letters, Arts and Sciences, including the general education requirements. Major courses are selected from the curriculum of the School of Cinematic Arts. The degree requires 128 units, including 58 units in the major."
+        },
+        {
+          "text": "Applicants must submit a supplemental application and materials to the Interactive Media and Games Division in Slideroom via the Common Application. For specific instructions, contact the Cinematic Arts Office of Admission, University Park, Los Angeles, CA 90089-2211, (213) 740-8358 or online at cinema.usc.edu.​",
+          "source_line": "Applicants must submit a supplemental application and materials to the Interactive Media and Games Division in Slideroom via the Common Application. For specific instructions, contact the Cinematic Arts Office of Admission, University Park, Los Angeles, CA 90089-2211, (213) 740-8358 or online at cinema.usc.edu.​"
+        },
+        {
+          "text": "The Bachelor of Fine Arts in Game Art requires a minimum of 128 units, with 58 units required for the major.",
+          "source_line": "The Bachelor of Fine Arts in Game Art requires a minimum of 128 units, with 58 units required for the major."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ART 207a",
+          "title": "Two-Dimensional Art Workshop",
+          "units": 2.0,
+          "source_line": "- ART 207a Two-Dimensional Art Workshop Units: 2"
+        },
+        {
+          "code": "ART 207b",
+          "title": "Two-Dimensional Art Workshop",
+          "units": 2.0,
+          "source_line": "- ART 207b Two-Dimensional Art Workshop Units: 2"
+        },
+        {
+          "code": "CNTV 101",
+          "title": "Reality Starts Here",
+          "units": 2.0,
+          "source_line": "- CNTV 101 Reality Starts Here Units: 2"
+        },
+        {
+          "code": "CTCS 150gw",
+          "title": "The Cinematic Arts in Society",
+          "units": 4.0,
+          "source_line": "- CTCS 150gw The Cinematic Arts in Society Units: 4"
+        },
+        {
+          "code": "CTAN 452",
+          "title": "Introduction to 3-D Computer Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 452 Introduction to 3-D Computer Animation Units: 2"
+        },
+        {
+          "code": "CTIN 290",
+          "title": "Digital Media Workshop",
+          "units": 4.0,
+          "source_line": "- CTIN 290 Digital Media Workshop Units: 4"
+        },
+        {
+          "code": "CTIN 488",
+          "title": "Game Design Workshop",
+          "units": 4.0,
+          "source_line": "- CTIN 488 Game Design Workshop Units: 4"
+        },
+        {
+          "code": "CTIN 489L",
+          "title": "Intermediate Game Design and Production",
+          "units": 4.0,
+          "source_line": "- CTIN 489L Intermediate Game Design and Production Units: 4"
+        },
+        {
+          "code": "CTIN 491L",
+          "title": "Advanced Game Project I",
+          "units": 4.0,
+          "source_line": "- CTIN 491L Advanced Game Project I Units: 4"
+        },
+        {
+          "code": "CTIN 493L",
+          "title": "Advanced Game Project II",
+          "units": 2.0,
+          "source_line": "- CTIN 493L Advanced Game Project II Units: 2"
+        },
+        {
+          "code": "CTIN 498",
+          "title": "Game Art Capstone",
+          "units": 2.0,
+          "source_line": "- CTIN 498 Game Art Capstone Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Capstone Requirements",
+          "source_line": "- Capstone Requirements"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTAN 280",
+          "title": "Intermediate Character Animation for Games",
+          "units": 4.0,
+          "source_line": "- CTAN 280 Intermediate Character Animation for Games Units: 4"
+        },
+        {
+          "code": "CTAN 420",
+          "title": "Concept Design for Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 420 Concept Design for Animation Units: 2"
+        },
+        {
+          "code": "CTAN 455L",
+          "title": "Organic Modeling for Animation  *",
+          "units": 2.0,
+          "source_line": "- CTAN 455L Organic Modeling for Animation Units: 2 *"
+        },
+        {
+          "code": "CTAN 460",
+          "title": "Character Design Workshop",
+          "units": 2.0,
+          "source_line": "- CTAN 460 Character Design Workshop Units: 2"
+        },
+        {
+          "code": "CTAN 464L",
+          "title": "Digital Lighting and Rendering  *",
+          "units": 2.0,
+          "source_line": "- CTAN 464L Digital Lighting and Rendering Units: 2 *"
+        },
+        {
+          "code": "CTAN 465L",
+          "title": "Digital Effects Animation  *",
+          "units": 2.0,
+          "source_line": "- CTAN 465L Digital Effects Animation Units: 2 *"
+        },
+        {
+          "code": "CTAN 480",
+          "title": "Advanced Character Animation for Games",
+          "units": 2.0,
+          "source_line": "- CTAN 480 Advanced Character Animation for Games Units: 2"
+        },
+        {
+          "code": "CTAN 485",
+          "title": "Character Modeling",
+          "units": 2.0,
+          "source_line": "- CTAN 485 Character Modeling Units: 2"
+        },
+        {
+          "code": "CTAN 497L",
+          "title": "Procedural Animation  *",
+          "units": 2.0,
+          "source_line": "- CTAN 497L Procedural Animation Units: 2 *"
+        },
+        {
+          "code": "CTAN 564L",
+          "title": "Motion Capture Fundamentals  **",
+          "units": 2.0,
+          "source_line": "- CTAN 564L Motion Capture Fundamentals Units: 2 **"
+        },
+        {
+          "code": "CTIN 190",
+          "title": "Introduction to Interactive Entertainment",
+          "units": 4.0,
+          "source_line": "- CTIN 190 Introduction to Interactive Entertainment Units: 4"
+        },
+        {
+          "code": "CTIN 191",
+          "title": "Survey of Themed Entertainment",
+          "units": 4.0,
+          "source_line": "- CTIN 191 Survey of Themed Entertainment Units: 4"
+        },
+        {
+          "code": "CTIN 289",
+          "title": "Game Development Fundamentals",
+          "units": 4.0,
+          "source_line": "- CTIN 289 Game Development Fundamentals Units: 4"
+        },
+        {
+          "code": "CTIN 401L",
+          "title": "Interface Design for Games",
+          "units": 2.0,
+          "source_line": "- CTIN 401L Interface Design for Games Units: 2"
+        },
+        {
+          "code": "CTIN 403L",
+          "title": "Advanced Visual Design for Games",
+          "units": 2.0,
+          "source_line": "- CTIN 403L Advanced Visual Design for Games Units: 2"
+        },
+        {
+          "code": "CTIN 410L",
+          "title": "Narrative Design Workshop",
+          "units": 4.0,
+          "source_line": "- CTIN 410L Narrative Design Workshop Units: 4"
+        },
+        {
+          "code": "CTIN 415",
+          "title": "Undergraduate Advanced Games Project Pre-Production",
+          "units": 2.0,
+          "source_line": "- CTIN 415 Undergraduate Advanced Games Project Pre-Production Units: 2"
+        },
+        {
+          "code": "CTIN 422",
+          "title": "Games as Live Service Operations (GLO) , 4",
+          "units": 2.0,
+          "source_line": "- CTIN 422 Games as Live Service Operations (GLO) Units: 2, 4"
+        },
+        {
+          "code": "CTIN 433",
+          "title": "Visual Development for Games",
+          "units": 2.0,
+          "source_line": "- CTIN 433 Visual Development for Games Units: 2"
+        },
+        {
+          "code": "CTIN 478",
+          "title": "Level Design Workshop",
+          "units": 2.0,
+          "source_line": "- CTIN 478 Level Design Workshop Units: 2"
+        },
+        {
+          "code": "CTIN 481",
+          "title": "Introduction to World Building for Games",
+          "units": 2.0,
+          "source_line": "- CTIN 481 Introduction to World Building for Games Units: 2"
+        },
+        {
+          "code": "CTPR 524",
+          "title": "Virtual Production  **",
+          "units": 2.0,
+          "source_line": "- CTPR 524 Virtual Production Units: 2 **"
+        },
+        {
+          "code": "CTPR 544",
+          "title": "Virtual Production in LED Volumes  **",
+          "units": 4.0,
+          "source_line": "- CTPR 544 Virtual Production in LED Volumes Units: 4 **"
+        },
+        {
+          "code": "CTWR 410L",
+          "title": "Character Development and Storytelling for Games",
+          "units": 4.0,
+          "source_line": "- CTWR 410L Character Development and Storytelling for Games Units: 4"
+        },
+        {
+          "code": "TAC 115",
+          "title": "Programming in Python",
+          "units": 2.0,
+          "source_line": "- TAC 115 Programming in Python Units: 2"
+        },
+        {
+          "code": "TAC 351",
+          "title": "3D Character Modeling for Games",
+          "units": 4.0,
+          "source_line": "- TAC 351 3D Character Modeling for Games Units: 4"
+        },
+        {
+          "code": "TAC 361",
+          "title": "Character Rigging for Games",
+          "units": 4.0,
+          "source_line": "- TAC 361 Character Rigging for Games Units: 4"
+        },
+        {
+          "code": "TAC 371",
+          "title": "Technical Character Animation for Games",
+          "units": 4.0,
+          "source_line": "- TAC 371 Technical Character Animation for Games Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "At least 26 units must be taken from the following list:",
+          "source_line": "At least 26 units must be taken from the following list:"
+        },
+        {
+          "text": "*Prerequisite required.",
+          "source_line": "- *Prerequisite required."
+        },
+        {
+          "text": "*Prerequisite required. Enrollment in graduate courses requires special permission.",
+          "source_line": "  **Prerequisite required. Enrollment in graduate courses requires special permission."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

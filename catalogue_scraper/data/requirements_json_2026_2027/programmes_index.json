@@ -1,0 +1,4240 @@
+{
+  "_schema_version": "1.0",
+  "catalogue_year": "2026-2027",
+  "programme_count": 470,
+  "degrees": 207,
+  "minors": 263,
+  "conversion_failures": [],
+  "programmes": [
+    {
+      "file": "001_accounting_bs.json",
+      "name": "Accounting (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 31,
+      "sections": 13
+    },
+    {
+      "file": "002_accounting_and_finance_bs.json",
+      "name": "Accounting and Finance (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 35,
+      "sections": 7
+    },
+    {
+      "file": "003_acting_stage_and_screen_bfa.json",
+      "name": "Acting, Stage and Screen (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": 132.0,
+      "distinct_course_codes": 48,
+      "sections": 9
+    },
+    {
+      "file": "004_aerospace_engineering_bs.json",
+      "name": "Aerospace Engineering (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 134.0,
+      "distinct_course_codes": 41,
+      "sections": 12
+    },
+    {
+      "file": "005_american_popular_culture_ba.json",
+      "name": "American Popular Culture (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 82,
+      "sections": 8
+    },
+    {
+      "file": "006_american_studies_and_ethnicity_ba.json",
+      "name": "American Studies and Ethnicity (African American Studies) (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 49,
+      "sections": 11
+    },
+    {
+      "file": "007_american_studies_and_ethnicity_ba.json",
+      "name": "American Studies and Ethnicity (Asian American Studies) (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 23,
+      "sections": 11
+    },
+    {
+      "file": "008_american_studies_and_ethnicity_ba.json",
+      "name": "American Studies and Ethnicity (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 80,
+      "sections": 10
+    },
+    {
+      "file": "009_american_studies_and_ethnicity_ba.json",
+      "name": "American Studies and Ethnicity (Chicano/Latino Studies) (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 37,
+      "sections": 11
+    },
+    {
+      "file": "010_animation_and_digital_arts_bfa.json",
+      "name": "Animation and Digital Arts (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": 4.0,
+      "distinct_course_codes": 48,
+      "sections": 22
+    },
+    {
+      "file": "011_anthropology_ba.json",
+      "name": "Anthropology (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 54,
+      "sections": 5
+    },
+    {
+      "file": "012_anthropology_ba.json",
+      "name": "Anthropology (Visual Anthropology) (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 20,
+      "sections": 8
+    },
+    {
+      "file": "013_applied_and_computational_mathematics_ba.json",
+      "name": "Applied and Computational Mathematics (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 90,
+      "sections": 8
+    },
+    {
+      "file": "014_applied_and_computational_mathematics_bs.json",
+      "name": "Applied and Computational Mathematics (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 90,
+      "sections": 9
+    },
+    {
+      "file": "015_archaeology_and_heritage_studies_ba.json",
+      "name": "Archaeology and Heritage Studies (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 144,
+      "sections": 12
+    },
+    {
+      "file": "016_architectural_studies_bs.json",
+      "name": "Architectural Studies (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 26,
+      "sections": 31
+    },
+    {
+      "file": "017_architecture_barch.json",
+      "name": "Architecture (BArch)",
+      "credential": "BArch",
+      "kind": "degree",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 31,
+      "sections": 41
+    },
+    {
+      "file": "018_architecture_and_inventive_technologies_bs.json",
+      "name": "Architecture and Inventive Technologies (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 23,
+      "sections": 5
+    },
+    {
+      "file": "019_art_ba.json",
+      "name": "Art (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 9,
+      "sections": 9
+    },
+    {
+      "file": "020_art_history_ba.json",
+      "name": "Art History (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 8.0,
+      "distinct_course_codes": 46,
+      "sections": 15
+    },
+    {
+      "file": "021_artificial_intelligence_bs.json",
+      "name": "Artificial Intelligence (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 60,
+      "sections": 24
+    },
+    {
+      "file": "022_artificial_intelligence_for_business_bs.json",
+      "name": "Artificial Intelligence for Business (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 36,
+      "sections": 12
+    },
+    {
+      "file": "023_arts_technology_and_the_business_of_innovation_bs.json",
+      "name": "Arts, Technology and the Business of Innovation (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 12.0,
+      "distinct_course_codes": 94,
+      "sections": 39
+    },
+    {
+      "file": "024_astronautical_engineering_bs.json",
+      "name": "Astronautical Engineering (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 36,
+      "sections": 15
+    },
+    {
+      "file": "025_astronomy_ba.json",
+      "name": "Astronomy (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 64.0,
+      "distinct_course_codes": 17,
+      "sections": 4
+    },
+    {
+      "file": "026_astronomy_bs.json",
+      "name": "Astronomy (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 76.0,
+      "distinct_course_codes": 20,
+      "sections": 4
+    },
+    {
+      "file": "027_behavioral_economics_and_psychology_ba.json",
+      "name": "Behavioral Economics and Psychology (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 25,
+      "sections": 4
+    },
+    {
+      "file": "028_biochemistry_bs.json",
+      "name": "Biochemistry (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 30,
+      "sections": 6
+    },
+    {
+      "file": "029_biological_sciences_ba.json",
+      "name": "Biological Sciences (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 91,
+      "sections": 17
+    },
+    {
+      "file": "030_biological_sciences_bs.json",
+      "name": "Biological Sciences (Biotechnology) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 65,
+      "sections": 17
+    },
+    {
+      "file": "031_biological_sciences_bs.json",
+      "name": "Biological Sciences (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 89,
+      "sections": 16
+    },
+    {
+      "file": "032_biological_sciences_bs.json",
+      "name": "Biological Sciences (Ecology, Evolution and Environment) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 51,
+      "sections": 18
+    },
+    {
+      "file": "033_biological_sciences_bs.json",
+      "name": "Biological Sciences (Marine Biology) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 53,
+      "sections": 18
+    },
+    {
+      "file": "034_biological_sciences_bs.json",
+      "name": "Biological Sciences (Molecular, Cellular and Developmental Biology) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 56,
+      "sections": 17
+    },
+    {
+      "file": "035_biomedical_engineering_bs.json",
+      "name": "Biomedical Engineering (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 36,
+      "sections": 15
+    },
+    {
+      "file": "036_biomedical_engineering_electrical_engineering_emphasis_bs.json",
+      "name": "Biomedical Engineering, Electrical Engineering Emphasis (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 133.0,
+      "distinct_course_codes": 40,
+      "sections": 17
+    },
+    {
+      "file": "037_biomedical_engineering_mechanical_engineering_emphasis_bs.json",
+      "name": "Biomedical Engineering, Mechanical Engineering Emphasis (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 130.0,
+      "distinct_course_codes": 37,
+      "sections": 15
+    },
+    {
+      "file": "038_biomedical_engineering_molecular_and_cellular_engineering_emphasis_bs.json",
+      "name": "Biomedical Engineering, Molecular and Cellular Engineering Emphasis (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 132.0,
+      "distinct_course_codes": 34,
+      "sections": 15
+    },
+    {
+      "file": "039_biopharmaceutical_sciences_ba.json",
+      "name": "Biopharmaceutical Sciences (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 45,
+      "sections": 13
+    },
+    {
+      "file": "040_biopharmaceutical_sciences_bs.json",
+      "name": "Biopharmaceutical Sciences (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 44,
+      "sections": 12
+    },
+    {
+      "file": "041_biophysics_bs.json",
+      "name": "Biophysics (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 84.0,
+      "distinct_course_codes": 22,
+      "sections": 5
+    },
+    {
+      "file": "042_business_administration_bs.json",
+      "name": "Business Administration (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 20,
+      "sections": 8
+    },
+    {
+      "file": "043_business_administration_bs.json",
+      "name": "Business Administration (Business Analytics) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 20,
+      "sections": 5
+    },
+    {
+      "file": "044_business_administration_bs.json",
+      "name": "Business Administration (Cinematic Arts) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 30,
+      "sections": 9
+    },
+    {
+      "file": "045_business_administration_bs.json",
+      "name": "Business Administration (Communication) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 20,
+      "sections": 5
+    },
+    {
+      "file": "046_business_administration_bs.json",
+      "name": "Business Administration (Entrepreneurship and Innovation) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 22,
+      "sections": 7
+    },
+    {
+      "file": "047_business_administration_bs.json",
+      "name": "Business Administration (Finance) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 20,
+      "sections": 7
+    },
+    {
+      "file": "048_business_administration_bs.json",
+      "name": "Business Administration (International Relations) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 54,
+      "sections": 12
+    },
+    {
+      "file": "049_business_administration_bs.json",
+      "name": "Business Administration (Leadership and Innovation) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 20,
+      "sections": 5
+    },
+    {
+      "file": "050_business_administration_bs.json",
+      "name": "Business Administration (Marketing) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 20,
+      "sections": 5
+    },
+    {
+      "file": "051_business_administration_bs.json",
+      "name": "Business Administration (Real Estate Finance) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 38,
+      "sections": 11
+    },
+    {
+      "file": "052_business_administration_bs.json",
+      "name": "Business Administration (Risk Management) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 33,
+      "sections": 8
+    },
+    {
+      "file": "053_business_administration_bs.json",
+      "name": "Business Administration (World Program) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 30.0,
+      "distinct_course_codes": 18,
+      "sections": 15
+    },
+    {
+      "file": "054_business_of_cinematic_arts_bs.json",
+      "name": "Business of Cinematic Arts (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 50,
+      "sections": 12
+    },
+    {
+      "file": "055_business_of_innovation_bs.json",
+      "name": "Business of Innovation (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 88,
+      "sections": 19
+    },
+    {
+      "file": "056_central_european_studies_ba.json",
+      "name": "Central European Studies (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 33,
+      "sections": 9
+    },
+    {
+      "file": "057_chemical_engineering_bs.json",
+      "name": "Chemical Engineering (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 32,
+      "sections": 10
+    },
+    {
+      "file": "058_chemical_engineering_biological_and_pharmaceutical_engineering_emphasi_bs.json",
+      "name": "Chemical Engineering, Biological and Pharmaceutical Engineering Emphasis (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 41,
+      "sections": 9
+    },
+    {
+      "file": "059_chemical_engineering_energy_and_sustainability_emphasis_bs.json",
+      "name": "Chemical Engineering, Energy and Sustainability Emphasis (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 38,
+      "sections": 9
+    },
+    {
+      "file": "060_chemical_engineering_materials_engineering_emphasis_bs.json",
+      "name": "Chemical Engineering, Materials Engineering Emphasis (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 41,
+      "sections": 9
+    },
+    {
+      "file": "061_chemical_engineering_petroleum_and_subsurface_engineering_emphasis_bs.json",
+      "name": "Chemical Engineering, Petroleum and Subsurface Engineering Emphasis (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 33,
+      "sections": 9
+    },
+    {
+      "file": "062_chemistry_ba.json",
+      "name": "Chemistry (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 24,
+      "sections": 5
+    },
+    {
+      "file": "063_chemistry_bs.json",
+      "name": "Chemistry (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 30,
+      "sections": 3
+    },
+    {
+      "file": "064_chemistry_bs.json",
+      "name": "Chemistry (Chemical Biology) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 33,
+      "sections": 5
+    },
+    {
+      "file": "065_chemistry_bs.json",
+      "name": "Chemistry (Chemical Nanoscience) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 28,
+      "sections": 4
+    },
+    {
+      "file": "066_chemistry_bs.json",
+      "name": "Chemistry (Research) (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 29,
+      "sections": 5
+    },
+    {
+      "file": "067_choral_music_ba.json",
+      "name": "Choral Music (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 23,
+      "sections": 10
+    },
+    {
+      "file": "068_choral_music_bm.json",
+      "name": "Choral Music (BM)",
+      "credential": "BM",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 46,
+      "sections": 19
+    },
+    {
+      "file": "069_cinema_and_media_studies_ba.json",
+      "name": "Cinema and Media Studies (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 40,
+      "sections": 11
+    },
+    {
+      "file": "070_cinematic_arts_film_and_television_production_ba.json",
+      "name": "Cinematic Arts, Film and Television Production (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 41,
+      "sections": 13
+    },
+    {
+      "file": "071_cinematic_arts_film_and_television_production_bfa.json",
+      "name": "Cinematic Arts, Film and Television Production (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 61,
+      "sections": 15
+    },
+    {
+      "file": "072_civil_engineering_bs.json",
+      "name": "Civil Engineering (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 53,
+      "sections": 16
+    },
+    {
+      "file": "073_civil_engineering_building_science_emphasis_bs.json",
+      "name": "Civil Engineering, Building Science Emphasis (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 138.0,
+      "distinct_course_codes": 45,
+      "sections": 14
+    },
+    {
+      "file": "074_civil_engineering_construction_engineering_and_management_emphasis_bs.json",
+      "name": "Civil Engineering, Construction Engineering and Management Emphasis (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 51,
+      "sections": 17
+    },
+    {
+      "file": "075_civil_engineering_environmental_engineering_emphasis_bs.json",
+      "name": "Civil Engineering, Environmental Engineering Emphasis (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 134.0,
+      "distinct_course_codes": 37,
+      "sections": 16
+    },
+    {
+      "file": "076_civil_engineering_structural_engineering_emphasis_bs.json",
+      "name": "Civil Engineering, Structural Engineering Emphasis (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 130.0,
+      "distinct_course_codes": 43,
+      "sections": 15
+    },
+    {
+      "file": "077_civil_engineering_water_resources_engineering_emphasis_bs.json",
+      "name": "Civil Engineering, Water Resources Engineering Emphasis (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 46,
+      "sections": 16
+    },
+    {
+      "file": "078_classics_ba.json",
+      "name": "Classics (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 14,
+      "sections": 14
+    },
+    {
+      "file": "079_cognitive_science_ba.json",
+      "name": "Cognitive Science (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 46.0,
+      "distinct_course_codes": 81,
+      "sections": 38
+    },
+    {
+      "file": "080_communication_ba.json",
+      "name": "Communication (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 20,
+      "sections": 13
+    },
+    {
+      "file": "081_comparative_literature_ba.json",
+      "name": "Comparative Literature (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 52,
+      "sections": 16
+    },
+    {
+      "file": "082_composition_bm.json",
+      "name": "Composition (BM)",
+      "credential": "BM",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 53,
+      "sections": 19
+    },
+    {
+      "file": "083_computational_linguistics_bs.json",
+      "name": "Computational Linguistics (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 23,
+      "sections": 14
+    },
+    {
+      "file": "084_computational_neuroscience_bs.json",
+      "name": "Computational Neuroscience (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 88,
+      "sections": 11
+    },
+    {
+      "file": "085_computer_engineering_and_computer_science_bs.json",
+      "name": "Computer Engineering and Computer Science (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 39,
+      "sections": 16
+    },
+    {
+      "file": "086_computer_science_bs.json",
+      "name": "Computer Science (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 31,
+      "sections": 15
+    },
+    {
+      "file": "087_computer_science_games_bs.json",
+      "name": "Computer Science Games (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 42,
+      "sections": 16
+    },
+    {
+      "file": "088_computer_science_business_administration_bs.json",
+      "name": "Computer Science/Business Administration (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 37,
+      "sections": 16
+    },
+    {
+      "file": "089_contemporary_latino_and_latin_american_studies_ba.json",
+      "name": "Contemporary Latino and Latin American Studies (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 67,
+      "sections": 11
+    },
+    {
+      "file": "090_dance_bfa.json",
+      "name": "Dance (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 53,
+      "sections": 9
+    },
+    {
+      "file": "091_data_science_ba.json",
+      "name": "Data Science (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 32,
+      "sections": 12
+    },
+    {
+      "file": "092_design_bfa.json",
+      "name": "Design (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 23,
+      "sections": 6
+    },
+    {
+      "file": "093_dramatic_arts_ba.json",
+      "name": "Dramatic Arts (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 27,
+      "sections": 11
+    },
+    {
+      "file": "094_dramatic_arts_acting_emphasis_ba.json",
+      "name": "Dramatic Arts, Acting Emphasis (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 64,
+      "sections": 12
+    },
+    {
+      "file": "095_dramatic_arts_comedy_emphasis_ba.json",
+      "name": "Dramatic Arts, Comedy Emphasis (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 44,
+      "sections": 10
+    },
+    {
+      "file": "096_dramatic_arts_design_emphasis_ba.json",
+      "name": "Dramatic Arts, Design Emphasis (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 49,
+      "sections": 12
+    },
+    {
+      "file": "097_dramatic_arts_directing_emphasis_ba.json",
+      "name": "Dramatic Arts, Directing Emphasis (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 32,
+      "sections": 9
+    },
+    {
+      "file": "098_dramatic_arts_musical_theatre_emphasis_ba.json",
+      "name": "Dramatic Arts, Musical Theatre Emphasis (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 52,
+      "sections": 10
+    },
+    {
+      "file": "099_earth_sciences_ba.json",
+      "name": "Earth Sciences (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 48.0,
+      "distinct_course_codes": 7,
+      "sections": 7
+    },
+    {
+      "file": "100_east_asian_area_studies_ba.json",
+      "name": "East Asian Area Studies (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "101_east_asian_languages_and_cultures_ba.json",
+      "name": "East Asian Languages and Cultures (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 57,
+      "sections": 5
+    },
+    {
+      "file": "102_economics_ba.json",
+      "name": "Economics (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "103_economics_and_data_science_bs.json",
+      "name": "Economics and Data Science (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 21,
+      "sections": 8
+    },
+    {
+      "file": "104_electrical_and_computer_engineering_bs.json",
+      "name": "Electrical and Computer Engineering (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 35,
+      "sections": 15
+    },
+    {
+      "file": "105_english_ba.json",
+      "name": "English (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "106_environmental_engineering_bs.json",
+      "name": "Environmental Engineering (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 130.0,
+      "distinct_course_codes": 37,
+      "sections": 16
+    },
+    {
+      "file": "107_environmental_science_and_health_ba.json",
+      "name": "Environmental Science and Health (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 52.0,
+      "distinct_course_codes": 19,
+      "sections": 3
+    },
+    {
+      "file": "108_environmental_science_and_health_bs.json",
+      "name": "Environmental Science and Health (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 72.0,
+      "distinct_course_codes": 27,
+      "sections": 3
+    },
+    {
+      "file": "109_environmental_studies_ba.json",
+      "name": "Environmental Studies (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 57,
+      "sections": 10
+    },
+    {
+      "file": "110_environmental_studies_bs.json",
+      "name": "Environmental Studies (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 65,
+      "sections": 13
+    },
+    {
+      "file": "111_environmental_systems_science_bs.json",
+      "name": "Environmental Systems Science (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 54,
+      "sections": 6
+    },
+    {
+      "file": "112_fine_arts_bfa.json",
+      "name": "Fine Arts (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 10,
+      "sections": 9
+    },
+    {
+      "file": "113_french_ba.json",
+      "name": "French (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 35,
+      "sections": 6
+    },
+    {
+      "file": "114_game_art_bfa.json",
+      "name": "Game Art (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 39,
+      "sections": 3
+    },
+    {
+      "file": "115_game_development_and_interactive_design_bfa.json",
+      "name": "Game Development and Interactive Design (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 41,
+      "sections": 5
+    },
+    {
+      "file": "116_gender_and_sexuality_studies_ba.json",
+      "name": "Gender and Sexuality Studies (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 9,
+      "sections": 4
+    },
+    {
+      "file": "117_geodesign_bs.json",
+      "name": "Geodesign (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 40,
+      "sections": 14
+    },
+    {
+      "file": "118_geological_sciences_bs.json",
+      "name": "Geological Sciences (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 68.0,
+      "distinct_course_codes": 26,
+      "sections": 7
+    },
+    {
+      "file": "119_global_geodesign_bs.json",
+      "name": "Global Geodesign (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 18,
+      "sections": 4
+    },
+    {
+      "file": "120_global_health_studies_bs.json",
+      "name": "Global Health Studies (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 75,
+      "sections": 10
+    },
+    {
+      "file": "121_global_studies_ba.json",
+      "name": "Global Studies (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 9,
+      "sections": 10
+    },
+    {
+      "file": "122_health_and_human_sciences_ba.json",
+      "name": "Health and Human Sciences (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 72,
+      "sections": 12
+    },
+    {
+      "file": "123_health_promotion_and_disease_prevention_studies_bs.json",
+      "name": "Health Promotion and Disease Prevention Studies (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 54,
+      "sections": 9
+    },
+    {
+      "file": "124_history_ba.json",
+      "name": "History (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 127,
+      "sections": 13
+    },
+    {
+      "file": "125_human_biology_ba.json",
+      "name": "Human Biology (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 51,
+      "sections": 9
+    },
+    {
+      "file": "126_human_biology_bs.json",
+      "name": "Human Biology (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 60,
+      "sections": 10
+    },
+    {
+      "file": "127_human_development_and_aging_bs.json",
+      "name": "Human Development and Aging (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 16,
+      "sections": 8
+    },
+    {
+      "file": "128_human_development_and_aging_health_science_track_bs.json",
+      "name": "Human Development and Aging, Health Science Track (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 24,
+      "sections": 12
+    },
+    {
+      "file": "129_human_development_and_aging_honors_programs_bs.json",
+      "name": "Human Development and Aging, Honors Programs (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 24,
+      "sections": 10
+    },
+    {
+      "file": "130_human_security_and_geospatial_intelligence_bs.json",
+      "name": "Human Security and Geospatial Intelligence (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 63,
+      "sections": 9
+    },
+    {
+      "file": "131_human_technology_interaction_bs.json",
+      "name": "Human Technology Interaction (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 61,
+      "sections": 14
+    },
+    {
+      "file": "132_industrial_and_systems_engineering_bs.json",
+      "name": "Industrial and Systems Engineering (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 32,
+      "sections": 13
+    },
+    {
+      "file": "133_intelligence_and_cyber_operations_ba.json",
+      "name": "Intelligence and Cyber Operations (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 56.0,
+      "distinct_course_codes": 70,
+      "sections": 13
+    },
+    {
+      "file": "134_interdisciplinary_studies_ba.json",
+      "name": "Interdisciplinary Studies (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 4
+    },
+    {
+      "file": "135_international_relations_ba.json",
+      "name": "International Relations (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 48.0,
+      "distinct_course_codes": 126,
+      "sections": 11
+    },
+    {
+      "file": "136_international_relations_ba.json",
+      "name": "International Relations (Global Business) (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 57,
+      "sections": 8
+    },
+    {
+      "file": "137_international_relations_and_the_global_economy_ba.json",
+      "name": "International Relations and the Global Economy (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 52,
+      "sections": 7
+    },
+    {
+      "file": "138_italian_ba.json",
+      "name": "Italian (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 24,
+      "sections": 6
+    },
+    {
+      "file": "139_jazz_studies_bm.json",
+      "name": "Jazz Studies (BM)",
+      "credential": "BM",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 47,
+      "sections": 31
+    },
+    {
+      "file": "140_jewish_studies_ba.json",
+      "name": "Jewish Studies (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 54,
+      "sections": 6
+    },
+    {
+      "file": "141_journalism_ba.json",
+      "name": "Journalism (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 26,
+      "sections": 6
+    },
+    {
+      "file": "142_latin_american_and_iberian_cultures_media_and_politics_ba.json",
+      "name": "Latin American and Iberian Cultures, Media and Politics (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 81,
+      "sections": 5
+    },
+    {
+      "file": "143_law_and_economics_bs.json",
+      "name": "Law and Economics (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 56.0,
+      "distinct_course_codes": 40,
+      "sections": 9
+    },
+    {
+      "file": "144_law_history_and_culture_ba.json",
+      "name": "Law, History, and Culture (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 36.0,
+      "distinct_course_codes": 74,
+      "sections": 8
+    },
+    {
+      "file": "145_legal_studies_bs.json",
+      "name": "Legal Studies (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 43,
+      "sections": 10
+    },
+    {
+      "file": "146_lifespan_health_bs.json",
+      "name": "Lifespan Health (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 13,
+      "sections": 6
+    },
+    {
+      "file": "147_linguistics_ba.json",
+      "name": "Linguistics (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 5,
+      "sections": 5
+    },
+    {
+      "file": "148_mathematics_ba.json",
+      "name": "Mathematics (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 15,
+      "sections": 3
+    },
+    {
+      "file": "149_mathematics_bs.json",
+      "name": "Mathematics (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 19,
+      "sections": 5
+    },
+    {
+      "file": "150_mechanical_engineering_bs.json",
+      "name": "Mechanical Engineering (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 132.0,
+      "distinct_course_codes": 37,
+      "sections": 14
+    },
+    {
+      "file": "151_media_arts_and_practice_ba.json",
+      "name": "Media Arts and Practice (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 44,
+      "sections": 9
+    },
+    {
+      "file": "152_middle_east_studies_ba.json",
+      "name": "Middle East Studies (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 44,
+      "sections": 17
+    },
+    {
+      "file": "153_music_ba.json",
+      "name": "Music (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 28,
+      "sections": 26
+    },
+    {
+      "file": "154_music_industry_bm.json",
+      "name": "Music Industry (BM)",
+      "credential": "BM",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 47,
+      "sections": 12
+    },
+    {
+      "file": "155_music_industry_bs.json",
+      "name": "Music Industry (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 81,
+      "sections": 20
+    },
+    {
+      "file": "156_music_production_bm.json",
+      "name": "Music Production (BM)",
+      "credential": "BM",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 52,
+      "sections": 17
+    },
+    {
+      "file": "157_musical_theatre_bfa.json",
+      "name": "Musical Theatre (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": 132.0,
+      "distinct_course_codes": 40,
+      "sections": 9
+    },
+    {
+      "file": "158_narrative_studies_ba.json",
+      "name": "Narrative Studies (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 40.0,
+      "distinct_course_codes": 148,
+      "sections": 12
+    },
+    {
+      "file": "159_neuroscience_ba.json",
+      "name": "Neuroscience (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 98,
+      "sections": 7
+    },
+    {
+      "file": "160_neuroscience_bs.json",
+      "name": "Neuroscience (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 105,
+      "sections": 7
+    },
+    {
+      "file": "161_non_governmental_organizations_and_social_change_ba.json",
+      "name": "Non-Governmental Organizations and Social Change (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 93,
+      "sections": 18
+    },
+    {
+      "file": "162_occupational_therapy_bs.json",
+      "name": "Occupational Therapy (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 27,
+      "sections": 15
+    },
+    {
+      "file": "163_performance_bm.json",
+      "name": "Performance (Classical Guitar) (BM)",
+      "credential": "BM",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 49,
+      "sections": 19
+    },
+    {
+      "file": "164_performance_flute_oboe_clarinet_bassoon_saxophone_french_horn_trumpet_bm.json",
+      "name": "Performance (Flute), (Oboe), (Clarinet), (Bassoon), (Saxophone), (French Horn), (Trumpet), (Trombone), (Tuba) or (Percussion) (BM)",
+      "credential": "BM",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 45,
+      "sections": 21
+    },
+    {
+      "file": "165_performance_bm.json",
+      "name": "Performance (Organ) (BM)",
+      "credential": "BM",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 45,
+      "sections": 20
+    },
+    {
+      "file": "166_performance_bm.json",
+      "name": "Performance (Piano) (BM)",
+      "credential": "BM",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 50,
+      "sections": 19
+    },
+    {
+      "file": "167_performance_bm.json",
+      "name": "Performance (Popular Music) (BM)",
+      "credential": "BM",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 50,
+      "sections": 17
+    },
+    {
+      "file": "168_performance_bm.json",
+      "name": "Performance (Studio Guitar) (BM)",
+      "credential": "BM",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 52,
+      "sections": 28
+    },
+    {
+      "file": "169_performance_violin_viola_violoncello_double_bass_or_bm.json",
+      "name": "Performance (Violin), (Viola), (Violoncello), (Double Bass) or (Harp) (BM)",
+      "credential": "BM",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 53,
+      "sections": 52
+    },
+    {
+      "file": "170_performance_bm.json",
+      "name": "Performance (Vocal Arts) (BM)",
+      "credential": "BM",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 48,
+      "sections": 19
+    },
+    {
+      "file": "171_pharmacology_and_drug_development_ba.json",
+      "name": "Pharmacology and Drug Development (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 50,
+      "sections": 13
+    },
+    {
+      "file": "172_pharmacology_and_drug_development_bs.json",
+      "name": "Pharmacology and Drug Development (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 50,
+      "sections": 13
+    },
+    {
+      "file": "173_philosophy_ba.json",
+      "name": "Philosophy (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 49,
+      "sections": 8
+    },
+    {
+      "file": "174_philosophy_politics_and_economics_ba.json",
+      "name": "Philosophy, Politics and Economics (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 42,
+      "sections": 13
+    },
+    {
+      "file": "175_philosophy_politics_and_law_ba.json",
+      "name": "Philosophy, Politics and Law (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 93,
+      "sections": 15
+    },
+    {
+      "file": "176_physical_sciences_bs.json",
+      "name": "Physical Sciences (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 64.0,
+      "distinct_course_codes": 9,
+      "sections": 6
+    },
+    {
+      "file": "177_physics_ba.json",
+      "name": "Physics (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 64.0,
+      "distinct_course_codes": 19,
+      "sections": 5
+    },
+    {
+      "file": "178_physics_bs.json",
+      "name": "Physics (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 76.0,
+      "distinct_course_codes": 20,
+      "sections": 4
+    },
+    {
+      "file": "179_physics_computer_science_bs.json",
+      "name": "Physics/Computer Science (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 80.0,
+      "distinct_course_codes": 20,
+      "sections": 4
+    },
+    {
+      "file": "180_political_economy_ba.json",
+      "name": "Political Economy (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 8,
+      "sections": 6
+    },
+    {
+      "file": "181_political_science_ba.json",
+      "name": "Political Science (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 78,
+      "sections": 8
+    },
+    {
+      "file": "182_psychology_ba.json",
+      "name": "Psychology (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 19,
+      "sections": 13
+    },
+    {
+      "file": "183_public_policy_bs.json",
+      "name": "Public Policy (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 63,
+      "sections": 17
+    },
+    {
+      "file": "184_public_relations_and_advertising_ba.json",
+      "name": "Public Relations and Advertising (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": 44.0,
+      "distinct_course_codes": 7,
+      "sections": 4
+    },
+    {
+      "file": "185_quantitative_biology_bs.json",
+      "name": "Quantitative Biology (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 85,
+      "sections": 12
+    },
+    {
+      "file": "186_real_estate_development_bs.json",
+      "name": "Real Estate Development (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 16,
+      "sections": 11
+    },
+    {
+      "file": "187_real_estate_finance_and_development_bs.json",
+      "name": "Real Estate Finance and Development (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 66,
+      "sections": 9
+    },
+    {
+      "file": "188_religion_ba.json",
+      "name": "Religion (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 76,
+      "sections": 4
+    },
+    {
+      "file": "189_russian_ba.json",
+      "name": "Russian (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 10,
+      "sections": 3
+    },
+    {
+      "file": "190_social_sciences_with_an_emphasis_in_economics_ba.json",
+      "name": "Social Sciences, with an Emphasis in Economics (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "191_social_sciences_with_an_emphasis_in_psychology_ba.json",
+      "name": "Social Sciences, with an Emphasis in Psychology (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 1,
+      "sections": 1
+    },
+    {
+      "file": "192_social_work_bsw.json",
+      "name": "Social Work (BSW)",
+      "credential": "BSW",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 13,
+      "sections": 7
+    },
+    {
+      "file": "193_sociology_ba.json",
+      "name": "Sociology (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 47,
+      "sections": 5
+    },
+    {
+      "file": "194_sound_design_bfa.json",
+      "name": "Sound Design (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 45,
+      "sections": 8
+    },
+    {
+      "file": "195_spanish_ba.json",
+      "name": "Spanish (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 2,
+      "sections": 5
+    },
+    {
+      "file": "196_stage_management_bfa.json",
+      "name": "Stage Management (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 40,
+      "sections": 10
+    },
+    {
+      "file": "197_technical_direction_bfa.json",
+      "name": "Technical Direction (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 42,
+      "sections": 9
+    },
+    {
+      "file": "198_theatrical_design_bfa.json",
+      "name": "Theatrical Design (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 52,
+      "sections": 14
+    },
+    {
+      "file": "199_themed_entertainment_bfa.json",
+      "name": "Themed Entertainment (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": 128.0,
+      "distinct_course_codes": 54,
+      "sections": 5
+    },
+    {
+      "file": "200_urban_studies_and_planning_bs.json",
+      "name": "Urban Studies and Planning (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": 72.0,
+      "distinct_course_codes": 26,
+      "sections": 18
+    },
+    {
+      "file": "201_visual_and_performing_arts_studies_ba.json",
+      "name": "Visual and Performing Arts Studies (BA)*",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 74,
+      "sections": 13
+    },
+    {
+      "file": "202_writing_for_screen_and_television_bfa.json",
+      "name": "Writing for Screen and Television (BFA)",
+      "credential": "BFA",
+      "kind": "degree",
+      "stated_total_units": 6.0,
+      "distinct_course_codes": 52,
+      "sections": 22
+    },
+    {
+      "file": "203_economics_mathematics_bs.json",
+      "name": "Economics/Mathematics (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "204_linguistics_and_cognitive_science_ba.json",
+      "name": "Linguistics and Cognitive Science (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 22,
+      "sections": 10
+    },
+    {
+      "file": "205_linguistics_and_east_asian_languages_and_cultures_ba.json",
+      "name": "Linguistics and East Asian Languages and Cultures (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 46,
+      "sections": 9
+    },
+    {
+      "file": "206_linguistics_and_philosophy_ba.json",
+      "name": "Linguistics and Philosophy (BA)",
+      "credential": "BA",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 23,
+      "sections": 8
+    },
+    {
+      "file": "207_mathematics_economics_bs.json",
+      "name": "Mathematics/Economics (BS)",
+      "credential": "BS",
+      "kind": "degree",
+      "stated_total_units": null,
+      "distinct_course_codes": 19,
+      "sections": 8
+    },
+    {
+      "file": "209_3_d_animation_in_cinematic_arts_minor.json",
+      "name": "3-D Animation in Cinematic Arts Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 22,
+      "sections": 4
+    },
+    {
+      "file": "210_3_dimensional_design_minor.json",
+      "name": "3-Dimensional Design Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 16,
+      "sections": 5
+    },
+    {
+      "file": "211_accounting_minor.json",
+      "name": "Accounting Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 21,
+      "sections": 6
+    },
+    {
+      "file": "212_addiction_science_minor.json",
+      "name": "Addiction Science Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 12,
+      "sections": 6
+    },
+    {
+      "file": "213_advertising_minor.json",
+      "name": "Advertising Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 24.0,
+      "distinct_course_codes": 9,
+      "sections": 5
+    },
+    {
+      "file": "214_american_popular_culture_minor.json",
+      "name": "American Popular Culture Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 32,
+      "sections": 9
+    },
+    {
+      "file": "215_american_studies_and_ethnicity_minor.json",
+      "name": "American Studies and Ethnicity Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 2,
+      "sections": 3
+    },
+    {
+      "file": "216_applied_ai_in_business_minor.json",
+      "name": "Applied AI in Business Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 13,
+      "sections": 5
+    },
+    {
+      "file": "217_applied_analytics_minor.json",
+      "name": "Applied Analytics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 13,
+      "sections": 6
+    },
+    {
+      "file": "218_arabic_minor.json",
+      "name": "Arabic Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 6,
+      "sections": 3
+    },
+    {
+      "file": "219_archaeology_and_heritage_studies_minor.json",
+      "name": "Archaeology and Heritage Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 2,
+      "sections": 5
+    },
+    {
+      "file": "220_archaeology_of_california_minor.json",
+      "name": "Archaeology of California Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 5,
+      "sections": 3
+    },
+    {
+      "file": "221_architecture_minor.json",
+      "name": "Architecture Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 3,
+      "sections": 5
+    },
+    {
+      "file": "222_art_history_minor.json",
+      "name": "Art History Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 13,
+      "sections": 4
+    },
+    {
+      "file": "223_artificial_intelligence_applications_minor.json",
+      "name": "Artificial Intelligence Applications Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 10,
+      "sections": 6
+    },
+    {
+      "file": "224_artificial_intelligence_minor.json",
+      "name": "Artificial Intelligence Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 16,
+      "sections": 3
+    },
+    {
+      "file": "225_astronautical_engineering_minor.json",
+      "name": "Astronautical Engineering Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 46.0,
+      "distinct_course_codes": 14,
+      "sections": 4
+    },
+    {
+      "file": "226_astronomy_minor.json",
+      "name": "Astronomy Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 36.0,
+      "distinct_course_codes": 10,
+      "sections": 4
+    },
+    {
+      "file": "227_behavioral_economics_minor.json",
+      "name": "Behavioral Economics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 9,
+      "sections": 4
+    },
+    {
+      "file": "228_biology_and_business_minor.json",
+      "name": "Biology and Business Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 25,
+      "sections": 7
+    },
+    {
+      "file": "229_biology_of_human_movement_minor.json",
+      "name": "Biology of Human Movement Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 13,
+      "sections": 4
+    },
+    {
+      "file": "230_biopharmaceutical_business_minor.json",
+      "name": "Biopharmaceutical Business Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 20,
+      "sections": 4
+    },
+    {
+      "file": "231_biopharmaceutical_management_and_marketing_minor.json",
+      "name": "Biopharmaceutical Management and Marketing Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 18,
+      "sections": 4
+    },
+    {
+      "file": "232_blockchain_minor.json",
+      "name": "Blockchain Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 4,
+      "sections": 2
+    },
+    {
+      "file": "233_business_economics_minor.json",
+      "name": "Business Economics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 10,
+      "sections": 4
+    },
+    {
+      "file": "234_business_finance_minor.json",
+      "name": "Business Finance Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 18.0,
+      "distinct_course_codes": 29,
+      "sections": 7
+    },
+    {
+      "file": "235_business_law_minor.json",
+      "name": "Business Law Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 6,
+      "sections": 3
+    },
+    {
+      "file": "236_business_minor.json",
+      "name": "Business Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 21,
+      "sections": 4
+    },
+    {
+      "file": "237_business_technology_fusion_minor.json",
+      "name": "Business Technology Fusion Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 10,
+      "sections": 3
+    },
+    {
+      "file": "238_ceramics_minor.json",
+      "name": "Ceramics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 9,
+      "sections": 4
+    },
+    {
+      "file": "239_chemistry_minor.json",
+      "name": "Chemistry Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 11,
+      "sections": 3
+    },
+    {
+      "file": "240_chinese_for_the_professions_minor.json",
+      "name": "Chinese for the Professions Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 12,
+      "sections": 5
+    },
+    {
+      "file": "241_choreography_for_stage_and_screen_minor.json",
+      "name": "Choreography for Stage and Screen Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 58,
+      "sections": 6
+    },
+    {
+      "file": "242_cinema_television_for_the_health_professions_minor.json",
+      "name": "Cinema-Television for the Health Professions Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 17,
+      "sections": 4
+    },
+    {
+      "file": "243_cinematic_arts_minor.json",
+      "name": "Cinematic Arts Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 35,
+      "sections": 9
+    },
+    {
+      "file": "244_classical_greek_minor.json",
+      "name": "Classical Greek Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "245_classical_perspectives_minor.json",
+      "name": "Classical Perspectives Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 83,
+      "sections": 4
+    },
+    {
+      "file": "246_classics_minor.json",
+      "name": "Classics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 9,
+      "sections": 6
+    },
+    {
+      "file": "247_coaching_health_and_wellness_minor.json",
+      "name": "Coaching, Health and Wellness Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 69,
+      "sections": 7
+    },
+    {
+      "file": "248_comedy_performance_minor.json",
+      "name": "Comedy (Performance) Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 24,
+      "sections": 4
+    },
+    {
+      "file": "249_comedy_writing_minor.json",
+      "name": "Comedy Writing Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 10,
+      "sections": 6
+    },
+    {
+      "file": "250_communication_design_minor.json",
+      "name": "Communication Design Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 31,
+      "sections": 4
+    },
+    {
+      "file": "251_communication_policy_and_law_minor.json",
+      "name": "Communication Policy and Law Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 11,
+      "sections": 3
+    },
+    {
+      "file": "252_communication_technology_practices_and_platforms_minor.json",
+      "name": "Communication Technology Practices and Platforms Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 16,
+      "sections": 4
+    },
+    {
+      "file": "253_comparative_literature_minor.json",
+      "name": "Comparative Literature Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 3
+    },
+    {
+      "file": "254_computational_biology_and_bioinformatics_minor.json",
+      "name": "Computational Biology and Bioinformatics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 34,
+      "sections": 3
+    },
+    {
+      "file": "255_computer_programming_minor.json",
+      "name": "Computer Programming Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 23,
+      "sections": 4
+    },
+    {
+      "file": "256_computer_science_minor.json",
+      "name": "Computer Science Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 30.0,
+      "distinct_course_codes": 20,
+      "sections": 5
+    },
+    {
+      "file": "257_connected_devices_and_making_minor.json",
+      "name": "Connected Devices and Making Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 12,
+      "sections": 4
+    },
+    {
+      "file": "258_construction_planning_and_management_minor.json",
+      "name": "Construction Planning and Management Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 22.0,
+      "distinct_course_codes": 11,
+      "sections": 8
+    },
+    {
+      "file": "260_consumer_behavior_interdisciplinary_minor.json",
+      "name": "Consumer Behavior Interdisciplinary Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "261_consumer_behavior_minor.json",
+      "name": "Consumer Behavior Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 49,
+      "sections": 18
+    },
+    {
+      "file": "262_contemplative_studies_minor.json",
+      "name": "Contemplative Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 24,
+      "sections": 6
+    },
+    {
+      "file": "263_craniofacial_and_dental_technology_minor.json",
+      "name": "Craniofacial and Dental Technology Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 19,
+      "sections": 7
+    },
+    {
+      "file": "264_creating_dramatic_writing_content_minor.json",
+      "name": "Creating Dramatic Writing Content Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 13,
+      "sections": 4
+    },
+    {
+      "file": "265_creative_leadership_minor.json",
+      "name": "Creative Leadership Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 19,
+      "sections": 4
+    },
+    {
+      "file": "266_creator_arts_minor.json",
+      "name": "Creator Arts Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 11,
+      "sections": 4
+    },
+    {
+      "file": "267_cultural_anthropology_minor.json",
+      "name": "Cultural Anthropology Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 6,
+      "sections": 4
+    },
+    {
+      "file": "268_cultural_competence_in_medicine_minor.json",
+      "name": "Cultural Competence in Medicine Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 14,
+      "sections": 3
+    },
+    {
+      "file": "269_cultural_diplomacy_minor.json",
+      "name": "Cultural Diplomacy Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 25,
+      "sections": 4
+    },
+    {
+      "file": "270_culture_media_and_entertainment_minor.json",
+      "name": "Culture, Media and Entertainment Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 26,
+      "sections": 4
+    },
+    {
+      "file": "271_cultures_and_politics_of_the_pacific_rim_minor.json",
+      "name": "Cultures and Politics of the Pacific Rim Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 58,
+      "sections": 10
+    },
+    {
+      "file": "272_customer_analytics_minor.json",
+      "name": "Customer Analytics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 24,
+      "sections": 6
+    },
+    {
+      "file": "273_cyber_governance_minor.json",
+      "name": "Cyber Governance Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 10,
+      "sections": 4
+    },
+    {
+      "file": "274_cybersecurity_minor.json",
+      "name": "Cybersecurity Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 12,
+      "sections": 3
+    },
+    {
+      "file": "275_dance_in_entertainment_minor.json",
+      "name": "Dance in Entertainment Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 58,
+      "sections": 6
+    },
+    {
+      "file": "276_dance_minor.json",
+      "name": "Dance Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 58,
+      "sections": 6
+    },
+    {
+      "file": "277_designing_for_digital_experiences_minor.json",
+      "name": "Designing for Digital Experiences Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 13,
+      "sections": 3
+    },
+    {
+      "file": "278_designing_products_minor.json",
+      "name": "Designing Products Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 8,
+      "sections": 3
+    },
+    {
+      "file": "279_digital_forensics_minor.json",
+      "name": "Digital Forensics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 18.0,
+      "distinct_course_codes": 8,
+      "sections": 3
+    },
+    {
+      "file": "280_digital_studies_minor.json",
+      "name": "Digital Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 41,
+      "sections": 6
+    },
+    {
+      "file": "281_directing_minor.json",
+      "name": "Directing Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 14,
+      "sections": 4
+    },
+    {
+      "file": "282_disruptive_innovation_minor.json",
+      "name": "Disruptive Innovation Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 14,
+      "sections": 3
+    },
+    {
+      "file": "283_documentary_minor.json",
+      "name": "Documentary Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 8,
+      "sections": 3
+    },
+    {
+      "file": "284_drawing_minor.json",
+      "name": "Drawing Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 10,
+      "sections": 3
+    },
+    {
+      "file": "285_dynamics_in_workplace_communication_minor.json",
+      "name": "Dynamics in Workplace Communication Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 14,
+      "sections": 3
+    },
+    {
+      "file": "287_east_asian_area_studies_minor.json",
+      "name": "East Asian Area Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "288_east_asian_languages_and_cultures_minor.json",
+      "name": "East Asian Languages and Cultures Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 51,
+      "sections": 4
+    },
+    {
+      "file": "289_economics_minor.json",
+      "name": "Economics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 4
+    },
+    {
+      "file": "290_education_and_society_minor.json",
+      "name": "Education and Society Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 4,
+      "sections": 2
+    },
+    {
+      "file": "291_education_policy_minor.json",
+      "name": "Education Policy Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 7,
+      "sections": 3
+    },
+    {
+      "file": "292_engineering_innovation_for_global_challenges_minor.json",
+      "name": "Engineering Innovation for Global Challenges Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 5,
+      "sections": 2
+    },
+    {
+      "file": "293_engineering_management_minor.json",
+      "name": "Engineering Management Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 14,
+      "sections": 6
+    },
+    {
+      "file": "294_english_minor.json",
+      "name": "English Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "295_entertainment_industry_minor.json",
+      "name": "Entertainment Industry Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 36,
+      "sections": 9
+    },
+    {
+      "file": "296_entertainment_law_minor.json",
+      "name": "Entertainment Law Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 30,
+      "sections": 4
+    },
+    {
+      "file": "297_entrepreneurship_minor.json",
+      "name": "Entrepreneurship Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 24,
+      "sections": 3
+    },
+    {
+      "file": "298_environmental_chemistry_and_sustainability_minor.json",
+      "name": "Environmental Chemistry and Sustainability Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 12,
+      "sections": 5
+    },
+    {
+      "file": "299_environmental_health_minor.json",
+      "name": "Environmental Health Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 5,
+      "sections": 3
+    },
+    {
+      "file": "300_environmental_studies_minor.json",
+      "name": "Environmental Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 24.0,
+      "distinct_course_codes": 6,
+      "sections": 4
+    },
+    {
+      "file": "301_evolutionary_health_and_medicine_minor.json",
+      "name": "Evolutionary Health and Medicine Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 7,
+      "sections": 3
+    },
+    {
+      "file": "302_extended_reality_design_and_development_minor.json",
+      "name": "Extended Reality Design and Development Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 9,
+      "sections": 4
+    },
+    {
+      "file": "303_fashion_minor.json",
+      "name": "Fashion Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 36,
+      "sections": 4
+    },
+    {
+      "file": "304_folklore_and_popular_culture_minor.json",
+      "name": "Folklore and Popular Culture Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 43,
+      "sections": 5
+    },
+    {
+      "file": "305_food_and_society_minor.json",
+      "name": "Food and Society Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 29,
+      "sections": 5
+    },
+    {
+      "file": "306_food_journalism_and_public_relations_minor.json",
+      "name": "Food Journalism and Public Relations Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 15,
+      "sections": 3
+    },
+    {
+      "file": "307_forensics_and_criminality_minor.json",
+      "name": "Forensics and Criminality Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 34,
+      "sections": 11
+    },
+    {
+      "file": "308_foundation_in_regulatory_sciences_minor.json",
+      "name": "Foundation in Regulatory Sciences Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 28,
+      "sections": 3
+    },
+    {
+      "file": "309_foundations_of_data_science_minor.json",
+      "name": "Foundations of Data Science Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 22.0,
+      "distinct_course_codes": 14,
+      "sections": 6
+    },
+    {
+      "file": "310_french_minor.json",
+      "name": "French Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 35,
+      "sections": 6
+    },
+    {
+      "file": "311_future_cinema_minor.json",
+      "name": "Future Cinema Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 33,
+      "sections": 4
+    },
+    {
+      "file": "312_game_audio_minor.json",
+      "name": "Game Audio Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 18,
+      "sections": 7
+    },
+    {
+      "file": "313_game_design_minor.json",
+      "name": "Game Design Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 15,
+      "sections": 7
+    },
+    {
+      "file": "314_game_entrepreneurism_minor.json",
+      "name": "Game Entrepreneurism Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 13,
+      "sections": 6
+    },
+    {
+      "file": "315_game_studies_minor.json",
+      "name": "Game Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 27,
+      "sections": 7
+    },
+    {
+      "file": "316_game_user_research_minor.json",
+      "name": "Game User Research Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 15,
+      "sections": 7
+    },
+    {
+      "file": "317_gender_and_sexuality_studies_minor.json",
+      "name": "Gender and Sexuality Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 7,
+      "sections": 3
+    },
+    {
+      "file": "318_gender_and_social_justice_minor.json",
+      "name": "Gender and Social Justice Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 14,
+      "sections": 4
+    },
+    {
+      "file": "319_geobiology_minor.json",
+      "name": "Geobiology Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 20,
+      "sections": 6
+    },
+    {
+      "file": "320_geodesign_minor.json",
+      "name": "Geodesign Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 7,
+      "sections": 4
+    },
+    {
+      "file": "321_geohazards_minor.json",
+      "name": "Geohazards Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 21,
+      "sections": 5
+    },
+    {
+      "file": "322_german_studies_minor.json",
+      "name": "German Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 23,
+      "sections": 5
+    },
+    {
+      "file": "323_geroscience_minor.json",
+      "name": "Geroscience Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 10,
+      "sections": 3
+    },
+    {
+      "file": "324_gis_and_sustainability_science_minor.json",
+      "name": "GIS and Sustainability Science Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 7,
+      "sections": 4
+    },
+    {
+      "file": "325_global_communication_minor.json",
+      "name": "Global Communication Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 24.0,
+      "distinct_course_codes": 30,
+      "sections": 7
+    },
+    {
+      "file": "326_global_health_minor.json",
+      "name": "Global Health Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 7,
+      "sections": 3
+    },
+    {
+      "file": "327_health_administration_minor.json",
+      "name": "Health Administration Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 11,
+      "sections": 3
+    },
+    {
+      "file": "328_health_care_studies_minor.json",
+      "name": "Health Care Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 37,
+      "sections": 8
+    },
+    {
+      "file": "329_health_communication_minor.json",
+      "name": "Health Communication Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 22,
+      "sections": 3
+    },
+    {
+      "file": "330_health_innovation_minor.json",
+      "name": "Health Innovation Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 50,
+      "sections": 7
+    },
+    {
+      "file": "331_health_policy_minor.json",
+      "name": "Health Policy Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 12,
+      "sections": 3
+    },
+    {
+      "file": "332_hip_hop_street_and_social_dance_forms_minor.json",
+      "name": "Hip-Hop, Street and Social Dance Forms Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 58,
+      "sections": 6
+    },
+    {
+      "file": "333_history_and_culture_of_business_minor.json",
+      "name": "History and Culture of Business Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 40,
+      "sections": 7
+    },
+    {
+      "file": "334_history_minor.json",
+      "name": "History Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "335_human_disease_minor.json",
+      "name": "Human Disease Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 12,
+      "sections": 5
+    },
+    {
+      "file": "336_human_performance_and_ai_in_sports_analytics_minor.json",
+      "name": "Human Performance and AI in Sports Analytics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 7,
+      "sections": 3
+    },
+    {
+      "file": "337_human_resource_management_minor.json",
+      "name": "Human Resource Management Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 7,
+      "sections": 3
+    },
+    {
+      "file": "338_human_rights_minor.json",
+      "name": "Human Rights Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 25,
+      "sections": 6
+    },
+    {
+      "file": "339_human_security_and_geospatial_intelligence_minor.json",
+      "name": "Human Security and Geospatial Intelligence Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 24,
+      "sections": 3
+    },
+    {
+      "file": "340_immersive_media_minor.json",
+      "name": "Immersive Media Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 24.0,
+      "distinct_course_codes": 35,
+      "sections": 6
+    },
+    {
+      "file": "341_individuals_societies_and_aging_minor.json",
+      "name": "Individuals, Societies and Aging Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 9,
+      "sections": 4
+    },
+    {
+      "file": "342_intermedia_arts_minor.json",
+      "name": "Intermedia Arts Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 9,
+      "sections": 3
+    },
+    {
+      "file": "343_international_health_development_and_social_justice_interdisciplinary.json",
+      "name": "International Health, Development, and Social Justice Interdisciplinary Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 45,
+      "sections": 10
+    },
+    {
+      "file": "344_international_policy_and_management_minor.json",
+      "name": "International Policy and Management Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 43,
+      "sections": 10
+    },
+    {
+      "file": "345_international_relations_minor.json",
+      "name": "International Relations Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "346_internet_of_things_engineering_minor.json",
+      "name": "Internet of Things Engineering Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 7,
+      "sections": 3
+    },
+    {
+      "file": "347_iranian_studies_minor.json",
+      "name": "Iranian Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 26,
+      "sections": 6
+    },
+    {
+      "file": "348_italian_minor.json",
+      "name": "Italian Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 32.0,
+      "distinct_course_codes": 23,
+      "sections": 5
+    },
+    {
+      "file": "349_jazz_studies_minor.json",
+      "name": "Jazz Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 21.0,
+      "distinct_course_codes": 9,
+      "sections": 4
+    },
+    {
+      "file": "352_jewish_studies_minor.json",
+      "name": "Jewish Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "353_judaic_studies_minor.json",
+      "name": "Judaic Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "354_justice_voice_and_advocacy_minor.json",
+      "name": "Justice, Voice, and Advocacy Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 37,
+      "sections": 5
+    },
+    {
+      "file": "355_korean_studies_minor.json",
+      "name": "Korean Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 18,
+      "sections": 4
+    },
+    {
+      "file": "356_landscape_architecture_minor.json",
+      "name": "Landscape Architecture Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 10,
+      "sections": 6
+    },
+    {
+      "file": "357_latin_american_studies_minor.json",
+      "name": "Latin American Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 32,
+      "sections": 6
+    },
+    {
+      "file": "358_latin_minor.json",
+      "name": "Latin Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "359_latinx_news_media_minor.json",
+      "name": "Latinx News Media Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 62,
+      "sections": 4
+    },
+    {
+      "file": "360_law_and_biopharmaceutical_sciences_minor.json",
+      "name": "Law and Biopharmaceutical Sciences Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 16,
+      "sections": 4
+    },
+    {
+      "file": "361_law_and_government_minor.json",
+      "name": "Law and Government Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 21,
+      "sections": 4
+    },
+    {
+      "file": "362_law_and_innovation_minor.json",
+      "name": "Law and Innovation Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 20,
+      "sections": 4
+    },
+    {
+      "file": "363_law_and_migration_studies_minor.json",
+      "name": "Law and Migration Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 22,
+      "sections": 5
+    },
+    {
+      "file": "364_law_and_public_health_minor.json",
+      "name": "Law and Public Health Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 15,
+      "sections": 4
+    },
+    {
+      "file": "365_law_and_public_policy_minor.json",
+      "name": "Law and Public Policy Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 16,
+      "sections": 3
+    },
+    {
+      "file": "366_law_and_regulation_of_artificial_intelligence_minor.json",
+      "name": "Law and Regulation of Artificial Intelligence Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 15,
+      "sections": 4
+    },
+    {
+      "file": "367_law_and_social_justice_minor.json",
+      "name": "Law and Social Justice Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 36,
+      "sections": 5
+    },
+    {
+      "file": "368_law_and_society_minor.json",
+      "name": "Law and Society Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 27,
+      "sections": 9
+    },
+    {
+      "file": "369_law_and_technology_minor.json",
+      "name": "Law and Technology Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 18.0,
+      "distinct_course_codes": 11,
+      "sections": 4
+    },
+    {
+      "file": "370_law_advocacy_and_persuasive_performance_minor.json",
+      "name": "Law, Advocacy and Persuasive Performance Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 20,
+      "sections": 4
+    },
+    {
+      "file": "371_legal_studies_minor.json",
+      "name": "Legal Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 48,
+      "sections": 4
+    },
+    {
+      "file": "372_lgbtq_studies_minor.json",
+      "name": "LGBTQ Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 14,
+      "sections": 4
+    },
+    {
+      "file": "373_linguistics_minor.json",
+      "name": "Linguistics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 9,
+      "sections": 8
+    },
+    {
+      "file": "374_logic_minor.json",
+      "name": "Logic Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 18.0,
+      "distinct_course_codes": 26,
+      "sections": 6
+    },
+    {
+      "file": "375_luso_brazilian_studies_minor.json",
+      "name": "Luso-Brazilian Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 18,
+      "sections": 4
+    },
+    {
+      "file": "376_management_consulting_minor.json",
+      "name": "Management Consulting Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 13,
+      "sections": 3
+    },
+    {
+      "file": "377_managing_human_relations_minor.json",
+      "name": "Managing Human Relations Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 17,
+      "sections": 9
+    },
+    {
+      "file": "378_marine_biology_minor.json",
+      "name": "Marine Biology Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 21,
+      "sections": 3
+    },
+    {
+      "file": "379_marketing_minor.json",
+      "name": "Marketing Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "380_materials_science_minor.json",
+      "name": "Materials Science Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 7,
+      "sections": 4
+    },
+    {
+      "file": "381_mathematical_data_analytics_minor.json",
+      "name": "Mathematical Data Analytics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 13,
+      "sections": 5
+    },
+    {
+      "file": "382_mathematical_finance_minor.json",
+      "name": "Mathematical Finance Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 44,
+      "sections": 7
+    },
+    {
+      "file": "383_mathematics_minor.json",
+      "name": "Mathematics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 15,
+      "sections": 4
+    },
+    {
+      "file": "384_media_and_social_change_minor.json",
+      "name": "Media and Social Change Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 21,
+      "sections": 5
+    },
+    {
+      "file": "385_media_economics_and_entrepreneurship_minor.json",
+      "name": "Media Economics and Entrepreneurship Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 24.0,
+      "distinct_course_codes": 29,
+      "sections": 9
+    },
+    {
+      "file": "386_medical_anthropology_minor.json",
+      "name": "Medical Anthropology Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 26,
+      "sections": 3
+    },
+    {
+      "file": "387_middle_east_studies_minor.json",
+      "name": "Middle East Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 40,
+      "sections": 4
+    },
+    {
+      "file": "388_mind_body_studies_minor.json",
+      "name": "Mind Body Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 24,
+      "sections": 5
+    },
+    {
+      "file": "389_mobile_app_development_minor.json",
+      "name": "Mobile App Development Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 18.0,
+      "distinct_course_codes": 12,
+      "sections": 5
+    },
+    {
+      "file": "390_modern_art_markets_and_ethics_minor.json",
+      "name": "Modern Art Markets and Ethics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 24.0,
+      "distinct_course_codes": 30,
+      "sections": 14
+    },
+    {
+      "file": "391_music_industry_minor.json",
+      "name": "Music Industry Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 27,
+      "sections": 6
+    },
+    {
+      "file": "392_music_production_minor.json",
+      "name": "Music Production Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 19.0,
+      "distinct_course_codes": 18,
+      "sections": 6
+    },
+    {
+      "file": "393_music_recording_minor.json",
+      "name": "Music Recording Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 18.0,
+      "distinct_course_codes": 14,
+      "sections": 5
+    },
+    {
+      "file": "394_musical_studies_minor.json",
+      "name": "Musical Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 18.0,
+      "distinct_course_codes": 4,
+      "sections": 3
+    },
+    {
+      "file": "395_musical_theatre_minor.json",
+      "name": "Musical Theatre Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 15,
+      "sections": 4
+    },
+    {
+      "file": "396_nanotechnology_minor.json",
+      "name": "Nanotechnology Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 17,
+      "sections": 6
+    },
+    {
+      "file": "397_narrative_structure_interdisciplinary_minor.json",
+      "name": "Narrative Structure Interdisciplinary Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 93,
+      "sections": 8
+    },
+    {
+      "file": "398_native_american_studies_minor.json",
+      "name": "Native American Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 10,
+      "sections": 3
+    },
+    {
+      "file": "399_natural_science_minor.json",
+      "name": "Natural Science Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 11,
+      "sections": 5
+    },
+    {
+      "file": "400_neuroscience_minor.json",
+      "name": "Neuroscience Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 77,
+      "sections": 6
+    },
+    {
+      "file": "401_news_media_and_society_minor.json",
+      "name": "News Media and Society Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 11,
+      "sections": 4
+    },
+    {
+      "file": "402_nonprofits_philanthropy_and_volunteerism_interdisciplinary_minor.json",
+      "name": "Nonprofits, Philanthropy and Volunteerism Interdisciplinary Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "403_nonprofits_philanthropy_and_volunteerism_minor.json",
+      "name": "Nonprofits, Philanthropy and Volunteerism Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 9,
+      "sections": 3
+    },
+    {
+      "file": "404_nutrition_and_health_promotion_minor.json",
+      "name": "Nutrition and Health Promotion Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 11,
+      "sections": 3
+    },
+    {
+      "file": "405_occupational_science_minor.json",
+      "name": "Occupational Science Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 20,
+      "sections": 3
+    },
+    {
+      "file": "406_operations_and_supply_chain_management_minor.json",
+      "name": "Operations and Supply Chain Management Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 12,
+      "sections": 3
+    },
+    {
+      "file": "407_organizational_leadership_and_management_minor.json",
+      "name": "Organizational Leadership and Management Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 13,
+      "sections": 3
+    },
+    {
+      "file": "408_painting_minor.json",
+      "name": "Painting Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 9,
+      "sections": 3
+    },
+    {
+      "file": "409_paleontology_minor.json",
+      "name": "Paleontology Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 10,
+      "sections": 3
+    },
+    {
+      "file": "410_performance_art_minor.json",
+      "name": "Performance Art Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 34,
+      "sections": 3
+    },
+    {
+      "file": "411_performance_science_minor.json",
+      "name": "Performance Science Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 22,
+      "sections": 5
+    },
+    {
+      "file": "412_performing_arts_studies_minor.json",
+      "name": "Performing Arts Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 43,
+      "sections": 4
+    },
+    {
+      "file": "413_performing_social_change_minor.json",
+      "name": "Performing Social Change Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 15,
+      "sections": 4
+    },
+    {
+      "file": "414_petroleum_engineering_minor.json",
+      "name": "Petroleum Engineering Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 11,
+      "sections": 4
+    },
+    {
+      "file": "415_philosophy_minor.json",
+      "name": "Philosophy Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 46,
+      "sections": 6
+    },
+    {
+      "file": "416_philosophy_of_law_politics_and_economics_minor.json",
+      "name": "Philosophy of Law, Politics and Economics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 29,
+      "sections": 6
+    },
+    {
+      "file": "417_photography_and_social_change_minor.json",
+      "name": "Photography and Social Change Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 21,
+      "sections": 9
+    },
+    {
+      "file": "418_photography_minor.json",
+      "name": "Photography Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 9,
+      "sections": 4
+    },
+    {
+      "file": "419_physics_minor.json",
+      "name": "Physics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 40.0,
+      "distinct_course_codes": 11,
+      "sections": 4
+    },
+    {
+      "file": "420_plastics_sustainability_minor.json",
+      "name": "Plastics Sustainability Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 23.0,
+      "distinct_course_codes": 9,
+      "sections": 5
+    },
+    {
+      "file": "421_podcasting_minor.json",
+      "name": "Podcasting Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 17,
+      "sections": 4
+    },
+    {
+      "file": "422_political_organizing_in_the_digital_age_minor.json",
+      "name": "Political Organizing in the Digital Age Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 24,
+      "sections": 9
+    },
+    {
+      "file": "423_political_science_minor.json",
+      "name": "Political Science Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "424_popular_music_studies_minor.json",
+      "name": "Popular Music Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 12,
+      "sections": 2
+    },
+    {
+      "file": "425_practical_politics_minor.json",
+      "name": "Practical Politics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 16,
+      "sections": 6
+    },
+    {
+      "file": "426_product_management_minor.json",
+      "name": "Product Management Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 52,
+      "sections": 3
+    },
+    {
+      "file": "427_professional_and_managerial_communication_minor.json",
+      "name": "Professional and Managerial Communication Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 24.0,
+      "distinct_course_codes": 15,
+      "sections": 4
+    },
+    {
+      "file": "428_psychiatry_and_behavioral_sciences_minor.json",
+      "name": "Psychiatry and Behavioral Sciences Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 8,
+      "sections": 3
+    },
+    {
+      "file": "429_psychology_and_law_minor.json",
+      "name": "Psychology and Law Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 18,
+      "sections": 4
+    },
+    {
+      "file": "430_psychology_minor.json",
+      "name": "Psychology Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "431_public_health_minor.json",
+      "name": "Public Health Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 15,
+      "sections": 3
+    },
+    {
+      "file": "432_public_relations_minor.json",
+      "name": "Public Relations Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 3,
+      "sections": 3
+    },
+    {
+      "file": "433_race_ethnicity_and_politics_minor.json",
+      "name": "Race, Ethnicity and Politics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 29,
+      "sections": 12
+    },
+    {
+      "file": "434_real_estate_development_minor.json",
+      "name": "Real Estate Development Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 18,
+      "sections": 4
+    },
+    {
+      "file": "435_real_estate_finance_minor.json",
+      "name": "Real Estate Finance Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 21,
+      "sections": 8
+    },
+    {
+      "file": "436_religion_minor.json",
+      "name": "Religion Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "437_resistance_to_genocide_interdisciplinary_minor.json",
+      "name": "Resistance to Genocide Interdisciplinary Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 29,
+      "sections": 8
+    },
+    {
+      "file": "438_risk_management_minor.json",
+      "name": "Risk Management Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 28,
+      "sections": 3
+    },
+    {
+      "file": "439_russian_area_studies_minor.json",
+      "name": "Russian Area Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 32,
+      "sections": 6
+    },
+    {
+      "file": "440_russian_minor.json",
+      "name": "Russian Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 0,
+      "sections": 1
+    },
+    {
+      "file": "441_science_and_management_of_biomedical_therapeutics_minor.json",
+      "name": "Science and Management of Biomedical Therapeutics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 22,
+      "sections": 3
+    },
+    {
+      "file": "442_science_health_and_aging_minor.json",
+      "name": "Science, Health and Aging Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 10,
+      "sections": 4
+    },
+    {
+      "file": "443_screenwriting_minor.json",
+      "name": "Screenwriting Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 10.0,
+      "distinct_course_codes": 32,
+      "sections": 9
+    },
+    {
+      "file": "444_sculpture_minor.json",
+      "name": "Sculpture Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 8,
+      "sections": 4
+    },
+    {
+      "file": "445_social_entrepreneurship_minor.json",
+      "name": "Social Entrepreneurship Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 18,
+      "sections": 4
+    },
+    {
+      "file": "446_social_work_and_juvenile_justice_minor.json",
+      "name": "Social Work and Juvenile Justice Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 5,
+      "sections": 2
+    },
+    {
+      "file": "447_sociology_minor.json",
+      "name": "Sociology Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 41,
+      "sections": 3
+    },
+    {
+      "file": "448_songwriting_minor.json",
+      "name": "Songwriting Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 28,
+      "sections": 4
+    },
+    {
+      "file": "449_south_asian_studies_minor.json",
+      "name": "South Asian Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 24,
+      "sections": 4
+    },
+    {
+      "file": "450_southeast_asia_and_its_people_minor.json",
+      "name": "Southeast Asia and its People Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 16,
+      "sections": 8
+    },
+    {
+      "file": "451_spanish_minor.json",
+      "name": "Spanish Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 1,
+      "sections": 4
+    },
+    {
+      "file": "452_spatial_studies_minor.json",
+      "name": "Spatial Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 33,
+      "sections": 4
+    },
+    {
+      "file": "453_speech_language_and_hearing_professions_minor.json",
+      "name": "Speech-Language and Hearing Professions Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 5,
+      "sections": 3
+    },
+    {
+      "file": "454_sports_business_and_management_minor.json",
+      "name": "Sports Business and Management Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 24,
+      "sections": 5
+    },
+    {
+      "file": "455_sports_law_minor.json",
+      "name": "Sports Law Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 13,
+      "sections": 3
+    },
+    {
+      "file": "456_sports_media_industries_minor.json",
+      "name": "Sports Media Industries Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 20.0,
+      "distinct_course_codes": 14,
+      "sections": 4
+    },
+    {
+      "file": "457_sports_media_studies_minor.json",
+      "name": "Sports Media Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 24.0,
+      "distinct_course_codes": 12,
+      "sections": 5
+    },
+    {
+      "file": "458_statistics_minor.json",
+      "name": "Statistics Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 19,
+      "sections": 5
+    },
+    {
+      "file": "459_stem_cell_biology_and_regenerative_medicine_minor.json",
+      "name": "Stem Cell Biology and Regenerative Medicine Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 16.0,
+      "distinct_course_codes": 10,
+      "sections": 3
+    },
+    {
+      "file": "460_substance_abuse_prevention_minor.json",
+      "name": "Substance Abuse Prevention Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 8,
+      "sections": 4
+    },
+    {
+      "file": "461_sustainability_community_and_stem_education_minor.json",
+      "name": "Sustainability, Community and STEM Education Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 5,
+      "sections": 6
+    },
+    {
+      "file": "462_technical_game_art_minor.json",
+      "name": "Technical Game Art Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 8,
+      "sections": 3
+    },
+    {
+      "file": "463_technology_commercialization_minor.json",
+      "name": "Technology Commercialization Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 19,
+      "sections": 4
+    },
+    {
+      "file": "464_technology_entrepreneurship_minor.json",
+      "name": "Technology Entrepreneurship Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 12,
+      "sections": 3
+    },
+    {
+      "file": "465_theatre_minor.json",
+      "name": "Theatre Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 12,
+      "sections": 5
+    },
+    {
+      "file": "466_thematic_approaches_to_humanities_and_society_minor.json",
+      "name": "Thematic Approaches to Humanities and Society Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 61,
+      "sections": 12
+    },
+    {
+      "file": "467_themed_entertainment_minor.json",
+      "name": "Themed Entertainment Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 22,
+      "sections": 6
+    },
+    {
+      "file": "468_two_dimensional_studies_minor.json",
+      "name": "Two-Dimensional Studies Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 14,
+      "sections": 4
+    },
+    {
+      "file": "469_urban_sustainable_planning_minor.json",
+      "name": "Urban Sustainable Planning Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 11,
+      "sections": 3
+    },
+    {
+      "file": "470_user_experience_minor.json",
+      "name": "User Experience Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 32,
+      "sections": 12
+    },
+    {
+      "file": "471_video_game_production_minor.json",
+      "name": "Video Game Production Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 23,
+      "sections": 5
+    },
+    {
+      "file": "472_video_game_programming_minor.json",
+      "name": "Video Game Programming Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": 18.0,
+      "distinct_course_codes": 14,
+      "sections": 5
+    },
+    {
+      "file": "473_visual_culture_minor.json",
+      "name": "Visual Culture Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 65,
+      "sections": 5
+    },
+    {
+      "file": "474_visual_narrative_art_minor.json",
+      "name": "Visual Narrative Art Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 40,
+      "sections": 4
+    },
+    {
+      "file": "475_web_development_minor.json",
+      "name": "Web Development Minor",
+      "credential": null,
+      "kind": "minor",
+      "stated_total_units": null,
+      "distinct_course_codes": 8,
+      "sections": 3
+    }
+  ]
+}

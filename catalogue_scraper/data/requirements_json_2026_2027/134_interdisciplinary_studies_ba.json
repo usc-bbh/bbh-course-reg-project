@@ -1,0 +1,82 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Interdisciplinary Studies (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32737",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32737&returnto=9396",
+    "source_text_file": "134_interdisciplinary_studies_ba.txt",
+    "source_content_sha256": "d36a9a92e48bc3ff2a1519a3b1501b583fc658918442907ff4cb6138eb67da39",
+    "retrieved_at": "2026-07-31T01:23:02Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 0,
+    "distinct_course_codes": 0,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "Interdisciplinary Major",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The interdisciplinary major allows students to create an individual, original major. It is a flexible option available when a combination of existing majors and academic minors does not adequately fulfill a student’s educational goals. With close advisement, students can build their own programs of study.",
+          "source_line": "The interdisciplinary major allows students to create an individual, original major. It is a flexible option available when a combination of existing majors and academic minors does not adequately fulfill a student’s educational goals. With close advisement, students can build their own programs of study."
+        },
+        {
+          "text": "The interdisciplinary major is an intensive research program for students with a focused interest in a topic that requires study from more than one disciplinary perspective. Interdisciplinary majors are usually self-motivated students with good writing skills and an intellectual passion for a particular area of inquiry. Course work is selected to lead to a thesis project integrating the areas of research comprising the interdisciplinary major.",
+          "source_line": "The interdisciplinary major is an intensive research program for students with a focused interest in a topic that requires study from more than one disciplinary perspective. Interdisciplinary majors are usually self-motivated students with good writing skills and an intellectual passion for a particular area of inquiry. Course work is selected to lead to a thesis project integrating the areas of research comprising the interdisciplinary major."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Admission",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Admission to the interdisciplinary major is by application. Applications, which may be obtained from the program office, are considered by a special admissions committee. Interested students must have a GPA of 3.0 (A = 4.0) or above; those with less than a 3.3 are the exception.",
+          "source_line": "Admission to the interdisciplinary major is by application. Applications, which may be obtained from the program office, are considered by a special admissions committee. Interested students must have a GPA of 3.0 (A = 4.0) or above; those with less than a 3.3 are the exception."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students in the program must meet all graduation requirements of USC Dornsife College. When admitted, students establish an academic “contract,” which outlines each student’s course of study through graduation. The contract includes a minimum of nine (4-unit) upper-division courses, distributed in at least two fields. The primary focus of the major should be in the USC Dornsife College of Letters, Arts and Sciences. These areas of concentration must then be combined in a senior thesis, written under the supervision of the student’s Guidance Committee.",
+          "source_line": "Students in the program must meet all graduation requirements of USC Dornsife College. When admitted, students establish an academic “contract,” which outlines each student’s course of study through graduation. The contract includes a minimum of nine (4-unit) upper-division courses, distributed in at least two fields. The primary focus of the major should be in the USC Dornsife College of Letters, Arts and Sciences. These areas of concentration must then be combined in a senior thesis, written under the supervision of the student’s Guidance Committee."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Restrictions",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Course prerequisites cannot be waived; admission to courses restricted to majors is subject to availability and direct negotiations; admission to departments and/or schools that have their own admission requirements must be processed separately.",
+          "source_line": "Course prerequisites cannot be waived; admission to courses restricted to majors is subject to availability and direct negotiations; admission to departments and/or schools that have their own admission requirements must be processed separately."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

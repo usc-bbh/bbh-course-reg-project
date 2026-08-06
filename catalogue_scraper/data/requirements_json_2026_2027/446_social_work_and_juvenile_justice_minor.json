@@ -1,0 +1,90 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Social Work and Juvenile Justice Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32664",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32664&returnto=9396",
+    "source_text_file": "446_social_work_and_juvenile_justice_minor.txt",
+    "source_content_sha256": "c502fdb4f644bfb41f3e0fe173c1522ce96a810f139b84245b7b863e9fc1357a",
+    "retrieved_at": "2026-07-31T01:13:09Z"
+  },
+  "totals": {
+    "stated_total_units": 16.0,
+    "stated_total_units_source": "minor requires a minimum of 16 units",
+    "unit_statements_verbatim": [
+      "The Social Work and Juvenile Justice minor requires a minimum of 16 units."
+    ],
+    "course_entry_count": 5,
+    "distinct_course_codes": 5,
+    "section_count": 2
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Social Work and Juvenile Justice minor is designed for students who want to increase their knowledge of the juvenile justice system and service environments for youth populations. This minor is fit for students in the behavioral and social sciences and any student interested in developing a broad knowledge of issues in the field of juvenile justice. The minor is of particular interest to students wishing to pursue graduate studies in social work, law, sociology, psychology, public health or education.",
+          "source_line": "The Social Work and Juvenile Justice minor is designed for students who want to increase their knowledge of the juvenile justice system and service environments for youth populations. This minor is fit for students in the behavioral and social sciences and any student interested in developing a broad knowledge of issues in the field of juvenile justice. The minor is of particular interest to students wishing to pursue graduate studies in social work, law, sociology, psychology, public health or education."
+        },
+        {
+          "text": "The Social Work and Juvenile Justice minor requires a minimum of 16 units.",
+          "source_line": "The Social Work and Juvenile Justice minor requires a minimum of 16 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "SOWK 200xm",
+          "title": "Systemic Challenges and Social Change in the United States",
+          "units": 4.0,
+          "source_line": "- SOWK 200xm Systemic Challenges and Social Change in the United States Units: 4"
+        },
+        {
+          "code": "SOWK 324",
+          "title": "Juvenile Justice in America",
+          "units": 4.0,
+          "source_line": "- SOWK 324 Juvenile Justice in America Units: 4"
+        },
+        {
+          "code": "SOWK 350",
+          "title": "Adolescent Gang Intervention",
+          "units": 4.0,
+          "source_line": "- SOWK 350 Adolescent Gang Intervention Units: 4"
+        },
+        {
+          "code": "SOWK 417",
+          "title": "Introduction to Substance Use Disorders and Recovery",
+          "units": 4.0,
+          "source_line": "- SOWK 417 Introduction to Substance Use Disorders and Recovery Units: 4"
+        },
+        {
+          "code": "SOWK 424",
+          "title": "Community Experience in Juvenile Justice Environments",
+          "units": 4.0,
+          "source_line": "- SOWK 424 Community Experience in Juvenile Justice Environments Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select four courses from the following course options:",
+          "source_line": "Select four courses from the following course options:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select four courses from the following course options:",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,127 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Chemistry Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31740",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31740&returnto=9396",
+    "source_text_file": "239_chemistry_minor.txt",
+    "source_content_sha256": "802f3d03cc9d38c65710ee76f12759d8aa73cacd51d3f66c9c8e5a75f3c40dd7",
+    "retrieved_at": "2026-07-31T01:00:11Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 11,
+    "distinct_course_codes": 11,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A chemistry minor is available for students who wish to broaden their exposure to the chemical sciences. In addition to a core of five chemistry courses (year-long sequences in general chemistry and organic chemistry and a one semester course in analytical chemistry), students must take one upper-division chemistry elective in either advanced organic or advanced inorganic chemistry.",
+          "source_line": "A chemistry minor is available for students who wish to broaden their exposure to the chemical sciences. In addition to a core of five chemistry courses (year-long sequences in general chemistry and organic chemistry and a one semester course in analytical chemistry), students must take one upper-division chemistry elective in either advanced organic or advanced inorganic chemistry."
+        },
+        {
+          "text": "Biology majors must take CHEM 300L , CHEM 426 and CHEM 453 .",
+          "source_line": "Biology majors must take CHEM 300L , CHEM 426 and CHEM 453 ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses, Lower-Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CHEM 105aLg",
+          "title": "General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 105aLg General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 105bL",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105bL General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 115aLg",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115aLg Advanced General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 115bL",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115bL Advanced General Chemistry Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses, Upper-Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CHEM 300L",
+          "title": "Analytical Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 300L Analytical Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 322aL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 322aL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 322bL",
+          "title": "Organic Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 322bL Organic Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 325aL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 325aL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 325bL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 325bL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 426",
+          "title": "Advanced Organic Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 426 Advanced Organic Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 453",
+          "title": "Advanced Inorganic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 453 Advanced Inorganic Chemistry Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

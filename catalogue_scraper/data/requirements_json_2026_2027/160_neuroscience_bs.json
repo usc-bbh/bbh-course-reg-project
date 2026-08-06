@@ -1,0 +1,776 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Neuroscience (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31870",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31870&returnto=9396",
+    "source_text_file": "160_neuroscience_bs.txt",
+    "source_content_sha256": "5e806b849627ab6f32682f0620bf7bb39b0eef0ae8973ce8b93989252fcf2438",
+    "retrieved_at": "2026-07-31T00:56:07Z"
+  },
+  "totals": {
+    "stated_total_units": 128.0,
+    "stated_total_units_source": "degree requires a minimum of 128 units",
+    "unit_statements_verbatim": [
+      "#### Program Requirements:\n\nThe major requires 14 core courses (minimum 53 units) and five or six elective courses (minimum 20 units) for a minimum total of 73 units.",
+      "The degree requires a minimum of 128 units.",
+      "## Core Requirements (53 units)\n\n---\n\n- General Science Requirements (36 units)\n- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or\n- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4\n-\n- CHEM 105aLg General Chemistry Units: 4 or\n- CHEM 115aLg Advanced General Chemistry Units: 4\n-\n- CHEM 105bL General Chemistry Units: 4 or\n- CHEM 115bL Advanced General Chemistry Units: 4\n-\n- CHEM 322aL Organic Chemistry Units: 4\n- CHEM 322bL Organic Chemistry Units: 4\n- MATH 125g Calculus I Units: 4\n-\n- PHYS 135aLg Physics for the Life Sciences Units: 4 or\n- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4\n-\n- PHYS 135bL Physics for the Life Sciences Units: 4 or\n- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4\n-\n- PSYC 100Lg Introduction to Psychology Units: 4\n- Statistics Requirement, Choose One (4 units)\n- BUAD 310g Applied Business Statistics Units: 4\n- ECON 317 Introduction to Statistics for Economists Units: 4\n- HP 340Lg Health Behavior Statistical Methods Units: 4\n- MATH 208x Elementary Probability and Statistics Units: 4\n- MATH 307 Statistical Inference and Data Analysis I Units: 4\n- MATH 407 Probability Theory Units: 4\n- PSYC 274Lg Statistics Units: 4\n- QBIO 305g Statistics for Biological Sciences Units: 4\n- QBIO 310 Statistical Thinking for Quantitative Biology Units: 4\n- Neuroscience Requirements (13 units)\n- BISC 421 Neurobiology Units: 4\n- NEUR 199 Neuroscience Colloquium Units: 1\n- BISC 407 Cellular and Molecular Neuroscience Units: 4\n- BISC 408 Systems Neuroscience: From Synapses to Perception Units: 4\n\n## Electives (20 units)\n\n---\n\nFive or six upper-division elective courses (minimum of 20 units) from the following list are required.",
+      "No more than 4 units of NEUR 490x may be used to fulfill the upper-division elective requirement."
+    ],
+    "course_entry_count": 105,
+    "distinct_course_codes": 105,
+    "section_count": 7
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Coordinator: David McKemy, PhD",
+          "source_line": "Coordinator: David McKemy, PhD"
+        },
+        {
+          "text": "Undergraduate Advisers: Pablo Lopez, pablol@usc.edu; Mia Kirsten Santos, mnsantos@usc.edu.",
+          "source_line": "Undergraduate Advisers: Pablo Lopez, pablol@usc.edu; Mia Kirsten Santos, mnsantos@usc.edu."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Grade Requirements:",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A grade of C- or higher is required to count toward major requirements.",
+          "source_line": "A grade of C- or higher is required to count toward major requirements."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Requirements:",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The major requires 14 core courses (minimum 53 units) and five or six elective courses (minimum 20 units) for a minimum total of 73 units.",
+          "source_line": "The major requires 14 core courses (minimum 53 units) and five or six elective courses (minimum 20 units) for a minimum total of 73 units."
+        },
+        {
+          "text": "The degree requires a minimum of 128 units.",
+          "source_line": "The degree requires a minimum of 128 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Requirements (53 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 220Lg",
+          "title": "General Biology: Cell Biology and Physiology  or",
+          "units": 4.0,
+          "source_line": "- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or"
+        },
+        {
+          "code": "BISC 221Lg",
+          "title": "Advanced General Biology: Cell Biology and Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4"
+        },
+        {
+          "code": "CHEM 105aLg",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105aLg General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 115aLg",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115aLg Advanced General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 105bL",
+          "title": "General Chemistry  or",
+          "units": 4.0,
+          "source_line": "- CHEM 105bL General Chemistry Units: 4 or"
+        },
+        {
+          "code": "CHEM 115bL",
+          "title": "Advanced General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 115bL Advanced General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 322aL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 322aL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 322bL",
+          "title": "Organic Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 322bL Organic Chemistry Units: 4"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "PHYS 135aLg",
+          "title": "Physics for the Life Sciences  or",
+          "units": 4.0,
+          "source_line": "- PHYS 135aLg Physics for the Life Sciences Units: 4 or"
+        },
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4"
+        },
+        {
+          "code": "PHYS 135bL",
+          "title": "Physics for the Life Sciences  or",
+          "units": 4.0,
+          "source_line": "- PHYS 135bL Physics for the Life Sciences Units: 4 or"
+        },
+        {
+          "code": "PHYS 152L",
+          "title": "Fundamentals of Physics II: Electricity and Magnetism",
+          "units": 4.0,
+          "source_line": "- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4"
+        },
+        {
+          "code": "PSYC 100Lg",
+          "title": "Introduction to Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 100Lg Introduction to Psychology Units: 4"
+        },
+        {
+          "code": "BUAD 310g",
+          "title": "Applied Business Statistics",
+          "units": 4.0,
+          "source_line": "- BUAD 310g Applied Business Statistics Units: 4"
+        },
+        {
+          "code": "ECON 317",
+          "title": "Introduction to Statistics for Economists",
+          "units": 4.0,
+          "source_line": "- ECON 317 Introduction to Statistics for Economists Units: 4"
+        },
+        {
+          "code": "HP 340Lg",
+          "title": "Health Behavior Statistical Methods",
+          "units": 4.0,
+          "source_line": "- HP 340Lg Health Behavior Statistical Methods Units: 4"
+        },
+        {
+          "code": "MATH 208x",
+          "title": "Elementary Probability and Statistics",
+          "units": 4.0,
+          "source_line": "- MATH 208x Elementary Probability and Statistics Units: 4"
+        },
+        {
+          "code": "MATH 307",
+          "title": "Statistical Inference and Data Analysis I",
+          "units": 4.0,
+          "source_line": "- MATH 307 Statistical Inference and Data Analysis I Units: 4"
+        },
+        {
+          "code": "MATH 407",
+          "title": "Probability Theory",
+          "units": 4.0,
+          "source_line": "- MATH 407 Probability Theory Units: 4"
+        },
+        {
+          "code": "PSYC 274Lg",
+          "title": "Statistics",
+          "units": 4.0,
+          "source_line": "- PSYC 274Lg Statistics Units: 4"
+        },
+        {
+          "code": "QBIO 305g",
+          "title": "Statistics for Biological Sciences",
+          "units": 4.0,
+          "source_line": "- QBIO 305g Statistics for Biological Sciences Units: 4"
+        },
+        {
+          "code": "QBIO 310",
+          "title": "Statistical Thinking for Quantitative Biology",
+          "units": 4.0,
+          "source_line": "- QBIO 310 Statistical Thinking for Quantitative Biology Units: 4"
+        },
+        {
+          "code": "BISC 421",
+          "title": "Neurobiology",
+          "units": 4.0,
+          "source_line": "- BISC 421 Neurobiology Units: 4"
+        },
+        {
+          "code": "NEUR 199",
+          "title": "Neuroscience Colloquium",
+          "units": 1.0,
+          "source_line": "- NEUR 199 Neuroscience Colloquium Units: 1"
+        },
+        {
+          "code": "BISC 407",
+          "title": "Cellular and Molecular Neuroscience",
+          "units": 4.0,
+          "source_line": "- BISC 407 Cellular and Molecular Neuroscience Units: 4"
+        },
+        {
+          "code": "BISC 408",
+          "title": "Systems Neuroscience: From Synapses to Perception",
+          "units": 4.0,
+          "source_line": "- BISC 408 Systems Neuroscience: From Synapses to Perception Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "General Science Requirements (36 units)",
+          "source_line": "- General Science Requirements (36 units)"
+        },
+        {
+          "text": "Statistics Requirement, Choose One (4 units)",
+          "source_line": "- Statistics Requirement, Choose One (4 units)",
+          "states_choice_rule": true
+        },
+        {
+          "text": "Neuroscience Requirements (13 units)",
+          "source_line": "- Neuroscience Requirements (13 units)"
+        }
+      ],
+      "choice": "Statistics Requirement, Choose One (4 units)",
+      "total_units": null
+    },
+    {
+      "title": "Electives (20 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Five or six upper-division elective courses (minimum of 20 units) from the following list are required. At least one course in the upper-division electives must carry a lab (“L”) designation or be 490. No more than 4 units of NEUR 490x may be used to fulfill the upper-division elective requirement.",
+          "source_line": "Five or six upper-division elective courses (minimum of 20 units) from the following list are required. At least one course in the upper-division electives must carry a lab (“L”) designation or be 490. No more than 4 units of NEUR 490x may be used to fulfill the upper-division elective requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Courses",
+      "level": 3,
+      "courses": [
+        {
+          "code": "BISC 307L",
+          "title": "General Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 307L General Physiology Units: 4"
+        },
+        {
+          "code": "BISC 312x",
+          "title": "Molecular Biochemistry",
+          "units": 4.0,
+          "source_line": "- BISC 312x Molecular Biochemistry Units: 4"
+        },
+        {
+          "code": "BISC 313L",
+          "title": "Evolution and Population Genetics",
+          "units": 4.0,
+          "source_line": "- BISC 313L Evolution and Population Genetics Units: 4"
+        },
+        {
+          "code": "BISC 320Lg",
+          "title": "Molecular Biology",
+          "units": 4.0,
+          "source_line": "- BISC 320Lg Molecular Biology Units: 4"
+        },
+        {
+          "code": "BISC 325",
+          "title": "Genetics",
+          "units": 4.0,
+          "source_line": "- BISC 325 Genetics Units: 4"
+        },
+        {
+          "code": "BISC 330L",
+          "title": "Biochemistry",
+          "units": 4.0,
+          "source_line": "- BISC 330L Biochemistry Units: 4"
+        },
+        {
+          "code": "BISC 403",
+          "title": "Advanced Molecular Biology",
+          "units": 4.0,
+          "source_line": "- BISC 403 Advanced Molecular Biology Units: 4"
+        },
+        {
+          "code": "BISC 406L",
+          "title": "Biotechnology",
+          "units": 4.0,
+          "source_line": "- BISC 406L Biotechnology Units: 4"
+        },
+        {
+          "code": "BISC 410",
+          "title": "Applications of Molecular Biology to Medicine",
+          "units": 4.0,
+          "source_line": "- BISC 410 Applications of Molecular Biology to Medicine Units: 4"
+        },
+        {
+          "code": "BISC 411",
+          "title": "Advanced Cell Biology",
+          "units": 4.0,
+          "source_line": "- BISC 411 Advanced Cell Biology Units: 4"
+        },
+        {
+          "code": "BISC 422L",
+          "title": "Neurobiology Laboratory",
+          "units": 2.0,
+          "source_line": "- BISC 422L Neurobiology Laboratory Units: 2"
+        },
+        {
+          "code": "BISC 423",
+          "title": "Epilepsy to Ecstasy: Biological Basis of Neurological Disorders",
+          "units": 4.0,
+          "source_line": "- BISC 423 Epilepsy to Ecstasy: Biological Basis of Neurological Disorders Units: 4"
+        },
+        {
+          "code": "BISC 424",
+          "title": "Brain Architecture",
+          "units": 4.0,
+          "source_line": "- BISC 424 Brain Architecture Units: 4"
+        },
+        {
+          "code": "BISC 425",
+          "title": "Genetics through the Scientific Literature",
+          "units": 4.0,
+          "source_line": "- BISC 425 Genetics through the Scientific Literature Units: 4"
+        },
+        {
+          "code": "BISC 426",
+          "title": "Principles of Neural Development",
+          "units": 4.0,
+          "source_line": "- BISC 426 Principles of Neural Development Units: 4"
+        },
+        {
+          "code": "BISC 438",
+          "title": "Nutritional Biochemistry",
+          "units": 4.0,
+          "source_line": "- BISC 438 Nutritional Biochemistry Units: 4"
+        },
+        {
+          "code": "BISC 444",
+          "title": "Practical Analysis of Biological Data in R",
+          "units": 2.0,
+          "source_line": "- BISC 444 Practical Analysis of Biological Data in R Units: 2"
+        },
+        {
+          "code": "BISC 461",
+          "title": "Seminar in Molecular and Computational Biology",
+          "units": 2.0,
+          "source_line": "- BISC 461 Seminar in Molecular and Computational Biology Units: 2"
+        },
+        {
+          "code": "BISC 462",
+          "title": "Seminar in Neurobiology",
+          "units": 2.0,
+          "source_line": "- BISC 462 Seminar in Neurobiology Units: 2"
+        },
+        {
+          "code": "BISC 466",
+          "title": "Neuroimmunology",
+          "units": 4.0,
+          "source_line": "- BISC 466 Neuroimmunology Units: 4"
+        },
+        {
+          "code": "BISC 480L",
+          "title": "Developmental Biology",
+          "units": 4.0,
+          "source_line": "- BISC 480L Developmental Biology Units: 4"
+        },
+        {
+          "code": "BISC 499",
+          "title": "Special Topics , 3, 4",
+          "units": 2.0,
+          "source_line": "- BISC 499 Special Topics Units: 2, 3, 4"
+        },
+        {
+          "code": "BPSI 405",
+          "title": "Organ Systems Physiology, Drug Delivery and Drug Action",
+          "units": 4.0,
+          "source_line": "- BPSI 405 Organ Systems Physiology, Drug Delivery and Drug Action Units: 4"
+        },
+        {
+          "code": "CHEM 350",
+          "title": "Molecular Principles of Biochemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 350 Molecular Principles of Biochemistry Units: 4"
+        },
+        {
+          "code": "CSCI 360",
+          "title": "Artificial Intelligence: Principles and Foundations",
+          "units": 4.0,
+          "source_line": "- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4"
+        },
+        {
+          "code": "CSCI 445L",
+          "title": "Foundations of Robotics",
+          "units": 4.0,
+          "source_line": "- CSCI 445L Foundations of Robotics Units: 4"
+        },
+        {
+          "code": "ECON 405",
+          "title": "Neuroeconomics",
+          "units": 4.0,
+          "source_line": "- ECON 405 Neuroeconomics Units: 4"
+        },
+        {
+          "code": "GERO 310",
+          "title": "Physiology of Aging",
+          "units": 4.0,
+          "source_line": "- GERO 310 Physiology of Aging Units: 4"
+        },
+        {
+          "code": "GERO 320g",
+          "title": "Psychology of Adult Development",
+          "units": 4.0,
+          "source_line": "- GERO 320g Psychology of Adult Development Units: 4"
+        },
+        {
+          "code": "GERO 321",
+          "title": "Introduction to Psychology and Aging",
+          "units": 4.0,
+          "source_line": "- GERO 321 Introduction to Psychology and Aging Units: 4"
+        },
+        {
+          "code": "GERO 414",
+          "title": "Neurobiology of Aging",
+          "units": 4.0,
+          "source_line": "- GERO 414 Neurobiology of Aging Units: 4"
+        },
+        {
+          "code": "GERO 415",
+          "title": "Neuroaffective Disorders of Aging",
+          "units": 4.0,
+          "source_line": "- GERO 415 Neuroaffective Disorders of Aging Units: 4"
+        },
+        {
+          "code": "GERO 494",
+          "title": "Resilience in Aging: A Cross-Cultural Exploration",
+          "units": 4.0,
+          "source_line": "- GERO 494 Resilience in Aging: A Cross-Cultural Exploration Units: 4"
+        },
+        {
+          "code": "HBIO 306",
+          "title": "Biology of the Non-Human Primates",
+          "units": 4.0,
+          "source_line": "- HBIO 306 Biology of the Non-Human Primates Units: 4"
+        },
+        {
+          "code": "HBIO 308",
+          "title": "Origins and Evolution of Human Behavior",
+          "units": 4.0,
+          "source_line": "- HBIO 308 Origins and Evolution of Human Behavior Units: 4"
+        },
+        {
+          "code": "HBIO 420L",
+          "title": "Applied Human Physiology",
+          "units": 4.0,
+          "source_line": "- HBIO 420L Applied Human Physiology Units: 4"
+        },
+        {
+          "code": "HBIO 435",
+          "title": "Neurobiology of Feeding Behavior and Obesity",
+          "units": 4.0,
+          "source_line": "- HBIO 435 Neurobiology of Feeding Behavior and Obesity Units: 4"
+        },
+        {
+          "code": "HP 409",
+          "title": "Environmental Impacts on the Brain",
+          "units": 4.0,
+          "source_line": "- HP 409 Environmental Impacts on the Brain Units: 4"
+        },
+        {
+          "code": "LING 385Lg",
+          "title": "Human Language as Computation",
+          "units": 4.0,
+          "source_line": "- LING 385Lg Human Language as Computation Units: 4"
+        },
+        {
+          "code": "MEDS 320",
+          "title": "Human Cadaveric Anatomy",
+          "units": 4.0,
+          "source_line": "- MEDS 320 Human Cadaveric Anatomy Units: 4"
+        },
+        {
+          "code": "MEDS 340",
+          "title": "The Brain in Health and Disease",
+          "units": 2.0,
+          "source_line": "- MEDS 340 The Brain in Health and Disease Units: 2"
+        },
+        {
+          "code": "MEDS 350",
+          "title": "Neurochemistry of Addiction: Drugs, Brain, and Behavior",
+          "units": 2.0,
+          "source_line": "- MEDS 350 Neurochemistry of Addiction: Drugs, Brain, and Behavior Units: 2"
+        },
+        {
+          "code": "NEUR 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8",
+          "units": 1.0,
+          "source_line": "- NEUR 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8"
+        },
+        {
+          "code": "PSYC 301L",
+          "title": "Cognitive Processes",
+          "units": 4.0,
+          "source_line": "- PSYC 301L Cognitive Processes Units: 4"
+        },
+        {
+          "code": "PSYC 304L",
+          "title": "Sensation and Perception",
+          "units": 4.0,
+          "source_line": "- PSYC 304L Sensation and Perception Units: 4"
+        },
+        {
+          "code": "PSYC 305",
+          "title": "Learning and Memory",
+          "units": 4.0,
+          "source_line": "- PSYC 305 Learning and Memory Units: 4"
+        },
+        {
+          "code": "PSYC 320",
+          "title": "Principles of Psychobiology",
+          "units": 4.0,
+          "source_line": "- PSYC 320 Principles of Psychobiology Units: 4"
+        },
+        {
+          "code": "PSYC 326",
+          "title": "Behavioral Neuroscience",
+          "units": 4.0,
+          "source_line": "- PSYC 326 Behavioral Neuroscience Units: 4"
+        },
+        {
+          "code": "PSYC 337L",
+          "title": "Adult Development and Aging",
+          "units": 4.0,
+          "source_line": "- PSYC 337L Adult Development and Aging Units: 4"
+        },
+        {
+          "code": "PSYC 339Lg",
+          "title": "Origins of the Mind",
+          "units": 4.0,
+          "source_line": "- PSYC 339Lg Origins of the Mind Units: 4"
+        },
+        {
+          "code": "PSYC 420",
+          "title": "Animal Behavior",
+          "units": 4.0,
+          "source_line": "- PSYC 420 Animal Behavior Units: 4"
+        },
+        {
+          "code": "PSYC 424",
+          "title": "Neuropsychology",
+          "units": 4.0,
+          "source_line": "- PSYC 424 Neuropsychology Units: 4"
+        },
+        {
+          "code": "PSYC 425",
+          "title": "Functional Imaging of the Human Brain",
+          "units": 4.0,
+          "source_line": "- PSYC 425 Functional Imaging of the Human Brain Units: 4"
+        },
+        {
+          "code": "PSYC 426",
+          "title": "Motivated Behaviors and Addiction",
+          "units": 4.0,
+          "source_line": "- PSYC 426 Motivated Behaviors and Addiction Units: 4"
+        },
+        {
+          "code": "PSYC 427",
+          "title": "Neuropsychopharmacology",
+          "units": 4.0,
+          "source_line": "- PSYC 427 Neuropsychopharmacology Units: 4"
+        },
+        {
+          "code": "PSYC 428",
+          "title": "Advanced Psychobiology Seminar",
+          "units": 4.0,
+          "source_line": "- PSYC 428 Advanced Psychobiology Seminar Units: 4"
+        },
+        {
+          "code": "PSYC 432",
+          "title": "From Eugenics to Neurodiversity: History of DisAbility",
+          "units": 4.0,
+          "source_line": "- PSYC 432 From Eugenics to Neurodiversity: History of DisAbility Units: 4"
+        },
+        {
+          "code": "PSYC 438",
+          "title": "Behavioral Genetics",
+          "units": 4.0,
+          "source_line": "- PSYC 438 Behavioral Genetics Units: 4"
+        },
+        {
+          "code": "PSYC 440",
+          "title": "Foundations of Cognitive Neuroscience",
+          "units": 4.0,
+          "source_line": "- PSYC 440 Foundations of Cognitive Neuroscience Units: 4"
+        },
+        {
+          "code": "PSYC 450",
+          "title": "Neural Network Models of Social and Cognitive Processes",
+          "units": 4.0,
+          "source_line": "- PSYC 450 Neural Network Models of Social and Cognitive Processes Units: 4"
+        },
+        {
+          "code": "PSYC 452",
+          "title": "Social Neuroscience",
+          "units": 4.0,
+          "source_line": "- PSYC 452 Social Neuroscience Units: 4"
+        },
+        {
+          "code": "PSYC 468",
+          "title": "Happiness: Research in Neuroscience and Positive Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 468 Happiness: Research in Neuroscience and Positive Psychology Units: 4"
+        },
+        {
+          "code": "QBIO 481",
+          "title": "Structural Bioinformatics: From Atoms to Cells",
+          "units": 4.0,
+          "source_line": "- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4"
+        },
+        {
+          "code": "RXRS 403",
+          "title": "Neuropharmacology in Health and Disease",
+          "units": 4.0,
+          "source_line": "- RXRS 403 Neuropharmacology in Health and Disease Units: 4"
+        },
+        {
+          "code": "RXRS 405",
+          "title": "Breaking Brains: The Pharmacology of Addiction",
+          "units": 4.0,
+          "source_line": "- RXRS 405 Breaking Brains: The Pharmacology of Addiction Units: 4"
+        },
+        {
+          "code": "RXRS 412",
+          "title": "Ethics, Drugs and Society",
+          "units": 4.0,
+          "source_line": "- RXRS 412 Ethics, Drugs and Society Units: 4"
+        },
+        {
+          "code": "SCRM 487",
+          "title": "Regenerative Medicine: Principles, Paradigms and Practice",
+          "units": 4.0,
+          "source_line": "- SCRM 487 Regenerative Medicine: Principles, Paradigms and Practice Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "*Cannot take GERO 321 if completed GERO 320",
+          "source_line": "- *Cannot take GERO 321 if completed GERO 320"
+        },
+        {
+          "text": "Units: 4",
+          "source_line": "- Units: 4"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Graduate Courses",
+      "level": 3,
+      "courses": [
+        {
+          "code": "BME 575",
+          "title": "Computational Neural Engineering",
+          "units": 4.0,
+          "source_line": "- BME 575 Computational Neural Engineering Units: 4"
+        },
+        {
+          "code": "NSCI 524",
+          "title": "Advanced Overview of Neurosciences",
+          "units": 4.0,
+          "source_line": "- NSCI 524 Advanced Overview of Neurosciences Units: 4"
+        },
+        {
+          "code": "NSCI 531",
+          "title": "Molecular and Cellular Neurobiology",
+          "units": 4.0,
+          "source_line": "- NSCI 531 Molecular and Cellular Neurobiology Units: 4"
+        },
+        {
+          "code": "NSCI 532",
+          "title": "Systems and Behavioral Neurobiology",
+          "units": 3.0,
+          "source_line": "- NSCI 532 Systems and Behavioral Neurobiology Units: 3"
+        },
+        {
+          "code": "PSYC 506",
+          "title": "Learning and Cognition",
+          "units": 4.0,
+          "source_line": "- PSYC 506 Learning and Cognition Units: 4"
+        },
+        {
+          "code": "PSYC 540",
+          "title": "Cognitive Neuroscience",
+          "units": 4.0,
+          "source_line": "- PSYC 540 Cognitive Neuroscience Units: 4"
+        },
+        {
+          "code": "PSYC 544",
+          "title": "Psychophysiology",
+          "units": 4.0,
+          "source_line": "- PSYC 544 Psychophysiology Units: 4"
+        },
+        {
+          "code": "PSYC 545",
+          "title": "Neuropsychology",
+          "units": 4.0,
+          "source_line": "- PSYC 545 Neuropsychology Units: 4"
+        },
+        {
+          "code": "PSYC 547",
+          "title": "Functional Neuroanatomy",
+          "units": 4.0,
+          "source_line": "- PSYC 547 Functional Neuroanatomy Units: 4"
+        },
+        {
+          "code": "PSYC 551",
+          "title": "Decision Neuroscience",
+          "units": 4.0,
+          "source_line": "- PSYC 551 Decision Neuroscience Units: 4"
+        },
+        {
+          "code": "PSYC 555",
+          "title": "Introduction to Functional Magnetic Resonance Imaging",
+          "units": 4.0,
+          "source_line": "- PSYC 555 Introduction to Functional Magnetic Resonance Imaging Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "A graduate class from the following list may be substituted for an upper-division elective with the permission of the co-directors and instructor and with a minimum GPA of 3.3.",
+          "source_line": "A graduate class from the following list may be substituted for an upper-division elective with the permission of the co-directors and instructor and with a minimum GPA of 3.3."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

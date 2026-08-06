@@ -1,0 +1,529 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Religion (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31917",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31917&returnto=9396",
+    "source_text_file": "188_religion_ba.txt",
+    "source_content_sha256": "3609dbd019abd78fc8b71a28eb00cd61f76b99a36730c70767bf838aa3eb56b2",
+    "retrieved_at": "2026-07-31T00:57:09Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The total unit requirement for the major is 32 units (at least 24 units must be upper-division).",
+      "## Lower-division Options:\n\n---\n\n- REL 111g The World of the Hebrew Bible Units: 4\n- REL 112g Religions of Ancient Egypt and the Near East Units: 4\n- REL 114g The Mediterranean: A Religious History Units: 4\n- REL 115g Jerusalem, City of Three Faiths Units: 4\n- REL 116g Jews in the Modern Middle East Units: 4\n- REL 121g The New Testament Units: 4\n- REL 125gp Introduction to Christianity: Antiquity to 1500 Units: 4\n- REL 130g Indian Traditions of Mind and Body Units: 4\n- REL 132g Origins of Western Religions Units: 4\n- REL 134g Introduction to Buddhism Units: 4\n- REL 135g Chinese Religions and Culture Units: 4\n- REL 136g Sense and Sensuality in Indian Religions and Culture Units: 4\n- REL 137g Introduction to Islam Units: 4\n- REL 141g Global Religions in Los Angeles Units: 4\n- REL 146gp Spirituality in America Units: 4\n- REL 147g Religion, Media and Popular Culture Units: 4\n\n## Upper-division Options:\n\n---\n\n- CLAS 323 Aegean Archaeology Units: 4\n- COMM 426 Religion, Media and Hollywood: Faith in TV Units: 4\n- EALC 431 The Taoist Tradition Units: 4\n- JS 321 Gender and Judaism Units: 4\n- JS 361gp Scripture and Polemic in Judaism, Christianity and Islam Units: 4\n- JS 382g Judaism as an American Religion Units: 4\n- JS 467 Modern Jewish Thought Units: 4\n- PHIL 317 History of Western Philosophy: Medieval Period Units: 4\n- REL 302 Religions of Ancient Egypt and the Near East Units: 4\n- REL 303Lg Exploring Ancient Ways of Living: Experimental Archaeology Units: 4\n- REL 304 Ethics and Global Heritage Units: 4\n- REL 311g The Bible in Western Literature Units: 4\n- REL 312 Biblical Wisdom Literature Units: 4\n- REL 315 Thought and Life of Islam Units: 4\n- REL 316 Women and the Islamic Tradition Units: 4\n- REL 317g The Bible in Its Ancient Context Units: 4\n- REL 319 Religious and Ethical Issues in Death and Dying Units: 4\n- REL 322g Religion and Science Units: 4\n- REL 324g Sex and the Bible: Gender, Sexuality, and Scripture Units: 4\n- REL 325g Religious Experience in the Greco-Roman World Units: 4\n- REL 326gp Historical Jesus Units: 4\n- REL 327g Heretics, Martyrs, and Miracles Units: 4\n- REL 330 Introduction to the Religions of India Units: 4\n- REL 331 Religions of East Asia Units: 4\n- REL 332 Encountering Japanese Religions Units: 4\n- REL 334g Religion and Colonial Encounter Units: 4\n- REL 335 Gender, Religion, and Sexuality Units: 4\n- REL 336w Re-Viewing Religion in Asian America Units: 4\n- REL 338 Mysticism and Religious Desire Units: 4\n- REL 339 Studies in the History of Christianity Units: 4\n- REL 340 Introduction to Indian Philosophy Units: 4\n- REL 341 Technology, Culture, and Ethics Units: 4\n- REL 342g Buddhist Modernism Units: 4\n- REL 345p Islamic Spirituality: Mysticism and the Sufi Tradition Units: 4\n- REL 350 Drugs, Alcohol, Visions and Altered States in Religion Units: 4\n- REL 359g Culture in Diaspora: The Jews of Spain Units: 4\n- REL 361 Law and Religion Units: 4\n- REL 363g Black Religion in America Units: 4\n- REL 364 Religion and Ethics Units: 4\n- REL 365 Global Ethics Units: 4\n- REL 366 Religion and Social Change Units: 4\n- REL 370 Religion and Visuality Units: 4\n- REL 371 Religion and the Supernatural Units: 4\n- REL 376g Religion and Human Rights Units: 4\n- REL 394 Archaeology of Egypt and the Near East Units: 4\n- REL 402 Cultural Heritage, Religion, and Politics in the Middle East Units: 4\n- REL 415 Seminar in Buddhism Units: 4\n- REL 435 Religious Thought After the Enlightenment Units: 4\n- REL 462 Religion and Violence Units: 4\n- REL 468 Sociology of Religion Units: 4\n- REL 473 Advanced Hebrew Bible Studies Units: 4\n- REL 474 Advanced New Testament Studies Units: 4\n- REL 479 Seminar in Christian Thought Units: 4\n- REL 481 History of Religion in America Units: 4\n- REL 483 Religion and Popular Culture in the United States Units: 4\n- REL 485 Transnational Religion Units: 4\n- REL 493 Art and Archaeology of Religion Units: 4\n- REL 494L Lab Methods and Theories in Archaeology Units: 2, 4\n- REL 495 Field Methods and Theories in Archaeology Units: 4\n- REL 499 Special Topics in Religion Units: 2, 3, 4\n\n## Additional Requirements\n\n---\n\nStudents who intend to do graduate work in some area of religious studies are encouraged to concentrate their course selections in the area of their preference and to begin learning the languages that are essential for study in that area."
+    ],
+    "course_entry_count": 76,
+    "distinct_course_codes": 76,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The department major requires REL 301 Introduction to the Study of Religion (preferably taken at the beginning of the student’s major courses) and REL 401 Seminar in Religious Studies . Further, students must take six additional courses from the list below. The total unit requirement for the major is 32 units (at least 24 units must be upper-division).",
+          "source_line": "The department major requires REL 301 Introduction to the Study of Religion (preferably taken at the beginning of the student’s major courses) and REL 401 Seminar in Religious Studies . Further, students must take six additional courses from the list below. The total unit requirement for the major is 32 units (at least 24 units must be upper-division)."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-division Options:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "REL 111g",
+          "title": "The World of the Hebrew Bible",
+          "units": 4.0,
+          "source_line": "- REL 111g The World of the Hebrew Bible Units: 4"
+        },
+        {
+          "code": "REL 112g",
+          "title": "Religions of Ancient Egypt and the Near East",
+          "units": 4.0,
+          "source_line": "- REL 112g Religions of Ancient Egypt and the Near East Units: 4"
+        },
+        {
+          "code": "REL 114g",
+          "title": "The Mediterranean: A Religious History",
+          "units": 4.0,
+          "source_line": "- REL 114g The Mediterranean: A Religious History Units: 4"
+        },
+        {
+          "code": "REL 115g",
+          "title": "Jerusalem, City of Three Faiths",
+          "units": 4.0,
+          "source_line": "- REL 115g Jerusalem, City of Three Faiths Units: 4"
+        },
+        {
+          "code": "REL 116g",
+          "title": "Jews in the Modern Middle East",
+          "units": 4.0,
+          "source_line": "- REL 116g Jews in the Modern Middle East Units: 4"
+        },
+        {
+          "code": "REL 121g",
+          "title": "The New Testament",
+          "units": 4.0,
+          "source_line": "- REL 121g The New Testament Units: 4"
+        },
+        {
+          "code": "REL 125gp",
+          "title": "Introduction to Christianity: Antiquity to 1500",
+          "units": 4.0,
+          "source_line": "- REL 125gp Introduction to Christianity: Antiquity to 1500 Units: 4"
+        },
+        {
+          "code": "REL 130g",
+          "title": "Indian Traditions of Mind and Body",
+          "units": 4.0,
+          "source_line": "- REL 130g Indian Traditions of Mind and Body Units: 4"
+        },
+        {
+          "code": "REL 132g",
+          "title": "Origins of Western Religions",
+          "units": 4.0,
+          "source_line": "- REL 132g Origins of Western Religions Units: 4"
+        },
+        {
+          "code": "REL 134g",
+          "title": "Introduction to Buddhism",
+          "units": 4.0,
+          "source_line": "- REL 134g Introduction to Buddhism Units: 4"
+        },
+        {
+          "code": "REL 135g",
+          "title": "Chinese Religions and Culture",
+          "units": 4.0,
+          "source_line": "- REL 135g Chinese Religions and Culture Units: 4"
+        },
+        {
+          "code": "REL 136g",
+          "title": "Sense and Sensuality in Indian Religions and Culture",
+          "units": 4.0,
+          "source_line": "- REL 136g Sense and Sensuality in Indian Religions and Culture Units: 4"
+        },
+        {
+          "code": "REL 137g",
+          "title": "Introduction to Islam",
+          "units": 4.0,
+          "source_line": "- REL 137g Introduction to Islam Units: 4"
+        },
+        {
+          "code": "REL 141g",
+          "title": "Global Religions in Los Angeles",
+          "units": 4.0,
+          "source_line": "- REL 141g Global Religions in Los Angeles Units: 4"
+        },
+        {
+          "code": "REL 146gp",
+          "title": "Spirituality in America",
+          "units": 4.0,
+          "source_line": "- REL 146gp Spirituality in America Units: 4"
+        },
+        {
+          "code": "REL 147g",
+          "title": "Religion, Media and Popular Culture",
+          "units": 4.0,
+          "source_line": "- REL 147g Religion, Media and Popular Culture Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-division Options:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CLAS 323",
+          "title": "Aegean Archaeology",
+          "units": 4.0,
+          "source_line": "- CLAS 323 Aegean Archaeology Units: 4"
+        },
+        {
+          "code": "COMM 426",
+          "title": "Religion, Media and Hollywood: Faith in TV",
+          "units": 4.0,
+          "source_line": "- COMM 426 Religion, Media and Hollywood: Faith in TV Units: 4"
+        },
+        {
+          "code": "EALC 431",
+          "title": "The Taoist Tradition",
+          "units": 4.0,
+          "source_line": "- EALC 431 The Taoist Tradition Units: 4"
+        },
+        {
+          "code": "JS 321",
+          "title": "Gender and Judaism",
+          "units": 4.0,
+          "source_line": "- JS 321 Gender and Judaism Units: 4"
+        },
+        {
+          "code": "JS 361gp",
+          "title": "Scripture and Polemic in Judaism, Christianity and Islam",
+          "units": 4.0,
+          "source_line": "- JS 361gp Scripture and Polemic in Judaism, Christianity and Islam Units: 4"
+        },
+        {
+          "code": "JS 382g",
+          "title": "Judaism as an American Religion",
+          "units": 4.0,
+          "source_line": "- JS 382g Judaism as an American Religion Units: 4"
+        },
+        {
+          "code": "JS 467",
+          "title": "Modern Jewish Thought",
+          "units": 4.0,
+          "source_line": "- JS 467 Modern Jewish Thought Units: 4"
+        },
+        {
+          "code": "PHIL 317",
+          "title": "History of Western Philosophy: Medieval Period",
+          "units": 4.0,
+          "source_line": "- PHIL 317 History of Western Philosophy: Medieval Period Units: 4"
+        },
+        {
+          "code": "REL 302",
+          "title": "Religions of Ancient Egypt and the Near East",
+          "units": 4.0,
+          "source_line": "- REL 302 Religions of Ancient Egypt and the Near East Units: 4"
+        },
+        {
+          "code": "REL 303Lg",
+          "title": "Exploring Ancient Ways of Living: Experimental Archaeology",
+          "units": 4.0,
+          "source_line": "- REL 303Lg Exploring Ancient Ways of Living: Experimental Archaeology Units: 4"
+        },
+        {
+          "code": "REL 304",
+          "title": "Ethics and Global Heritage",
+          "units": 4.0,
+          "source_line": "- REL 304 Ethics and Global Heritage Units: 4"
+        },
+        {
+          "code": "REL 311g",
+          "title": "The Bible in Western Literature",
+          "units": 4.0,
+          "source_line": "- REL 311g The Bible in Western Literature Units: 4"
+        },
+        {
+          "code": "REL 312",
+          "title": "Biblical Wisdom Literature",
+          "units": 4.0,
+          "source_line": "- REL 312 Biblical Wisdom Literature Units: 4"
+        },
+        {
+          "code": "REL 315",
+          "title": "Thought and Life of Islam",
+          "units": 4.0,
+          "source_line": "- REL 315 Thought and Life of Islam Units: 4"
+        },
+        {
+          "code": "REL 316",
+          "title": "Women and the Islamic Tradition",
+          "units": 4.0,
+          "source_line": "- REL 316 Women and the Islamic Tradition Units: 4"
+        },
+        {
+          "code": "REL 317g",
+          "title": "The Bible in Its Ancient Context",
+          "units": 4.0,
+          "source_line": "- REL 317g The Bible in Its Ancient Context Units: 4"
+        },
+        {
+          "code": "REL 319",
+          "title": "Religious and Ethical Issues in Death and Dying",
+          "units": 4.0,
+          "source_line": "- REL 319 Religious and Ethical Issues in Death and Dying Units: 4"
+        },
+        {
+          "code": "REL 322g",
+          "title": "Religion and Science",
+          "units": 4.0,
+          "source_line": "- REL 322g Religion and Science Units: 4"
+        },
+        {
+          "code": "REL 324g",
+          "title": "Sex and the Bible: Gender, Sexuality, and Scripture",
+          "units": 4.0,
+          "source_line": "- REL 324g Sex and the Bible: Gender, Sexuality, and Scripture Units: 4"
+        },
+        {
+          "code": "REL 325g",
+          "title": "Religious Experience in the Greco-Roman World",
+          "units": 4.0,
+          "source_line": "- REL 325g Religious Experience in the Greco-Roman World Units: 4"
+        },
+        {
+          "code": "REL 326gp",
+          "title": "Historical Jesus",
+          "units": 4.0,
+          "source_line": "- REL 326gp Historical Jesus Units: 4"
+        },
+        {
+          "code": "REL 327g",
+          "title": "Heretics, Martyrs, and Miracles",
+          "units": 4.0,
+          "source_line": "- REL 327g Heretics, Martyrs, and Miracles Units: 4"
+        },
+        {
+          "code": "REL 330",
+          "title": "Introduction to the Religions of India",
+          "units": 4.0,
+          "source_line": "- REL 330 Introduction to the Religions of India Units: 4"
+        },
+        {
+          "code": "REL 331",
+          "title": "Religions of East Asia",
+          "units": 4.0,
+          "source_line": "- REL 331 Religions of East Asia Units: 4"
+        },
+        {
+          "code": "REL 332",
+          "title": "Encountering Japanese Religions",
+          "units": 4.0,
+          "source_line": "- REL 332 Encountering Japanese Religions Units: 4"
+        },
+        {
+          "code": "REL 334g",
+          "title": "Religion and Colonial Encounter",
+          "units": 4.0,
+          "source_line": "- REL 334g Religion and Colonial Encounter Units: 4"
+        },
+        {
+          "code": "REL 335",
+          "title": "Gender, Religion, and Sexuality",
+          "units": 4.0,
+          "source_line": "- REL 335 Gender, Religion, and Sexuality Units: 4"
+        },
+        {
+          "code": "REL 336w",
+          "title": "Re-Viewing Religion in Asian America",
+          "units": 4.0,
+          "source_line": "- REL 336w Re-Viewing Religion in Asian America Units: 4"
+        },
+        {
+          "code": "REL 338",
+          "title": "Mysticism and Religious Desire",
+          "units": 4.0,
+          "source_line": "- REL 338 Mysticism and Religious Desire Units: 4"
+        },
+        {
+          "code": "REL 339",
+          "title": "Studies in the History of Christianity",
+          "units": 4.0,
+          "source_line": "- REL 339 Studies in the History of Christianity Units: 4"
+        },
+        {
+          "code": "REL 340",
+          "title": "Introduction to Indian Philosophy",
+          "units": 4.0,
+          "source_line": "- REL 340 Introduction to Indian Philosophy Units: 4"
+        },
+        {
+          "code": "REL 341",
+          "title": "Technology, Culture, and Ethics",
+          "units": 4.0,
+          "source_line": "- REL 341 Technology, Culture, and Ethics Units: 4"
+        },
+        {
+          "code": "REL 342g",
+          "title": "Buddhist Modernism",
+          "units": 4.0,
+          "source_line": "- REL 342g Buddhist Modernism Units: 4"
+        },
+        {
+          "code": "REL 345p",
+          "title": "Islamic Spirituality: Mysticism and the Sufi Tradition",
+          "units": 4.0,
+          "source_line": "- REL 345p Islamic Spirituality: Mysticism and the Sufi Tradition Units: 4"
+        },
+        {
+          "code": "REL 350",
+          "title": "Drugs, Alcohol, Visions and Altered States in Religion",
+          "units": 4.0,
+          "source_line": "- REL 350 Drugs, Alcohol, Visions and Altered States in Religion Units: 4"
+        },
+        {
+          "code": "REL 359g",
+          "title": "Culture in Diaspora: The Jews of Spain",
+          "units": 4.0,
+          "source_line": "- REL 359g Culture in Diaspora: The Jews of Spain Units: 4"
+        },
+        {
+          "code": "REL 361",
+          "title": "Law and Religion",
+          "units": 4.0,
+          "source_line": "- REL 361 Law and Religion Units: 4"
+        },
+        {
+          "code": "REL 363g",
+          "title": "Black Religion in America",
+          "units": 4.0,
+          "source_line": "- REL 363g Black Religion in America Units: 4"
+        },
+        {
+          "code": "REL 364",
+          "title": "Religion and Ethics",
+          "units": 4.0,
+          "source_line": "- REL 364 Religion and Ethics Units: 4"
+        },
+        {
+          "code": "REL 365",
+          "title": "Global Ethics",
+          "units": 4.0,
+          "source_line": "- REL 365 Global Ethics Units: 4"
+        },
+        {
+          "code": "REL 366",
+          "title": "Religion and Social Change",
+          "units": 4.0,
+          "source_line": "- REL 366 Religion and Social Change Units: 4"
+        },
+        {
+          "code": "REL 370",
+          "title": "Religion and Visuality",
+          "units": 4.0,
+          "source_line": "- REL 370 Religion and Visuality Units: 4"
+        },
+        {
+          "code": "REL 371",
+          "title": "Religion and the Supernatural",
+          "units": 4.0,
+          "source_line": "- REL 371 Religion and the Supernatural Units: 4"
+        },
+        {
+          "code": "REL 376g",
+          "title": "Religion and Human Rights",
+          "units": 4.0,
+          "source_line": "- REL 376g Religion and Human Rights Units: 4"
+        },
+        {
+          "code": "REL 394",
+          "title": "Archaeology of Egypt and the Near East",
+          "units": 4.0,
+          "source_line": "- REL 394 Archaeology of Egypt and the Near East Units: 4"
+        },
+        {
+          "code": "REL 402",
+          "title": "Cultural Heritage, Religion, and Politics in the Middle East",
+          "units": 4.0,
+          "source_line": "- REL 402 Cultural Heritage, Religion, and Politics in the Middle East Units: 4"
+        },
+        {
+          "code": "REL 415",
+          "title": "Seminar in Buddhism",
+          "units": 4.0,
+          "source_line": "- REL 415 Seminar in Buddhism Units: 4"
+        },
+        {
+          "code": "REL 435",
+          "title": "Religious Thought After the Enlightenment",
+          "units": 4.0,
+          "source_line": "- REL 435 Religious Thought After the Enlightenment Units: 4"
+        },
+        {
+          "code": "REL 462",
+          "title": "Religion and Violence",
+          "units": 4.0,
+          "source_line": "- REL 462 Religion and Violence Units: 4"
+        },
+        {
+          "code": "REL 468",
+          "title": "Sociology of Religion",
+          "units": 4.0,
+          "source_line": "- REL 468 Sociology of Religion Units: 4"
+        },
+        {
+          "code": "REL 473",
+          "title": "Advanced Hebrew Bible Studies",
+          "units": 4.0,
+          "source_line": "- REL 473 Advanced Hebrew Bible Studies Units: 4"
+        },
+        {
+          "code": "REL 474",
+          "title": "Advanced New Testament Studies",
+          "units": 4.0,
+          "source_line": "- REL 474 Advanced New Testament Studies Units: 4"
+        },
+        {
+          "code": "REL 479",
+          "title": "Seminar in Christian Thought",
+          "units": 4.0,
+          "source_line": "- REL 479 Seminar in Christian Thought Units: 4"
+        },
+        {
+          "code": "REL 481",
+          "title": "History of Religion in America",
+          "units": 4.0,
+          "source_line": "- REL 481 History of Religion in America Units: 4"
+        },
+        {
+          "code": "REL 483",
+          "title": "Religion and Popular Culture in the United States",
+          "units": 4.0,
+          "source_line": "- REL 483 Religion and Popular Culture in the United States Units: 4"
+        },
+        {
+          "code": "REL 485",
+          "title": "Transnational Religion",
+          "units": 4.0,
+          "source_line": "- REL 485 Transnational Religion Units: 4"
+        },
+        {
+          "code": "REL 493",
+          "title": "Art and Archaeology of Religion",
+          "units": 4.0,
+          "source_line": "- REL 493 Art and Archaeology of Religion Units: 4"
+        },
+        {
+          "code": "REL 494L",
+          "title": "Lab Methods and Theories in Archaeology , 4",
+          "units": 2.0,
+          "source_line": "- REL 494L Lab Methods and Theories in Archaeology Units: 2, 4"
+        },
+        {
+          "code": "REL 495",
+          "title": "Field Methods and Theories in Archaeology",
+          "units": 4.0,
+          "source_line": "- REL 495 Field Methods and Theories in Archaeology Units: 4"
+        },
+        {
+          "code": "REL 499",
+          "title": "Special Topics in Religion , 3, 4",
+          "units": 2.0,
+          "source_line": "- REL 499 Special Topics in Religion Units: 2, 3, 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students who intend to do graduate work in some area of religious studies are encouraged to concentrate their course selections in the area of their preference and to begin learning the languages that are essential for study in that area. This includes modern languages such as Arabic, Chinese, French, German or Japanese, and perhaps an ancient language.",
+          "source_line": "Students who intend to do graduate work in some area of religious studies are encouraged to concentrate their course selections in the area of their preference and to begin learning the languages that are essential for study in that area. This includes modern languages such as Arabic, Chinese, French, German or Japanese, and perhaps an ancient language."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

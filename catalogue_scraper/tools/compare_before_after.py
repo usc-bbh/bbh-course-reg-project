@@ -3,6 +3,7 @@
 
 Usage: compare_before_after.py BEFORE_AUDIT_CSV AFTER_AUDIT_CSV OUT_MD
 """
+
 from __future__ import annotations
 
 import csv
@@ -21,8 +22,11 @@ def stats(rows: list[dict]) -> dict:
     if not c:
         return {}
     return {
-        "n": len(rows), "min": c[0], "max": c[-1],
-        "mean": round(statistics.mean(c), 1), "median": statistics.median(c),
+        "n": len(rows),
+        "min": c[0],
+        "max": c[-1],
+        "mean": round(statistics.mean(c), 1),
+        "median": statistics.median(c),
         "stdev": round(statistics.pstdev(c), 1) if len(c) > 1 else 0.0,
     }
 
@@ -54,8 +58,16 @@ def main() -> int:
     A("| Metric | Before (delivered) | After (corrected) | Change |")
     A("|---|---|---|---|")
     A(f"| Files produced | {len(b_rows)} | {len(a_rows)} | {len(a_rows) - len(b_rows):+d} |")
-    for k in ("PASS", "REVIEW", "FAIL", "html_contaminated", "no_title_heading",
-              "zero_course_codes", "title_mismatch", "duplicate_bodies"):
+    for k in (
+        "PASS",
+        "REVIEW",
+        "FAIL",
+        "html_contaminated",
+        "no_title_heading",
+        "zero_course_codes",
+        "title_mismatch",
+        "duplicate_bodies",
+    ):
         A(f"| {k.replace('_', ' ')} | {bc[k]} | {ac[k]} | {ac[k] - bc[k]:+d} |")
     for k in ("min", "median", "mean", "max", "stdev"):
         A(f"| {k} chars | {bs.get(k)} | {as_.get(k)} | — |")
@@ -64,10 +76,14 @@ def main() -> int:
     # missing / new files
     missing = sorted(set(before) - set(after))
     added = sorted(set(after) - set(before))
-    A(f"- Files in baseline but not in corrected set: **{len(missing)}**"
-      + (f" — {', '.join(missing[:12])}" if missing else ""))
-    A(f"- Files in corrected set but not in baseline: **{len(added)}**"
-      + (f" — {', '.join(added[:12])}" if added else ""))
+    A(
+        f"- Files in baseline but not in corrected set: **{len(missing)}**"
+        + (f" — {', '.join(missing[:12])}" if missing else "")
+    )
+    A(
+        f"- Files in corrected set but not in baseline: **{len(added)}**"
+        + (f" — {', '.join(added[:12])}" if added else "")
+    )
     A("")
 
     # materially changed
@@ -80,15 +96,24 @@ def main() -> int:
             changed.append((name, b, a))
     A(f"## Materially changed files: {len(changed)}")
     A("")
-    fixed = [(n, b, a) for n, b, a in changed
-             if b["validation_status"] == "FAIL" and a["validation_status"] != "FAIL"]
-    regressed = [(n, b, a) for n, b, a in changed
-                 if b["validation_status"] != "FAIL" and a["validation_status"] == "FAIL"]
-    other = [(n, b, a) for n, b, a in changed
-             if (n, b, a) not in fixed and (n, b, a) not in regressed]
+    fixed = [
+        (n, b, a)
+        for n, b, a in changed
+        if b["validation_status"] == "FAIL" and a["validation_status"] != "FAIL"
+    ]
+    regressed = [
+        (n, b, a)
+        for n, b, a in changed
+        if b["validation_status"] != "FAIL" and a["validation_status"] == "FAIL"
+    ]
+    other = [
+        (n, b, a) for n, b, a in changed if (n, b, a) not in fixed and (n, b, a) not in regressed
+    ]
     A(f"- **Repaired** (FAIL → clean): {len(fixed)}")
-    A(f"- **Regressed** (clean → FAIL): {len(regressed)}"
-      + ("  ← investigate" if regressed else "  ✓ none"))
+    A(
+        f"- **Regressed** (clean → FAIL): {len(regressed)}"
+        + ("  ← investigate" if regressed else "  ✓ none")
+    )
     A(f"- Other content changes (both clean; USC edits / renderer detail): {len(other)}")
     A("")
     if fixed:
@@ -98,13 +123,15 @@ def main() -> int:
         A("|---|---|---|---|")
         for n, b, a in sorted(fixed)[:200]:
             reason = (b["critical_signatures"] or b["failure_reasons"])[:70]
-            A(f"| {n} | {b['char_count']} / {b['course_code_count']} | "
-              f"{a['char_count']} / {a['course_code_count']} | {reason} |")
+            A(
+                f"| {n} | {b['char_count']} / {b['course_code_count']} | "
+                f"{a['char_count']} / {a['course_code_count']} | {reason} |"
+            )
         A("")
     if regressed:
         A("### REGRESSIONS — must be investigated")
         A("")
-        for n, b, a in regressed:
+        for n, _b, a in regressed:
             A(f"- `{n}`: {a['failure_reasons']}")
         A("")
     if other:
@@ -113,19 +140,28 @@ def main() -> int:
         A("| file | before chars | after chars | before status | after status |")
         A("|---|---|---|---|---|")
         for n, b, a in sorted(other)[:40]:
-            A(f"| {n} | {b['char_count']} | {a['char_count']} | "
-              f"{b['validation_status']} | {a['validation_status']} |")
+            A(
+                f"| {n} | {b['char_count']} | {a['char_count']} | "
+                f"{b['validation_status']} | {a['validation_status']} |"
+            )
         A("")
 
     A("## Five smallest / largest, after correction")
     A("")
-    nz = sorted((r for r in a_rows if int(r["char_count"]) > 0),
-                key=lambda r: int(r["char_count"]))
-    A("Smallest: " + ", ".join(
-        f"{r['file_name']} ({r['char_count']}, {r['validation_status']})" for r in nz[:5]))
+    nz = sorted((r for r in a_rows if int(r["char_count"]) > 0), key=lambda r: int(r["char_count"]))
+    A(
+        "Smallest: "
+        + ", ".join(
+            f"{r['file_name']} ({r['char_count']}, {r['validation_status']})" for r in nz[:5]
+        )
+    )
     A("")
-    A("Largest: " + ", ".join(
-        f"{r['file_name']} ({r['char_count']}, {r['validation_status']})" for r in nz[-5:][::-1]))
+    A(
+        "Largest: "
+        + ", ".join(
+            f"{r['file_name']} ({r['char_count']}, {r['validation_status']})" for r in nz[-5:][::-1]
+        )
+    )
     out_p.write_text("\n".join(L) + "\n", encoding="utf-8")
     print("\n".join(L[:40]))
     print(f"\nwrote {out_p}")

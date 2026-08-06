@@ -1,0 +1,125 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Communication Policy and Law Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32416",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32416&returnto=9396",
+    "source_text_file": "251_communication_policy_and_law_minor.txt",
+    "source_content_sha256": "17c2d2a14ade13ec8b0df6994c06baf49abdcfb3f5709e8b1f17a52a110e3aac",
+    "retrieved_at": "2026-07-31T01:00:38Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "0 grade point average and completion of 32 units (sophomore standing)."
+    ],
+    "course_entry_count": 11,
+    "distinct_course_codes": 11,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Information and communication practices and technologies have an increasingly powerful impact on nearly every aspect of our lives. From the level of privacy in our personal lives to the way we govern our communities or manage our businesses, the legal and policy issues in the communication field are ever-changing and increasingly complex. To prepare students to navigate this dynamic and complicated world, the minor in communication policy and law combines courses in communication, law, ethics, and the business of communication taught at both the School of Communication and the School of Journalism at USC Annenberg. Students can choose to focus on policy or legal issues that affect communication technologies, strategies, and uses. This minor will not only enable students to understand the revolution in media and telecommunications technology and practice, it will ground them in the fundamentals of free speech, intellectual property and the local, state and federal role in the regulation of communication platforms ranging from emerging social media to the legacy media of broadcasting and newspapers. This is an ideal minor for students interested in law or advanced communication scholarship. Admission requirements are a minimum 3.0 grade point average and completion of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission.",
+          "source_line": "Information and communication practices and technologies have an increasingly powerful impact on nearly every aspect of our lives. From the level of privacy in our personal lives to the way we govern our communities or manage our businesses, the legal and policy issues in the communication field are ever-changing and increasingly complex. To prepare students to navigate this dynamic and complicated world, the minor in communication policy and law combines courses in communication, law, ethics, and the business of communication taught at both the School of Communication and the School of Journalism at USC Annenberg. Students can choose to focus on policy or legal issues that affect communication technologies, strategies, and uses. This minor will not only enable students to understand the revolution in media and telecommunications technology and practice, it will ground them in the fundamentals of free speech, intellectual property and the local, state and federal role in the regulation of communication platforms ranging from emerging social media to the legacy media of broadcasting and newspapers. This is an ideal minor for students interested in law or advanced communication scholarship. Admission requirements are a minimum 3.0 grade point average and completion of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Core Courses (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ASCJ 210",
+          "title": "Contours of Change in Media and Communication",
+          "units": 4.0,
+          "source_line": "- ASCJ 210 Contours of Change in Media and Communication Units: 4"
+        },
+        {
+          "code": "COMM 322",
+          "title": "Argumentation and Advocacy",
+          "units": 4.0,
+          "source_line": "- COMM 322 Argumentation and Advocacy Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose three electives (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "COMM 345",
+          "title": "Social and Economic Implications of Communication Technologies",
+          "units": 4.0,
+          "source_line": "- COMM 345 Social and Economic Implications of Communication Technologies Units: 4"
+        },
+        {
+          "code": "COMM 371",
+          "title": "Media Censorship and the Law",
+          "units": 4.0,
+          "source_line": "- COMM 371 Media Censorship and the Law Units: 4"
+        },
+        {
+          "code": "COMM 402",
+          "title": "Public Communication Campaigns",
+          "units": 4.0,
+          "source_line": "- COMM 402 Public Communication Campaigns Units: 4"
+        },
+        {
+          "code": "COMM 412",
+          "title": "Communication and Social Movements",
+          "units": 4.0,
+          "source_line": "- COMM 412 Communication and Social Movements Units: 4"
+        },
+        {
+          "code": "COMM 421",
+          "title": "Legal Communication",
+          "units": 4.0,
+          "source_line": "- COMM 421 Legal Communication Units: 4"
+        },
+        {
+          "code": "COMM 422",
+          "title": "Legal Issues and New Media",
+          "units": 4.0,
+          "source_line": "- COMM 422 Legal Issues and New Media Units: 4"
+        },
+        {
+          "code": "COMM 427",
+          "title": "Topics in Media Economics, Law and Policy",
+          "units": 4.0,
+          "source_line": "- COMM 427 Topics in Media Economics, Law and Policy Units: 4"
+        },
+        {
+          "code": "COMM 489",
+          "title": "Campaign Communication",
+          "units": 4.0,
+          "source_line": "- COMM 489 Campaign Communication Units: 4"
+        },
+        {
+          "code": "JOUR 462",
+          "title": "Law of Mass Communication",
+          "units": 4.0,
+          "source_line": "- JOUR 462 Law of Mass Communication Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

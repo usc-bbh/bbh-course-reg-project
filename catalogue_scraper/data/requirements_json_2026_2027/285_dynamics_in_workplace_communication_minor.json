@@ -1,0 +1,200 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Dynamics in Workplace Communication Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32583",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32583&returnto=9396",
+    "source_text_file": "285_dynamics_in_workplace_communication_minor.txt",
+    "source_content_sha256": "68e04708492c2b3871f8fe7b25a0f66a4b9e9dff7c68d00f10873cb5f9046374",
+    "retrieved_at": "2026-07-31T01:01:52Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "To declare this minor, students must have a declared major and must have completed 32 units of college level courses with a cumulative USC GPA of at least 2.",
+      "## Required Courses (8 units)\n\n---\n\n- BUAD 302 Communication Strategy in Business Units: 4\n-\n- Complete one of the following:\n- BUCO 333mw Communication in the Working World - Managing Diversity Units: 4\n- BUCO 460 International Business Communication Units: 4\n\n## Electives (8 units)\n\n---\n\n- Business Communication (4-8 units)\n  Complete at least one of the following BUCO courses:\n- BUCO 333mw Communication in the Working World - Managing Diversity Units: 4 *\n- BUCO 425 Ethics and Professional Communication Units: 4\n- BUCO 445 Communicating to Lead and Persuade Units: 4\n- BUCO 458 Managing Communication and New Media Units: 4\n- BUCO 460 International Business Communication Units: 4 *\n- BUCO 485 Business Communication Management for Nonprofits Units: 4\n- * May be completed as an elective if not applied as a required course."
+    ],
+    "course_entry_count": 16,
+    "distinct_course_codes": 14,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Whether navigating the culture of a start-up, a Fortune 100 company, or in any domestic or international workplace situation, strategic and emotionally intelligent communication is essential. This minor has a high emphasis on application practice to prepare students to succeed in their work environment. Courses feature experiential components and/or offer opportunities to connect with professionals and outside constituencies to learn hands-on about communication challenges and how to develop effective communication strategy.",
+          "source_line": "Whether navigating the culture of a start-up, a Fortune 100 company, or in any domestic or international workplace situation, strategic and emotionally intelligent communication is essential. This minor has a high emphasis on application practice to prepare students to succeed in their work environment. Courses feature experiential components and/or offer opportunities to connect with professionals and outside constituencies to learn hands-on about communication challenges and how to develop effective communication strategy."
+        },
+        {
+          "text": "To declare this minor, students must have a declared major and must have completed 32 units of college level courses with a cumulative USC GPA of at least 2.75.",
+          "source_line": "To declare this minor, students must have a declared major and must have completed 32 units of college level courses with a cumulative USC GPA of at least 2.75."
+        },
+        {
+          "text": "Students taking this minor should, if possible, enroll in the business version of the upper division USC writing requirement: WRIT 340 Advanced Writing and Critical Engagement .",
+          "source_line": "Students taking this minor should, if possible, enroll in the business version of the upper division USC writing requirement: WRIT 340 Advanced Writing and Critical Engagement ."
+        },
+        {
+          "text": "Successful completion of the minor requires a minimum cumulative GPA of 2.0 in the courses applied to the minor.",
+          "source_line": "Successful completion of the minor requires a minimum cumulative GPA of 2.0 in the courses applied to the minor."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BUAD 302",
+          "title": "Communication Strategy in Business",
+          "units": 4.0,
+          "source_line": "- BUAD 302 Communication Strategy in Business Units: 4"
+        },
+        {
+          "code": "BUCO 333mw",
+          "title": "Communication in the Working World - Managing Diversity",
+          "units": 4.0,
+          "source_line": "- BUCO 333mw Communication in the Working World - Managing Diversity Units: 4"
+        },
+        {
+          "code": "BUCO 460",
+          "title": "International Business Communication",
+          "units": 4.0,
+          "source_line": "- BUCO 460 International Business Communication Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete one of the following:",
+          "source_line": "- Complete one of the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Complete one of the following:",
+      "total_units": null
+    },
+    {
+      "title": "Electives (8 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BUCO 333mw",
+          "title": "Communication in the Working World - Managing Diversity  *",
+          "units": 4.0,
+          "source_line": "- BUCO 333mw Communication in the Working World - Managing Diversity Units: 4 *"
+        },
+        {
+          "code": "BUCO 425",
+          "title": "Ethics and Professional Communication",
+          "units": 4.0,
+          "source_line": "- BUCO 425 Ethics and Professional Communication Units: 4"
+        },
+        {
+          "code": "BUCO 445",
+          "title": "Communicating to Lead and Persuade",
+          "units": 4.0,
+          "source_line": "- BUCO 445 Communicating to Lead and Persuade Units: 4"
+        },
+        {
+          "code": "BUCO 458",
+          "title": "Managing Communication and New Media",
+          "units": 4.0,
+          "source_line": "- BUCO 458 Managing Communication and New Media Units: 4"
+        },
+        {
+          "code": "BUCO 460",
+          "title": "International Business Communication  *",
+          "units": 4.0,
+          "source_line": "- BUCO 460 International Business Communication Units: 4 *"
+        },
+        {
+          "code": "BUCO 485",
+          "title": "Business Communication Management for Nonprofits",
+          "units": 4.0,
+          "source_line": "- BUCO 485 Business Communication Management for Nonprofits Units: 4"
+        },
+        {
+          "code": "BAEP 470",
+          "title": "The Entrepreneurial Mindset — Taking the Leap",
+          "units": 2.0,
+          "source_line": "- BAEP 470 The Entrepreneurial Mindset — Taking the Leap Units: 2"
+        },
+        {
+          "code": "BAEP 472",
+          "title": "The Science of Peak Performance",
+          "units": 2.0,
+          "source_line": "- BAEP 472 The Science of Peak Performance Units: 2"
+        },
+        {
+          "code": "BAEP 475",
+          "title": "Entertainment Entrepreneurship",
+          "units": 2.0,
+          "source_line": "- BAEP 475 Entertainment Entrepreneurship Units: 2"
+        },
+        {
+          "code": "BAEP 491",
+          "title": "Introduction to Social Entrepreneurship",
+          "units": 4.0,
+          "source_line": "- BAEP 491 Introduction to Social Entrepreneurship Units: 4"
+        },
+        {
+          "code": "BUCO 450",
+          "title": "Communication for Organizations: Exploring Creativity",
+          "units": 2.0,
+          "source_line": "- BUCO 450 Communication for Organizations: Exploring Creativity Units: 2"
+        },
+        {
+          "code": "MOR 469",
+          "title": "Negotiation and Persuasion",
+          "units": 4.0,
+          "source_line": "- MOR 469 Negotiation and Persuasion Units: 4"
+        },
+        {
+          "code": "MOR 471",
+          "title": "Managing and Developing People",
+          "units": 4.0,
+          "source_line": "- MOR 471 Managing and Developing People Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Business Communication (4-8 units)",
+          "source_line": "- Business Communication (4-8 units)"
+        },
+        {
+          "text": "Complete at least one of the following BUCO courses:",
+          "source_line": "  Complete at least one of the following BUCO courses:",
+          "states_choice_rule": true
+        },
+        {
+          "text": "* May be completed as an elective if not applied as a required course.",
+          "source_line": "- * May be completed as an elective if not applied as a required course."
+        },
+        {
+          "text": "Free Electives (0-4 units)",
+          "source_line": "- Free Electives (0-4 units)"
+        },
+        {
+          "text": "Complete any of the following as needed to total 16 units:",
+          "source_line": "  Complete any of the following as needed to total 16 units:"
+        },
+        {
+          "text": "Return to: USC Marshall School of Business",
+          "source_line": "- Return to: USC Marshall School of Business"
+        }
+      ],
+      "choice": "Complete at least one of the following BUCO courses:",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

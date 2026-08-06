@@ -1,0 +1,481 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Modern Art Markets and Ethics Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32553",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32553&returnto=9396",
+    "source_text_file": "390_modern_art_markets_and_ethics_minor.txt",
+    "source_content_sha256": "d2a190c863bb6f42a603c044e6f002c735da68f240d6054216c668711ea4cf92",
+    "retrieved_at": "2026-07-31T01:10:59Z"
+  },
+  "totals": {
+    "stated_total_units": 24.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "## Requirements\n\n---\n\n### Lower-Division Requirement (4 units)\n\n---\n\nChoose one.",
+      "- AHIS 120gp Foundations of Western Art: Prehistoric to Renaissance Units: 4\n- AHIS 121gp Foundations of Western Art: Renaissance to Contemporary Units: 4\n- AHIS 125gp Arts of Asia I: Antiquity to 1300 Units: 4\n- AHIS 126g Arts of Asia II: 1300 to the Present Units: 4\n- AHIS 127g Arts of the Ancient Americas Units: 4\n- AHIS 128gp The Arts and Society in Latin America, Colonial to Contemporary Units: 4\n- AHIS 250gm Art, Modernity and Difference Units: 4\n- AHIS 255g Culture Wars: Art and Social Conflict in the Modern World Units: 4\n\n### Upper-Division Courses on Modern Art (8 units)\n\n---\n\nChoose two.",
+      "- AHIS 368 Modern Art I: 1700–1850 Units: 4\n- AHIS 369 Modern Art II: 1851–1940 Units: 4\n- AHIS 370g Modern Art III: 1940 to the Present Units: 4\n\n### Critical Electives (8 units)\n\n---\n\nChoose two.",
+      "- AHIS 470 Studies in Contemporary Art Units: 4\n- AHIS 488 Topics in Art Conservation Units: 4\n- AMST 342m Law and Identities Units: 4\n- AMST 446 Latinx Music in the Americas Units: 4\n- BUAD 304 Organizational Behavior and Leadership Units: 4\n- COMM 454 Media, Money, and Society Units: 4\n- ECON 434 Economic Analysis of Law Units: 4\n- ECON 450 International Trade Units: 4\n- FBE 458 Law of Forming, Financing and Managing Businesses Units: 4\n- IR 308gw Economic Globalization Units: 4\n- IR 309 Global Governance Units: 4\n- IR 324 Multinational Enterprises and World Politics Units: 4\n- MOR 385gm Business, Government and Society Units: 4\n- MOR 421 Social and Ethical Issues in Business Units: 4\n- POSC 444 Civil and Political Rights and Liberties Units: 4\n- REL 304 Ethics and Global Heritage Units: 4\n- REL 365 Global Ethics Units: 4\n\n### Capstone Course (4 units)\n\n---\n\n- AHIS 301 Guardians of the Past? Art Preservation, Ethics, and the Law Units: 4\n\n### Total Units: 24\n\n---\n\n## Requirements for Art History Majors\n\n---\n\n### Lower-Division Requirement (4 units)\n\n---\n\n- ECON 238xg Political Economy and Social Issues Units: 4\n\n### Upper-Division Electives: Ethics and Modern Institutions (8 units)\n\n---\n\nChoose two.",
+      "- AHIS 488 Topics in Art Conservation Units: 4 *\n- AMST 342m Law and Identities Units: 4\n- BUAD 304 Organizational Behavior and Leadership Units: 4\n- ECON 450 International Trade Units: 4\n- FBE 458 Law of Forming, Financing and Managing Businesses Units: 4\n- IR 309 Global Governance Units: 4\n- IR 324 Multinational Enterprises and World Politics Units: 4\n- MOR 385gm Business, Government and Society Units: 4\n- POSC 444 Civil and Political Rights and Liberties Units: 4\n- REL 304 Ethics and Global Heritage Units: 4\n- REL 365 Global Ethics Units: 4\n\n### Upper-Division Electives: Markets and Social Relations (8 units)\n\n---\n\nChoose two."
+    ],
+    "course_entry_count": 48,
+    "distinct_course_codes": 30,
+    "section_count": 14
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Modern Art Markets and Ethics minor is designed for students, including Art History majors, who are drawn to an interdisciplinary study of modern art markets. The minor allows students to consider the intersection of law, ethics, and cultural studies. It offers students an interdisciplinary education in art institutions, and ethical discourses that surround the production, display, circulation, and consumption of art, both past and present. The minor will help students develop the critical skills of reading, writing and analysis crucial to a liberal education. Students will gain theoretical and analytical perspectives on ethical, political, and social issues relevant to art as they explore how the market informs and shapes our encounter with artistic objects.",
+          "source_line": "The Modern Art Markets and Ethics minor is designed for students, including Art History majors, who are drawn to an interdisciplinary study of modern art markets. The minor allows students to consider the intersection of law, ethics, and cultural studies. It offers students an interdisciplinary education in art institutions, and ethical discourses that surround the production, display, circulation, and consumption of art, both past and present. The minor will help students develop the critical skills of reading, writing and analysis crucial to a liberal education. Students will gain theoretical and analytical perspectives on ethical, political, and social issues relevant to art as they explore how the market informs and shapes our encounter with artistic objects."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division Requirement (4 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AHIS 120gp",
+          "title": "Foundations of Western Art: Prehistoric to Renaissance",
+          "units": 4.0,
+          "source_line": "- AHIS 120gp Foundations of Western Art: Prehistoric to Renaissance Units: 4"
+        },
+        {
+          "code": "AHIS 121gp",
+          "title": "Foundations of Western Art: Renaissance to Contemporary",
+          "units": 4.0,
+          "source_line": "- AHIS 121gp Foundations of Western Art: Renaissance to Contemporary Units: 4"
+        },
+        {
+          "code": "AHIS 125gp",
+          "title": "Arts of Asia I: Antiquity to 1300",
+          "units": 4.0,
+          "source_line": "- AHIS 125gp Arts of Asia I: Antiquity to 1300 Units: 4"
+        },
+        {
+          "code": "AHIS 126g",
+          "title": "Arts of Asia II: 1300 to the Present",
+          "units": 4.0,
+          "source_line": "- AHIS 126g Arts of Asia II: 1300 to the Present Units: 4"
+        },
+        {
+          "code": "AHIS 127g",
+          "title": "Arts of the Ancient Americas",
+          "units": 4.0,
+          "source_line": "- AHIS 127g Arts of the Ancient Americas Units: 4"
+        },
+        {
+          "code": "AHIS 128gp",
+          "title": "The Arts and Society in Latin America, Colonial to Contemporary",
+          "units": 4.0,
+          "source_line": "- AHIS 128gp The Arts and Society in Latin America, Colonial to Contemporary Units: 4"
+        },
+        {
+          "code": "AHIS 250gm",
+          "title": "Art, Modernity and Difference",
+          "units": 4.0,
+          "source_line": "- AHIS 250gm Art, Modernity and Difference Units: 4"
+        },
+        {
+          "code": "AHIS 255g",
+          "title": "Culture Wars: Art and Social Conflict in the Modern World",
+          "units": 4.0,
+          "source_line": "- AHIS 255g Culture Wars: Art and Social Conflict in the Modern World Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one. The lower division course provides students with a broad knowledge of art. Students may take the general introductory to art history (including surveys of Western, Asian, Latin American art), or they may choose a course that focuses on issues of art, institutions, and identity in the modern period (AHIS 250gm and AHIS 255g ).",
+          "source_line": "Choose one. The lower division course provides students with a broad knowledge of art. Students may take the general introductory to art history (including surveys of Western, Asian, Latin American art), or they may choose a course that focuses on issues of art, institutions, and identity in the modern period (AHIS 250gm and AHIS 255g ).",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one. The lower division course provides students with a broad knowledge of art. Students may take the general introductory to art history (including surveys of Western, Asian, Latin American art), or they may choose a course that focuses on issues of art, institutions, and identity in the modern period (AHIS 250gm and AHIS 255g ).",
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Courses on Modern Art (8 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AHIS 368",
+          "title": "Modern Art I: 1700–1850",
+          "units": 4.0,
+          "source_line": "- AHIS 368 Modern Art I: 1700–1850 Units: 4"
+        },
+        {
+          "code": "AHIS 369",
+          "title": "Modern Art II: 1851–1940",
+          "units": 4.0,
+          "source_line": "- AHIS 369 Modern Art II: 1851–1940 Units: 4"
+        },
+        {
+          "code": "AHIS 370g",
+          "title": "Modern Art III: 1940 to the Present",
+          "units": 4.0,
+          "source_line": "- AHIS 370g Modern Art III: 1940 to the Present Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose two. These courses will introduce students to the development of art and its relationship to modern markets in two distinct time periods.",
+          "source_line": "Choose two. These courses will introduce students to the development of art and its relationship to modern markets in two distinct time periods.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose two. These courses will introduce students to the development of art and its relationship to modern markets in two distinct time periods.",
+      "total_units": null
+    },
+    {
+      "title": "Critical Electives (8 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AHIS 470",
+          "title": "Studies in Contemporary Art",
+          "units": 4.0,
+          "source_line": "- AHIS 470 Studies in Contemporary Art Units: 4"
+        },
+        {
+          "code": "AHIS 488",
+          "title": "Topics in Art Conservation",
+          "units": 4.0,
+          "source_line": "- AHIS 488 Topics in Art Conservation Units: 4"
+        },
+        {
+          "code": "AMST 342m",
+          "title": "Law and Identities",
+          "units": 4.0,
+          "source_line": "- AMST 342m Law and Identities Units: 4"
+        },
+        {
+          "code": "AMST 446",
+          "title": "Latinx Music in the Americas",
+          "units": 4.0,
+          "source_line": "- AMST 446 Latinx Music in the Americas Units: 4"
+        },
+        {
+          "code": "BUAD 304",
+          "title": "Organizational Behavior and Leadership",
+          "units": 4.0,
+          "source_line": "- BUAD 304 Organizational Behavior and Leadership Units: 4"
+        },
+        {
+          "code": "COMM 454",
+          "title": "Media, Money, and Society",
+          "units": 4.0,
+          "source_line": "- COMM 454 Media, Money, and Society Units: 4"
+        },
+        {
+          "code": "ECON 434",
+          "title": "Economic Analysis of Law",
+          "units": 4.0,
+          "source_line": "- ECON 434 Economic Analysis of Law Units: 4"
+        },
+        {
+          "code": "ECON 450",
+          "title": "International Trade",
+          "units": 4.0,
+          "source_line": "- ECON 450 International Trade Units: 4"
+        },
+        {
+          "code": "FBE 458",
+          "title": "Law of Forming, Financing and Managing Businesses",
+          "units": 4.0,
+          "source_line": "- FBE 458 Law of Forming, Financing and Managing Businesses Units: 4"
+        },
+        {
+          "code": "IR 308gw",
+          "title": "Economic Globalization",
+          "units": 4.0,
+          "source_line": "- IR 308gw Economic Globalization Units: 4"
+        },
+        {
+          "code": "IR 309",
+          "title": "Global Governance",
+          "units": 4.0,
+          "source_line": "- IR 309 Global Governance Units: 4"
+        },
+        {
+          "code": "IR 324",
+          "title": "Multinational Enterprises and World Politics",
+          "units": 4.0,
+          "source_line": "- IR 324 Multinational Enterprises and World Politics Units: 4"
+        },
+        {
+          "code": "MOR 385gm",
+          "title": "Business, Government and Society",
+          "units": 4.0,
+          "source_line": "- MOR 385gm Business, Government and Society Units: 4"
+        },
+        {
+          "code": "MOR 421",
+          "title": "Social and Ethical Issues in Business",
+          "units": 4.0,
+          "source_line": "- MOR 421 Social and Ethical Issues in Business Units: 4"
+        },
+        {
+          "code": "POSC 444",
+          "title": "Civil and Political Rights and Liberties",
+          "units": 4.0,
+          "source_line": "- POSC 444 Civil and Political Rights and Liberties Units: 4"
+        },
+        {
+          "code": "REL 304",
+          "title": "Ethics and Global Heritage",
+          "units": 4.0,
+          "source_line": "- REL 304 Ethics and Global Heritage Units: 4"
+        },
+        {
+          "code": "REL 365",
+          "title": "Global Ethics",
+          "units": 4.0,
+          "source_line": "- REL 365 Global Ethics Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose two.",
+          "source_line": "Choose two.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose two.",
+      "total_units": null
+    },
+    {
+      "title": "Capstone Course (4 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AHIS 301",
+          "title": "Guardians of the Past? Art Preservation, Ethics, and the Law",
+          "units": 4.0,
+          "source_line": "- AHIS 301 Guardians of the Past? Art Preservation, Ethics, and the Law Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Units: 24",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 24.0
+    },
+    {
+      "title": "Requirements for Art History Majors",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division Requirement (4 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ECON 238xg",
+          "title": "Political Economy and Social Issues",
+          "units": 4.0,
+          "source_line": "- ECON 238xg Political Economy and Social Issues Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Electives: Ethics and Modern Institutions (8 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AHIS 488",
+          "title": "Topics in Art Conservation  *",
+          "units": 4.0,
+          "source_line": "- AHIS 488 Topics in Art Conservation Units: 4 *"
+        },
+        {
+          "code": "AMST 342m",
+          "title": "Law and Identities",
+          "units": 4.0,
+          "source_line": "- AMST 342m Law and Identities Units: 4"
+        },
+        {
+          "code": "BUAD 304",
+          "title": "Organizational Behavior and Leadership",
+          "units": 4.0,
+          "source_line": "- BUAD 304 Organizational Behavior and Leadership Units: 4"
+        },
+        {
+          "code": "ECON 450",
+          "title": "International Trade",
+          "units": 4.0,
+          "source_line": "- ECON 450 International Trade Units: 4"
+        },
+        {
+          "code": "FBE 458",
+          "title": "Law of Forming, Financing and Managing Businesses",
+          "units": 4.0,
+          "source_line": "- FBE 458 Law of Forming, Financing and Managing Businesses Units: 4"
+        },
+        {
+          "code": "IR 309",
+          "title": "Global Governance",
+          "units": 4.0,
+          "source_line": "- IR 309 Global Governance Units: 4"
+        },
+        {
+          "code": "IR 324",
+          "title": "Multinational Enterprises and World Politics",
+          "units": 4.0,
+          "source_line": "- IR 324 Multinational Enterprises and World Politics Units: 4"
+        },
+        {
+          "code": "MOR 385gm",
+          "title": "Business, Government and Society",
+          "units": 4.0,
+          "source_line": "- MOR 385gm Business, Government and Society Units: 4"
+        },
+        {
+          "code": "POSC 444",
+          "title": "Civil and Political Rights and Liberties",
+          "units": 4.0,
+          "source_line": "- POSC 444 Civil and Political Rights and Liberties Units: 4"
+        },
+        {
+          "code": "REL 304",
+          "title": "Ethics and Global Heritage",
+          "units": 4.0,
+          "source_line": "- REL 304 Ethics and Global Heritage Units: 4"
+        },
+        {
+          "code": "REL 365",
+          "title": "Global Ethics",
+          "units": 4.0,
+          "source_line": "- REL 365 Global Ethics Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose two.",
+          "source_line": "Choose two.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose two.",
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Electives: Markets and Social Relations (8 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AHIS 470",
+          "title": "Studies in Contemporary Art  *",
+          "units": 4.0,
+          "source_line": "- AHIS 470 Studies in Contemporary Art Units: 4 *"
+        },
+        {
+          "code": "AMST 446",
+          "title": "Latinx Music in the Americas",
+          "units": 4.0,
+          "source_line": "- AMST 446 Latinx Music in the Americas Units: 4"
+        },
+        {
+          "code": "COMM 454",
+          "title": "Media, Money, and Society",
+          "units": 4.0,
+          "source_line": "- COMM 454 Media, Money, and Society Units: 4"
+        },
+        {
+          "code": "ECON 434",
+          "title": "Economic Analysis of Law",
+          "units": 4.0,
+          "source_line": "- ECON 434 Economic Analysis of Law Units: 4"
+        },
+        {
+          "code": "IR 308gw",
+          "title": "Economic Globalization",
+          "units": 4.0,
+          "source_line": "- IR 308gw Economic Globalization Units: 4"
+        },
+        {
+          "code": "MOR 421",
+          "title": "Social and Ethical Issues in Business",
+          "units": 4.0,
+          "source_line": "- MOR 421 Social and Ethical Issues in Business Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose two.",
+          "source_line": "Choose two.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose two.",
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Art History majors may choose a maximum of one elective in Art History.",
+          "source_line": "*Art History majors may choose a maximum of one elective in Art History.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Art History majors may choose a maximum of one elective in Art History.",
+      "total_units": null
+    },
+    {
+      "title": "Capstone Course (4 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AHIS 301",
+          "title": "Guardians of the Past? Art Preservation, Ethics, and the Law",
+          "units": 4.0,
+          "source_line": "- AHIS 301 Guardians of the Past? Art Preservation, Ethics, and the Law Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Units: 24",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 24.0
+    }
+  ],
+  "parse_warnings": []
+}

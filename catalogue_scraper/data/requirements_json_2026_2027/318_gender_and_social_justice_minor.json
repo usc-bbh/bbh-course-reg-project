@@ -1,0 +1,166 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Gender and Social Justice Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32423",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32423&returnto=9396",
+    "source_text_file": "318_gender_and_social_justice_minor.txt",
+    "source_content_sha256": "b4e4ef29a6995582ba78a13a3f102c71dfe18e02eb6a8b18795d2dffe22918c5",
+    "retrieved_at": "2026-07-31T01:03:11Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 14,
+    "distinct_course_codes": 14,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in gender and social justice provides students with the intellectual foundation and practical skills necessary to tackle inequality and injustice as they relate to gender and sexuality in today's increasingly global world. This minor prepares students for employment in nonprofit organizations, politics, government agencies, cultural reporting and socially conscious niches within the entertainment industry.",
+          "source_line": "The minor in gender and social justice provides students with the intellectual foundation and practical skills necessary to tackle inequality and injustice as they relate to gender and sexuality in today's increasingly global world. This minor prepares students for employment in nonprofit organizations, politics, government agencies, cultural reporting and socially conscious niches within the entertainment industry."
+        },
+        {
+          "text": "Twenty units of course work are required to complete the minor in gender and social justice:",
+          "source_line": "Twenty units of course work are required to complete the minor in gender and social justice:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Course - Lower Division (4 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "SWMS 210gmw",
+          "title": "Social Analysis of Gender",
+          "units": null,
+          "source_line": "- SWMS 210gmw Social Analysis of Gender"
+        },
+        {
+          "code": "SWMS 212gp",
+          "title": "Introduction to Gender and Sexuality: American Perspectives",
+          "units": null,
+          "source_line": "- SWMS 212gp Introduction to Gender and Sexuality: American Perspectives"
+        },
+        {
+          "code": "SWMS 215gw",
+          "title": "Introduction to Gender and Sexuality: International Perspectives",
+          "units": null,
+          "source_line": "- SWMS 215gw Introduction to Gender and Sexuality: International Perspectives"
+        },
+        {
+          "code": "SWMS 219gp",
+          "title": "Introduction to Feminist Theory",
+          "units": null,
+          "source_line": "- SWMS 219gp Introduction to Feminist Theory"
+        },
+        {
+          "code": "SWMS 221g",
+          "title": "Introduction to Queer Theory",
+          "units": null,
+          "source_line": "- SWMS 221g Introduction to Queer Theory"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one:",
+          "source_line": "Choose one:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one:",
+      "total_units": null
+    },
+    {
+      "title": "Required Course - Upper Division (4 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "SWMS 310",
+          "title": "Gender and Social Justice",
+          "units": null,
+          "source_line": "- SWMS 310 Gender and Social Justice"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives - Upper Division (12 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "IR 316",
+          "title": "Gender and Global Issues",
+          "units": null,
+          "source_line": "- IR 316 Gender and Global Issues"
+        },
+        {
+          "code": "POSC 381",
+          "title": "Sex, Power, and Politics",
+          "units": null,
+          "source_line": "- POSC 381 Sex, Power, and Politics"
+        },
+        {
+          "code": "SOCI 402",
+          "title": "Human Trafficking",
+          "units": null,
+          "source_line": "- SOCI 402 Human Trafficking"
+        },
+        {
+          "code": "SWMS 308",
+          "title": "Advanced Gender Theory",
+          "units": null,
+          "source_line": "- SWMS 308 Advanced Gender Theory"
+        },
+        {
+          "code": "SWMS 311",
+          "title": "Gender and Sexuality Studies: Internship",
+          "units": null,
+          "source_line": "- SWMS 311 Gender and Sexuality Studies: Internship"
+        },
+        {
+          "code": "SWMS 336",
+          "title": "Health, Gender and Ethnicity",
+          "units": null,
+          "source_line": "- SWMS 336 Health, Gender and Ethnicity"
+        },
+        {
+          "code": "SWMS 349",
+          "title": "Women and the Law",
+          "units": null,
+          "source_line": "- SWMS 349 Women and the Law"
+        },
+        {
+          "code": "SWMS 385m",
+          "title": "Men and Masculinity",
+          "units": null,
+          "source_line": "- SWMS 385m Men and Masculinity"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose three:",
+          "source_line": "Choose three:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose three:",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

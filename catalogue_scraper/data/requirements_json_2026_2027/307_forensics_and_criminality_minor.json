@@ -1,0 +1,345 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Forensics and Criminality Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31931",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31931&returnto=9396",
+    "source_text_file": "307_forensics_and_criminality_minor.txt",
+    "source_content_sha256": "f3a16bfd961e607c1d8319158901b4edfee7f064511635e075273638c1e5f4ef",
+    "retrieved_at": "2026-07-31T01:02:41Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 34,
+    "distinct_course_codes": 34,
+    "section_count": 11
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The interdisciplinary minor in forensics and criminality was designed for students interested in the study of law, deviant behavior or careers in the criminal justice system. In this program, students study psychological and/or ethical issues related to criminal behavior, consider criminality in the context of social class analysis, and learn about the American system of criminal justice. Twenty units are required, 4 at the lower-division and 16 at the upper-division level. Contact Dornsife College Advising for further details.",
+          "source_line": "The interdisciplinary minor in forensics and criminality was designed for students interested in the study of law, deviant behavior or careers in the criminal justice system. In this program, students study psychological and/or ethical issues related to criminal behavior, consider criminality in the context of social class analysis, and learn about the American system of criminal justice. Twenty units are required, 4 at the lower-division and 16 at the upper-division level. Contact Dornsife College Advising for further details."
+        },
+        {
+          "text": "Students should choose a curriculum for their minor based on their academic interests. Those students interested in white collar crime, for example, might choose POSC 130 Law, Politics, and Public Policy at the lower-division level, SOCI 350 Social Exclusion, Social Power, and Deviance and PPD 342 Crime and Public Policy .",
+          "source_line": "Students should choose a curriculum for their minor based on their academic interests. Those students interested in white collar crime, for example, might choose POSC 130 Law, Politics, and Public Policy at the lower-division level, SOCI 350 Social Exclusion, Social Power, and Deviance and PPD 342 Crime and Public Policy ."
+        },
+        {
+          "text": "Those who are interested in the criminal justice system might choose LAW 200x Law and Society , REL 341 Ethics in a Technological Society , SOCI 351 Public Policy and Juvenile Justice , POSC 340 Constitutional Law and POSC 432 The Politics of Local Criminal Justice .",
+          "source_line": "Those who are interested in the criminal justice system might choose LAW 200x Law and Society , REL 341 Ethics in a Technological Society , SOCI 351 Public Policy and Juvenile Justice , POSC 340 Constitutional Law and POSC 432 The Politics of Local Criminal Justice ."
+        },
+        {
+          "text": "Those interested in individual and social determinants of deviancy might take PSYC 100 Introduction to Psychology , PSYC 360 Abnormal Psychology , or PSYC 363 Criminal Behavior , or PSYC 365 Introduction to Forensic Psychology ; SOCI 360 Social Inequality: Class, Status, and Power , LAW 402 Psychology and Law and SOCI 353 Public Policy and Criminal Justice .",
+          "source_line": "Those interested in individual and social determinants of deviancy might take PSYC 100 Introduction to Psychology , PSYC 360 Abnormal Psychology , or PSYC 363 Criminal Behavior , or PSYC 365 Introduction to Forensic Psychology ; SOCI 360 Social Inequality: Class, Status, and Power , LAW 402 Psychology and Law and SOCI 353 Public Policy and Criminal Justice ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division Requirement (4 Units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose one course from:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "AMST 101gmw",
+          "title": "Race and Class in Los Angeles",
+          "units": 4.0,
+          "source_line": "- AMST 101gmw Race and Class in Los Angeles Units: 4"
+        },
+        {
+          "code": "LAW 200w",
+          "title": "Law and Society",
+          "units": 4.0,
+          "source_line": "- LAW 200w Law and Society Units: 4"
+        },
+        {
+          "code": "POSC 130g",
+          "title": "Law, Politics and Public Policy",
+          "units": 4.0,
+          "source_line": "- POSC 130g Law, Politics and Public Policy Units: 4"
+        },
+        {
+          "code": "PSYC 100Lg",
+          "title": "Introduction to Psychology",
+          "units": 4.0,
+          "source_line": "- PSYC 100Lg Introduction to Psychology Units: 4"
+        },
+        {
+          "code": "PSYC 165Lg",
+          "title": "Drugs, Behavior and Society",
+          "units": 4.0,
+          "source_line": "- PSYC 165Lg Drugs, Behavior and Society Units: 4"
+        },
+        {
+          "code": "SOCI 142gm",
+          "title": "Diversity and Racial Conflict",
+          "units": 4.0,
+          "source_line": "- SOCI 142gm Diversity and Racial Conflict Units: 4"
+        },
+        {
+          "code": "SOCI 150gm",
+          "title": "Social Problems",
+          "units": 4.0,
+          "source_line": "- SOCI 150gm Social Problems Units: 4"
+        },
+        {
+          "code": "SOCI 200gm",
+          "title": "Introduction to Sociology",
+          "units": 4.0,
+          "source_line": "- SOCI 200gm Introduction to Sociology Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Requirements (16 Units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose one course from each group below:",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "The Individual in Society",
+      "level": 4,
+      "courses": [
+        {
+          "code": "LAW 404",
+          "title": "Psychology of the Criminal Justice Process",
+          "units": 4.0,
+          "source_line": "- LAW 404 Psychology of the Criminal Justice Process Units: 4"
+        },
+        {
+          "code": "LING 412",
+          "title": "Language and Law",
+          "units": 4.0,
+          "source_line": "- LING 412 Language and Law Units: 4"
+        },
+        {
+          "code": "LING 450",
+          "title": "Forensic Speaker Identification",
+          "units": 4.0,
+          "source_line": "- LING 450 Forensic Speaker Identification Units: 4"
+        },
+        {
+          "code": "PSYC 355",
+          "title": "Social Psychology  * or",
+          "units": 4.0,
+          "source_line": "- PSYC 355 Social Psychology Units: 4 * or"
+        },
+        {
+          "code": "POSC 441m",
+          "title": "Cultural Diversity and the Law",
+          "units": 4.0,
+          "source_line": "- POSC 441m Cultural Diversity and the Law Units: 4"
+        },
+        {
+          "code": "PSYC 360",
+          "title": "Psychological Disorders  *",
+          "units": 4.0,
+          "source_line": "- PSYC 360 Psychological Disorders Units: 4 *"
+        },
+        {
+          "code": "PSYC 363",
+          "title": "Criminal Behavior  *",
+          "units": 4.0,
+          "source_line": "- PSYC 363 Criminal Behavior Units: 4 *"
+        },
+        {
+          "code": "PSYC 365",
+          "title": "Introduction to Forensic Psychology  *",
+          "units": 4.0,
+          "source_line": "- PSYC 365 Introduction to Forensic Psychology Units: 4 *"
+        },
+        {
+          "code": "REL 341",
+          "title": "Technology, Culture, and Ethics",
+          "units": 4.0,
+          "source_line": "- REL 341 Technology, Culture, and Ethics Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 5,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Prerequisite: PSYC 100",
+          "source_line": "*Prerequisite: PSYC 100"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Social Class and Criminality",
+      "level": 4,
+      "courses": [
+        {
+          "code": "ANTH 371gm",
+          "title": "Cross-Cultural Research on Urban Gangs",
+          "units": 4.0,
+          "source_line": "- ANTH 371gm Cross-Cultural Research on Urban Gangs Units: 4"
+        },
+        {
+          "code": "SOCI 350",
+          "title": "Social Exclusion, Social Power and Deviance",
+          "units": 4.0,
+          "source_line": "- SOCI 350 Social Exclusion, Social Power and Deviance Units: 4"
+        },
+        {
+          "code": "SOCI 351",
+          "title": "Youth, Social Control and Public Policy",
+          "units": 4.0,
+          "source_line": "- SOCI 351 Youth, Social Control and Public Policy Units: 4"
+        },
+        {
+          "code": "SOCI 360m",
+          "title": "Social Inequality: Class, Status and Power",
+          "units": 4.0,
+          "source_line": "- SOCI 360m Social Inequality: Class, Status and Power Units: 4"
+        },
+        {
+          "code": "SOWK 350",
+          "title": "Adolescent Gang Intervention",
+          "units": 4.0,
+          "source_line": "- SOWK 350 Adolescent Gang Intervention Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "The System of Criminal Justice",
+      "level": 4,
+      "courses": [
+        {
+          "code": "LAW 402",
+          "title": "Psychology and Law",
+          "units": 4.0,
+          "source_line": "- LAW 402 Psychology and Law Units: 4"
+        },
+        {
+          "code": "LAW 403",
+          "title": "Mental Health Law",
+          "units": 4.0,
+          "source_line": "- LAW 403 Mental Health Law Units: 4"
+        },
+        {
+          "code": "PHIL 430",
+          "title": "Philosophy of Law",
+          "units": 4.0,
+          "source_line": "- PHIL 430 Philosophy of Law Units: 4"
+        },
+        {
+          "code": "PHIL 437",
+          "title": "Social and Political Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 437 Social and Political Philosophy Units: 4"
+        },
+        {
+          "code": "POSC 340",
+          "title": "Constitutional Law",
+          "units": 4.0,
+          "source_line": "- POSC 340 Constitutional Law Units: 4"
+        },
+        {
+          "code": "POSC 426",
+          "title": "The United States Supreme Court",
+          "units": 4.0,
+          "source_line": "- POSC 426 The United States Supreme Court Units: 4"
+        },
+        {
+          "code": "POSC 444",
+          "title": "Civil and Political Rights and Liberties",
+          "units": 4.0,
+          "source_line": "- POSC 444 Civil and Political Rights and Liberties Units: 4"
+        },
+        {
+          "code": "PPD 340",
+          "title": "The American System of Justice",
+          "units": 4.0,
+          "source_line": "- PPD 340 The American System of Justice Units: 4"
+        },
+        {
+          "code": "SOCI 415",
+          "title": "Sociology of Law",
+          "units": 4.0,
+          "source_line": "- SOCI 415 Sociology of Law Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Crime and Punishment",
+      "level": 4,
+      "courses": [
+        {
+          "code": "POSC 432",
+          "title": "Politics of Local Criminal Justice",
+          "units": 4.0,
+          "source_line": "- POSC 432 Politics of Local Criminal Justice Units: 4"
+        },
+        {
+          "code": "PPD 342",
+          "title": "Crime and Public Policy",
+          "units": 4.0,
+          "source_line": "- PPD 342 Crime and Public Policy Units: 4"
+        },
+        {
+          "code": "SOCI 353",
+          "title": "Crime, Punishment and Society",
+          "units": 4.0,
+          "source_line": "- SOCI 353 Crime, Punishment and Society Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total requirements: five courses (20 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

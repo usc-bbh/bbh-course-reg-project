@@ -1,0 +1,189 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Health Communication Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32215",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32215&returnto=9396",
+    "source_text_file": "329_health_communication_minor.txt",
+    "source_content_sha256": "6838417b5a08f3720b0691f7e0ef42843813a8334ebdc2bb789733eacd290d57",
+    "retrieved_at": "2026-07-31T01:06:52Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 22,
+    "distinct_course_codes": 22,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This minor is designed to appeal to students with a wide range of interests, including those with a general interest in promoting healthy lifestyle practices through effective communication. These students will be prepared to seek jobs in areas such as the managed care industry, hospitals, wellness programs, broadcast and cable companies, and private and governmental agencies, as well as other organizations looking for experts with demonstrated knowledge in health-related fields.",
+          "source_line": "This minor is designed to appeal to students with a wide range of interests, including those with a general interest in promoting healthy lifestyle practices through effective communication. These students will be prepared to seek jobs in areas such as the managed care industry, hospitals, wellness programs, broadcast and cable companies, and private and governmental agencies, as well as other organizations looking for experts with demonstrated knowledge in health-related fields."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (20 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "COMM 302",
+          "title": "Persuasion",
+          "units": 4.0,
+          "source_line": "- COMM 302 Persuasion Units: 4"
+        },
+        {
+          "code": "COMM 385",
+          "title": "Organizational Communication",
+          "units": 4.0,
+          "source_line": "- COMM 385 Organizational Communication Units: 4"
+        },
+        {
+          "code": "COMM 443",
+          "title": "Communicating Better Health: What Works and Why",
+          "units": 4.0,
+          "source_line": "- COMM 443 Communicating Better Health: What Works and Why Units: 4"
+        },
+        {
+          "code": "HP 200",
+          "title": "Introduction to Health Promotion and Disease Prevention",
+          "units": 4.0,
+          "source_line": "- HP 200 Introduction to Health Promotion and Disease Prevention Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One of the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "COMM 304",
+          "title": "Interpersonal Communication",
+          "units": 4.0,
+          "source_line": "- COMM 304 Interpersonal Communication Units: 4"
+        },
+        {
+          "code": "COMM 308",
+          "title": "Communication and Conflict",
+          "units": 4.0,
+          "source_line": "- COMM 308 Communication and Conflict Units: 4"
+        },
+        {
+          "code": "COMM 315",
+          "title": "Health Communication",
+          "units": 4.0,
+          "source_line": "- COMM 315 Health Communication Units: 4"
+        },
+        {
+          "code": "COMM 324mw",
+          "title": "Intercultural Communication",
+          "units": 4.0,
+          "source_line": "- COMM 324mw Intercultural Communication Units: 4"
+        },
+        {
+          "code": "COMM 375",
+          "title": "Business and Professional Communication",
+          "units": 4.0,
+          "source_line": "- COMM 375 Business and Professional Communication Units: 4"
+        },
+        {
+          "code": "COMM 402",
+          "title": "Public Communication Campaigns",
+          "units": 4.0,
+          "source_line": "- COMM 402 Public Communication Campaigns Units: 4"
+        },
+        {
+          "code": "COMM 480",
+          "title": "Nonverbal Communication",
+          "units": 4.0,
+          "source_line": "- COMM 480 Nonverbal Communication Units: 4"
+        },
+        {
+          "code": "COMM 486",
+          "title": "Human and Technological Systems in Organizations",
+          "units": 4.0,
+          "source_line": "- COMM 486 Human and Technological Systems in Organizations Units: 4"
+        },
+        {
+          "code": "HP 365gmw",
+          "title": "Culture, Lifestyle, and Health",
+          "units": 4.0,
+          "source_line": "- HP 365gmw Culture, Lifestyle, and Health Units: 4"
+        },
+        {
+          "code": "HP 370g",
+          "title": "Introduction to Epidemiology: Methods and Applications",
+          "units": 4.0,
+          "source_line": "- HP 370g Introduction to Epidemiology: Methods and Applications Units: 4"
+        },
+        {
+          "code": "HP 401",
+          "title": "Cultural Competence in Medicine",
+          "units": 4.0,
+          "source_line": "- HP 401 Cultural Competence in Medicine Units: 4"
+        },
+        {
+          "code": "HP 402",
+          "title": "Maternal and Child Health",
+          "units": 4.0,
+          "source_line": "- HP 402 Maternal and Child Health Units: 4"
+        },
+        {
+          "code": "HP 408",
+          "title": "Environmental Health in the Community",
+          "units": 4.0,
+          "source_line": "- HP 408 Environmental Health in the Community Units: 4"
+        },
+        {
+          "code": "HP 420m",
+          "title": "Gender and Minority Health Issues",
+          "units": 4.0,
+          "source_line": "- HP 420m Gender and Minority Health Issues Units: 4"
+        },
+        {
+          "code": "HP 421",
+          "title": "Violence as a Public Health Issue",
+          "units": 4.0,
+          "source_line": "- HP 421 Violence as a Public Health Issue Units: 4"
+        },
+        {
+          "code": "HP 422",
+          "title": "AIDS in Society",
+          "units": 4.0,
+          "source_line": "- HP 422 AIDS in Society Units: 4"
+        },
+        {
+          "code": "HP 430",
+          "title": "Obesity and Health",
+          "units": 4.0,
+          "source_line": "- HP 430 Obesity and Health Units: 4"
+        },
+        {
+          "code": "HP 442",
+          "title": "Chronic Disease Epidemiology",
+          "units": 4.0,
+          "source_line": "- HP 442 Chronic Disease Epidemiology Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

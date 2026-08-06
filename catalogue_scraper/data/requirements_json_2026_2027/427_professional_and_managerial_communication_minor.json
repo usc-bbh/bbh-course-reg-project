@@ -1,0 +1,157 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Professional and Managerial Communication Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31950",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31950&returnto=9396",
+    "source_text_file": "427_professional_and_managerial_communication_minor.txt",
+    "source_content_sha256": "5679106559b39aa4546abdb9ca3c05df5f304c204ee74e46749045c666c0c038",
+    "retrieved_at": "2026-07-31T01:12:24Z"
+  },
+  "totals": {
+    "stated_total_units": 24.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "0 GPA and completion of a minimum of 32 units (sophomore standing)."
+    ],
+    "course_entry_count": 15,
+    "distinct_course_codes": 15,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The ability to succeed in today's workplace necessitates a growing number of communication skills. As today's increasingly global and highly competitive marketplace grows in complexity, the need to understand intercultural differences, the power of structure in the workplace and other issues such as dealing with interpersonal conflicts continues to increase. This minor will provide students interested in the management of people, resources or products with these necessary tools. Requirements for admission are a minimum 3.0 GPA and completion of a minimum of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission.",
+          "source_line": "The ability to succeed in today's workplace necessitates a growing number of communication skills. As today's increasingly global and highly competitive marketplace grows in complexity, the need to understand intercultural differences, the power of structure in the workplace and other issues such as dealing with interpersonal conflicts continues to increase. This minor will provide students interested in the management of people, resources or products with these necessary tools. Requirements for admission are a minimum 3.0 GPA and completion of a minimum of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Core Communication Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "COMM 320",
+          "title": "Small Group and Team Communication",
+          "units": 4.0,
+          "source_line": "- COMM 320 Small Group and Team Communication Units: 4"
+        },
+        {
+          "code": "COMM 375",
+          "title": "Business and Professional Communication",
+          "units": 4.0,
+          "source_line": "- COMM 375 Business and Professional Communication Units: 4"
+        },
+        {
+          "code": "COMM 385",
+          "title": "Organizational Communication",
+          "units": 4.0,
+          "source_line": "- COMM 385 Organizational Communication Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives-Choose Three From The Following:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "COMM 302",
+          "title": "Persuasion",
+          "units": 4.0,
+          "source_line": "- COMM 302 Persuasion Units: 4"
+        },
+        {
+          "code": "COMM 304",
+          "title": "Interpersonal Communication",
+          "units": 4.0,
+          "source_line": "- COMM 304 Interpersonal Communication Units: 4"
+        },
+        {
+          "code": "COMM 308",
+          "title": "Communication and Conflict",
+          "units": 4.0,
+          "source_line": "- COMM 308 Communication and Conflict Units: 4"
+        },
+        {
+          "code": "COMM 315",
+          "title": "Health Communication",
+          "units": 4.0,
+          "source_line": "- COMM 315 Health Communication Units: 4"
+        },
+        {
+          "code": "COMM 321",
+          "title": "Communication and Social Media",
+          "units": 4.0,
+          "source_line": "- COMM 321 Communication and Social Media Units: 4"
+        },
+        {
+          "code": "COMM 322",
+          "title": "Argumentation and Advocacy",
+          "units": 4.0,
+          "source_line": "- COMM 322 Argumentation and Advocacy Units: 4"
+        },
+        {
+          "code": "COMM 324mw",
+          "title": "Intercultural Communication",
+          "units": 4.0,
+          "source_line": "- COMM 324mw Intercultural Communication Units: 4"
+        },
+        {
+          "code": "COMM 345",
+          "title": "Social and Economic Implications of Communication Technologies",
+          "units": 4.0,
+          "source_line": "- COMM 345 Social and Economic Implications of Communication Technologies Units: 4"
+        },
+        {
+          "code": "COMM 388",
+          "title": "Ethics in Human Communication",
+          "units": 4.0,
+          "source_line": "- COMM 388 Ethics in Human Communication Units: 4"
+        },
+        {
+          "code": "COMM 431",
+          "title": "Global Strategy for the Communications Industry",
+          "units": 4.0,
+          "source_line": "- COMM 431 Global Strategy for the Communications Industry Units: 4"
+        },
+        {
+          "code": "COMM 486",
+          "title": "Human and Technological Systems in Organizations",
+          "units": 4.0,
+          "source_line": "- COMM 486 Human and Technological Systems in Organizations Units: 4"
+        },
+        {
+          "code": "COMM 487",
+          "title": "Communication and Global Organizations",
+          "units": 4.0,
+          "source_line": "- COMM 487 Communication and Global Organizations Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 24",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 24.0
+    }
+  ],
+  "parse_warnings": []
+}

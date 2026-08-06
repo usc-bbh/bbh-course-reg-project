@@ -1,0 +1,39 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Consumer Behavior Interdisciplinary Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31912",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31912&returnto=9396",
+    "source_text_file": "260_consumer_behavior_interdisciplinary_minor.txt",
+    "source_content_sha256": "c7e71d6f7eebee7406e904bd82d01c0330ba549a77cf1b7231fba6cd5e0f6d69",
+    "retrieved_at": "2026-07-31T01:26:34Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 0,
+    "distinct_course_codes": 0,
+    "section_count": 1
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This interdisciplinary minor explores consumer thinking from the perspective of psychology, marketing, economics, anthropology, sociology and other departments interested in popular culture. Why do people form the attitudes and impressions they do? How do individual factors, culture, mass media, economics and social trends influence people’s decisions? See USC Marshall School of Business .",
+          "source_line": "This interdisciplinary minor explores consumer thinking from the perspective of psychology, marketing, economics, anthropology, sociology and other departments interested in popular culture. Why do people form the attitudes and impressions they do? How do individual factors, culture, mass media, economics and social trends influence people’s decisions? See USC Marshall School of Business ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

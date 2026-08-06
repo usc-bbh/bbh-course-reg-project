@@ -1,0 +1,457 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Latinx News Media Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32748",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32748&returnto=9396",
+    "source_text_file": "359_latinx_news_media_minor.txt",
+    "source_content_sha256": "380e30b4a63951765265d0c6013bb4f74d74d190ac6ae5dfbd9d2a2dd0749e8d",
+    "retrieved_at": "2026-07-31T01:08:00Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The minor requires at least 16 units.",
+      "## Required Courses\n\n---\n\n- JOUR 406 Social Media Storytelling for Latinx Audiences Units: 2\n- JOUR 465m Latino News Media in the United States Units: 4\n\n## Choose one of the following:\n\n---\n\n- JOUR 461 Spanish Language News Media Production Units: 2\n- JOUR 464 Experiential Journalism in Latin America Units: 2, 4\n\n## Electives\n\n---\n\nChoose at least 6-8 units from the following.",
+      "NOTE: If students take JOUR 464 for 2 units, then 8 units of electives is required.",
+      "If students take JOUR 464 for 4 units, then a minimum of 6 units of electives is required."
+    ],
+    "course_entry_count": 62,
+    "distinct_course_codes": 62,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Latinx News Media Minor is designed to give students a grounding in the historical, theoretical, social and cultural landscape of Latino news media. In addition, the course work will expose students to trends in the development of current and evolving content strategy, distribution and news consumption trends. The minor will prepare students to create content for Latinx communities, media organizations, bilingual news outlets and independent distribution.",
+          "source_line": "The Latinx News Media Minor is designed to give students a grounding in the historical, theoretical, social and cultural landscape of Latino news media. In addition, the course work will expose students to trends in the development of current and evolving content strategy, distribution and news consumption trends. The minor will prepare students to create content for Latinx communities, media organizations, bilingual news outlets and independent distribution."
+        },
+        {
+          "text": "The minor requires at least 16 units.",
+          "source_line": "The minor requires at least 16 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "JOUR 406",
+          "title": "Social Media Storytelling for Latinx Audiences",
+          "units": 2.0,
+          "source_line": "- JOUR 406 Social Media Storytelling for Latinx Audiences Units: 2"
+        },
+        {
+          "code": "JOUR 465m",
+          "title": "Latino News Media in the United States",
+          "units": 4.0,
+          "source_line": "- JOUR 465m Latino News Media in the United States Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose one of the following:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "JOUR 461",
+          "title": "Spanish Language News Media Production",
+          "units": 2.0,
+          "source_line": "- JOUR 461 Spanish Language News Media Production Units: 2"
+        },
+        {
+          "code": "JOUR 464",
+          "title": "Experiential Journalism in Latin America , 4",
+          "units": 2.0,
+          "source_line": "- JOUR 464 Experiential Journalism in Latin America Units: 2, 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AHIS 128gp",
+          "title": "The Arts and Society in Latin America, Colonial to Contemporary",
+          "units": 4.0,
+          "source_line": "- AHIS 128gp The Arts and Society in Latin America, Colonial to Contemporary Units: 4"
+        },
+        {
+          "code": "AHIS 496",
+          "title": "Paintings in the Prado Museum",
+          "units": 4.0,
+          "source_line": "- AHIS 496 Paintings in the Prado Museum Units: 4"
+        },
+        {
+          "code": "AMST 135gmw",
+          "title": "Peoples and Cultures of the Americas",
+          "units": 4.0,
+          "source_line": "- AMST 135gmw Peoples and Cultures of the Americas Units: 4"
+        },
+        {
+          "code": "AMST 305",
+          "title": "Art and Performance in the Americas",
+          "units": 4.0,
+          "source_line": "- AMST 305 Art and Performance in the Americas Units: 4"
+        },
+        {
+          "code": "ANTH 140g",
+          "title": "Mesoamerican Cosmovision and Culture",
+          "units": 4.0,
+          "source_line": "- ANTH 140g Mesoamerican Cosmovision and Culture Units: 4"
+        },
+        {
+          "code": "ANTH 203g",
+          "title": "Global Media",
+          "units": 4.0,
+          "source_line": "- ANTH 203g Global Media Units: 4"
+        },
+        {
+          "code": "ANTH 314g",
+          "title": "The Nature of Maya Civilization",
+          "units": 4.0,
+          "source_line": "- ANTH 314g The Nature of Maya Civilization Units: 4"
+        },
+        {
+          "code": "ANTH 400",
+          "title": "Maya Resilience: Constructing Past and Present Identities",
+          "units": 4.0,
+          "source_line": "- ANTH 400 Maya Resilience: Constructing Past and Present Identities Units: 4"
+        },
+        {
+          "code": "ANTH 425",
+          "title": "Peoples and Cultures of Latin America",
+          "units": 4.0,
+          "source_line": "- ANTH 425 Peoples and Cultures of Latin America Units: 4"
+        },
+        {
+          "code": "ANTH 450",
+          "title": "Field Research in Maya Archaeology",
+          "units": 4.0,
+          "source_line": "- ANTH 450 Field Research in Maya Archaeology Units: 4"
+        },
+        {
+          "code": "COLT 250g",
+          "title": "Cultures of Latin America",
+          "units": 4.0,
+          "source_line": "- COLT 250g Cultures of Latin America Units: 4"
+        },
+        {
+          "code": "COMM 326",
+          "title": "Latinx Media Studies",
+          "units": 4.0,
+          "source_line": "- COMM 326 Latinx Media Studies Units: 4"
+        },
+        {
+          "code": "HIST 109g",
+          "title": "The Latin American Experience",
+          "units": 4.0,
+          "source_line": "- HIST 109g The Latin American Experience Units: 4"
+        },
+        {
+          "code": "HIST 272g",
+          "title": "Women and Gender in the Ancient and Spanish Americas",
+          "units": 4.0,
+          "source_line": "- HIST 272g Women and Gender in the Ancient and Spanish Americas Units: 4"
+        },
+        {
+          "code": "HIST 353m",
+          "title": "Race and Racism in the Americas",
+          "units": 4.0,
+          "source_line": "- HIST 353m Race and Racism in the Americas Units: 4"
+        },
+        {
+          "code": "HIST 354",
+          "title": "Mexican Migration to the United States",
+          "units": 4.0,
+          "source_line": "- HIST 354 Mexican Migration to the United States Units: 4"
+        },
+        {
+          "code": "HIST 359",
+          "title": "The U.S.-Mexico Border",
+          "units": 4.0,
+          "source_line": "- HIST 359 The U.S.-Mexico Border Units: 4"
+        },
+        {
+          "code": "HIST 368",
+          "title": "Afro-Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 368 Afro-Latin America Units: 4"
+        },
+        {
+          "code": "HIST 370",
+          "title": "Colonial Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 370 Colonial Latin America Units: 4"
+        },
+        {
+          "code": "HIST 371",
+          "title": "Culture in Diaspora: The Jews of Spain",
+          "units": 4.0,
+          "source_line": "- HIST 371 Culture in Diaspora: The Jews of Spain Units: 4"
+        },
+        {
+          "code": "HIST 372",
+          "title": "Modern Latin America",
+          "units": 4.0,
+          "source_line": "- HIST 372 Modern Latin America Units: 4"
+        },
+        {
+          "code": "HIST 374",
+          "title": "History of Mexico",
+          "units": 4.0,
+          "source_line": "- HIST 374 History of Mexico Units: 4"
+        },
+        {
+          "code": "HIST 451",
+          "title": "The Mexican Revolution",
+          "units": 4.0,
+          "source_line": "- HIST 451 The Mexican Revolution Units: 4"
+        },
+        {
+          "code": "HIST 473",
+          "title": "Colonial Latin America Seminar",
+          "units": 4.0,
+          "source_line": "- HIST 473 Colonial Latin America Seminar Units: 4"
+        },
+        {
+          "code": "IR 364",
+          "title": "The Political Economy of Latin American Development",
+          "units": 4.0,
+          "source_line": "- IR 364 The Political Economy of Latin American Development Units: 4"
+        },
+        {
+          "code": "IR 365",
+          "title": "Politics and Democracy in Latin America",
+          "units": 4.0,
+          "source_line": "- IR 365 Politics and Democracy in Latin America Units: 4"
+        },
+        {
+          "code": "IR 366",
+          "title": "Mexico and its Relations with the United States",
+          "units": 4.0,
+          "source_line": "- IR 366 Mexico and its Relations with the United States Units: 4"
+        },
+        {
+          "code": "IR 425",
+          "title": "The New Triangle: China, the U.S. and Latin America",
+          "units": 4.0,
+          "source_line": "- IR 425 The New Triangle: China, the U.S. and Latin America Units: 4"
+        },
+        {
+          "code": "PORT 250g",
+          "title": "Visions of Brazil",
+          "units": 4.0,
+          "source_line": "- PORT 250g Visions of Brazil Units: 4"
+        },
+        {
+          "code": "POSC 350",
+          "title": "Politics of Latin America",
+          "units": 4.0,
+          "source_line": "- POSC 350 Politics of Latin America Units: 4"
+        },
+        {
+          "code": "SPAN 260",
+          "title": "Advanced Spanish: Arts and Sciences",
+          "units": 4.0,
+          "source_line": "- SPAN 260 Advanced Spanish: Arts and Sciences Units: 4"
+        },
+        {
+          "code": "SPAN 270",
+          "title": "Spanish for Heritage Speakers",
+          "units": 4.0,
+          "source_line": "- SPAN 270 Spanish for Heritage Speakers Units: 4"
+        },
+        {
+          "code": "SPAN 290gp",
+          "title": "Introduction to Latin American and Iberian Studies",
+          "units": 4.0,
+          "source_line": "- SPAN 290gp Introduction to Latin American and Iberian Studies Units: 4"
+        },
+        {
+          "code": "SPAN 301",
+          "title": "Introduction to Literature and Film",
+          "units": 4.0,
+          "source_line": "- SPAN 301 Introduction to Literature and Film Units: 4"
+        },
+        {
+          "code": "SPAN 302",
+          "title": "Screen Cultures: From Film to the Internet",
+          "units": 4.0,
+          "source_line": "- SPAN 302 Screen Cultures: From Film to the Internet Units: 4"
+        },
+        {
+          "code": "SPAN 304",
+          "title": "The Art of Fiction",
+          "units": 4.0,
+          "source_line": "- SPAN 304 The Art of Fiction Units: 4"
+        },
+        {
+          "code": "SPAN 306",
+          "title": "Performance from Street to Stage",
+          "units": 4.0,
+          "source_line": "- SPAN 306 Performance from Street to Stage Units: 4"
+        },
+        {
+          "code": "SPAN 308",
+          "title": "The Art of Poetry",
+          "units": 4.0,
+          "source_line": "- SPAN 308 The Art of Poetry Units: 4"
+        },
+        {
+          "code": "SPAN 311",
+          "title": "Advanced Spanish Through Contemporary Issues: Oral Emphasis",
+          "units": 4.0,
+          "source_line": "- SPAN 311 Advanced Spanish Through Contemporary Issues: Oral Emphasis Units: 4"
+        },
+        {
+          "code": "SPAN 320",
+          "title": "Politics, Thought, Society",
+          "units": 4.0,
+          "source_line": "- SPAN 320 Politics, Thought, Society Units: 4"
+        },
+        {
+          "code": "SPAN 321",
+          "title": "Sounds, Images, Objects",
+          "units": 4.0,
+          "source_line": "- SPAN 321 Sounds, Images, Objects Units: 4"
+        },
+        {
+          "code": "SPAN 341",
+          "title": "Advanced Conversation and Culture",
+          "units": 4.0,
+          "source_line": "- SPAN 341 Advanced Conversation and Culture Units: 4"
+        },
+        {
+          "code": "SPAN 375",
+          "title": "Latin American Cultural and Literary Theory",
+          "units": 4.0,
+          "source_line": "- SPAN 375 Latin American Cultural and Literary Theory Units: 4"
+        },
+        {
+          "code": "SPAN 380g",
+          "title": "Literature of Mexico",
+          "units": 4.0,
+          "source_line": "- SPAN 380g Literature of Mexico Units: 4"
+        },
+        {
+          "code": "SPAN 381",
+          "title": "Narco-World",
+          "units": 4.0,
+          "source_line": "- SPAN 381 Narco-World Units: 4"
+        },
+        {
+          "code": "SPAN 382",
+          "title": "The Aesthetics of Violence in Latin America",
+          "units": 4.0,
+          "source_line": "- SPAN 382 The Aesthetics of Violence in Latin America Units: 4"
+        },
+        {
+          "code": "SPAN 385",
+          "title": "The Culture of Food in Hispanic Los Angeles",
+          "units": 4.0,
+          "source_line": "- SPAN 385 The Culture of Food in Hispanic Los Angeles Units: 4"
+        },
+        {
+          "code": "SPAN 391",
+          "title": "Introduction to Contemporary Spanish Literature (USC Madrid Center)",
+          "units": 4.0,
+          "source_line": "- SPAN 391 Introduction to Contemporary Spanish Literature (USC Madrid Center) Units: 4"
+        },
+        {
+          "code": "SPAN 413m",
+          "title": "Social and Geographic Varieties of Spanish",
+          "units": 4.0,
+          "source_line": "- SPAN 413m Social and Geographic Varieties of Spanish Units: 4"
+        },
+        {
+          "code": "SPAN 460",
+          "title": "Don Quijote: Text and Film",
+          "units": 4.0,
+          "source_line": "- SPAN 460 Don Quijote: Text and Film Units: 4"
+        },
+        {
+          "code": "SPAN 462",
+          "title": "Literary Cartographies of Latin America and Spain, 1810–1898",
+          "units": 4.0,
+          "source_line": "- SPAN 462 Literary Cartographies of Latin America and Spain, 1810–1898 Units: 4"
+        },
+        {
+          "code": "SPAN 464",
+          "title": "Introduction to Contemporary Spanish Theatre",
+          "units": 4.0,
+          "source_line": "- SPAN 464 Introduction to Contemporary Spanish Theatre Units: 4"
+        },
+        {
+          "code": "SPAN 465",
+          "title": "Cultural Perspectives of the Iberian Peninsula",
+          "units": 4.0,
+          "source_line": "- SPAN 465 Cultural Perspectives of the Iberian Peninsula Units: 4"
+        },
+        {
+          "code": "SPAN 470",
+          "title": "Literature and Media in Latin America",
+          "units": 4.0,
+          "source_line": "- SPAN 470 Literature and Media in Latin America Units: 4"
+        },
+        {
+          "code": "SPAN 472",
+          "title": "The Sixties in Latin America",
+          "units": 4.0,
+          "source_line": "- SPAN 472 The Sixties in Latin America Units: 4"
+        },
+        {
+          "code": "SPAN 481",
+          "title": "Literature and Popular Culture",
+          "units": 4.0,
+          "source_line": "- SPAN 481 Literature and Popular Culture Units: 4"
+        },
+        {
+          "code": "SPAN 482",
+          "title": "Literature and the City",
+          "units": 4.0,
+          "source_line": "- SPAN 482 Literature and the City Units: 4"
+        },
+        {
+          "code": "SPAN 483",
+          "title": "Gender and Sexuality",
+          "units": 4.0,
+          "source_line": "- SPAN 483 Gender and Sexuality Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose at least 6-8 units from the following.",
+          "source_line": "Choose at least 6-8 units from the following.",
+          "states_choice_rule": true
+        },
+        {
+          "text": "NOTE: If students take JOUR 464 for 2 units, then 8 units of electives is required. If students take JOUR 464 for 4 units, then a minimum of 6 units of electives is required.",
+          "source_line": "NOTE: If students take JOUR 464 for 2 units, then 8 units of electives is required. If students take JOUR 464 for 4 units, then a minimum of 6 units of electives is required."
+        }
+      ],
+      "choice": "Choose at least 6-8 units from the following.",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

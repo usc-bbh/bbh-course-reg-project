@@ -1,0 +1,269 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Logic Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32954",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32954&returnto=9396",
+    "source_text_file": "374_logic_minor.txt",
+    "source_content_sha256": "b2f5a6361937d3ac7c72e7a4123c580c057025ffadfdc04b24c847b6bdcc474d",
+    "retrieved_at": "2026-07-31T01:10:23Z"
+  },
+  "totals": {
+    "stated_total_units": 18.0,
+    "stated_total_units_source": "minor requires a minimum of 18 units",
+    "unit_statements_verbatim": [
+      "# Logic Minor\n\n---\n\nThe interdisciplinary Logic minor requires a minimum of 18 units, at least 16 of which must be upper-division.",
+      "## Logic Minor Requirements\n\n---\n\nA total of 18 units is required for the minor, at least 16 of which must be upper-division."
+    ],
+    "course_entry_count": 26,
+    "distinct_course_codes": 26,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The interdisciplinary Logic minor requires a minimum of 18 units, at least 16 of which must be upper-division. Students must take at least 3 courses from the combined categories of Advanced Logic, and Upper-Division Logic, Math, and Philosophy.",
+          "source_line": "The interdisciplinary Logic minor requires a minimum of 18 units, at least 16 of which must be upper-division. Students must take at least 3 courses from the combined categories of Advanced Logic, and Upper-Division Logic, Math, and Philosophy."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Logic Minor Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A total of 18 units is required for the minor, at least 16 of which must be upper-division. In addition to the Foundational Logic requirement, students must complete at least three courses from the combined categories of Advanced Logic and Upper-Division Logic, Math, and Philosophy.",
+          "source_line": "A total of 18 units is required for the minor, at least 16 of which must be upper-division. In addition to the Foundational Logic requirement, students must complete at least three courses from the combined categories of Advanced Logic and Upper-Division Logic, Math, and Philosophy.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "A total of 18 units is required for the minor, at least 16 of which must be upper-division. In addition to the Foundational Logic requirement, students must complete at least three courses from the combined categories of Advanced Logic and Upper-Division Logic, Math, and Philosophy.",
+      "total_units": null
+    },
+    {
+      "title": "Foundational Logic",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PHIL 350",
+          "title": "Intermediate Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 350 Intermediate Logic Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must complete the Foundational Logic requirement. Students with sufficient background in Mathematics or Computer Science, or who have already taken PHIL 220 or PHIL 222g , may—with instructor permission and on a case-by-case basis—substitute this requirement with an additional Advanced Logic course.",
+          "source_line": "Students must complete the Foundational Logic requirement. Students with sufficient background in Mathematics or Computer Science, or who have already taken PHIL 220 or PHIL 222g , may—with instructor permission and on a case-by-case basis—substitute this requirement with an additional Advanced Logic course."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Advanced Logic",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PHIL 450",
+          "title": "The Limits of Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 450 The Limits of Logic Units: 4"
+        },
+        {
+          "code": "PHIL 451",
+          "title": "Higher-order Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 451 Higher-order Logic Units: 4"
+        },
+        {
+          "code": "PHIL 452",
+          "title": "Modal Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 452 Modal Logic Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must complete at least one course from the following list.",
+          "source_line": "Students must complete at least one course from the following list.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Students must complete at least one course from the following list.",
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Logic, Math, and Philosophy",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MATH 425a",
+          "title": "Fundamental Concepts of Analysis",
+          "units": 4.0,
+          "source_line": "- MATH 425a Fundamental Concepts of Analysis Units: 4"
+        },
+        {
+          "code": "MATH 430",
+          "title": "Theory of Numbers",
+          "units": 4.0,
+          "source_line": "- MATH 430 Theory of Numbers Units: 4"
+        },
+        {
+          "code": "MATH 450",
+          "title": "History of Mathematics",
+          "units": 4.0,
+          "source_line": "- MATH 450 History of Mathematics Units: 4"
+        },
+        {
+          "code": "PHIL 381",
+          "title": "Infinity in Mathematics and Philosophy",
+          "units": 4.0,
+          "source_line": "- PHIL 381 Infinity in Mathematics and Philosophy Units: 4"
+        },
+        {
+          "code": "PHIL 480",
+          "title": "Philosophy of Mathematics",
+          "units": 4.0,
+          "source_line": "- PHIL 480 Philosophy of Mathematics Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students must complete courses from this category as part of the 18-unit minor requirement. At least three total courses must be taken from the combined categories of Advanced Logic and Upper-Division Logic, Math, and Philosophy.",
+          "source_line": "Students must complete courses from this category as part of the 18-unit minor requirement. At least three total courses must be taken from the combined categories of Advanced Logic and Upper-Division Logic, Math, and Philosophy."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CSCI 102L",
+          "title": "Introduction to Programming",
+          "units": 2.0,
+          "source_line": "- CSCI 102L Introduction to Programming Units: 2"
+        },
+        {
+          "code": "CSCI 103L",
+          "title": "Object Oriented Programming",
+          "units": 4.0,
+          "source_line": "- CSCI 103L Object Oriented Programming Units: 4"
+        },
+        {
+          "code": "CSCI 113x",
+          "title": "Programming Fundamentals for Computing",
+          "units": 4.0,
+          "source_line": "- CSCI 113x Programming Fundamentals for Computing Units: 4"
+        },
+        {
+          "code": "CSCI 114x",
+          "title": "Programming for Applications of Computing",
+          "units": 4.0,
+          "source_line": "- CSCI 114x Programming for Applications of Computing Units: 4"
+        },
+        {
+          "code": "CSCI 170",
+          "title": "Discrete Methods in Computer Science",
+          "units": 4.0,
+          "source_line": "- CSCI 170 Discrete Methods in Computer Science Units: 4"
+        },
+        {
+          "code": "LING 303",
+          "title": "Introduction to Semantics and Pragmatics",
+          "units": 4.0,
+          "source_line": "- LING 303 Introduction to Semantics and Pragmatics Units: 4"
+        },
+        {
+          "code": "MATH 290",
+          "title": "Mathematical Reasoning and Problem Solving",
+          "units": 4.0,
+          "source_line": "- MATH 290 Mathematical Reasoning and Problem Solving Units: 4"
+        },
+        {
+          "code": "PHIL 220",
+          "title": "Introduction to Logic",
+          "units": 4.0,
+          "source_line": "- PHIL 220 Introduction to Logic Units: 4"
+        },
+        {
+          "code": "PHIL 222g",
+          "title": "Logic and Language",
+          "units": 4.0,
+          "source_line": "- PHIL 222g Logic and Language Units: 4"
+        },
+        {
+          "code": "PHIL 258g",
+          "title": "Probability and Rational Choice",
+          "units": 4.0,
+          "source_line": "- PHIL 258g Probability and Rational Choice Units: 4"
+        },
+        {
+          "code": "SLL 199",
+          "title": "Chess and Critical Thinking",
+          "units": 2.0,
+          "source_line": "- SLL 199 Chess and Critical Thinking Units: 2"
+        },
+        {
+          "code": "TAC 115",
+          "title": "Programming in Python",
+          "units": 2.0,
+          "source_line": "- TAC 115 Programming in Python Units: 2"
+        },
+        {
+          "code": "TAC 116",
+          "title": "Accelerated Programming in Python",
+          "units": 2.0,
+          "source_line": "- TAC 116 Accelerated Programming in Python Units: 2"
+        },
+        {
+          "code": "TAC 165",
+          "title": "Introduction to C++ Programming",
+          "units": 2.0,
+          "source_line": "- TAC 165 Introduction to C++ Programming Units: 2"
+        },
+        {
+          "code": "TAC 168",
+          "title": "Introduction to MATLAB",
+          "units": 2.0,
+          "source_line": "- TAC 168 Introduction to MATLAB Units: 2"
+        },
+        {
+          "code": "TAC 216",
+          "title": "Applied Python",
+          "units": 2.0,
+          "source_line": "- TAC 216 Applied Python Units: 2"
+        },
+        {
+          "code": "TAC 265",
+          "title": "Software Design with Object-Oriented Programming",
+          "units": 4.0,
+          "source_line": "- TAC 265 Software Design with Object-Oriented Programming Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Students may select from the following courses to count toward the Logic minor.",
+          "source_line": "Students may select from the following courses to count toward the Logic minor."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

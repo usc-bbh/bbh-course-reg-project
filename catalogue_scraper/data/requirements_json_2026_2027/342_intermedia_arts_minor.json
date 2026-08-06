@@ -1,0 +1,116 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Intermedia Arts Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32618",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32618&returnto=9396",
+    "source_text_file": "342_intermedia_arts_minor.txt",
+    "source_content_sha256": "e74bcafbd83a8722fd37d635d974308b6f16fbb2607b212cde6ef1d79b15e606",
+    "retrieved_at": "2026-07-31T01:07:25Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 9,
+    "distinct_course_codes": 9,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This minor deals with technology in art making including digital photography, digital video and the Internet. Course work includes choice of classes in history of photography, digital media, visual literacy and computer imaging. The professional aspects of this minor assist students in developing careers in fine arts, communication, design, engineering, film, journalism and in any area where there is a need for flexible and creative imaging using digital media. The total number of units required for the minor is 20.",
+          "source_line": "This minor deals with technology in art making including digital photography, digital video and the Internet. Course work includes choice of classes in history of photography, digital media, visual literacy and computer imaging. The professional aspects of this minor assist students in developing careers in fine arts, communication, design, engineering, film, journalism and in any area where there is a need for flexible and creative imaging using digital media. The total number of units required for the minor is 20."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Lower-Division Courses (8 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ART 150",
+          "title": "Introduction to Photography: Process and Concept",
+          "units": 4.0,
+          "source_line": "- ART 150 Introduction to Photography: Process and Concept Units: 4"
+        },
+        {
+          "code": "ART 260",
+          "title": "Introduction to Video: Projection and Virtual Worlds in Art",
+          "units": 4.0,
+          "source_line": "- ART 260 Introduction to Video: Projection and Virtual Worlds in Art Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Three Upper-Division Courses (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ART 350",
+          "title": "Intermediate Photography: Studio, Field, Independent Projects",
+          "units": 4.0,
+          "source_line": "- ART 350 Intermediate Photography: Studio, Field, Independent Projects Units: 4"
+        },
+        {
+          "code": "ART 360",
+          "title": "Video Installation and Moving Image Environments",
+          "units": 4.0,
+          "source_line": "- ART 360 Video Installation and Moving Image Environments Units: 4"
+        },
+        {
+          "code": "ART 361",
+          "title": "Post-Internet Art and Aesthetics",
+          "units": 4.0,
+          "source_line": "- ART 361 Post-Internet Art and Aesthetics Units: 4"
+        },
+        {
+          "code": "ART 362",
+          "title": "Ideas in Intermedia  max 8",
+          "units": 4.0,
+          "source_line": "- ART 362 Ideas in Intermedia Units: 4 max 8"
+        },
+        {
+          "code": "ART 460",
+          "title": "Post-Material Studio  max 8",
+          "units": 4.0,
+          "source_line": "- ART 460 Post-Material Studio Units: 4 max 8"
+        },
+        {
+          "code": "ART 484",
+          "title": "Contemporary Issues in Art",
+          "units": 4.0,
+          "source_line": "- ART 484 Contemporary Issues in Art Units: 4"
+        },
+        {
+          "code": "CRIT 350gw",
+          "title": "Global Art, Design and Visual Culture since 1960",
+          "units": 4.0,
+          "source_line": "- CRIT 350gw Global Art, Design and Visual Culture since 1960 Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose from the following courses:",
+          "source_line": "Choose from the following courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

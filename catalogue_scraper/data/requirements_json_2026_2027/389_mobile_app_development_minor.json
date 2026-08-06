@@ -1,0 +1,168 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Mobile App Development Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32129",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32129&returnto=9396",
+    "source_text_file": "389_mobile_app_development_minor.txt",
+    "source_content_sha256": "6d5ea2f87e8725bca95dd30bde1e433dec5c945bf8fadede69b3d2215e0f689e",
+    "retrieved_at": "2026-07-31T01:10:58Z"
+  },
+  "totals": {
+    "stated_total_units": 18.0,
+    "stated_total_units_source": "minor requires a minimum of 18 units",
+    "unit_statements_verbatim": [
+      "The minor requires a minimum of 18 units."
+    ],
+    "course_entry_count": 14,
+    "distinct_course_codes": 12,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students pursuing this minor will study and gain experience with the technologies, tools, frameworks, and languages that are most commonly used in developing apps for mobile devices such as smartphones and tablets. They will learn: the fundamentals of programming languages widely used to develop mobile apps; how to design mobile interfaces; how to use the libraries to build apps that have the proper look and feel; how to design and handle user input; and the essential principles of mobile apps in order to be prepared for the new technologies and frameworks that are constantly being developed. Students in this minor will have the opportunity to build a mobile app from the initial idea all the way to a finished product.",
+          "source_line": "Students pursuing this minor will study and gain experience with the technologies, tools, frameworks, and languages that are most commonly used in developing apps for mobile devices such as smartphones and tablets. They will learn: the fundamentals of programming languages widely used to develop mobile apps; how to design mobile interfaces; how to use the libraries to build apps that have the proper look and feel; how to design and handle user input; and the essential principles of mobile apps in order to be prepared for the new technologies and frameworks that are constantly being developed. Students in this minor will have the opportunity to build a mobile app from the initial idea all the way to a finished product."
+        },
+        {
+          "text": "Students should meet the regular admissions standards and have a declared USC major. Students will complete an application for the minor with the Viterbi School of Engineering. For specific information on admission and application procedures, contact the Information Technology Program at (213) 740-4542.",
+          "source_line": "Students should meet the regular admissions standards and have a declared USC major. Students will complete an application for the minor with the Viterbi School of Engineering. For specific information on admission and application procedures, contact the Information Technology Program at (213) 740-4542."
+        },
+        {
+          "text": "The minor requires a minimum of 18 units.",
+          "source_line": "The minor requires a minimum of 18 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required courses (10 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Complete the following (6 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ITP 115",
+          "title": "or 116 may be waived with demonstrated prior Python programming experience",
+          "units": null,
+          "source_line": "ITP 115 or 116 may be waived with demonstrated prior Python programming experience"
+        },
+        {
+          "code": "TAC 115",
+          "title": "Programming in Python  or",
+          "units": 2.0,
+          "source_line": "- TAC 115 Programming in Python Units: 2 or"
+        },
+        {
+          "code": "TAC 116",
+          "title": "Accelerated Programming in Python",
+          "units": 2.0,
+          "source_line": "- TAC 116 Accelerated Programming in Python Units: 2"
+        },
+        {
+          "code": "TAC 265",
+          "title": "Software Design with Object-Oriented Programming",
+          "units": 4.0,
+          "source_line": "- TAC 265 Software Design with Object-Oriented Programming Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Complete one of the following (4 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "TAC 341",
+          "title": "Android App Development",
+          "units": 4.0,
+          "source_line": "- TAC 341 Android App Development Units: 4"
+        },
+        {
+          "code": "TAC 342",
+          "title": "iOS App Development",
+          "units": 4.0,
+          "source_line": "- TAC 342 iOS App Development Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose two elective courses (8 units minimum)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "TAC 303",
+          "title": "Full-Stack Web Development",
+          "units": 4.0,
+          "source_line": "- TAC 303 Full-Stack Web Development Units: 4"
+        },
+        {
+          "code": "TAC 310",
+          "title": "Design for User Experience",
+          "units": 4.0,
+          "source_line": "- TAC 310 Design for User Experience Units: 4"
+        },
+        {
+          "code": "TAC 341",
+          "title": "Android App Development",
+          "units": 4.0,
+          "source_line": "- TAC 341 Android App Development Units: 4"
+        },
+        {
+          "code": "TAC 342",
+          "title": "iOS App Development",
+          "units": 4.0,
+          "source_line": "- TAC 342 iOS App Development Units: 4"
+        },
+        {
+          "code": "TAC 344",
+          "title": "Advanced iOS App Development",
+          "units": 4.0,
+          "source_line": "- TAC 344 Advanced iOS App Development Units: 4"
+        },
+        {
+          "code": "TAC 345",
+          "title": "Advanced Android App Development",
+          "units": 4.0,
+          "source_line": "- TAC 345 Advanced Android App Development Units: 4"
+        },
+        {
+          "code": "TAC 368",
+          "title": "Cross-Platform App Development with Flutter",
+          "units": 4.0,
+          "source_line": "- TAC 368 Cross-Platform App Development with Flutter Units: 4"
+        },
+        {
+          "code": "TAC 382",
+          "title": "Mobile Game Development",
+          "units": 4.0,
+          "source_line": "- TAC 382 Mobile Game Development Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

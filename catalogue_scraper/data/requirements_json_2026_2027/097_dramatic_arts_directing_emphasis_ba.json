@@ -1,0 +1,333 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Dramatic Arts, Directing Emphasis (BA)*",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32918",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32918&returnto=9396",
+    "source_text_file": "097_dramatic_arts_directing_emphasis_ba.txt",
+    "source_content_sha256": "945e72f0f227c31a4a7ba6b28369da14186f640763a3dd096a9ee1a0b8810bdb",
+    "retrieved_at": "2026-07-31T00:52:52Z"
+  },
+  "totals": {
+    "stated_total_units": 128.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "## Required Directing Courses for the Emphasis\n\n---\n\n- THTR 101 Introduction to Acting Units: 4\n- THTR 130 Introduction to Theatrical Production Units: 2\n- THTR 152 Introduction to Scene Study: Contemporary Plays Units: 4\n- THTR 230 Theatrical Design as Poetic Realism Units: 3\n- THTR 232 Introduction to Theatrical Lighting Units: 3\n- THTR 305a Directing Units: 4\n- THTR 305b Directing Units: 4\n- THTR 397 Theatre Practicum Units: 1, 2, 3, 4\n- THTR 451 Leadership Tools for the Director Units: 4\n- THTR 495 Experimental Theatre Workshop I Units: 4\n- THTR 496 Experimental Theatre Workshop II Units: 4\n\n## Worldview Elective\n\n---\n\nSelect one course from the following: (4 units)\n\n- THTR 309 Dramaturgy Units: 4\n- THTR 395m Drama as Human Relations Units: 4\n- THTR 401 Contemporary Theatre in a Changing World Units: 4\n- THTR 403 The Performing Arts Units: 4\n\n## Design Elective\n\n---\n\nSelect one course from the following: (3 - 4units)\n\n- THTR 303 Projection Design I Units: 3\n- THTR 331 Costume Design I Units: 4\n- THTR 336 Sound Design I Units: 3\n\n## Required Critical Studies Core (16 units)\n\n---\n\nComplete the two required courses below."
+    ],
+    "course_entry_count": 34,
+    "distinct_course_codes": 32,
+    "section_count": 9
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The BA in Dramatic Arts with an Emphasis in Directing provides students with the artistic, technical and leadership skills necessary to helm theatrical productions and collaborative creative projects. Combining rigorous training in script analysis, staging and actor direction with an exploration of dramatic literature and storytelling techniques, this program prepares students for careers in theater, film and emerging media. With hands-on experience in directing, project creation and interdisciplinary collaboration, graduates will be equipped to navigate the evolving landscape of the performing arts as innovative and versatile directors.",
+          "source_line": "The BA in Dramatic Arts with an Emphasis in Directing provides students with the artistic, technical and leadership skills necessary to helm theatrical productions and collaborative creative projects. Combining rigorous training in script analysis, staging and actor direction with an exploration of dramatic literature and storytelling techniques, this program prepares students for careers in theater, film and emerging media. With hands-on experience in directing, project creation and interdisciplinary collaboration, graduates will be equipped to navigate the evolving landscape of the performing arts as innovative and versatile directors."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Directing Courses for the Emphasis",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 101",
+          "title": "Introduction to Acting",
+          "units": 4.0,
+          "source_line": "- THTR 101 Introduction to Acting Units: 4"
+        },
+        {
+          "code": "THTR 130",
+          "title": "Introduction to Theatrical Production",
+          "units": 2.0,
+          "source_line": "- THTR 130 Introduction to Theatrical Production Units: 2"
+        },
+        {
+          "code": "THTR 152",
+          "title": "Introduction to Scene Study: Contemporary Plays",
+          "units": 4.0,
+          "source_line": "- THTR 152 Introduction to Scene Study: Contemporary Plays Units: 4"
+        },
+        {
+          "code": "THTR 230",
+          "title": "Theatrical Design as Poetic Realism",
+          "units": 3.0,
+          "source_line": "- THTR 230 Theatrical Design as Poetic Realism Units: 3"
+        },
+        {
+          "code": "THTR 232",
+          "title": "Introduction to Theatrical Lighting",
+          "units": 3.0,
+          "source_line": "- THTR 232 Introduction to Theatrical Lighting Units: 3"
+        },
+        {
+          "code": "THTR 305a",
+          "title": "Directing",
+          "units": 4.0,
+          "source_line": "- THTR 305a Directing Units: 4"
+        },
+        {
+          "code": "THTR 305b",
+          "title": "Directing",
+          "units": 4.0,
+          "source_line": "- THTR 305b Directing Units: 4"
+        },
+        {
+          "code": "THTR 397",
+          "title": "Theatre Practicum , 2, 3, 4",
+          "units": 1.0,
+          "source_line": "- THTR 397 Theatre Practicum Units: 1, 2, 3, 4"
+        },
+        {
+          "code": "THTR 451",
+          "title": "Leadership Tools for the Director",
+          "units": 4.0,
+          "source_line": "- THTR 451 Leadership Tools for the Director Units: 4"
+        },
+        {
+          "code": "THTR 495",
+          "title": "Experimental Theatre Workshop I",
+          "units": 4.0,
+          "source_line": "- THTR 495 Experimental Theatre Workshop I Units: 4"
+        },
+        {
+          "code": "THTR 496",
+          "title": "Experimental Theatre Workshop II",
+          "units": 4.0,
+          "source_line": "- THTR 496 Experimental Theatre Workshop II Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Worldview Elective",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 309",
+          "title": "Dramaturgy",
+          "units": 4.0,
+          "source_line": "- THTR 309 Dramaturgy Units: 4"
+        },
+        {
+          "code": "THTR 395m",
+          "title": "Drama as Human Relations",
+          "units": 4.0,
+          "source_line": "- THTR 395m Drama as Human Relations Units: 4"
+        },
+        {
+          "code": "THTR 401",
+          "title": "Contemporary Theatre in a Changing World",
+          "units": 4.0,
+          "source_line": "- THTR 401 Contemporary Theatre in a Changing World Units: 4"
+        },
+        {
+          "code": "THTR 403",
+          "title": "The Performing Arts",
+          "units": 4.0,
+          "source_line": "- THTR 403 The Performing Arts Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select one course from the following: (4 units)",
+          "source_line": "Select one course from the following: (4 units)",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select one course from the following: (4 units)",
+      "total_units": null
+    },
+    {
+      "title": "Design Elective",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 303",
+          "title": "Projection Design I",
+          "units": 3.0,
+          "source_line": "- THTR 303 Projection Design I Units: 3"
+        },
+        {
+          "code": "THTR 331",
+          "title": "Costume Design I",
+          "units": 4.0,
+          "source_line": "- THTR 331 Costume Design I Units: 4"
+        },
+        {
+          "code": "THTR 336",
+          "title": "Sound Design I",
+          "units": 3.0,
+          "source_line": "- THTR 336 Sound Design I Units: 3"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select one course from the following: (3 - 4units)",
+          "source_line": "Select one course from the following: (3 - 4units)",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select one course from the following: (3 - 4units)",
+      "total_units": null
+    },
+    {
+      "title": "Required Critical Studies Core (16 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "THTR 125",
+          "title": "Text Studies for Production",
+          "units": 4.0,
+          "source_line": "- THTR 125 Text Studies for Production Units: 4"
+        },
+        {
+          "code": "THTR 225g",
+          "title": "Theatre Across History and Cultures",
+          "units": 4.0,
+          "source_line": "- THTR 225g Theatre Across History and Cultures Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete the two required courses below. In addition, take one course from List A and one course from either list A or B.",
+          "source_line": "Complete the two required courses below. In addition, take one course from List A and one course from either list A or B.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Complete the two required courses below. In addition, take one course from List A and one course from either list A or B.",
+      "total_units": null
+    },
+    {
+      "title": "List A",
+      "level": 3,
+      "courses": [
+        {
+          "code": "THTR 310",
+          "title": "Comedy and Diversity",
+          "units": 4.0,
+          "source_line": "- THTR 310 Comedy and Diversity Units: 4"
+        },
+        {
+          "code": "THTR 312",
+          "title": "LGBTQ Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 312 LGBTQ Theatre Units: 4"
+        },
+        {
+          "code": "THTR 395m",
+          "title": "Drama as Human Relations",
+          "units": 4.0,
+          "source_line": "- THTR 395m Drama as Human Relations Units: 4"
+        },
+        {
+          "code": "THTR 405m",
+          "title": "Performing Identities",
+          "units": 4.0,
+          "source_line": "- THTR 405m Performing Identities Units: 4"
+        },
+        {
+          "code": "THTR 406",
+          "title": "Theatre on the Edge",
+          "units": 4.0,
+          "source_line": "- THTR 406 Theatre on the Edge Units: 4"
+        },
+        {
+          "code": "THTR 456",
+          "title": "Latinx Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 456 Latinx Theatre Units: 4"
+        },
+        {
+          "code": "THTR 460",
+          "title": "Asian and Asian American Theatre: Identity and Aesthetics",
+          "units": 4.0,
+          "source_line": "- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4"
+        },
+        {
+          "code": "THTR 476mw",
+          "title": "African American Theatre, Dance, and Performance",
+          "units": 4.0,
+          "source_line": "- THTR 476mw African American Theatre, Dance, and Performance Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "List B",
+      "level": 3,
+      "courses": [
+        {
+          "code": "THTR 301",
+          "title": "Greek and Roman Theatre",
+          "units": 4.0,
+          "source_line": "- THTR 301 Greek and Roman Theatre Units: 4"
+        },
+        {
+          "code": "THTR 302",
+          "title": "Shakespeare in His World",
+          "units": 4.0,
+          "source_line": "- THTR 302 Shakespeare in His World Units: 4"
+        },
+        {
+          "code": "THTR 313",
+          "title": "Comedy of Manners",
+          "units": 4.0,
+          "source_line": "- THTR 313 Comedy of Manners Units: 4"
+        },
+        {
+          "code": "THTR 314",
+          "title": "Advanced Topics in Modern Drama",
+          "units": 4.0,
+          "source_line": "- THTR 314 Advanced Topics in Modern Drama Units: 4"
+        },
+        {
+          "code": "THTR 400",
+          "title": "Eco-Theatre: Art and Science in Contemporary Plays",
+          "units": 4.0,
+          "source_line": "- THTR 400 Eco-Theatre: Art and Science in Contemporary Plays Units: 4"
+        },
+        {
+          "code": "THTR 403",
+          "title": "The Performing Arts",
+          "units": 4.0,
+          "source_line": "- THTR 403 The Performing Arts Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required General Education Units: 36",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Units: 128",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 128.0
+    }
+  ],
+  "parse_warnings": []
+}

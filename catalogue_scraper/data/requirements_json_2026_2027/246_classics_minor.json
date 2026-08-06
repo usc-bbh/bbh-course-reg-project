@@ -1,0 +1,157 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Classics Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31745",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31745&returnto=9396",
+    "source_text_file": "246_classics_minor.txt",
+    "source_content_sha256": "4f3a367018a06c5394a52c574f6ebcc6f28899cd5a0da4cb6470746c0151cb3d",
+    "retrieved_at": "2026-07-31T01:00:27Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "---\n\nLower division Classics courses\n\n- CLAS 101gp State and Society in the Ancient World Units: 4\n- CLAS 150gp The Greeks and their Legacies Units: 4\n- CLAS 151gp The Legacy of Rome Units: 4\n- CLAS 160gp Ancient Lives Units: 4\n- CLAS 180g Classical Mythology and the Mythic Imagination Units: 4\n- CLAS 275gp The Byzantine Empire, 324 - 1453 Units: 4\n- CLAS 280gp Classical Mythology in Art and Literature Units: 4\n\n### B."
+    ],
+    "course_entry_count": 9,
+    "distinct_course_codes": 9,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The classics department minor requires one lower-division Classics course or one third-semester Latin or Greek course, and four upper-division Classics, Latin or Greek courses.",
+          "source_line": "The classics department minor requires one lower-division Classics course or one third-semester Latin or Greek course, and four upper-division Classics, Latin or Greek courses."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One course from either A or B:",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Lower-division course",
+          "source_line": "Lower-division course"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "A.",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CLAS 101gp",
+          "title": "State and Society in the Ancient World",
+          "units": 4.0,
+          "source_line": "- CLAS 101gp State and Society in the Ancient World Units: 4"
+        },
+        {
+          "code": "CLAS 150gp",
+          "title": "The Greeks and their Legacies",
+          "units": 4.0,
+          "source_line": "- CLAS 150gp The Greeks and their Legacies Units: 4"
+        },
+        {
+          "code": "CLAS 151gp",
+          "title": "The Legacy of Rome",
+          "units": 4.0,
+          "source_line": "- CLAS 151gp The Legacy of Rome Units: 4"
+        },
+        {
+          "code": "CLAS 160gp",
+          "title": "Ancient Lives",
+          "units": 4.0,
+          "source_line": "- CLAS 160gp Ancient Lives Units: 4"
+        },
+        {
+          "code": "CLAS 180g",
+          "title": "Classical Mythology and the Mythic Imagination",
+          "units": 4.0,
+          "source_line": "- CLAS 180g Classical Mythology and the Mythic Imagination Units: 4"
+        },
+        {
+          "code": "CLAS 275gp",
+          "title": "The Byzantine Empire, 324 - 1453",
+          "units": 4.0,
+          "source_line": "- CLAS 275gp The Byzantine Empire, 324 - 1453 Units: 4"
+        },
+        {
+          "code": "CLAS 280gp",
+          "title": "Classical Mythology in Art and Literature",
+          "units": 4.0,
+          "source_line": "- CLAS 280gp Classical Mythology in Art and Literature Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Lower division Classics courses",
+          "source_line": "Lower division Classics courses"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "B.",
+      "level": 3,
+      "courses": [
+        {
+          "code": "GR 220",
+          "title": "Greek III",
+          "units": 4.0,
+          "source_line": "- GR 220 Greek III Units: 4"
+        },
+        {
+          "code": "LAT 222",
+          "title": "Latin III",
+          "units": 4.0,
+          "source_line": "- LAT 222 Latin III Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Third semester Latin or Greek courses:",
+          "source_line": "Third semester Latin or Greek courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Four upper-division courses (16 units) drawn from classics course offerings in Classics, Latin or Greek",
+          "source_line": "Four upper-division courses (16 units) drawn from classics course offerings in Classics, Latin or Greek"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total: 5 courses",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

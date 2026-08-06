@@ -1,0 +1,277 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Global Communication Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31834",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31834&returnto=9396",
+    "source_text_file": "325_global_communication_minor.txt",
+    "source_content_sha256": "94d7b2e8c6659d6f2db354df826f1fdc2d8d21725c2d1815f71f6c55bc7f5a98",
+    "retrieved_at": "2026-07-31T01:06:44Z"
+  },
+  "totals": {
+    "stated_total_units": 24.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [],
+    "course_entry_count": 30,
+    "distinct_course_codes": 30,
+    "section_count": 7
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The rise of global firms and international changes that followed the end of the cold war raise new opportunities and challenges. This minor provides students from fields such as business, journalism, engineering and political science an understanding of the dynamic nature of global relations, communications and technology. The global communication minor consists of six 4-unit courses, three from International Relations and three from Communication.",
+          "source_line": "The rise of global firms and international changes that followed the end of the cold war raise new opportunities and challenges. This minor provides students from fields such as business, journalism, engineering and political science an understanding of the dynamic nature of global relations, communications and technology. The global communication minor consists of six 4-unit courses, three from International Relations and three from Communication."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required International Relations Course",
+      "level": 2,
+      "courses": [
+        {
+          "code": "IR 305w",
+          "title": "Managing New Global Problems",
+          "units": 4.0,
+          "source_line": "- IR 305w Managing New Global Problems Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "International Relations Regional Courses (Select One)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "IR 303",
+          "title": "Leadership and Diplomacy",
+          "units": 4.0,
+          "source_line": "- IR 303 Leadership and Diplomacy Units: 4"
+        },
+        {
+          "code": "IR 325",
+          "title": "North-South Relations in the Global Economy  (departmental approval)",
+          "units": 4.0,
+          "source_line": "- IR 325 North-South Relations in the Global Economy Units: 4 (departmental approval)"
+        },
+        {
+          "code": "IR 326",
+          "title": "U.S. Foreign Economic Policy",
+          "units": 4.0,
+          "source_line": "- IR 326 U.S. Foreign Economic Policy Units: 4"
+        },
+        {
+          "code": "IR 330",
+          "title": "Politics of the World Economy",
+          "units": 4.0,
+          "source_line": "- IR 330 Politics of the World Economy Units: 4"
+        },
+        {
+          "code": "IR 333",
+          "title": "China in International Affairs",
+          "units": 4.0,
+          "source_line": "- IR 333 China in International Affairs Units: 4"
+        },
+        {
+          "code": "IR 345",
+          "title": "Russian and Post-Soviet Foreign Policy",
+          "units": 4.0,
+          "source_line": "- IR 345 Russian and Post-Soviet Foreign Policy Units: 4"
+        },
+        {
+          "code": "IR 360",
+          "title": "International Relations of the Pacific Rim",
+          "units": 4.0,
+          "source_line": "- IR 360 International Relations of the Pacific Rim Units: 4"
+        },
+        {
+          "code": "IR 361",
+          "title": "South and Southeast Asia in International Affairs",
+          "units": 4.0,
+          "source_line": "- IR 361 South and Southeast Asia in International Affairs Units: 4"
+        },
+        {
+          "code": "IR 362",
+          "title": "The International Relations of the Contemporary Middle East",
+          "units": 4.0,
+          "source_line": "- IR 362 The International Relations of the Contemporary Middle East Units: 4"
+        },
+        {
+          "code": "IR 363",
+          "title": "Middle East Political Economy",
+          "units": 4.0,
+          "source_line": "- IR 363 Middle East Political Economy Units: 4"
+        },
+        {
+          "code": "IR 365",
+          "title": "Politics and Democracy in Latin America",
+          "units": 4.0,
+          "source_line": "- IR 365 Politics and Democracy in Latin America Units: 4"
+        },
+        {
+          "code": "IR 367",
+          "title": "Africa in International Affairs",
+          "units": 4.0,
+          "source_line": "- IR 367 Africa in International Affairs Units: 4"
+        },
+        {
+          "code": "IR 368",
+          "title": "French Foreign Policy: 1945 to the Present  (offered in Paris only)",
+          "units": 4.0,
+          "source_line": "- IR 368 French Foreign Policy: 1945 to the Present Units: 4 (offered in Paris only)"
+        },
+        {
+          "code": "IR 369",
+          "title": "Post-War European Relations",
+          "units": 4.0,
+          "source_line": "- IR 369 Post-War European Relations Units: 4"
+        },
+        {
+          "code": "IR 383",
+          "title": "Conflict Mediation & Negotiation",
+          "units": 4.0,
+          "source_line": "- IR 383 Conflict Mediation & Negotiation Units: 4"
+        },
+        {
+          "code": "IR 384",
+          "title": "Asian Security Issues",
+          "units": 4.0,
+          "source_line": "- IR 384 Asian Security Issues Units: 4"
+        },
+        {
+          "code": "IR 385",
+          "title": "European Foreign Policy and Security Issues",
+          "units": 4.0,
+          "source_line": "- IR 385 European Foreign Policy and Security Issues Units: 4"
+        },
+        {
+          "code": "IR 439",
+          "title": "Political Economy of Russia and Eurasia",
+          "units": 4.0,
+          "source_line": "- IR 439 Political Economy of Russia and Eurasia Units: 4"
+        },
+        {
+          "code": "IR 442",
+          "title": "Japanese Foreign Policy",
+          "units": 4.0,
+          "source_line": "- IR 442 Japanese Foreign Policy Units: 4"
+        },
+        {
+          "code": "IR 468",
+          "title": "European Integration",
+          "units": 4.0,
+          "source_line": "- IR 468 European Integration Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "IR Elective",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Select one 300- or 400-level IR course",
+          "source_line": "Select one 300- or 400-level IR course",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select one 300- or 400-level IR course",
+      "total_units": null
+    },
+    {
+      "title": "Required Communication Course",
+      "level": 2,
+      "courses": [
+        {
+          "code": "COMM 487",
+          "title": "Communication and Global Organizations",
+          "units": 4.0,
+          "source_line": "- COMM 487 Communication and Global Organizations Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Communication Electives (Select Two)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "COMM 324mw",
+          "title": "Intercultural Communication",
+          "units": 4.0,
+          "source_line": "- COMM 324mw Intercultural Communication Units: 4"
+        },
+        {
+          "code": "COMM 339",
+          "title": "Communication Technology and Culture",
+          "units": 4.0,
+          "source_line": "- COMM 339 Communication Technology and Culture Units: 4"
+        },
+        {
+          "code": "COMM 345",
+          "title": "Social and Economic Implications of Communication Technologies",
+          "units": 4.0,
+          "source_line": "- COMM 345 Social and Economic Implications of Communication Technologies Units: 4"
+        },
+        {
+          "code": "COMM 371",
+          "title": "Media Censorship and the Law",
+          "units": 4.0,
+          "source_line": "- COMM 371 Media Censorship and the Law Units: 4"
+        },
+        {
+          "code": "COMM 385",
+          "title": "Organizational Communication",
+          "units": 4.0,
+          "source_line": "- COMM 385 Organizational Communication Units: 4"
+        },
+        {
+          "code": "COMM 414",
+          "title": "Communication and Social Change in China",
+          "units": 4.0,
+          "source_line": "- COMM 414 Communication and Social Change in China Units: 4"
+        },
+        {
+          "code": "COMM 430",
+          "title": "Global Entertainment  (Prerequisite: COMM 300 )",
+          "units": 4.0,
+          "source_line": "- COMM 430 Global Entertainment Units: 4 (Prerequisite: COMM 300 )"
+        },
+        {
+          "code": "COMM 431",
+          "title": "Global Strategy for the Communications Industry",
+          "units": 4.0,
+          "source_line": "- COMM 431 Global Strategy for the Communications Industry Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 24",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 24.0
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,137 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Jazz Studies Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32246",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32246&returnto=9396",
+    "source_text_file": "349_jazz_studies_minor.txt",
+    "source_content_sha256": "82962293e2b2defa950f25de93262c043ba877a98b0aaee20785487fb7b00710",
+    "retrieved_at": "2026-07-31T01:07:42Z"
+  },
+  "totals": {
+    "stated_total_units": 21.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [],
+    "course_entry_count": 9,
+    "distinct_course_codes": 9,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This 21-unit minor program in jazz studies incorporates course work in individual instruction, the history of jazz masters, techniques of jazz improvisation and jazz theory for improvisers. The minor is not available to BM jazz studies majors.",
+          "source_line": "This 21-unit minor program in jazz studies incorporates course work in individual instruction, the history of jazz masters, techniques of jazz improvisation and jazz theory for improvisers. The minor is not available to BM jazz studies majors."
+        },
+        {
+          "text": "Requirements for admission are: GPA per university regulations and an audition.",
+          "source_line": "Requirements for admission are: GPA per university regulations and an audition."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (19 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MUCO 130ax",
+          "title": "Basics of Music Theory",
+          "units": 3.0,
+          "source_line": "- MUCO 130ax Basics of Music Theory Units: 3"
+        },
+        {
+          "code": "MUJZ 150",
+          "title": "Beginning Jazz Improvisation",
+          "units": 2.0,
+          "source_line": "- MUJZ 150 Beginning Jazz Improvisation Units: 2"
+        },
+        {
+          "code": "MUJZ 301",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MUJZ 301 Individual Instruction Units: 1, 2"
+        },
+        {
+          "code": "MUJZ 450",
+          "title": "Intermediate Jazz Improvisation",
+          "units": 2.0,
+          "source_line": "- MUJZ 450 Intermediate Jazz Improvisation Units: 2"
+        },
+        {
+          "code": "MUSC 250gmw",
+          "title": "The Music of Black Americans",
+          "units": 4.0,
+          "source_line": "- MUSC 250gmw The Music of Black Americans Units: 4"
+        },
+        {
+          "code": "MUEN 305",
+          "title": "Vocal Jazz Ensemble",
+          "units": 1.0,
+          "source_line": "- MUEN 305 Vocal Jazz Ensemble Units: 1"
+        },
+        {
+          "code": "MUEN 326",
+          "title": "Guitar Ensemble",
+          "units": 1.0,
+          "source_line": "- MUEN 326 Guitar Ensemble Units: 1"
+        },
+        {
+          "code": "MUEN 329",
+          "title": "Jazz Ensemble",
+          "units": 1.0,
+          "source_line": "- MUEN 329 Jazz Ensemble Units: 1"
+        },
+        {
+          "code": "MUEN 332",
+          "title": "Jazz Chamber Music",
+          "units": 1.0,
+          "source_line": "- MUEN 332 Jazz Chamber Music Units: 1"
+        }
+      ],
+      "notes": [
+        {
+          "text": "4 units total of MUJZ 301 in your primary instrument",
+          "source_line": "- 4 units total of MUJZ 301 in your primary instrument"
+        },
+        {
+          "text": "Select 4 units from the following:",
+          "source_line": "- Select 4 units from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select 4 units from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Music Electives (2 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Music courses numbered 300–499 (2 units total)",
+          "source_line": "Music courses numbered 300–499 (2 units total)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 21",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": 21.0
+    }
+  ],
+  "parse_warnings": []
+}

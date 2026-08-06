@@ -1,0 +1,218 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Video Game Production Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32794",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32794&returnto=9396",
+    "source_text_file": "471_video_game_production_minor.txt",
+    "source_content_sha256": "04d2e27614f5243c899bc7bbcd39142743298ee353a1b4929120a3cc75f2c45f",
+    "retrieved_at": "2026-07-31T01:14:25Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 23,
+    "distinct_course_codes": 23,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Video games have become the largest category in the entertainment industry. This minor will introduce you to techniques needed to manage this creative endeavor as a successful business enterprise and prepare you for a career in video game production.",
+          "source_line": "Video games have become the largest category in the entertainment industry. This minor will introduce you to techniques needed to manage this creative endeavor as a successful business enterprise and prepare you for a career in video game production."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (10 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Complete the following (8 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "TAC 180",
+          "title": "Video Game Production",
+          "units": 2.0,
+          "source_line": "- TAC 180 Video Game Production Units: 2"
+        },
+        {
+          "code": "TAC 181",
+          "title": "Video Game QA Management",
+          "units": 2.0,
+          "source_line": "- TAC 181 Video Game QA Management Units: 2"
+        },
+        {
+          "code": "TAC 393",
+          "title": "Video Game Project Management",
+          "units": 4.0,
+          "source_line": "- TAC 393 Video Game Project Management Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose one of the following (2 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTIN 409",
+          "title": "Producing Interactive Projects",
+          "units": 2.0,
+          "source_line": "- CTIN 409 Producing Interactive Projects Units: 2",
+          "alternative_follows": true
+        },
+        {
+          "code": "TAC 409",
+          "title": "Producing Interactive Media Projects",
+          "units": 2.0,
+          "source_line": "- TAC 409 Producing Interactive Media Projects Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (6 units minimum)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BUAD 304",
+          "title": "Organizational Behavior and Leadership",
+          "units": 4.0,
+          "source_line": "- BUAD 304 Organizational Behavior and Leadership Units: 4"
+        },
+        {
+          "code": "BUAD 315x",
+          "title": "Basics of Project and Operations Management for Non-Majors",
+          "units": 2.0,
+          "source_line": "- BUAD 315x Basics of Project and Operations Management for Non-Majors Units: 2"
+        },
+        {
+          "code": "COMM 320",
+          "title": "Small Group and Team Communication",
+          "units": 4.0,
+          "source_line": "- COMM 320 Small Group and Team Communication Units: 4"
+        },
+        {
+          "code": "CTIN 190",
+          "title": "Introduction to Interactive Entertainment",
+          "units": 4.0,
+          "source_line": "- CTIN 190 Introduction to Interactive Entertainment Units: 4"
+        },
+        {
+          "code": "CTIN 291",
+          "title": "Crew for Advanced Game Project",
+          "units": 2.0,
+          "source_line": "- CTIN 291 Crew for Advanced Game Project Units: 2"
+        },
+        {
+          "code": "CTIN 391",
+          "title": "Fundamentals of User Research and Experience",
+          "units": 2.0,
+          "source_line": "- CTIN 391 Fundamentals of User Research and Experience Units: 2"
+        },
+        {
+          "code": "CTIN 404L",
+          "title": "User Research for Games",
+          "units": 2.0,
+          "source_line": "- CTIN 404L User Research for Games Units: 2"
+        },
+        {
+          "code": "CTIN 458",
+          "title": "Business and Management of Games",
+          "units": 2.0,
+          "source_line": "- CTIN 458 Business and Management of Games Units: 2"
+        },
+        {
+          "code": "CTIN 468",
+          "title": "Advanced Games Business",
+          "units": 2.0,
+          "source_line": "- CTIN 468 Advanced Games Business Units: 2"
+        },
+        {
+          "code": "ISE 315L",
+          "title": "Engineering Project Management",
+          "units": 4.0,
+          "source_line": "- ISE 315L Engineering Project Management Units: 4"
+        },
+        {
+          "code": "MOR 473",
+          "title": "Designing and Leading Teams",
+          "units": 4.0,
+          "source_line": "- MOR 473 Designing and Leading Teams Units: 4"
+        },
+        {
+          "code": "TAC 101",
+          "title": "Business Tools and Digital Fluency",
+          "units": 2.0,
+          "source_line": "- TAC 101 Business Tools and Digital Fluency Units: 2"
+        },
+        {
+          "code": "TAC 215L",
+          "title": "Introduction to 3D Modeling, Animation and Visual Effects",
+          "units": 2.0,
+          "source_line": "- TAC 215L Introduction to 3D Modeling, Animation and Visual Effects Units: 2"
+        },
+        {
+          "code": "TAC 249",
+          "title": "Introduction to Data Analytics",
+          "units": 4.0,
+          "source_line": "- TAC 249 Introduction to Data Analytics Units: 4"
+        },
+        {
+          "code": "TAC 310",
+          "title": "Design for User Experience",
+          "units": 4.0,
+          "source_line": "- TAC 310 Design for User Experience Units: 4"
+        },
+        {
+          "code": "TAC 351",
+          "title": "3D Character Modeling for Games",
+          "units": 4.0,
+          "source_line": "- TAC 351 3D Character Modeling for Games Units: 4"
+        },
+        {
+          "code": "TAC 361",
+          "title": "Character Rigging for Games",
+          "units": 4.0,
+          "source_line": "- TAC 361 Character Rigging for Games Units: 4"
+        },
+        {
+          "code": "TAC 371",
+          "title": "Technical Character Animation for Games",
+          "units": 4.0,
+          "source_line": "- TAC 371 Technical Character Animation for Games Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

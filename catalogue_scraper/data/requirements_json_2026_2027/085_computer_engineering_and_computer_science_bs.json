@@ -1,0 +1,508 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Computer Engineering and Computer Science (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32083",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32083&returnto=9396",
+    "source_text_file": "085_computer_engineering_and_computer_science_bs.txt",
+    "source_content_sha256": "9cd3de5c4a56c50d53da5b185ab7adfcae1e7efe51add324133f0ace545bc832",
+    "retrieved_at": "2026-07-31T00:52:23Z"
+  },
+  "totals": {
+    "stated_total_units": 128.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "The requirement for the degree is 128 units.",
+      "## Composition/Writing Requirements (8 Units)\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4 [*]\n\n## General Education (24 Units)\n\n---\n\n- General Education Units: 24\n\n## Pre-Major Requirements (30 Units)\n\n---\n\n### Engineering (2 units)\n\n---\n\n- ENGR 102 Viterbi First-Year Academy Units: 2\n\n### Mathematics (16 units)\n\n---\n\n- MATH 125g Calculus I Units: 4 **\n-\n- MATH 126g Calculus II Units: 4 ** or\n- MATH 129 Calculus II for Engineers and Scientists Units: 4\n-\n- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or\n- EE 141L Applied Linear Algebra for Engineering Units: 4 or\n- MATH 235 Linear Algebra and Applications Units: 4\n-\n- MATH 226g Calculus III Units: 4 ** or\n- MATH 229 Calculus III for Engineers and Scientists Units: 4\n\n### Statistics and Probability (4 units)\n\n---\n\n- EE 364 Probability and Statistics for Engineers and Computer Scientists Units: 4\n\n### Physics (8 units)\n\n---\n\n- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 ** and\n- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4\n- or\n- PHYS 161Lg Advanced Principles of Physics I Units: 4 ** and\n- PHYS 162L Advanced Principles of Physics II Units: 4\n\n## Core (42 units)\n\n---\n\n- CSCI 102L Introduction to Programming Units: 2\n- CSCI 103L Object Oriented Programming Units: 4\n- CSCI 104L Data Structures Units: 4\n- CSCI 170 Discrete Methods in Computer Science Units: 4\n- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4\n- CSCI 350 Fundamentals of Operating Systems Units: 4\n- EE 109L Introduction to Embedded Systems Units: 4\n- EE 250L Distributed Systems for the Internet of Things Units: 4\n- EE 354L Digital Circuits Units: 4\n- EE 457 Computer Systems Organization Units: 4\n- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4\n- or\n- CSCI 467 Foundations of Machine Learning Units: 4\n- or\n- EE 460 Machine Learning for Engineers Units: 4\n\n## Computing Systems Track (20 units)\n\n---\n\n- CSCI 201 Principles of Software Development Units: 4\n- CSCI 353 Internetworking Units: 4\n- EE 451 Parallel and Distributed Computation Units: 4\n- EE 454L System-on-Chip Units: 4\n\n### Senior Design Project\n\n---\n\nSelect one from the following:\n\n- CSCI 401 Capstone: Design and Construction of Large Software Systems Units: 4 or\n- EE 459Lx Embedded Systems Design Laboratory Units: 4 or\n- EE 496 Capstone Design Units: 4\n\n## Embedded Systems Track (20 units)\n\n---\n\n- EE 202L Linear Circuits Units: 4\n- EE 301 Linear Systems Units: 4\n- Choose one from:\n- EE 454L System-on-Chip Units: 4 or\n- EE 477L MOS VLSI Circuit Design Units: 4\n\n### Senior Design Project\n\n---\n\nSelect one from:\n\n- EE 459Lx Embedded Systems Design Laboratory Units: 4 or\n- EE 496 Capstone Design Units: 4\n\n### Technical Electives\n\n---\n\nA minimum of 4 units of technical electives must be chosen from 4-unit 300 - or 400-level CSCI or EE courses.",
+      "## Free Electives (4 units)\n\n---\n\n4 units of free electives are available to count toward the degree."
+    ],
+    "course_entry_count": 42,
+    "distinct_course_codes": 39,
+    "section_count": 16
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Science in Computer Engineering and Computer Science provides students with the scientific and engineering skills and knowledge that enable them to design and implement computer systems that effectively and efficiently integrate developing hardware and software technologies. This degree is administered jointly by the Department of Computer Science and the Department of Electrical and Computer Engineering.",
+          "source_line": "The Bachelor of Science in Computer Engineering and Computer Science provides students with the scientific and engineering skills and knowledge that enable them to design and implement computer systems that effectively and efficiently integrate developing hardware and software technologies. This degree is administered jointly by the Department of Computer Science and the Department of Electrical and Computer Engineering."
+        },
+        {
+          "text": "A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken.",
+          "source_line": "A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken."
+        },
+        {
+          "text": "The requirement for the degree is 128 units.",
+          "source_line": "The requirement for the degree is 128 units."
+        },
+        {
+          "text": "A grade of C (2.0) or better is required for each of the core courses CSCI 102L , CSCI 103 , CSCI 170 , CSCI 104 and CSCI 201 .",
+          "source_line": "A grade of C (2.0) or better is required for each of the core courses CSCI 102L , CSCI 103 , CSCI 170 , CSCI 104 and CSCI 201 ."
+        },
+        {
+          "text": "Courses with a grade of C- or below must be repeated; courses may only be retaken once.",
+          "source_line": "Courses with a grade of C- or below must be repeated; courses may only be retaken once."
+        },
+        {
+          "text": "Departmental approval is required in order to retake a course.",
+          "source_line": "Departmental approval is required in order to retake a course."
+        },
+        {
+          "text": "Students who do not satisfy the degree requirement after repeating a class will be disqualified from the program.",
+          "source_line": "Students who do not satisfy the degree requirement after repeating a class will be disqualified from the program."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Composition/Writing Requirements (8 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement  [*]",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4 [*]"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education (24 Units)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "General Education Units: 24",
+          "source_line": "- General Education Units: 24"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Pre-Major Requirements (30 Units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Engineering (2 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ENGR 102",
+          "title": "Viterbi First-Year Academy",
+          "units": 2.0,
+          "source_line": "- ENGR 102 Viterbi First-Year Academy Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Mathematics (16 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I  **",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4 **"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II  ** or",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4 ** or"
+        },
+        {
+          "code": "MATH 129",
+          "title": "Calculus II for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 129 Calculus II for Engineers and Scientists Units: 4"
+        },
+        {
+          "code": "MATH 225",
+          "title": "Linear Algebra and Linear Differential Equations  or",
+          "units": 4.0,
+          "source_line": "- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or"
+        },
+        {
+          "code": "EE 141L",
+          "title": "Applied Linear Algebra for Engineering  or",
+          "units": 4.0,
+          "source_line": "- EE 141L Applied Linear Algebra for Engineering Units: 4 or"
+        },
+        {
+          "code": "MATH 235",
+          "title": "Linear Algebra and Applications",
+          "units": 4.0,
+          "source_line": "- MATH 235 Linear Algebra and Applications Units: 4"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III  ** or",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4 ** or"
+        },
+        {
+          "code": "MATH 229",
+          "title": "Calculus III for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 229 Calculus III for Engineers and Scientists Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Statistics and Probability (4 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "EE 364",
+          "title": "Probability and Statistics for Engineers and Computer Scientists",
+          "units": 4.0,
+          "source_line": "- EE 364 Probability and Statistics for Engineers and Computer Scientists Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Physics (8 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves  ** and",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 ** and"
+        },
+        {
+          "code": "PHYS 152L",
+          "title": "Fundamentals of Physics II: Electricity and Magnetism",
+          "units": 4.0,
+          "source_line": "- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "PHYS 161Lg",
+          "title": "Advanced Principles of Physics I  ** and",
+          "units": 4.0,
+          "source_line": "- PHYS 161Lg Advanced Principles of Physics I Units: 4 ** and"
+        },
+        {
+          "code": "PHYS 162L",
+          "title": "Advanced Principles of Physics II",
+          "units": 4.0,
+          "source_line": "- PHYS 162L Advanced Principles of Physics II Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core (42 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CSCI 102L",
+          "title": "Introduction to Programming",
+          "units": 2.0,
+          "source_line": "- CSCI 102L Introduction to Programming Units: 2"
+        },
+        {
+          "code": "CSCI 103L",
+          "title": "Object Oriented Programming",
+          "units": 4.0,
+          "source_line": "- CSCI 103L Object Oriented Programming Units: 4"
+        },
+        {
+          "code": "CSCI 104L",
+          "title": "Data Structures",
+          "units": 4.0,
+          "source_line": "- CSCI 104L Data Structures Units: 4"
+        },
+        {
+          "code": "CSCI 170",
+          "title": "Discrete Methods in Computer Science",
+          "units": 4.0,
+          "source_line": "- CSCI 170 Discrete Methods in Computer Science Units: 4"
+        },
+        {
+          "code": "CSCI 270",
+          "title": "Introduction to Algorithms and Theory of Computing",
+          "units": 4.0,
+          "source_line": "- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4"
+        },
+        {
+          "code": "CSCI 350",
+          "title": "Fundamentals of Operating Systems",
+          "units": 4.0,
+          "source_line": "- CSCI 350 Fundamentals of Operating Systems Units: 4"
+        },
+        {
+          "code": "EE 109L",
+          "title": "Introduction to Embedded Systems",
+          "units": 4.0,
+          "source_line": "- EE 109L Introduction to Embedded Systems Units: 4"
+        },
+        {
+          "code": "EE 250L",
+          "title": "Distributed Systems for the Internet of Things",
+          "units": 4.0,
+          "source_line": "- EE 250L Distributed Systems for the Internet of Things Units: 4"
+        },
+        {
+          "code": "EE 354L",
+          "title": "Digital Circuits",
+          "units": 4.0,
+          "source_line": "- EE 354L Digital Circuits Units: 4"
+        },
+        {
+          "code": "EE 457",
+          "title": "Computer Systems Organization",
+          "units": 4.0,
+          "source_line": "- EE 457 Computer Systems Organization Units: 4"
+        },
+        {
+          "code": "CSCI 360",
+          "title": "Artificial Intelligence: Principles and Foundations",
+          "units": 4.0,
+          "source_line": "- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "CSCI 467",
+          "title": "Foundations of Machine Learning",
+          "units": 4.0,
+          "source_line": "- CSCI 467 Foundations of Machine Learning Units: 4",
+          "alternative_follows": true
+        },
+        {
+          "code": "EE 460",
+          "title": "Machine Learning for Engineers",
+          "units": 4.0,
+          "source_line": "- EE 460 Machine Learning for Engineers Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "or",
+          "source_line": "- or"
+        },
+        {
+          "text": "or",
+          "source_line": "- or"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Computing Systems Track (20 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CSCI 201",
+          "title": "Principles of Software Development",
+          "units": 4.0,
+          "source_line": "- CSCI 201 Principles of Software Development Units: 4"
+        },
+        {
+          "code": "CSCI 353",
+          "title": "Internetworking",
+          "units": 4.0,
+          "source_line": "- CSCI 353 Internetworking Units: 4"
+        },
+        {
+          "code": "EE 451",
+          "title": "Parallel and Distributed Computation",
+          "units": 4.0,
+          "source_line": "- EE 451 Parallel and Distributed Computation Units: 4"
+        },
+        {
+          "code": "EE 454L",
+          "title": "System-on-Chip",
+          "units": 4.0,
+          "source_line": "- EE 454L System-on-Chip Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Senior Design Project",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CSCI 401",
+          "title": "Capstone: Design and Construction of Large Software Systems  or",
+          "units": 4.0,
+          "source_line": "- CSCI 401 Capstone: Design and Construction of Large Software Systems Units: 4 or"
+        },
+        {
+          "code": "EE 459Lx",
+          "title": "Embedded Systems Design Laboratory  or",
+          "units": 4.0,
+          "source_line": "- EE 459Lx Embedded Systems Design Laboratory Units: 4 or"
+        },
+        {
+          "code": "EE 496",
+          "title": "Capstone Design",
+          "units": 4.0,
+          "source_line": "- EE 496 Capstone Design Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select one from the following:",
+          "source_line": "Select one from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select one from the following:",
+      "total_units": null
+    },
+    {
+      "title": "Embedded Systems Track (20 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "EE 202L",
+          "title": "Linear Circuits",
+          "units": 4.0,
+          "source_line": "- EE 202L Linear Circuits Units: 4"
+        },
+        {
+          "code": "EE 301",
+          "title": "Linear Systems",
+          "units": 4.0,
+          "source_line": "- EE 301 Linear Systems Units: 4"
+        },
+        {
+          "code": "EE 454L",
+          "title": "System-on-Chip  or",
+          "units": 4.0,
+          "source_line": "- EE 454L System-on-Chip Units: 4 or"
+        },
+        {
+          "code": "EE 477L",
+          "title": "MOS VLSI Circuit Design",
+          "units": 4.0,
+          "source_line": "- EE 477L MOS VLSI Circuit Design Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one from:",
+          "source_line": "- Choose one from:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one from:",
+      "total_units": null
+    },
+    {
+      "title": "Senior Design Project",
+      "level": 3,
+      "courses": [
+        {
+          "code": "EE 459Lx",
+          "title": "Embedded Systems Design Laboratory  or",
+          "units": 4.0,
+          "source_line": "- EE 459Lx Embedded Systems Design Laboratory Units: 4 or"
+        },
+        {
+          "code": "EE 496",
+          "title": "Capstone Design",
+          "units": 4.0,
+          "source_line": "- EE 496 Capstone Design Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Select one from:",
+          "source_line": "Select one from:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Select one from:",
+      "total_units": null
+    },
+    {
+      "title": "Technical Electives",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minimum of 4 units of technical electives must be chosen from 4-unit 300 - or 400-level CSCI or EE courses.",
+          "source_line": "A minimum of 4 units of technical electives must be chosen from 4-unit 300 - or 400-level CSCI or EE courses."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Free Electives (4 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "4 units of free electives are available to count toward the degree.",
+          "source_line": "4 units of free electives are available to count toward the degree."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 128",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "[*]WRIT 340 Advanced Writing (Communication for Engineers) is strongly recommended for CECS majors.",
+          "source_line": "[*]WRIT 340 Advanced Writing (Communication for Engineers) is strongly recommended for CECS majors."
+        },
+        {
+          "text": "[**]Satisfies GE requirement.",
+          "source_line": "[**]Satisfies GE requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": 128.0
+    }
+  ],
+  "parse_warnings": []
+}

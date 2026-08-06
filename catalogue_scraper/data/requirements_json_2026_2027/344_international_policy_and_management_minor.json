@@ -1,0 +1,396 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "International Policy and Management Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31835",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31835&returnto=9396",
+    "source_text_file": "344_international_policy_and_management_minor.txt",
+    "source_content_sha256": "bd4e857325dcfee4fb399ca7d46b153e0c10d8ad715719bcfa88706ee2e31879",
+    "retrieved_at": "2026-07-31T01:07:30Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 44,
+    "distinct_course_codes": 43,
+    "section_count": 10
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in international policy and management brings together courses from the School of International Relations, dealing with the new global challenges, specific regions of the world and international organizations and policies, and the USC Price School of Public Policy dealing with core management skills and public policy processes. Students will gain an understanding of the changes and challenges transforming the world and a taste of the policy and management skills to deal with them. To increase their understanding of the context and application of these concepts, students must complete a semester-long internship either in Washington, D.C. or Los Angeles with an organization that has an international focus.",
+          "source_line": "The minor in international policy and management brings together courses from the School of International Relations, dealing with the new global challenges, specific regions of the world and international organizations and policies, and the USC Price School of Public Policy dealing with core management skills and public policy processes. Students will gain an understanding of the changes and challenges transforming the world and a taste of the policy and management skills to deal with them. To increase their understanding of the context and application of these concepts, students must complete a semester-long internship either in Washington, D.C. or Los Angeles with an organization that has an international focus."
+        },
+        {
+          "text": "Students take three courses in international relations, including the gateway course, IR 305w Managing New Global Problems , three courses in public policy and management, and an approved internship through the School of International Relations (IR 491x ).",
+          "source_line": "Students take three courses in international relations, including the gateway course, IR 305w Managing New Global Problems , three courses in public policy and management, and an approved internship through the School of International Relations (IR 491x )."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses from International Relations:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "IR 305w",
+          "title": "Managing New Global Problems",
+          "units": 4.0,
+          "source_line": "- IR 305w Managing New Global Problems Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One regional course selected from:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "IR 333",
+          "title": "China in International Affairs",
+          "units": 4.0,
+          "source_line": "- IR 333 China in International Affairs Units: 4"
+        },
+        {
+          "code": "IR 345",
+          "title": "Russian and Post-Soviet Foreign Policy",
+          "units": 4.0,
+          "source_line": "- IR 345 Russian and Post-Soviet Foreign Policy Units: 4"
+        },
+        {
+          "code": "IR 360",
+          "title": "International Relations of the Pacific Rim",
+          "units": 4.0,
+          "source_line": "- IR 360 International Relations of the Pacific Rim Units: 4"
+        },
+        {
+          "code": "IR 361",
+          "title": "South and Southeast Asia in International Affairs",
+          "units": 4.0,
+          "source_line": "- IR 361 South and Southeast Asia in International Affairs Units: 4"
+        },
+        {
+          "code": "IR 362",
+          "title": "The International Relations of the Contemporary Middle East",
+          "units": 4.0,
+          "source_line": "- IR 362 The International Relations of the Contemporary Middle East Units: 4"
+        },
+        {
+          "code": "IR 363",
+          "title": "Middle East Political Economy",
+          "units": 4.0,
+          "source_line": "- IR 363 Middle East Political Economy Units: 4"
+        },
+        {
+          "code": "IR 365",
+          "title": "Politics and Democracy in Latin America",
+          "units": 4.0,
+          "source_line": "- IR 365 Politics and Democracy in Latin America Units: 4"
+        },
+        {
+          "code": "IR 367",
+          "title": "Africa in International Affairs",
+          "units": 4.0,
+          "source_line": "- IR 367 Africa in International Affairs Units: 4"
+        },
+        {
+          "code": "IR 369",
+          "title": "Post-War European Relations",
+          "units": 4.0,
+          "source_line": "- IR 369 Post-War European Relations Units: 4"
+        },
+        {
+          "code": "IR 383",
+          "title": "Conflict Mediation & Negotiation",
+          "units": 4.0,
+          "source_line": "- IR 383 Conflict Mediation & Negotiation Units: 4"
+        },
+        {
+          "code": "IR 385",
+          "title": "European Foreign Policy and Security Issues",
+          "units": 4.0,
+          "source_line": "- IR 385 European Foreign Policy and Security Issues Units: 4"
+        },
+        {
+          "code": "IR 439",
+          "title": "Political Economy of Russia and Eurasia",
+          "units": 4.0,
+          "source_line": "- IR 439 Political Economy of Russia and Eurasia Units: 4"
+        },
+        {
+          "code": "IR 442",
+          "title": "Japanese Foreign Policy",
+          "units": 4.0,
+          "source_line": "- IR 442 Japanese Foreign Policy Units: 4"
+        },
+        {
+          "code": "IR 468",
+          "title": "European Integration",
+          "units": 4.0,
+          "source_line": "- IR 468 European Integration Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One course from either the regional course list or the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "IR 306",
+          "title": "International Organizations",
+          "units": 4.0,
+          "source_line": "- IR 306 International Organizations Units: 4"
+        },
+        {
+          "code": "IR 307",
+          "title": "Contemporary International Politics",
+          "units": 4.0,
+          "source_line": "- IR 307 Contemporary International Politics Units: 4"
+        },
+        {
+          "code": "IR 310",
+          "title": "Peace and Conflict Studies",
+          "units": 4.0,
+          "source_line": "- IR 310 Peace and Conflict Studies Units: 4"
+        },
+        {
+          "code": "IR 315",
+          "title": "Ethnicity and Nationalism in World Politics",
+          "units": 4.0,
+          "source_line": "- IR 315 Ethnicity and Nationalism in World Politics Units: 4"
+        },
+        {
+          "code": "IR 316",
+          "title": "Gender and Global Issues",
+          "units": 4.0,
+          "source_line": "- IR 316 Gender and Global Issues Units: 4"
+        },
+        {
+          "code": "IR 318",
+          "title": "Violent Conflict",
+          "units": 4.0,
+          "source_line": "- IR 318 Violent Conflict Units: 4"
+        },
+        {
+          "code": "IR 323",
+          "title": "Politics of Global Environment",
+          "units": 4.0,
+          "source_line": "- IR 323 Politics of Global Environment Units: 4"
+        },
+        {
+          "code": "IR 324",
+          "title": "Multinational Enterprises and World Politics",
+          "units": 4.0,
+          "source_line": "- IR 324 Multinational Enterprises and World Politics Units: 4"
+        },
+        {
+          "code": "IR 325",
+          "title": "North-South Relations in the Global Economy",
+          "units": 4.0,
+          "source_line": "- IR 325 North-South Relations in the Global Economy Units: 4"
+        },
+        {
+          "code": "IR 326",
+          "title": "U.S. Foreign Economic Policy",
+          "units": 4.0,
+          "source_line": "- IR 326 U.S. Foreign Economic Policy Units: 4"
+        },
+        {
+          "code": "IR 330",
+          "title": "Politics of the World Economy",
+          "units": 4.0,
+          "source_line": "- IR 330 Politics of the World Economy Units: 4"
+        },
+        {
+          "code": "IR 341",
+          "title": "Foreign Policy Analysis",
+          "units": 4.0,
+          "source_line": "- IR 341 Foreign Policy Analysis Units: 4"
+        },
+        {
+          "code": "IR 343",
+          "title": "U.S. Foreign Policy since World War II",
+          "units": 4.0,
+          "source_line": "- IR 343 U.S. Foreign Policy since World War II Units: 4"
+        },
+        {
+          "code": "IR 344",
+          "title": "The Global South in World Politics",
+          "units": 4.0,
+          "source_line": "- IR 344 The Global South in World Politics Units: 4"
+        },
+        {
+          "code": "IR 381",
+          "title": "Introduction to International Security",
+          "units": 4.0,
+          "source_line": "- IR 381 Introduction to International Security Units: 4"
+        },
+        {
+          "code": "IR 382w",
+          "title": "Order and Disorder in Global Affairs",
+          "units": 4.0,
+          "source_line": "- IR 382w Order and Disorder in Global Affairs Units: 4"
+        },
+        {
+          "code": "IR 427",
+          "title": "Seminar on Economics and Security",
+          "units": 4.0,
+          "source_line": "- IR 427 Seminar on Economics and Security Units: 4"
+        },
+        {
+          "code": "IR 444w",
+          "title": "Theories of Global Society",
+          "units": 4.0,
+          "source_line": "- IR 444w Theories of Global Society Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "From Public Policy:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "PPD 225",
+          "title": "Solving Public Problems",
+          "units": 4.0,
+          "source_line": "- PPD 225 Solving Public Problems Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "The public policy component requires the completion of the following three options:",
+          "source_line": "The public policy component requires the completion of the following three options:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Two additional courses from the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "PPD 357",
+          "title": "Government and Business",
+          "units": 4.0,
+          "source_line": "- PPD 357 Government and Business Units: 4"
+        },
+        {
+          "code": "PPD 371",
+          "title": "The Nonprofit Sector and the Public Interest",
+          "units": 4.0,
+          "source_line": "- PPD 371 The Nonprofit Sector and the Public Interest Units: 4"
+        },
+        {
+          "code": "PPD 373",
+          "title": "Public Policy and Planning Analysis",
+          "units": 4.0,
+          "source_line": "- PPD 373 Public Policy and Planning Analysis Units: 4"
+        },
+        {
+          "code": "PPD 476",
+          "title": "Politics and Administration",
+          "units": 4.0,
+          "source_line": "- PPD 476 Politics and Administration Units: 4"
+        },
+        {
+          "code": "PPD 482",
+          "title": "Comparative Public Administration",
+          "units": 4.0,
+          "source_line": "- PPD 482 Comparative Public Administration Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Or from Public Management:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "PPD 402",
+          "title": "Management of Public and Nonprofit Organizations",
+          "units": 4.0,
+          "source_line": "- PPD 402 Management of Public and Nonprofit Organizations Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Two additional courses from the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "PPD 313",
+          "title": "Finance of the Public Sector",
+          "units": 4.0,
+          "source_line": "- PPD 313 Finance of the Public Sector Units: 4"
+        },
+        {
+          "code": "PPD 407",
+          "title": "Financial Management of Public and Nonprofit Organizations",
+          "units": 4.0,
+          "source_line": "- PPD 407 Financial Management of Public and Nonprofit Organizations Units: 4"
+        },
+        {
+          "code": "PPD 411a",
+          "title": "Sacramento Semester",
+          "units": 4.0,
+          "source_line": "- PPD 411a Sacramento Semester Units: 4"
+        },
+        {
+          "code": "PPD 476",
+          "title": "Politics and Administration",
+          "units": 4.0,
+          "source_line": "- PPD 476 Politics and Administration Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Internship",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Each student is required to complete an approved internship with an international focus. Students take a 2-unit internship through the School of International Relations (IR 491 ).",
+          "source_line": "Each student is required to complete an approved internship with an international focus. Students take a 2-unit internship through the School of International Relations (IR 491 )."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

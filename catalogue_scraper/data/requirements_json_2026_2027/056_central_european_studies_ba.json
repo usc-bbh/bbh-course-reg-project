@@ -1,0 +1,340 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Central European Studies (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31924",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31924&returnto=9396",
+    "source_text_file": "056_central_european_studies_ba.txt",
+    "source_content_sha256": "30bd762522798150234a136fb81b3414ce97a2aea579b61192973746ce875e5a",
+    "retrieved_at": "2026-07-31T00:51:04Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "#### Requirements\n\nThe fundamental linguistic background of the major is Russian (12 units).",
+      "## Required Courses\n\n---\n\n- RUSS 120 Beginning Russian I Units: 4\n- RUSS 150 Beginning Russian II Units: 4\n- RUSS 220 Intermediate Russian I Units: 4\n\n## Courses\n\n---\n\nBeyond the second year of Russian, students may choose from among three options: further work on Russian; or a year of German; or a year of Polish (8 units).",
+      "### Russian\n\n---\n\n- RUSS 250 Intermediate Russian II Units: 4\n-\n- RUSS 310 Advanced Russian in Popular Culture Units: 4 or\n- RUSS 340 Intercultural Communication in Russian Units: 4\n\n### German\n\n---\n\n- GERM 101 German I Units: 4\n- GERM 102 German II Units: 4\n\n### Polish\n\n---\n\n- SLL 122 Elementary Polish I Units: 4\n- SLL 152 Elementary Polish II Units: 4\n\n## Required Courses, Upper-Division\n\n---\n\nRequired upper-division courses in international relations: two courses must be chosen from among the following (8 units):\n\n- IR 345 Russian and Post-Soviet Foreign Policy Units: 4\n- IR 346 Communism and Post-Communism: Eastern Europe and the Balkans Units: 4\n- IR 385 European Foreign Policy and Security Issues Units: 4\n\n## Elective Courses\n\n---\n\nIn addition three electives are required from among the following."
+    ],
+    "course_entry_count": 33,
+    "distinct_course_codes": 33,
+    "section_count": 9
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The major in Central European Studies combines background in relevant languages (Russian plus either German or Polish, or more intensive study of Russian) with course work in international relations and the history, culture and politics of the region.",
+          "source_line": "The major in Central European Studies combines background in relevant languages (Russian plus either German or Polish, or more intensive study of Russian) with course work in international relations and the history, culture and politics of the region."
+        },
+        {
+          "text": "No longer an imperial backwater, Central Europe has risen from its Cold War stasis to become one of the world’s most dynamic and important regions. Stretching from the Baltic Sea to the Balkan Peninsula, and from the Eastern lands of Germany to the Western regions of Russia, this onetime great-power battleground is now a vital trade and energy corridor, a mosaic of languages and cultures, a place of both successful state-building and persistent ethnic frictions, and a promising but still-precarious bridge between the former Soviet Union and the West. Central Europe rivals the Far East and Southwest Asia as one of the world’s most strategically important regions — now, and over the coming decades. Those who master its history and politics, its economic, cultural and linguistic diversity, will be well positioned for fellowships, graduate work, business or analytical careers centered on this fascinating region.",
+          "source_line": "No longer an imperial backwater, Central Europe has risen from its Cold War stasis to become one of the world’s most dynamic and important regions. Stretching from the Baltic Sea to the Balkan Peninsula, and from the Eastern lands of Germany to the Western regions of Russia, this onetime great-power battleground is now a vital trade and energy corridor, a mosaic of languages and cultures, a place of both successful state-building and persistent ethnic frictions, and a promising but still-precarious bridge between the former Soviet Union and the West. Central Europe rivals the Far East and Southwest Asia as one of the world’s most strategically important regions — now, and over the coming decades. Those who master its history and politics, its economic, cultural and linguistic diversity, will be well positioned for fellowships, graduate work, business or analytical careers centered on this fascinating region."
+        },
+        {
+          "text": "The objectives of this interdisciplinary major are to provide students with: 1) the historical background and linguistic-cultural skills necessary for in-depth study of Central Europe; 2) knowledge of its main post-Cold War political, ethnic, and economic trends; and 3) understanding of current issues from nationalism and immigration to trade, military-diplomatic and alliance politics.",
+          "source_line": "The objectives of this interdisciplinary major are to provide students with: 1) the historical background and linguistic-cultural skills necessary for in-depth study of Central Europe; 2) knowledge of its main post-Cold War political, ethnic, and economic trends; and 3) understanding of current issues from nationalism and immigration to trade, military-diplomatic and alliance politics."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The fundamental linguistic background of the major is Russian (12 units).",
+          "source_line": "The fundamental linguistic background of the major is Russian (12 units)."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "RUSS 120",
+          "title": "Beginning Russian I",
+          "units": 4.0,
+          "source_line": "- RUSS 120 Beginning Russian I Units: 4"
+        },
+        {
+          "code": "RUSS 150",
+          "title": "Beginning Russian II",
+          "units": 4.0,
+          "source_line": "- RUSS 150 Beginning Russian II Units: 4"
+        },
+        {
+          "code": "RUSS 220",
+          "title": "Intermediate Russian I",
+          "units": 4.0,
+          "source_line": "- RUSS 220 Intermediate Russian I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Courses",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Beyond the second year of Russian, students may choose from among three options: further work on Russian; or a year of German; or a year of Polish (8 units).",
+          "source_line": "Beyond the second year of Russian, students may choose from among three options: further work on Russian; or a year of German; or a year of Polish (8 units).",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Beyond the second year of Russian, students may choose from among three options: further work on Russian; or a year of German; or a year of Polish (8 units).",
+      "total_units": null
+    },
+    {
+      "title": "Russian",
+      "level": 3,
+      "courses": [
+        {
+          "code": "RUSS 250",
+          "title": "Intermediate Russian II",
+          "units": 4.0,
+          "source_line": "- RUSS 250 Intermediate Russian II Units: 4"
+        },
+        {
+          "code": "RUSS 310",
+          "title": "Advanced Russian in Popular Culture  or",
+          "units": 4.0,
+          "source_line": "- RUSS 310 Advanced Russian in Popular Culture Units: 4 or"
+        },
+        {
+          "code": "RUSS 340",
+          "title": "Intercultural Communication in Russian",
+          "units": 4.0,
+          "source_line": "- RUSS 340 Intercultural Communication in Russian Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "German",
+      "level": 3,
+      "courses": [
+        {
+          "code": "GERM 101",
+          "title": "German I",
+          "units": 4.0,
+          "source_line": "- GERM 101 German I Units: 4"
+        },
+        {
+          "code": "GERM 102",
+          "title": "German II",
+          "units": 4.0,
+          "source_line": "- GERM 102 German II Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Polish",
+      "level": 3,
+      "courses": [
+        {
+          "code": "SLL 122",
+          "title": "Elementary Polish I",
+          "units": 4.0,
+          "source_line": "- SLL 122 Elementary Polish I Units: 4"
+        },
+        {
+          "code": "SLL 152",
+          "title": "Elementary Polish II",
+          "units": 4.0,
+          "source_line": "- SLL 152 Elementary Polish II Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses, Upper-Division",
+      "level": 2,
+      "courses": [
+        {
+          "code": "IR 345",
+          "title": "Russian and Post-Soviet Foreign Policy",
+          "units": 4.0,
+          "source_line": "- IR 345 Russian and Post-Soviet Foreign Policy Units: 4"
+        },
+        {
+          "code": "IR 346",
+          "title": "Communism and Post-Communism: Eastern Europe and the Balkans",
+          "units": 4.0,
+          "source_line": "- IR 346 Communism and Post-Communism: Eastern Europe and the Balkans Units: 4"
+        },
+        {
+          "code": "IR 385",
+          "title": "European Foreign Policy and Security Issues",
+          "units": 4.0,
+          "source_line": "- IR 385 European Foreign Policy and Security Issues Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Required upper-division courses in international relations: two courses must be chosen from among the following (8 units):",
+          "source_line": "Required upper-division courses in international relations: two courses must be chosen from among the following (8 units):"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HIST 323",
+          "title": "The Holocaust in 20th Century Europe",
+          "units": 4.0,
+          "source_line": "- HIST 323 The Holocaust in 20th Century Europe Units: 4"
+        },
+        {
+          "code": "HIST 365",
+          "title": "The Second World War , 2 years",
+          "units": 4.0,
+          "source_line": "- HIST 365 The Second World War Units: 4, 2 years"
+        },
+        {
+          "code": "HIST 414",
+          "title": "Contemporary Europe",
+          "units": 4.0,
+          "source_line": "- HIST 414 Contemporary Europe Units: 4"
+        },
+        {
+          "code": "HIST 416",
+          "title": "History of Imperial Russia: 1689–1917",
+          "units": 4.0,
+          "source_line": "- HIST 416 History of Imperial Russia: 1689–1917 Units: 4"
+        },
+        {
+          "code": "HIST 417",
+          "title": "History of Soviet Russia: 1917–1991 , 2 years",
+          "units": 4.0,
+          "source_line": "- HIST 417 History of Soviet Russia: 1917–1991 Units: 4, 2 years"
+        },
+        {
+          "code": "HIST 422",
+          "title": "European Intellectual and Cultural History: The 20th Century, 1920 to the Present",
+          "units": 4.0,
+          "source_line": "- HIST 422 European Intellectual and Cultural History: The 20th Century, 1920 to the Present Units: 4"
+        },
+        {
+          "code": "HIST 427",
+          "title": "The German Question: Nation and Identity in Modern Central Europe",
+          "units": 4.0,
+          "source_line": "- HIST 427 The German Question: Nation and Identity in Modern Central Europe Units: 4"
+        },
+        {
+          "code": "IR 369",
+          "title": "Post-War European Relations",
+          "units": 4.0,
+          "source_line": "- IR 369 Post-War European Relations Units: 4"
+        },
+        {
+          "code": "IR 439",
+          "title": "Political Economy of Russia and Eurasia",
+          "units": 4.0,
+          "source_line": "- IR 439 Political Economy of Russia and Eurasia Units: 4"
+        },
+        {
+          "code": "IR 468",
+          "title": "European Integration",
+          "units": 4.0,
+          "source_line": "- IR 468 European Integration Units: 4"
+        },
+        {
+          "code": "POSC 366",
+          "title": "Terrorism and Genocide",
+          "units": 4.0,
+          "source_line": "- POSC 366 Terrorism and Genocide Units: 4"
+        },
+        {
+          "code": "POSC 371",
+          "title": "European Political Thought II",
+          "units": 4.0,
+          "source_line": "- POSC 371 European Political Thought II Units: 4"
+        },
+        {
+          "code": "POSC 463",
+          "title": "European Politics",
+          "units": 4.0,
+          "source_line": "- POSC 463 European Politics Units: 4"
+        },
+        {
+          "code": "RUSS 465",
+          "title": "Seminar in Russian Studies",
+          "units": 4.0,
+          "source_line": "- RUSS 465 Seminar in Russian Studies Units: 4"
+        },
+        {
+          "code": "SLL 110g",
+          "title": "Russia in the Modern Era",
+          "units": 4.0,
+          "source_line": "- SLL 110g Russia in the Modern Era Units: 4"
+        },
+        {
+          "code": "SLL 302g",
+          "title": "Modern Russian Literature",
+          "units": 4.0,
+          "source_line": "- SLL 302g Modern Russian Literature Units: 4"
+        },
+        {
+          "code": "SLL 303",
+          "title": "Contemporary Russian Literature",
+          "units": 4.0,
+          "source_line": "- SLL 303 Contemporary Russian Literature Units: 4"
+        },
+        {
+          "code": "SLL 310gw",
+          "title": "The Eastern European Jewish Experience: Literature and Film",
+          "units": 4.0,
+          "source_line": "- SLL 310gw The Eastern European Jewish Experience: Literature and Film Units: 4"
+        },
+        {
+          "code": "SLL 330gp",
+          "title": "Russian Thought and Civilization",
+          "units": 4.0,
+          "source_line": "- SLL 330gp Russian Thought and Civilization Units: 4"
+        },
+        {
+          "code": "SLL 397p",
+          "title": "Literature, Ideology and Film in Eastern European History",
+          "units": 4.0,
+          "source_line": "- SLL 397p Literature, Ideology and Film in Eastern European History Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "In addition three electives are required from among the following. At least one course must be at the 400 level. With prior approval, IR 490x Directed Research (4 units) or SLL 490x Directed Research (4 units) may be substituted for one of these courses (12 units):",
+          "source_line": "In addition three electives are required from among the following. At least one course must be at the 400 level. With prior approval, IR 490x Directed Research (4 units) or SLL 490x Directed Research (4 units) may be substituted for one of these courses (12 units):"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,656 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Artificial Intelligence (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32917",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32917&returnto=9396",
+    "source_text_file": "021_artificial_intelligence_bs.txt",
+    "source_content_sha256": "43a60fa9deb58e52089b19d7bd5abfae4a87614270f4d82c65d3f90b9433fa71",
+    "retrieved_at": "2026-07-31T00:49:43Z"
+  },
+  "totals": {
+    "stated_total_units": 128.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "The minimum requirement for the degree is 128 units.",
+      "## Composition/Writing Requirements (8 units)*\n\n---\n\n- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4\n\n## General Education (20 units)\n\n---\n\nGeneral Education (20 units)\n\n## Pre-Major Requirements (28 units)\n\n---\n\nIn addition to the 20 units of general education requirements above, the GE-D, GE-E, and GE-F general education requirements are satisfied by the Biology, Physics, and Mathematics pre-major requirements, respectively.",
+      "### Engineering (4 units)\n\n---\n\n- ENGR 102 Viterbi First-Year Academy Units: 2\n- ENGR 103 Artificial Intelligence: An Introduction Units: 2\n\n### Mathematical Foundations (16 units)**\n\n---\n\n- EE 141L Applied Linear Algebra for Engineering Units: 4\n- MATH 125g Calculus I Units: 4\n-\n- MATH 126g Calculus II Units: 4 or\n- MATH 129 Calculus II for Engineers and Scientists Units: 4\n-\n- MATH 226g Calculus III Units: 4 or\n- MATH 229 Calculus III for Engineers and Scientists Units: 4\n- MATH 129 and MATH 229 are the recommended Calculus II and III sequence for the BS AI program.",
+      "### Basic Science (8 units)\n\n---\n\n#### Biology Requirement (4 units)\n\n---\n\nTake one of the following courses:\n\n- BISC 104Lgx How the Body Works Units: 4\n- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4\n- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4\n- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4\n- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4\n- BISC 230Lgx The Biology of the Brain Units: 4\n- HBIO 205Lgx The Science of Sport Units: 4\n- PHIL 246Lg Foundations of Cognitive Science Units: 4\n\n#### Physics Requirement (4 units)\n\n---\n\n- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 or\n- PHYS 161Lg Advanced Principles of Physics I Units: 4\n\n## Core Lower-Division Requirements (30 units)\n\n---\n\n### Programming and Discrete Methods (12 Units)***\n\n---\n\n- CSCI 113x Programming Fundamentals for Computing Units: 4\n- CSCI 114x Programming for Applications of Computing Units: 4\n- CSCI 170 Discrete Methods in Computer Science Units: 4\n\n### Probability and Statistics (8 units)\n\n---\n\n- ISE 220 Foundations of Probability Modeling Units: 4\n- ISE 225 Foundations of Data Analysis Units: 4\n\n### Embedded Systems (4 units)\n\n---\n\n- EE 109L Introduction to Embedded Systems Units: 4\n\n### AI Core (6 units)\n\n---\n\n- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4\n- ENGR 203 Artificial Intelligence: Exploration in Current Applications Units: 2\n\n## Upper-Division Requirements (16 units)\n\n---\n\n- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4\n-\n- CSCI 467 Foundations of Machine Learning Units: 4 or\n- EE 460 Machine Learning for Engineers Units: 4\n-\n- EIS 370 Ethical Issues in Artificial Intelligence Units: 4\n- ISE 330 Optimization Units: 4\n\n## Choose one of the following three tracks (24 units)\n\n---\n\n### Computing Foundations and Applications Track\n\n---\n\n- CSCI 201 Principles of Software Development Units: 4\n- CSCI 401 Capstone: Design and Construction of Large Software Systems Units: 4\n\n#### Choose four of the following classes (16 units):\n\n---\n\n- CSCI 444 Language Models in Natural Language Processing Units: 4\n- CSCI 445L Foundations of Robotics Units: 4\n- CSCI 452 Parallel and Distributed Computation Units: 4\n- CSCI 461 Artificial Intelligence for Sustainable Development Units: 4\n- CSCI 468 Trustworthy Artificial Intelligence Units: 4\n- CSCI 469 Computer Vision Units: 4\n- EE 456 Reinforcement Learning and Applications Units: 4\n\n### Hardware Systems for AI Track\n\n---\n\n- EE 250L Distributed Systems for the Internet of Things Units: 4\n- EE 354L Digital Circuits Units: 4\n- EE 461 Machine Learning with Distributed Computing Systems Units: 4\n- EE 462L Hardware Design and Optimization for Machine Learning Units: 4\n- EE 496 Capstone Design Units: 4\n\n#### Choose one of the following (4 units)\n\n---\n\n- EE 451 Parallel and Distributed Computation Units: 4\n- EE 454L System-on-Chip Units: 4\n- EE 456 Reinforcement Learning and Applications Units: 4\n- EE 457 Computer Systems Organization Units: 4\n- EE 477L MOS VLSI Circuit Design Units: 4\n\n### AI Systems and Operations Engineering Track\n\n---\n\n- ISE 227 Enterprise Process Engineering Units: 4\n- ISE 325 Modeling for Predictive Analytics Units: 4\n- ISE 382 Database Systems: Storage and Retrieval using SQL Units: 4\n- ISE 430 Advanced Analytics Units: 4\n- ISE 480 Data Engineering Units: 4\n\n#### Choose one of the following (4 units)\n\n---\n\n- ISE 315L Engineering Project Management Units: 4\n- ISE 435L Discrete Systems Simulation Units: 4\n- ISE 440 Socio-Technical Systems and Work Organizations Units: 4\n- ISE 470 Human/Computer Interface Design Units: 4\n\n## Free Elective (2 units)\n\n---\n\n## Total Units: 128\n\n---\n\n* A WRIT 340 section entitled “Advanced Writing Communication for Engineers” is strongly recommended for BS AI majors."
+    ],
+    "course_entry_count": 62,
+    "distinct_course_codes": 60,
+    "section_count": 24
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The undergraduate program in artificial intelligence is an interdisciplinary program leading to the Bachelor of Science in Artificial Intelligence. This is a program that spans the Thomas Lord Department of Computer Science, the Ming Hsieh Department of Electrical and Computer Engineering, and the Daniel J. Epstein Department of Industrial and Systems Engineering. The program is designed to provide both an academic and professional orientation.",
+          "source_line": "The undergraduate program in artificial intelligence is an interdisciplinary program leading to the Bachelor of Science in Artificial Intelligence. This is a program that spans the Thomas Lord Department of Computer Science, the Ming Hsieh Department of Electrical and Computer Engineering, and the Daniel J. Epstein Department of Industrial and Systems Engineering. The program is designed to provide both an academic and professional orientation."
+        },
+        {
+          "text": "General admission requirements for the undergraduate program are the same as those of the university and the USC Viterbi School of Engineering. The minimum requirement for the degree is 128 units.",
+          "source_line": "General admission requirements for the undergraduate program are the same as those of the university and the USC Viterbi School of Engineering. The minimum requirement for the degree is 128 units."
+        },
+        {
+          "text": "A grade of C (2.0) or better is required for each of the core courses CSCI 113x , CSCI 114x , CSCI 170 , and the Mathematical Foundations courses. Courses with a grade of C– or below must be repeated; courses may only be retaken once. Corresponding departmental approval is required in order to retake a course. Students who do not satisfy the degree requirement after repeating a class will be disqualified from this program.",
+          "source_line": "A grade of C (2.0) or better is required for each of the core courses CSCI 113x , CSCI 114x , CSCI 170 , and the Mathematical Foundations courses. Courses with a grade of C– or below must be repeated; courses may only be retaken once. Corresponding departmental approval is required in order to retake a course. Students who do not satisfy the degree requirement after repeating a class will be disqualified from this program."
+        },
+        {
+          "text": "A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper division courses applied toward the major, regardless of the department in which the courses are taken. Candidates must complete general education requirements; see the General Education Program.",
+          "source_line": "A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper division courses applied toward the major, regardless of the department in which the courses are taken. Candidates must complete general education requirements; see the General Education Program."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Composition/Writing Requirements (8 units)*",
+      "level": 2,
+      "courses": [
+        {
+          "code": "WRIT 150",
+          "title": "Writing and Critical Reasoning–Thematic Approaches",
+          "units": 4.0,
+          "source_line": "- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4"
+        },
+        {
+          "code": "WRIT 340",
+          "title": "Advanced Writing and Critical Engagement",
+          "units": 4.0,
+          "source_line": "- WRIT 340 Advanced Writing and Critical Engagement Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Education (20 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "General Education (20 units)",
+          "source_line": "General Education (20 units)"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Pre-Major Requirements (28 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "In addition to the 20 units of general education requirements above, the GE-D, GE-E, and GE-F general education requirements are satisfied by the Biology, Physics, and Mathematics pre-major requirements, respectively.",
+          "source_line": "In addition to the 20 units of general education requirements above, the GE-D, GE-E, and GE-F general education requirements are satisfied by the Biology, Physics, and Mathematics pre-major requirements, respectively."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Engineering (4 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ENGR 102",
+          "title": "Viterbi First-Year Academy",
+          "units": 2.0,
+          "source_line": "- ENGR 102 Viterbi First-Year Academy Units: 2"
+        },
+        {
+          "code": "ENGR 103",
+          "title": "Artificial Intelligence: An Introduction",
+          "units": 2.0,
+          "source_line": "- ENGR 103 Artificial Intelligence: An Introduction Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Mathematical Foundations (16 units)**",
+      "level": 3,
+      "courses": [
+        {
+          "code": "EE 141L",
+          "title": "Applied Linear Algebra for Engineering",
+          "units": 4.0,
+          "source_line": "- EE 141L Applied Linear Algebra for Engineering Units: 4"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II  or",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4 or"
+        },
+        {
+          "code": "MATH 129",
+          "title": "Calculus II for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 129 Calculus II for Engineers and Scientists Units: 4"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III  or",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4 or"
+        },
+        {
+          "code": "MATH 229",
+          "title": "Calculus III for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 229 Calculus III for Engineers and Scientists Units: 4"
+        },
+        {
+          "code": "MATH 129",
+          "title": "and MATH 229 are the recommended Calculus II and III sequence for the BS AI program",
+          "units": null,
+          "source_line": "- MATH 129 and MATH 229 are the recommended Calculus II and III sequence for the BS AI program."
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Basic Science (8 units)",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Biology Requirement (4 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "BISC 104Lgx",
+          "title": "How the Body Works",
+          "units": 4.0,
+          "source_line": "- BISC 104Lgx How the Body Works Units: 4"
+        },
+        {
+          "code": "BISC 120Lg",
+          "title": "General Biology: Organismal Biology and Evolution",
+          "units": 4.0,
+          "source_line": "- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4"
+        },
+        {
+          "code": "BISC 121Lg",
+          "title": "Advanced General Biology: Organismal Biology and Evolution",
+          "units": 4.0,
+          "source_line": "- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4"
+        },
+        {
+          "code": "BISC 220Lg",
+          "title": "General Biology: Cell Biology and Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4"
+        },
+        {
+          "code": "BISC 221Lg",
+          "title": "Advanced General Biology: Cell Biology and Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4"
+        },
+        {
+          "code": "BISC 230Lgx",
+          "title": "The Biology of the Brain",
+          "units": 4.0,
+          "source_line": "- BISC 230Lgx The Biology of the Brain Units: 4"
+        },
+        {
+          "code": "HBIO 205Lgx",
+          "title": "The Science of Sport",
+          "units": 4.0,
+          "source_line": "- HBIO 205Lgx The Science of Sport Units: 4"
+        },
+        {
+          "code": "PHIL 246Lg",
+          "title": "Foundations of Cognitive Science",
+          "units": 4.0,
+          "source_line": "- PHIL 246Lg Foundations of Cognitive Science Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Take one of the following courses:",
+          "source_line": "Take one of the following courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Physics Requirement (4 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "PHYS 151Lg",
+          "title": "Fundamentals of Physics I: Mechanics, Oscillations and Waves  or",
+          "units": 4.0,
+          "source_line": "- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 or"
+        },
+        {
+          "code": "PHYS 161Lg",
+          "title": "Advanced Principles of Physics I",
+          "units": 4.0,
+          "source_line": "- PHYS 161Lg Advanced Principles of Physics I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Lower-Division Requirements (30 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Programming and Discrete Methods (12 Units)***",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CSCI 113x",
+          "title": "Programming Fundamentals for Computing",
+          "units": 4.0,
+          "source_line": "- CSCI 113x Programming Fundamentals for Computing Units: 4"
+        },
+        {
+          "code": "CSCI 114x",
+          "title": "Programming for Applications of Computing",
+          "units": 4.0,
+          "source_line": "- CSCI 114x Programming for Applications of Computing Units: 4"
+        },
+        {
+          "code": "CSCI 170",
+          "title": "Discrete Methods in Computer Science",
+          "units": 4.0,
+          "source_line": "- CSCI 170 Discrete Methods in Computer Science Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Probability and Statistics (8 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ISE 220",
+          "title": "Foundations of Probability Modeling",
+          "units": 4.0,
+          "source_line": "- ISE 220 Foundations of Probability Modeling Units: 4"
+        },
+        {
+          "code": "ISE 225",
+          "title": "Foundations of Data Analysis",
+          "units": 4.0,
+          "source_line": "- ISE 225 Foundations of Data Analysis Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Embedded Systems (4 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "EE 109L",
+          "title": "Introduction to Embedded Systems",
+          "units": 4.0,
+          "source_line": "- EE 109L Introduction to Embedded Systems Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "AI Core (6 units)",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CSCI 270",
+          "title": "Introduction to Algorithms and Theory of Computing",
+          "units": 4.0,
+          "source_line": "- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4"
+        },
+        {
+          "code": "ENGR 203",
+          "title": "Artificial Intelligence: Exploration in Current Applications",
+          "units": 2.0,
+          "source_line": "- ENGR 203 Artificial Intelligence: Exploration in Current Applications Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Requirements (16 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CSCI 360",
+          "title": "Artificial Intelligence: Principles and Foundations",
+          "units": 4.0,
+          "source_line": "- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4"
+        },
+        {
+          "code": "CSCI 467",
+          "title": "Foundations of Machine Learning  or",
+          "units": 4.0,
+          "source_line": "- CSCI 467 Foundations of Machine Learning Units: 4 or"
+        },
+        {
+          "code": "EE 460",
+          "title": "Machine Learning for Engineers",
+          "units": 4.0,
+          "source_line": "- EE 460 Machine Learning for Engineers Units: 4"
+        },
+        {
+          "code": "EIS 370",
+          "title": "Ethical Issues in Artificial Intelligence",
+          "units": 4.0,
+          "source_line": "- EIS 370 Ethical Issues in Artificial Intelligence Units: 4"
+        },
+        {
+          "code": "ISE 330",
+          "title": "Optimization",
+          "units": 4.0,
+          "source_line": "- ISE 330 Optimization Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose one of the following three tracks (24 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Computing Foundations and Applications Track",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CSCI 201",
+          "title": "Principles of Software Development",
+          "units": 4.0,
+          "source_line": "- CSCI 201 Principles of Software Development Units: 4"
+        },
+        {
+          "code": "CSCI 401",
+          "title": "Capstone: Design and Construction of Large Software Systems",
+          "units": 4.0,
+          "source_line": "- CSCI 401 Capstone: Design and Construction of Large Software Systems Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose four of the following classes (16 units):",
+      "level": 4,
+      "courses": [
+        {
+          "code": "CSCI 444",
+          "title": "Language Models in Natural Language Processing",
+          "units": 4.0,
+          "source_line": "- CSCI 444 Language Models in Natural Language Processing Units: 4"
+        },
+        {
+          "code": "CSCI 445L",
+          "title": "Foundations of Robotics",
+          "units": 4.0,
+          "source_line": "- CSCI 445L Foundations of Robotics Units: 4"
+        },
+        {
+          "code": "CSCI 452",
+          "title": "Parallel and Distributed Computation",
+          "units": 4.0,
+          "source_line": "- CSCI 452 Parallel and Distributed Computation Units: 4"
+        },
+        {
+          "code": "CSCI 461",
+          "title": "Artificial Intelligence for Sustainable Development",
+          "units": 4.0,
+          "source_line": "- CSCI 461 Artificial Intelligence for Sustainable Development Units: 4"
+        },
+        {
+          "code": "CSCI 468",
+          "title": "Trustworthy Artificial Intelligence",
+          "units": 4.0,
+          "source_line": "- CSCI 468 Trustworthy Artificial Intelligence Units: 4"
+        },
+        {
+          "code": "CSCI 469",
+          "title": "Computer Vision",
+          "units": 4.0,
+          "source_line": "- CSCI 469 Computer Vision Units: 4"
+        },
+        {
+          "code": "EE 456",
+          "title": "Reinforcement Learning and Applications",
+          "units": 4.0,
+          "source_line": "- EE 456 Reinforcement Learning and Applications Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Hardware Systems for AI Track",
+      "level": 3,
+      "courses": [
+        {
+          "code": "EE 250L",
+          "title": "Distributed Systems for the Internet of Things",
+          "units": 4.0,
+          "source_line": "- EE 250L Distributed Systems for the Internet of Things Units: 4"
+        },
+        {
+          "code": "EE 354L",
+          "title": "Digital Circuits",
+          "units": 4.0,
+          "source_line": "- EE 354L Digital Circuits Units: 4"
+        },
+        {
+          "code": "EE 461",
+          "title": "Machine Learning with Distributed Computing Systems",
+          "units": 4.0,
+          "source_line": "- EE 461 Machine Learning with Distributed Computing Systems Units: 4"
+        },
+        {
+          "code": "EE 462L",
+          "title": "Hardware Design and Optimization for Machine Learning",
+          "units": 4.0,
+          "source_line": "- EE 462L Hardware Design and Optimization for Machine Learning Units: 4"
+        },
+        {
+          "code": "EE 496",
+          "title": "Capstone Design",
+          "units": 4.0,
+          "source_line": "- EE 496 Capstone Design Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose one of the following (4 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "EE 451",
+          "title": "Parallel and Distributed Computation",
+          "units": 4.0,
+          "source_line": "- EE 451 Parallel and Distributed Computation Units: 4"
+        },
+        {
+          "code": "EE 454L",
+          "title": "System-on-Chip",
+          "units": 4.0,
+          "source_line": "- EE 454L System-on-Chip Units: 4"
+        },
+        {
+          "code": "EE 456",
+          "title": "Reinforcement Learning and Applications",
+          "units": 4.0,
+          "source_line": "- EE 456 Reinforcement Learning and Applications Units: 4"
+        },
+        {
+          "code": "EE 457",
+          "title": "Computer Systems Organization",
+          "units": 4.0,
+          "source_line": "- EE 457 Computer Systems Organization Units: 4"
+        },
+        {
+          "code": "EE 477L",
+          "title": "MOS VLSI Circuit Design",
+          "units": 4.0,
+          "source_line": "- EE 477L MOS VLSI Circuit Design Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "AI Systems and Operations Engineering Track",
+      "level": 3,
+      "courses": [
+        {
+          "code": "ISE 227",
+          "title": "Enterprise Process Engineering",
+          "units": 4.0,
+          "source_line": "- ISE 227 Enterprise Process Engineering Units: 4"
+        },
+        {
+          "code": "ISE 325",
+          "title": "Modeling for Predictive Analytics",
+          "units": 4.0,
+          "source_line": "- ISE 325 Modeling for Predictive Analytics Units: 4"
+        },
+        {
+          "code": "ISE 382",
+          "title": "Database Systems: Storage and Retrieval using SQL",
+          "units": 4.0,
+          "source_line": "- ISE 382 Database Systems: Storage and Retrieval using SQL Units: 4"
+        },
+        {
+          "code": "ISE 430",
+          "title": "Advanced Analytics",
+          "units": 4.0,
+          "source_line": "- ISE 430 Advanced Analytics Units: 4"
+        },
+        {
+          "code": "ISE 480",
+          "title": "Data Engineering",
+          "units": 4.0,
+          "source_line": "- ISE 480 Data Engineering Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Choose one of the following (4 units)",
+      "level": 4,
+      "courses": [
+        {
+          "code": "ISE 315L",
+          "title": "Engineering Project Management",
+          "units": 4.0,
+          "source_line": "- ISE 315L Engineering Project Management Units: 4"
+        },
+        {
+          "code": "ISE 435L",
+          "title": "Discrete Systems Simulation",
+          "units": 4.0,
+          "source_line": "- ISE 435L Discrete Systems Simulation Units: 4"
+        },
+        {
+          "code": "ISE 440",
+          "title": "Socio-Technical Systems and Work Organizations",
+          "units": 4.0,
+          "source_line": "- ISE 440 Socio-Technical Systems and Work Organizations Units: 4"
+        },
+        {
+          "code": "ISE 470",
+          "title": "Human/Computer Interface Design",
+          "units": 4.0,
+          "source_line": "- ISE 470 Human/Computer Interface Design Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Free Elective (2 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total Units: 128",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A WRIT 340 section entitled “Advanced Writing Communication for Engineers” is strongly recommended for BS AI majors.",
+          "source_line": "* A WRIT 340 section entitled “Advanced Writing Communication for Engineers” is strongly recommended for BS AI majors."
+        },
+        {
+          "text": "* A grade of C (2.0) or better is required. Courses with a grade of C- or below must be repeated; courses may only be retaken once.",
+          "source_line": "** A grade of C (2.0) or better is required. Courses with a grade of C- or below must be repeated; courses may only be retaken once."
+        },
+        {
+          "text": "** A grade of C (2.0) or better is required. Courses with a grade of C- or below must be repeated; courses may only be retaken once. Students transferring into this program after the first year may petition for other programming sequences or a different linear algebra class to substitute for the required courses.",
+          "source_line": "*** A grade of C (2.0) or better is required. Courses with a grade of C- or below must be repeated; courses may only be retaken once. Students transferring into this program after the first year may petition for other programming sequences or a different linear algebra class to substitute for the required courses."
+        }
+      ],
+      "choice": null,
+      "total_units": 128.0
+    }
+  ],
+  "parse_warnings": []
+}

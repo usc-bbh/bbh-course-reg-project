@@ -1,0 +1,47 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Classical Greek Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32474",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32474&returnto=9396",
+    "source_text_file": "244_classical_greek_minor.txt",
+    "source_content_sha256": "09c2807e6b9dd8cfa91ee5d6cd226dc0d1de9d21994e5d16cd0c3779a15eeacc",
+    "retrieved_at": "2026-07-31T01:00:23Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 0,
+    "distinct_course_codes": 0,
+    "section_count": 1
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Four courses in Classical Greek, of which one may be GR 220 and at least three must be at the upper-division level.",
+          "source_line": "Four courses in Classical Greek, of which one may be GR 220 and at least three must be at the upper-division level."
+        },
+        {
+          "text": "One additional upper-division course: either Classical Greek or Classics (CLAS).",
+          "source_line": "One additional upper-division course: either Classical Greek or Classics (CLAS)."
+        },
+        {
+          "text": "TOTAL: five courses",
+          "source_line": "TOTAL: five courses"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

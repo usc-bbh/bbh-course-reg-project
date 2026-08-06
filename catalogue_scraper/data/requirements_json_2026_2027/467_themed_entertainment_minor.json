@@ -1,0 +1,231 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Themed Entertainment Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32431",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32431&returnto=9396",
+    "source_text_file": "467_themed_entertainment_minor.txt",
+    "source_content_sha256": "0a7f5ee2e21a1238206f1675711e78de0d7ebf0226dfbad4c2c3da3a6b4aa46d",
+    "retrieved_at": "2026-07-31T01:14:17Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "###### Course Requirements for the Minor:\n\nA total of 24 units is required for the themed entertainment minor: 4 lower-division units and 20 upper-division units.",
+      "## Lower-Division Core Units (4 Units)\n\n---\n\n- CTIN 191 Survey of Themed Entertainment Units: 4\n\n## Upper-Division Core Units (14 Units)\n\n---\n\n- CTIN 452L Themed Entertainment Design Units: 4\n- CTIN 488 Game Design Workshop Units: 4\n- CTPR 456 Introduction to Art Direction Units: 2\n- CTWR 410L Character Development and Storytelling for Games Units: 4\n\n## Electives (6 Additional Units)\n\n---\n\n- COMM 306 Innovation, Entertainment, and the Arts Units: 4\n- COMM 430 Global Entertainment Units: 4\n- CTAN 420 Concept Design for Animation Units: 2\n- CTAN 460 Character Design Workshop Units: 2\n- CTCS 482 Transmedia Entertainment Units: 4\n- CTIN 404L User Research for Games Units: 2\n- CTIN 406L Sound Design for Games Units: 2\n- CTIN 444 Audio Expression Units: 2\n- CTIN 486 Alternative Control Workshop Units: 2\n- CTIN 492L Experimental Game Topics Units: 4\n- CTPR 423 Visual Effects and AI: How to Create Cinematic Magic Units: 2\n- CTPR 458 Organizing Creativity: Entertainment Industry Decision Making Units: 2\n- THTR 330 Scene Design I Units: 4\n- THTR 331 Costume Design I Units: 4\n- THTR 332 Lighting Design I Units: 4\n- THTR 407a Drawing and Rendering for the Theatre Units: 2\n- THTR 407b Drawing and Rendering for the Theatre Units: 2\n\n## Grade Point Average Requirement\n\n---\n\nA minimum grade of C (2."
+    ],
+    "course_entry_count": 22,
+    "distinct_course_codes": 22,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Who designs theme parks, museums, fireworks shows, water fountain spectaculars and parades? Themed entertainment designers do. From cruise ships to casinos to immersive educational retreats, they design almost anything that involves submerging a real, live human being into a story in a truly robust, physical way. As new tools for entertainment and education develop, they continually push toward one, common goal: a single place where movies, games, theme parks and museums converge. It is a non-dystopian kind of Westworld where we truly and completely become the heroes and heroines of our own stories. And it is the ultimate adventure because there is nothing (at least nothing that we notice) between our full, physical selves and the stories we want to live.",
+          "source_line": "Who designs theme parks, museums, fireworks shows, water fountain spectaculars and parades? Themed entertainment designers do. From cruise ships to casinos to immersive educational retreats, they design almost anything that involves submerging a real, live human being into a story in a truly robust, physical way. As new tools for entertainment and education develop, they continually push toward one, common goal: a single place where movies, games, theme parks and museums converge. It is a non-dystopian kind of Westworld where we truly and completely become the heroes and heroines of our own stories. And it is the ultimate adventure because there is nothing (at least nothing that we notice) between our full, physical selves and the stories we want to live."
+        },
+        {
+          "text": "To be eligible for the themed entertainment minor, a student must be in good academic standing and have a declared major. To declare the themed entertainment minor a student must get permission from the Interactive Media and Games Division (SCI 201) and submit a Change of Major/Minor form to Cinematic Arts Student Services (SCB 105).",
+          "source_line": "To be eligible for the themed entertainment minor, a student must be in good academic standing and have a declared major. To declare the themed entertainment minor a student must get permission from the Interactive Media and Games Division (SCI 201) and submit a Change of Major/Minor form to Cinematic Arts Student Services (SCB 105)."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Course Requirements for the Minor:",
+      "level": 6,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A total of 24 units is required for the themed entertainment minor: 4 lower-division units and 20 upper-division units.",
+          "source_line": "A total of 24 units is required for the themed entertainment minor: 4 lower-division units and 20 upper-division units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower-Division Core Units (4 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTIN 191",
+          "title": "Survey of Themed Entertainment",
+          "units": 4.0,
+          "source_line": "- CTIN 191 Survey of Themed Entertainment Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Core Units (14 Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTIN 452L",
+          "title": "Themed Entertainment Design",
+          "units": 4.0,
+          "source_line": "- CTIN 452L Themed Entertainment Design Units: 4"
+        },
+        {
+          "code": "CTIN 488",
+          "title": "Game Design Workshop",
+          "units": 4.0,
+          "source_line": "- CTIN 488 Game Design Workshop Units: 4"
+        },
+        {
+          "code": "CTPR 456",
+          "title": "Introduction to Art Direction",
+          "units": 2.0,
+          "source_line": "- CTPR 456 Introduction to Art Direction Units: 2"
+        },
+        {
+          "code": "CTWR 410L",
+          "title": "Character Development and Storytelling for Games",
+          "units": 4.0,
+          "source_line": "- CTWR 410L Character Development and Storytelling for Games Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Electives (6 Additional Units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "COMM 306",
+          "title": "Innovation, Entertainment, and the Arts",
+          "units": 4.0,
+          "source_line": "- COMM 306 Innovation, Entertainment, and the Arts Units: 4"
+        },
+        {
+          "code": "COMM 430",
+          "title": "Global Entertainment",
+          "units": 4.0,
+          "source_line": "- COMM 430 Global Entertainment Units: 4"
+        },
+        {
+          "code": "CTAN 420",
+          "title": "Concept Design for Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 420 Concept Design for Animation Units: 2"
+        },
+        {
+          "code": "CTAN 460",
+          "title": "Character Design Workshop",
+          "units": 2.0,
+          "source_line": "- CTAN 460 Character Design Workshop Units: 2"
+        },
+        {
+          "code": "CTCS 482",
+          "title": "Transmedia Entertainment",
+          "units": 4.0,
+          "source_line": "- CTCS 482 Transmedia Entertainment Units: 4"
+        },
+        {
+          "code": "CTIN 404L",
+          "title": "User Research for Games",
+          "units": 2.0,
+          "source_line": "- CTIN 404L User Research for Games Units: 2"
+        },
+        {
+          "code": "CTIN 406L",
+          "title": "Sound Design for Games",
+          "units": 2.0,
+          "source_line": "- CTIN 406L Sound Design for Games Units: 2"
+        },
+        {
+          "code": "CTIN 444",
+          "title": "Audio Expression",
+          "units": 2.0,
+          "source_line": "- CTIN 444 Audio Expression Units: 2"
+        },
+        {
+          "code": "CTIN 486",
+          "title": "Alternative Control Workshop",
+          "units": 2.0,
+          "source_line": "- CTIN 486 Alternative Control Workshop Units: 2"
+        },
+        {
+          "code": "CTIN 492L",
+          "title": "Experimental Game Topics",
+          "units": 4.0,
+          "source_line": "- CTIN 492L Experimental Game Topics Units: 4"
+        },
+        {
+          "code": "CTPR 423",
+          "title": "Visual Effects and AI: How to Create Cinematic Magic",
+          "units": 2.0,
+          "source_line": "- CTPR 423 Visual Effects and AI: How to Create Cinematic Magic Units: 2"
+        },
+        {
+          "code": "CTPR 458",
+          "title": "Organizing Creativity: Entertainment Industry Decision Making",
+          "units": 2.0,
+          "source_line": "- CTPR 458 Organizing Creativity: Entertainment Industry Decision Making Units: 2"
+        },
+        {
+          "code": "THTR 330",
+          "title": "Scene Design I",
+          "units": 4.0,
+          "source_line": "- THTR 330 Scene Design I Units: 4"
+        },
+        {
+          "code": "THTR 331",
+          "title": "Costume Design I",
+          "units": 4.0,
+          "source_line": "- THTR 331 Costume Design I Units: 4"
+        },
+        {
+          "code": "THTR 332",
+          "title": "Lighting Design I",
+          "units": 4.0,
+          "source_line": "- THTR 332 Lighting Design I Units: 4"
+        },
+        {
+          "code": "THTR 407a",
+          "title": "Drawing and Rendering for the Theatre",
+          "units": 2.0,
+          "source_line": "- THTR 407a Drawing and Rendering for the Theatre Units: 2"
+        },
+        {
+          "code": "THTR 407b",
+          "title": "Drawing and Rendering for the Theatre",
+          "units": 2.0,
+          "source_line": "- THTR 407b Drawing and Rendering for the Theatre Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Grade Point Average Requirement",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.",
+          "source_line": "A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

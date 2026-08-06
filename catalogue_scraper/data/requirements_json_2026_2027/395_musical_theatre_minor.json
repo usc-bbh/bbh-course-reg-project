@@ -1,0 +1,162 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Musical Theatre Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32247",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32247&returnto=9396",
+    "source_text_file": "395_musical_theatre_minor.txt",
+    "source_content_sha256": "60a33838be75e57df7e8ae56fb095c0ec31afdae7261e4f024e4079891b71515",
+    "retrieved_at": "2026-07-31T01:11:11Z"
+  },
+  "totals": {
+    "stated_total_units": 20.0,
+    "stated_total_units_source": "Total units: heading",
+    "unit_statements_verbatim": [
+      "## Required Courses (12 units)\n\n---\n\n- MPVA 140 Vocal Production for Musical Theatre Units: 2\n- MPVA 402 Musical Theatre Workshop I Units: 3\n- MPVA 412 Musical Theatre Workshop II Units: 3\n- MUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4\n\n## Select 8 units from the following: *\n\n---\n\n- DANC 175 Choreography for the Screen Units: 2\n- DANC 181–189\n- MPVA 301 Individual Instruction Units: 1, 2\n- THTR 101 Introduction to Acting Units: 4\n- THTR 216 Movement for Actors Units: 2\n- THTR 252a Intermediate Acting I: Drama/Comedy Units: 4\n- THTR 252b Intermediate Acting I: Drama/Comedy Units: 4\n- THTR 316 Advanced Movement for Actors Units: 2\n- THTR 343 Musical Theatre Audition Units: 3\n- THTR 352a Intermediate Acting II Units: 4\n- THTR 352b Intermediate Acting II Units: 4\n\n## Total units: 20\n\n---\n\n*Note for dance, music and theatre majors: dance majors must select 8 units in music and/or theatre, music majors must select 8 units in dance and/or theatre, and theatre majors must select 8 units in dance and/or music."
+    ],
+    "course_entry_count": 15,
+    "distinct_course_codes": 15,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in musical theatre, interdisciplinary in nature, is a 20-unit program incorporating the study of acting, dance or movement, vocal arts and related musical subjects. Admission to the minor requires an audition for music but not for theatre.",
+          "source_line": "The minor in musical theatre, interdisciplinary in nature, is a 20-unit program incorporating the study of acting, dance or movement, vocal arts and related musical subjects. Admission to the minor requires an audition for music but not for theatre."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (12 units)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MPVA 140",
+          "title": "Vocal Production for Musical Theatre",
+          "units": 2.0,
+          "source_line": "- MPVA 140 Vocal Production for Musical Theatre Units: 2"
+        },
+        {
+          "code": "MPVA 402",
+          "title": "Musical Theatre Workshop I",
+          "units": 3.0,
+          "source_line": "- MPVA 402 Musical Theatre Workshop I Units: 3"
+        },
+        {
+          "code": "MPVA 412",
+          "title": "Musical Theatre Workshop II",
+          "units": 3.0,
+          "source_line": "- MPVA 412 Musical Theatre Workshop II Units: 3"
+        },
+        {
+          "code": "MUSC 200gmw",
+          "title": "The Broadway Musical: Reflections of American Diversity",
+          "units": 4.0,
+          "source_line": "- MUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Select 8 units from the following: *",
+      "level": 2,
+      "courses": [
+        {
+          "code": "DANC 175",
+          "title": "Choreography for the Screen",
+          "units": 2.0,
+          "source_line": "- DANC 175 Choreography for the Screen Units: 2"
+        },
+        {
+          "code": "DANC 181",
+          "title": "–189",
+          "units": null,
+          "source_line": "- DANC 181–189"
+        },
+        {
+          "code": "MPVA 301",
+          "title": "Individual Instruction , 2",
+          "units": 1.0,
+          "source_line": "- MPVA 301 Individual Instruction Units: 1, 2"
+        },
+        {
+          "code": "THTR 101",
+          "title": "Introduction to Acting",
+          "units": 4.0,
+          "source_line": "- THTR 101 Introduction to Acting Units: 4"
+        },
+        {
+          "code": "THTR 216",
+          "title": "Movement for Actors",
+          "units": 2.0,
+          "source_line": "- THTR 216 Movement for Actors Units: 2"
+        },
+        {
+          "code": "THTR 252a",
+          "title": "Intermediate Acting I: Drama/Comedy",
+          "units": 4.0,
+          "source_line": "- THTR 252a Intermediate Acting I: Drama/Comedy Units: 4"
+        },
+        {
+          "code": "THTR 252b",
+          "title": "Intermediate Acting I: Drama/Comedy",
+          "units": 4.0,
+          "source_line": "- THTR 252b Intermediate Acting I: Drama/Comedy Units: 4"
+        },
+        {
+          "code": "THTR 316",
+          "title": "Advanced Movement for Actors",
+          "units": 2.0,
+          "source_line": "- THTR 316 Advanced Movement for Actors Units: 2"
+        },
+        {
+          "code": "THTR 343",
+          "title": "Musical Theatre Audition",
+          "units": 3.0,
+          "source_line": "- THTR 343 Musical Theatre Audition Units: 3"
+        },
+        {
+          "code": "THTR 352a",
+          "title": "Intermediate Acting II",
+          "units": 4.0,
+          "source_line": "- THTR 352a Intermediate Acting II Units: 4"
+        },
+        {
+          "code": "THTR 352b",
+          "title": "Intermediate Acting II",
+          "units": 4.0,
+          "source_line": "- THTR 352b Intermediate Acting II Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Total units: 20",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Note for dance, music and theatre majors: dance majors must select 8 units in music and/or theatre, music majors must select 8 units in dance and/or theatre, and theatre majors must select 8 units in dance and/or music. Exception: Theatre majors may select THTR 216 and/or THTR 316 as part of the 8-unit requirement.",
+          "source_line": "*Note for dance, music and theatre majors: dance majors must select 8 units in music and/or theatre, music majors must select 8 units in dance and/or theatre, and theatre majors must select 8 units in dance and/or music. Exception: Theatre majors may select THTR 216 and/or THTR 316 as part of the 8-unit requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": 20.0
+    }
+  ],
+  "parse_warnings": []
+}

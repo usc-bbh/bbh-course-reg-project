@@ -1,0 +1,642 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "American Studies and Ethnicity (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31691",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31691&returnto=9396",
+    "source_text_file": "008_american_studies_and_ethnicity_ba.txt",
+    "source_content_sha256": "f137f11e75084b0aefabe66909e82d1abdb924e42e11d815f26d94276ebd1aef",
+    "retrieved_at": "2026-07-31T00:49:14Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The 10 courses must be distributed as follows: the three core requirement courses of AMST 200; AMST 350; and AMST 492 or AMST 493 or AMST 498 ; one course from each of the following three lists: History, Literature and Culture, and Social and Political Issues; and additional elective courses for a total of 16 units chosen from the courses certified in American Studies and Ethnicity at the 300 level or above.",
+      "## Core Requirements\n\n---\n\nComplete the following two courses (8 units).",
+      "- AMST 200gm Introduction to American Studies and Ethnicity Units: 4\n- AMST 350 Junior Seminar in American Studies and Ethnicity: Theories and Methods Units: 4\n\n## Senior Core Requirement\n\n---\n\nChoose one senior course, based on departmental offerings (4 units).",
+      "## General Elective Courses\n\n---\n\n### One course from each of the following categories:\n\n---\n\n#### History\n\n---\n\n- AMST 250gmw The African Diaspora Units: 4\n- AMST 285gm African American Popular Culture Units: 4\n- AMST 373m History of the Mexican American Units: 4\n- AMST 378m Introduction to Asian American History Units: 4\n- AMST 379 Arabs in America Units: 4\n- HIST 100mg Rethinking the American Experience Units: 4\n- HIST 354 Mexican Migration to the United States Units: 4\n- HIST 355 The African-American Experience Units: 4\n- HIST 380 American Popular Culture Units: 4\n- HIST 457 Seminar in the American West Units: 4\n- HIST 458 History of California Units: 4\n\n#### Literature and Culture\n\n---\n\n- AHIS 365m African American Art Units: 4\n- AHIS 465 Studies in American Art Units: 4\n- AHIS 475m Blackness in American Visual Culture Units: 4\n- AMST 205g Introduction to American Popular Culture Units: 4\n- AMST 285gm African American Popular Culture Units: 4\n- AMST 305 Art and Performance in the Americas Units: 4\n- AMST 385 African American Culture and Society Units: 4\n- AMST 448m Chicano and Latino Literature Units: 4\n- AMST 449m Asian American Literature Units: 4\n- COMM 458m Race and Ethnicity in Entertainment and the Arts Units: 4\n- ENGL 263g American Literature Units: 4\n- ENGL 392 Visual and Popular Culture Units: 4\n- ENGL 442 American Literature, 1920 to the Present Units: 4\n- ENGL 445m The Literatures of America: Cross-Cultural Perspectives Units: 4\n- ENGL 446 Contemporary African American Literature Units: 4\n- GESM 120g Seminar in Humanistic Inquiry Units: 4\n- REL 336w Re-Viewing Religion in Asian America Units: 4\n- REL 483 Religion and Popular Culture in the United States Units: 4\n\n#### Social and Political Issues\n\n---\n\n- AMST 101gmw Race and Class in Los Angeles Units: 4\n- AMST 140gw Borderlands in a Global Context Units: 4\n- AMST 150gw The American War in Viet Nam Units: 4\n- AMST 201g LGBTQ America Units: 4\n- AMST 202m Interethnic Diversity in the West Units: 4\n- AMST 204g Introduction to Native Studies Units: 4\n- AMST 206gm The Politics and Culture of the 1960s Units: 4\n- AMST 220gmw The Making of Asian America Units: 4\n- AMST 274mw Exploring Ethnicity through Film Units: 4\n- AMST 285gm African American Popular Culture Units: 4\n- AMST 301gp America, the Frontier, and the New West Units: 4\n- AMST 320 Social Construction of Race and Citizenship Units: 4\n- AMST 325gw The Middle East in Hollywood Units: 4\n- AMST 330m Black Music and the Political Imagination Units: 4\n- AMST 332m Post-Civil Rights Black America Units: 4\n- AMST 337m Islam in Black America: From Slavery to Hip Hop Units: 4\n- AMST 340m Latina/o LA Units: 4\n- AMST 344m Islamic Law and American Society Units: 4\n- AMST 345 Law and American Indian Studies Units: 4\n- AMST 348m Race and Environmentalism Units: 4\n- AMST 353m Race and Racism in the Americas Units: 4\n- AMST 357m Latino Social Movements Units: 4\n- AMST 365 Leadership in the Community — Internship Units: 4\n- AMST 389m Carceral Geographies Units: 4\n- AMST 395m African American Humor and Culture Units: 4\n- AMST 446 Latinx Music in the Americas Units: 4\n- AMST 452m Race, Gender and Sexuality Units: 4\n- AMST 466m Psychological Dynamics of the African American Experience Units: 4\n- ANTH 240gm Representing 9/11 and Hurricane Katrina Units: 4\n- GESM 130g Seminar in Social Analysis Units: 4\n- JOUR 466m People of Color and the News Media Units: 4\n- POSC 320 Urban Politics Units: 4\n- POSC 328 Asian American Politics Units: 4\n- POSC 421 Ethnic Politics Units: 4\n- POSC 424m Political Participation and American Diversity Units: 4\n- POSC 427 Black Politics in the American Political System Units: 4\n- POSC 428 Latino Politics Units: 4\n- PSYC 462m Culture and Mental Health Units: 4\n- REL 333 Religion in the Borderlands Units: 4\n- SOCI 100gmw Los Angeles and the American Dream Units: 4\n- SOCI 342m Race Relations Units: 4\n- SOCI 355m Immigrants in the United States Units: 4\n- SOCI 356m Mexican Immigrants in Sociological Perspective Units: 4\n- SOCI 376m Contemporary Issues in Asian American Communities Units: 4\n- SOCI 432m Racial and Ethnic Relations in a Global Society Units: 4\n\n## Upper-Division Elective Courses\n\n---\n\nAdditional courses for a total of 16 units from the lists above or below, or other American Studies and Ethnicity courses with the approval of the department, 300-level or higher."
+    ],
+    "course_entry_count": 83,
+    "distinct_course_codes": 80,
+    "section_count": 10
+  },
+  "sections": [
+    {
+      "title": "Program Major Requirements",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Ten courses in American Studies and Ethnicity or courses certified for American Studies and Ethnicity credit are required. The 10 courses must be distributed as follows: the three core requirement courses of AMST 200; AMST 350; and AMST 492 or AMST 493 or AMST 498 ; one course from each of the following three lists: History, Literature and Culture, and Social and Political Issues; and additional elective courses for a total of 16 units chosen from the courses certified in American Studies and Ethnicity at the 300 level or above.",
+          "source_line": "Ten courses in American Studies and Ethnicity or courses certified for American Studies and Ethnicity credit are required. The 10 courses must be distributed as follows: the three core requirement courses of AMST 200; AMST 350; and AMST 492 or AMST 493 or AMST 498 ; one course from each of the following three lists: History, Literature and Culture, and Social and Political Issues; and additional elective courses for a total of 16 units chosen from the courses certified in American Studies and Ethnicity at the 300 level or above."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AMST 200gm",
+          "title": "Introduction to American Studies and Ethnicity",
+          "units": 4.0,
+          "source_line": "- AMST 200gm Introduction to American Studies and Ethnicity Units: 4"
+        },
+        {
+          "code": "AMST 350",
+          "title": "Junior Seminar in American Studies and Ethnicity: Theories and Methods",
+          "units": 4.0,
+          "source_line": "- AMST 350 Junior Seminar in American Studies and Ethnicity: Theories and Methods Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete the following two courses (8 units).",
+          "source_line": "Complete the following two courses (8 units).",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Complete the following two courses (8 units).",
+      "total_units": null
+    },
+    {
+      "title": "Senior Core Requirement",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AMST 492",
+          "title": "Research Methods in American Studies and Ethnicity",
+          "units": 4.0,
+          "source_line": "- AMST 492 Research Methods in American Studies and Ethnicity Units: 4"
+        },
+        {
+          "code": "AMST 493",
+          "title": "Senior Capstone Experience in American Studies and Ethnicity",
+          "units": 4.0,
+          "source_line": "- AMST 493 Senior Capstone Experience in American Studies and Ethnicity Units: 4"
+        },
+        {
+          "code": "AMST 498",
+          "title": "Senior Seminar in American Studies and Ethnicity",
+          "units": 4.0,
+          "source_line": "- AMST 498 Senior Seminar in American Studies and Ethnicity Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose one senior course, based on departmental offerings (4 units).",
+          "source_line": "Choose one senior course, based on departmental offerings (4 units).",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Choose one senior course, based on departmental offerings (4 units).",
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Honors students will complete an Honors Thesis in their Senior Core Course.",
+          "source_line": "Honors students will complete an Honors Thesis in their Senior Core Course."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "General Elective Courses",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One course from each of the following categories:",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "History",
+      "level": 4,
+      "courses": [
+        {
+          "code": "AMST 250gmw",
+          "title": "The African Diaspora",
+          "units": 4.0,
+          "source_line": "- AMST 250gmw The African Diaspora Units: 4"
+        },
+        {
+          "code": "AMST 285gm",
+          "title": "African American Popular Culture",
+          "units": 4.0,
+          "source_line": "- AMST 285gm African American Popular Culture Units: 4"
+        },
+        {
+          "code": "AMST 373m",
+          "title": "History of the Mexican American",
+          "units": 4.0,
+          "source_line": "- AMST 373m History of the Mexican American Units: 4"
+        },
+        {
+          "code": "AMST 378m",
+          "title": "Introduction to Asian American History",
+          "units": 4.0,
+          "source_line": "- AMST 378m Introduction to Asian American History Units: 4"
+        },
+        {
+          "code": "AMST 379",
+          "title": "Arabs in America",
+          "units": 4.0,
+          "source_line": "- AMST 379 Arabs in America Units: 4"
+        },
+        {
+          "code": "HIST 100mg",
+          "title": "Rethinking the American Experience",
+          "units": 4.0,
+          "source_line": "- HIST 100mg Rethinking the American Experience Units: 4"
+        },
+        {
+          "code": "HIST 354",
+          "title": "Mexican Migration to the United States",
+          "units": 4.0,
+          "source_line": "- HIST 354 Mexican Migration to the United States Units: 4"
+        },
+        {
+          "code": "HIST 355",
+          "title": "The African-American Experience",
+          "units": 4.0,
+          "source_line": "- HIST 355 The African-American Experience Units: 4"
+        },
+        {
+          "code": "HIST 380",
+          "title": "American Popular Culture",
+          "units": 4.0,
+          "source_line": "- HIST 380 American Popular Culture Units: 4"
+        },
+        {
+          "code": "HIST 457",
+          "title": "Seminar in the American West",
+          "units": 4.0,
+          "source_line": "- HIST 457 Seminar in the American West Units: 4"
+        },
+        {
+          "code": "HIST 458",
+          "title": "History of California",
+          "units": 4.0,
+          "source_line": "- HIST 458 History of California Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Literature and Culture",
+      "level": 4,
+      "courses": [
+        {
+          "code": "AHIS 365m",
+          "title": "African American Art",
+          "units": 4.0,
+          "source_line": "- AHIS 365m African American Art Units: 4"
+        },
+        {
+          "code": "AHIS 465",
+          "title": "Studies in American Art",
+          "units": 4.0,
+          "source_line": "- AHIS 465 Studies in American Art Units: 4"
+        },
+        {
+          "code": "AHIS 475m",
+          "title": "Blackness in American Visual Culture",
+          "units": 4.0,
+          "source_line": "- AHIS 475m Blackness in American Visual Culture Units: 4"
+        },
+        {
+          "code": "AMST 205g",
+          "title": "Introduction to American Popular Culture",
+          "units": 4.0,
+          "source_line": "- AMST 205g Introduction to American Popular Culture Units: 4"
+        },
+        {
+          "code": "AMST 285gm",
+          "title": "African American Popular Culture",
+          "units": 4.0,
+          "source_line": "- AMST 285gm African American Popular Culture Units: 4"
+        },
+        {
+          "code": "AMST 305",
+          "title": "Art and Performance in the Americas",
+          "units": 4.0,
+          "source_line": "- AMST 305 Art and Performance in the Americas Units: 4"
+        },
+        {
+          "code": "AMST 385",
+          "title": "African American Culture and Society",
+          "units": 4.0,
+          "source_line": "- AMST 385 African American Culture and Society Units: 4"
+        },
+        {
+          "code": "AMST 448m",
+          "title": "Chicano and Latino Literature",
+          "units": 4.0,
+          "source_line": "- AMST 448m Chicano and Latino Literature Units: 4"
+        },
+        {
+          "code": "AMST 449m",
+          "title": "Asian American Literature",
+          "units": 4.0,
+          "source_line": "- AMST 449m Asian American Literature Units: 4"
+        },
+        {
+          "code": "COMM 458m",
+          "title": "Race and Ethnicity in Entertainment and the Arts",
+          "units": 4.0,
+          "source_line": "- COMM 458m Race and Ethnicity in Entertainment and the Arts Units: 4"
+        },
+        {
+          "code": "ENGL 263g",
+          "title": "American Literature",
+          "units": 4.0,
+          "source_line": "- ENGL 263g American Literature Units: 4"
+        },
+        {
+          "code": "ENGL 392",
+          "title": "Visual and Popular Culture",
+          "units": 4.0,
+          "source_line": "- ENGL 392 Visual and Popular Culture Units: 4"
+        },
+        {
+          "code": "ENGL 442",
+          "title": "American Literature, 1920 to the Present",
+          "units": 4.0,
+          "source_line": "- ENGL 442 American Literature, 1920 to the Present Units: 4"
+        },
+        {
+          "code": "ENGL 445m",
+          "title": "The Literatures of America: Cross-Cultural Perspectives",
+          "units": 4.0,
+          "source_line": "- ENGL 445m The Literatures of America: Cross-Cultural Perspectives Units: 4"
+        },
+        {
+          "code": "ENGL 446",
+          "title": "Contemporary African American Literature",
+          "units": 4.0,
+          "source_line": "- ENGL 446 Contemporary African American Literature Units: 4"
+        },
+        {
+          "code": "GESM 120g",
+          "title": "Seminar in Humanistic Inquiry",
+          "units": 4.0,
+          "source_line": "- GESM 120g Seminar in Humanistic Inquiry Units: 4"
+        },
+        {
+          "code": "REL 336w",
+          "title": "Re-Viewing Religion in Asian America",
+          "units": 4.0,
+          "source_line": "- REL 336w Re-Viewing Religion in Asian America Units: 4"
+        },
+        {
+          "code": "REL 483",
+          "title": "Religion and Popular Culture in the United States",
+          "units": 4.0,
+          "source_line": "- REL 483 Religion and Popular Culture in the United States Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Social and Political Issues",
+      "level": 4,
+      "courses": [
+        {
+          "code": "AMST 101gmw",
+          "title": "Race and Class in Los Angeles",
+          "units": 4.0,
+          "source_line": "- AMST 101gmw Race and Class in Los Angeles Units: 4"
+        },
+        {
+          "code": "AMST 140gw",
+          "title": "Borderlands in a Global Context",
+          "units": 4.0,
+          "source_line": "- AMST 140gw Borderlands in a Global Context Units: 4"
+        },
+        {
+          "code": "AMST 150gw",
+          "title": "The American War in Viet Nam",
+          "units": 4.0,
+          "source_line": "- AMST 150gw The American War in Viet Nam Units: 4"
+        },
+        {
+          "code": "AMST 201g",
+          "title": "LGBTQ America",
+          "units": 4.0,
+          "source_line": "- AMST 201g LGBTQ America Units: 4"
+        },
+        {
+          "code": "AMST 202m",
+          "title": "Interethnic Diversity in the West",
+          "units": 4.0,
+          "source_line": "- AMST 202m Interethnic Diversity in the West Units: 4"
+        },
+        {
+          "code": "AMST 204g",
+          "title": "Introduction to Native Studies",
+          "units": 4.0,
+          "source_line": "- AMST 204g Introduction to Native Studies Units: 4"
+        },
+        {
+          "code": "AMST 206gm",
+          "title": "The Politics and Culture of the 1960s",
+          "units": 4.0,
+          "source_line": "- AMST 206gm The Politics and Culture of the 1960s Units: 4"
+        },
+        {
+          "code": "AMST 220gmw",
+          "title": "The Making of Asian America",
+          "units": 4.0,
+          "source_line": "- AMST 220gmw The Making of Asian America Units: 4"
+        },
+        {
+          "code": "AMST 274mw",
+          "title": "Exploring Ethnicity through Film",
+          "units": 4.0,
+          "source_line": "- AMST 274mw Exploring Ethnicity through Film Units: 4"
+        },
+        {
+          "code": "AMST 285gm",
+          "title": "African American Popular Culture",
+          "units": 4.0,
+          "source_line": "- AMST 285gm African American Popular Culture Units: 4"
+        },
+        {
+          "code": "AMST 301gp",
+          "title": "America, the Frontier, and the New West",
+          "units": 4.0,
+          "source_line": "- AMST 301gp America, the Frontier, and the New West Units: 4"
+        },
+        {
+          "code": "AMST 320",
+          "title": "Social Construction of Race and Citizenship",
+          "units": 4.0,
+          "source_line": "- AMST 320 Social Construction of Race and Citizenship Units: 4"
+        },
+        {
+          "code": "AMST 325gw",
+          "title": "The Middle East in Hollywood",
+          "units": 4.0,
+          "source_line": "- AMST 325gw The Middle East in Hollywood Units: 4"
+        },
+        {
+          "code": "AMST 330m",
+          "title": "Black Music and the Political Imagination",
+          "units": 4.0,
+          "source_line": "- AMST 330m Black Music and the Political Imagination Units: 4"
+        },
+        {
+          "code": "AMST 332m",
+          "title": "Post-Civil Rights Black America",
+          "units": 4.0,
+          "source_line": "- AMST 332m Post-Civil Rights Black America Units: 4"
+        },
+        {
+          "code": "AMST 337m",
+          "title": "Islam in Black America: From Slavery to Hip Hop",
+          "units": 4.0,
+          "source_line": "- AMST 337m Islam in Black America: From Slavery to Hip Hop Units: 4"
+        },
+        {
+          "code": "AMST 340m",
+          "title": "Latina/o LA",
+          "units": 4.0,
+          "source_line": "- AMST 340m Latina/o LA Units: 4"
+        },
+        {
+          "code": "AMST 344m",
+          "title": "Islamic Law and American Society",
+          "units": 4.0,
+          "source_line": "- AMST 344m Islamic Law and American Society Units: 4"
+        },
+        {
+          "code": "AMST 345",
+          "title": "Law and American Indian Studies",
+          "units": 4.0,
+          "source_line": "- AMST 345 Law and American Indian Studies Units: 4"
+        },
+        {
+          "code": "AMST 348m",
+          "title": "Race and Environmentalism",
+          "units": 4.0,
+          "source_line": "- AMST 348m Race and Environmentalism Units: 4"
+        },
+        {
+          "code": "AMST 353m",
+          "title": "Race and Racism in the Americas",
+          "units": 4.0,
+          "source_line": "- AMST 353m Race and Racism in the Americas Units: 4"
+        },
+        {
+          "code": "AMST 357m",
+          "title": "Latino Social Movements",
+          "units": 4.0,
+          "source_line": "- AMST 357m Latino Social Movements Units: 4"
+        },
+        {
+          "code": "AMST 365",
+          "title": "Leadership in the Community — Internship",
+          "units": 4.0,
+          "source_line": "- AMST 365 Leadership in the Community — Internship Units: 4"
+        },
+        {
+          "code": "AMST 389m",
+          "title": "Carceral Geographies",
+          "units": 4.0,
+          "source_line": "- AMST 389m Carceral Geographies Units: 4"
+        },
+        {
+          "code": "AMST 395m",
+          "title": "African American Humor and Culture",
+          "units": 4.0,
+          "source_line": "- AMST 395m African American Humor and Culture Units: 4"
+        },
+        {
+          "code": "AMST 446",
+          "title": "Latinx Music in the Americas",
+          "units": 4.0,
+          "source_line": "- AMST 446 Latinx Music in the Americas Units: 4"
+        },
+        {
+          "code": "AMST 452m",
+          "title": "Race, Gender and Sexuality",
+          "units": 4.0,
+          "source_line": "- AMST 452m Race, Gender and Sexuality Units: 4"
+        },
+        {
+          "code": "AMST 466m",
+          "title": "Psychological Dynamics of the African American Experience",
+          "units": 4.0,
+          "source_line": "- AMST 466m Psychological Dynamics of the African American Experience Units: 4"
+        },
+        {
+          "code": "ANTH 240gm",
+          "title": "Representing 9/11 and Hurricane Katrina",
+          "units": 4.0,
+          "source_line": "- ANTH 240gm Representing 9/11 and Hurricane Katrina Units: 4"
+        },
+        {
+          "code": "GESM 130g",
+          "title": "Seminar in Social Analysis",
+          "units": 4.0,
+          "source_line": "- GESM 130g Seminar in Social Analysis Units: 4"
+        },
+        {
+          "code": "JOUR 466m",
+          "title": "People of Color and the News Media",
+          "units": 4.0,
+          "source_line": "- JOUR 466m People of Color and the News Media Units: 4"
+        },
+        {
+          "code": "POSC 320",
+          "title": "Urban Politics",
+          "units": 4.0,
+          "source_line": "- POSC 320 Urban Politics Units: 4"
+        },
+        {
+          "code": "POSC 328",
+          "title": "Asian American Politics",
+          "units": 4.0,
+          "source_line": "- POSC 328 Asian American Politics Units: 4"
+        },
+        {
+          "code": "POSC 421",
+          "title": "Ethnic Politics",
+          "units": 4.0,
+          "source_line": "- POSC 421 Ethnic Politics Units: 4"
+        },
+        {
+          "code": "POSC 424m",
+          "title": "Political Participation and American Diversity",
+          "units": 4.0,
+          "source_line": "- POSC 424m Political Participation and American Diversity Units: 4"
+        },
+        {
+          "code": "POSC 427",
+          "title": "Black Politics in the American Political System",
+          "units": 4.0,
+          "source_line": "- POSC 427 Black Politics in the American Political System Units: 4"
+        },
+        {
+          "code": "POSC 428",
+          "title": "Latino Politics",
+          "units": 4.0,
+          "source_line": "- POSC 428 Latino Politics Units: 4"
+        },
+        {
+          "code": "PSYC 462m",
+          "title": "Culture and Mental Health",
+          "units": 4.0,
+          "source_line": "- PSYC 462m Culture and Mental Health Units: 4"
+        },
+        {
+          "code": "REL 333",
+          "title": "Religion in the Borderlands",
+          "units": 4.0,
+          "source_line": "- REL 333 Religion in the Borderlands Units: 4"
+        },
+        {
+          "code": "SOCI 100gmw",
+          "title": "Los Angeles and the American Dream",
+          "units": 4.0,
+          "source_line": "- SOCI 100gmw Los Angeles and the American Dream Units: 4"
+        },
+        {
+          "code": "SOCI 342m",
+          "title": "Race Relations",
+          "units": 4.0,
+          "source_line": "- SOCI 342m Race Relations Units: 4"
+        },
+        {
+          "code": "SOCI 355m",
+          "title": "Immigrants in the United States",
+          "units": 4.0,
+          "source_line": "- SOCI 355m Immigrants in the United States Units: 4"
+        },
+        {
+          "code": "SOCI 356m",
+          "title": "Mexican Immigrants in Sociological Perspective",
+          "units": 4.0,
+          "source_line": "- SOCI 356m Mexican Immigrants in Sociological Perspective Units: 4"
+        },
+        {
+          "code": "SOCI 376m",
+          "title": "Contemporary Issues in Asian American Communities",
+          "units": 4.0,
+          "source_line": "- SOCI 376m Contemporary Issues in Asian American Communities Units: 4"
+        },
+        {
+          "code": "SOCI 432m",
+          "title": "Racial and Ethnic Relations in a Global Society",
+          "units": 4.0,
+          "source_line": "- SOCI 432m Racial and Ethnic Relations in a Global Society Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-Division Elective Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "AMST 345",
+          "title": "Law and American Indian Studies",
+          "units": 4.0,
+          "source_line": "- AMST 345 Law and American Indian Studies Units: 4"
+        },
+        {
+          "code": "AMST 392",
+          "title": "Undergraduate Research Methods",
+          "units": 2.0,
+          "source_line": "- AMST 392 Undergraduate Research Methods Units: 2"
+        },
+        {
+          "code": "AMST 490x",
+          "title": "Directed Research , 2, 3, 4, 5, 6, 7, 8 max 12",
+          "units": 1.0,
+          "source_line": "- AMST 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 max 12"
+        },
+        {
+          "code": "AMST 499",
+          "title": "Special Topics , 3, 4 max 8",
+          "units": 2.0,
+          "source_line": "- AMST 499 Special Topics Units: 2, 3, 4 max 8"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Additional courses for a total of 16 units from the lists above or below, or other American Studies and Ethnicity courses with the approval of the department, 300-level or higher. No more than two total courses in the major may be taken outside the college.",
+          "source_line": "Additional courses for a total of 16 units from the lists above or below, or other American Studies and Ethnicity courses with the approval of the department, 300-level or higher. No more than two total courses in the major may be taken outside the college."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

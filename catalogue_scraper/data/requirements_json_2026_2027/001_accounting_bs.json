@@ -1,0 +1,408 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Accounting (BS)",
+    "credential": "BS",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31653",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31653&returnto=9396",
+    "source_text_file": "001_accounting_bs.txt",
+    "source_content_sha256": "fcebef2ac24f8d778dd661139797661882651d426b7777352a913a9dc0fc692f",
+    "retrieved_at": "2026-07-31T00:48:58Z"
+  },
+  "totals": {
+    "stated_total_units": 128.0,
+    "stated_total_units_source": "is a 128-unit program",
+    "unit_statements_verbatim": [
+      "USC students who have not been admitted to the major or the minor in the Marshall School of Business and/or the Leventhal School of Accounting may complete a maximum of 12 units from the Marshall School of Business and/or the Leventhal School of Accounting.",
+      "Acceptance to the program requires completion of at least 64 units of course work (including transfer units), a GPA of 3.",
+      "A maximum of 24 units of undergraduate course work taken on a pass/no pass basis may be used toward the BS, Accounting degree.",
+      "No more than 4 units of credit (or one course) counting toward the general education categories may be taken on a pass/no pass basis."
+    ],
+    "course_entry_count": 31,
+    "distinct_course_codes": 31,
+    "section_count": 13
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The USC Leventhal School of Accounting Bachelor of Science, Accounting (BS) degree is designed to provide students with a broad foundation in accounting and business to prepare them for entry into the professional program leading to a Master of Accounting or Master of Business Taxation degree. The undergraduate curriculum also provides the background necessary for direct entry into the accounting profession. The BS, Accounting degree is a 128-unit program.",
+          "source_line": "The USC Leventhal School of Accounting Bachelor of Science, Accounting (BS) degree is designed to provide students with a broad foundation in accounting and business to prepare them for entry into the professional program leading to a Master of Accounting or Master of Business Taxation degree. The undergraduate curriculum also provides the background necessary for direct entry into the accounting profession. The BS, Accounting degree is a 128-unit program."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Admission",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students may be admitted to the program as incoming freshmen, as USC undergraduates transferring from another major or as students transferring from another college or university. Admission to Leventhal is dependent on admission to the university and on academic performance, particularly in quantitative areas. USC students who have not been admitted to the major or the minor in the Marshall School of Business and/or the Leventhal School of Accounting may complete a maximum of 12 units from the Marshall School of Business and/or the Leventhal School of Accounting. No further course work may be taken unless a student is admitted.",
+          "source_line": "Students may be admitted to the program as incoming freshmen, as USC undergraduates transferring from another major or as students transferring from another college or university. Admission to Leventhal is dependent on admission to the university and on academic performance, particularly in quantitative areas. USC students who have not been admitted to the major or the minor in the Marshall School of Business and/or the Leventhal School of Accounting may complete a maximum of 12 units from the Marshall School of Business and/or the Leventhal School of Accounting. No further course work may be taken unless a student is admitted."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Leventhal/Marshall Honors",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Leventhal/Marshall Honors is available upon graduation to majors in accounting or business administration and results in a special designation of departmental honors on a student’s transcript. Acceptance to the program requires completion of at least 64 units of course work (including transfer units), a GPA of 3.5 or higher in course work to be applied to the major, an application, and a successful interview with the director of the program. Achievement of Leventhal/Marshall Honors requires completion of ACCT 493 Honors Research Seminar prior to the senior year, a thesis (research project and paper) conducted under the guidance of a Leventhal or Marshall faculty member during the senior year, and minimum GPA of 3.5 in upper-division Leventhal School of Accounting and Marshall School of Business courses applied to the major. For additional information, contact the Leventhal School of Accounting Undergraduate Program Office in ACC 101, (213) 740-4838.",
+          "source_line": "Leventhal/Marshall Honors is available upon graduation to majors in accounting or business administration and results in a special designation of departmental honors on a student’s transcript. Acceptance to the program requires completion of at least 64 units of course work (including transfer units), a GPA of 3.5 or higher in course work to be applied to the major, an application, and a successful interview with the director of the program. Achievement of Leventhal/Marshall Honors requires completion of ACCT 493 Honors Research Seminar prior to the senior year, a thesis (research project and paper) conducted under the guidance of a Leventhal or Marshall faculty member during the senior year, and minimum GPA of 3.5 in upper-division Leventhal School of Accounting and Marshall School of Business courses applied to the major. For additional information, contact the Leventhal School of Accounting Undergraduate Program Office in ACC 101, (213) 740-4838."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Advisement",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Academic advisement is provided through the Leventhal School of Accounting Undergraduate Program Office in Accounting 101, (213) 740-4838. Students are required to meet with an academic adviser before registering and this requirement remains in effect until 24 USC units are completed. However, all students are encouraged to see an academic adviser on a regular basis. A record of each student is kept on file. Appointments for advisement may be scheduled at most times during the academic year. However, during busy times such as the preregistration, registration and drop/add periods, advisers may be available on a walk-in basis only.",
+          "source_line": "Academic advisement is provided through the Leventhal School of Accounting Undergraduate Program Office in Accounting 101, (213) 740-4838. Students are required to meet with an academic adviser before registering and this requirement remains in effect until 24 USC units are completed. However, all students are encouraged to see an academic adviser on a regular basis. A record of each student is kept on file. Appointments for advisement may be scheduled at most times during the academic year. However, during busy times such as the preregistration, registration and drop/add periods, advisers may be available on a walk-in basis only."
+        },
+        {
+          "text": "The Leventhal Undergraduate Program Office and Marshall Undergraduate Student Services offer students assistance in networking, finding internships, resume writing, interviewing techniques and other career-related issues.",
+          "source_line": "The Leventhal Undergraduate Program Office and Marshall Undergraduate Student Services offer students assistance in networking, finding internships, resume writing, interviewing techniques and other career-related issues."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Transferring College Credit",
+      "level": 3,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "College Courses",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "USC has established articulation agreements with most community colleges throughout California. Most academic courses are acceptable for transfer credit from a two-year school, but students may not receive credit for specialized, technical or remedial courses.",
+          "source_line": "USC has established articulation agreements with most community colleges throughout California. Most academic courses are acceptable for transfer credit from a two-year school, but students may not receive credit for specialized, technical or remedial courses."
+        },
+        {
+          "text": "Courses that do not appear on the articulation agreement are not transferable. A maximum of 64 semester units may be transferred. Check with the Degree Progress Department (JHH 010) for questions about transferable courses or see a counselor in Accounting 101.",
+          "source_line": "Courses that do not appear on the articulation agreement are not transferable. A maximum of 64 semester units may be transferred. Check with the Degree Progress Department (JHH 010) for questions about transferable courses or see a counselor in Accounting 101."
+        },
+        {
+          "text": "Official transcripts of college work taken elsewhere must be submitted, at the time of application, to the USC Office of Admission. A credit evaluation will be completed, which will list transfer courses accepted for credit. All business courses completed at a two-year college, if transferable, will be considered elective credit.",
+          "source_line": "Official transcripts of college work taken elsewhere must be submitted, at the time of application, to the USC Office of Admission. A credit evaluation will be completed, which will list transfer courses accepted for credit. All business courses completed at a two-year college, if transferable, will be considered elective credit."
+        },
+        {
+          "text": "There is one exception to this policy. Students may transfer two semesters of introductory accounting and receive credit equivalent to one semester of introductory accounting at USC. Then students can register for BUAD 305 Abridged Core Concepts of Accounting Information and complete their accounting course requirement in one semester at USC. In this case, students would not be required to take BUAD 280 or BUAD 281 .",
+          "source_line": "There is one exception to this policy. Students may transfer two semesters of introductory accounting and receive credit equivalent to one semester of introductory accounting at USC. Then students can register for BUAD 305 Abridged Core Concepts of Accounting Information and complete their accounting course requirement in one semester at USC. In this case, students would not be required to take BUAD 280 or BUAD 281 .",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "There is one exception to this policy. Students may transfer two semesters of introductory accounting and receive credit equivalent to one semester of introductory accounting at USC. Then students can register for BUAD 305 Abridged Core Concepts of Accounting Information and complete their accounting course requirement in one semester at USC. In this case, students would not be required to take BUAD 280 or BUAD 281 .",
+      "total_units": null
+    },
+    {
+      "title": "Four Year Colleges",
+      "level": 4,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Most courses are acceptable for unit credit from all fully accredited four-year institutions. If the courses do not satisfy specific subject requirements at USC, they will be accepted for elective course credit.",
+          "source_line": "Most courses are acceptable for unit credit from all fully accredited four-year institutions. If the courses do not satisfy specific subject requirements at USC, they will be accepted for elective course credit."
+        },
+        {
+          "text": "Students are urged to complete all their required business administration courses at USC. All business courses from four-year institutions, if transferable, will be considered elective credit unless a challenge examination is passed. Only core classes, with the exception of BUAD 497 , may be challenged. Students should consult with an academic adviser in Bridge Hall 104 to initiate the challenge examination process.",
+          "source_line": "Students are urged to complete all their required business administration courses at USC. All business courses from four-year institutions, if transferable, will be considered elective credit unless a challenge examination is passed. Only core classes, with the exception of BUAD 497 , may be challenged. Students should consult with an academic adviser in Bridge Hall 104 to initiate the challenge examination process."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "USC Core Requirements",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. See General Education for more information.",
+          "source_line": "The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. See General Education for more information."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Business Foundation Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "All students in the Leventhal School accounting undergraduate degree program take business foundation courses that focus on necessary analytic skills and theoretical knowledge in math, statistics, accounting and economics. Fundamental knowledge of the functional business disciplines and the strategic interplay among them completes the business core.",
+          "source_line": "All students in the Leventhal School accounting undergraduate degree program take business foundation courses that focus on necessary analytic skills and theoretical knowledge in math, statistics, accounting and economics. Fundamental knowledge of the functional business disciplines and the strategic interplay among them completes the business core."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Accounting/Business Foundation Courses",
+      "level": 3,
+      "courses": [
+        {
+          "code": "BUAD 280",
+          "title": "Introduction to Financial Accounting",
+          "units": 3.0,
+          "source_line": "- BUAD 280 Introduction to Financial Accounting Units: 3"
+        },
+        {
+          "code": "BUAD 281",
+          "title": "Introduction to Managerial Accounting",
+          "units": 3.0,
+          "source_line": "- BUAD 281 Introduction to Managerial Accounting Units: 3"
+        },
+        {
+          "code": "BUAD 302",
+          "title": "Communication Strategy in Business",
+          "units": 4.0,
+          "source_line": "- BUAD 302 Communication Strategy in Business Units: 4"
+        },
+        {
+          "code": "BUAD 304",
+          "title": "Organizational Behavior and Leadership",
+          "units": 4.0,
+          "source_line": "- BUAD 304 Organizational Behavior and Leadership Units: 4"
+        },
+        {
+          "code": "BUAD 306",
+          "title": "Business Finance  or",
+          "units": 4.0,
+          "source_line": "- BUAD 306 Business Finance Units: 4 or"
+        },
+        {
+          "code": "BUAD 308",
+          "title": "Advanced Business Finance",
+          "units": 4.0,
+          "source_line": "- BUAD 308 Advanced Business Finance Units: 4"
+        },
+        {
+          "code": "BUAD 307",
+          "title": "Marketing Fundamentals",
+          "units": 4.0,
+          "source_line": "- BUAD 307 Marketing Fundamentals Units: 4"
+        },
+        {
+          "code": "BUAD 310g",
+          "title": "Applied Business Statistics  or",
+          "units": 4.0,
+          "source_line": "- BUAD 310g Applied Business Statistics Units: 4 or"
+        },
+        {
+          "code": "BUAD 312g",
+          "title": "Statistics and Data Science for Business",
+          "units": 4.0,
+          "source_line": "- BUAD 312g Statistics and Data Science for Business Units: 4"
+        },
+        {
+          "code": "BUAD 311",
+          "title": "Operations Management  or",
+          "units": 4.0,
+          "source_line": "- BUAD 311 Operations Management Units: 4 or"
+        },
+        {
+          "code": "BUAD 313",
+          "title": "Advanced Operations Management and Analytics",
+          "units": 4.0,
+          "source_line": "- BUAD 313 Advanced Operations Management and Analytics Units: 4"
+        },
+        {
+          "code": "BUAD 351",
+          "title": "Economic Analysis for Business Decisions  or",
+          "units": 4.0,
+          "source_line": "- BUAD 351 Economic Analysis for Business Decisions Units: 4 or"
+        },
+        {
+          "code": "ECON 351x",
+          "title": "Microeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 351x Microeconomics for Business Units: 4"
+        },
+        {
+          "code": "BUAD 352",
+          "title": "Macroeconomic Analysis for Business Decisions  or",
+          "units": 4.0,
+          "source_line": "- BUAD 352 Macroeconomic Analysis for Business Decisions Units: 4 or"
+        },
+        {
+          "code": "ECON 352x",
+          "title": "Macroeconomics for Business",
+          "units": 4.0,
+          "source_line": "- ECON 352x Macroeconomics for Business Units: 4"
+        },
+        {
+          "code": "BUAD 497",
+          "title": "Strategic Management",
+          "units": 4.0,
+          "source_line": "- BUAD 497 Strategic Management Units: 4"
+        },
+        {
+          "code": "MATH 118gx",
+          "title": "Calculus for Business and Economics  [*] or",
+          "units": 4.0,
+          "source_line": "- MATH 118gx Calculus for Business and Economics Units: 4 [*] or"
+        },
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "[*]Placement into MATH 118 is contingent on successful completion of MATH 117 or obtaining an acceptable score on the math placement exam or AP calculus or IB mathematics exam.",
+          "source_line": "[*]Placement into MATH 118 is contingent on successful completion of MATH 117 or obtaining an acceptable score on the math placement exam or AP calculus or IB mathematics exam."
+        },
+        {
+          "text": "All prerequisites for business and all accounting and business courses must be taken for a letter grade.",
+          "source_line": "All prerequisites for business and all accounting and business courses must be taken for a letter grade."
+        },
+        {
+          "text": "A maximum of 24 units of undergraduate course work taken on a pass/no pass basis may be used toward the BS, Accounting degree. No more than 4 units of credit (or one course) counting toward the general education categories may be taken on a pass/no pass basis. The writing course cannot be taken on a pass/no pass basis.",
+          "source_line": "A maximum of 24 units of undergraduate course work taken on a pass/no pass basis may be used toward the BS, Accounting degree. No more than 4 units of credit (or one course) counting toward the general education categories may be taken on a pass/no pass basis. The writing course cannot be taken on a pass/no pass basis."
+        },
+        {
+          "text": "The Bachelor of Science, Accounting degree includes the following required accounting courses in addition to the accounting/business foundation courses listed above.",
+          "source_line": "The Bachelor of Science, Accounting degree includes the following required accounting courses in addition to the accounting/business foundation courses listed above."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Accounting Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ACCT 370",
+          "title": "External Financial Reporting Issues",
+          "units": 4.0,
+          "source_line": "- ACCT 370 External Financial Reporting Issues Units: 4"
+        },
+        {
+          "code": "ACCT 371",
+          "title": "Introduction to Accounting Systems",
+          "units": 4.0,
+          "source_line": "- ACCT 371 Introduction to Accounting Systems Units: 4"
+        },
+        {
+          "code": "ACCT 430",
+          "title": "Accounting Ethics",
+          "units": 4.0,
+          "source_line": "- ACCT 430 Accounting Ethics Units: 4"
+        },
+        {
+          "code": "ACCT 451",
+          "title": "Tax Analysis with Data Analytics",
+          "units": 4.0,
+          "source_line": "- ACCT 451 Tax Analysis with Data Analytics Units: 4"
+        },
+        {
+          "code": "ACCT 456",
+          "title": "Auditing with Data Analytics",
+          "units": 4.0,
+          "source_line": "- ACCT 456 Auditing with Data Analytics Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ACCT 377",
+          "title": "Valuation for Financial Statement Purposes",
+          "units": 2.0,
+          "source_line": "- ACCT 377 Valuation for Financial Statement Purposes Units: 2"
+        },
+        {
+          "code": "ACCT 405",
+          "title": "Introduction to Sustainability Reporting",
+          "units": 4.0,
+          "source_line": "- ACCT 405 Introduction to Sustainability Reporting Units: 4"
+        },
+        {
+          "code": "ACCT 416",
+          "title": "Financial Statement Analysis",
+          "units": 4.0,
+          "source_line": "- ACCT 416 Financial Statement Analysis Units: 4"
+        },
+        {
+          "code": "ACCT 462",
+          "title": "Detecting Fraudulent Financial Reporting",
+          "units": 2.0,
+          "source_line": "- ACCT 462 Detecting Fraudulent Financial Reporting Units: 2"
+        },
+        {
+          "code": "ACCT 470",
+          "title": "Advanced External Financial Reporting Issues",
+          "units": 4.0,
+          "source_line": "- ACCT 470 Advanced External Financial Reporting Issues Units: 4"
+        },
+        {
+          "code": "ACCT 479",
+          "title": "Accounting Systems Development",
+          "units": 4.0,
+          "source_line": "- ACCT 479 Accounting Systems Development Units: 4"
+        },
+        {
+          "code": "ACCT 493",
+          "title": "Leventhal Honors Research Seminar",
+          "units": 2.0,
+          "source_line": "- ACCT 493 Leventhal Honors Research Seminar Units: 2"
+        },
+        {
+          "code": "ACCT 494",
+          "title": "Marshall Honors Research and Thesis",
+          "units": 2.0,
+          "source_line": "- ACCT 494 Marshall Honors Research and Thesis Units: 2"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete at least 8 units of upper-division elective courses from the following:",
+          "source_line": "Complete at least 8 units of upper-division elective courses from the following:",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Complete at least 8 units of upper-division elective courses from the following:",
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

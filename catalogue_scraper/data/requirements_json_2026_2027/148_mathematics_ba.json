@@ -1,0 +1,154 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Mathematics (BA)",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31852",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31852&returnto=9396",
+    "source_text_file": "148_mathematics_ba.txt",
+    "source_content_sha256": "7b87b7a9a7d3bcb77d72817715d1994671a11b1b4c7429b918f63714e0087c9f",
+    "retrieved_at": "2026-07-31T00:55:40Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "The courses must be at least 3 units each, and MATH 450 is excluded."
+    ],
+    "course_entry_count": 15,
+    "distinct_course_codes": 15,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "Pre-major Requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MATH 125g",
+          "title": "Calculus I",
+          "units": 4.0,
+          "source_line": "- MATH 125g Calculus I Units: 4"
+        },
+        {
+          "code": "MATH 126g",
+          "title": "Calculus II  or",
+          "units": 4.0,
+          "source_line": "- MATH 126g Calculus II Units: 4 or"
+        },
+        {
+          "code": "MATH 127",
+          "title": "Enhanced Calculus II  or",
+          "units": 4.0,
+          "source_line": "- MATH 127 Enhanced Calculus II Units: 4 or"
+        },
+        {
+          "code": "MATH 129",
+          "title": "Calculus II for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 129 Calculus II for Engineers and Scientists Units: 4"
+        },
+        {
+          "code": "MATH 225",
+          "title": "Linear Algebra and Linear Differential Equations  or",
+          "units": 4.0,
+          "source_line": "- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or"
+        },
+        {
+          "code": "MATH 235",
+          "title": "Linear Algebra and Applications",
+          "units": 4.0,
+          "source_line": "- MATH 235 Linear Algebra and Applications Units: 4"
+        },
+        {
+          "code": "MATH 226g",
+          "title": "Calculus III  or",
+          "units": 4.0,
+          "source_line": "- MATH 226g Calculus III Units: 4 or"
+        },
+        {
+          "code": "MATH 227",
+          "title": "Enhanced Calculus III  or",
+          "units": 4.0,
+          "source_line": "- MATH 227 Enhanced Calculus III Units: 4 or"
+        },
+        {
+          "code": "MATH 229",
+          "title": "Calculus III for Engineers and Scientists",
+          "units": 4.0,
+          "source_line": "- MATH 229 Calculus III for Engineers and Scientists Units: 4"
+        },
+        {
+          "code": "MATH 290",
+          "title": "Mathematical Reasoning and Problem Solving",
+          "units": 4.0,
+          "source_line": "- MATH 290 Mathematical Reasoning and Problem Solving Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-division Math Requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MATH 410",
+          "title": "Fundamental Concepts of Modern Algebra",
+          "units": 4.0,
+          "source_line": "- MATH 410 Fundamental Concepts of Modern Algebra Units: 4"
+        },
+        {
+          "code": "MATH 425a",
+          "title": "Fundamental Concepts of Analysis",
+          "units": 4.0,
+          "source_line": "- MATH 425a Fundamental Concepts of Analysis Units: 4"
+        },
+        {
+          "code": "MATH 434",
+          "title": "Euclidean and Non-Euclidean Geometries  or",
+          "units": 4.0,
+          "source_line": "- MATH 434 Euclidean and Non-Euclidean Geometries Units: 4 or"
+        },
+        {
+          "code": "MATH 435",
+          "title": "Introduction to Differential Geometry  or",
+          "units": 4.0,
+          "source_line": "- MATH 435 Introduction to Differential Geometry Units: 4 or"
+        },
+        {
+          "code": "MATH 440",
+          "title": "Topology",
+          "units": 4.0,
+          "source_line": "- MATH 440 Topology Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "The following three courses are required with a grade of C or better:",
+          "source_line": "The following three courses are required with a grade of C or better:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Upper-division Math Electives",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Three MATH courses are required at the 400-level or above. The courses must be at least 3 units each, and MATH 450 is excluded. Students contemplating a graduate program in Mathematics should discuss their plans with their academic adviser.",
+          "source_line": "Three MATH courses are required at the 400-level or above. The courses must be at least 3 units each, and MATH 450 is excluded. Students contemplating a graduate program in Mathematics should discuss their plans with their academic adviser."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,338 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Game Development and Interactive Design (BFA)",
+    "credential": "BFA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32782",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32782&returnto=9396",
+    "source_text_file": "115_game_development_and_interactive_design_bfa.txt",
+    "source_content_sha256": "5b8e2fc04ac3a605fb8d98422a8f38c8331dc4c5e6a9257b64144d577b898700",
+    "retrieved_at": "2026-07-31T00:54:29Z"
+  },
+  "totals": {
+    "stated_total_units": 128.0,
+    "stated_total_units_source": "degree requires 128 units",
+    "unit_statements_verbatim": [
+      "The degree requires 128 units, including a minimum of 56 units in the major."
+    ],
+    "course_entry_count": 41,
+    "distinct_course_codes": 41,
+    "section_count": 5
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Fine Arts in Game Development and Interaction Design is a unique four-year program, offered by the School of Cinematic Arts, that combines a liberal arts background with comprehensive specialization in a profession. Students study within a framework learned from the games industry, which combines a broad liberal arts background with industry specific knowledge and project based collaborative work. Undergraduate students take their pre-professional courses in the USC Dornsife College of Letters, Arts and Sciences, including the general education requirements. Major courses are selected from the curriculum of the School of Cinematic Arts. The degree requires 128 units, including a minimum of 56 units in the major.",
+          "source_line": "The Bachelor of Fine Arts in Game Development and Interaction Design is a unique four-year program, offered by the School of Cinematic Arts, that combines a liberal arts background with comprehensive specialization in a profession. Students study within a framework learned from the games industry, which combines a broad liberal arts background with industry specific knowledge and project based collaborative work. Undergraduate students take their pre-professional courses in the USC Dornsife College of Letters, Arts and Sciences, including the general education requirements. Major courses are selected from the curriculum of the School of Cinematic Arts. The degree requires 128 units, including a minimum of 56 units in the major."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Core Requirements",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CNTV 101",
+          "title": "Reality Starts Here",
+          "units": 2.0,
+          "source_line": "- CNTV 101 Reality Starts Here Units: 2"
+        },
+        {
+          "code": "CTCS 150gw",
+          "title": "The Cinematic Arts in Society",
+          "units": 4.0,
+          "source_line": "- CTCS 150gw The Cinematic Arts in Society Units: 4"
+        },
+        {
+          "code": "CTIN 101",
+          "title": "Fundamentals of Procedural Media  Or",
+          "units": 2.0,
+          "source_line": "- CTIN 101 Fundamentals of Procedural Media Units: 2 Or"
+        },
+        {
+          "code": "TAC 165",
+          "title": "Introduction to C++ Programming",
+          "units": 2.0,
+          "source_line": "- TAC 165 Introduction to C++ Programming Units: 2"
+        },
+        {
+          "code": "CTIN 190",
+          "title": "Introduction to Interactive Entertainment",
+          "units": 4.0,
+          "source_line": "- CTIN 190 Introduction to Interactive Entertainment Units: 4"
+        },
+        {
+          "code": "CTIN 289",
+          "title": "Game Development Fundamentals",
+          "units": 4.0,
+          "source_line": "- CTIN 289 Game Development Fundamentals Units: 4"
+        },
+        {
+          "code": "CTIN 290",
+          "title": "Digital Media Workshop",
+          "units": 4.0,
+          "source_line": "- CTIN 290 Digital Media Workshop Units: 4"
+        },
+        {
+          "code": "CTIN 291",
+          "title": "Crew for Advanced Game Project",
+          "units": 2.0,
+          "source_line": "- CTIN 291 Crew for Advanced Game Project Units: 2"
+        },
+        {
+          "code": "CTIN 389",
+          "title": "Game Development Principles",
+          "units": 4.0,
+          "source_line": "- CTIN 389 Game Development Principles Units: 4"
+        },
+        {
+          "code": "CTIN 391",
+          "title": "Fundamentals of User Research and Experience",
+          "units": 2.0,
+          "source_line": "- CTIN 391 Fundamentals of User Research and Experience Units: 2"
+        },
+        {
+          "code": "CTIN 458",
+          "title": "Business and Management of Games",
+          "units": 2.0,
+          "source_line": "- CTIN 458 Business and Management of Games Units: 2"
+        },
+        {
+          "code": "CTIN 488",
+          "title": "Game Design Workshop",
+          "units": 4.0,
+          "source_line": "- CTIN 488 Game Design Workshop Units: 4"
+        },
+        {
+          "code": "CTIN 489L",
+          "title": "Intermediate Game Design and Production",
+          "units": 4.0,
+          "source_line": "- CTIN 489L Intermediate Game Design and Production Units: 4"
+        },
+        {
+          "code": "CTWR 410L",
+          "title": "Character Development and Storytelling for Games",
+          "units": 4.0,
+          "source_line": "- CTWR 410L Character Development and Storytelling for Games Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Professional Electives",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CSCI 426",
+          "title": "Game Prototyping",
+          "units": 4.0,
+          "source_line": "- CSCI 426 Game Prototyping Units: 4"
+        },
+        {
+          "code": "CTAN 452",
+          "title": "Introduction to 3-D Computer Animation",
+          "units": 2.0,
+          "source_line": "- CTAN 452 Introduction to 3-D Computer Animation Units: 2"
+        },
+        {
+          "code": "CTIN 401L",
+          "title": "Interface Design for Games",
+          "units": 2.0,
+          "source_line": "- CTIN 401L Interface Design for Games Units: 2"
+        },
+        {
+          "code": "CTIN 404L",
+          "title": "User Research for Games",
+          "units": 2.0,
+          "source_line": "- CTIN 404L User Research for Games Units: 2"
+        },
+        {
+          "code": "CTIN 406L",
+          "title": "Sound Design for Games",
+          "units": 2.0,
+          "source_line": "- CTIN 406L Sound Design for Games Units: 2"
+        },
+        {
+          "code": "CTIN 409",
+          "title": "Producing Interactive Projects",
+          "units": 2.0,
+          "source_line": "- CTIN 409 Producing Interactive Projects Units: 2"
+        },
+        {
+          "code": "CTIN 411",
+          "title": "Tabletop Game Mechanics Seminar",
+          "units": 2.0,
+          "source_line": "- CTIN 411 Tabletop Game Mechanics Seminar Units: 2"
+        },
+        {
+          "code": "CTIN 412",
+          "title": "Interactive Systems Design",
+          "units": 2.0,
+          "source_line": "- CTIN 412 Interactive Systems Design Units: 2"
+        },
+        {
+          "code": "CTIN 420",
+          "title": "Tabletop Roleplaying Games",
+          "units": 2.0,
+          "source_line": "- CTIN 420 Tabletop Roleplaying Games Units: 2"
+        },
+        {
+          "code": "CTIN 444",
+          "title": "Audio Expression",
+          "units": 2.0,
+          "source_line": "- CTIN 444 Audio Expression Units: 2"
+        },
+        {
+          "code": "CTIN 452L",
+          "title": "Themed Entertainment Design",
+          "units": 4.0,
+          "source_line": "- CTIN 452L Themed Entertainment Design Units: 4"
+        },
+        {
+          "code": "CTIN 478",
+          "title": "Level Design Workshop",
+          "units": 2.0,
+          "source_line": "- CTIN 478 Level Design Workshop Units: 2"
+        },
+        {
+          "code": "CTIN 480",
+          "title": "Directing for Games and Interactive Media",
+          "units": 2.0,
+          "source_line": "- CTIN 480 Directing for Games and Interactive Media Units: 2"
+        },
+        {
+          "code": "CTIN 482",
+          "title": "Designing Social Games",
+          "units": 2.0,
+          "source_line": "- CTIN 482 Designing Social Games Units: 2"
+        },
+        {
+          "code": "CTIN 485",
+          "title": "Advanced Game Development",
+          "units": 2.0,
+          "source_line": "- CTIN 485 Advanced Game Development Units: 2"
+        },
+        {
+          "code": "CTIN 486",
+          "title": "Alternative Control Workshop",
+          "units": 2.0,
+          "source_line": "- CTIN 486 Alternative Control Workshop Units: 2"
+        },
+        {
+          "code": "CTIN 487",
+          "title": "Streaming Explorations: Games and Entertainment for Community",
+          "units": 2.0,
+          "source_line": "- CTIN 487 Streaming Explorations: Games and Entertainment for Community Units: 2"
+        },
+        {
+          "code": "CTIN 497",
+          "title": "Interactive Media Startup",
+          "units": 1.0,
+          "source_line": "- CTIN 497 Interactive Media Startup Units: 1"
+        },
+        {
+          "code": "TAC 215L",
+          "title": "Introduction to 3D Modeling, Animation and Visual Effects",
+          "units": 2.0,
+          "source_line": "- TAC 215L Introduction to 3D Modeling, Animation and Visual Effects Units: 2"
+        },
+        {
+          "code": "TAC 361",
+          "title": "Character Rigging for Games",
+          "units": 4.0,
+          "source_line": "- TAC 361 Character Rigging for Games Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "At least 6 units from the following list:",
+          "source_line": "At least 6 units from the following list:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Theory Requirement",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTCS 478",
+          "title": "Culture, Technology and Communications",
+          "units": 4.0,
+          "source_line": "- CTCS 478 Culture, Technology and Communications Units: 4"
+        },
+        {
+          "code": "CTCS 482",
+          "title": "Transmedia Entertainment",
+          "units": 4.0,
+          "source_line": "- CTCS 482 Transmedia Entertainment Units: 4"
+        },
+        {
+          "code": "CTIN 462",
+          "title": "Video Game Franchises",
+          "units": 4.0,
+          "source_line": "- CTIN 462 Video Game Franchises Units: 4"
+        },
+        {
+          "code": "CTIN 463",
+          "title": "Anatomy of a Game",
+          "units": 4.0,
+          "source_line": "- CTIN 463 Anatomy of a Game Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "At least one of the following courses:",
+          "source_line": "At least one of the following courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Capstone Requirement",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CTIN 459L",
+          "title": "Game Industry Workshop",
+          "units": 4.0,
+          "source_line": "- CTIN 459L Game Industry Workshop Units: 4"
+        },
+        {
+          "code": "CTIN 491L",
+          "title": "Advanced Game Project I",
+          "units": 4.0,
+          "source_line": "- CTIN 491L Advanced Game Project I Units: 4"
+        },
+        {
+          "code": "CTIN 492L",
+          "title": "Experimental Game Topics",
+          "units": 4.0,
+          "source_line": "- CTIN 492L Experimental Game Topics Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "One of the following courses:",
+          "source_line": "One of the following courses:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

@@ -1,0 +1,319 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Fashion Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32829",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32829&returnto=9396",
+    "source_text_file": "303_fashion_minor.txt",
+    "source_content_sha256": "6dc05a80dbe4c616c0d537847fb8c594212fcbe1cc454491403ba4c14373e4ce",
+    "retrieved_at": "2026-07-31T01:02:31Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "## Program Requirements (24 units)\n\n---\n\n## Lower Division Courses\n\n---\n\nComplete at least two courses and a minimum of 8 units.",
+      "- ACAD 217 Extended Reality Design Units: 4\n- ACAD 230 Introduction to Interactive Physical Computing Units: 4\n- ACAD 245 Fundamentals of Product Design Units: 4\n- ART 110 Drawing for Art and Design Units: 4\n- DANC 170 Choreography and Performance Units: 2\n- DES 102 Design Fundamentals Units: 4\n- DES 230 3D Design: Materials and Tools Units: 4\n- THTR 231 Costume Construction Units: 3\n- THTR 233 Historic Costumes for the Theatre Units: 3\n\n## Upper Division Courses\n\n---\n\nComplete a minimum of 16 units."
+    ],
+    "course_entry_count": 36,
+    "distinct_course_codes": 36,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The combined minor in Fashion recontextualizes the idea of fashion in an interdisciplinary and collaborative manner with elective options in fashion studies, wearable production, smart fabrics, costuming, dance and movement, media and culture, business entrepreneurship and marketing.",
+          "source_line": "The combined minor in Fashion recontextualizes the idea of fashion in an interdisciplinary and collaborative manner with elective options in fashion studies, wearable production, smart fabrics, costuming, dance and movement, media and culture, business entrepreneurship and marketing."
+        },
+        {
+          "text": "ACAD courses introduce students to the ideas of extended reality and interactive design with leading-edge technologies using smart fabrics and wearable electronics; IDSN courses further explore areas of the global fashion system via business design, market research and ambient computing.",
+          "source_line": "- ACAD courses introduce students to the ideas of extended reality and interactive design with leading-edge technologies using smart fabrics and wearable electronics; IDSN courses further explore areas of the global fashion system via business design, market research and ambient computing."
+        },
+        {
+          "text": "ART, DES and FDN courses ground students in art and design foundations, allowing advanced focus on fashion design theory, issues of identity and visual representation.",
+          "source_line": "- ART, DES and FDN courses ground students in art and design foundations, allowing advanced focus on fashion design theory, issues of identity and visual representation."
+        },
+        {
+          "text": "BAEP and BUAD courses provide students with tools to create new products, new business ventures and new worlds.",
+          "source_line": "- BAEP and BUAD courses provide students with tools to create new products, new business ventures and new worlds."
+        },
+        {
+          "text": "DANC courses allow students to dive deeper into the relationship between fashion and performance, including points of intersection with choreography, corporeality, identity and theatricality. Grounded in embodied experimentation, students in these courses will be encouraged to experiment with fashion as the critical site at which the body meets world.",
+          "source_line": "- DANC courses allow students to dive deeper into the relationship between fashion and performance, including points of intersection with choreography, corporeality, identity and theatricality. Grounded in embodied experimentation, students in these courses will be encouraged to experiment with fashion as the critical site at which the body meets world."
+        },
+        {
+          "text": "THTR classes teach students to build personal brands using the principles of costuming and the hands-on fabrication methods of a theatrical costume shop that span the worlds of musical theatre, superheroes, sports and fashion influencers, shaping identity and creating characters.",
+          "source_line": "- THTR classes teach students to build personal brands using the principles of costuming and the hands-on fabrication methods of a theatrical costume shop that span the worlds of musical theatre, superheroes, sports and fashion influencers, shaping identity and creating characters."
+        },
+        {
+          "text": "The minor also serves as a gateway to two progressive degree options, Roski’s MFA in Fashion and Iovine and Young Academy’s MS in Fashion Innovation For more information about these options, please consult with the appropriate departmental adviser. The total number of units for the minor is 24.",
+          "source_line": "The minor also serves as a gateway to two progressive degree options, Roski’s MFA in Fashion and Iovine and Young Academy’s MS in Fashion Innovation For more information about these options, please consult with the appropriate departmental adviser. The total number of units for the minor is 24."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Program Requirements (24 units)",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Lower Division Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ACAD 217",
+          "title": "Extended Reality Design",
+          "units": 4.0,
+          "source_line": "- ACAD 217 Extended Reality Design Units: 4"
+        },
+        {
+          "code": "ACAD 230",
+          "title": "Introduction to Interactive Physical Computing",
+          "units": 4.0,
+          "source_line": "- ACAD 230 Introduction to Interactive Physical Computing Units: 4"
+        },
+        {
+          "code": "ACAD 245",
+          "title": "Fundamentals of Product Design",
+          "units": 4.0,
+          "source_line": "- ACAD 245 Fundamentals of Product Design Units: 4"
+        },
+        {
+          "code": "ART 110",
+          "title": "Drawing for Art and Design",
+          "units": 4.0,
+          "source_line": "- ART 110 Drawing for Art and Design Units: 4"
+        },
+        {
+          "code": "DANC 170",
+          "title": "Choreography and Performance",
+          "units": 2.0,
+          "source_line": "- DANC 170 Choreography and Performance Units: 2"
+        },
+        {
+          "code": "DES 102",
+          "title": "Design Fundamentals",
+          "units": 4.0,
+          "source_line": "- DES 102 Design Fundamentals Units: 4"
+        },
+        {
+          "code": "DES 230",
+          "title": "3D Design: Materials and Tools",
+          "units": 4.0,
+          "source_line": "- DES 230 3D Design: Materials and Tools Units: 4"
+        },
+        {
+          "code": "THTR 231",
+          "title": "Costume Construction",
+          "units": 3.0,
+          "source_line": "- THTR 231 Costume Construction Units: 3"
+        },
+        {
+          "code": "THTR 233",
+          "title": "Historic Costumes for the Theatre",
+          "units": 3.0,
+          "source_line": "- THTR 233 Historic Costumes for the Theatre Units: 3"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete at least two courses and a minimum of 8 units.",
+          "source_line": "Complete at least two courses and a minimum of 8 units.",
+          "states_choice_rule": true
+        }
+      ],
+      "choice": "Complete at least two courses and a minimum of 8 units.",
+      "total_units": null
+    },
+    {
+      "title": "Upper Division Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ART 311",
+          "title": "Anatomical Drawing from Life",
+          "units": 2.0,
+          "source_line": "- ART 311 Anatomical Drawing from Life Units: 2"
+        },
+        {
+          "code": "ART 314",
+          "title": "Illustration for Art and Design",
+          "units": 2.0,
+          "source_line": "- ART 314 Illustration for Art and Design Units: 2"
+        },
+        {
+          "code": "BAEP 423",
+          "title": "Management of Small Businesses",
+          "units": 4.0,
+          "source_line": "- BAEP 423 Management of Small Businesses Units: 4"
+        },
+        {
+          "code": "BAEP 450",
+          "title": "Fundamentals of Entrepreneurship  or",
+          "units": 4.0,
+          "source_line": "- BAEP 450 Fundamentals of Entrepreneurship Units: 4 or"
+        },
+        {
+          "code": "BAEP 451",
+          "title": "The Management of New Enterprises",
+          "units": 4.0,
+          "source_line": "- BAEP 451 The Management of New Enterprises Units: 4"
+        },
+        {
+          "code": "BAEP 452",
+          "title": "Feasibility Analysis",
+          "units": 4.0,
+          "source_line": "- BAEP 452 Feasibility Analysis Units: 4"
+        },
+        {
+          "code": "BUAD 307",
+          "title": "Marketing Fundamentals",
+          "units": 4.0,
+          "source_line": "- BUAD 307 Marketing Fundamentals Units: 4"
+        },
+        {
+          "code": "COMM 396g",
+          "title": "Fashion, Media and Culture",
+          "units": 4.0,
+          "source_line": "- COMM 396g Fashion, Media and Culture Units: 4"
+        },
+        {
+          "code": "CRIT 415",
+          "title": "Performance and Art",
+          "units": 4.0,
+          "source_line": "- CRIT 415 Performance and Art Units: 4"
+        },
+        {
+          "code": "CRIT 425",
+          "title": "Identity and Visual Representation",
+          "units": 4.0,
+          "source_line": "- CRIT 425 Identity and Visual Representation Units: 4"
+        },
+        {
+          "code": "DANC 482",
+          "title": "Improvisational Strategies in Movement and Materiality",
+          "units": 4.0,
+          "source_line": "- DANC 482 Improvisational Strategies in Movement and Materiality Units: 4"
+        },
+        {
+          "code": "DES 313",
+          "title": "Graphic Design in Fashion",
+          "units": 4.0,
+          "source_line": "- DES 313 Graphic Design in Fashion Units: 4"
+        },
+        {
+          "code": "DES 323g",
+          "title": "Design Theory",
+          "units": 4.0,
+          "source_line": "- DES 323g Design Theory Units: 4"
+        },
+        {
+          "code": "FDN 405",
+          "title": "Race, Fashion and Pop Culture",
+          "units": 4.0,
+          "source_line": "- FDN 405 Race, Fashion and Pop Culture Units: 4"
+        },
+        {
+          "code": "FDN 430",
+          "title": "Materiality and Construction",
+          "units": 4.0,
+          "source_line": "- FDN 430 Materiality and Construction Units: 4"
+        },
+        {
+          "code": "FDN 433",
+          "title": "International Fashion Study Tour",
+          "units": 2.0,
+          "source_line": "- FDN 433 International Fashion Study Tour Units: 2"
+        },
+        {
+          "code": "IDSN 535",
+          "title": "Ambient Computing for Fashion",
+          "units": 4.0,
+          "source_line": "- IDSN 535 Ambient Computing for Fashion Units: 4"
+        },
+        {
+          "code": "IDSN 537",
+          "title": "Extended Reality for Fashion",
+          "units": 4.0,
+          "source_line": "- IDSN 537 Extended Reality for Fashion Units: 4"
+        },
+        {
+          "code": "IDSN 581",
+          "title": "Introduction to the Global Fashion System",
+          "units": 2.0,
+          "source_line": "- IDSN 581 Introduction to the Global Fashion System Units: 2"
+        },
+        {
+          "code": "IDSN 597",
+          "title": "Industry Practicum in Fashion Innovation",
+          "units": 4.0,
+          "source_line": "- IDSN 597 Industry Practicum in Fashion Innovation Units: 4"
+        },
+        {
+          "code": "THTR 331",
+          "title": "Costume Design I",
+          "units": 4.0,
+          "source_line": "- THTR 331 Costume Design I Units: 4"
+        },
+        {
+          "code": "THTR 418",
+          "title": "Advanced Fashion Construction: Tailoring",
+          "units": 4.0,
+          "source_line": "- THTR 418 Advanced Fashion Construction: Tailoring Units: 4"
+        },
+        {
+          "code": "THTR 433a",
+          "title": "Costume Design II: The Psychology of Fashion",
+          "units": 3.0,
+          "source_line": "- THTR 433a Costume Design II: The Psychology of Fashion Units: 3"
+        },
+        {
+          "code": "THTR 433b",
+          "title": "Costume Design II: The Psychology of Fashion",
+          "units": 3.0,
+          "source_line": "- THTR 433b Costume Design II: The Psychology of Fashion Units: 3"
+        },
+        {
+          "code": "THTR 447",
+          "title": "Fashion Influencing",
+          "units": 4.0,
+          "source_line": "- THTR 447 Fashion Influencing Units: 4"
+        },
+        {
+          "code": "THTR 448L",
+          "title": "History of Fashion and the Costume: A Guide to Glamour",
+          "units": 4.0,
+          "source_line": "- THTR 448L History of Fashion and the Costume: A Guide to Glamour Units: 4"
+        },
+        {
+          "code": "THTR 462",
+          "title": "Sports and Fashion",
+          "units": 4.0,
+          "source_line": "- THTR 462 Sports and Fashion Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Complete a minimum of 16 units.",
+          "source_line": "Complete a minimum of 16 units."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

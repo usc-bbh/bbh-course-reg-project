@@ -1,0 +1,125 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Popular Music Studies Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32249",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32249&returnto=9396",
+    "source_text_file": "424_popular_music_studies_minor.txt",
+    "source_content_sha256": "f2d5f04f356951386d72bae9c2abd634be4ef238b6cf97817f0f33b52d36074a",
+    "retrieved_at": "2026-07-31T01:12:16Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 12,
+    "distinct_course_codes": 12,
+    "section_count": 2
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This minor consists of courses that examine different aspects of popular music. The minor focuses on the study of the repertories and their cultural and social context. Students must be in good academic standing to be admitted. No previous musical experience is required.",
+          "source_line": "This minor consists of courses that examine different aspects of popular music. The minor focuses on the study of the repertories and their cultural and social context. Students must be in good academic standing to be admitted. No previous musical experience is required."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Course Requirements (16 units total)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "MUSC 102gw",
+          "title": "World Music",
+          "units": 4.0,
+          "source_line": "- MUSC 102gw World Music Units: 4"
+        },
+        {
+          "code": "MUSC 200gmw",
+          "title": "The Broadway Musical: Reflections of American Diversity",
+          "units": 4.0,
+          "source_line": "- MUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4"
+        },
+        {
+          "code": "MUSC 210g",
+          "title": "Electronic Music and Dance Culture",
+          "units": 4.0,
+          "source_line": "- MUSC 210g Electronic Music and Dance Culture Units: 4"
+        },
+        {
+          "code": "MUSC 250gmw",
+          "title": "The Music of Black Americans",
+          "units": 4.0,
+          "source_line": "- MUSC 250gmw The Music of Black Americans Units: 4"
+        },
+        {
+          "code": "MUSC 320gmw",
+          "title": "Hip-hop Music and Culture",
+          "units": 4.0,
+          "source_line": "- MUSC 320gmw Hip-hop Music and Culture Units: 4"
+        },
+        {
+          "code": "MUSC 373g",
+          "title": "Writing About Popular Music",
+          "units": 4.0,
+          "source_line": "- MUSC 373g Writing About Popular Music Units: 4"
+        },
+        {
+          "code": "MUSC 422",
+          "title": "The Beatles: Their Music and Their Times",
+          "units": 4.0,
+          "source_line": "- MUSC 422 The Beatles: Their Music and Their Times Units: 4"
+        },
+        {
+          "code": "MUSC 423",
+          "title": "Classic Rock: Popular Music of the Sixties and Seventies",
+          "units": 2.0,
+          "source_line": "- MUSC 423 Classic Rock: Popular Music of the Sixties and Seventies Units: 2"
+        },
+        {
+          "code": "MUSC 424",
+          "title": "Iconic Figures of Popular Music",
+          "units": 2.0,
+          "source_line": "- MUSC 424 Iconic Figures of Popular Music Units: 2"
+        },
+        {
+          "code": "MUSC 444",
+          "title": "American Roots Music: History and Culture",
+          "units": 4.0,
+          "source_line": "- MUSC 444 American Roots Music: History and Culture Units: 4"
+        },
+        {
+          "code": "MUSC 460",
+          "title": "Film Music: History and Function from 1930 to the Present",
+          "units": 4.0,
+          "source_line": "- MUSC 460 Film Music: History and Function from 1930 to the Present Units: 4"
+        },
+        {
+          "code": "MUSC 465",
+          "title": "Music, Television and American Culture",
+          "units": 4.0,
+          "source_line": "- MUSC 465 Music, Television and American Culture Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Choose 16 units from the following:",
+          "source_line": "Choose 16 units from the following:"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

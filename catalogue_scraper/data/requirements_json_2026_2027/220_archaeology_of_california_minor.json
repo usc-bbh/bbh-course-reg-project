@@ -1,0 +1,87 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Archaeology of California Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32492",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32492&returnto=9396",
+    "source_text_file": "220_archaeology_of_california_minor.txt",
+    "source_content_sha256": "6d4e588bc5c5f042587fb36e3d66ff11e7f6a647b6015c03c3ba48813deed3ca",
+    "retrieved_at": "2026-07-31T00:59:26Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 5,
+    "distinct_course_codes": 5,
+    "section_count": 3
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Students gain diverse, long-term perspectives on Los Angeles, California state, the west, and the USA by joining in the discovery and study of the material traces of past human activity during an archaeological excavation and/or survey on USC’s campus and/or elsewhere in California. The minor in Archaeology of California is available to students in all schools and departments. Students complete this minor through the archaeology block semester program.",
+          "source_line": "Students gain diverse, long-term perspectives on Los Angeles, California state, the west, and the USA by joining in the discovery and study of the material traces of past human activity during an archaeological excavation and/or survey on USC’s campus and/or elsewhere in California. The minor in Archaeology of California is available to students in all schools and departments. Students complete this minor through the archaeology block semester program."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "In a single semester, complete these three courses:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ANTH 307",
+          "title": "Trojan Archaeology",
+          "units": 4.0,
+          "source_line": "- ANTH 307 Trojan Archaeology Units: 4"
+        },
+        {
+          "code": "REL 304",
+          "title": "Ethics and Global Heritage",
+          "units": 4.0,
+          "source_line": "- REL 304 Ethics and Global Heritage Units: 4"
+        },
+        {
+          "code": "REL 494L",
+          "title": "Lab Methods and Theories in Archaeology , 4",
+          "units": 2.0,
+          "source_line": "- REL 494L Lab Methods and Theories in Archaeology Units: 2, 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "and complete one of these courses:",
+      "level": 2,
+      "courses": [
+        {
+          "code": "ANTH 377g",
+          "title": "Archaeological Interpretation of Complex Societies",
+          "units": 4.0,
+          "source_line": "- ANTH 377g Archaeological Interpretation of Complex Societies Units: 4"
+        },
+        {
+          "code": "CLAS 465",
+          "title": "Archaeology and Society",
+          "units": 4.0,
+          "source_line": "- CLAS 465 Archaeology and Society Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

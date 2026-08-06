@@ -1,0 +1,45 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Judaic Studies Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31839",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31839&returnto=9396",
+    "source_text_file": "353_judaic_studies_minor.txt",
+    "source_content_sha256": "bd423004ba365f15110806d965b3433ae1c3b5ded14607b01654ec3c9e485252",
+    "retrieved_at": "2026-07-31T01:07:46Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "For the minor, 20 units in Judaic Studies and Religion are required."
+    ],
+    "course_entry_count": 0,
+    "distinct_course_codes": 0,
+    "section_count": 1
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in Judaic Studies provides the opportunity for in-depth study of Jewish history, literature, politics, culture, religion, sociology and gender studies using approaches developed through multidisciplinary approaches. Courses offered cover a broad time span — the ancient Near East to contemporary America — and they challenge and stimulate students to examine and learn about Jewish culture as a topic of scientific interest.",
+          "source_line": "The minor in Judaic Studies provides the opportunity for in-depth study of Jewish history, literature, politics, culture, religion, sociology and gender studies using approaches developed through multidisciplinary approaches. Courses offered cover a broad time span — the ancient Near East to contemporary America — and they challenge and stimulate students to examine and learn about Jewish culture as a topic of scientific interest."
+        },
+        {
+          "text": "For the minor, 20 units in Judaic Studies and Religion are required. The following courses are required: REL 301 and JS 180 . Three additional courses may be chosen from among JS 321 , JS 340 , JS 361 , JS 375 , JS 382 , JS 383 , JS 415 and REL 312 . Successful completion of five 4-unit courses or the equivalent in Jewish American Studies is required to qualify for the minor.",
+          "source_line": "For the minor, 20 units in Judaic Studies and Religion are required. The following courses are required: REL 301 and JS 180 . Three additional courses may be chosen from among JS 321 , JS 340 , JS 361 , JS 375 , JS 382 , JS 383 , JS 415 and REL 312 . Successful completion of five 4-unit courses or the equivalent in Jewish American Studies is required to qualify for the minor."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

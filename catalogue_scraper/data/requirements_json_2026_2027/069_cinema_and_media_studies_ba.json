@@ -1,0 +1,401 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Cinema and Media Studies (BA)*",
+    "credential": "BA",
+    "kind": "degree",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32404",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32404&returnto=9396",
+    "source_text_file": "069_cinema_and_media_studies_ba.txt",
+    "source_content_sha256": "90b46976d612c5680072e6afd4e56913992ff43fd3c4726d33c1aa8a88c61ee7",
+    "retrieved_at": "2026-07-31T00:51:36Z"
+  },
+  "totals": {
+    "stated_total_units": 128.0,
+    "stated_total_units_source": "degree requires 128 units",
+    "unit_statements_verbatim": [
+      "The degree requires 128 units, including 32 lower-division and 24 upper-division units in cinematic arts.",
+      "#### Six units from the following:\n\n---\n\n- CTPR 290 Cinematic Communication Units: 4, 6\n- IML 230 Introduction to Visual Design Units: 4\n- IML 288 Introduction to Creative Coding Units: 4\n- IML 300 Introduction to Creative Web Programming Units: 4\n- IML 328 Introduction to Sound Units: 2\n- IML 335 Introduction to Video Units: 2\n- IML 354 Introduction to 3-D Modeling Units: 2\n\n### One course from the following:\n\n---\n\n- CTCS 392 History of American Cinema to 1960 Units: 4\n- CTCS 394 History of American Cinema since 1960 Units: 4\n\n### Four courses from the following:\n\n---\n\n- CTCS 367 Global Media Units: 4\n- CTCS 393 Topics in Historical Cinema and Media Units: 4\n- CTCS 395 Topics in Contemporary Cinema and Media Units: 4\n- CTCS 400 Documentary Film and Media Units: 4\n- CTCS 402 Practicum in Film/Television Criticism Units: 4\n- CTCS 403 Studies in National and Regional Media Units: 4\n- CTCS 404 Television and Cultural Criticism Units: 4\n- CTCS 406 History of American Television Units: 4\n- CTCS 407 African American Cinema Units: 4\n- CTCS 409 Censorship in Cinema Units: 4\n- CTCS 411 Film, Television and Cultural Studies Units: 4\n- CTCS 412 Gender, Sexuality and Media Units: 4\n- CTCS 413 Studies in Refugee, Migrant and Diasporic Media Units: 4\n- CTCS 414 Latina/o Screen Cultures Units: 4\n- CTCS 417 African American Television Units: 4\n- CTCS 464 Film and/or Television Genres Units: 4\n- CTCS 468 Media Industry Studies Units: 4\n- CTCS 469 Film and/or Television Style Analysis Units: 4\n- CTCS 473 Topics in Cinema and Media Theory Units: 4\n- CTCS 478 Culture, Technology and Communications Units: 4\n- CTCS 482 Transmedia Entertainment Units: 4\n- CTCS 494 Advanced Cinema and Media Studies Seminar Units: 4\n- CTCS 495 Honors Seminar Units: 4 [*]\n- *Honors students only.",
+      "Admission to the honors track is made after students reach junior standing (at least 64 units completed) and requires a 3."
+    ],
+    "course_entry_count": 40,
+    "distinct_course_codes": 40,
+    "section_count": 11
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The Bachelor of Arts degree in Cinema and Media Studies is granted by the USC Dornsife College of Letters, Arts and Sciences in conjunction with the School of Cinematic Arts. Undergraduate students take their preprofessional courses in the USC Dornsife College of Letters, Arts and Sciences, including the general education requirements. Major courses are selected from the curriculum of the School of Cinematic Arts. The degree requires 128 units, including 32 lower-division and 24 upper-division units in cinematic arts. A maximum of 40 School of Cinematic Arts upper-division units will apply to the BA degree. Before graduating, cinema and media studies majors are encouraged to take at least one small non-lecture class that emphasizes student critical writing or research papers. This category may include (but is not limited to): CTCS 402 , CTCS 411 , CTCS 412 , CTCS 414 , sections of CTCS 464 or CTCS 469 that require a D clearance, CTCS 494 , and CTCS 495 .",
+          "source_line": "The Bachelor of Arts degree in Cinema and Media Studies is granted by the USC Dornsife College of Letters, Arts and Sciences in conjunction with the School of Cinematic Arts. Undergraduate students take their preprofessional courses in the USC Dornsife College of Letters, Arts and Sciences, including the general education requirements. Major courses are selected from the curriculum of the School of Cinematic Arts. The degree requires 128 units, including 32 lower-division and 24 upper-division units in cinematic arts. A maximum of 40 School of Cinematic Arts upper-division units will apply to the BA degree. Before graduating, cinema and media studies majors are encouraged to take at least one small non-lecture class that emphasizes student critical writing or research papers. This category may include (but is not limited to): CTCS 402 , CTCS 411 , CTCS 412 , CTCS 414 , sections of CTCS 464 or CTCS 469 that require a D clearance, CTCS 494 , and CTCS 495 ."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "CNTV 101",
+          "title": "Reality Starts Here",
+          "units": 2.0,
+          "source_line": "- CNTV 101 Reality Starts Here Units: 2"
+        },
+        {
+          "code": "CTCS 150gw",
+          "title": "The Cinematic Arts in Society",
+          "units": 4.0,
+          "source_line": "- CTCS 150gw The Cinematic Arts in Society Units: 4"
+        },
+        {
+          "code": "CTCS 190g",
+          "title": "Introduction to Cinema",
+          "units": 4.0,
+          "source_line": "- CTCS 190g Introduction to Cinema Units: 4"
+        },
+        {
+          "code": "CTCS 191",
+          "title": "Introduction to Television and Video",
+          "units": 4.0,
+          "source_line": "- CTCS 191 Introduction to Television and Video Units: 4"
+        },
+        {
+          "code": "CTCS 192mg",
+          "title": "Race, Class, and Gender in American Film",
+          "units": 4.0,
+          "source_line": "- CTCS 192mg Race, Class, and Gender in American Film Units: 4"
+        },
+        {
+          "code": "CTCS 200g",
+          "title": "History of the International Cinema I",
+          "units": 4.0,
+          "source_line": "- CTCS 200g History of the International Cinema I Units: 4"
+        },
+        {
+          "code": "CTCS 201",
+          "title": "History of the International Cinema II",
+          "units": 4.0,
+          "source_line": "- CTCS 201 History of the International Cinema II Units: 4"
+        },
+        {
+          "code": "CTCS 300",
+          "title": "Introduction to Theories of Cinema and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 300 Introduction to Theories of Cinema and Media Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Production Requirement",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Undergraduates admitted to the Cinema and Media Studies Program are required to take six units of practice-based coursework in another SCA division. These courses provide a basic primer in media production work and are considered essential for students of Cinema and Media Studies, so they have a working knowledge of techniques and methods. The most common option for this is CTPR 290 Cinematic Communication, the core introductory class for the Film and Television Production program.",
+          "source_line": "Undergraduates admitted to the Cinema and Media Studies Program are required to take six units of practice-based coursework in another SCA division. These courses provide a basic primer in media production work and are considered essential for students of Cinema and Media Studies, so they have a working knowledge of techniques and methods. The most common option for this is CTPR 290 Cinematic Communication, the core introductory class for the Film and Television Production program."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Six units from the following:",
+      "level": 4,
+      "courses": [
+        {
+          "code": "CTPR 290",
+          "title": "Cinematic Communication , 6",
+          "units": 4.0,
+          "source_line": "- CTPR 290 Cinematic Communication Units: 4, 6"
+        },
+        {
+          "code": "IML 230",
+          "title": "Introduction to Visual Design",
+          "units": 4.0,
+          "source_line": "- IML 230 Introduction to Visual Design Units: 4"
+        },
+        {
+          "code": "IML 288",
+          "title": "Introduction to Creative Coding",
+          "units": 4.0,
+          "source_line": "- IML 288 Introduction to Creative Coding Units: 4"
+        },
+        {
+          "code": "IML 300",
+          "title": "Introduction to Creative Web Programming",
+          "units": 4.0,
+          "source_line": "- IML 300 Introduction to Creative Web Programming Units: 4"
+        },
+        {
+          "code": "IML 328",
+          "title": "Introduction to Sound",
+          "units": 2.0,
+          "source_line": "- IML 328 Introduction to Sound Units: 2"
+        },
+        {
+          "code": "IML 335",
+          "title": "Introduction to Video",
+          "units": 2.0,
+          "source_line": "- IML 335 Introduction to Video Units: 2"
+        },
+        {
+          "code": "IML 354",
+          "title": "Introduction to 3-D Modeling",
+          "units": 2.0,
+          "source_line": "- IML 354 Introduction to 3-D Modeling Units: 2"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One course from the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTCS 392",
+          "title": "History of American Cinema to 1960",
+          "units": 4.0,
+          "source_line": "- CTCS 392 History of American Cinema to 1960 Units: 4"
+        },
+        {
+          "code": "CTCS 394",
+          "title": "History of American Cinema since 1960",
+          "units": 4.0,
+          "source_line": "- CTCS 394 History of American Cinema since 1960 Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Four courses from the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "CTCS 367",
+          "title": "Global Media",
+          "units": 4.0,
+          "source_line": "- CTCS 367 Global Media Units: 4"
+        },
+        {
+          "code": "CTCS 393",
+          "title": "Topics in Historical Cinema and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 393 Topics in Historical Cinema and Media Units: 4"
+        },
+        {
+          "code": "CTCS 395",
+          "title": "Topics in Contemporary Cinema and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 395 Topics in Contemporary Cinema and Media Units: 4"
+        },
+        {
+          "code": "CTCS 400",
+          "title": "Documentary Film and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 400 Documentary Film and Media Units: 4"
+        },
+        {
+          "code": "CTCS 402",
+          "title": "Practicum in Film/Television Criticism",
+          "units": 4.0,
+          "source_line": "- CTCS 402 Practicum in Film/Television Criticism Units: 4"
+        },
+        {
+          "code": "CTCS 403",
+          "title": "Studies in National and Regional Media",
+          "units": 4.0,
+          "source_line": "- CTCS 403 Studies in National and Regional Media Units: 4"
+        },
+        {
+          "code": "CTCS 404",
+          "title": "Television and Cultural Criticism",
+          "units": 4.0,
+          "source_line": "- CTCS 404 Television and Cultural Criticism Units: 4"
+        },
+        {
+          "code": "CTCS 406",
+          "title": "History of American Television",
+          "units": 4.0,
+          "source_line": "- CTCS 406 History of American Television Units: 4"
+        },
+        {
+          "code": "CTCS 407",
+          "title": "African American Cinema",
+          "units": 4.0,
+          "source_line": "- CTCS 407 African American Cinema Units: 4"
+        },
+        {
+          "code": "CTCS 409",
+          "title": "Censorship in Cinema",
+          "units": 4.0,
+          "source_line": "- CTCS 409 Censorship in Cinema Units: 4"
+        },
+        {
+          "code": "CTCS 411",
+          "title": "Film, Television and Cultural Studies",
+          "units": 4.0,
+          "source_line": "- CTCS 411 Film, Television and Cultural Studies Units: 4"
+        },
+        {
+          "code": "CTCS 412",
+          "title": "Gender, Sexuality and Media",
+          "units": 4.0,
+          "source_line": "- CTCS 412 Gender, Sexuality and Media Units: 4"
+        },
+        {
+          "code": "CTCS 413",
+          "title": "Studies in Refugee, Migrant and Diasporic Media",
+          "units": 4.0,
+          "source_line": "- CTCS 413 Studies in Refugee, Migrant and Diasporic Media Units: 4"
+        },
+        {
+          "code": "CTCS 414",
+          "title": "Latina/o Screen Cultures",
+          "units": 4.0,
+          "source_line": "- CTCS 414 Latina/o Screen Cultures Units: 4"
+        },
+        {
+          "code": "CTCS 417",
+          "title": "African American Television",
+          "units": 4.0,
+          "source_line": "- CTCS 417 African American Television Units: 4"
+        },
+        {
+          "code": "CTCS 464",
+          "title": "Film and/or Television Genres",
+          "units": 4.0,
+          "source_line": "- CTCS 464 Film and/or Television Genres Units: 4"
+        },
+        {
+          "code": "CTCS 468",
+          "title": "Media Industry Studies",
+          "units": 4.0,
+          "source_line": "- CTCS 468 Media Industry Studies Units: 4"
+        },
+        {
+          "code": "CTCS 469",
+          "title": "Film and/or Television Style Analysis",
+          "units": 4.0,
+          "source_line": "- CTCS 469 Film and/or Television Style Analysis Units: 4"
+        },
+        {
+          "code": "CTCS 473",
+          "title": "Topics in Cinema and Media Theory",
+          "units": 4.0,
+          "source_line": "- CTCS 473 Topics in Cinema and Media Theory Units: 4"
+        },
+        {
+          "code": "CTCS 478",
+          "title": "Culture, Technology and Communications",
+          "units": 4.0,
+          "source_line": "- CTCS 478 Culture, Technology and Communications Units: 4"
+        },
+        {
+          "code": "CTCS 482",
+          "title": "Transmedia Entertainment",
+          "units": 4.0,
+          "source_line": "- CTCS 482 Transmedia Entertainment Units: 4"
+        },
+        {
+          "code": "CTCS 494",
+          "title": "Advanced Cinema and Media Studies Seminar",
+          "units": 4.0,
+          "source_line": "- CTCS 494 Advanced Cinema and Media Studies Seminar Units: 4"
+        },
+        {
+          "code": "CTCS 495",
+          "title": "Honors Seminar  [*]",
+          "units": 4.0,
+          "source_line": "- CTCS 495 Honors Seminar Units: 4 [*]"
+        }
+      ],
+      "notes": [
+        {
+          "text": "*Honors students only.",
+          "source_line": "- *Honors students only."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Additional Requirements",
+      "level": 2,
+      "courses": [],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Grade Point Average Requirements",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "A minimum grade of C (2.0) must be earned in all required and prerequisite courses. A grade of C- (1.7) or lower will not satisfy a major requirement.",
+          "source_line": "A minimum grade of C (2.0) must be earned in all required and prerequisite courses. A grade of C- (1.7) or lower will not satisfy a major requirement."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Honors Program",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Cinema and Media Studies offers an honors track for advanced students. Admission to the honors track is made after students reach junior standing (at least 64 units completed) and requires a 3.5 overall GPA. Completion of the honors track is dependent upon successful completion of two 400-level CTCS courses for honors credit. Any 400-level courses with no more than 30 students may qualify for honors credit with the consent of the faculty member. In honors courses, students will work with faculty in a smaller class environment and produce an advanced term paper based on original research and analysis. To petition to be admitted into the honors program, please contact the Cinema and Media Studies front desk at mediastudies@cinema.usc.edu.",
+          "source_line": "Cinema and Media Studies offers an honors track for advanced students. Admission to the honors track is made after students reach junior standing (at least 64 units completed) and requires a 3.5 overall GPA. Completion of the honors track is dependent upon successful completion of two 400-level CTCS courses for honors credit. Any 400-level courses with no more than 30 students may qualify for honors credit with the consent of the faculty member. In honors courses, students will work with faculty in a smaller class environment and produce an advanced term paper based on original research and analysis. To petition to be admitted into the honors program, please contact the Cinema and Media Studies front desk at mediastudies@cinema.usc.edu."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Limitations on Enrollment",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "No more than 40 upper-division units can be taken within the major without prior approval of the Dean, USC Dornsife College of Letters, Arts and Sciences.",
+          "source_line": "No more than 40 upper-division units can be taken within the major without prior approval of the Dean, USC Dornsife College of Letters, Arts and Sciences."
+        },
+        {
+          "text": "Registration in graduate level courses (numbered 500) for undergraduate credit requires prior approval from the School of Cinematic Arts.",
+          "source_line": "Registration in graduate level courses (numbered 500) for undergraduate credit requires prior approval from the School of Cinematic Arts."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Curriculum Review",
+      "level": 3,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Cinematic arts majors are expected to meet with an academic adviser every semester to review their progress. Contact the Cinematic Arts Student Services Office, SCB 105, (213) 740-8358, for an appointment.",
+          "source_line": "Cinematic arts majors are expected to meet with an academic adviser every semester to review their progress. Contact the Cinematic Arts Student Services Office, SCB 105, (213) 740-8358, for an appointment."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

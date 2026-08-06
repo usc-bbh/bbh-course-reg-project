@@ -3,6 +3,7 @@
 
 Usage: report_failed_pages.py COLLECTION_DIR AUDIT_CSV OUT_MD
 """
+
 from __future__ import annotations
 
 import csv
@@ -43,25 +44,33 @@ def main() -> int:
     A("## 1. Extractions refused by the new validation gate")
     A("")
     A(f"- **Still outstanding (no file written): {len({r['program_name'] for r in outstanding})}**")
-    A(f"- Refused on an earlier attempt, then written successfully on retry: "
-      f"{len({r['program_name'] for r in resolved})}")
+    A(
+        f"- Refused on an earlier attempt, then written successfully on retry: "
+        f"{len({r['program_name'] for r in resolved})}"
+    )
     A("")
     if outstanding:
-        A("A refusal means the scraper detected that what it extracted was not a "
-          "trustworthy programme body. Previously such content was saved silently as "
-          "`complete`; now nothing is written and the programme is reported here.")
+        A(
+            "A refusal means the scraper detected that what it extracted was not a "
+            "trustworthy programme body. Previously such content was saved silently as "
+            "`complete`; now nothing is written and the programme is reported here."
+        )
         A("")
         A("| programme | error | reason |")
         A("|---|---|---|")
         for r in outstanding:
-            A(f"| {r['program_name']} | `{r['error_type']}` | "
-              f"{r['error_message'][:150].replace('|', '¦')} |")
+            A(
+                f"| {r['program_name']} | `{r['error_type']}` | "
+                f"{r['error_message'][:150].replace('|', '¦')} |"
+            )
     else:
         A("**Nothing outstanding.** Every discovered programme has a validated file.")
     A("")
     if resolved:
-        A("<details><summary>Refusals resolved on retry (validator refinements during "
-          "the corrected run)</summary>")
+        A(
+            "<details><summary>Refusals resolved on retry (validator refinements during "
+            "the corrected run)</summary>"
+        )
         A("")
         A("| programme | first-attempt reason |")
         A("|---|---|")
@@ -72,9 +81,11 @@ def main() -> int:
             seen.add(r["program_name"])
             A(f"| {r['program_name']} | {r['error_message'][:110].replace('|', '¦')} |")
         A("")
-        A("Each was investigated against its live source page and found to be a "
-          "legitimately short or prose-only programme; the validator was corrected "
-          "accordingly and the page re-extracted. See ENGINEERING_REPORT.md §8.")
+        A(
+            "Each was investigated against its live source page and found to be a "
+            "legitimately short or prose-only programme; the validator was corrected "
+            "accordingly and the page re-extracted. See ENGINEERING_REPORT.md §8."
+        )
         A("</details>")
     A("")
 
@@ -86,10 +97,19 @@ def main() -> int:
         A("")
         A("| field | value |")
         A("|---|---|")
-        for k in ("run_id", "run_started_at", "run_completed_at", "catalogue_year",
-                  "discovered_in_boundary", "included_count", "excluded_count",
-                  "manual_review_count", "duplicate_count", "successful_count",
-                  "failed_count"):
+        for k in (
+            "run_id",
+            "run_started_at",
+            "run_completed_at",
+            "catalogue_year",
+            "discovered_in_boundary",
+            "included_count",
+            "excluded_count",
+            "manual_review_count",
+            "duplicate_count",
+            "successful_count",
+            "failed_count",
+        ):
             if k in m:
                 A(f"| {k} | {m[k]} |")
         files = len(list((coll / "programs").glob("*.txt")))
@@ -108,15 +128,19 @@ def main() -> int:
         rows = list(csv.DictReader(mr.open(encoding="utf-8")))
         A(f"## 3. Classifier manual-review list ({len(rows)} links)")
         A("")
-        A("Unchanged behaviour: links whose title carries no recognizable credential are "
-          "never silently dropped. They are neither included nor excluded — a human decides.")
+        A(
+            "Unchanged behaviour: links whose title carries no recognizable credential are "
+            "never silently dropped. They are neither included nor excluded — a human decides."
+        )
         A("")
         if rows:
             A("| title | reason |")
             A("|---|---|")
             for r in rows[:60]:
-                A(f"| {r.get('program_name', '')} | "
-                  f"{(r.get('recommended_action') or r.get('reason', ''))[:110]} |")
+                A(
+                    f"| {r.get('program_name', '')} | "
+                    f"{(r.get('recommended_action') or r.get('reason', ''))[:110]} |"
+                )
             if len(rows) > 60:
                 A(f"| … | _{len(rows) - 60} more in `manual_review.csv`_ |")
         A("")
@@ -147,10 +171,12 @@ def main() -> int:
             for r in rev[:80]:
                 A(f"| {r['file_name']} | {r['char_count']} | {r['failure_reasons'][:110]} |")
             A("")
-            A("The dominant reason is `exact_duplicate_body`: USC genuinely publishes "
-              "identical requirement text for some paired programmes (e.g. a BA and BS "
-              "sharing one requirement set). Verified by comparing source URLs — the pairs "
-              "are distinct programmes with distinct poids.")
+            A(
+                "The dominant reason is `exact_duplicate_body`: USC genuinely publishes "
+                "identical requirement text for some paired programmes (e.g. a BA and BS "
+                "sharing one requirement set). Verified by comparing source URLs — the pairs "
+                "are distinct programmes with distinct poids."
+            )
     out_md.write_text("\n".join(L) + "\n", encoding="utf-8")
     print("\n".join(L[:50]))
     print(f"\nwrote {out_md}")

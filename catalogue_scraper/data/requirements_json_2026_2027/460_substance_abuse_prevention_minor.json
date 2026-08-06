@@ -1,0 +1,118 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Substance Abuse Prevention Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=32218",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32218&returnto=9396",
+    "source_text_file": "460_substance_abuse_prevention_minor.txt",
+    "source_content_sha256": "e56a760e620ba9842b5344e0658e2bd2f8be984b46ffb9efeda8a9a264ae5d4a",
+    "retrieved_at": "2026-07-31T01:14:00Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [],
+    "course_entry_count": 8,
+    "distinct_course_codes": 8,
+    "section_count": 4
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "This minor offers students an opportunity to gain an overall understanding of substance abuse as a major modifiable risk factor for illness. It allows students to learn theories of behavior change, to understand the issues in prevention and cessation of drug abuse, and to develop, implement, and evaluate intervention strategies. It complements a number of majors including psychology, sociology, American studies and ethnicity, biological science and gerontology.",
+          "source_line": "This minor offers students an opportunity to gain an overall understanding of substance abuse as a major modifiable risk factor for illness. It allows students to learn theories of behavior change, to understand the issues in prevention and cessation of drug abuse, and to develop, implement, and evaluate intervention strategies. It complements a number of majors including psychology, sociology, American studies and ethnicity, biological science and gerontology."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses (24 Units*)",
+      "level": 2,
+      "courses": [
+        {
+          "code": "HP 200",
+          "title": "Introduction to Health Promotion and Disease Prevention",
+          "units": 4.0,
+          "source_line": "- HP 200 Introduction to Health Promotion and Disease Prevention Units: 4"
+        },
+        {
+          "code": "HP 300",
+          "title": "Principles of Human Behavior  [*]",
+          "units": 4.0,
+          "source_line": "- HP 300 Principles of Human Behavior Units: 4 [*]"
+        },
+        {
+          "code": "HP 410",
+          "title": "Issues in Prevention and Cessation of Drug Abuse",
+          "units": 4.0,
+          "source_line": "- HP 410 Issues in Prevention and Cessation of Drug Abuse Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Two of the following:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "HP 365gmw",
+          "title": "Culture, Lifestyle, and Health",
+          "units": 4.0,
+          "source_line": "- HP 365gmw Culture, Lifestyle, and Health Units: 4"
+        },
+        {
+          "code": "HP 370g",
+          "title": "Introduction to Epidemiology: Methods and Applications",
+          "units": 4.0,
+          "source_line": "- HP 370g Introduction to Epidemiology: Methods and Applications Units: 4"
+        },
+        {
+          "code": "HP 401",
+          "title": "Cultural Competence in Medicine",
+          "units": 4.0,
+          "source_line": "- HP 401 Cultural Competence in Medicine Units: 4"
+        },
+        {
+          "code": "HP 402",
+          "title": "Maternal and Child Health",
+          "units": 4.0,
+          "source_line": "- HP 402 Maternal and Child Health Units: 4"
+        },
+        {
+          "code": "HP 421",
+          "title": "Violence as a Public Health Issue",
+          "units": 4.0,
+          "source_line": "- HP 421 Violence as a Public Health Issue Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "[*]Including prerequisite",
+          "source_line": "[*]Including prerequisite"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}

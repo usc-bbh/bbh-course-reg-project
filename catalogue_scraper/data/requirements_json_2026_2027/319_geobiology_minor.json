@@ -1,0 +1,233 @@
+{
+  "_schema_version": "1.0",
+  "programme": {
+    "name": "Geobiology Minor",
+    "credential": null,
+    "kind": "minor",
+    "catalogue_year": "2026-2027",
+    "catalogue_identifier": "catoid=22",
+    "program_identifier": "poid=31761",
+    "source_url": "https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31761&returnto=9396",
+    "source_text_file": "319_geobiology_minor.txt",
+    "source_content_sha256": "34c1e430207d9d19518f1d678830802dd356725220428ad395e0a833fe3d884b",
+    "retrieved_at": "2026-07-31T01:06:30Z"
+  },
+  "totals": {
+    "stated_total_units": null,
+    "stated_total_units_source": null,
+    "unit_statements_verbatim": [
+      "Students with majors offered by biological or earth or geological sciences will be able to complete this minor with 16 to 24 units of course work beyond their major requirements.",
+      "Other students may need to complete up to 48 units of course work beyond their major requirements.",
+      "Courses selected must include at least 16 units unique to the minor and at least 16 units in a department outside the major."
+    ],
+    "course_entry_count": 22,
+    "distinct_course_codes": 20,
+    "section_count": 6
+  },
+  "sections": [
+    {
+      "title": "(preamble)",
+      "level": 0,
+      "courses": [],
+      "notes": [
+        {
+          "text": "The minor in geobiology is designed to allow students majoring in biology to incorporate interdisciplinary courses in earth sciences into their program or to allow students majoring in geology to incorporate interdisciplinary courses in biology into their program. This field represents the intersection of what have been traditional disciplines and is valuable for understanding evolution, environmental contaminant behavior and ocean sciences. Students with majors offered by biological or earth or geological sciences will be able to complete this minor with 16 to 24 units of course work beyond their major requirements. Other students may need to complete up to 48 units of course work beyond their major requirements. For example, students majoring in biological sciences might take an introductory GEOL course; GEOL 315L ; GEOL 433L or BISC 483 ; and two additional upper-division elective courses from the list below. Students majoring in earth or geological sciences must take BISC 120Lg and BISC 220Lg ; GEOL 433L or BISC 483 ; and three additional elective courses. Courses selected must include at least 16 units unique to the minor and at least 16 units in a department outside the major.",
+          "source_line": "The minor in geobiology is designed to allow students majoring in biology to incorporate interdisciplinary courses in earth sciences into their program or to allow students majoring in geology to incorporate interdisciplinary courses in biology into their program. This field represents the intersection of what have been traditional disciplines and is valuable for understanding evolution, environmental contaminant behavior and ocean sciences. Students with majors offered by biological or earth or geological sciences will be able to complete this minor with 16 to 24 units of course work beyond their major requirements. Other students may need to complete up to 48 units of course work beyond their major requirements. For example, students majoring in biological sciences might take an introductory GEOL course; GEOL 315L ; GEOL 433L or BISC 483 ; and two additional upper-division elective courses from the list below. Students majoring in earth or geological sciences must take BISC 120Lg and BISC 220Lg ; GEOL 433L or BISC 483 ; and three additional elective courses. Courses selected must include at least 16 units unique to the minor and at least 16 units in a department outside the major."
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Required Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 120Lg",
+          "title": "General Biology: Organismal Biology and Evolution",
+          "units": 4.0,
+          "source_line": "- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4"
+        },
+        {
+          "code": "BISC 220Lg",
+          "title": "General Biology: Cell Biology and Physiology",
+          "units": 4.0,
+          "source_line": "- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4"
+        },
+        {
+          "code": "CHEM 105aLg",
+          "title": "General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 105aLg General Chemistry Units: 4"
+        },
+        {
+          "code": "CHEM 105bL",
+          "title": "General Chemistry",
+          "units": 4.0,
+          "source_line": "- CHEM 105bL General Chemistry Units: 4"
+        },
+        {
+          "code": "GEOL 315L",
+          "title": "Minerals and Earth Systems",
+          "units": 4.0,
+          "source_line": "- GEOL 315L Minerals and Earth Systems Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Elective Courses",
+      "level": 2,
+      "courses": [
+        {
+          "code": "BISC 483",
+          "title": "Geobiology and Astrobiology  * or",
+          "units": 4.0,
+          "source_line": "- BISC 483 Geobiology and Astrobiology Units: 4 * or"
+        },
+        {
+          "code": "GEOL 433L",
+          "title": "Paleontology and Evolution in Deep Time",
+          "units": 4.0,
+          "source_line": "- GEOL 433L Paleontology and Evolution in Deep Time Units: 4"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Three upper-division BISC courses ** Units: 12",
+          "source_line": "- Three upper-division BISC courses ** Units: 12"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "One introductory GEOL course:",
+      "level": 3,
+      "courses": [
+        {
+          "code": "GEOL 105Lg",
+          "title": "Planet Earth",
+          "units": 4.0,
+          "source_line": "- GEOL 105Lg Planet Earth Units: 4"
+        },
+        {
+          "code": "GEOL 107Lg",
+          "title": "Oceanography",
+          "units": 4.0,
+          "source_line": "- GEOL 107Lg Oceanography Units: 4"
+        },
+        {
+          "code": "GEOL 108Lg",
+          "title": "Natural Disasters and Their Global Impact",
+          "units": 4.0,
+          "source_line": "- GEOL 108Lg Natural Disasters and Their Global Impact Units: 4"
+        },
+        {
+          "code": "GEOL 125Lg",
+          "title": "Earth History: A Planet and Its Evolution",
+          "units": 4.0,
+          "source_line": "- GEOL 125Lg Earth History: A Planet and Its Evolution Units: 4"
+        },
+        {
+          "code": "GEOL 130Lg",
+          "title": "The Nature of Scientific Inquiry",
+          "units": 4.0,
+          "source_line": "- GEOL 130Lg The Nature of Scientific Inquiry Units: 4"
+        },
+        {
+          "code": "GEOL 150Lg",
+          "title": "Climate Change",
+          "units": 4.0,
+          "source_line": "- GEOL 150Lg Climate Change Units: 4"
+        },
+        {
+          "code": "GEOL 240Lg",
+          "title": "Earthquakes",
+          "units": 4.0,
+          "source_line": "- GEOL 240Lg Earthquakes Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Two courses from the following (8 units):",
+      "level": 3,
+      "courses": [
+        {
+          "code": "BISC 474L",
+          "title": "Ecosystem Function and Earth Systems  *",
+          "units": 4.0,
+          "source_line": "- BISC 474L Ecosystem Function and Earth Systems Units: 4 *"
+        },
+        {
+          "code": "BISC 483",
+          "title": "Geobiology and Astrobiology  *",
+          "units": 4.0,
+          "source_line": "- BISC 483 Geobiology and Astrobiology Units: 4 *"
+        },
+        {
+          "code": "GEOL 320L",
+          "title": "Surficial Processes and Stratigraphic Systems",
+          "units": 4.0,
+          "source_line": "- GEOL 320L Surficial Processes and Stratigraphic Systems Units: 4"
+        },
+        {
+          "code": "GEOL 412",
+          "title": "Oceans, Climate, and the Environment",
+          "units": 4.0,
+          "source_line": "- GEOL 412 Oceans, Climate, and the Environment Units: 4"
+        },
+        {
+          "code": "GEOL 433L",
+          "title": "Paleontology and Evolution in Deep Time",
+          "units": 4.0,
+          "source_line": "- GEOL 433L Paleontology and Evolution in Deep Time Units: 4"
+        },
+        {
+          "code": "GEOL 450L",
+          "title": "Geosystems",
+          "units": 4.0,
+          "source_line": "- GEOL 450L Geosystems Units: 4"
+        },
+        {
+          "code": "GEOL 460L",
+          "title": "Geochemistry",
+          "units": 4.0,
+          "source_line": "- GEOL 460L Geochemistry Units: 4"
+        },
+        {
+          "code": "GEOL 470L",
+          "title": "Environmental Hydrogeology",
+          "units": 4.0,
+          "source_line": "- GEOL 470L Environmental Hydrogeology Units: 4"
+        }
+      ],
+      "notes": [],
+      "choice": null,
+      "total_units": null
+    },
+    {
+      "title": "Note:",
+      "level": 2,
+      "courses": [],
+      "notes": [
+        {
+          "text": "Indicates BISC course that is also cross-listed under GEOL",
+          "source_line": "*Indicates BISC course that is also cross-listed under GEOL"
+        },
+        {
+          "text": "*Must carry credit for a biology major",
+          "source_line": "**Must carry credit for a biology major"
+        }
+      ],
+      "choice": null,
+      "total_units": null
+    }
+  ],
+  "parse_warnings": []
+}
