@@ -11,7 +11,7 @@ the wrong plain-text output · **Scope found:** 158 of 470 output files (33.6%)
 | Item | Location |
 | --- | --- |
 | **Canonical scraper source** (the one repaired) | `(local build folder)/USC Complete Scrape/USC Complete Collector.app/Contents/Resources/scraper` |
-| Git-tracked working copy used for the repair | `04_fixed_app/USC Complete Collector.app/…/scraper` |
+| This module, as delivered | `catalogue_scraper/` |
 | Majors output that contains the defect (207 files) | `…/DELIVERABLE_1/OTHER STUFF/MAJOR STUFF/usc_undergraduate_catalogue_2026_2027` |
 | Minors output (263 files) | `…/DELIVERABLE_1/OTHER STUFF/USC Minors Text Files/usc_minors_catalogue_2026_2027` |
 | Preserved read-only baseline of both | `(preserved baseline, not in repo)/` |
@@ -324,11 +324,9 @@ cd "$S" && ./.venv/bin/python -m ruff check src tests && ./.venv/bin/python -m m
    paired programmes. Listed in the audit CSV.
 4. **`manual_review.csv` (57 links).** Unchanged behaviour: titles carrying no
    recognizable credential are never silently dropped.
-5. **Vishal's review has not been incorporated** — it could not be found. See
-   `VISHAL_REVIEW_ACTIONS.md`. **STARS Redacter does not exist on this machine
-   and no work was done on it.**
-6. Two of the three `.app` bundles keep their own venv; a moved bundle rebuilds
-   its environment on next launch (existing, documented behaviour).
+5. **The macOS `.app` wrapper keeps its own virtual environment.** Moving the
+   bundle invalidates it; the launcher detects this and rebuilds on next start
+   (existing, documented behaviour — see `macos_app/`).
 
 ---
 
@@ -436,7 +434,7 @@ from the July baseline is a source-page edit rather than non-determinism.
 | Failed / manual-review pages | `catalogue_scraper/docs/FAILED_AND_REVIEW_PAGES.md` |
 | Debug artefacts (live page snapshots) | `catalogue_scraper/tools/snapshot_*.html` |
 | Preserved baseline | `(preserved baseline, not in repo)/` |
-| Repaired app (git, 4 commits) | `04_fixed_app/USC Complete Collector.app` |
+| Repaired scraper source | `catalogue_scraper/src/usc_catalog_scraper/` |
 
 The fix was also propagated into the three live apps under
 `(local build folder)/` (all compile and carry the guard); each

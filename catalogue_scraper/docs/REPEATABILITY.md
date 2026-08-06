@@ -1,7 +1,7 @@
 # Repeatability check
 
 - Run A: `catalogue_scraper/data/usc_undergrad_complete_catalogue_2026_2027/programs` (470 files)
-- Run B: `05_corrected_output/verify_run2/usc_undergrad_complete_catalogue_2026_2027/programs` (60 files)
+- Run B: a second, independent live run of the same 60 programmes (separate output folder)
 - Files compared (present in both): **60**
 - **Byte-identical substantive content: 60/60**
 - Differing: 0

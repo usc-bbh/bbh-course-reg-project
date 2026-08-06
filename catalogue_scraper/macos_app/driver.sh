@@ -1,7 +1,8 @@
 #!/bin/bash
 # Runs in a visible Terminal window. Args: YEAR CATOID  (or: LATEST auto)
 # Collects one text file per standalone undergraduate degree program for the
-# chosen USC catalogue year into ~/Desktop/USC Catalogue Text Files/.
+# chosen USC catalogue year into a 'USC Catalogue Text Files' folder beside the app
+# (override with USC_COLLECTOR_BASE).
 set -u
 RES="$(cd "$(dirname "$0")" && pwd)"
 SCRAPER="$RES/scraper"
