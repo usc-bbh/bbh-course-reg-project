@@ -1,0 +1,38 @@
+Program Name: Archaeology of California Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32492
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32492&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32492
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:26Z
+Content SHA-256: 6d4e588bc5c5f042587fb36e3d66ff11e7f6a647b6015c03c3ba48813deed3ca
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Archaeology of California Minor
+
+---
+
+Students gain diverse, long-term perspectives on Los Angeles, California state, the west, and the USA by joining in the discovery and study of the material traces of past human activity during an archaeological excavation and/or survey on USC’s campus and/or elsewhere in California. The minor in Archaeology of California is available to students in all schools and departments. Students complete this minor through the archaeology block semester program.
+
+## In a single semester, complete these three courses:
+
+---
+
+- ANTH 307 Trojan Archaeology Units: 4
+- REL 304 Ethics and Global Heritage Units: 4
+- REL 494L Lab Methods and Theories in Archaeology Units: 2, 4
+
+## and complete one of these courses:
+
+---
+
+- ANTH 377g Archaeological Interpretation of Complex Societies Units: 4
+- CLAS 465 Archaeology and Society Units: 4
+
+---

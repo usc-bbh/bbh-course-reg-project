@@ -1,0 +1,44 @@
+Program Name: Psychiatry and Behavioral Sciences Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32881
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32881&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32881
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:26Z
+Content SHA-256: 539a73537365c39277868fdc8610abcabf5eebac54eea51bb563ccd27d12fb55
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Psychiatry and Behavioral Sciences Minor
+
+---
+
+The Psychiatry and Behavioral Sciences minor offers students the ability to explore knowledge, concepts and research in the areas of psychiatry and behavioral health, providing a solid foundation of these salient topics for students interested in pursuing professions within the healthcare field or applying these concepts more broadly in professional settings.
+
+A minimum of 16 units is required.
+
+## Requirements
+
+---
+
+Choose four of the following courses:
+
+- PBHS 301g Science and Practice of Building Resilience Units: 4
+- PBHS 302 The Community Impact of Historical Trauma Units: 4
+- PBHS 303 Adverse Childhood Experiences and Trauma Units: 4
+- PBHS 304 Mental Health and Climate Change Units: 4
+- PBHS 305 The Science of Altruism Units: 4
+- PBHS 306 Team-Based Care: Roles of Mental Health Professionals Units: 4
+- PBHS 307 Dynamics of Power and Gender-Based Violence Units: 4
+- PBHS 310w Identity Development of the Contemporary Male Units: 4
+
+## Minimum Required Units: 16
+
+---
+
+---

@@ -1,0 +1,45 @@
+Program Name: Documentary Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32535
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32535&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32535
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:49Z
+Content SHA-256: 5ced58ae78057b84149f14b2db51c5de34fc22b159f82bf1266438e5f4467230
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Documentary Minor
+
+---
+
+The minor in documentary is designed to train students in the preparation and production of documentary media. Courses are designed to give students insight into both the history of documentary as well as access to new and emerging forms of the media.
+
+To be eligible for the documentary minor, a student must be in good academic standing and have a declared major. To declare the cinematic arts minor a student must submit a Change of Major/Minor form to Cinematic Arts Office of Student Services, SCB 105.
+
+## Core Requirement
+
+---
+
+- CTCS 400 Documentary Film and Media Units: 4
+
+## Electives
+
+---
+
+Take 12 units from the following courses:
+
+- CTIN 479 Documentary and Activist Games Units: 2
+- CTPR 404 Practicum in Podcast Production Units: 2
+- CTPR 431 Developing the Documentary Production Units: 2
+- CTPR 474 Documentary Production Units: 4
+- CTXA 470 Documentary Animation Production Units: 2
+- IML 423 Remixing the Archive Units: 4
+- IML 477 Embodied Storytelling and Immersive Docu-Narratives Units: 4
+
+---

@@ -1,0 +1,66 @@
+Program Name: Video Game Production Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32794
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32794&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32794
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:25Z
+Content SHA-256: 04d2e27614f5243c899bc7bbcd39142743298ee353a1b4929120a3cc75f2c45f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Video Game Production Minor
+
+---
+
+Video games have become the largest category in the entertainment industry. This minor will introduce you to techniques needed to manage this creative endeavor as a successful business enterprise and prepare you for a career in video game production.
+
+## Required Courses (10 units)
+
+---
+
+### Complete the following (8 units)
+
+---
+
+- TAC 180 Video Game Production Units: 2
+- TAC 181 Video Game QA Management Units: 2
+- TAC 393 Video Game Project Management Units: 4
+
+### Choose one of the following (2 units)
+
+---
+
+- CTIN 409 Producing Interactive Projects Units: 2
+- or
+- TAC 409 Producing Interactive Media Projects Units: 2
+
+## Electives (6 units minimum)
+
+---
+
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+- BUAD 315x Basics of Project and Operations Management for Non-Majors Units: 2
+- COMM 320 Small Group and Team Communication Units: 4
+- CTIN 190 Introduction to Interactive Entertainment Units: 4
+- CTIN 291 Crew for Advanced Game Project Units: 2
+- CTIN 391 Fundamentals of User Research and Experience Units: 2
+- CTIN 404L User Research for Games Units: 2
+- CTIN 458 Business and Management of Games Units: 2
+- CTIN 468 Advanced Games Business Units: 2
+- ISE 315L Engineering Project Management Units: 4
+- MOR 473 Designing and Leading Teams Units: 4
+- TAC 101 Business Tools and Digital Fluency Units: 2
+- TAC 215L Introduction to 3D Modeling, Animation and Visual Effects Units: 2
+- TAC 249 Introduction to Data Analytics Units: 4
+- TAC 310 Design for User Experience Units: 4
+- TAC 351 3D Character Modeling for Games Units: 4
+- TAC 361 Character Rigging for Games Units: 4
+- TAC 371 Technical Character Animation for Games Units: 4
+
+---

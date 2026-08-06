@@ -1,0 +1,89 @@
+Program Name: Accounting Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31654
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31654&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31654
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:58:01Z
+Content SHA-256: 7d0b3a693bb55055b2ab46f44bcf1102ca78c203bc44dbf335e9006145aaa042
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Accounting Minor
+
+---
+
+A minor in Accounting is available to students in all schools and departments except for students pursuing the Accounting (BS). The minor provides the opportunity for non-business majors to gain an understanding, from the perspective of the user of accounting information, of how accounting is used in the business world.
+
+To be approved for the Accounting minor, students must have completed a minimum of 32 units of college-level courses and attained a minimum GPA of 2.75.
+
+Successful completion of the minor requires at least 16-18 units with a minimum GPA of 2.0 in the courses applied to the minor.
+
+## Minor Course Requirements
+
+---
+
+### Choose one of the following four options: (2-8 units) *
+
+---
+
+- BUAD 200x Economic Foundations for Business Units: 2
+- or
+-
+- ECON 203g Principles of Microeconomics Units: 4 and
+- ECON 205g Principles of Macroeconomics Units: 4
+- or
+-
+- ECON 303 Intermediate Microeconomic Theory Units: 4 ** and
+- ECON 305 Intermediate Macroeconomic Theory Units: 4 **
+- or
+-
+- BUAD 351 Economic Analysis for Business Decisions Units: 4 ** or
+- ECON 351x Microeconomics for Business Units: 4 **
+- and
+- BUAD 352 Macroeconomic Analysis for Business Decisions Units: 4 ** or
+- ECON 352x Macroeconomics for Business Units: 4 **
+
+### Required Courses (12 units)
+
+---
+
+- ACCT 410x Foundations of Accounting Units: 4
+- or
+- BUAD 305 Abridged Core Concepts of Accounting Information Units: 4
+- or
+- BUAD 280 Introduction to Financial Accounting Units: 3 and
+- BUAD 281 Introduction to Managerial Accounting Units: 3
+-
+- BUAD 306 Business Finance Units: 4
+- or
+- BUAD 308 Advanced Business Finance Units: 4
+-
+- ACCT 370 External Financial Reporting Issues Units: 4
+- or
+- ACCT 415x Intermediate Financial Accounting for Non-Accounting Majors Units: 4
+
+### Electives: Complete 4 units from the following:
+
+---
+
+- ACCT 405 Introduction to Sustainability Reporting Units: 4 Units: 4
+- ACCT 416 Financial Statement Analysis Units: 4 **
+- ACCT 451 Tax Analysis with Data Analytics Units: 4 **
+- ACCT 462 Detecting Fraudulent Financial Reporting Units: 2 **
+
+## Notes:
+
+---
+
+[*]Students who have earned scores of 4 or 5 on both the AP Microeconomics and the AP Macroeconomics exams will be waived out of the first requirement.
+
+**Prerequisites and/or Corequisite required. Plan carefully.
+Return to: USC Leventhal School of Accounting
+
+---

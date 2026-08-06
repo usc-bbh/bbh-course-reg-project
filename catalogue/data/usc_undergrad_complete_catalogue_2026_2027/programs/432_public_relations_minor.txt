@@ -1,0 +1,37 @@
+Program Name: Public Relations Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32417
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32417&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32417
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:37Z
+Content SHA-256: 284bb35163afdd977b6fde9e6a68c5581fcfd9d7aebe819257bcd4648d281a40
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Public Relations Minor
+
+---
+
+The public relations minor is designed for students interested in building a career in, or developing a better understanding of, the field of public relations. At no time has public relations been more successful or more visible than it is today. Emphasis is placed throughout the program on both the practical skills required to meet the demands of the marketplace and the critical thinking required to be a successful entry-level public relations practitioner.
+
+## Required Courses
+
+---
+
+- PR 209 Effective Writing for Strategic Public Relations and Advertising Units: 4
+- PR 250 Strategic Public Relations and Advertising: An Introduction Units: 4
+- PR 352 Public Relations Media and Content for Non-Majors Units: 4
+
+## Elective Courses
+
+---
+
+Choose 12 units of PR and/or JOUR 300-499 level electives.
+
+---

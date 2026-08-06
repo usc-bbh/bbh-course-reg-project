@@ -1,0 +1,118 @@
+Program Name: Communication (BA)*
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31947
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31947&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31947
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:10Z
+Content SHA-256: e406cd6d4f8cb685cc1e620a0361c6c14ca6785ac8dfbeecefd24dcf44b1d9fe
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Communication (BA)*
+
+---
+
+The major in communication gives students theoretical perspectives and applied approaches focused on how people create and use communication to build and sustain systems, persuade others, resist compliance, critically examine challenging real-world problems, and be skilled practitioners in a variety of fields. Students complete foundational courses in social science, rhetoric, and cultural studies before pursuing a wide array of electives that include media, economics, sports, health, and technology. Graduates are prepared for careers ranging from entertainment, marketing, and advertising to sustainability, nonprofit consultancy, and government service in addition to advancing to further study in law school or masters and doctoral programs.
+
+### Course Requirements
+
+## Required Courses
+
+---
+
+### Theoretical and Foundational Classes (12 units total)
+
+---
+
+These courses introduce students to theories and subject matter that provide foundational understanding for the Communication major. Each area below broadly explores the way messages and meanings are socially and culturally produced, received by individuals and society, and transformed through technological and industrial shifts.
+
+#### Communication Interaction, Influence and Impact (4 units)
+
+---
+
+- COMM 200 Communication and Social Science Units: 4
+- or
+- COMM 313 Screen time: How Media Shapes Us Units: 4
+
+#### Communication, Civic Life and Culture (4 units)
+
+---
+
+- COMM 206 Communication and Culture Units: 4
+- or
+- COMM 311 Communication and Publics Units: 4
+
+#### Economics and Technologies of Communication (4 units)
+
+---
+
+- COMM 209 Communication and Media Economics Units: 4
+- or
+- COMM 309 Communication and Technology Units: 4
+
+### Methods of Communication Practice (8 units total)
+
+---
+
+The courses in this area help to provide students with the critical thinking, tools, and methods of inquiry necessary for the interpretation, development, and expression of messages, systematic arguments, and empirical evidence.
+
+#### Four units that center on the design and execution of arguments
+
+---
+
+- COMM 204 Public Speaking Units: 4
+- or
+- COMM 322 Argumentation and Advocacy Units: 4
+
+#### Four units that center on the design, execution and interpretation of empirical evidence
+
+---
+
+- COMM 301Lg Empirical Research in Communication Units: 4
+- or
+- COMM 305 Understanding Social Science Research Units: 4
+
+### Annenberg Experience (4 units)
+
+---
+
+Students are required to take one 4-unit course that prepares Annenberg students to enhance their digital literacy and contextualize modern communication controversies, contemplating changes in the way we process and produce information.
+
+- ASCJ 200 Navigating Media and News in the Digital Age Units: 4
+- or
+- ASCJ 210 Contours of Change in Media and Communication Units: 4
+
+## Electives (24 units total)
+
+---
+
+- Upper-division COMM courses: 16 units
+- Lower- or upper-division COMM or ASCJ courses: 4 units
+- One 400-level non-cross-listed COMM course (excluding COMM 490 , COMM 494 and COMM 499 ): 4 units
+
+Sample electives in the major may include
+
+- COMM 307 Sound Clash: Popular Music and American Culture Units: 4
+- COMM 320 Small Group and Team Communication Units: 4
+- COMM 350 Video Games: Business, Science and Culture Units: 4
+- COMM 355 Advertising and Communication Units: 4
+- COMM 383m Sports, Communication and Culture Units: 4
+- COMM 451 Visual Communication and Social Change Units: 4
+- COMM 458m Race and Ethnicity in Entertainment and the Arts Units: 4
+- COMM 476 Crisis and Culture: The Anthropocene Units: 4
+
+## Additional Requirements
+
+---
+
+Students must maintain a minimum 2.0 overall GPA in upper-division coursework applied toward the major. No more than 4 units of COMM 380 may be counted toward the department major. The School of Communication is committed to ensuring that all declared communication majors follow the necessary requirements.
+
+Mandatory advisement is required of all communication majors each semester prior to registration. All students taking communication classes are held to the highest academic integrity standards and may be denied admission or have admission revoked as a result of conduct violations.
+
+---

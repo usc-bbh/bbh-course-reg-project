@@ -1,0 +1,55 @@
+Program Name: Sports Media Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31951
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31951&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31951
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:54Z
+Content SHA-256: ba6fff6b37fe2d8b75c8f16570bd2c78062593e5461053ab120dd9718ddd055c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Sports Media Studies Minor
+
+---
+
+USC has a unique historical relationship to sports and sports media, and is near the center of the current sports media capital of Los Angeles. The courses examine the role of sports and sports media in culture, how the presentation of sports in media has evolved, has been shaped by cultural issues and, itself, impacted culture. This minor will enhance students’ skills in working and interacting with, sports media.
+
+Requirements for admission are a minimum 3.0 GPA and completion of a minimum of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission.
+
+## Required Core Communication Courses
+
+---
+
+- COMM 381 Issues in Contemporary Sport Units: 4
+- COMM 383m Sports, Communication and Culture Units: 4
+
+## Electives
+
+---
+
+### Choose four classes from the following:
+
+---
+
+- COMM 300 Entertainment, Communication and Society Units: 4
+- COMM 310 Media and Society Units: 4
+- COMM 363 Media Consumption Units: 4
+- COMM 387 Sports and Social Change Units: 4
+- COMM 444 Critical Theories of Sport Units: 4
+- COMM 445 Global Networks of Sport Units: 4
+- JOUR 380 Sports, Business and Media in Today’s Society Units: 4
+- JOUR 432 Sports Commentary Units: 4
+- MOR 479 The Business of Sports Units: 4
+- OT 333 Sports Ethics Units: 4
+
+## Total units: 24
+
+---
+
+---

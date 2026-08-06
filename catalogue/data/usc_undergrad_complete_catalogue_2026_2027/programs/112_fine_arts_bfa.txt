@@ -1,0 +1,77 @@
+Program Name: Fine Arts (BFA)
+Credential: BFA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31571
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31571&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31571
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:23Z
+Content SHA-256: 9be14aee6b43fb26d3afe93876aa634688d5d744c3f8503df57d7655f925b19d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Fine Arts (BFA)
+
+---
+
+The BFA is a four-year studio intensive program in preparation for a career in the fine arts, design and/or related fields or pursuit of a master of fine arts degree. With few required courses or electives and a wide variety of media from which to choose, the BFA provides ample opportunity to explore and develop a strong personal vision in art.
+
+Introductory courses focus on technique and conceptual context while building a solid grounding in critical theory. Advanced students work on self-generated independent projects under the guidance and mentoring of individual faculty members. Emphasis in the last year is on the production of a major body of work and professional quality portfolio.
+
+## Curriculum Requirements
+
+---
+
+The Bachelor of Fine Arts (BFA) requires a total of 128 units, including 78 units of major requirements (66 units in Art courses and 12 units in Critical Studies courses, some of which overlap with the university’s required GE courses). In addition to the required courses, BFA students have a minimum of 22 non-specific elective units that can be selected from a variety of university courses, based on their personal and professional goals and in consultation with their academic adviser. Electives are typically clustered in a particular field as in a minor, but may be spread across different areas.
+
+### Required Courses
+
+---
+
+#### Three 4-unit foundation courses are required for students admitted to the BFA, Fine Arts
+
+---
+
+- ART 105 Art and Design Studio I Units: 4
+- ART 106 Art and Design Studio II Units: 4
+- ART 110 Drawing for Art and Design Units: 4
+
+#### Two 2-unit Studio Critique courses are required in the second and third year:
+
+---
+
+- ART 280 Studio Critique I Units: 2
+- ART 380 Studio Critique II Units: 2
+
+#### In the senior year, a 4-unit capstone and one 2-unit thesis courses are required:
+
+---
+
+- ART 485 Studio Capstone Units: 4
+- ART 494a Senior Thesis Units: 2
+
+#### The following 4-unit Critical Studies courses are required:
+
+---
+
+- CRIT 150gp Histories of Art, Design and Visual Culture Units: 4
+- CRIT 160g Critical Theory in Art, Design and Visual Culture Units: 4
+- CRIT 350gw Global Art, Design and Visual Culture since 1960 Units: 4
+
+### Fine Arts Electives
+
+---
+
+Select 16 additional units from any 100–299 ART courses, and 28 additional units from any 300–499 ART courses. Up to 4 units of DES courses may be counted toward the required 16 additional units from any 100-299 ART courses. Up to 12 units of DES courses may be counted toward the required 28 additional units from any 300-499 ART courses.
+
+## General Education Requirements
+
+---
+
+The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. See General Education for more information.
+
+---

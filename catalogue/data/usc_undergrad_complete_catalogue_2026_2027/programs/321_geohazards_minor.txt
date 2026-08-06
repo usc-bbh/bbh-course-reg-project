@@ -1,0 +1,66 @@
+Program Name: Geohazards Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31762
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31762&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31762
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:06:36Z
+Content SHA-256: e3ddc421221abe934cbdae20216c33c8b93067386b25d177a90992adad2daef1
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Geohazards Minor
+
+---
+
+The geohazards minor allows students who are not geology majors to pursue a course of study that will lead to greater understanding of geohazards such as climate change, earthquakes, volcanic eruptions, floods, environmental contamination and availability of natural resources. These issues are examined in a number of upper-division geology courses, and each student can select from the list below depending on the particular area of interest and whether previous course work has been completed to meet prerequisites for some of the choices. The minor requires an introductory class, an upper-division course in either formation of minerals or geosystem behavior and three elective courses from the list below. The minimum number of units to complete the minor is 24, including the introductory course CHEM 105aLg (a corequisite for GEOL 315L ) or MATH 125 (prerequisite for GEOL 450L ) and three of the group: BISC 427 , GEOL 305L , GEOL 315L , GEOL 316L , GEOL 320L , GEOL 321L , GEOL 433L and GEOL 450L . The remaining courses listed have additional prerequisites.
+
+## Required Courses (8 Units)
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4
+- GEOL 315L Minerals and Earth Systems Units: 4 or
+-
+- MATH 125g Calculus I Units: 4
+- GEOL 450L Geosystems Units: 4
+
+## Elective Courses
+
+---
+
+### One introductory GEOL course:
+
+---
+
+- GEOL 105Lg Planet Earth Units: 4
+- GEOL 107Lg Oceanography Units: 4
+- GEOL 108Lg Natural Disasters and Their Global Impact Units: 4
+- GEOL 125Lg Earth History: A Planet and Its Evolution Units: 4
+- GEOL 130Lg The Nature of Scientific Inquiry Units: 4
+- GEOL 150Lg Climate Change Units: 4
+- GEOL 240Lg Earthquakes Units: 4
+
+### Three of the following (12 units):
+
+---
+
+- BISC 427 The Global Environment Units: 4
+- GEOL 305L Introduction to Engineering Geology Units: 4
+- GEOL 315L Minerals and Earth Systems Units: 4
+- GEOL 316L Igneous and Metamorphic Petrology Units: 4
+- GEOL 320L Surficial Processes and Stratigraphic Systems Units: 4
+- GEOL 321L Structural Geology and Tectonics Units: 4
+- GEOL 412 Oceans, Climate, and the Environment Units: 4
+- GEOL 433L Paleontology and Evolution in Deep Time Units: 4
+- GEOL 440L Geophysics and Geoengineering Units: 4
+- GEOL 450L Geosystems Units: 4
+- GEOL 460L Geochemistry Units: 4
+- GEOL 470L Environmental Hydrogeology Units: 4
+
+---

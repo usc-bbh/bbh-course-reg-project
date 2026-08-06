@@ -1,0 +1,142 @@
+Program Name: Political Science (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31897
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31897&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31897
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:54Z
+Content SHA-256: c05e9c3894cce9edc32d56a777ce06aaaaee7814a6496097ce7700c84b3a77aa
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Political Science (BA)
+
+---
+
+Department majors are required to take ten courses (40 units) in political science.
+
+## Introductory Courses Requirement
+
+---
+
+All students must take at least three of the following four 100-level core courses that introduce students to the major sub-fields of political science (American, Comparative, Law and Public Policy, Political Thought).
+
+- POSC 100g Theory and Practice of American Democracy Units: 4
+- POSC 110g Ideology and Political Conflict Units: 4
+- POSC 120g Comparative Politics Units: 4
+- POSC 130g Law, Politics and Public Policy Units: 4
+
+## Distribution (Field) Requirement
+
+---
+
+Students fulfill the distribution requirement by completing one course in three of the four major sub-fields (American, Comparative, Law and Public Policy, Political Thought). No more than one lower division (200 level) course can count toward the Field Requirement.
+
+### American Politics
+
+---
+
+- POSC 311 Political Analysis Units: 4
+- POSC 315 Regulation of Elections and Political Finance Units: 4
+- POSC 320 Urban Politics Units: 4
+- POSC 321 Urban Political Problems Units: 4
+- POSC 323 Applied Politics Units: 4
+- POSC 325 State Politics Units: 4
+- POSC 328 Asian American Politics Units: 4
+- POSC 334 Interest Groups and Elite Behavior Units: 4
+- POSC 335 Political Parties, Campaigns, and Elections Units: 4
+- POSC 364 Electoral Institutions and Reforms Units: 4
+- POSC 418 Environmental Sustainability and Public Participation Units: 4
+- POSC 419 Ideology in American Politics Units: 4
+- POSC 420 Practicum in the American Political Process Units: 4
+- POSC 421 Ethnic Politics Units: 4
+- POSC 422 Political Attitudes and Behavior Units: 4
+- POSC 423 Presidents and the Presidency Units: 4
+- POSC 424m Political Participation and American Diversity Units: 4
+- POSC 425 Legislative Process Units: 4
+- POSC 427 Black Politics in the American Political System Units: 4
+- POSC 428 Latino Politics Units: 4
+- POSC 437 Mass Media and Politics Units: 4
+- POSC 438 How Washington Really Works Units: 4
+- POSC 439 Critical Issues in American Politics Units: 4
+- POSC 445 The Politics of Rights Units: 4
+- POSC 449 Political Psychology Units: 4
+
+### Comparative Politics
+
+---
+
+- POSC 350 Politics of Latin America Units: 4
+- POSC 351 Middle East Politics Units: 4
+- POSC 352 Politics of Southeast Asia Units: 4
+- POSC 355 Politics of East Asia Units: 4
+- POSC 356 Politics in the People’s Republic of China Units: 4
+- POSC 357 Urban Politics in the Global South Units: 4
+- POSC 358 Politics of Sub-Sahara Africa Units: 4
+- POSC 359 The Politics of Food Units: 4
+- POSC 360 Comparative Political Institutions Units: 4
+- POSC 363 Cities and Regions in World Politics Units: 4
+- POSC 366 Terrorism and Genocide Units: 4
+- POSC 429 Urban Politics through the Lens of Mexico City Units: 4
+- POSC 430 Political Economy of Mexico Units: 4
+- POSC 431 Political Economy of Central America Units: 4
+- POSC 451 Politics of Resources and Development Units: 4
+- POSC 453 Political Change in Asia Units: 4
+- POSC 456 Women in International Development Units: 4
+- POSC 457 Political Economy of Redistribution Units: 4
+- POSC 463 European Politics Units: 4
+- POSC 469 Critical Issues in Comparative Politics Units: 4
+- POSC 470 Politics and Film In Comparative Perspective Units: 4
+- POSC 472 Soft Power In Political Science and International Relations Units: 4
+
+### Law and Public Policy
+
+---
+
+- POSC 248gw Human Rights Units: 4
+- POSC 265gw Environmental Challenges Units: 4
+- POSC 270 Introduction to Environmental Law and Politics Units: 4
+- POSC 340 Constitutional Law Units: 4
+- POSC 345 International Law Units: 4
+- POSC 347 Environmental Law Units: 4
+- POSC 426 The United States Supreme Court Units: 4
+- POSC 432 Politics of Local Criminal Justice Units: 4
+- POSC 435 Politics and the Economy Units: 4
+- POSC 436 Environmental Politics Units: 4
+- POSC 441m Cultural Diversity and the Law Units: 4
+- POSC 442m The Politics of Human Differences: Diversity and Discrimination Units: 4
+- POSC 443 Law in Film Units: 4
+- POSC 444 Civil and Political Rights and Liberties Units: 4
+- POSC 446 Global Bioethics and Human Rights Units: 4
+- POSC 447 Global Justice: Interdisciplinary Perspectives Units: 4
+- POSC 448a The Politics of Peace Units: 4
+- POSC 448b The Politics of Peace Units: 4
+- POSC 452 Critical Issues in Law and Public Policy Units: 4
+
+### Political Thought
+
+---
+
+- POSC 370 European Political Thought I Units: 4
+- POSC 371 European Political Thought II Units: 4
+- POSC 375 American Political Thought Units: 4
+- POSC 380 Political Theories and Social Reform Units: 2, 4
+- POSC 381 Sex, Power, and Politics Units: 4
+- POSC 476 Contemporary Political Thought Units: 4
+- POSC 479 Critical Issues in Political Thought Units: 4
+- POSC 480 Critical Issues in Political Thought: World Poverty Units: 4
+
+## Elective Requirement
+
+---
+
+Students must complete four additional elective courses, two of which must be upper division (300 or 400 level courses). One course (or four units) of the following courses: POSC 395 , POSC 398L or POSC 490x may be counted as an elective. In addition, one of the Honors Seminars (4 units of POSC 391 /POSC 392 ) can count as an elective.
+
+Students who have a double major in political science and in another department in the social sciences, may, with prior permission of the department undergraduate adviser, substitute one upper-division course from the second major for one upper-division political science course. In the development of an undergraduate program, students should consult periodically with the political science undergraduate adviser and/or with departmental faculty.
+
+---

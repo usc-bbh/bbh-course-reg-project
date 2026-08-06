@@ -1,0 +1,126 @@
+Program Name: Aerospace Engineering (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32035
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32035&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32035
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:05Z
+Content SHA-256: 7e977642a8ecc2481cd90dbe12fb105e5181f74d5758ac9d3cd7eb15431fe822
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Aerospace Engineering (BS)
+
+---
+
+The Department of Aerospace and Mechanical Engineering offers a Bachelor of Science degree in Aerospace Engineering. The requirement for this degree is 134 units. A cumulative grade point average of C (2.0) is required in all upper division courses applied toward the major, regardless of the department in which the courses are taken. See the common requirements for undergraduate degrees section.
+
+## Composition/Writing Requirement
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+## General Education
+
+---
+
+General education Units: 24 +
+
+## Pre-Major Requirements
+
+---
+
+### Math Requirement
+
+---
+
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+- or
+- MATH 127 Enhanced Calculus II Units: 4
+- or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+- MATH 226g Calculus III Units: 4
+- or
+- MATH 227 Enhanced Calculus III Units: 4
+- or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4 *
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+- * The AME Department recommends that AME students enroll in the 129/229 sequence.
+
+### Physics Requirement
+
+---
+
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 or
+- PHYS 161Lg Advanced Principles of Physics I Units: 4 or
+- PHYS 171Lg Applied Physics I: Mechanics Units: 4
+-
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4 or
+- PHYS 162L Advanced Principles of Physics II Units: 4 or
+- PHYS 172L Applied Physics II: Electricity, Magnetism and Optics Units: 4
+-
+- PHYS 153L Fundamentals of Physics III: Optics, Thermo, Modern Physics Units: 4 or
+- PHYS 163L Advanced Principles of Physics III Units: 4 or
+- PHYS 173L Applied Physics III: Topics in Modern Physics Units: 4
+
+### Chemistry Elective
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4
+- or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+- or
+- MASC 110L Materials Science Units: 4
+
+## Major Requirements
+
+---
+
+### Aerospace and Mechanical Engineering Core
+
+---
+
+- AME 105 Introduction to Aerospace Engineering Units: 4
+- AME 201 Statics Units: 4.0
+- AME 204 Mechanics of Materials and Structures Units: 4
+- AME 208 Computational Methods in Engineering Units: 4
+- AME 261 Basic Flight Mechanics Units: 4
+- AME 301 Dynamics Units: 4
+- AME 302a Modeling and Analysis of Dynamic Systems Units: 2
+- AME 302b Modeling and Analysis of Dynamic Systems Units: 2
+- AME 308 Computer-Aided Engineering Units: 4
+- AME 309 Dynamics of Fluids Units: 4
+- AME 310 Engineering Thermodynamics I Units: 4
+- AME 341aL Mechoptronics Laboratory Units: 4
+- AME 341bL Mechoptronics Laboratory Units: 4
+- AME 436 Automotive and Flight Propulsion Units: 4
+- AME 441aL Senior Projects Laboratory Units: 4
+- AME 451 Linear Control Systems I Units: 4
+- AME 481 Aircraft Design Units: 4
+
+### Materials Science
+
+---
+
+- MASC 310L Materials Behavior and Processing Units: 4
+
+### Information Technology
+
+---
+
+- TAC 168 Introduction to MATLAB Units: 2
+
+## Total units: 134
+
+---
+
+---

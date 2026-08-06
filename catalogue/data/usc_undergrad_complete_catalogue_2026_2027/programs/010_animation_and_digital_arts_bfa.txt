@@ -1,0 +1,201 @@
+Program Name: Animation and Digital Arts (BFA)
+Credential: BFA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32669
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32669&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32669
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:19Z
+Content SHA-256: f0c9c2b39ae297672af31ddb738484f25eb584c65ea781cda4efaaa574f9a3ea
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Animation and Digital Arts (BFA)
+
+---
+
+The Bachelor of Fine Arts in Animation and Digital Arts is a unique four-year program, offered by the School of Cinematic Arts that combines a liberal arts background with the practice of animation to prepare students for a professional career in this field. Areas of concentration might include character animation, experimental animation, visual effects, 3-D computer animation, motion graphics, immersive media, interactive animation, documentary animation and science visualization.
+
+Each fall, a class of 16 undergraduate animation and digital arts students is selected to begin the program. A total of 128 units is required for the completion of the Bachelor of Fine Arts degree; 59 of these units taken in a prescribed sequential order. There are no spring admissions.
+
+Applicants must submit a supplemental application and materials to the Undergraduate Animation and Digital Arts Program in Slideroom via the Common Application. For specific instructions, contact the Cinematic Arts Office of Admission, University Park, Los Angeles, CA 90089-2211, (213) 740-8358 or online at cinema.usc.edu.
+
+### General Education Requirements
+
+The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education .
+
+## Four-Year Major Requirements (59 units)
+
+---
+
+## Year One, First Semester
+
+---
+
+- CNTV 101 Reality Starts Here Units: 2
+- CTAN 101L Introduction to the Art of Animation Units: 2
+- CTAN 451 History of Animation Units: 2
+- CTCS 190g Introduction to Cinema Units: 4
+- Take two units of movement classes from the PHED/DANC/THTR courses listed below
+- Total units: 12
+
+## Year One, Second Semester
+
+---
+
+- CTAN 102L Introduction to the Art of Movement Units: 2
+- CTAN 110 Design Fundamentals for Animation I Units: 2
+- CTAN 452 Introduction to 3-D Computer Animation Units: 2
+- CTCS 150gw The Cinematic Arts in Society Units: 4
+- Total units: 10
+
+## Year Two, First Semester
+
+---
+
+- CTAN 210 Design Fundamentals for Animation II Units: 2
+- CTAN 220 Introduction to Storyboarding Units: 2
+- CTAN 438 Story Structure for Animation Units: 2
+- Total units: 6
+
+## Year Two, Second Semester
+
+---
+
+- ART 207a Two-Dimensional Art Workshop Units: 2
+- CTAN 201L Intermediate Animation Production Units: 3
+- CTAN 202L Introduction to 3-D Character Animation Units: 3
+- CTAN 425 Studio Careers: Story to Screen Units: 2
+- Total units: 10
+
+## Year Three, First Semester
+
+---
+
+- CTAN 301L 3-D Character Performance Animation Units: 3
+- CTAN 305 Professionalism of Animation Units: 2
+- CTAN 320 Cinematography for Animators Units: 2
+- Total units: 7
+
+## Year Three, Second Semester
+
+---
+
+- CTAN 336 Ideation and Pre-Production Units: 2
+- Take one CTCS course from the *list below
+- Total units: 6
+
+## Year Four, First Semester
+
+---
+
+- CTAN 401a Senior Project Units: 4
+- Total units: 4
+
+## Year Four, Second Semester
+
+---
+
+- CTAN 401b Senior Project Units: 4
+- Total units: 4
+
+## Two units must be selected from the following:
+
+---
+
+### USC Dornsife College of Letters, Arts and Sciences – Physical Education
+
+---
+
+- PHED 104a Self-Defense Units: 1
+- PHED 104b Self-Defense Units: 1
+- PHED 120a Yoga Units: 1
+- PHED 120b Yoga Units: 1
+
+### USC Kaufman School of Dance
+
+---
+
+- DANC 181a Contemporary Dance Units: 2
+- DANC 181b Contemporary Dance Units: 2
+- DANC 184a Jazz Dance Units: 2
+- DANC 184b Jazz Dance Units: 2
+- DANC 184c Jazz Dance Units: 2
+- DANC 188a International Style Ballroom Dance Units: 2
+- DANC 188b International Style Ballroom Dance Units: 2
+- DANC 189a Tap Dance Units: 2
+- DANC 189b Tap Dance Units: 2
+
+### USC School of Dramatic Arts
+
+---
+
+- THTR 122 Improvisation and Theatre Games Units: 2
+- THTR 216 Movement for Actors Units: 2
+
+## *One CTCS course must be taken from the following list:
+
+---
+
+- CTCS 192mg Race, Class, and Gender in American Film Units: 4
+- CTCS 392 History of American Cinema to 1960 Units: 4
+- CTCS 393 Topics in Historical Cinema and Media Units: 4
+- CTCS 400 Documentary Film and Media Units: 4
+- CTCS 403 Studies in National and Regional Media Units: 4
+- CTCS 407 African American Cinema Units: 4
+- CTCS 409 Censorship in Cinema Units: 4
+- CTCS 411 Film, Television and Cultural Studies Units: 4
+- CTCS 412 Gender, Sexuality and Media Units: 4
+- CTCS 464 Film and/or Television Genres Units: 4
+- CTCS 469 Film and/or Television Style Analysis Units: 4
+- CTCS 482 Transmedia Entertainment Units: 4
+
+## Additional Requirements
+
+---
+
+### Areas of Concentration
+
+---
+
+Areas of concentration might include character animation, experimental animation, 3-D computer animation, visualizing science, interactive animation and visual effects. Students work in consultation with the undergraduate coordinator and faculty to help them decide their course of study while at USC.
+
+### Senior Project
+
+---
+
+In the spring semester of their third year students develop their senior project through CTAN 336 Ideation and Pre-Production under the guidance of the lecturer. This project will focus on an area of concentration studied throughout the BFA by the student. At the end of this class, students present their senior project concepts for review to the Division of Animation and Digital Arts faculty. Progression into CTAN 401a , CTAN 401b is contingent upon faculty committee approval.
+
+In the final year, students concentrate on their senior projects, completing production and post-production. The student’s project will be presented to the committee upon completion.
+
+Completion is defined as a fully rendered, animated piece with a completed sound track. In the case of installation work, the piece must be mounted in a suitable space with all sound and animated components completed and functional.
+
+In the case of an interactive work, the piece must be fully functional with completed animation, sound and interactivity.
+
+In addition to completion of the senior project, the student must provide the faculty committee with written and visual documentation of the research. This can be documented as a publishable paper (2,000 words), Website or interactive DVD.
+
+### Grade Point Average Requirements
+
+---
+
+A minimum grade of C, 2.0 (A = 4.0), must be earned in all required and prerequisite courses. A grade of C- (1.7) or lower will not fulfill a major requirement.
+
+Students who do not earn the minimum grade of C (2.0) in CTAN 101L , CTAN 102L , CTAN 110 , CTAN 201L , CTAN 202L , CTAN 210 , CTAN 220 , CTAN 301L , CTAN 320 , or CTAN 401a , CTAN 401b after repeating these requirements will be disqualified from the program.
+
+### Limitations on Enrollment
+
+---
+
+Registration in graduate-level courses (numbered 500 and above) for undergraduate credit requires prior approval from the School of Cinematic Arts.
+
+### Curriculum Review
+
+---
+
+Cinematic arts majors are expected to meet with an adviser every semester to review their progress. Contact the Cinematic Arts Animation and Digital Arts Division Office, University Park, Los Angeles, CA 90089-2211, (213) 740-3986 or online at cinema.usc.edu.
+
+---

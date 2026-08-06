@@ -1,0 +1,70 @@
+Program Name: Linguistics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31845
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31845&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31845
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:21Z
+Content SHA-256: 890cf87eddcd41a052ae74e3d7d9902ebfe0129d598f0068c83a41dd4d55195f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Linguistics Minor
+
+---
+
+## Lower division:
+
+---
+
+(4 units)
+
+- LING 210g Introduction to Linguistics Units: 4
+
+## Upper division:
+
+---
+
+(16 units)
+
+### Two courses from the following:
+
+---
+
+- LING 301 Introduction to Phonology and Morphology Units: 4
+- LING 302 Introduction to Syntax Units: 4
+- LING 303 Introduction to Semantics and Pragmatics Units: 4
+- LING 415 Phonetics Units: 4
+
+### One course from the following:
+
+---
+
+#### Sociolinguistics
+
+---
+
+- LING 408 Sociolinguistics Units: 4
+
+#### Psycholinguistics
+
+---
+
+- LING 405 Child Language Acquisition Units: 4
+- LING 406 Psycholinguistics Units: 4
+- LING 410 Second Language Acquisition Units: 4
+
+### One additional upper-division linguistics course from the USC catalogue
+
+---
+
+## Units: 20
+
+---
+
+---

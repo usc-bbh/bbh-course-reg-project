@@ -1,0 +1,111 @@
+Program Name: Dramatic Arts, Comedy Emphasis (BA)*
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32842
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32842&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32842
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:46Z
+Content SHA-256: 87932eba6f95e9cf2c4d4c38a844729810f0c4853c5a971dc0276fffad6df5a6
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Dramatic Arts, Comedy Emphasis (BA)*
+
+---
+
+The BA Dramatic Arts, Comedy emphasis encourages students to engage with the structure and practice of comedy through theoretical lenses and through practical exploration. All students are required to take a range of courses that will help them develop fundamental skills and experience in a range of different comic styles and forms. Some of the required courses are common to other SDA emphases and these courses (Introduction to Acting, Improvisation and Theatre Games, Introduction to Technical Theatre and Basic Voice) give students a grounding in understanding basic theatre techniques and processes. Students following the emphasis must then take a range of specialist comedy courses. Comedy and Performance and How Comedy Works introduce students to the history and development of comedy and equips them with a vocabulary for discussing comedy. They then take a range of courses to develop skills across a range of comedy styles including improvisation, clowning and stand-up comedy. A further required course, Comedy in LA, helps the students to understand the comedy scene in Los Angeles. Students also take 16 elective units, which might include performance in SDA shows, Acting for Sitcoms, Camera and Improvisation and other courses designed to help them develop their skills in writing, performing and understanding the comedy industry.
+
+## Required Comedy/Production Courses for Emphasis (64 units)
+
+---
+
+- THTR 101 Introduction to Acting Units: 4
+- THTR 122 Improvisation and Theatre Games Units: 2
+- THTR 130 Introduction to Theatrical Production Units: 2
+- THTR 197g Comedy and Performance Units: 4
+- THTR 202 The Fundamentals of Comedy Units: 2
+- THTR 307 Comedy in LA Units: 2
+- THTR 322 Improv 2: Advanced Improv Units: 2
+- THTR 413 Writing Your Own Material Units: 2
+- THTR 422 Improv 3: Long Form Improvisation Units: 2
+- THTR 470 Sketch Comedy for Theatre Units: 4
+- THTR 474 Introduction to Stand Up Comedy Units: 2
+- THTR 482 Stand Up 2: Becoming A Pro Units: 2
+
+### Select 2 units from the following:
+
+---
+
+- THTR 290 Introduction to Medical Clowning Units: 2
+- THTR 317 Theatre Clown Units: 2
+
+### Select 16 units from the following:
+
+---
+
+- THTR 250 Camera and Improvisation Units: 2
+- THTR 342a Basic Voice Units: 2
+- THTR 355 Acting for Sitcoms Units: 4
+- THTR 397 Theatre Practicum Units: 1, 2, 3, 4
+- THTR 410 The Digital Actor Units: 2
+- THTR 423 Magic Units: 2
+- THTR 424 Creator as Entrepreneur Units: 2
+- THTR 467 Going Viral: Performance for New Media Units: 2
+- THTR 469 Satire and Parody in Performance Units: 2
+- THTR 473 Sketch Comedy in Performance Units: 2
+- THTR 479 Solo Performance Units: 4
+- THTR 483 Characters of Comedy Units: 2
+- THTR 497 Advanced Theatre Practicum Units: 2
+
+## Required Critical Studies Core (16 units)
+
+---
+
+Complete the two required courses below. In addition, take one course from List A and one course from either list A or B.
+
+- THTR 125 Text Studies for Production Units: 4
+- THTR 225g Theatre Across History and Cultures Units: 4
+
+### List A
+
+---
+
+- THTR 310 Comedy and Diversity Units: 4
+- THTR 312 LGBTQ Theatre Units: 4
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 405m Performing Identities Units: 4
+- THTR 406 Theatre on the Edge Units: 4
+- THTR 456 Latinx Theatre Units: 4
+- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4
+- THTR 476mw African American Theatre, Dance, and Performance Units: 4
+
+### List B
+
+---
+
+- THTR 301 Greek and Roman Theatre Units: 4
+- THTR 302 Shakespeare in His World Units: 4
+- THTR 313 Comedy of Manners Units: 4
+- THTR 314 Advanced Topics in Modern Drama Units: 4
+- THTR 400 Eco-Theatre: Art and Science in Contemporary Plays Units: 4
+- THTR 403 The Performing Arts Units: 4
+- THTR 404 Acting Theory Units: 4
+
+## Required General Education Units: 36
+
+---
+
+## Elective Units: 28
+
+---
+
+## Total Units: 128
+
+---
+
+---

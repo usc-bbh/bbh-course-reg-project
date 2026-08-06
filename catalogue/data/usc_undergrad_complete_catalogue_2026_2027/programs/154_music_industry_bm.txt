@@ -1,0 +1,138 @@
+Program Name: Music Industry (BM)
+Credential: BM
+School or Academic Unit: Thornton School of Music. The various majors for the degree are listed below, al
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32240
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32240&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32240
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:53Z
+Content SHA-256: 348a8c07817822f7ff2dbf4bb8a12522aa32c346869db2b8393a8dff3ac6eaae
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Music Industry (BM)
+
+---
+
+## Bachelor of Music
+
+---
+
+The Bachelor of Music (BM) is a professional degree granted by the Thornton School of Music. The various majors for the degree are listed below, along with specified requirements for each.
+
+#### Senior Recital/Culminative Project
+
+All performance majors are required, as indicated in the specific curriculum listings below, to either present a senior recital or complete a culminative project. Both must be completed under approved faculty supervision and guidance. The faculty of the department of the student’s major program determine the detailed requirements of these recitals and projects, including content, length, format, and other specifications. In cases in which a performance venue is required in order to present the recital or complete the project, reservations must be made according to the current guidelines of the Music Operations office.
+
+#### General Education Requirements
+
+The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing.
+
+The provost has allowed an exception to the rules governing the new general education requirements for certain groups of students pursuing performance degrees in music. Students pursuing the Bachelor of Music in Jazz Studies or the Bachelor of Music in Performance (in all tracks except organ) may satisfy their social issues and first writing requirement separately by taking WRIT 130 (instead of WRIT 150 ) in the spring of their freshman year. In addition those pursuing the Bachelor of Music in Performance (vocal arts) may satisfy Category I of the new program with MUHL 331 and MUHL 332 .
+
+In all other respects, students in the Thornton School of Music must satisfy the general education requirements as described on the General Education Program page.
+
+##### Individual Instruction Limitations
+
+Music majors may accumulate a maximum of 16 units of individual instruction at the 300 level toward an undergraduate degree program.
+
+## Entrance Requirements
+
+---
+
+Applicants must submit the Thornton School of Music Supplementary Application, a statement of objectives, resume and repertoire list. A performance audition according to the requirements of the department of the applicant’s primary instrument or voice is also required.
+
+### Curriculum Requirements
+
+---
+
+- General education 6 courses
+- Writing 2 courses
+- MPxx 153 Units: 4 units total of individual instruction in primary instrument/voice
+- MPxx 253 Units: 4 units total of individual instruction in primary instrument/voice
+- MPxx 353 Units: 4 units total individual instruction in primary instrument/voice[*]
+- MPKS 250a Keyboard Instruction I Units: 2
+- MPKS 250b Keyboard Instruction I Units: 2
+-
+- MUCD 340 Choral Conducting I Units: 2 or
+- MUCD 343 Instrumental Conducting I Units: 2
+-
+- Ensemble electives Units: 2 units total
+- MUCO 132a Aural Skills I Units: 2
+- MUCO 132b Aural Skills I Units: 2
+- MUCO 133a Theory I Units: 3
+- MUCO 133b Theory I Units: 3
+- MUCO 232a Aural Skills II Units: 2
+- MUCO 232b Aural Skills II Units: 2
+- MUCO 233a Theory II Units: 3
+- MUCO 233b Theory II Units: 3
+- MUHL 231 Music History Units: 3
+- MUHL 232 Music History II Units: 3
+- MUHL 331 Music History III Units: 3
+- MUHL 332 Studies in Musical Culture Units: 3
+- MUIN 270 Introduction to the Music Industry Units: 4
+- MUIN 280 Communications in the Music Industry Units: 4
+- MUIN 360 Introduction to Music Law Units: 4
+- MUIN 450 Practicum in Music Industry Issues (Internship) Units: 1, 2, 3, 4 (8 units total)
+
+#### Two courses from the following:
+
+---
+
+- MUIN 370 Music Publishing and Licensing Units: 2
+- MUIN 385 Radio in the Music Industry Units: 4
+- MUIN 425 Live Music Production and Promotion Units: 4
+- MUIN 430 Artist Management and Development Units: 4
+- MUIN 435 Manufacture and Distribution of Musical Products Units: 4
+- MUIN 440 Arts Management Units: 4
+- MUIN 443 The Business of Music for Visual Media Units: 4
+- MUIN 445 International Music Industry Units: 4
+- MUIN 495 Web Design for the Music Industry Units: 4
+
+## Music Technology requirements:
+
+---
+
+- MTEC 175 Fundamentals of Audio Recording Units: 2
+- MTEC 176 Critical Listening Units: 2
+- MTEC 275 Fundamentals of Audio Engineering Units: 4
+
+### 6 units from the following:
+
+---
+
+- MUIN 287 The Business and Economics of the Recording Industry Units: 2
+- MUIN 340 Introduction to Sound Reinforcement Units: 4
+- MTEC 389 Digital Equipment and Recording Units: 2
+- MTEC 392a Acoustics and Speaker Design Units: 2
+- MTEC 392b Acoustics and Speaker Design Units: 2
+- MTEC 442 Operation of the Radio Studio Units: 2
+- MTEC 446a Computer Assisted Recording and Editing Units: 2
+- MTEC 446b Computer Assisted Recording and Editing Units: 2
+- MUIN 476a Advanced Sound Reinforcement Units: 2
+- MUIN 476b Advanced Sound Reinforcement Units: 2
+- MTEC 477 Remote Recording Techniques Units: 2
+- MTEC 478 Advanced Multichannel Remix Units: 2
+- MTEC 479 Audio Mastering Units: 2
+- MTEC 494 Classical Music Recording Units: 4
+- MUIN 496 Music Media Solutions Units: 4
+
+### Electives: 6 units
+
+---
+
+### Junior Recital: 0 units
+
+---
+
+## Total required for degree: 132
+
+---
+
+[*]All individual instruction units must be taken in the same area in which the students auditioned.
+
+---

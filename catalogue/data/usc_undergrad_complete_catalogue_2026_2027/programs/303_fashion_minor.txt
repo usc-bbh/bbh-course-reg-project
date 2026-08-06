@@ -1,0 +1,85 @@
+Program Name: Fashion Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32829
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32829&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32829
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:31Z
+Content SHA-256: 6dc05a80dbe4c616c0d537847fb8c594212fcbe1cc454491403ba4c14373e4ce
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Fashion Minor
+
+---
+
+The combined minor in Fashion recontextualizes the idea of fashion in an interdisciplinary and collaborative manner with elective options in fashion studies, wearable production, smart fabrics, costuming, dance and movement, media and culture, business entrepreneurship and marketing.
+
+- ACAD courses introduce students to the ideas of extended reality and interactive design with leading-edge technologies using smart fabrics and wearable electronics; IDSN courses further explore areas of the global fashion system via business design, market research and ambient computing.
+- ART, DES and FDN courses ground students in art and design foundations, allowing advanced focus on fashion design theory, issues of identity and visual representation.
+- BAEP and BUAD courses provide students with tools to create new products, new business ventures and new worlds.
+- DANC courses allow students to dive deeper into the relationship between fashion and performance, including points of intersection with choreography, corporeality, identity and theatricality. Grounded in embodied experimentation, students in these courses will be encouraged to experiment with fashion as the critical site at which the body meets world.
+- THTR classes teach students to build personal brands using the principles of costuming and the hands-on fabrication methods of a theatrical costume shop that span the worlds of musical theatre, superheroes, sports and fashion influencers, shaping identity and creating characters.
+
+The minor also serves as a gateway to two progressive degree options, Roski’s MFA in Fashion and Iovine and Young Academy’s MS in Fashion Innovation For more information about these options, please consult with the appropriate departmental adviser. The total number of units for the minor is 24.
+
+## Program Requirements (24 units)
+
+---
+
+## Lower Division Courses
+
+---
+
+Complete at least two courses and a minimum of 8 units.
+
+- ACAD 217 Extended Reality Design Units: 4
+- ACAD 230 Introduction to Interactive Physical Computing Units: 4
+- ACAD 245 Fundamentals of Product Design Units: 4
+- ART 110 Drawing for Art and Design Units: 4
+- DANC 170 Choreography and Performance Units: 2
+- DES 102 Design Fundamentals Units: 4
+- DES 230 3D Design: Materials and Tools Units: 4
+- THTR 231 Costume Construction Units: 3
+- THTR 233 Historic Costumes for the Theatre Units: 3
+
+## Upper Division Courses
+
+---
+
+Complete a minimum of 16 units.
+
+- ART 311 Anatomical Drawing from Life Units: 2
+- ART 314 Illustration for Art and Design Units: 2
+- BAEP 423 Management of Small Businesses Units: 4
+- BAEP 450 Fundamentals of Entrepreneurship Units: 4 or
+- BAEP 451 The Management of New Enterprises Units: 4
+- BAEP 452 Feasibility Analysis Units: 4
+- BUAD 307 Marketing Fundamentals Units: 4
+- COMM 396g Fashion, Media and Culture Units: 4
+- CRIT 415 Performance and Art Units: 4
+- CRIT 425 Identity and Visual Representation Units: 4
+- DANC 482 Improvisational Strategies in Movement and Materiality Units: 4
+- DES 313 Graphic Design in Fashion Units: 4
+- DES 323g Design Theory Units: 4
+- FDN 405 Race, Fashion and Pop Culture Units: 4
+- FDN 430 Materiality and Construction Units: 4
+- FDN 433 International Fashion Study Tour Units: 2
+- IDSN 535 Ambient Computing for Fashion Units: 4
+- IDSN 537 Extended Reality for Fashion Units: 4
+- IDSN 581 Introduction to the Global Fashion System Units: 2
+- IDSN 597 Industry Practicum in Fashion Innovation Units: 4
+- THTR 331 Costume Design I Units: 4
+- THTR 418 Advanced Fashion Construction: Tailoring Units: 4
+- THTR 433a Costume Design II: The Psychology of Fashion Units: 3
+- THTR 433b Costume Design II: The Psychology of Fashion Units: 3
+- THTR 447 Fashion Influencing Units: 4
+- THTR 448L History of Fashion and the Costume: A Guide to Glamour Units: 4
+- THTR 462 Sports and Fashion Units: 4
+
+---

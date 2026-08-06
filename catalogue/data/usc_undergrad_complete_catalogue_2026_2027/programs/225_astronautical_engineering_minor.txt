@@ -1,0 +1,56 @@
+Program Name: Astronautical Engineering Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32046
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32046&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32046
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:35Z
+Content SHA-256: bb7b57448aa84b4908e8ee34f972a362773f3c37bfeb3d718dd091c80756fb96
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Astronautical Engineering Minor
+
+---
+
+This program is for USC students who wish to work in the space industry and government space research and development centers and who are pursuing bachelor's degrees in science, mathematics or engineering with specializations other than in astronautical engineering.
+
+The space industry employs a wide variety of engineers (electrical, mechanical, chemical, civil, etc.); scientists (physicists, astronomers, chemists); and mathematicians. These engineers participate in development of advanced space systems but they usually lack the understanding of basic fundamentals of astronautics and space systems. The minor in astronautical engineering will help overcome this deficiency and provide unique opportunities for USC engineering, science and mathematics students, by combining their basic education in their major field with the industry specific minor in astronautical engineering.
+
+Required course work consists of a minimum of 18 units. Including prerequisites, the minor requires 46 units. Three courses, or 9 units, at the 400 level will be counted toward the minor. The course work is a balanced program of study providing the basic scientific fundamentals and engineering disciplines critically important for contributing to development of complex space systems.
+
+## Prerequisite Courses
+
+---
+
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+- MATH 226g Calculus III Units: 4
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+- PHYS 153L Fundamentals of Physics III: Optics, Thermo, Modern Physics Units: 4
+
+## Required Courses
+
+---
+
+- AME 310 Engineering Thermodynamics I Units: 4
+- ASTE 280 Foundations of Astronautical Engineering Units: 4
+- ASTE 331a Spacecraft Systems Engineering Units: 3
+- ASTE 331b Spacecraft Systems Engineering Units: 3
+- ASTE 421x Mission Systems Design Units: 3, 4
+-
+- ASTE 470 Spacecraft Propulsion Units: 3 or
+- ASTE 480 Spacecraft Dynamics Units: 3
+
+## Total Minimum Units: 18
+
+---
+
+---

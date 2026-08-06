@@ -1,0 +1,166 @@
+Program Name: Intelligence and Cyber Operations (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32563
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32563&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32563
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:09Z
+Content SHA-256: 6bece7ab06dde84eeeb54a30f6284b2d5ead20f78fa6d7e4a70b2c610e13a0c2
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Intelligence and Cyber Operations (BA)
+
+---
+
+The Bachelor of Arts in Intelligence and Cyber Operations brings scholarship in international relations together with technical expertise in cyber security and digital forensics to prepare USC students for a rapidly emerging field of scholarly activity and professional practice. This interdisciplinary major requires 56 units in total: 12 at the lower-division level and 44 at the upper-division level.
+
+## Lower-Division Required Courses (12 units)
+
+---
+
+- IR 210gw International Relations: Introductory Analysis Units: 4
+-
+- IR 213 The Global Economy Units: 4 or
+- ECON 203g Principles of Microeconomics Units: 4
+-
+- TAC 115 Programming in Python Units: 2 or
+- TAC 165 Introduction to C++ Programming Units: 2
+-
+- TAC 125L Hackers to CEOs: Intro to Cyber Security in the AI Era Units: 2
+
+## Upper-Division Required Courses (16 units)
+
+---
+
+- IR 304 National Intelligence and the Shaping of Policy Units: 4
+- IR 320 Technology and International Relations Units: 4
+- TAC 325 Ethical Hacking Units: 4
+- TAC 375 Digital Forensics and Cybersecurity Investigations Units: 4
+
+## Security and Violence (4 units)
+
+---
+
+Choose one:
+
+- IR 310 Peace and Conflict Studies Units: 4
+- IR 313 Religions and Political Violence Units: 4
+- IR 315 Ethnicity and Nationalism in World Politics Units: 4
+- IR 318 Violent Conflict Units: 4
+- IR 319 Human Security and Humanitarian Intervention Units: 4
+- IR 321 Civil War, Peace Building and International Intervention Units: 4
+- IR 323 Politics of Global Environment Units: 4
+- IR 332 Money, Guns and Oil Units: 4
+- IR 342 The Politics and Strategy of Weapons of Mass Destruction Units: 4
+- IR 379 Cyber Conflict: Problems and Policy Issues Units: 4
+- IR 381 Introduction to International Security Units: 4
+- IR 382w Order and Disorder in Global Affairs Units: 4
+- IR 383 Conflict Mediation & Negotiation Units: 4
+- IR 386 Terrorism and Counterterrorism Units: 4
+- IR 387 Strategic Studies Units: 4
+- IR 422 Ecological Security and Global Politics Units: 4
+- IR 427 Seminar on Economics and Security Units: 4
+
+## International Finance (4 units)
+
+---
+
+Choose one:
+
+- ECON 452 International Finance Units: 4
+- (Prerequisite: ECON 305 )
+- ECON 457 Financial Markets Units: 4
+- (Prerequisite: ECON 303 )
+- FBE 462 International Trade, Finance and Commercial Policy Units: 4
+- IR 328 The Evolving Global Economic Architecture-Capital Mobility Units: 4
+- IR 329 The Global Finance and Monetary Regime Units: 4
+- IR 331 The Global Economy 2040 Units: 4
+- IR 431 Commercial and Financial Globalization-Trends, Challenges Units: 4
+
+## Cyber Law, Policy and Management (4 units)
+
+---
+
+Choose one:
+
+- DSCI 429 Security and Privacy Units: 4
+- LAW 401 Cybersecurity and Cybercrime Units: 4
+- TAC 370 Cybersecurity Management and Operations Units: 4
+- TAC 479 Cyber Law and Privacy Units: 4
+
+## Technical Elective (8 units)
+
+---
+
+Choose two:
+
+- TAC 357 Enterprise Networks: Design and Architecture Units: 4
+- TAC 425 Web Application Security Units: 4
+- TAC 443 Malware Analysis and Reverse Engineering Units: 4
+- TAC 445 Apple Forensics and Security (macOS and iOS) Units: 4
+- TAC 457 Network Security Units: 4
+- TAC 458 Defending and Investigating Compromised Networks Units: 4
+- TAC 475 Advanced Digital Forensics and Incident Response Units: 4
+
+## Regional Electives (8 units)
+
+---
+
+Choose two courses, each from a different category:
+
+### The Middle East and Africa
+
+---
+
+- IR 350 Power and Authority in the Middle East Units: 4
+- IR 359 The United States and the Middle East Units: 4
+- IR 362 The International Relations of the Contemporary Middle East Units: 4
+- IR 367 Africa in International Affairs Units: 4
+- IR 463 Islam and Arab Nationalism Units: 4
+- MDES 301g The Global Middle East Units: 4
+- MDES 340g The United States and the Middle East Units: 4
+- POSC 351 Middle East Politics Units: 4
+- POSC 358 Politics of Sub-Sahara Africa Units: 4
+- REL 402 Cultural Heritage, Religion, and Politics in the Middle East Units: 4
+
+### Russia, Eastern Europe and Eurasia
+
+---
+
+- IR 345 Russian and Post-Soviet Foreign Policy Units: 4
+- IR 346 Communism and Post-Communism: Eastern Europe and the Balkans Units: 4
+- IR 439 Political Economy of Russia and Eurasia Units: 4
+
+### East Asia
+
+---
+
+- EALC 361 Global East Asia Units: 4
+- HIST 366 The People’s Republic of China Units: 4
+- IR 333 China in International Affairs Units: 4
+- IR 340 The Political Economy of China Units: 4
+- IR 360 International Relations of the Pacific Rim Units: 4
+- IR 384 Asian Security Issues Units: 4
+- IR 407 Chinese Foreign Policy Units: 4
+- IR 442 Japanese Foreign Policy Units: 4
+
+### Central and Latin America
+
+---
+
+- IR 365 Politics and Democracy in Latin America Units: 4
+- IR 425 The New Triangle: China, the U.S. and Latin America Units: 4
+- IR 466 Contemporary Issues in Latin American Politics Units: 4
+- POSC 350 Politics of Latin America Units: 4
+
+## Total Units for Major: 56
+
+---
+
+---

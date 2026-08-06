@@ -1,0 +1,59 @@
+Program Name: Disruptive Innovation Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32567
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32567&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32567
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:47Z
+Content SHA-256: 00052ce488d2325ad3de92591e30105039b0ec412d71d7ee1c29feb51aadd988
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Disruptive Innovation Minor
+
+---
+
+The Disruptive Innovation minor provides students with the skills to launch resilient ventures at the intersection of business, technology and creative practice. From ideation and development to branding, fundraising and market expansion, students learn hands-on techniques to create business advantage and lead teams.
+
+In an era where industries evolve at lightning speed, a minor in Disruptive Innovation positions students at the forefront of global change. This specialized program goes beyond traditional academic confines, delving into business strategy, technology integration, human-centered design and new methodologies to harness unexpected market shifts. It empowers students to not just navigate but also pioneer change, turning groundbreaking ideas into tangible advancements that can upend and redefine industries. Graduates emerge as leaders, equipped with a unique skill set that blends critical thinking, technology application, and an entrepreneurial spirit to capitalize on opportunities that others see as challenges. This minor is more than just an education; it will allow students to influence the future, transform uncertainties into prospects, and drive progress with innovation that disrupts and reshapes the world of business.
+
+Additional electives, including in other schools at USC, will be considered through student advisement.
+
+Information on how to apply for the minor can be found at:
+
+iovine-young.usc.edu
+
+## Required Courses (20 units)
+
+---
+
+Students must complete the following 20 units:
+
+- ACAD 181g Disruptive Innovation Units: 4
+- ACAD 182 Disruptive Validation Units: 4
+- ACAD 220 Introduction to Data Innovation and Analytics Units: 4
+- ACAD 324g The Practice of Design: Ideation to Innovation Units: 4
+- ACAD 360 Design Strategy: Problem Solving for Organizations Units: 4
+
+## Electives (4 units)
+
+---
+
+Students must complete 4 units from the following:
+
+- ACAD 222 Introduction to Machine Intelligence Units: 4
+- ACAD 245 Fundamentals of Product Design Units: 4
+- ACAD 260 Introduction to Healthcare Innovation Units: 4
+- ACAD 274 Designing Interactive Data Systems Units: 4
+- ACAD 275 Dev I Units: 4
+- ACAD 402 Modern Brand and Community Playbook Units: 2
+- ACAD 406 Purpose-Driven Innovation Incubator Units: 2
+- IDSN 577 Finance for Entrepreneurs Units: 3
+- TAC 479 Cyber Law and Privacy Units: 4
+
+---

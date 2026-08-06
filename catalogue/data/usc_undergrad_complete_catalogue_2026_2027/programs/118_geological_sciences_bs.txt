@@ -1,0 +1,88 @@
+Program Name: Geological Sciences (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31758
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31758&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31758
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:35Z
+Content SHA-256: ab9d50ab9436f1977305595365723786d92a1e8b952a4b905851754a5533862c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Geological Sciences (BS)
+
+---
+
+## Required Courses
+
+---
+
+### Introduction:
+
+---
+
+(4 units):
+
+Any GEOL 100- or 200-level course (4 units):
+
+- GEOL 105Lg Planet Earth Units: 4
+- GEOL 107Lg Oceanography Units: 4
+- GEOL 108Lg Natural Disasters and Their Global Impact Units: 4
+- GEOL 125Lg Earth History: A Planet and Its Evolution Units: 4
+- GEOL 130Lg The Nature of Scientific Inquiry Units: 4
+- GEOL 150Lg Climate Change Units: 4
+- GEOL 240Lg Earthquakes Units: 4
+
+### Required courses from other departments (24 units)
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4 and
+- CHEM 105bL General Chemistry Units: 4 or
+- CHEM 115aLg Advanced General Chemistry Units: 4 and
+- CHEM 115bL Advanced General Chemistry Units: 4
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+- PHYS 135aLg Physics for the Life Sciences Units: 4 and
+- PHYS 135bL Physics for the Life Sciences Units: 4 or
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 and
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4 or
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 and
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4 and
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+
+### Required upper-division courses (12 units):
+
+---
+
+- GEOL 315L Minerals and Earth Systems Units: 4
+- GEOL 387ag Undergraduate Team Research Units: 2
+-
+- GEOL 465L Field Geology Units: 4 or
+- GEOL 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 (4 Units Required)
+-
+- GEOL 494x Senior Thesis Units: 2
+
+### Electives (28 units):
+
+---
+
+28 additional units must be selected from MATH 225 , MATH 226 or any upper-division course listed or cross-listed as GEOL.*
+
+#### Note:
+
+---
+
+*Up to two upper-division courses from other science departments may be substituted for any two in this group, on approval of the departmental undergraduate adviser.
+
+## Total units: 68
+
+---
+
+---

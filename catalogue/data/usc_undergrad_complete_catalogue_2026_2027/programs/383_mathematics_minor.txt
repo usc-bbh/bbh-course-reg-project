@@ -1,0 +1,60 @@
+Program Name: Mathematics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31857
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31857&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31857
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:44Z
+Content SHA-256: 803336b540cef74ae17b9d11be28537afc9638d29393796ddbf53095552db1e1
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Mathematics Minor
+
+---
+
+The minor in mathematics requires at least 32 units.
+
+## Lower-Division Requirements
+
+---
+
+- MATH 125g Calculus I Units: 4
+-
+- MATH 126g Calculus II Units: 4 or
+- MATH 127 Enhanced Calculus II Units: 4 or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- MATH 235 Linear Algebra and Applications Units: 4 or
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+-
+- MATH 226g Calculus III Units: 4 or
+- MATH 227 Enhanced Calculus III Units: 4 or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+-
+
+## Upper-Division Requirements
+
+---
+
+Four MATH courses are required at the 400-level or above, each being at least 3 units. At least one of the following courses must be taken with a grade of C or better:
+
+- MATH 410 Fundamental Concepts of Modern Algebra Units: 4
+- MATH 425a Fundamental Concepts of Analysis Units: 4
+- MATH 435 Introduction to Differential Geometry Units: 4
+- MATH 440 Topology Units: 4
+- MATH 471 Topics in Linear Algebra Units: 4
+
+### Note:
+
+---
+
+These four courses at the 400 level or above must total at least 16 units.
+
+---

@@ -1,0 +1,50 @@
+Program Name: Sports Law Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32942
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32942&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32942
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:50Z
+Content SHA-256: b72848589eecb4855fccdc2eab3e69ade6b437e7d4e9764504c718f9633195f8
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Sports Law Minor
+
+---
+
+The Minor in Sports Law introduces the legal foundations of the sports law industry and explores regulation, contract drafting, dealmaking, and legal issues challenging this industry.
+
+The Minor in Sports Law totals 16 units: 8 required core Law units, and 8 units of electives from Law and various departments as listed below.
+
+## Required Core Courses (8 units)
+
+---
+
+- LAW 200w Law and Society Units: 4
+- OR
+- LAW 210p Fundamentals of the U.S. Legal System Units: 4
+- AND
+- LAW 324 Sports Law Units: 4
+
+## Electives (8 units)
+
+---
+
+- COMM 381 Issues in Contemporary Sport Units: 4
+- COMM 383m Sports, Communication and Culture Units: 4
+- COMM 387 Sports and Social Change Units: 4
+- JOUR 380 Sports, Business and Media in Today’s Society Units: 4
+- JOUR 478 Politics of Sports Writing Units: 4
+- JOUR 485 Sports Investigative Reporting Units: 4
+- LAW 326 Law and the Modern Athlete Units: 4
+- LAW 311 Fundamentals of Entertainment Law Units: 4
+- LAW 350 Law and Entrepreneurship Units: 4
+- OT 333 Sports Ethics Units: 4
+
+---

@@ -1,0 +1,177 @@
+Program Name: Performance (Popular Music) (BM)
+Credential: BM
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32239
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32239&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32239
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:25Z
+Content SHA-256: 25da2cd9dd3de0d6538a0c36761cc411ee716db6382654a0a46aaeeadde050bf
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Performance (Popular Music) (BM)
+
+---
+
+### Overview
+
+The Bachelor of Music in Popular Music is designed for students interested in pursuing a career in the performance of popular music. This program consists of course work in the major performance area, core music classes, USC’s general education and writing, as well as electives to take advantage of the offerings of the Thornton School and of the entire university.
+
+### Entrance Requirements
+
+Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees. Specific entrance requirements are reviewed on an annual basis and published online at music.usc.edu.
+
+### General Education Requirements
+
+USC’s General Education program, revised in fall 2015, provides a coherent, integrated approach to the study of the liberal arts, with the goal of nurturing habits of thought that are essential for professional success, personal development, and meaningful lifelong learning. Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC. With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements. Academic advisers in the Thornton School carefully guide Thornton students in making their course choices. This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements.
+
+### Capstone Project
+
+A capstone project must be completed under approved faculty supervision and guidance. The faculty of the department of the student’s major program determines the detailed requirements of the project, including content, length, format and other specifications. In cases in which a performance venue is required in order to present the project, reservations must be made according to the current guidelines of the Music Operations office.
+
+## Curriculum Requirements
+
+---
+
+### General Education *
+
+---
+
+#### Core Literacies
+
+---
+
+GE-A: The Arts (one course)
+
+GE-B: Humanistic Inquiry (two courses)
+
+GE-C: Social Analysis (two courses)
+
+GE-D: Life Sciences (one course)
+
+GE-E: Physical Sciences (one course)
+
+GE-F: Quantitative Reasoning (one course)
+
+#### Global Perspectives
+
+---
+
+GE-G: Global Perspectives I (one course)
+
+GE-H: Global Perspectives II (one course)
+
+#### Writing
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+### Core Thornton Academic Courses (30 units)
+
+---
+
+- MPPM 350g A History of Popular Music Units: 4
+- MUCO 131a Harmony in Popular Music Units: 2
+- MUCO 131b Harmony in Popular Music Units: 2
+- MUCO 132a Aural Skills I Units: 2
+- MUCO 132b Aural Skills I Units: 2
+- MUCO 133a Theory I Units: 3
+- MUCO 133b Theory I Units: 3
+- MUCO 232a Aural Skills II Units: 2
+- MUCO 232b Aural Skills II Units: 2
+- MUHL 250g Music and Ideas Units: 4
+- Select 4 units from the following:
+- MUHL 350g Western Art Music History I Units: 4
+- MUHL 351 Western Art Music History II Units: 4
+- MUJZ 350g A History of Jazz Music Units: 4
+- MUSC 102gw World Music Units: 4
+- MUSC 115gp Western Music as Sounding History Units: 4
+- MUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4
+- MUSC 210g Electronic Music and Dance Culture Units: 4
+- MUSC 250gmw The Music of Black Americans Units: 4
+- MUSC 320gmw Hip-hop Music and Culture Units: 4
+- MUSC 371g Musical Genre Bending Units: 4
+- MUSC 372g Music and Politics Units: 4
+- MUSC 373g Writing About Popular Music Units: 4
+- MUSC 460 Film Music: History and Function from 1930 to the Present Units: 4
+- MUSC 465 Music, Television and American Culture Units: 4
+
+### Program Specific Courses (45 units)
+
+---
+
+#### Forum, Individual Instruction, and Performance Class (21 units)
+
+---
+
+- MPPM 100 Forum Units: 1
+- MPPM 120 Popular Music Performance I Units: 2
+- 4 units total of MPPM 120
+- MPPM 153 Individual Instruction Units: 1, 2
+- 4 units total of MPPM 153
+- MPPM 220 Popular Music Performance II Units: 2
+- 4 units total of MPPM 220
+- MPPM 253 Individual Instruction Units: 1, 2
+- 4 units total of MPPM 253
+- MPPM 320 Popular Music Performance III Units: 2
+- 4 units total of MPPM 320
+
+#### Music Ensembles (2 units)
+
+---
+
+Music Ensemble at the 300-level: two 1-unit courses
+
+#### Program Intensive Courses (22 units)****
+
+---
+
+- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2 [**]
+- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2 [***]
+- MPPM 325a Arranging in Popular Music Units: 2
+- MPPM 325b Arranging in Popular Music Units: 2
+- MTEC 448 Computer Music Notation and Preparation Units: 2
+- MUIN 270 Introduction to the Music Industry Units: 4
+- MUSC 255 Songwriting I Units: 2
+- MUSC 496 Careers in Music Units: 2
+- Select four units from the following:
+- MTEC 245 Introduction to MIDI Sequencing Units: 1
+- MTEC 246 Introduction to Audio Recording and Editing Units: 1
+- MTEC 378 Introduction to Mixing and Mastering Units: 2
+- MTEC 443 Desktop Music Production Units: 2
+- MTEC 444 Non-Linear MIDI Sequencing Units: 2
+- MTEC 445 Advanced Desktop Music Production Units: 2
+- MTEC 446a Computer Assisted Recording and Editing Units: 2
+- MTEC 446b Computer Assisted Recording and Editing Units: 2
+
+### Electives (23 units)
+
+---
+
+### Capstone Projects (2 units)
+
+---
+
+- MPPM 450a Final Project Units: 1
+- MPPM 450b Final Project Units: 1
+
+## Total Required for Degree: 132
+
+---
+
+[*]With correct planning, only 32 units (six GE and two Writing courses) will be needed outside of your major requirements.​
+
+[**]Drummers will substitute a class in guitar or voice.
+
+[***]Keyboardists will substitute a class in guitar or voice.
+
+****Songwriting emphasis students whose primary instrument is guitar will be evaluated to determine if they will need additional course work. If additional course work is required, the student will need to take MPGU 145 Guitar Proficiency for the Pop Guitarist, along with all other required course work listed for their degree.
+
+---

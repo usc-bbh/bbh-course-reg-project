@@ -1,0 +1,25 @@
+Program Name: Jewish Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32424
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32424&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32424
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:45Z
+Content SHA-256: dcb882586825a57e0eac14bb74b8dde708d46ee316a20739df8c1f2f8877e73b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Jewish Studies Minor
+
+---
+
+Students taking the Jewish studies minor must enroll in either JS 100 or JS 180 . In addition, they must complete four upper-division courses selected from the Judaism as a Religious Tradition track and the Jewish History and Culture track listed in the Jewish studies major description.
+
+The total unit requirement for the minor is 20 units; 16 of those units must be upper-division.
+
+---

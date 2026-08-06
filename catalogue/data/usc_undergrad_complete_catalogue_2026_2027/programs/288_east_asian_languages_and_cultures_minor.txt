@@ -1,0 +1,107 @@
+Program Name: East Asian Languages and Cultures Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31772
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31772&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31772
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:57Z
+Content SHA-256: fc144d624e8381114836e1349490464034e328962a9814f939c43d78fef8dcc3
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# East Asian Languages and Cultures Minor
+
+---
+
+The core requirements for the EALC minor allow students flexibility in designing their own course of study. Students typically select one language and cultural area (Chinese, Japanese or Korean) in which they do most of their course work. For this reason, one frequently hears students on campus speaking about “minoring” in Japanese, Chinese or Korean, though strictly speaking all these students are actually “minoring” in EALC. Minors are encouraged to explore beyond their individual language focus by enrolling in the full range of EALC courses available in literature, film, history, media and other aspects of East Asian cultures.
+
+Core requirements for EALC minors consist of an upper-division cultural studies course and a language requirement that may be waived by diagnostic exam. Students then also take three upper-division elective courses (12 units) for an overall minimum of 16 units. Students minoring in EALC are strongly encouraged to take at least one lower-division cross-cultural survey course.
+
+## Cultural Studies Course (Choose One)
+
+---
+
+Cultural Studies courses provide students with an in-depth introduction to a cultural tradition within its regional context. Students are required to take one of these courses to fulfill the Cultural Studies requirement.
+
+- EALC 324gw Contemporary China: Cultural Politics and Social Realities Units: 4
+- EALC 340gp Japanese Civilization Units: 4
+- EALC 342gp Japanese Literature and Culture Units: 4
+- EALC 344gp Korean Culture from Ancient to Modern Times Units: 4
+- EALC 350gp Chinese Civilization Units: 4
+- EALC 382 Art and Cultural Heritage in East Asia Units: 4
+
+## Language Requirement
+
+---
+
+Minors must complete four semesters (two years) of one East Asian Language. This requirement may be waived by placement exam.
+
+- EALC 206 Chinese IV Units: 4
+- or
+- EALC 217 Korean IV Units: 4
+- or
+- EALC 222 Japanese IV Units: 4
+
+## Upper-Division Electives (Choose three)
+
+---
+
+Our faculty teach new courses every year. Please check the department’s Schedule of Classes to see the full range of courses. EALC 324gw , EALC 340gp , EALC 342gp , EALC 350gp and EALC 382 may count as an elective if not taken to satisfy the Cultural Studies course requirement. One upper-division course on East Asian culture from another department may likewise count toward the minor with an adviser’s approval.
+
+- EALC 324gw Contemporary China: Cultural Politics and Social Realities Units: 4
+- EALC 333g Introduction to Korean Film Units: 4
+- EALC 340gp Japanese Civilization Units: 4
+- EALC 342gp Japanese Literature and Culture Units: 4
+- EALC 344gp Korean Culture from Ancient to Modern Times Units: 4
+- EALC 346g Hallyu, the Korean Wave Units: 4
+- EALC 350gp Chinese Civilization Units: 4
+- EALC 358g Transnational Chinese Literature and Culture Units: 4
+- EALC 360g Performing Japan: Bodies, Media, and Textuality Units: 4
+- EALC 374 Language and Society in East Asia Units: 4
+- EALC 375 Women and Gender in China: Past and Present Units: 4
+- EALC 382 Art and Cultural Heritage in East Asia Units: 4
+- EALC 385 Myth, Folklore, and Fantasy in Japanese Literature and Film Units: 4
+- KSI 399 Korean Studies Research Seminar Units: 4
+- EALC 400 Classical Chinese I Units: 4
+- EALC 402 Classical Chinese II Units: 4
+- EALC 426 Classical Japanese Units: 4
+- EALC 428 Nature and the Ecological Imagination in Japanese Literature Units: 4
+- EALC 430 Gender and Sexuality in Korean Literature and Culture Units: 4
+- EALC 435 Ethnic Identity and Minority Politics in China Units: 4
+- EALC 438 The Tale of Genji and its Worlds Units: 4
+- EALC 450 Contemporary Japanese Literature and Global Modernity Units: 4
+- EALC 452 Chinese Fiction Units: 4
+- EALC 455 Japanese Fiction Units: 4
+- EALC 460 Love, Self and Gender in Japanese Literature Units: 4
+- EALC 465 Topics in Korean Visual and Cultural Studies Units: 4
+- EALC 475 Topics in Chinese Photography Units: 4
+- EALC 485 Material Culture of the Silk Road Units: 4
+- EALC 489 The Mongol Era in China: Genghis Khan, Khubilai, Marco Polo Units: 4
+- EALC 499 Special Topics Units: 2, 3, 4
+- Upper-Division Language Electives
+  Up to two third- or fourth-year language courses (8 units maximum) may be used to satisfy 8 units of upper-division electives.
+- EALC 304 Advanced Modern Chinese I Units: 4
+- EALC 306 Advanced Modern Chinese II Units: 4
+- EALC 315 Advanced Korean I Units: 4
+- EALC 317 Advanced Korean II Units: 4
+- EALC 320 Advanced Japanese I Units: 4
+- EALC 322 Advanced Japanese II Units: 4
+- EALC 404 Advanced Modern Chinese III Units: 4
+- EALC 406 Advanced Modern Chinese IV Units: 4
+- EALC 407 News and Web Chinese Units: 4
+- EALC 409 Chinese Through Literary Works and Texts Units: 4
+- EALC 413 Business Japanese Units: 4
+- EALC 415 Advanced Korean III Units: 4
+- EALC 417 Advanced Korean IV Units: 4
+- EALC 418 Korean Multiliteracy in Contemporary Contexts Units: 4
+- EALC 419 Korean Language Through Modern Media Units: 4
+- EALC 422 Advanced Japanese III Units: 4
+- EALC 424 Advanced Japanese IV Units: 4
+- EALC 440 Current Topics in Japanese Units: 4
+
+---

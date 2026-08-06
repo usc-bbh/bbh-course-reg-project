@@ -1,0 +1,27 @@
+Program Name: Latin Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32473
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32473&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32473
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:57Z
+Content SHA-256: bfa5a061fc7d0a1f8e93fcfdb47da374bed6cc003f1d4a287bf94abd14d0e4fb
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Latin Minor
+
+---
+
+Four courses in Latin, of which one may be LAT 222 and at least three must be at the upper-division level.
+
+One additional upper-division course: either Latin (LAT) or Classics (CLAS).
+
+TOTAL: five courses
+
+---

@@ -1,0 +1,70 @@
+Program Name: Entertainment Law Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32879
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32879&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32879
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:15Z
+Content SHA-256: b950ab7284ac4da6c94c9f3c515011692649f1c26fbcec77e740855cec36574a
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Entertainment Law Minor
+
+---
+
+The minor in Entertainment Law introduces the legal foundations of the entertainment industry and explores intellectual property law, digital media, contracts, dealmaking and legal issues challenging this industry.
+
+The minor in Entertainment Law totals 20 units; 8 required core units, a minimum of 4 or a maximum 8 LAW elective units, and a minimum 4 or maximum 8 units of other electives from various departments as listed below.
+
+## Required Core Courses (8 units)
+
+---
+
+- LAW 210p Fundamentals of the U.S. Legal System Units: 4
+- LAW 311 Fundamentals of Entertainment Law Units: 4
+
+## Law Electives (minimum 4 units or maximum 8 units)
+
+---
+
+- LAW 207 Personal Data in the 21st Century Units: 4
+- LAW 211 Intellectual Property and Technology Units: 4
+- LAW 324 Sports Law Units: 4
+- LAW 326 Law and the Modern Athlete Units: 4
+- LAW 350 Law and Entrepreneurship Units: 4
+
+## Other Electives (minimum 4 units or maximum 8 units)
+
+---
+
+- CNTV 457 The Entertainment Entrepreneur: Getting Your First Project Made Units: 2
+- CNTV 473 Digital Media Techniques of Entertainment and Fake News Units: 2
+- CNTV 475 How to Make “It”: Mapping Your Way to Success in Showbiz Units: 2
+- CNTV 499 Special Topics Units: 2, 3, 4
+- COMM 206 Communication and Culture Units: 4
+- COMM 300 Entertainment, Communication and Society Units: 4
+- COMM 306 Innovation, Entertainment, and the Arts Units: 4
+- COMM 430 Global Entertainment Units: 4
+- COMM 498 Ethical Issues in Entertainment and Communication Units: 4
+- CTCS 468 Media Industry Studies Units: 4
+- CTPR 386 Film and Television Case Study Units: 4
+- CTPR 410 The Entertainment Industry: From Idea to Audience Units: 2
+- CTPR 460 Film Business Procedures and Distribution Units: 2 or 4
+- CTPR 485 How They Made It Units: 2
+- CTWR 404 Foundations of Comedy Units: 2
+- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4
+- CTWR 411 Television Script Analysis Units: 2
+- CTWR 416 Motion Picture Script Analysis Units: 2
+- CTWR 417 Script Coverage and Story Analysis Units: 2
+- CTWR 422 Creating the Dramatic Television Series Units: 2
+- CTWR 430 Comedy Writers and Their Work Units: 2
+- CTWR 431 Screenwriters and Their Work Units: 2
+- CTWR 432 Television Writers and Their Work Units: 2
+
+---

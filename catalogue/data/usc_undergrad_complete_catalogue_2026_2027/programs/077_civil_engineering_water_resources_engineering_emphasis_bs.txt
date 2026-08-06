@@ -1,0 +1,154 @@
+Program Name: Civil Engineering, Water Resources Engineering Emphasis (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32628
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32628&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32628
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:51:59Z
+Content SHA-256: 6b85e223567f74a897185af7a9d4fc137bb5ab91b11016f18e19ca17c197927b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Civil Engineering, Water Resources Engineering Emphasis (BS)
+
+---
+
+The unit requirement for the degree with an emphasis in construction engineering and management is 132 units. A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken. In addition, a minimum grade of C must be earned in each of the following courses: CE 215 , CE 225 and CE 309 . See also common requirements for undergraduate degrees .
+
+## Composition/Writing Requirement
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+## General Education
+
+---
+
+- General Education Units: 20
+
+## Pre-Major Requirements
+
+---
+
+### Chemistry Requirement
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4 * or
+- CHEM 115aLg Advanced General Chemistry Units: 4 *
+
+### Math Requirement
+
+---
+
+- MATH 126g Calculus II Units: 4 * or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 226g Calculus III Units: 4 * or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+-
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+
+### Physics Requirement
+
+---
+
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 *
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+
+### Biology Requirement
+
+---
+
+Each of the following courses will satisfy both the BS CE basic science requirement and the General Education GE-D requirement. Choose one from this list:
+
+- BISC 104Lgx How the Body Works Units: 4 *
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 *
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4 *
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 *
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4 *
+- BISC 230Lgx The Biology of the Brain Units: 4 *
+- HBIO 205Lgx The Science of Sport Units: 4 *
+
+## Major Requirements
+
+---
+
+### Engineering
+
+---
+
+- ENGR 102 Viterbi First-Year Academy Units: 2
+
+### Civil Engineering
+
+---
+
+- CE 106 Introduction to Civil Engineering Units: 2
+- CE 107L Introduction to Civil Engineering Graphics Units: 2
+- CE 108 Programming for Civil and Environmental Engineers Units: 2
+- CE 119 Statistical Data Analysis in Engineering Units: 2
+- CE 215 Statics and Dynamics Units: 4
+- CE 225 Mechanics of Deformable Bodies Units: 4
+- CE 309 Fluid Mechanics Units: 4
+- CE 330 Computational Methods in Engineering Units: 2
+- CE 334L Mechanical Behavior of Materials Units: 4
+- CE 358L Elementary Theory of Structures Units: 4
+- CE 408 Risk and Decision Analysis in Civil Engineering Units: 2
+- CE 451 Water Resources and Coastal Engineering Units: 4
+- CE 453 Water Quality Science and Engineering Units: 4
+- CE 456 Structural Design I Units: 4
+- CE 467L Geotechnical Engineering Units: 4
+- CE 471 Principles of Transportation Engineering Units: 4
+- CE 483 Engineering Economics in Civil Engineering Units: 2
+
+#### Civil Engineering Electives
+
+---
+
+Choose at least 4 units of civil engineering electives from the following list:
+
+- CE 412 Construction Contracts and Law Units: 2
+- CE 430 Sustainable Transportation Units: 2
+- CE 460 Construction Engineering Units: 4
+- CE 461 Construction Estimating Units: 4
+
+### Water Resources Engineering Emphasis Courses
+
+---
+
+- CE 450 Coastal Engineering and Design Units: 4
+- CE 465 Water Supply and Sewerage System Design Units: 4
+
+### Advanced Computing
+
+---
+
+Students who must take MATH 125g Calculus I will be waived from the required Advanced Computing course. Select one course from the following list:
+
+- CE 423 Principles of Autonomy in Civil Engineering Units: 4 Or
+- ENE 440 Machine Learning for Climate Change and Sustainability Units: 4 Or
+- CE 427 Machine Learning for Civil and Environmental Engineers Units: 4
+
+### Capstone Course
+
+---
+
+- CE 480 Civil and Environmental Engineering Capstone Design Units: 4
+
+## Total minimum units: 132
+
+---
+
+*Satisfies General Education requirement.
+
+All curricula leading to a degree must be approved by the Astani Department of Civil and Environmental Engineering; please note this includes transfer credit and units for courses waived for subject credit only, which have been approved through the Degree Progress department.​
+
+---

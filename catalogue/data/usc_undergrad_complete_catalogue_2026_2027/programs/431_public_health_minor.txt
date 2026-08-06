@@ -1,0 +1,48 @@
+Program Name: Public Health Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32216
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32216&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32216
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:34Z
+Content SHA-256: 9c6d6e9542f981bcaebda5d372fbf13d58571f0a157368655465d23107fbc156
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Public Health Minor
+
+---
+
+This minor is designed for students interested in a broad array of health issues. The focus of the minor is on reducing disability and mortality from avoidable injuries and chronic disease, educating the community about healthy lifestyles, assuring access to health care, and measuring changes using various indicators over time. This minor teaches students to meet the challenges of the changing environment of the health care system. It complements a number of majors including psychology, sociology, American studies and ethnicity, biological sciences, economics, environmental studies, kinesiology, gender studies, international relations, philosophy, religion, gerontology and political science.
+
+## Required Courses (20-24 Units)
+
+---
+
+- HP 200 Introduction to Health Promotion and Disease Prevention Units: 4
+- PPD 330 Introduction to Health Care Systems Units: 4
+
+### Three of the following:
+
+---
+
+- HP 365gmw Culture, Lifestyle, and Health Units: 4
+- HP 370g Introduction to Epidemiology: Methods and Applications Units: 4
+- HP 401 Cultural Competence in Medicine Units: 4
+- HP 402 Maternal and Child Health Units: 4
+- HP 408 Environmental Health in the Community Units: 4
+- HP 410 Issues in Prevention and Cessation of Drug Abuse Units: 4
+- HP 420m Gender and Minority Health Issues Units: 4
+- HP 421 Violence as a Public Health Issue Units: 4
+- HP 422 AIDS in Society Units: 4
+- HP 430 Obesity and Health Units: 4
+- HP 441 Health Promotion in the Workplace Units: 4
+- HP 442 Chronic Disease Epidemiology Units: 4
+- HP 460 Adolescent Health Units: 4
+
+---

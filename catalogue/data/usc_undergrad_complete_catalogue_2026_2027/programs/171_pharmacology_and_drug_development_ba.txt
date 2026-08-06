@@ -1,0 +1,172 @@
+Program Name: Pharmacology and Drug Development (BA)*
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32707
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32707&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32707
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:33Z
+Content SHA-256: b5a64b46f468ef44150d50332929f7b6533fc3812f45d26c7d6814bd2d5248f2
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Pharmacology and Drug Development (BA)*
+
+---
+
+The Bachelor of Arts in Pharmacology and Drug Development (PDD) provides a well-deﬁned pathway for science and non-science majors to gain signiﬁcant knowledge in pharmacology, pharmaceutical sciences, toxicology and medical product development, regulation, marketing and use.
+
+The Bachelor of Arts in Pharmacology and Drug Development is a cooperative degree program involving the USC Dornsife College of Letters, Arts and Sciences and the USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences. Students complete 128 units, including at least 70 units of course work in USC Dornsife and at least 36 units of course work in USC Mann.
+
+The Bachelor of Arts in Pharmacology and Drug Development offers a unique interdisciplinary approach designed to provide in-depth training in the discovery, development and commercialization of pharmaceutical products and their role in health care industries. Courses focus on sub disciplines of pharmaceutical sciences including the study of the chemical and physical properties of drugs and their biological effects, and will link these systems to the discovery, development and commercialization of pharmaceuticals for the advancement of human health. Courses will also focus on the business and marketing aspects of the pharmaceutical industry.
+
+The Bachelor of Arts in Pharmacology and Drug Development will be a springboard to diverse careers in industrial, academic or other research environments within the areas of drug discovery, development, and commercialization. It will prepare students for professional or graduate studies in graduate education in pharmaceutical, medical and basic sciences and post-baccalaureate professional education in biomedical engineering, business, finance and law.
+
+The Bachelor of Arts in Pharmacology and Drug Development requires the completion of a minimum of 128 units that include:
+
+1. General education, foreign language and writing requirements
+2. Foundational courses designed to prepare students for the major
+3. An introductory 4-unit lower-division (200 level) course in Pharmaceutical and Regulatory Science (RXRS)
+4. A minimum number of 32 units of upper-division (300 level and above) courses in Pharmaceutical and Regulatory Science (RXRS) and Biopharmaceutical Sciences (BPSI)
+5. A minimum of 8 units of upper-division (300 level and above) courses in Biological Sciences (BISC) unique to the major
+
+The Bachelor of Arts in Pharmacology and Drug Development is conferred by USC Dornsife.
+
+## Calculus
+
+---
+
+Select one course.
+
+- MATH 108g Contemporary Precalculus Units: 4
+- MATH 118gx Calculus for Business and Economics Units: 4
+- MATH 125g Calculus I Units: 4
+
+## Statistics
+
+---
+
+Select one course.
+
+- BME 423 Statistical and Data Science Methods in Biomedical Engineering Units: 4
+- ECON 317 Introduction to Statistics for Economists Units: 4
+- HP 340Lg Health Behavior Statistical Methods Units: 4
+- MATH 208x Elementary Probability and Statistics Units: 4
+- PSYC 274Lg Statistics Units: 4
+- QBIO 305g Statistics for Biological Sciences Units: 4
+
+## Chemistry
+
+---
+
+Select two courses from either the general chemistry or the advanced general chemistry series.
+
+- CHEM 105aLg General Chemistry Units: 4
+- CHEM 105bL General Chemistry Units: 4
+- CHEM 115aLg Advanced General Chemistry Units: 4
+- CHEM 115bL Advanced General Chemistry Units: 4
+
+## Biology
+
+---
+
+Select two courses from either the general biology or the advanced general biology series.
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+
+## Pharmaceutical and Regulatory Science (RXRS) and Biopharmaceutical Sciences (BPSI) Unit Requirement
+
+---
+
+Students must complete a minimum of 36 units of RXRS or BPSI course work, including one 4-unit lower-division RXRS course and a minimum of 32 units of upper-division (300 level and above) RXRS or BPSI courses. A maximum of 4 units can be met by taking Directed Research (RXRS 490x )
+
+## Pharmaceutical and Regulatory Science (RXRS) Requirement (Part 1)
+
+---
+
+One course.
+
+- RXRS 200 Approaches to Pharmacology and Drug Development Units: 4
+
+## Pharmaceutical and Regulatory Science (RXRS) Requirement (Part 2)
+
+---
+
+One course.
+
+- RXRS 402 Human Pharmacology: Challenge of Therapeutics in Society Units: 4
+
+## Pharmaceutical and Regulatory Science (RXRS) Requirement (Part 3)
+
+---
+
+Select one course.
+
+- RXRS 302 Introduction to Pharmacology and Therapeutics Units: 4
+- RXRS 413w Globalization of the Biomedical Industry Units: 4
+
+## Pharmaceutical and Regulatory Science (RXRS) Requirement (Part 4)
+
+---
+
+Select four courses.
+
+- RXRS 403 Neuropharmacology in Health and Disease Units: 4
+- RXRS 407 The Discovery, Development and Marketing of Medicines Units: 4
+- RXRS 408 Arming the Immune System for Novel Therapies Units: 4
+- RXRS 411 Innovations in Medical Product Development Units: 4
+- RXRS 412 Ethics, Drugs and Society Units: 4
+- RXRS 414 Buzzed: Modern Substances of Abuse and Addiction Units: 4
+- RXRS 416 Medical Products: From Idea to Market Units: 4
+- RXRS 421 Management and Operation of Clinical Trials Units: 4
+- RXRS 424 From Poisons to Toxicology and Forensic Applications Units: 4
+
+## Pharmaceutical and Regulatory Science (RXRS) and Biopharmaceutical Sciences Requirement (BPSI) (Part 5)
+
+---
+
+Select a minimum of two courses totaling a minimum of 8 units. Can be a combination of RXRS and BPSI upper-division course work.
+
+- RXRS 405 Breaking Brains: The Pharmacology of Addiction Units: 4
+- RXRS 406 Clinical Pharmacology and Medication Management Units: 4
+- RXRS 410 Cancer Biology and Pharmacotherapy Units: 4
+- RXRS 417 Food Safety: The Good, The Bad and The Deadly Units: 4
+- RXRS 418 More than Prescriptions: An Integrative Approach to Modern Healthcare Units: 4
+- RXRS 422 Regulation, Guidance and Control of Medical Products Units: 2
+- RXRS 430 Principles of Pharmacy Compounding and Calculations Units: 2
+- RXRS 431 Introduction to Patient Care and Clinical Therapeutics Units: 2
+- RXRS 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- BPSI 405 Organ Systems Physiology, Drug Delivery and Drug Action Units: 4
+- BPSI 412 Targeted and Precision Medicines Units: 4
+- BPSI 413 Rigor, Resources and Reproducibility Units: 2
+- BPSI 414 Pharmacoethics Units: 2
+- BPSI 415 Science Talk Units: 2
+
+## Biological Sciences (BISC) Requirement
+
+---
+
+Select two courses.
+
+- BISC 300L Microbiology Units: 4
+- BISC 307L General Physiology Units: 4
+- BISC 320Lg Molecular Biology Units: 4
+- BISC 330L Biochemistry Units: 4
+
+## Undergraduate Honors Program (optional)
+
+---
+
+The undergraduate honors in Pharmacology and Drug Development is awarded through successful completion of the senior capstone project. The project is a demonstration of knowledge in the student’s chosen area of interest which results in a product/project, research data, research paper or portfolio of work, and a presentation. This experience encourages students to use a variety of skills in the areas of writing, speaking, research and documentation, which distinguishes them as scholars and future leaders in pharmacy.
+
+- RXRS 493x Senior Honors Seminar I Units: 2
+- RXRS 494x Senior Honors Seminar II Units: 2
+
+---

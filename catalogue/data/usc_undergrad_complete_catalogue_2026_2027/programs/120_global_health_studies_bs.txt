@@ -1,0 +1,162 @@
+Program Name: Global Health Studies (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32210
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32210&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32210
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:40Z
+Content SHA-256: 9323ab04bc7760a1453c540a0446d83901e38e6ef677f752d4f1f8142219fcea
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Global Health Studies (BS)
+
+---
+
+837 Downey Way
+Stonier Hall, Suite 101
+Los Angeles, CA 90089-1149
+(213) 740-1060
+Email: bhealthy@usc.edu
+keck.usc.edu/pphs/education/bachelor-of-science/
+
+Director: Daniel Soto, EdD, MPH
+
+The Bachelor of Science in Global Health is a multidisciplinary degree of the Keck School of Medicine’s Department of Population and Public Health Sciences. This undergraduate program offers an examination of public health and policy issues in the context of global affairs. Students complete course work from Health Promotion and Disease Prevention Studies and International Relations in addition to requirements from other schools of the university. The program provides students with a strong background in understanding and evaluating global health issues and prepares students to become health professionals with international competencies. This program is an ideal major for students interested in medicine, pharmacy, dentistry, international relations, public health, epidemiology, health psychology and health behavior research.
+
+#### Program Requirements
+
+The Bachelor of Science degree is awarded after students successfully complete 128 units, consisting of 66 units for the major and fulfillment of USC general education requirements including third semester equivalency in a foreign language.
+
+#### General Education Requirements
+
+The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education .
+
+#### Requirements for the Major (66 units)
+
+The program is divided into core and elective components. As part of the core research requirements, students must complete a directed research requirement, HP 490 , with a specific international research focus.
+
+The core component (42–46 units) is required for all students.
+
+## Core Courses (32 Units)
+
+---
+
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+-
+- CHEM 105aLg General Chemistry Units: 4 or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+-
+- ECON 203g Principles of Microeconomics Units: 4
+- HP 270 Introduction to Global Health Units: 4
+- HP 320 Biological and Behavioral Basis of Disease Units: 4
+- HP 470 Case Studies in Global Health Units: 4
+- IR 308gw Economic Globalization Units: 4
+-
+- MATH 108g Contemporary Precalculus Units: 4 or
+- MATH 125g Calculus I Units: 4
+
+## Core Research Courses (10-16 Units)
+
+---
+
+- HP 340Lg Health Behavior Statistical Methods Units: 4
+- HP 350L Health Behavior Research Methods Units: 4
+- HP 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 , max 12
+
+## Note:
+
+---
+
+Students must choose 24 units of elective course work from the following lists. At least 8 units must be from HP and at least 8 units must be from IR.
+
+## HP Electives (Minimum 8 Units)
+
+---
+
+- HP 300 Principles of Human Behavior Units: 4
+- HP 365gmw Culture, Lifestyle, and Health Units: 4
+- HP 370g Introduction to Epidemiology: Methods and Applications Units: 4
+- HP 401 Cultural Competence in Medicine Units: 4
+- HP 402 Maternal and Child Health Units: 4
+- HP 405 Sexually Transmitted Diseases: A Global Public Health Priority Units: 4
+- HP 408 Environmental Health in the Community Units: 4
+- HP 409 Environmental Impacts on the Brain Units: 4
+- HP 410 Issues in Prevention and Cessation of Drug Abuse Units: 4
+- HP 420m Gender and Minority Health Issues Units: 4
+- HP 421 Violence as a Public Health Issue Units: 4
+- HP 422 AIDS in Society Units: 4
+- HP 430 Obesity and Health Units: 4
+- HP 431 Behavior and Education Strategies for Nutrition and Fitness Units: 4
+- HP 432 Clinical Nutrition Units: 4
+- HP 440 Happiness, Well-Being, and Health Units: 4
+- HP 441 Health Promotion in the Workplace Units: 4
+- HP 442 Chronic Disease Epidemiology Units: 4
+- HP 443 Communicating Better Health: What Works and Why Units: 4
+- HP 446 Poisons, People, and Politics Units: 4
+- HP 448 Global Environmental Changes and Health Units: 4
+- HP 450 Traditional Eastern Medicine and Modern Health Units: 4
+- HP 460 Adolescent Health Units: 4
+- HP 470 Case Studies in Global Health Units: 4
+- HP 483 Global Health and Aging Units: 4
+
+## IR Electives (Minimum 8 Units)
+
+---
+
+- IR 305w Managing New Global Problems Units: 4
+- IR 306 International Organizations Units: 4
+- IR 307 Contemporary International Politics Units: 4
+- IR 309 Global Governance Units: 4
+- IR 315 Ethnicity and Nationalism in World Politics Units: 4
+- IR 316 Gender and Global Issues Units: 4
+- IR 323 Politics of Global Environment Units: 4
+- IR 325 North-South Relations in the Global Economy Units: 4
+- IR 339 Public Health and International Relations Units: 4
+- IR 344 The Global South in World Politics Units: 4
+- IR 349 International Law and Politics Units: 4
+- IR 371 Global Civil Society: Non-State Actors in World Politics Units: 4
+- IR 422 Ecological Security and Global Politics Units: 4
+- IR 424w Citizenship and Migration in International Politics Units: 4
+- IR 444w Theories of Global Society Units: 4
+
+## Other Electives (Maximum 8 Units)
+
+---
+
+- ADSC 250 Fundamentals of Addiction Science Units: 4
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4
+-
+- BISC 320Lg Molecular Biology Units: 4
+- BISC 330L Biochemistry Units: 4
+-
+- CHEM 105bL General Chemistry Units: 4 or
+- CHEM 115bL Advanced General Chemistry Units: 4
+-
+- CHEM 322aL Organic Chemistry Units: 4
+- CHEM 322bL Organic Chemistry Units: 4
+- GERO 483 Global Health and Aging Units: 4
+-
+- PHYS 135aLg Physics for the Life Sciences Units: 4 or
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+-
+- PHYS 135bL Physics for the Life Sciences Units: 4 or
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+-
+- POSC 442m The Politics of Human Differences: Diversity and Discrimination Units: 4
+- POSC 451 Politics of Resources and Development Units: 4
+- POSC 456 Women in International Development Units: 4
+- PPD 250m Cities in the Developing World Units: 4
+- PPD 382 International Development Units: 4
+- SOCI 432m Racial and Ethnic Relations in a Global Society Units: 4
+- SOCI 460 Key Issues in Contemporary International Migration Units: 4
+- SOCI 470 Social Change in Low-Income Countries Units: 4
+
+---

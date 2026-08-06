@@ -1,0 +1,45 @@
+Program Name: Stem Cell Biology and Regenerative Medicine Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32799
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32799&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32799
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:59Z
+Content SHA-256: 79289fb93fba2b447606bbbe8888011677176fb69928e71eb02eaa309e8a53fb
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Stem Cell Biology and Regenerative Medicine Minor
+
+---
+
+The Department of Stem Cell Biology and Regenerative Medicine at the Keck School of Medicine offers a minor in Stem Cell Biology and Regenerative Medicine. This minor provides focused course work in developmental biology, animal regeneration, stem cell science and regenerative medicine, as well as exposure to laboratory methods in stem cell science. The minor will appeal to undergraduates interested in the scientific, ethical, legal, regulatory and cultural implications of stem cell biology and regenerative medicine. The minor prepares undergraduates for a diversity of careers in research, health care, regulatory affairs, intellectual property law, science fiction, and biomedical journalism, among others. The minor requires a minimum of 16 units and welcomes undergraduates in both biological and non-biological majors.
+
+## Required Courses
+
+---
+
+- SCRM 386 Vertebrate Development and Regeneration Units: 2
+- SCRM 380 Stem Cells: Fact and Fiction Units: 2
+- SCRM 487 Regenerative Medicine: Principles, Paradigms and Practice Units: 4
+
+## Elective Courses
+
+---
+
+Choose at least 8 units from the following course options.
+
+- BISC 480L Developmental Biology Units: 4
+- BME 410L Stem Cells and Biomaterials for Tissue Engineering Units: 4
+- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4
+- SCRM 310L Laboratory Techniques in Developmental and Stem Cell Biology Units: 4
+- SCRM 388 Gene Editing and Gene Therapy Units: 2
+- SCRM 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- SCRM 515 Bringing Stem Cells to the Clinic Units: 4
+
+---

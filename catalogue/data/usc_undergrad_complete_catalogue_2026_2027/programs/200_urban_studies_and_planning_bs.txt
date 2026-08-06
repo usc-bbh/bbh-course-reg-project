@@ -1,0 +1,133 @@
+Program Name: Urban Studies and Planning (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32399
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32399&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32399
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:37Z
+Content SHA-256: e4eab9af762dcd9f93b691cf8e9e92ca734836cac6f13ee4c608f434ed67c490
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Urban Studies and Planning (BS)
+
+---
+
+More than half of the world’s population now lives in cities with growing disparities, threat of climate change, and a continuing technology revolution. Given these big challenges and rapid changes, urban professionals are needed to create more livable and sustainable cities. In the USC Price School’s Bachelor of Science in Urban Studies and Planning, students will prepare themselves for a career in this urban world. They will create a platform for work in the profession of urban planning or associated fields related to developing, regulating, and designing that future world.
+
+The program requires 72 units toward the major and completion of the minimum of 128 units for the bachelor's degree.
+
+## Pre-major Requirements
+
+---
+
+Students must complete the pre-major requirements. A minimum grade of C, 2.0 (A=4.0), must be earned in each of the pre-major courses. All pre-major requirements must be taken for a letter grade.
+
+- ECON 203g Principles of Microeconomics Units: 4
+- MATH 117g Precalculus for Business and Economics Units: 4
+
+## Core Curriculum (36 units)
+
+---
+
+- PPD 227 Planning for the Future City Units: 4
+- PPD 245g The Urban Context Units: 4
+- PPD 300 Social Justice Issues in Public Policy and Urban Planning Units: 4
+- PPD 301 PPD Practices: Internship Seminar Units: 2
+- PPD 345 AI and Urban Planning Units: 2
+- PPD 346 Equitable Urban Design Units: 4
+- PPD 427L Geographic Information Systems and Planning Applications Units: 4
+- PPD 430 Urban Informatics Units: 4
+- RED 417 History of Planning and Development Units: 4
+- RED 425 Designing Livable Communities Units: 4
+
+## Urban Studies and Planning Specialization Electives (20 units)
+
+---
+
+There are three specializations in the major: transforming transportation, housing and community development, and climate change and urban planning. Students take 20 units of specialization courses. For the first transforming transportation and housing and community development specializations, one course is required, and two additional courses are taken as part of the required specialization units. For the climate change specialization, students will select courses in consultation with their adviser.
+
+### Specialization 1: Transforming Transportation
+
+---
+
+#### Required:
+
+---
+
+- PPD 360 Urban Transportation Planning and Policy Units: 4
+
+#### Additional electives are selected in consultation with the adviser or selected from the below list:
+
+---
+
+- PPD 348 Sustainable Infrastructure Units: 4
+- PPD 422 Transportation Data and Automation Units: 4
+- RED 351 Land Use Regulation Units: 4
+
+### Specialization 2: Housing and Community Development
+
+---
+
+#### Required:
+
+---
+
+- PPD 439 Housing and Community Development Units: 4
+
+#### Additional electives are selected in consultation with the adviser or selected from the below list:
+
+---
+
+- PPD 347 Housing Affordability and Equity Units: 4
+- PPD 357 Government and Business Units: 4
+- PPD 414 Community Health Policy and Planning Units: 4
+- PPD 438 Local Economic Development Units: 4
+- RED 351 Land Use Regulation Units: 4
+- RED 362 Real Estate Development Fundamentals Units: 4
+
+### Specialization 3: Climate Change and Urban Planning
+
+---
+
+#### Courses are selected in consultation with the adviser:
+
+---
+
+- PPD 344 Environmental Policy and Sustainable Development Units: 4
+- PPD 361 Sustainable Communities, Policy and Planning Units: 4
+- PPD 410 Comparative Urban Development Units: 4
+- PPD 478 Social Innovation Units: 4
+
+## Additional Requirements
+
+---
+
+### Cross-cutting Topics Courses
+
+Students will be required to take 4 units of cross-cutting topics courses (PPD 400 ), preferably in junior year after they have completed the core curriculum.
+
+### Capstone
+
+All students will take 4 units of a capstone experience during their senior year. This may be fulfilled by taking PPD 431 Undergraduate Policy, Planning, and Development Studio (4) or PPD 497a Senior Thesis, PPD 497b Senior Thesis (2-2). Students wishing to enroll in PPD 497a , PPD 497b must have a 3.7 GPA in PPD courses and an overall 3.5 GPA.
+
+### Internships
+
+Urban Studies and Planning majors are required to complete 140 hours of internship by enrolling in PPD 301 PPD Practices: Internship Seminar or the Washington, D.C., Semester internship. Internships are matched as closely as possible to the student’s interests and skills.
+
+PPD 301 and the internship in a position provide numerous opportunities to develop and formulate future career goals, as well as to gain personal and professional experience while completing the undergraduate degree.
+
+### Honors
+
+Price School honors are available at graduation to qualified PPD majors and result in a special designation of departmental honors on a student’s transcript. Achievement of PPD honors requires a 3.7 GPA in PPD major courses and a 3.5 overall GPA as well as nomination by the professor in the capstone experience. In addition, students must earn an A in their capstone course (PPD 497a , PPD 497b or PPD 431 ).
+
+### Washington, D.C., Semester
+
+The Washington, D.C., Semester program provides an intensive semester of confrontation with the political center of the nation and its complex components. The program offers opportunities for behind-the-scenes work in national government agencies and related organizations, combined with an academic environment and the chance to explore, share and learn with a group of fellow students.
+
+---

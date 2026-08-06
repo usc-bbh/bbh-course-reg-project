@@ -1,0 +1,45 @@
+Program Name: Public Relations and Advertising (BA)*
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32806
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32806&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32806
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:01Z
+Content SHA-256: 312764487d0c7281b59e4159939be186df57a900e971d85b695f22dd9c092046
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Public Relations and Advertising (BA)*
+
+---
+
+Public relations and advertising are the cornerstone of modern communication. Previously considered very separate disciplines, these functions have increased synergies as organizations relay on them to connect to their audiences through paid, earned, shared and owned media. Students gain a range of skills from creative to strategic to analytic and land jobs in organizations of all types, including non-profits, entertainment brands, sports teams, social action groups, PR and ad agencies, and Fortune 500 companies. Upon graduation our students leave prepared for occupations in content creation; media ​and influencer relations; digital/​social media marketing; ​applied research and data analysis; media buying ​and ​creative development; advertising and PR account management; and more.
+
+## Total units: 44
+
+---
+
+## Required Courses, Lower Division
+
+---
+
+- ASCJ 200 Navigating Media and News in the Digital Age Units: 4
+- PR 209 Effective Writing for Strategic Public Relations and Advertising Units: 4
+- PR 250 Strategic Public Relations and Advertising: An Introduction Units: 4
+
+## Required Courses, Upper Division
+
+---
+
+- PR 351a Multichannel Strategy and Content Creation Units: 4
+- PR 427 Structured Inquiry in Public Relations and Advertising Units: 4
+- PR 429 Business and Economic Foundations of Public Relations and Advertising Units: 4
+- PR 450 Building Integrated Campaigns Units: 4
+- Plus 16 upper-division PR and/or JOUR elective units chosen in consultation with an adviser
+
+---

@@ -1,0 +1,48 @@
+Program Name: Physics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31892
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31892&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31892
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:06Z
+Content SHA-256: 222b7d1137ae720c0249e27908a7d2eb8b55aa40ab87ad6ed25e7e5ca30341ed
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Physics Minor
+
+---
+
+The physics minor is open to all students. Engineering students must take a minimum of three upper-division courses unique to the minor.
+
+## Required Courses (28 Units)
+
+---
+
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+- MATH 226g Calculus III Units: 4
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+- PHYS 153L Fundamentals of Physics III: Optics, Thermo, Modern Physics Units: 4
+
+## Electives - Choose 3 (12 Units)
+
+---
+
+- PHYS 304 Mechanics Units: 4
+- PHYS 316 Thermodynamics and Statistical Mechanics Units: 4
+- PHYS 408a Electricity and Magnetism Units: 4
+- PHYS 438a Introduction to Quantum Mechanics and its Applications Units: 4
+
+## Total units: 40
+
+---
+
+---

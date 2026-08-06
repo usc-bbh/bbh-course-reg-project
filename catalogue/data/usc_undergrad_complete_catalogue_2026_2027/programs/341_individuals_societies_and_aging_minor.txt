@@ -1,0 +1,46 @@
+Program Name: Individuals, Societies and Aging Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32146
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32146&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32146
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:23Z
+Content SHA-256: 167cf48bd612cc9e63c585d55d10a19116030674d7ecd39d0abbf5dc2a465637
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Individuals, Societies and Aging Minor
+
+---
+
+This minor is a fit for students in business, engineering, communication, cinematic arts, or arts and sciences interested in developing a broad knowledge of issues in aging. Based largely on disciplines in the behavioral and social sciences, students learn how aging will impact their lives, families and careers. Upon completion of 20 units and graduation, the minor is noted on the student’s transcript.
+
+## Required Courses
+
+---
+
+- GERO 320g Psychology of Adult Development Units: 4
+- GERO 330 Society and Adult Development Units: 4
+- GERO 340 Policy, Values, and Power in an Aging Society Units: 4
+
+### Select two from the following:
+
+---
+
+- GERO 380m Diversity in Aging Units: 4
+- GERO 416 Health Issues in Adulthood Units: 4
+- GERO 435m Women and Aging: Psychological, Social and Political Implications Units: 4
+- GERO 437 Social and Psychological Aspects of Death and Dying Units: 2 or 4
+- GERO 470 Aging and Business Units: 4
+- GERO 491 Practicum Units: 2-8
+
+## Total units: 20
+
+---
+
+---

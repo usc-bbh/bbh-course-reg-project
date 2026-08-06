@@ -1,0 +1,138 @@
+Program Name: Biomedical Engineering (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32049
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32049&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32049
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:50:14Z
+Content SHA-256: bf2a413ba0bd547d9bbb75ace67aa26af431b2ff8b6f0b1abe5c688455dc90a3
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Biomedical Engineering (BS)
+
+---
+
+The Alfred E. Mann Department of Biomedical Engineering offers a Bachelor of Science degree in Biomedical Engineering. Additionally, there are three possible areas of emphasis within this biomedical engineering program major. These are electrical engineering, mechanical engineering, and molecular and cellular engineering. An area of emphasis appears in a special field on the transcript. The minimum requirement for the degree is 128 units. A cumulative grade point average of C (2.0) is required in all upper division courses applied toward the major, regardless of the department in which the courses are taken.
+
+See common requirements for undergraduate degrees .
+
+Technical electives are to be selected from an approved list available in the department office.
+
+## Composition/Writing Requirement
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+## General Education
+
+---
+
+- General education Units: 20
+
+## Pre-Major Requirements
+
+---
+
+### Math Requirement
+
+---
+
+- MATH 125g Calculus I Units: 4
+-
+- MATH 126g Calculus II Units: 4 or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 226g Calculus III Units: 4 or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+-
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+
+### Physics Requirement
+
+---
+
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+
+### Chemistry Requirement
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4 or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+-
+- CHEM 105bL General Chemistry Units: 4 or
+- CHEM 115bL Advanced General Chemistry Units: 4
+
+## Major Requirements
+
+---
+
+### Biology
+
+---
+
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+-
+- BISC 312x Molecular Biochemistry Units: 4 or
+- BISC 320Lg Molecular Biology Units: 4 or
+- HBIO 301L Human Anatomy Units: 4
+
+### Organic Chemistry
+
+---
+
+- CHEM 322aL Organic Chemistry Units: 4
+- CHEM 322bL Organic Chemistry Units: 4
+- Note: CHEM 322bL may be replaced by 4 units of additional upper-division BME course work.
+
+### Biomedical Engineering
+
+---
+
+- BME 101 Introduction to Biomedical Engineering Units: 4
+- BME 202 Control and Communication in the Nervous System Units: 4
+- BME 210 Biomedical Computer Simulation Methods Units: 4
+- BME 302L Medical Electronics Units: 4
+- BME 403L Physiological Systems Units: 4
+- BME 413 Bioengineering Signals and Systems Units: 4
+- BME 415 Regulation of Medical Products Units: 2
+- BME 423 Statistical and Data Science Methods in Biomedical Engineering Units: 4
+- BME 445aL Senior Design Project Units: 2
+- BME 445bL Senior Design Project Units: 2
+
+#### One course from the following:
+
+---
+
+- BME 404 Computational Neuromechanics Units: 4
+- BME 410L Stem Cells and Biomaterials for Tissue Engineering Units: 4
+- BME 430 Principles and Applications of Systems Biology Units: 4
+- BME 450 Introduction to Biosensors and Diagnostics Devices Units: 4
+- BME 451L Fundamentals of Biomedical Microdevices Units: 4
+
+### Electrical and Computer Engineering
+
+---
+
+- EE 202L Linear Circuits Units: 4
+
+## Electives
+
+---
+
+- Technical electives: Complete 10 units as needed to complete 128 approved program units. Technical electives are to be selected from an approved list available in the department office.
+
+## Total units: 128
+
+---
+
+---

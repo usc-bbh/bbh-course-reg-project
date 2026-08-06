@@ -1,0 +1,92 @@
+Program Name: Business Administration (Marketing) (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32691
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32691&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32691
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:50:49Z
+Content SHA-256: f62ce3a207f73a19705ef86bb5167565a16aaec499aeecb37d49d55865cc0233
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Business Administration (Marketing) (BS)
+
+---
+
+The Bachelor of Science in Business Administration with an emphasis in Marketing provides students with specialized training in marketing strategy, execution, and evaluation. With this degree, students will deepen their understanding of various aspects of marketing such as product development, communication and promotion, consumer insights, ethics and regulation, customer analytics, and data-driven marketing.
+
+Requirements for Admission
+
+This program is available only to current Marshall and Leventhal undergraduates who satisfy the following three conditions: (1) have attained sophomore standing, (2) have completed at least one semester in residence at USC, and (3) have earned credit for the course BUAD 307 Marketing Fundamentals . Students who wish to transfer to this program should visit the Office of Undergraduate Advising and Student Affairs in the Marshall School of Business.
+
+Students may earn only one emphasis within the BS in Business Administration degree.
+
+Requirements for Completion
+
+To complete the program, students must satisfy all requirements for the Bachelor of Science degree in business administration including USC’s General Education requirements and at least 12 upper-division units in the area of emphasis.
+
+## Composition/Writing Requirements (8 units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+- * Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BMKT majors
+
+## Business Core Courses
+
+---
+
+- BUAD 280 Introduction to Financial Accounting Units: 3
+- BUAD 281 Introduction to Managerial Accounting Units: 3
+- BUAD 302 Communication Strategy in Business Units: 4
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+-
+- BUAD 306 Business Finance Units: 4
+- or
+- BUAD 308 Advanced Business Finance Units: 4
+-
+- BUAD 307 Marketing Fundamentals Units: 4
+-
+- BUAD 310g Applied Business Statistics Units: 4
+- or
+- BUAD 312g Statistics and Data Science for Business Units: 4
+-
+- BUAD 311 Operations Management Units: 4
+- or
+- BUAD 313 Advanced Operations Management and Analytics Units: 4
+-
+- BUAD 425 Introduction to Business Analytics Units: 2
+- or
+- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2
+-
+- BUAD 497 Strategic Management Units: 4
+- ECON 351x Microeconomics for Business Units: 4
+- ECON 352x Macroeconomics for Business Units: 4
+-
+- MATH 118gx Calculus for Business and Economics Units: 4 *
+- or
+- MATH 125g Calculus I Units: 4 **
+
+### Note:
+
+---
+
+*Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher.
+
+**A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information.
+
+## Emphasis Requirements
+
+---
+
+Complete 12 units of upper-division elective courses (typically three 4-unit courses) offered by the Marketing department in the Marshall School, specifically 300- or 400-level courses with a prefix MKT that are available for credit toward the major.
+
+Return to: USC Marshall School of Business
+
+---

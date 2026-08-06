@@ -1,0 +1,64 @@
+Program Name: Luso-Brazilian Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32425
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32425&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32425
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:25Z
+Content SHA-256: 1200b6039a532cdb9a403a5da1d019f0da1b767a206252a1196573cc754d4d72
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Luso-Brazilian Studies Minor
+
+---
+
+The Luso-Brazilian Studies minor offers students the opportunity to further the study of the Portuguese language and take significant steps toward its mastery both as a richly layered expressive tool in the contexts of literary and cultural analysis and in the interpretation and articulation of critical thinking, as well as a highly effective instrument tailored to the practical needs of business interactions in a world that is increasingly more diverse and globalized.
+
+Building on a solid basis of four semesters of Portuguese language (or equivalent), which serves as a prerequisite for the Luso-Brazilian Studies minor, students will have the opportunity to choose from a rich selection of core courses spanning cultural, literary and social aspects of the Portuguese-speaking world, as well as Portuguese applied to the context of professions. In addition to the core offerings, students will be able to choose from a wide array of electives in order to fulfill the required number of units for the Luso-Brazilian Studies minor, as well as have the opportunity to fulfill some of the requirements in one of the exciting Study Abroad options in Brazil.
+
+The Luso-Brazilian Studies minor will require 20 units beyond the basic language requirements.
+
+## Required Courses (8-units): select two of the following three courses
+
+---
+
+- PORT 300 Introduction to Social and Literary Studies Units: 4
+- PORT 302 Introduction to Brazilian Literature Units: 4
+- PORT 316 Portuguese for Business and the Professions Units: 4
+
+## Elective Courses (12-units): select three from the following list
+
+---
+
+A total of 12-units of courses should be selected with the guidance of the director of the Luso-Brazilian Studies program. The following courses are among the elective options:
+
+- PORT 342 Brazilian Cinema Units: 4
+- SPAN 372 Modern and Contemporary Latin American Fiction Units: 4
+- SPAN 405 History of the Spanish and Portuguese Languages Units: 4
+- SPAN 482 Literature and the City Units: 4
+
+### Note:
+
+---
+
+Study Abroad courses and courses offered by other departments at USC may also count as elective options, as long as a Portuguese-speaking country and/or the Lusophone world is among the objects of study. (The following list of courses is subject to change, according to course availability.)
+
+- AMST 353m Race and Racism in the Americas Units: 4
+- ANTH 425 Peoples and Cultures of Latin America Units: 4
+- HIST 372 Modern Latin America Units: 4
+- HIST 456 Race, Slavery, and the Making of the Atlantic World Units: 4
+- IR 364 The Political Economy of Latin American Development Units: 4
+- IR 365 Politics and Democracy in Latin America Units: 4
+- IR 425 The New Triangle: China, the U.S. and Latin America Units: 4
+- IR 465 Contemporary Issues in United States-Latin America Relations Units: 4
+- IR 466 Contemporary Issues in Latin American Politics Units: 4
+- POSC 350 Politics of Latin America Units: 4
+- SOCI 470 Social Change in Low-Income Countries Units: 4
+
+---

@@ -1,0 +1,89 @@
+Program Name: Human Development and Aging (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32142
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32142&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32142
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:56Z
+Content SHA-256: df31a949b95cc2f3d5ad4add3ec1663d299903127436d0fc3b859ab85ce91ba0
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Human Development and Aging (BS)
+
+---
+
+The Bachelor of Science in Human Development and Aging is an undergraduate degree offered at the USC Leonard Davis School of Gerontology in the social sciences. Students in this program often pursue careers related to older adults in business, law, the nonprofit sector or government agencies.
+
+Students may also specialize in a health science track. The health science track combines the core gerontology curriculum with the prerequisites for admission to medical school and other health-related fields including: dentistry, pharmacy, occupational/physical therapy, physician assistant programs and others. In addition, students will participate in a supervised practicum experience in which they will become directly involved with aging clients in a health care setting.
+
+Students planning to pursue a BS are urged to notify the school of this intent as early as possible during their undergraduate study. This will help ensure that the student receives proper advisement and that the student is alerted to any special requirements or program modifications.
+
+During the freshman and sophomore years, students enroll primarily in general education required courses as specified by the university and the Human Development and Aging course (GERO 200 ).
+
+During their junior and senior years, students enroll in required and elective courses in the School of Gerontology as well as other courses throughout the university. These courses are selected in consultation with an adviser and reflect the personal and professional interests of the students.
+
+The honors program is available to juniors who maintain a GPA of 3.5 in gerontology and a GPA of 3.3 in other USC course work. The honors program includes mentored training in research and course work relevant to research methodology and statistics.
+
+A grade point average of at least C (2.0) on all units attempted at USC is required for undergraduate degrees. The School of Gerontology requires a minimum 2.0 grade point average in upper division courses applied toward the major.
+
+### General Education Requirements
+
+The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies). See dornsife.usc.edu/2015ge for more information.
+
+### Foreign Language or Programming Skills (12 Units)
+
+Students must satisfy the skill level requirement in one language or complete TAC 101 and additional ITP 100-level programming courses to total 12 units.
+
+## Degree Requirements
+
+---
+
+### Required Courses
+
+---
+
+- GERO 200 Gerontology: The Science of Adult Development Units: 4
+- GERO 320g Psychology of Adult Development Units: 4
+- GERO 330 Society and Adult Development Units: 4
+- GERO 340 Policy, Values, and Power in an Aging Society Units: 4
+- GERO 416 Health Issues in Adulthood Units: 4
+- GERO 491 Practicum Units: 2-8 (4 units)
+- GERO 492 Senior Seminar Units: 4
+- General Education Units: 24
+- Writing Requirement Units: 8
+- Foreign Language or Programming Units: 12
+- Gerontology electives Units: 20
+- One approved statistics course Units: 4
+- General electives in gerontology or related disciplines (8 units upper division) Units: 32
+
+### Total Units: 128
+
+---
+
+### Recommended General Electives
+
+---
+
+- ANTH 305 Childhood, Birth and Reproduction Units: 4
+- GERO 481 Case Management for Older Adults Units: 4
+- HP 402 Maternal and Child Health Units: 4
+- LING 405 Child Language Acquisition Units: 4
+- PSYC 100Lg Introduction to Psychology Units: 4
+- PSYC 336L Developmental Psychology Units: 4 [*]
+- PSYC 437 Adolescent Development Units: 4 [*]
+- SOCI 305m Sociology of Childhood Units: 4
+- SOCI 369 The Family in a Changing Society Units: 4
+
+#### Note:
+
+---
+
+[*]Prerequisite required.
+
+---

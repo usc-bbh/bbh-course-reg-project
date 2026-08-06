@@ -1,0 +1,97 @@
+Program Name: Media Economics and Entrepreneurship Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31616
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31616&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31616
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:48Z
+Content SHA-256: d4f54adfc58d08375f83545bc5bc6ed52c6c7b0987fbc6987c8d6accffa591ce
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Media Economics and Entrepreneurship Minor
+
+---
+
+This 24-unit minor equips students with the skills and critical framework to navigate the innovation waves sweeping across the media industry. The interdisciplinary curriculum, which includes courses from Communication, Journalism, and Entrepreneurship, promotes an understanding of the key economic forces that are reshaping television, film, music, gaming, online creativity and news. The program emphasizes digitalization and solving business problems amid uncertainty. Above all, it prepares students to embrace the exciting changes that are reshaping the media landscape. Requirements for admission are a minimum 3.0 GPA and completion of a minimum of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission.
+
+## Required Core Courses (8 Units)
+
+---
+
+- BAEP 450 Fundamentals of Entrepreneurship Units: 4 or
+- BAEP 451 The Management of New Enterprises Units: 4
+-
+- COMM 209 Communication and Media Economics Units: 4
+
+## Elective Courses (16 Units)
+
+---
+
+### 4 units must be in BAEP:
+
+---
+
+- BAEP 452 Feasibility Analysis Units: 4 *
+- BAEP 454 Venture Initiation: Launching and Scaling Your Startup Units: 4 **
+- BAEP 455 Founder’s Dilemmas Units: 4
+- BAEP 460 Seminar in Entrepreneurship Units: 2
+- BAEP 465 Digital Playbook for Entrepreneurs: Creating a Tech Startup Units: 2
+- BAEP 470 The Entrepreneurial Mindset — Taking the Leap Units: 2
+- BAEP 475 Entertainment Entrepreneurship Units: 2
+- BAEP 477 Entrepreneurial Imagination: Past, Present and Future Units: 4
+
+#### Note:
+
+---
+
+*Prerequisite: BAEP 450 or BAEP 451
+
+**Prerequisite: BAEP 452
+
+### 4-8 units must be in COMM:
+
+---
+
+- COMM 306 Innovation, Entertainment, and the Arts Units: 4
+- COMM 345 Social and Economic Implications of Communication Technologies Units: 4
+- COMM 350 Video Games: Business, Science and Culture Units: 4
+- COMM 427 Topics in Media Economics, Law and Policy Units: 4
+- COMM 429 The Internet, Economy and Society Units: 4
+- COMM 430 Global Entertainment Units: 4
+- COMM 431 Global Strategy for the Communications Industry Units: 4
+- COMM 454 Media, Money, and Society Units: 4
+- COMM 465m Gender in Media Industries and Products Units: 4
+
+### 4-8 units must be in JOUR or PR:
+
+---
+
+- JOUR 380 Sports, Business and Media in Today’s Society Units: 4
+- JOUR 381 Entertainment, Business and Media in Today’s Society Units: 4
+- JOUR 469 Money, Markets and Media Units: 4
+- JOUR 472 Strategies for Monetizing New Media Units: 4
+- JOUR 489 Hands-on Disruption: Experimenting with Emerging Technology Units: 2
+- PR 429 Business and Economic Foundations of Public Relations and Advertising Units: 4 **
+- PR 487 Multimedia PR Content: Introduction to Audio/Video Tools Units: 2
+- PR 491 Fan Relations Units: 4
+- PR 492 Personal Branding Units: 4
+
+#### Note:
+
+---
+
+*Prerequisite: PR 250
+
+**Prerequisite: PR 351a
+
+## Total units: 24
+
+---
+
+---

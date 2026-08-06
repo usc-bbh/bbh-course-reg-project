@@ -1,0 +1,83 @@
+Program Name: Russian Area Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31926
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31926&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31926
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:52Z
+Content SHA-256: 52162b0a7a4a078916d0cd8e1741e21ae57540c7f4fef2b35f4ff4b72b8b3af6
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Russian Area Studies Minor
+
+---
+
+## Lower-division Requirements
+
+---
+
+One lower-division course from the courses detailed below or selected in consultation with an adviser:
+
+- RUSS 120 Beginning Russian I Units: 4
+- RUSS 140 Russian Language and Culture in the Post-Soviet Space Units: 2
+- RUSS 150 Beginning Russian II Units: 4
+- RUSS 220 Intermediate Russian I Units: 4
+- RUSS 250 Intermediate Russian II Units: 4
+- RUSS 255 Business Russian Units: 4
+- SLL 110g Russia in the Modern Era Units: 4
+- SLL 199 Chess and Critical Thinking Units: 2
+- SLL 210 Masterpieces of the Russian Short Story Units: 4
+- SLL 299 Chess — Advanced Thinking Techniques Units: 2
+
+## Upper-division Requirements
+
+---
+
+### The core course
+
+---
+
+- SLL 330gp Russian Thought and Civilization Units: 4
+
+### Students may take 4 units outside the Slavic department, from among the following:
+
+---
+
+- HIST 415 Medieval and Early Modern Russia Units: 4, 2 years
+- HIST 416 History of Imperial Russia: 1689–1917 Units: 4
+- HIST 417 History of Soviet Russia: 1917–1991 Units: 4, 2 years
+- HIST 424 Family, Work, and Leisure in Russian History Units: 4
+- IR 345 Russian and Post-Soviet Foreign Policy Units: 4
+- IR 346 Communism and Post-Communism: Eastern Europe and the Balkans Units: 4
+- IR 439 Political Economy of Russia and Eurasia Units: 4
+- MDA 333 Colloquium in Armenian Studies: Social and Cultural Issues Units: 2
+- HIST 323 The Holocaust in 20th Century Europe Units: 4
+
+### And a minimum of two electives, to be chosen from among: any upper-division SLL/RUSS course in Russian or Eastern European literature, art or culture
+
+---
+
+- SLL 300 The Russian Novel Units: 4
+- SLL 301 Russian Literary Avant-Garde Units: 4
+- SLL 302g Modern Russian Literature Units: 4
+- SLL 303 Contemporary Russian Literature Units: 4
+- SLL 310gw The Eastern European Jewish Experience: Literature and Film Units: 4
+- SLL 321 Cultures of Russia Units: 4
+- SLL 344g Tolstoy: Writer and Moralist Units: 4
+- SLL 345g Literature and Philosophy: Dostoevsky Units: 4
+- SLL 346 Russian Drama and the Western Tradition Units: 4
+- SLL 348g The Novels of Vladimir Nabokov Units: 4
+- SLL 378 Modern Russian Art Units: 4
+- SLL 397p Literature, Ideology and Film in Eastern European History Units: 4
+
+## Minimum units required: 20
+
+---
+
+---

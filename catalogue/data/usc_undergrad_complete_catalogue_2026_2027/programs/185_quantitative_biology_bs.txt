@@ -1,0 +1,209 @@
+Program Name: Quantitative Biology (BS)
+Credential: BS
+School or Academic Unit: USC Dornsife College of Letters, Arts and Sciences degree are applicable
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32504
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32504&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32504
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:02Z
+Content SHA-256: 353c0486f9ae19f7d2252123a7b20f967e39ebe06da8d23f4656bb4159c0717b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Quantitative Biology (BS)
+
+---
+
+The Department of Quantitative and Computational Biology offers a BS degree in Quantitative Biology (QBIO). This program allows biology students to achieve a fuller background in the quantitative sciences such as computer science and statistics that are essential for modern data-driven biological science. The students will take an introductory seminar, participate in undergraduate research and write an honors thesis. This program will have the designation on the transcript of Bachelor of Science in Quantitative Biology.
+
+The general education, writing, language and diversity requirements for a USC Dornsife College of Letters, Arts and Sciences degree are applicable.
+
+## Core Courses (38 units)
+
+---
+
+Students must complete the following courses:
+
+### Required Introductory Course (2 units)
+
+---
+
+- QBIO 105 Introduction to Quantitative Biology Seminar Units: 2
+
+### Required Foundational Science Courses (24 units)
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4
+-
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+-
+- CHEM 105aLg General Chemistry Units: 4 or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+-
+- MATH 125g Calculus I Units: 4
+-
+- PHYS 135aLg Physics for the Life Sciences Units: 4 or
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 or
+- PHYS 161Lg Advanced Principles of Physics I Units: 4 or
+- PHYS 171Lg Applied Physics I: Mechanics Units: 4
+-
+- QBIO 310 Statistical Thinking for Quantitative Biology Units: 4 or
+- MATH 307 Statistical Inference and Data Analysis I Units: 4
+
+### Required Foundational Computing Courses (12 units)
+
+---
+
+Choose one of the following tracks, with three courses in each.
+
+#### 1.
+
+---
+
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 104L Data Structures Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+
+#### 2.
+
+---
+
+- CSCI 113x Programming Fundamentals for Computing Units: 4
+- CSCI 114x Programming for Applications of Computing Units: 4
+- And one from:
+- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4
+- QBIO 460 Introduction to Machine Learning in Biology Units: 4
+- QBIO 465 Artificial Intelligence in Biology and Medicine Units: 4
+
+#### 3.
+
+---
+
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 114x Programming for Applications of Computing Units: 4
+- And one from:
+- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4
+- QBIO 460 Introduction to Machine Learning in Biology Units: 4
+- QBIO 465 Artificial Intelligence in Biology and Medicine Units: 4
+
+## Specialization Courses (12 units)
+
+---
+
+Choose three of the following courses. Note: Courses taken to satisfy the Foundational Computing Course requirement may not be used as Specialization Courses.
+
+- CHEM 105bL General Chemistry Units: 4 or
+- CHEM 115bL Advanced General Chemistry Units: 4
+-
+- CHEM 322aL Organic Chemistry Units: 4
+- CHEM 322bL Organic Chemistry Units: 4
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4
+-
+- MATH 126g Calculus II Units: 4 or
+- MATH 127 Enhanced Calculus II Units: 4 or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+-
+- MATH 226g Calculus III Units: 4 or
+- MATH 227 Enhanced Calculus III Units: 4 or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+-
+- MATH 407 Probability Theory Units: 4
+-
+- MATH 308 Statistical Inference and Data Analysis II Units: 4 or
+- MATH 408 Mathematical Statistics Units: 4
+-
+- PHYS 135bL Physics for the Life Sciences Units: 4 or
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4 or
+- PHYS 162L Advanced Principles of Physics II Units: 4 or
+- PHYS 172L Applied Physics II: Electricity, Magnetism and Optics Units: 4
+-
+- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4
+- QBIO 460 Introduction to Machine Learning in Biology Units: 4
+- QBIO 465 Artificial Intelligence in Biology and Medicine Units: 4
+
+## Capstone Courses (8 units)
+
+---
+
+Choose two of the following four capstone courses:
+
+- QBIO 475 Statistical and Evolutionary Genetics Units: 4
+- QBIO 478 Computational Genome Analysis Units: 4
+- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4
+- QBIO 482 Systems Biology: Modeling the Dynamics of Life Units: 4
+
+## Upper-Division Electives (minimum 8 units)
+
+---
+
+Choose two to three of the following courses for upper-division electives. Note: Courses taken to satisfy the Foundational Computing Courses, Specialization Courses or Capstone Courses, may not double-count toward upper-division electives.
+
+- BISC 300L Microbiology Units: 4
+- BISC 307L General Physiology Units: 4
+- BISC 313L Evolution and Population Genetics Units: 4
+- BISC 315L Introduction to Ecology Units: 4
+- BISC 320Lg Molecular Biology Units: 4
+- BISC 325 Genetics Units: 4
+-
+- BISC 330L Biochemistry Units: 4 or
+- BISC 312x Molecular Biochemistry Units: 4 or
+- CHEM 350 Molecular Principles of Biochemistry Units: 4
+-
+- BISC 403 Advanced Molecular Biology Units: 4
+- BISC 406L Biotechnology Units: 4
+- BISC 407 Cellular and Molecular Neuroscience Units: 4
+- BISC 408 Systems Neuroscience: From Synapses to Perception Units: 4
+- BISC 410 Applications of Molecular Biology to Medicine Units: 4
+- BISC 411 Advanced Cell Biology Units: 4
+- BISC 421 Neurobiology Units: 4
+- BISC 423 Epilepsy to Ecstasy: Biological Basis of Neurological Disorders Units: 4
+- BISC 424 Brain Architecture Units: 4
+- BISC 434 Introduction to Genome Science Units: 4
+- BISC 435 Advanced Biochemistry Units: 4
+- BISC 450L Principles of Immunology Units: 4
+- BISC 473L Biological Oceanography Units: 4
+- BME 430 Principles and Applications of Systems Biology Units: 4
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4
+- CSCI 467 Foundations of Machine Learning Units: 4
+- ECON 460 Economic Applications of Machine Learning Units: 4
+- LING 486 Natural Language Processing Units: 4
+- LING 487 Speech Synthesis and Recognition Units: 4
+- MATH 447 Mathematics of Machine Learning Units: 4
+- MATH 466 Dynamic Modeling Units: 4
+- MATH 467 Theory and Computational Methods for Optimization Units: 4
+- PHYS 444 Physical Biology: From Molecules to Cells Units: 4
+- PSYC 450 Neural Network Models of Social and Cognitive Processes Units: 4
+- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4 *
+- QBIO 460 Introduction to Machine Learning in Biology Units: 4 *
+- QBIO 465 Artificial Intelligence in Biology and Medicine Units: 4 *
+- QBIO 475 Statistical and Evolutionary Genetics Units: 4 *
+- QBIO 478 Computational Genome Analysis Units: 4 *
+- QBIO 479L Computational Genome Analysis Laboratory Units: 4
+- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4 *
+- QBIO 482 Systems Biology: Modeling the Dynamics of Life Units: 4 *
+- QBIO 499 Special Topics Units: 1, 2, 3, 4, 5, 6, 7, 8
+- SCRM 487 Regenerative Medicine: Principles, Paradigms and Practice Units: 4
+- * Foundational, Specialization or Capstone course
+
+## Research Experience (6 units)
+
+---
+
+Students are required to enroll in a total of 6 units of directed research in a lab approved by the Quantitative Biology Executive Committee or assigned faculty adviser. Students may choose from any of the courses listed below, however, students in the honors program will enroll in both QBIO 493 and QBIO 494 .
+
+- QBIO 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- QBIO 493 Quantitative Biology Honors Seminar Units: 1
+- and
+- QBIO 494 Quantitative Biology Honors Thesis Units: 1
+
+---

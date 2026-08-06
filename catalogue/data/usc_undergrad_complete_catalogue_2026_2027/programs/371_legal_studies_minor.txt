@@ -1,0 +1,93 @@
+Program Name: Legal Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32584
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32584&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32584
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:17Z
+Content SHA-256: c2ceae977eeb8e9f491589d78e4fdea9ea7756f38cd63d51385f1f7724552b81
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Legal Studies Minor
+
+---
+
+The minor in Legal Studies enables students to deepen their understanding of the U.S. legal system and provides them with the fundamentals of law. It combines courses in law, economics, history, philosophy, political science and public policy taught at the Gould School of Law, Dornsife College of Letters, Arts and Sciences, and the Sol Price School of Public Policy.
+
+The minor in Legal Studies totals 22 units, consisting of 6 required units, and 16 elective units, as detailed below.
+
+## Required Courses
+
+---
+
+- LAW 210p Fundamentals of the U.S. Legal System Units: 4
+-
+- LAW 220 The Legal Profession Units: 2 or
+- LAW 225 Current Court Cases Units: 2
+
+## Elective Courses
+
+---
+
+Choose from the following courses to satisfy the remaining 16-unit requirements for the minor.
+
+- ECON 434 Economic Analysis of Law Units: 4
+- HIST 386 American Legal History Units: 4
+- LAW 101w Law and the U.S. Constitution in Global History Units: 4
+- LAW 150w Stereotypes, Prejudice and the Rule of Law Units: 4
+- LAW 200w Law and Society Units: 4
+- LAW 201w Law and Politics Units: 4
+- LAW 202 Wrongful Convictions Units: 4
+- LAW 203 Criminal Punishment in the Age of Mass Incarceration Units: 4
+- LAW 205 Introduction to Criminal Law Units: 4
+- LAW 206 Responsible Use of Artificial Intelligence: Ethics and Law Units: 4
+- LAW 207 Personal Data in the 21st Century Units: 4
+- LAW 208w Law and Economics of AI Regulation Units: 4
+- LAW 223 Exploring Courthouses in Los Angeles Units: 2
+- LAW 250w Children and the Law Units: 4
+- LAW 275p Equal by Law: The History of Civil Rights Law in the United States Units: 4
+- LAW 300 Concepts in American Law Units: 4
+- LAW 301 Voting Rights and the Law Units: 4
+- LAW 305 International Influence: Law and Power Units: 4
+- LAW 306 Issues in the Use of AI in Law and Regulation Units: 4
+- LAW 307 Love, Sex, Money, and Power: How Law Shapes Families Units: 4
+- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4
+- LAW 311 Fundamentals of Entertainment Law Units: 4
+- LAW 320p Law, Enslavement and Race Units: 4
+- LAW 324 Sports Law Units: 4
+- LAW 326 Law and the Modern Athlete Units: 4
+- LAW 350 Law and Entrepreneurship Units: 4
+- LAW 352 Introduction to Law and Economics Units: 4
+- LAW 355 Law and Homelessness Units: 4
+- LAW 402 Psychology and Law Units: 4
+- LAW 403 Mental Health Law Units: 4
+- LAW 404 Psychology of the Criminal Justice Process Units: 4
+- LAW 406 Individual Rights in U.S. Constitutional Law Units: 4
+- LAW 407 Regulatory Law Units: 4
+- LAW 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- LAW 492 Undergraduate Law Review Units: 2
+- LAW 498 Law Internship Units: 1, 2, 3, 4
+- PHIL 430 Philosophy of Law Units: 4
+- PHIL 431 Law, Society, and Politics Units: 4
+- POSC 345 International Law Units: 4
+- PPD 314 Public Policy and Law Units: 4
+
+### Finance, Business and Economics Option
+
+---
+
+A maximum of 4 units from the following FBE courses may be applied toward the minor in Legal Studies.
+
+- FBE 403 Introduction to the Legal Environment of Business Units: 4
+- FBE 427 Real Estate Law Units: 4
+- FBE 428 Introduction to Employment Law Units: 4
+- FBE 429 International Business Law Units: 4
+- FBE 458 Law of Forming, Financing and Managing Businesses Units: 4
+
+---

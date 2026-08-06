@@ -1,0 +1,72 @@
+Program Name: Themed Entertainment Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32431
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32431&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32431
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:17Z
+Content SHA-256: 0a7f5ee2e21a1238206f1675711e78de0d7ebf0226dfbad4c2c3da3a6b4aa46d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Themed Entertainment Minor
+
+---
+
+Who designs theme parks, museums, fireworks shows, water fountain spectaculars and parades? Themed entertainment designers do. From cruise ships to casinos to immersive educational retreats, they design almost anything that involves submerging a real, live human being into a story in a truly robust, physical way. As new tools for entertainment and education develop, they continually push toward one, common goal: a single place where movies, games, theme parks and museums converge. It is a non-dystopian kind of Westworld where we truly and completely become the heroes and heroines of our own stories. And it is the ultimate adventure because there is nothing (at least nothing that we notice) between our full, physical selves and the stories we want to live.
+
+To be eligible for the themed entertainment minor, a student must be in good academic standing and have a declared major. To declare the themed entertainment minor a student must get permission from the Interactive Media and Games Division (SCI 201) and submit a Change of Major/Minor form to Cinematic Arts Student Services (SCB 105).
+
+###### Course Requirements for the Minor:
+
+A total of 24 units is required for the themed entertainment minor: 4 lower-division units and 20 upper-division units.
+
+## Lower-Division Core Units (4 Units)
+
+---
+
+- CTIN 191 Survey of Themed Entertainment Units: 4
+
+## Upper-Division Core Units (14 Units)
+
+---
+
+- CTIN 452L Themed Entertainment Design Units: 4
+- CTIN 488 Game Design Workshop Units: 4
+- CTPR 456 Introduction to Art Direction Units: 2
+- CTWR 410L Character Development and Storytelling for Games Units: 4
+
+## Electives (6 Additional Units)
+
+---
+
+- COMM 306 Innovation, Entertainment, and the Arts Units: 4
+- COMM 430 Global Entertainment Units: 4
+- CTAN 420 Concept Design for Animation Units: 2
+- CTAN 460 Character Design Workshop Units: 2
+- CTCS 482 Transmedia Entertainment Units: 4
+- CTIN 404L User Research for Games Units: 2
+- CTIN 406L Sound Design for Games Units: 2
+- CTIN 444 Audio Expression Units: 2
+- CTIN 486 Alternative Control Workshop Units: 2
+- CTIN 492L Experimental Game Topics Units: 4
+- CTPR 423 Visual Effects and AI: How to Create Cinematic Magic Units: 2
+- CTPR 458 Organizing Creativity: Entertainment Industry Decision Making Units: 2
+- THTR 330 Scene Design I Units: 4
+- THTR 331 Costume Design I Units: 4
+- THTR 332 Lighting Design I Units: 4
+- THTR 407a Drawing and Rendering for the Theatre Units: 2
+- THTR 407b Drawing and Rendering for the Theatre Units: 2
+
+## Grade Point Average Requirement
+
+---
+
+A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.
+
+---

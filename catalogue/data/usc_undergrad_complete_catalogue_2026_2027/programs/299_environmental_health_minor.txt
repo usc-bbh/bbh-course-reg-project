@@ -1,0 +1,39 @@
+Program Name: Environmental Health Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32213
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32213&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32213
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:22Z
+Content SHA-256: 30408f4dac1fa1498407bdf7b7cd676c1692a518136d9e05c0297384e6fdebda
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Environmental Health Minor
+
+---
+
+This minor provides students with a basic understanding of environmental health and its challenges. Curriculum will focus on global health, epidemiology (as it relates to environmental exposures), toxicology and exposure science. Students will be prepared to address and prevent environmental health hazards, promote public health and contribute to the resolution of various environmental health challenges. This minor is ideal for pre-health majors across the university.
+
+## Required Courses (20 Units)
+
+---
+
+- HP 200 Introduction to Health Promotion and Disease Prevention Units: 4
+- HP 320 Biological and Behavioral Basis of Disease Units: 4 [*]
+- HP 408 Environmental Health in the Community Units: 4
+- HP 446 Poisons, People, and Politics Units: 4
+- HP 448 Global Environmental Changes and Health Units: 4
+
+### Note:
+
+---
+
+[*]Prerequisite required
+
+---

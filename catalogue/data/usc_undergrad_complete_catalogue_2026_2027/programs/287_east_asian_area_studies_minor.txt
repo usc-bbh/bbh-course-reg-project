@@ -1,0 +1,25 @@
+Program Name: East Asian Area Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31766
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31766&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31766
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:55Z
+Content SHA-256: eb4c733f3f2544e581779d6a716fccc5d44812edf35f0509067ba3226830f4e3
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# East Asian Area Studies Minor
+
+---
+
+The minor in East Asian Area Studies gives students the opportunity to supplement more narrowly defined departmental majors with a multidisciplinary focus on an area of increasingly great importance to our nation in general and our region in particular. There is no language requirement.
+
+Twenty-four units are required from among the more than 120 courses offered on East Asia at the university. Students are required to take EALC 110 and EASC 150 ; and at least four upper-division four-unit courses (16 units). At least one of these courses must be from the History Department and one from the humanities area. At least one course must be taken on two of the following: China, Japan or Korea.
+
+---

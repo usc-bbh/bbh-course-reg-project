@@ -1,0 +1,130 @@
+Program Name: Coaching, Health and Wellness Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32909
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32909&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32909
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:29Z
+Content SHA-256: 0c8073c94806382ba8f37afd4c01bc1ec83bddd0459c18d127b6ea22df9004c8
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Coaching, Health and Wellness Minor
+
+---
+
+The minor in Coaching, Health and Wellness provides students with a foundation in exercise science, athletic coaching and principles of health and wellness. This interdisciplinary program equips students with the knowledge and skills to promote performance, physical fitness, mental well-being and overall health in diverse settings. Whether students aspire to work with athletes, are fitness enthusiasts or seek to improve their wellness, this minor offers a framework for those passionate about fostering healthy lifestyles and peak performance.
+
+## Coaching Core
+
+---
+
+Choose one coaching course:
+
+- PHED 162 Principles of Athletic Coaching Units: 2 or
+- PHED 163 Health Coaching Units: 3
+
+## Activity-based Courses
+
+---
+
+Choose at least 2 units from this list:
+
+- PHED 102a Weight Training Units: 1
+- PHED 102b Weight Training Units: 1
+- PHED 104a Self-Defense Units: 1
+- PHED 104b Self-Defense Units: 1
+- PHED 105 Principles of Self Defense and Personal Safety Units: 2
+- PHED 106a Physical Conditioning Units: 1
+- PHED 106b Physical Conditioning Units: 1
+- PHED 108 High Stress Physical Conditioning Units: 1
+- PHED 110a Swimming Units: 1
+- PHED 110b Swimming Units: 1
+- PHED 114 Lifeguard Training Units: 2
+- PHED 115 Surfing Units: 1
+- PHED 117 Sustainability and Self-Care Units: 2
+- PHED 118 Sleep for Peak Performance Units: 2
+- PHED 119 Introduction to Mindfulness Units: 2
+- PHED 120a Yoga Units: 1
+- PHED 120b Yoga Units: 1
+- PHED 120c Yoga Units: 1
+- PHED 121 Yoga for Athletic Performance Units: 1
+- PHED 122 Yoga and Meditation Units: 1
+- PHED 123 Yoga Therapy Units: 2
+- PHED 124 Walking for Fitness Units: 1
+- PHED 125 Restorative Yoga Units: 1
+- PHED 126 AcroYoga Units: 1
+- PHED 127 Principles of Yoga Through Community Outreach Units: 2
+- PHED 129a Cardio Group Fitness Units: 1
+- PHED 129b Cardio Group Fitness Units: 1
+- PHED 131 Step Aerobics Units: 1
+- PHED 132 Distance Running Units: 1
+- PHED 133 Rock Climbing Units: 1
+- PHED 134 Hiking Units: 1
+- PHED 135 Backpacking Units: 1
+- PHED 138 Beach Volleyball Units: 1
+- PHED 139a Volleyball Units: 1
+- PHED 139b Volleyball Units: 1
+- PHED 140a Tennis Units: 1
+- PHED 140b Tennis Units: 1
+- PHED 140c Tennis Units: 1
+- PHED 143a Racquetball Units: 1
+- PHED 143b Racquetball Units: 1
+- PHED 144 Pickleball Units: 1
+- PHED 145 Team Handball Units: 1
+- PHED 148a Archery Units: 1
+- PHED 148b Archery Units: 1
+- PHED 150a Table Tennis Units: 1
+- PHED 150b Table Tennis Units: 1
+- PHED 151a Badminton Units: 1
+- PHED 151b Badminton Units: 1
+- PHED 152 Beach Soccer Units: 1
+- PHED 153 Futsal Units: 1
+- PHED 154a Soccer Units: 1
+- PHED 154b Soccer Units: 1
+- PHED 155a Golf Units: 1
+- PHED 155b Golf Units: 1
+- PHED 156a Basketball Units: 1
+- PHED 156b Basketball Units: 1
+- PHED 160 Stress Management for Healthy Living Units: 2
+- PHED 161 First Aid Units: 1
+- PHED 162 Principles of Athletic Coaching Units: 2
+- PHED 163 Health Coaching Units: 3
+- PHED 165 Varsity Athletics Units: 1
+
+## Capstone Course
+
+---
+
+- HBIO 401L Physiology of Movement Units: 4
+
+## Electives
+
+---
+
+Choose two courses from this list with a maximum of one course at the 200 level:
+
+- HBIO 202Lg Nutrition for Life Units: 4
+- HBIO 205Lgx The Science of Sport Units: 4
+- HBIO 250g The Pharmacology of Performance-Enhancing Drugs Units: 4
+- HBIO 301L Human Anatomy Units: 4
+- HBIO 309 The Human Machine Units: 4
+- HBIO 441L Prevention of Athletic Injuries Units: 4
+- HBIO 442L Evaluation and Rehabilitation of Athletic Injuries Units: 4
+
+## Minimum Units: 16
+
+---
+
+## Note:
+
+---
+
+A course used to satisfy the coaching requirement cannot be double counted to satisfy an elective requirement. No more than 4 units of PHED “activity” courses may be applied to a student’s overall unit requirement; consult an adviser about course selection.
+
+---

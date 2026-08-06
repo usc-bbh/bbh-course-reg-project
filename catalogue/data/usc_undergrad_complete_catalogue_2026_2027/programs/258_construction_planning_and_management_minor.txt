@@ -1,0 +1,78 @@
+Program Name: Construction Planning and Management Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32075
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32075&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32075
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:54Z
+Content SHA-256: 243a04f3c845ff71a5c80b187cd3b18b102df1295fb72f0b2c96fd0e62a77dc4
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Construction Planning and Management Minor
+
+---
+
+This program covers the most current theories and practice of construction planning and management. The program provides a valuable adjunct credential to professional school students pursuing careers in business administration, public administration, architecture, environmental studies, and other areas; and a unique opportunity for professional focus to students in the USC Dornsife College of Letters, Arts and Sciences.
+
+Construction activities are complex. In contemporary society, effective planning and management of these activities requires specialized knowledge of the technical, economic and policy environment. This program couples the knowledge of how construction activities are organized with a broader understanding of the urban system in which construction projects are embedded. With the exception of statistics, all of the required courses are within the Astani Department of Civil and Environmental Engineering and the USC Price School of Public Policy.
+
+Any USC undergraduate who has completed the equivalent of two full-time semesters in good standing is eligible to pursue the minor program. This minor program is rigorous enough to serve as an introductory credential for students subsequently electing to pursue advanced studies in development, urban planning, construction management, architecture or allied fields.
+
+Six courses consisting of at least 22 units are required for the minor.
+
+## Core Courses
+
+---
+
+- CE 460 Construction Engineering Units: 4
+- CE 470 Building Information Modeling: Project Visualization and Simulation for Management Units: 4
+
+### Theme Requirement
+
+---
+
+Two courses, both from Theme One or Theme Two:
+
+#### Theme One
+
+---
+
+- PPD 357 Government and Business Units: 4
+- PPD 358 Urban and Regional Economics Units: 4
+
+#### Theme Two
+
+---
+
+- FBE 400x Introduction to Real Estate Finance and Development Units: 4
+- FBE 466 Management of Real Estate Development: Feasibility Studies Units: 4
+
+## Electives
+
+---
+
+Select at least 6 units from the following:
+
+- CE 412 Construction Contracts and Law Units: 2
+- CE 461 Construction Estimating Units: 4
+- CE 462 Construction Methods and Equipment Units: 2
+- CE 469 Sustainable Design and Construction Units: 2
+- RED 437 Advanced Finance and Investment for Real Estate Development Units: 4
+
+## Total Units: 22
+
+---
+
+## Notes:
+
+---
+
+Advisement is provided by the Astani Department of Civil and Environmental Engineering. Students electing FBE, PPD, or RED courses from the themes or electives must satisfy the prerequisites. Please see the Price School and Marshall School section or schedule of classes for the prerequisites.
+
+---

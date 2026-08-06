@@ -1,0 +1,33 @@
+Program Name: Economics/Mathematics (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31779
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31779&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31779
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:44Z
+Content SHA-256: b5211da58c2607d464b0e5996a3d7cb44227a4769d9d09812aec0f6f335586ee
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Economics/Mathematics (BS)
+
+---
+
+Students are required to take seven courses in economics, seven courses in mathematics and two courses in information technology. Pre-major requirement: MATH 125 or equivalent.
+
+In Economics: ECON 203 , ECON 205 , ECON 303 , ECON 305 , ECON 318 and at least two other ECON courses at the 400 level or above.
+
+In Mathematics: MATH 126 or MATH 127 ; MATH 225 or MATH 245 ; MATH 226 or MATH 227 ; and either sequence one: MATH 407 , MATH 408 or sequence two: MATH 307 , MATH 308 ; and at least two other MATH courses at the 400 level or above (for both sequences).
+
+In Information Technology: Two courses required. At least one course from TAC 115 , TAC 116 or TAC 165 ; and TAC 249 .
+
+A grade of C (2.0) or better is required for each of the core courses ECON 303 , ECON 305 , ECON 318 , MATH 307 and MATH 308 or MATH 407 and MATH 408 .
+
+Electives must be approved by the program advisers.
+
+---

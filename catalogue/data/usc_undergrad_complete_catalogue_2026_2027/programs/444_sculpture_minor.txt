@@ -1,0 +1,46 @@
+Program Name: Sculpture Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31579
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31579&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31579
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:04Z
+Content SHA-256: c7a9e18b93028885ea5fa11d4751ce4b2a893e9475d146227eee7ccca421a7df
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Sculpture Minor
+
+---
+
+This minor focuses on making, organizing and manipulating objects and their spatial relationships in a range of materials such as wood, fiberglass, clay, plaster, latex and metal. Course work includes choice of classes in sculpture, ceramics, visual literacy, public art, moldmaking, metal and casting. The three-dimensional skills taught in this minor intersect with many other disciplines including architecture, cinematic arts, special effects, engineering design, urban planning and any other areas where skills in maquette and model building are relevant. The total number of units required for the minor is 20.
+
+## Required Lower-Division Course (4 Units)
+
+---
+
+- ART 140 Sculpture I Units: 4
+
+## Required Upper-Division Courses (8 units)
+
+---
+
+- ART 340 Sculpture II Units: 4
+- ART 440 Topics in Advanced Sculpture Units: 4
+
+## Upper-Division Electives (8 units)
+
+---
+
+- ART 441 Installation Art Units: 4
+- ART 442 Art and Technology Units: 4
+- ART 443 Woodworking Units: 2
+- ART 444 Modeling and Mold Making Units: 2
+- ART 445 Metal Units: 2
+
+---

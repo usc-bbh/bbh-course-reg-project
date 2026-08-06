@@ -1,0 +1,193 @@
+Program Name: Biological Sciences (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31718
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31718&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31718
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:50:04Z
+Content SHA-256: 5fb64b4d9694e92ad2e7049c1d5e95e53cca29c4ae3a351ff362ce7efaa98a94
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Biological Sciences (BS)
+
+---
+
+The general education, writing, foreign language and diversity requirements for a degree in the USC Dornsife College of Letters, Arts and Sciences are applicable. Among all undergraduate degrees in Biological Sciences offered by the Department of Biological Sciences, this degree provides the most general life science training. Students seeking a more focused curriculum may choose from four areas of emphasis within the Biological Sciences major. These are Biotechnology; Ecology, Evolution and Environment; Marine Biology; and Molecular, Cellular and Developmental Biology. Areas of emphasis are denoted on transcripts.
+
+## Lower-Division BISC Core Courses (8 units)
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4
+-
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+
+## Collateral Sciences Courses (32 units)
+
+---
+
+### General Chemistry Requirement: 8 units
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4 or
+- CHEM 107Lg General Chemistry for Chemistry Majors Units: 4 or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+-
+- CHEM 105bL General Chemistry Units: 4 or
+- CHEM 108L General Chemistry for Chemistry Majors: Kinetics and Equilibrium Units: 4 or
+- CHEM 115bL Advanced General Chemistry Units: 4
+
+### Organic Chemistry Requirement: 8 units
+
+---
+
+- CHEM 322aL Organic Chemistry Units: 4 or
+- CHEM 325aL Organic Chemistry Units: 4
+-
+- CHEM 322bL Organic Chemistry Units: 4 or
+- CHEM 325bL Organic Chemistry Units: 4
+
+### Calculus Requirement: 4 units
+
+---
+
+- MATH 125g Calculus I Units: 4
+
+### Statistics Requirement: 4 units
+
+---
+
+- MATH 208x Elementary Probability and Statistics Units: 4 or
+- QBIO 305g Statistics for Biological Sciences Units: 4 or
+- QBIO 310 Statistical Thinking for Quantitative Biology Units: 4
+
+### Physics Requirement: 8 units
+
+---
+
+- PHYS 135aLg Physics for the Life Sciences Units: 4 or
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+-
+- PHYS 135bL Physics for the Life Sciences Units: 4 or
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+
+## Introduction to Research-Active Faculty (1 to 2 units)
+
+---
+
+Enroll in one or two of the courses below.
+
+- BISC 193 Introduction to Research I Units: 1
+- BISC 194 Introduction to Research II Units: 1
+- BISC 199 Neuroscience Colloquium Units: 1
+
+## Upper-Division BISC Core Courses (12 units)
+
+---
+
+- BISC 320Lg Molecular Biology Units: 4
+- BISC 325 Genetics Units: 4
+- BISC 330L Biochemistry Units: 4
+
+## Upper-Division Electives (20 units)
+
+---
+
+Twenty units of upper-division BISC course work available for major credit are required. At least two courses in the upper-division electives must carry a lab (“L”) or be 490. No more than 4 units of BISC 490x may be used to fulfill the upper-division elective requirement. In addition, no more than two seminars (BISC 460 to BISC 462 ), totaling 4 units, may be applied to the upper-division elective requirement.
+
+- BISC 300L Microbiology Units: 4
+- BISC 303L The Kingdom Plantae: An Introduction to Botany Units: 4
+- BISC 307L General Physiology Units: 4
+- BISC 313L Evolution and Population Genetics Units: 4
+- BISC 314L Cell Culture Units: 4
+- BISC 315L Introduction to Ecology Units: 4
+- BISC 321 Multidisciplinary Seminar: Science, Technology and Society Units: 2
+- BISC 326L Urban Conservation Biology Units: 4
+- BISC 363L Mammalogy Units: 4
+- BISC 365 Phylogenetics and Evolution Units: 2
+- BISC 369L Ecology and the Natural History of California Units: 4
+- BISC 372 Cell Biology Units: 4
+- BISC 379L Our Future Changing Ocean Units: 4
+- BISC 402 RNA Biology and Biotechnology Units: 4
+- BISC 403 Advanced Molecular Biology Units: 4
+- BISC 404L Biodiversity Data Analytics Units: 4
+- BISC 406L Biotechnology Units: 4
+- BISC 407 Cellular and Molecular Neuroscience Units: 4
+- BISC 408 Systems Neuroscience: From Synapses to Perception Units: 4
+- BISC 410 Applications of Molecular Biology to Medicine Units: 4
+- BISC 411 Advanced Cell Biology Units: 4
+- BISC 414 Biology of Cancer Units: 4
+- BISC 421 Neurobiology Units: 4
+- BISC 423 Epilepsy to Ecstasy: Biological Basis of Neurological Disorders Units: 4
+- BISC 424 Brain Architecture Units: 4
+- BISC 425 Genetics through the Scientific Literature Units: 4
+- BISC 427 The Global Environment Units: 4
+- BISC 428 The Biology of Health from a Global Perspective Units: 4
+- BISC 429 Cancer Immunology Units: 4
+- BISC 431L Aquatic Microbiology Units: 4
+- BISC 434 Introduction to Genome Science Units: 4
+- BISC 435 Advanced Biochemistry Units: 4
+- BISC 438 Nutritional Biochemistry Units: 4
+- BISC 444 Practical Analysis of Biological Data in R Units: 2
+- BISC 445L Fundamentals of Vertebrate Biology Units: 4
+- BISC 450L Principles of Immunology Units: 4
+- BISC 451 Protein Engineering Units: 4
+- BISC 460 Seminar in Ecology, Evolution and Environment Units: 2
+- BISC 461 Seminar in Molecular and Computational Biology Units: 2
+- BISC 462 Seminar in Neurobiology Units: 2
+- BISC 466 Neuroimmunology Units: 4
+- BISC 469L Marine Biology Units: 4
+- BISC 473L Biological Oceanography Units: 4
+- BISC 480L Developmental Biology Units: 4
+- BISC 483 Geobiology and Astrobiology Units: 4
+- BISC 485 Advanced Seminar in Bacterial Survival and Evolution Units: 4
+- BISC 488 Microscopy and Spectroscopy of Biological Systems Units: 2
+- BISC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- BISC 491L Practical Aquaculture Units: 4
+- BISC 493x Honors Seminar Units: 1
+- BISC 494x Honors Thesis Units: 2
+- ENST 335 Science, Health and the Environment Units: 4
+- GEOL 412 Oceans, Climate, and the Environment Units: 4
+- GERO 440 Biodemography of Aging Units: 4
+- HBIO 301L Human Anatomy Units: 4
+- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4
+- QBIO 475 Statistical and Evolutionary Genetics Units: 4
+- QBIO 478 Computational Genome Analysis Units: 4
+- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4
+- QBIO 482 Systems Biology: Modeling the Dynamics of Life Units: 4
+- SCRM 487 Regenerative Medicine: Principles, Paradigms and Practice Units: 4
+
+## Total required units: 128
+
+---
+
+## Scholarship in Major Subject
+
+---
+
+The department requires that students receive a grade no lower than C- in their five core courses. They must maintain a 2.0 GPA in the upper-division biology and chemistry courses required for the major, as well as an overall 2.0 GPA. All major core courses must be taken on a letter grade basis.
+
+## Honors Program in Biological Sciences
+
+---
+
+The department offers an honors program to outstanding students already pursuing studies for the BA or BS degree in Biological Sciences. This program offers students an opportunity to participate in undergraduate research, experience in writing an honors thesis summarizing the completed research, and experience in an honors seminar. Honors students are required to take two semesters of BISC 493x Honors Seminar (1 unit/ - semester) and one semester of BISC 494x Honors Thesis (2 units) in addition to fulfilling all requirements of the BA or BS degree. Honors students must also choose BISC 490x as one of their upper division electives. This program leads to the designation on the transcript of Bachelor of Arts or Bachelor of Science in Biological Sciences with Honors.
+
+#### Honors Admission Requirements
+
+Students may apply to the department for admission to the honors program after having completed at least one year of work at USC with a minimum GPA of 3.5 in all science and math courses required for the major.
+
+#### Honors Scholarship Requirements
+
+For continuation in the honors programs, students must maintain a minimum GPA of 3.5 in the sciences and mathematics courses required for the major.
+
+---

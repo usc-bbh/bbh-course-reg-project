@@ -1,0 +1,70 @@
+Program Name: Chemistry (BA)
+Credential: BA
+School or Academic Unit: USC Dornsife College of Letters, Arts and Sciences, the following courses are require
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31738
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31738&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31738
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:51:18Z
+Content SHA-256: 54349eef59ea6990e4a5ca1016cce340fdf9337fd633a39557353759bd9ac898
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Chemistry (BA)
+
+---
+
+In addition to the general education, writing, foreign language and diversity requirements for a degree in the USC Dornsife College of Letters, Arts and Sciences, the following courses are required.
+
+## Required Courses, Lower-Division
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4
+- CHEM 105bL General Chemistry Units: 4 or
+- CHEM 107Lg General Chemistry for Chemistry Majors Units: 4
+- CHEM 108L General Chemistry for Chemistry Majors: Kinetics and Equilibrium Units: 4
+- or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+- CHEM 115bL Advanced General Chemistry Units: 4
+-
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+-
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- MATH 226g Calculus III Units: 4
+-
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+- PHYS 153L Fundamentals of Physics III: Optics, Thermo, Modern Physics Units: 4
+
+## Required Courses, Upper-Division
+
+---
+
+- CHEM 300L Analytical Chemistry Units: 4
+- CHEM 325aL Organic Chemistry Units: 4
+- CHEM 325bL Organic Chemistry Units: 4
+- CHEM 430 Physical Chemistry: Thermodynamics and Kinetics Units: 4
+- CHEM 431 Physical Chemistry: Quantum Mechanics Units: 4
+
+### Four Units from Among:
+
+---
+
+- CHEM 332L Physical Chemical Measurements Units: 4
+- CHEM 423L Advanced Laboratory Techniques in Organic and Inorganic Chemistry Units: 4
+- CHEM 453 Advanced Inorganic Chemistry Units: 4
+- CHEM 461 Polymer Chemistry Units: 4
+- CHEM 462L Properties and Sustainability of Polymers Units: 4
+- CHEM 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+
+### One additional upper-division science elective
+
+---
+
+---

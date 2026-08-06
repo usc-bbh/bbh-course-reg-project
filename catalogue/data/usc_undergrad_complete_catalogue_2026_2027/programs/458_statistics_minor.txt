@@ -1,0 +1,73 @@
+Program Name: Statistics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31856
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31856&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31856
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:57Z
+Content SHA-256: 5ddcc1972a4b2a6c63d489363d1f1e83d98eb292e8f3715690ac10fefa82db8c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Statistics Minor
+
+---
+
+Kaprielian Hall 104
+
+(213) 740-2400
+
+This interdisciplinary minor should appeal to students from any discipline who are interested in acquiring a basic understanding of the mathematics underlying modern statistical analysis and inference techniques, in learning how to handle and analyze large data sets, and in gaining insight into the applications of modern statistics. Students who complete this minor should be able to critically interpret statistically based conclusions, should be viable candidates for entry level positions requiring some knowledge of modern statistics and data analysis, and should be prepared to enter a graduate-level program in applied statistics. The only prerequisite for this minor is one semester of elementary calculus.
+
+As with all minors, students must include at least four upper-division courses and four courses dedicated exclusively to this minor (which may be the same four courses). Finally, students must select four courses outside their major department. These may be the same four courses used to meet the first two conditions. Note that Math BA and BS economics/mathematics students may complete this minor by taking MATH 407 and MATH 408 and at least 16 additional upper-division units approved by the Department of Mathematics, which are not in their major department and not being used to satisfy a requirement for their major. Note also that if calculus must be taken to satisfy the prerequisite for MATH 307 , 20 units would be required to complete the minor.
+
+## Required Courses
+
+---
+
+- MATH 307 Statistical Inference and Data Analysis I Units: 4 (prerequisite: MATH 118 or MATH 125 ) and
+- MATH 308 Statistical Inference and Data Analysis II Units: 4
+- or
+- MATH 407 Probability Theory Units: 4 and
+- MATH 408 Mathematical Statistics Units: 4
+
+## Electives
+
+---
+
+Select 8 units from the following:
+
+- BME 210 Biomedical Computer Simulation Methods Units: 4
+- BME 423 Statistical and Data Science Methods in Biomedical Engineering Units: 4
+- BUAD 311 Operations Management Units: 4 *
+- DSO 424 Business Forecasting Units: 4 *
+- DSO 427 Spreadsheet Modeling for Business Insights Units: 4
+- ECON 318 Introduction to Econometrics Units: 4
+- ECON 419 Advanced Econometrics Units: 4
+- HP 350L Health Behavior Research Methods Units: 4
+- ISE 426 Statistical Process Control and Analytics Units: 4
+- MATH 447 Mathematics of Machine Learning Units: 4
+- PM 522a Introduction to the Theory of Statistics Units: 3
+- PM 522b Introduction to the Theory of Statistics Units: 3
+- PPD 504 Essential Statistics for Public Management Units: 2
+- PSYC 421L Data Analysis for Psychological Research Units: 4
+- QBIO 478 Computational Genome Analysis Units: 4
+
+### Note:
+
+---
+
+*Prerequisite required.
+
+Any upper-division or graduate level class not appearing in the above list that involves the theory or application of statistics may be approved by the Department of Mathematics as an elective.
+
+## Total Units: 16
+
+---
+
+---

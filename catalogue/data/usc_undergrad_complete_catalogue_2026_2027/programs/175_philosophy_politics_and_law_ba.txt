@@ -1,0 +1,201 @@
+Program Name: Philosophy, Politics and Law (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31876
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31876&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31876
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:41Z
+Content SHA-256: 14ec601ed29158598668f9e8d83f718863edba835ef58f3daee7347ab6caf98a
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Philosophy, Politics and Law (BA)
+
+---
+
+This interdisciplinary major combines, in a systematic and structured way, basic education in philosophy, political theory and elements of law. An interdisciplinary approach to the combination of these three disciplines may be of particular interest to students contemplating post-graduate work in law; those interested in a career in public service or politics; and those attracted by the rigor of philosophy and its attention to foundational issues, who are also interested in politics and law. Students are exposed to a wider range of conceptual and methodological approaches than they would in any single discipline, while learning enough philosophy and political science to leave a choice of options for graduate schools.
+
+The major requires nine classes, one of which must be a gateway course — PHIL 315 , PHIL 320 , PHIL 336 , PHIL 337 , PHIL 340, PHIL 360, PHIL 362, PHIL 363 or PHIL 385 — distributed as follows.
+
+## Requirements
+
+---
+
+Note: At least 36 units must be completed as a part of the major.
+
+### One lower-division course from the following:
+
+---
+
+- LAW 101w Law and the U.S. Constitution in Global History Units: 4
+- LAW 200w Law and Society Units: 4
+- LAW 210p Fundamentals of the U.S. Legal System Units: 4
+- PHIL 101g Free People, Free Thought and Free Markets Units: 4
+- PHIL 166gw Current Moral and Social Issues Units: 4
+- PHIL 174gw Freedom, Equality, and Social Justice Units: 4
+- PHIL 178gw Moral Dilemmas in the Legal Domain Units: 4
+- PHIL 240g Mind, Self, and Consciousness Units: 4
+- PHIL 254gp Science, Knowledge and Objectivity Units: 4
+- PHIL 256g Science, Religion, and the Making of the Modern Mind Units: 4
+- PHIL 258g Probability and Rational Choice Units: 4
+- PHIL 284gp Ideas on Trial Units: 4
+- POSC 130g Law, Politics and Public Policy Units: 4
+
+#### Note:
+
+---
+
+Students who satisfy one of their general education requirements by taking a Thematic Option course of comparable scope and content, can, at the discretion of the Director of the School of Philosophy and the undergraduate adviser for this major, substitute that course for one of the above.
+
+### One course in logic:
+
+---
+
+If selected, both PHIL 122a and PHIL 122b must be taken as they are considered two parts of one course.
+
+- PHIL 220 Introduction to Logic Units: 4
+- PHIL 122a Reasoning and Argument Units: 2
+- PHIL 122b Reasoning and Argument Units: 2
+- PHIL 222g Logic and Language Units: 4
+- PHIL 350 Intermediate Logic Units: 4
+- PHIL 450 The Limits of Logic Units: 4
+- PHIL 452 Modal Logic Units: 4
+
+### One course in philosophy of law:
+
+---
+
+- PHIL 430 Philosophy of Law Units: 4
+- PHIL 431 Law, Society, and Politics Units: 4
+
+### Two courses from Categories A, B and C below
+
+---
+
+The two courses must belong to different categories, and one of these courses must be a gateway course: PHIL 315 , PHIL 320 , PHIL 336 , PHIL 337 , PHIL 340, PHIL 360 or PHIL 385 . Completing a gateway course is recommended prior to enrolling in any 400-level Philosophy course. Courses taken to satisfy other requirements will not be double-counted.
+
+#### A. Moral and political philosophy
+
+---
+
+- PHIL 337 Political Philosophy Units: 4
+- PHIL 340 Ethics Units: 4
+- PHIL 437 Social and Political Philosophy Units: 4
+- PHIL 440 Contemporary Ethical Theory Units: 4
+- PHIL 442 History of Ethics to 1900 Units: 4
+- PHIL 443 Value Theory Units: 4
+
+#### B. History of philosophy:
+
+---
+
+- PHIL 311 The Quest for the Individual in Early Modern Europe Units: 4
+- PHIL 314 Origins of Free Market Thought in Early Modern Europe Units: 4
+- PHIL 315 History of Western Philosophy: Ancient Period Units: 4
+- PHIL 317 History of Western Philosophy: Medieval Period Units: 4
+- PHIL 320 History of Western Philosophy: Modern Period Units: 4
+- PHIL 337 Political Philosophy Units: 4
+- PHIL 410 Early Greek Thought Units: 4
+- PHIL 411 Plato Units: 4
+- PHIL 415 Aristotle Units: 4
+- PHIL 416 The Ancient Stoics Units: 4
+- PHIL 421 Continental Rationalism Units: 4
+- PHIL 422 British Empiricism Units: 4
+- PHIL 423 The Critical Philosophy of Kant Units: 4
+- PHIL 424 19th Century Philosophy Units: 4
+- PHIL 427 Twentieth Century Anglo-American Philosophy Units: 4
+- PHIL 428 Anglo-American Philosophy Since 1950 Units: 4
+- PHIL 442 History of Ethics to 1900 Units: 4
+- PHIL 473 Wittgenstein Units: 4
+
+#### C. Systematic areas of philosophy:
+
+---
+
+- PHIL 336 Philosophy of Mind and Language Units: 4
+- PHIL 350 Intermediate Logic Units: 4
+- PHIL 360 Epistemology and Metaphysics Units: 4
+- PHIL 362 Possible Worlds Units: 4
+- PHIL 363 Philosophy of Perception Units: 4
+- PHIL 381 Infinity in Mathematics and Philosophy Units: 4
+- PHIL 385 Science and Rationality Units: 4
+- PHIL 427 Twentieth Century Anglo-American Philosophy Units: 4
+- PHIL 428 Anglo-American Philosophy Since 1950 Units: 4
+- PHIL 450 The Limits of Logic Units: 4
+- PHIL 452 Modal Logic Units: 4
+- PHIL 460 Metaphysics Units: 4
+- PHIL 462 Philosophy of Mind Units: 4
+- PHIL 463 Theories of Action Units: 4
+- PHIL 465 Philosophy of Language Units: 4
+- PHIL 467 Language, Linguistics and Mind Units: 4
+- PHIL 470 Theory of Knowledge Units: 4
+- PHIL 480 Philosophy of Mathematics Units: 4
+- PHIL 484 Philosophy of Physics Units: 4
+- PHIL 485 Development of Physical Science Units: 4
+- PHIL 486 Methodologies of the Sciences Units: 4
+
+### One course in constitutional politics:
+
+---
+
+- LAW 406 Individual Rights in U.S. Constitutional Law Units: 4
+- POSC 315 Regulation of Elections and Political Finance Units: 4
+- POSC 323 Applied Politics Units: 4
+- POSC 335 Political Parties, Campaigns, and Elections Units: 4
+- POSC 340 Constitutional Law Units: 4
+- POSC 426 The United States Supreme Court Units: 4
+- POSC 444 Civil and Political Rights and Liberties Units: 4
+- POSC 423 Presidents and the Presidency Units: 4
+- POSC 432 Politics of Local Criminal Justice Units: 4
+
+### One course in comparative or international politics and law:
+
+---
+
+- ANTH 345 Law, Power and Culture Units: 4
+- IR 307 Contemporary International Politics Units: 4
+- IR 309 Global Governance Units: 4
+- IR 349 International Law and Politics Units: 4
+- POSC 345 International Law Units: 4
+- POSC 360 Comparative Political Institutions Units: 4
+- POSC 370 European Political Thought I Units: 4
+- POSC 439 Critical Issues in American Politics Units: 4
+- POSC 448a The Politics of Peace Units: 4
+- POSC 456 Women in International Development Units: 4
+- POSC 469 Critical Issues in Comparative Politics Units: 4
+
+### One course in politics, law, and public policy:
+
+---
+
+- IR 326 U.S. Foreign Economic Policy Units: 4
+- IR 332 Money, Guns and Oil Units: 4
+- IR 344 The Global South in World Politics Units: 4
+- LING 412 Language and Law Units: 4
+- POSC 334 Interest Groups and Elite Behavior Units: 4
+- POSC 347 Environmental Law Units: 4
+- POSC 381 Sex, Power, and Politics Units: 4
+- POSC 395 Directed Governmental and Political Leadership Internship Units: 2, 3, 4, 5, 6, 7, 8
+- POSC 443 Law in Film Units: 4
+- POSC 452 Critical Issues in Law and Public Policy Units: 4
+- PPD 314 Public Policy and Law Units: 4
+- SWMS 349 Women and the Law Units: 4
+
+### One course in law:
+
+---
+
+- LAW 300 Concepts in American Law Units: 4
+
+### Note:
+
+---
+
+Majors may graduate with departmental honors by doing the following: (i) completing all major requirements, (ii) having a GPA of at least 3.5 for upper-level courses for the major, and (iii) completing the Honors Capstone Seminar (PHIL 495 ), or if that’s not possible, the Senior Thesis Seminar (PHIL 494 ). To take PHIL 494 or PHIL 495 , students must be seniors and we recommend having completed two other 400-level Philosophy courses first.
+
+---

@@ -1,0 +1,61 @@
+Program Name: Korean Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31767
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31767&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31767
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:50Z
+Content SHA-256: 7fc56207d8984ae9d248d3ee3e09c8421d080b45312f59507e8e353724d6fd33
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Korean Studies Minor
+
+---
+
+The minor in Korean studies offers an interdisciplinary approach to studying a dynamic and crucial region. Drawing on courses from departments across the social sciences, humanities and professional schools, the minor challenges and stimulates students who wish to learn about the political, economic, social and cultural changes of the area.
+
+Twenty units (five courses) are required. All students must take EASC 150gp East Asian Societies or HIST 105g The Korean Past as a gateway course, as well as four upper-division four-unit courses from the list below. There is no language requirement for the minor.
+
+## Required Courses
+
+---
+
+- EASC 150gp East Asian Societies Units: 4 or
+- HIST 105g The Korean Past Units: 4
+
+### Four 4-unit courses from the following:
+
+---
+
+- CTCS 403 Studies in National and Regional Media Units: 4 max 8 **
+- CTCS 494 Advanced Cinema and Media Studies Seminar Units: 4 max 8 **
+- EALC 315 Advanced Korean I Units: 4 *
+- EALC 317 Advanced Korean II Units: 4
+- EALC 332 Modern Korean Literature in Translation Units: 4
+- EALC 344gp Korean Culture from Ancient to Modern Times Units: 4
+- EALC 415 Advanced Korean III Units: 4
+- EALC 417 Advanced Korean IV Units: 4
+- EALC 418 Korean Multiliteracy in Contemporary Contexts Units: 4 *
+- EALC 419 Korean Language Through Modern Media Units: 4 *
+- EALC 429 Gender in Korean Film and Literature Units: 4
+- EALC 499 Special Topics Units: 2, 3, 4 max 8 **
+- HIST 333 Korea: The Modern Transformation Units: 4
+- HIST 404 Seminar in Korean History Units: 4
+- HIST 498 Seminar on Selected Historical Topics Units: 4 max 8 **
+- IR 499 Special Topics Units: 2, 3, 4 max 8 **
+
+## Note:
+
+---
+
+*Prerequisite: EALC 217
+
+**For these repeatable courses, only classes with Korean-based foci will count.
+
+---

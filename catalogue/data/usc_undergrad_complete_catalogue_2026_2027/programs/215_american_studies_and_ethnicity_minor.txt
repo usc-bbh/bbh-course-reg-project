@@ -1,0 +1,38 @@
+Program Name: American Studies and Ethnicity Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31695
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31695&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31695
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:14Z
+Content SHA-256: 98c65a78f8d4fbd642d5381b7cdfcc2dd001f6e4b2eccc48fe523f80a9324d58
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# American Studies and Ethnicity Minor
+
+---
+
+#### Course Requirements
+
+For the minor in American Studies and Ethnicity, five courses in American Studies and Ethnicity, or courses certified for American Studies and Ethnicity credit, are required. The five courses must be distributed as follows: two core requirement courses and three additional elective courses chosen from the courses certified in American Studies and Ethnicity at the 300 level or above.
+
+## Core Requirements
+
+---
+
+- AMST 200gm Introduction to American Studies and Ethnicity Units: 4
+- AMST 350 Junior Seminar in American Studies and Ethnicity: Theories and Methods Units: 4
+
+## Upper-Division Elective Courses
+
+---
+
+Three courses from the American Studies and Ethnicity major lists, or other American Studies and Ethnicity courses with the approval of the American Studies and Ethnicity director, at the 300 level or higher. No more than one course in the minor may be taken outside the college.
+
+---

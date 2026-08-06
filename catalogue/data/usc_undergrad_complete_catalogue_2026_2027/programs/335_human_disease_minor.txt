@@ -1,0 +1,61 @@
+Program Name: Human Disease Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32666
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32666&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32666
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:09Z
+Content SHA-256: 137c7f292813575b38127034f10a3506e492933c572f2b05385b3f377a50aeff
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Human Disease Minor
+
+---
+
+The minor in Human Disease is an interdisciplinary program focused on the biological and psychological factors that determine wellness and disease. It is an ideal minor for students interested in various disciples such medicine, nursing, pharmacy, dentistry, public health, global health, health policy and health promotion.
+
+The minor includes two lower-division pre-requisites, two upper-division courses to be chosen from a list of HBIO courses and two upper-division courses to be chosen from a list of PSYC courses for a total of four upper-division courses (16 units).
+
+## Pre-requisite Courses
+
+---
+
+- PSYC 100Lg Introduction to Psychology Units: 4
+-
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+
+## Human Biology
+
+---
+
+Choose two from the following:
+
+- HBIO 301L Human Anatomy Units: 4
+- HBIO 360L Nutrition and Disease Units: 4
+- HBIO 370 Genetics and Disease Units: 4
+- HBIO 405 Evolutionary Medicine Units: 4
+- HBIO 435 Neurobiology of Feeding Behavior and Obesity Units: 4
+
+## Psychology
+
+---
+
+Choose two from the following:
+
+- PSYC 360 Psychological Disorders Units: 4
+- PSYC 424 Neuropsychology Units: 4
+- PSYC 426 Motivated Behaviors and Addiction Units: 4
+- PSYC 462m Culture and Mental Health Units: 4
+
+## Minimum Upper-Division Units Required: 16
+
+---
+
+---

@@ -1,0 +1,158 @@
+Program Name: Computer Science Games (BS)
+Credential: BS
+School or Academic Unit: Viterbi First-Year Academy
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32701
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32701&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32701
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:28Z
+Content SHA-256: b394e0b58f5bb0e73bcc034051774cc59ab6db0693b0f3b645da73835299c11c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Computer Science Games (BS)
+
+---
+
+The goal of the Bachelor of Science in Computer Science Games program is to graduate students with a solid grounding in computer science and a cross-disciplinary background in game development. Topics covered in the cross-disciplinary game development portion of the degree program include game production, visual design for games and interactives, computer animation, video game programming, game hardware architectures, game engine programming, serious game development, introductory and intermediate game design and two semester-long final game projects. Students graduating from this program will be capable of engineering next-generation games and simulations and their technologies in the entertainment and serious game fields. Additionally, graduates from this program will be able to further their education in graduate programs in game development and computer science.
+
+The requirement for the degree is 128 units.
+
+A grade of C (2.0) or better is required for each of the core courses CSCI 102L , CSCI 103 , CSCI 170 , CSCI 104 and CSCI 201 .
+
+Courses with a grade of C- or below must be repeated; courses may only be retaken once.
+
+Departmental approval is required in order to retake a course.
+
+Students who do not satisfy the degree requirement after repeating a class will be disqualified from the program.
+
+A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken.
+
+## Composition/Writing Requirements (8 Units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4 [*]
+
+## General Education (24 Units)
+
+---
+
+General Education Units: 24
+
+## Pre-Major Requirements (18 Units)
+
+---
+
+### Engineering (2 units)
+
+---
+
+- ENGR 102 Viterbi First-Year Academy Units: 2
+
+### Mathematics (8 units)
+
+---
+
+- MATH 125g Calculus I Units: 4 **
+- MATH 126g Calculus II Units: 4
+- or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+
+### Linear Algebra (4 units)
+
+---
+
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- MATH 235 Linear Algebra and Applications Units: 4 or
+- EE 141L Applied Linear Algebra for Engineering Units: 4
+
+### Physics (4 units)
+
+---
+
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 [**] or
+- PHYS 161Lg Advanced Principles of Physics I Units: 4
+
+## Major Requirements (60 units)
+
+---
+
+### Computer Science Core (22 units)
+
+---
+
+- CSCI 102L Introduction to Programming Units: 2
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 104L Data Structures Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+- CSCI 201 Principles of Software Development Units: 4
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4
+
+### Computer Science Core Electives (8 units)
+
+---
+
+Choose at least 8 units:
+
+- CSCI 350 Fundamentals of Operating Systems Units: 4
+- CSCI 353 Internetworking Units: 4
+- CSCI 356 Computer Systems Units: 4
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4
+- CSCI 420 Computer Graphics Units: 4
+
+### Game Development Core (16 units)
+
+---
+
+- CTIN 190 Introduction to Interactive Entertainment Units: 4
+- CTIN 488 Game Design Workshop Units: 4
+- CTIN 489L Intermediate Game Design and Production Units: 4
+- TAC 380 Video Game Programming Units: 4
+
+### Game Development Core Electives (6 units)
+
+---
+
+Choose at least 6 units:
+
+- CSCI 426 Game Prototyping Units: 4
+- CTAN 452 Introduction to 3-D Computer Animation Units: 2
+- CTIN 289 Game Development Fundamentals Units: 4
+- CTIN 389 Game Development Principles Units: 4
+- CTIN 404L User Research for Games Units: 2
+- CTIN 406L Sound Design for Games Units: 2
+- CTIN 478 Level Design Workshop Units: 2
+- CTIN 482 Designing Social Games Units: 2
+- CTIN 485 Advanced Game Development Units: 2
+- CTIN 492L Experimental Game Topics Units: 4
+- TAC 382 Mobile Game Development Units: 4
+- TAC 481 Game Programming Professional Development Units: 2
+- TAC 438 Advanced Gameplay Programming Units: 4
+- TAC 485 Programming Game Engines Units: 4
+
+### Game Capstone (8 units)
+
+---
+
+- CSCI 491aL Advanced Game Project Units: 4
+- CSCI 491bL Advanced Game Project Units: 4
+
+## Free Electives (18 units)
+
+---
+
+## Total units: 128
+
+---
+
+[*]WRIT 340 Advanced Writing (Communication for Engineers) is strongly recommended for CSGM majors.
+
+[**]Satisfies GE requirement.
+
+---

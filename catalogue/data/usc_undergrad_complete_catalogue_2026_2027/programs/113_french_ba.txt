@@ -1,0 +1,83 @@
+Program Name: French (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31810
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31810&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31810
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:24Z
+Content SHA-256: e4ffbcba04df823de0a7a5893cc3a3038e3730bb2fb756257c7418efd94615be
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# French (BA)
+
+---
+
+For the lower division, FREN 250 French IV is required. The upper-division requirements include two core courses plus an additional five courses to be selected in consultation with the department adviser (no more than two of which may be in English). Of the additional five courses, at least two must be at the 400 level.
+
+## Lower Division
+
+---
+
+- FREN 250 French IV Units: 4
+
+## Upper Division (7 Courses)
+
+---
+
+### Required core courses:
+
+---
+
+- FREN 300 French Grammar and Composition Units: 4
+- FREN 330 Critical Writing in French Units: 4
+
+### Suggested courses to fulfill requirement of five upper-division French courses, two of which must be 400-level courses:
+
+---
+
+- FREN 305 Global Women’s Narratives Units: 2
+- FREN 307g Public Memory and the Ghosts of History Units: 4
+- FREN 309 Voices of Change: Writers, Filmmakers and Artists of Contemporary Senegal Units: 4
+- FREN 310 Media and Culture Units: 4
+- FREN 315 Inside the Courts: the French Legal Language and Culture Units: 4
+- FREN 318 Global Cyphers: Hip Hop Circles Around the World Units: 4
+- FREN 320g The French New Wave and its Legacy Units: 4
+- FREN 340g Italian and French Cinema and Society Units: 4
+- FREN 347g Race, Gender and Power in Francophone Literature Units: 4
+- FREN 351 Research Methods Units: 4
+- FREN 357 Popular Music in France - Culture, Politics, Protest Units: 4
+- FREN 360 Business and Technical French Units: 4
+- FREN 370gm Equality and Difference around the Enlightenment Units: 4
+- FREN 373g Remembering Loss, Writing Memory Units: 4
+- FREN 375gmw Global Narratives of Illness and Disability Units: 4
+- FREN 382 Paris Avant-Gardes Units: 4 (Paris semester only)
+- FREN 383 French Women Writers Units: 4
+- FREN 392 Seminar in Literary and Cultural Studies Units: 4 , max 8
+- FREN 393 Theories and Theorists Units: 4
+- FREN 401 Studies in Early Modernity Units: 4 , max 8
+- FREN 402 Modernity and Modernism Units: 4 , max 8
+- FREN 403 Legacies of Empire Units: 4 , max 8
+- FREN 404 Studies in an Author Units: 4
+- FREN 410 Actualités Françaises Units: 4 (Paris semester only)
+- FREN 432 French Theatre Units: 4 (Paris semester only)
+- FREN 445 Feminism, Gender and Sexuality Units: 4
+- FREN 446 Contemporary French Thought Units: 4 , max 8
+- FREN 448m France and Islam Units: 4
+- FREN 449 Studies in French Civilization Units: 4 (Paris semester only)
+- FREN 464 Cultural Politics and Traditions Units: 4 , max 8
+- FREN 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 , max 12
+- FREN 499 Special Topics Units: 2, 3, 4, 5, 6, 7, 8 max 8
+
+## Honors Program
+
+---
+
+The BA in French with Honors is available to students who have an overall GPA of 3.0 and a GPA of at least 3.5 in courses counted for major credit. To complete the honors program the student must complete three 400-level courses and write an honors thesis of 25–30 pages in French in one of the 400-level courses. The topic of the thesis must be agreed upon with the instructor.
+
+---

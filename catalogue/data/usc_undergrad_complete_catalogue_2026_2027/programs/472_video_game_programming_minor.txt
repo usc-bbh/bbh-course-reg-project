@@ -1,0 +1,64 @@
+Program Name: Video Game Programming Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32131
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32131&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32131
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:28Z
+Content SHA-256: f7db57de7e8db5e8acfd5fd0b519ec7af1bf9fa3fd442589a61a72cd94404774
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Video Game Programming Minor
+
+---
+
+The video game programming minor integrates the theoretical concepts and practical skills to prepare students for a career in interactive entertainment. Students will gain exposure to a variety of programming concepts related to creating video games including: 3-D graphics, artificial intelligence, particle systems, rendering, collision detection, game algorithms, physics concepts and math formulas. In contrast to the video game design minor where the focus is applying design concepts and using software design tools, students in the video game programming minor will evaluate, write and debug code.
+
+Requirements for completion (four core courses plus 4 units of electives)
+
+The minor requires a minimum of 18 units.
+
+## Choose one introductory programming course (2 Units)*
+
+---
+
+- TAC 115 Programming in Python Units: 2
+- TAC 116 Accelerated Programming in Python Units: 2
+- TAC 165 Introduction to C++ Programming Units: 2
+
+## Complete the following (12 Units)
+
+---
+
+- TAC 265 Software Design with Object-Oriented Programming Units: 4 **
+- TAC 365 Data Structures in C++ Units: 4 **
+- TAC 380 Video Game Programming Units: 4
+
+## Elective Courses (4 Units)
+
+---
+
+- CSCI 491aL Advanced Game Project Units: 4
+- CSCI 491bL Advanced Game Project Units: 4
+- TAC 382 Mobile Game Development Units: 4
+- TAC 435 Professional C++ Units: 4
+- TAC 438 Advanced Gameplay Programming Units: 4
+- TAC 439 Compiler Development Units: 4
+- TAC 481 Game Programming Professional Development Units: 2
+- TAC 485 Programming Game Engines Units: 4
+
+## Note:
+
+---
+
+[*]Students with prior programming experience may request to take a placement test. Students who pass this placement test with have their introductory programming course requirement waived.
+
+[**]Students who have completed CSCI 103L and CSCI 104L may replace the TAC 265 and TAC 365 requirements with 8 units from the list of elective courses. Additionally, these students may have their introductory programming requirement waived.
+
+---

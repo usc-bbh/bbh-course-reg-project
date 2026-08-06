@@ -1,0 +1,93 @@
+Program Name: Business Administration (Communication) (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32692
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32692&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32692
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:50:37Z
+Content SHA-256: b46a02cdfeebd2eca3d868ab8c723f9ae1e6d7267b0f86d629fd05fbfc0f59e6
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Business Administration (Communication) (BS)
+
+---
+
+The Bachelor of Science in Business Administration with an emphasis in Communication provides specialized skill sets for students that they will apply to succeed in the workplace, regardless of their chosen profession. Students will learn to apply emotionally intelligent and strategic communication, and utilize rapidly evolving communication technologies, to facilitate effective workplace processes among organizational stakeholders. The degree signals to potential employers that the graduate is ready to lead and motivate teams in-person and virtually and facilitate complex communication situations among diverse groups and individuals across cultures to support the success of the organization.
+
+Requirements for Admission
+
+This program is available only to current Marshall and Leventhal undergraduates who satisfy the following three conditions: (1) have attained sophomore standing, (2) have completed at least one semester in residence at USC, and (3) have earned credit for the course BUAD 302 Communication Strategy in Business . Students who wish to transfer to this program should visit the Marshall Undergraduate Advising Office.
+
+Students may earn only one emphasis within the BS in Business Administration degree.
+
+Requirements for Completion
+
+To complete the program, students must satisfy all requirements for the Bachelor of Science degree in business administration including USC’s General Education requirements and at least 12 upper-division units in the area of emphasis.
+
+## Composition/Writing Requirements (8 units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *
+- Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BCOM majors.
+
+## Business Core Requirements
+
+---
+
+Business Administration majors must complete the business core. The business core contains foundational courses that provide analytical skills and theoretical knowledge in math, statistics, accounting and business economics as well as communication skills pertinent to the business field; functional courses in business disciplines such as finance, marketing, organizational behavior and operations; and integrative courses in strategy and data analysis.
+
+- BUAD 280 Introduction to Financial Accounting Units: 3
+- BUAD 281 Introduction to Managerial Accounting Units: 3
+- BUAD 302 Communication Strategy in Business Units: 4
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+-
+- BUAD 306 Business Finance Units: 4
+- or
+- BUAD 308 Advanced Business Finance Units: 4
+-
+- BUAD 307 Marketing Fundamentals Units: 4
+-
+- BUAD 310g Applied Business Statistics Units: 4
+- or
+- BUAD 312g Statistics and Data Science for Business Units: 4
+-
+- BUAD 311 Operations Management Units: 4
+- or
+- BUAD 313 Advanced Operations Management and Analytics Units: 4
+-
+- BUAD 425 Introduction to Business Analytics Units: 2
+- or
+- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2
+-
+- BUAD 497 Strategic Management Units: 4
+- ECON 351x Microeconomics for Business Units: 4
+- ECON 352x Macroeconomics for Business Units: 4
+-
+- MATH 118gx Calculus for Business and Economics Units: 4 *
+- or
+- MATH 125g Calculus I Units: 4 **
+
+### Note:
+
+---
+
+*Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher.
+**A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information.
+
+## Emphasis Requirements
+
+---
+
+Complete 12 units of upper-division elective courses (typically three 4-unit courses) offered by the Business Communication department in the Marshall School, specifically 300- or 400-level courses with a prefix BUCO that are available for credit toward the major.
+
+Return to: USC Marshall School of Business
+
+---

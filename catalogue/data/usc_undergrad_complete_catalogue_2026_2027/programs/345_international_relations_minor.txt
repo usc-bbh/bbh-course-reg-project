@@ -1,0 +1,23 @@
+Program Name: International Relations Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31833
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31833&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31833
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:33Z
+Content SHA-256: 492acb13c821501420ee6f0d88381bb523af2e857fadceeba661d78a18858ec6
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# International Relations Minor
+
+---
+
+The minor in international relations allows students to develop a specialty in the field without a full major. Requirements are: IR 210gw International Relations: Introductory Analysis and four upper-division courses including at least one regional course and one 400-level course. Students planning to minor in international relations should see the School of International Relations advisers in Dr. Joseph Medicine Crow Center for International and Public Affairs, DMC 301.
+
+---

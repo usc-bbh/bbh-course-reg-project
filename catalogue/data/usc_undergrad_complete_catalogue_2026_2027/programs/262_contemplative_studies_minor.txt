@@ -1,0 +1,80 @@
+Program Name: Contemplative Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32529
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32529&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32529
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:01Z
+Content SHA-256: ff95490cfdb1c4ed93a6db294f4dda1f1013189b6e1c0d99f40acf87e4844579
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Contemplative Studies Minor
+
+---
+
+The minor in Contemplative Studies provides students with the opportunity to explore contemplative traditions — such as mindfulness, meditation and prayer — critically and from multiple perspectives. Courses taken from within the department will enable students to understand contemplative traditions from historical, doctrinal, institutional and cultural perspectives. Courses from other units included in the program place contemplative traditions within scientific, sociological and experiential frameworks and also consider contemporary applications of such practices.
+
+Total unit requirement for the minor is 20 units; 16 units must be upper-division.
+
+## Required Course
+
+---
+
+- REL 301 Approaches to the Study of Religion Units: 4
+
+## Lower-division Electives
+
+---
+
+Complete a total of 4 units.
+
+- ANTH 101g Body, Mind and Healing: Introduction to Medical Anthropology Units: 4
+- PHED 120a Yoga Units: 1
+- PHED 120b Yoga Units: 1
+- PHED 120c Yoga Units: 1
+- REL 134g Introduction to Buddhism Units: 4
+- REL 135g Chinese Religions and Culture Units: 4
+- REL 136g Sense and Sensuality in Indian Religions and Culture Units: 4
+- REL 141g Global Religions in Los Angeles Units: 4
+- REL 146gp Spirituality in America Units: 4
+
+## Upper-division Electives
+
+---
+
+Complete 8 units.
+
+- BAEP 472 The Science of Peak Performance Units: 2
+- COLT 382gw Zen and Daoism in Asian Literature Units: 4
+- HP 440 Happiness, Well-Being, and Health Units: 4
+- REL 312 Biblical Wisdom Literature Units: 4
+- REL 330 Introduction to the Religions of India Units: 4
+- REL 331 Religions of East Asia Units: 4
+- REL 332 Encountering Japanese Religions Units: 4
+- REL 338 Mysticism and Religious Desire Units: 4
+- REL 340 Introduction to Indian Philosophy Units: 4
+- REL 342g Buddhist Modernism Units: 4
+- REL 345p Islamic Spirituality: Mysticism and the Sufi Tradition Units: 4
+- REL 350 Drugs, Alcohol, Visions and Altered States in Religion Units: 4
+- REL 415 Seminar in Buddhism Units: 4
+- REL 431 The Taoist Tradition Units: 4
+
+## Additional Course Work
+
+---
+
+Select 4 additional units from Religion or Jewish Studies in consultation with an adviser.
+
+## Total Units: 20
+
+---
+
+A total of 16 units must be upper-division.
+
+---

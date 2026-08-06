@@ -1,0 +1,135 @@
+Program Name: Classics (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31744
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31744&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31744
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:05Z
+Content SHA-256: dcc69861ae4d5cc2a6b29f64863833585d3c2c580c38a2836a52cca8015fbcb0
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Classics (BA)
+
+---
+
+The major in classics has three tracks, with distinct but overlapping emphases. In the Classical Languages and Literatures track, students acquire advanced reading knowledge of one or both classical languages (Greek and Latin) and study the literature of Greece and Rome in historical and cultural context. In the Classical Humanities track, students study Greek and Roman intellectual, literary and aesthetic achievements and their impact on later traditions, while also acquiring basic reading knowledge of one classical language. The Ancient Civilizations track emphasizes study of society, politics and history of Greece, Rome and other civilizations of the ancient Mediterranean world in comparative perspective.
+
+All three tracks emphasize critical thinking as well as practice in written and oral presentation as hallmarks of a liberal arts education.
+
+Requirements for tracks are as follows:
+
+## Track I. Classical Languages and Literatures
+
+---
+
+### Recommended Preparation – any of the following:
+
+---
+
+- CLAS 150gp The Greeks and their Legacies Units: 4
+- CLAS 151gp The Legacy of Rome Units: 4
+- CLAS 275gp The Byzantine Empire, 324 - 1453 Units: 4
+- CLAS 280gp Classical Mythology in Art and Literature Units: 4
+- COLT 101gp Masterpieces and Masterminds: Literature and Thought Units: 4
+- CORE 102gp Culture and Values: Thematic Option Honors Program Units: 4
+- HIST 101gp State and Society in the Ancient World Units: 4
+
+### Lower-Division Language Courses*
+
+---
+
+Students must take three courses in one language of their choosing and two in the other language.
+
+#### Greek (Choose 2-3 from the following):
+
+---
+
+- GR 120 Greek I Units: 4
+- GR 150 Greek II Units: 4
+- GR 220 Greek III Units: 4
+
+#### Latin (Choose 2-3 from the following):
+
+---
+
+- LAT 120 Latin I Units: 4
+- LAT 150 Latin II Units: 4
+- LAT 222 Latin III Units: 4
+
+#### Note:
+
+---
+
+*Or equivalent via placement
+
+### Upper-Division Language and Literature Courses
+
+---
+
+- Four semesters of upper-division language courses in Greek or Latin
+- Two additional upper-division courses from Greek, Latin or Classics
+- Analytical paper, oral presentation, sight reading exam in either Greek or Latin
+
+- Capstone: CLAS 410 Capstone Research Seminar Units: 4
+
+## Track II. Classical Humanities
+
+---
+
+### Breadth Requirement
+
+---
+
+Any one of the following:
+
+- CLAS 150gp The Greeks and their Legacies Units: 4
+- CLAS 151gp The Legacy of Rome Units: 4
+- CLAS 280gp Classical Mythology in Art and Literature Units: 4
+- COLT 101gp Masterpieces and Masterminds: Literature and Thought Units: 4
+- CORE 102gp Culture and Values: Thematic Option Honors Program Units: 4
+- HIST 101gp State and Society in the Ancient World Units: 4
+
+### Language Requirement
+
+---
+
+- GR 220 Greek III Units: 4 or
+- LAT 222 Latin III Units: 4
+
+### Upper-Division Requirements
+
+---
+
+- Four upper-division courses from Greek, Latin or Classics
+- Two upper-division courses from Greek, Latin or Classics or from the approved list of outside electives maintained by the major adviser
+- Analytical or research paper; oral presentation; oral examination
+
+- Capstone: CLAS 410 Capstone Research Seminar Units: 4
+
+## Track III. Ancient Civilizations
+
+---
+
+- CLAS 101gp State and Society in the Ancient World Units: 4
+- or
+- CLAS 150gp The Greeks and their Legacies Units: 4 and
+- CLAS 151gp The Legacy of Rome Units: 4
+
+### Upper-Division Requirements
+
+---
+
+- Five upper-division courses in Classics, Greek or Latin
+- Three upper-division courses in classics or from the approved list of outside electives maintained by the major adviser
+- One upper-division course that includes study of a classical civilization other than Greece and Rome.
+- Research paper, oral presentation.
+
+- Capstone: CLAS 410 Capstone Research Seminar Units: 4
+
+---

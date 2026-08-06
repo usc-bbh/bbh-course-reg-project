@@ -1,0 +1,44 @@
+Program Name: Human Resource Management Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31604
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31604&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31604
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:14Z
+Content SHA-256: afa4e783f91542fe1207b43a6a2e382f0e5865e1c64549dde7598caffe922dc6
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Human Resource Management Minor
+
+---
+
+The minor in human resource management is appropriate for students pursuing careers in human resource management, as well as for students pursuing management positions where they will be interfacing with or relying on the human resource function for support. To enroll in this minor, students must have completed a minimum of 32 units of collegelevel courses and have a minimum overall GPA of 2.75. Completion of the human resource management minor requires a minimum GPA of 2.0 in the following business minor courses:
+
+## Minor Course Requirements
+
+---
+
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+- MOR 471 Managing and Developing People Units: 4
+
+### Electives
+
+---
+
+Choose three courses from the following (12 units):
+
+- FBE 428 Introduction to Employment Law Units: 4
+- MOR 421 Social and Ethical Issues in Business Units: 4
+- MOR 469 Negotiation and Persuasion Units: 4
+- MOR 472 Power, Politics and Influence Units: 4
+- MOR 473 Designing and Leading Teams Units: 4
+-
+- Return to: USC Marshall School of Business
+
+---

@@ -1,0 +1,134 @@
+Program Name: Occupational Therapy (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32166
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32166&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32166
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:13Z
+Content SHA-256: 83727e1242ef0295f59f4778d16b53f56a11dc0d01188c3103eaa0539cbc36f3
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Occupational Therapy (BS)
+
+---
+
+The undergraduate curriculum leads to the Bachelor of Science with a major in Occupational Therapy. Incoming freshmen may apply to the bachelor’s to doctorate program in occupational therapy. The program is part of an accelerated Bachelor’s to Doctorate (BS-OTD) pathway that integrates undergraduate and graduate coursework. Eligible USC freshmen and sophomores may apply to change their major to the program. Students majoring in occupational therapy begin full-time graduate study during their senior year, , which helps reduce overall time and cost of education and prepares them earlier for the National Board for Certification in Occupational Therapy® (NBCOT) examination. Successful completion of an Occupational Therapy Doctorate (OTD) degree, including successful completion of a minimum of 24 full-time weeks of clinical fieldwork, qualifies students for eligibility to sit for the NBCOT examination. Certification from the board and state licensure are required to practice as an occupational therapist.
+
+#### Admission Criteria and Application Procedures for Incoming Freshmen
+
+See the Undergraduate Admission section of this catalogue for admission criteria and application procedures for the university.
+
+#### Admission Criteria for Current USC Students (Major Change)
+
+Current USC freshmen and sophomores may apply to change their major to the Occupational Therapy (BS-OTD) program. Applicants must have a minimum USC GPA of 3.0 (or a 3.0 high school GPA if enrolled at USC for less than one semester). Applicants must submit a personal statement, develop an academic plan with the OT Major Adviser, and submit materials to the Chan Division admissions office.
+
+### Program Requirements
+
+A total of 128 units is required for the Bachelor of Science degree. An occupational therapy major cannot count any 300-level OT course toward the BS degree.
+
+### General Education Requirements
+
+The university’s general education (GE) program provides a coherent, integrated introduction to the breadth of knowledge you will need to become a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. The general education program requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. See General Education for more information.
+
+## Required Pre-Professional Courses
+
+---
+
+Students in the Occupational Therapy major are required to meet with their adviser within the Chan Division once each semester to ensure satisfactory completion of requirements outlined below. Students must successfully complete the pre-professional required courses prior to taking the advanced professional courses.
+
+All pre-professional courses must be completed:
+
+- Within the last seven years
+- With a minimum GPA of 3.0 (pass/fail or grades below a C are not accepted)
+- From an accredited junior college, four-year college or university
+- Either in a classroom setting or online; however, the anatomy laboratory must be completed in a classroom setting (refer to Course Work Taken Elsewhere)
+- For a total of three semester units each (with the exception of medical terminology, which may be certificate, credit/no credit, 1 or 2 units)
+
+Required Pre-Professional Courses (USC course numbers are noted)
+
+- Students who wish to transfer credit for courses taken at another institution must gain university approval.
+
+### Pre-Professional Courses
+
+---
+
+- OT 200 Medical Terminology for Health Professions Units: 1
+-
+- OT 250 Introduction to Occupational Science and Occupational Therapy Units: 4 or
+- SOCI 200gm Introduction to Sociology Units: 4 or
+- ANTH 201g Introduction to Social and Cultural Anthropology Units: 4
+-
+- OT 251 Across the Lifespan: Occupations, Health and Disability Units: 4 or
+- EDUC 589 Lifespan Development Units: 3 or
+- PSYC 336L Developmental Psychology Units: 4 with
+- PSYC 337L Adult Development and Aging Units: 4
+-
+- OT 260 Human Functional Anatomy for Allied Health Professions Units: 3 or
+- HBIO 301L Human Anatomy Units: 4 (with laboratory)
+-
+- OT 261 Human Physiology for Allied Health Professions Units: 3 or
+- BISC 307L General Physiology Units: 4 or
+- HBIO 420L Applied Human Physiology Units: 4
+-
+- PSYC 360 Psychological Disorders Units: 4
+
+## Notes:
+
+---
+
+All pre-professional courses must be completed by the start of the senior year.
+
+## Required Professional Courses
+
+---
+
+Enrollment in professional occupational therapy courses is limited to junior and senior occupational therapy majors only.
+
+### Required Professional Courses
+
+---
+
+- OT 509 Seniors Rising:Occupational Foundations for Graduate Success Units: 2
+- OT 510 Foundations of Occupation: Kinesiology in Daily Life Units: 3
+- OT 511 Reflection in Practice Units: 3
+- OT 514 Foundations of Occupation: Neuroscience in Daily Life Units: 3
+- OT 516 Foundations of Occupation: Creativity, Craft and Activity Analysis Units: 3
+- OT 517 Foundations of Occupation: Sensory Processing in Daily Life Units: 3
+- OT 519 Theoretical Foundations of Occupational Science and Occupational Therapy Units: 3
+- OT 521 Communication in Practice Units: 3
+- OT 526 Practice Scholar: Applying Quantitative Evidence Units: 3
+
+#### One of the following:
+
+---
+
+- OT 501L Practice Immersion: Adult Physical Rehabilitation Units: 8
+- OT 502L Practice Immersion: Mental Health Units: 8
+- OT 503L Practice Immersion: Pediatrics Units: 8
+- OT 504L Practice Immersion: Productive Aging and Geriatrics Units: 8
+
+## Additional Requirements
+
+---
+
+### Scholastic Standards
+
+Undergraduate occupational therapy students must maintain a GPA of at least 3.0 (A = 4.0) in all required OT courses in order to continue into the graduate program. If an undergraduate student’s OT grade point average (GPA) falls below 3.0, or if the cumulative undergraduate GPA falls below 3.0 at the end of the fall semester of the senior year, continuance is not assured.
+
+### Advising
+
+Students enrolled in the occupational therapy major are required to meet with an academic adviser within the division each semester.
+
+## Accreditation
+
+---
+
+The USC Chan Division of Occupational Science and Occupational Therapy’s entry-level Doctorate of Occupational Therapy (OTD) degree program [https://chan.usc.edu/education/entry-level-otd] is accredited by the Accreditation Council for Occupational Therapy Education® [https://acoteonline.org/] (ACOTE®). ACOTE c/o Accreditation Department, American Occupational Therapy Association, Inc.®, 7501 Wisconsin Avenue, Suite 510E Bethesda, MD 20814, (301) 652-AOTA, accred@aota.org, www.acoteonline.org [https://acoteonline.org/].
+
+---

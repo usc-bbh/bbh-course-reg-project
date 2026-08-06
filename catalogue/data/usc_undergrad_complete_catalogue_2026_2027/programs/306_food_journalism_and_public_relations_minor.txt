@@ -1,0 +1,50 @@
+Program Name: Food Journalism and Public Relations Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32742
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32742&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32742
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:38Z
+Content SHA-256: 51631470a2a94154151cba41323a42b9e68f94bed3d6eb8f5fd16145ff520c19
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Food Journalism and Public Relations Minor
+
+---
+
+The Food Journalism and Public Relations minor prepares students for communication and related careers within organizations involved in food production and service as well as global and local issues. In addition to the core classes, students take additional courses from throughout USC to build a one-of-a-kind program of study that articulates these areas of expertise. Combined with a practice-area practicum, this minor positions students for an array of successful careers in these food-related fields. Where better to study this than at the intersection of cutting-edge journalism, strategic PR content development and the LA food mecca.
+
+## Required Courses
+
+---
+
+- JOUR 457 Food of Our Families Units: 4
+- JOUR 458 Media, Food and Culture Units: 4
+- PR 444 Lifestyle Public Relations Units: 4
+- PR 445 Fundamentals of Food Communication Units: 4
+
+## Electives
+
+---
+
+Choose at least 4 units from the following:
+
+- AMST 343 Food, Health and Culture in Los Angeles Units: 4
+- ANTH 312 Documenting Latinx Los Angeles Food Cultures Units: 4
+- ANTH 338g Food in Culture and Society Units: 4
+- COMM 405 From the Ground Up: Communicating About Food Units: 4
+- HP 230 Nutrition and Health Units: 4
+- HP 430 Obesity and Health Units: 4
+- PR 464 Advanced Lifestyle Public Relations Units: 4
+- SPAN 385 The Culture of Food in Hispanic Los Angeles Units: 4
+- SPAN 396 Oaxaca and Oaxacalifornia: Food, Culture, Art and Migration Units: 4
+- SPAN 409 Latinx Food and Social Justice Units: 4
+- SWMS 389 Gender, Sexuality and Food Cultures in the U.S. Units: 4
+
+---

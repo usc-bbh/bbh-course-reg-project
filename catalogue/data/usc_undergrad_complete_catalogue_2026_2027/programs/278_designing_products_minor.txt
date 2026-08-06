@@ -1,0 +1,51 @@
+Program Name: Designing Products Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32689
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32689&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32689
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:36Z
+Content SHA-256: a7d131e0c12221355b9f3e7f304b0fb3ca9fd91421cb319c6253dd40b238dd34
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Designing Products Minor
+
+---
+
+The minor in Designing Products provides a deeper understanding of the design process leading to the creation of consumer products and services, including the fundamentals of design strategy and human-centered design as they relate to successful ideation and launch of new ideas. Students will learn the methods by which professional product design decisions are made through an intense studio-based curriculum, and will be guided through hands-on application of acquired knowledge and skills in the areas of user research, market opportunity, consumer insights, competitive analysis, prototyping, ideation, 3D form development, production methodologies, branding, packaging, marketing and distribution.
+
+Utilizing state-of-the-art physical and digital production facilities in Iovine and Young Hall, the Designing Products minor course of study focuses not just on the process of refining a product’s function and aesthetic qualities, but also on determining its relevance to society, and its desirability, feasibility and viability as a potential solution to problems facing for- or non-profit market environments.
+
+Beyond the required core, students will have the discretion to specialize their focus on digital modeling and / or physical materials.
+
+Information on how to apply for the minor can be found at:iovine-young.usc.edu. [http://iovine-young.usc.edu/]
+
+## Required Courses (16 units)
+
+---
+
+Students must complete the following 16 units:
+
+- ACAD 176 Rapid Visualization Units: 4
+- ACAD 245 Fundamentals of Product Design Units: 4
+- ACAD 444 Designing Products for Industry Units: 4
+- ACAD 445 Designing Products For Licensing Units: 4
+
+## Electives (8 units)
+
+---
+
+Students must complete 8 units from the electives below:
+
+- ACAD 188 Modeling Products with Solidworks Units: 2
+- ACAD 189 3D Tools for Product Design Units: 2
+- ACAD 190 Making with Materials Units: 2
+- ACAD 288 Constructing Digital Worlds Units: 4
+
+---

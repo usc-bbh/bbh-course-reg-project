@@ -1,0 +1,51 @@
+Program Name: Spanish (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31936
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31936&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31936
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:24Z
+Content SHA-256: db4baf06464b26ec68bd58422fe94e24b56e5cdec1101b410fc530889e7b298d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Spanish (BA)
+
+---
+
+## Required Course - Lower Division (4 Units)*
+
+---
+
+- SPAN 260 Advanced Spanish: Arts and Sciences Units: 4
+
+## Required Courses - Upper Division
+
+---
+
+### Three of the following courses (12 Units):
+
+---
+
+- SPAN 301 Introduction to Literature and Film Units: 4
+- One other SPAN literature, culture, film course Units: 4
+- One 400-level SPAN course Units: 4
+
+### Electives (20 units):
+
+---
+
+- Five other upper-division SPAN courses.
+
+## Note:
+
+---
+
+* Majors and minors may request a waiver of SPAN 260 if they meet one or more of the following prerequisites: a) a score of 5 on the Spanish language or literature advanced placement (AP) exam; b) a score of 6 or 7 on the Spanish International Baccalaureate Higher-Level exam (IBHL); c) a score of 800 in the Spanish SAT subject exam; or d) demonstrate advanced proficiency in spoken and written Spanish. Departmental approval is required in every case.
+
+---

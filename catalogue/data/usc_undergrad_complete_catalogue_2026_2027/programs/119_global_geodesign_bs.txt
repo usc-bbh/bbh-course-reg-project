@@ -1,0 +1,73 @@
+Program Name: Global Geodesign (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32569
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32569&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32569
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:37Z
+Content SHA-256: 9b44a2cd0cb150ec13d857c469a8e79337a8178eea4633357ed7b65003d4fe1f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Global Geodesign (BS)
+
+---
+
+Allen Hancock Foundation Building B55
+(213) 740-5910
+FAX: (213) 740-9687
+Email: spatialsciences@dornsife.usc.edu
+
+Director: John P. Wilson, PhD
+
+The USC Dornsife Spatial Sciences Institute offers a pioneering Bachelor of Science in Global Geodesign to prepare individuals with the integrative ability to analyze the role of place, space and time to address issues of environmental sustainability and human well-being on neighborhood, community, regional and global scales in multidisciplinary and multi-dimensional ways.
+
+Throughout their program, USC Global Geodesign students engage with faculty and leading practitioners from around the world to gain integrative experiences in spatial sciences, architecture, landscape architecture and urban and regional planning. Global geodesign graduates develop perspectives and backgrounds that will uniquely position them to contribute to improving the built and natural environments in multicultural and multi-scalar ways.
+
+The minimum unit requirement for the Bachelor of Science in Global Geodesign is 128 units.
+
+## Major Requirements
+
+---
+
+Courses should be taken in addition to core major requirements and general degree requirements.
+
+- ECON 203g Principles of Microeconomics Units: 4
+- MATH 114xg Foundations of Statistics Units: 4
+- SSCI 381 Statistics for the Spatial Sciences Units: 4
+
+### Global Geodesign Core Requirements
+
+---
+
+Major core requirements.
+
+- ARCH 203 Visualizing and Experiencing the Built Environment Units: 4
+- ARCH 214ag World History of Architecture Units: 3
+- ARCH 303 Principles of Spatial Design I Units: 4
+- ARCH 403 Principles of Spatial Design II Units: 4
+- PPD 227 Planning for the Future City Units: 4
+- RED 417 History of Planning and Development Units: 4
+- RED 425 Designing Livable Communities Units: 4
+- SSCI 201g Principles of Geodesign Units: 4
+- SSCI 301L Maps and Spatial Reasoning Units: 4
+- SSCI 313 Global Geodesign and Stakeholder Engagement Units: 2
+- SSCI 314 Comparative Sustainability Theory and Practice for Geodesign Units: 2
+- SSCI 350 International Geodesign Units: 4
+- SSCI 382L Geographic Information Science: Spatial Analytics Units: 4
+- SSCI 383L Geographic Information Science: Geospatial Modeling and Customization Units: 4
+
+### Global Geodesign Capstone
+
+---
+
+Culminating capstone class required for degree completion.
+
+- SSCI 412 Geodesign Practicum Units: 4
+
+---

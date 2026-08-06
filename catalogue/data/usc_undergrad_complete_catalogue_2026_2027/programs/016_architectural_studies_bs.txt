@@ -1,0 +1,217 @@
+Program Name: Architectural Studies (BS)
+Credential: BS
+School or Academic Unit: School of Architecture at the time of application
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31557
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31557&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31557
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:31Z
+Content SHA-256: 385191dac890c9d2cfb1ca7416662b3e8f373c71e122232d62d9eec03191501f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Architectural Studies (BS)
+
+---
+
+### Bachelor of Science, Architectural Studies
+
+The Bachelor of Science in Architectural Studies program begins intensively with architectural studies in the first two years and provides a mix of architectural and general university studies throughout the program. The curriculum includes a core program in the first two years identical to the Bachelor of Architecture professional degree program. The last two years provide the opportunity to explore many aspects of architecture and related fields and to develop individual strengths and interests. Students take an introductory course in specialization in the second year, which provides an introduction to related fields and alternative degree options. Students can elect to move into the four-year non-professional BS in Architectural Studies program with a degree plan identifying electives fulfilling an area of concentration. The program is concluded with a seminar with all degree candidates, allowing for collaborative work on areas of common interest.
+
+### Admission as a First-year Student
+
+All applicants to the School of Architecture must complete the Common Application and submit it to the USC Office of Admission along with Scholastic Aptitude Test (SAT) or other test scores. All applicants, including international students, must submit a portfolio.
+
+### Admission with Advanced Placement
+
+It is possible, in selected instances, that a transfer student from an accredited community college or other university may be eligible for advanced placement at the second-year level if previous work includes a minimum of 32 semester units of acceptable academic credit in a pre-architecture program. The academic credit must include at least 8 semester units in architectural design or environmental design. Students accepted for advanced placement must still comply with all requirements for the degree.
+
+Advanced placement applicants are required to submit a design portfolio to the School of Architecture at the time of application.
+
+### Summer Transfer Courses
+
+A summer design studio allows highly qualified students transferring from community college or other university programs to be evaluated for advanced placement in the fall semester. Applicants must submit a university application and portfolio by February 1 for consideration. During the summer studio, transfer students must demonstrate significant design and drawing skill to justify advanced placement. Transfer students who are admitted with fewer than 32 units of college level work and who have only limited drawing or design skills may be considered for placement in the first year of the four-year program. Previous academic work may in part be applied toward required and elective courses for the four-year BS in Architectural Studies program. For more information about this program, contact the school at (213) 740-2420.
+
+### Advisement
+
+The School of Architecture maintains student advisers for the benefit of all students in the school. All incoming students will participate in new student orientation and receive information about course requirements and planning. An individual appointment with an adviser may be scheduled at any time during the academic year to review course work in progress or to plan for future semesters.
+
+### Design Studio Grade Point Average Requirement
+
+Less than average work in design studio is not considered sufficient for a continuation in the design studio sequence. Students must receive a grade of C (2.0) or above in each semester of design in order to continue in the design sequence. Students in the first two years of the program are required to repeat the course until such a grade is achieved.
+
+### Pass/No Pass Courses
+
+Architecture students are permitted to take a maximum of 24 units of non-architecture electives, exclusive of the writing requirements, MATH 108 and the PHYS 125 requirement, on a pass/no pass option. No more than 4 units of pass/no pass courses may be applied to general education requirements; no more than 4 units may be taken in one semester. Students who have taken non-architecture courses pass/no pass in the past (i.e., before admission to architecture) may count such pass/no pass courses toward, but not in addition to, the maximum of 24 units.
+
+### Time Limits
+
+While there are no specific time limits for completing the BS in Architectural Studies degree (except in the case of discontinued programs) the School of Architecture may require additional course work of students who remain in the degree program beyond six years.
+
+## Four-Year Curriculum for the Bachelor of Science in Architectural Studies Degree
+
+---
+
+### First Year, First Semester
+
+---
+
+- ARCH 102a Architectural Design I Units: 4
+- ARCH 105aL Fundamentals of Design Communication Units: 2
+- ARCH 114 Architecture: Culture and Community Units: 2
+-
+- General Education Seminar Units: 4
+- MATH 108g Contemporary Precalculus Units: 4 or General Education Units: 4
+-
+
+#### Total units: 16
+
+---
+
+### First Year, Second Semester
+
+---
+
+- ARCH 102bL Architectural Design I Units: 4
+- ARCH 105bL Fundamentals of Design Communication Units: 2
+- ARCH 214ag World History of Architecture Units: 3 *
+- PHYS 125Lg Physics for Architects Units: 4 **
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+
+#### Total units: 17
+
+---
+
+### Second Year, First Semester
+
+---
+
+- ARCH 202aL Architectural Design II Units: 6
+- ARCH 213ag Building Structures and Seismic Design Units: 3 ***
+- ARCH 214bg World History of Architecture Units: 3 *
+- General Education Units: 4
+
+#### Total units: 16
+
+---
+
+### Second Year, Second Semester
+
+---
+
+- ARCH 202bL Architectural Design II Units: 6
+- ARCH 211 Materials and Methods of Building Construction Units: 3
+- ARCH 213bg Building Structures and Seismic Design Units: 3 ***
+- General Education Units: 4
+
+#### Total units: 16
+
+---
+
+### Third Year, First Semester
+
+---
+
+- ARCH 215 Design for the Thermal and Atmospheric Environment Units: 3
+- ARCH 313 Design of Building Structures Units: 3
+- ARCH 314 History of Architecture: Contemporary Issues Units: 3
+- ARCH 370 Architectural Studies — Expanding the Field Units: 2
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+#### Total units: 15
+
+---
+
+### Third Year, Second Semester
+
+---
+
+- ARCH 315 Design for the Luminous and Sonic Environment Units: 3
+- ARCH 411 Architectural Technology Units: 3
+- ARCH 525 Professional Practice: Pre-Design, Project and Office Administration Units: 3
+- General Education Units: 4
+- Professional Architecture Electives Units: 3
+
+#### Total units: 16
+
+---
+
+### Fourth Year, First Semester
+
+---
+
+- ARCH 470a Architectural Studies Capstone Units: 1
+- Professional Architecture Electives Units: 11
+- General Education Units: 4
+
+#### Total units: 16
+
+---
+
+### Fourth Year, Second Semester
+
+---
+
+- ARCH 470b Architectural Studies Capstone Units: 3
+- Electives Units: 8
+- Professional Architecture Electives Units: 5
+
+#### Total units: 16
+
+---
+
+### Total minimum units required: 128
+
+---
+
+*ARCH 214a , ARCH 214b fulfill the General Education requirement in Category A: The Arts.
+
+**PHYS 125 fulfills the General Education requirement in Category E: Physical Sciences. The PHYS 125 requirement may also be fulfilled by PHYS 135a , PHYS 135b ; 4 units will be applied toward the BArch and 4 will count as electives.
+
+***ARCH 213a ARCH 213b fulfills the General Education requirement in Category F: Quantitative Reasoning.
+
+## Requirements for BS in Architectural Studies Degree
+
+---
+
+A total of 23 units of professional electives, including ARCH 470 Capstone Seminar, are required in an area of specialization, which must be selected from the accepted professional elective offerings in the School of Architecture or with consultation and approval of the program adviser. This is in addition to the core, elective and general education requirements of the Bachelor of Architecture degree, which are identical for the first two years of the Bachelor of Science in Architectural Studies.
+
+In the third and fourth year of the program, the requirements for the Bachelor of Architecture design studios, ARCH 302a , ARCH 302b and ARCH 402a , ARCH 402b — 24 units — are changed to the professional electives requirement. The full degree requirements are described above.
+
+## Core Requirements
+
+---
+
+Students MUST complete the following core courses as a prelude to the upper-division professional electives and degree requirements: ARCH 102a , ARCH 102b , ARCH 105aL , ARCH 105bL , ARCH 114 , ARCH 202a , ARCH 202b , ARCH 211 , ARCH 213a , ARCH 213b , ARCH 214a , ARCH 214b , ARCH 314 , ARCH 370 , MATH 108 , PHYS 125 and WRIT 150 .
+
+## General Education Requirements
+
+---
+
+All students who begin college in fall 2015 or later at USC (or who begin elsewhere in fall 2015 and then transfer to USC) must satisfy the 2015 General Education Program, which includes six Core Literacy and two Global Perspectives requirements. Together these provide training in the liberal arts — the critical skills necessary for a free person to function effectively, thoughtfully and productively in a complex world. This General Education program has been designed to nurture habits of thought essential for professional success and personal development, and to establish a background for lifelong learning.
+
+#### Core Literacies
+
+GE-A: The Arts (one course)
+GE-B: Humanistic Inquiry (two courses)
+GE-C: Social Analysis (two courses)
+GE-D: Life Sciences (one course)
+GE-E: Physical Sciences (one course)
+GE-F: Quantitative Reasoning (one course)
+
+#### Global Perspectives
+
+GE-G: Global Perspectives I (one course)
+GE-H: Global Perspectives II (one course)
+
+In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above.
+
+To fulfill a minimum 128 units for the Bachelor of Science in Architectural Studies, courses in the Global Perspectives categories should be used to satisfy requirements in the Core Literacies as well. A single course can satisfy one Global Perspective and one Core Literacy requirement.
+
+For more information about the general education requirements, see here [https://dornsife.usc.edu/ge/].
+
+---

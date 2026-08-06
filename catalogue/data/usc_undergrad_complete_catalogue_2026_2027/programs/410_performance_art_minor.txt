@@ -1,0 +1,73 @@
+Program Name: Performance Art Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32700
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32700&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32700
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:44Z
+Content SHA-256: 0afeb2cd826eee07f4754c264b8929c12a57f09ac393bcffe9bab0fac6fdf2a7
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Performance Art Minor
+
+---
+
+This interdisciplinary minor is designed for students who wish to engage in the experimental discipline of performance art, a mode of creative expression in which live or mediated bodies perform in theatrical or virtual settings for an audience. The minor offers two required courses, one in video and media installation and one in performance art, along with a broad range of electives from Roski* and partner schools in Kaufman School of Dance, the School of Dramatic Arts, Thornton School of Music, the School of Cinematic Arts and Dornsife College. It is open to any USC student regardless of prior experience, especially those interested in creating new stories, actions or personas or those who want to explore the kind of disciplinary boundary-breaking and individual expressivity that is characteristic of the field. Practitioners in performance art come from a variety of backgrounds and crossovers between performance art with studies in popular culture, social media, community activism, theatre and dance are common. Performance art also highlights intersections among postcolonial and decolonial, ethnic and sexuality/gender studies, making it an effective medium to explore and express identity and its politics. Total number of units required is 20**.
+
+*Roski majors are required to include at least 16 units of electives that are unique to this minor (i.e., not included in their major and outside of Roski). Please consult with your academic adviser before adding this minor.
+
+**It is highly recommended to take at least one Critical Studies elective course.
+
+## Required Courses (8 units)
+
+---
+
+- ART 260 Introduction to Video: Projection and Virtual Worlds in Art Units: 4
+- ART 462 Performance Art Workshop Units: 4
+
+## Upper Division Electives* (12 units)
+
+---
+
+*At least one Critical Studies (CRIT) course highly recommended
+
+- ART 361 Post-Internet Art and Aesthetics Units: 4
+- ART 362 Ideas in Intermedia Units: 4
+- ART 460 Post-Material Studio Units: 4
+- ART 461 Motion Graphics for Art and Video Units: 2
+- ART 463 Performance Art and the Frame Units: 2
+- ART 484 Contemporary Issues in Art Units: 4
+- CRIT 415 Performance and Art Units: 4
+- CRIT 425 Identity and Visual Representation Units: 4
+- CTAN 452 Introduction to 3-D Computer Animation Units: 2
+- CTAN 453 3-D Animation for Motion Graphics Units: 2
+- CTAN 466 Animation for Projection Mapping and Live Performance Units: 2
+- CTAN 495 Visual Music Units: 2
+- CTCS 412 Gender, Sexuality and Media Units: 4
+- CTPR 457 Creating Poetic Cinema Units: 2
+- DANC 302g Hip Hop Don’t Stop: Black Social Dance Culture and Media Units: 4
+- DANC 333gw Origins of Jazz Dance Units: 4
+- DANC 312gw African American Dance Units: 4
+- DANC 363g Dancing on the Screen Units: 4
+- DANC 342gp International and Historical Perspectives on Dance Units: 4
+- IML 328 Introduction to Sound Units: 2
+- IML 455 Future Cinema Units: 4
+- IML 477 Embodied Storytelling and Immersive Docu-Narratives Units: 4
+- MUSC 320gmw Hip-hop Music and Culture Units: 4
+- MUSC 372g Music and Politics Units: 4
+- THTR 312 LGBTQ Theatre Units: 4
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 405m Performing Identities Units: 4
+- THTR 406 Theatre on the Edge Units: 4
+- THTR 456 Latinx Theatre Units: 4
+- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4
+- THTR 476mw African American Theatre, Dance, and Performance Units: 4
+- THTR 488mw Theatre in the Community Units: 4
+
+---

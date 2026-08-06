@@ -1,0 +1,62 @@
+Program Name: Mathematical Data Analytics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32663
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32663&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32663
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:39Z
+Content SHA-256: ecfc386fb5c2877be49a08d703fb493a4d50be2623a514648844d2f4ad282adf
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Mathematical Data Analytics Minor
+
+---
+
+The “big data deluge” continues to change the fabric of research and discovery in both science and industry. The Mathematical Data Analytics minor offered by the Department of Mathematics equips students with the fundamental principles of this field, including practical approaches for handling real data. Upon completion of this minor, students will have a comprehensive understanding of the conditions under which current data analysis methods yield unreliable results and be able to effectively adapt their analyses to use more appropriate methods and thereby avoid erroneous conclusions regarding the significance of their data. While this minor complements the department’s Statistics Minor , it requires a deeper mathematical background and leads to a better understanding of the subject matter.
+
+In accordance with the usual requirements for minors, students must enroll in at least four upper-division courses and four courses specifically selected for this minor (which may be the same four courses). Students who use courses required by this minor for the satisfaction of their major program requirements may satisfy the minor requirement of four classes outside their major department by selecting alternative courses from a list maintained by the Department of Mathematics.
+
+## Lower-division Requirements
+
+---
+
+- TAC 115 Programming in Python Units: 2 or
+- TAC 116 Accelerated Programming in Python Units: 2
+-
+- MATH 226g Calculus III Units: 4 or
+- MATH 227 Enhanced Calculus III Units: 4 or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+-
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- MATH 235 Linear Algebra and Applications Units: 4
+
+## Probability and Statistics
+
+---
+
+Choose one of the following sequences:
+
+- MATH 307 Statistical Inference and Data Analysis I Units: 4 and
+- MATH 308 Statistical Inference and Data Analysis II Units: 4
+- or
+- MATH 407 Probability Theory Units: 4 and
+- MATH 408 Mathematical Statistics Units: 4
+
+## Upper-division Requirements
+
+---
+
+- MATH 446 Data Science with Python Units: 4
+- MATH 447 Mathematics of Machine Learning Units: 4
+
+## Minimum Units: 26
+
+---
+
+---

@@ -1,0 +1,70 @@
+Program Name: Practical Politics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32481
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32481&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32481
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:18Z
+Content SHA-256: 73dc020813f1f0ed0402a56b55456a8f5ad3f45ae52b96096be7ad9985d4586c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Practical Politics Minor
+
+---
+
+The Practical Politics Minor offers students a unique opportunity to study the theory and practice of American Democracy. The minor includes courses on campaigns, elections, political communications, legislative politics, and governing. Students will engage with faculty who possess a wealth of knowledge and experience in electoral politics and campaign strategy. The minor will help students develop a multitude of skills applicable to the job market, such as problem solving, polling, social media analytics, micro-targeting, research, writing and public speaking. Students will also complete an internship that will provide them with professional training and exposure to different careers. In addition, students can pursue courses through Maymester and the Dornsife in Washington D.C. program toward the minor.
+
+The Practical Politics Minor complements many majors in the Dornsife College of Letters, Arts, and Sciences including economics; sociology; philosophy, politics, and law; and international relations, as well as majors outside of the college including communications; business and public policy.
+
+## Requirements
+
+---
+
+The Practical Politics minor requires students to take five courses (20 units) from the following three categories. The minor requires 16 units of upper-division courses. Only 4 units of the 20 units may be fulfilled with a 100- or 200-level course.
+
+## 1. Two courses in American Politics from the following list (8 units):
+
+---
+
+- POSC 100g Theory and Practice of American Democracy Units: 4
+- POSC 334 Interest Groups and Elite Behavior Units: 4
+- POSC 335 Political Parties, Campaigns, and Elections Units: 4
+- POSC 422 Political Attitudes and Behavior Units: 4
+- POSC 423 Presidents and the Presidency Units: 4
+- POSC 424m Political Participation and American Diversity Units: 4
+- POSC 425 Legislative Process Units: 4
+- POSC 435 Politics and the Economy Units: 4
+- POSC 437 Mass Media and Politics Units: 4
+- POSC 449 Political Psychology Units: 4
+
+## 2. Two courses in Applied Politics from the following list (8 units):
+
+---
+
+- POSC 323 Applied Politics Units: 4 *
+- POSC 325 State Politics Units: 4
+- POSC 420 Practicum in the American Political Process Units: 4 *
+- POSC 439 Critical Issues in American Politics Units: 4
+- POSC 452 Critical Issues in Law and Public Policy Units: 4
+
+### Note:
+
+---
+
+Multiple sections of Applied Politics (POSC 323 ) and Practicum in the American Political Process (POSC 420 ) may be offered and can be counted toward the minor.
+
+## 3. One course in Practical Experience from the following list (4 units):
+
+---
+
+- POSC 395 Directed Governmental and Political Leadership Internship Units: 2, 3, 4, 5, 6, 7, 8
+- Internship in Washington DC (part of the Washington DC Program)
+- Maymester in Washington DC
+
+---

@@ -1,0 +1,149 @@
+Program Name: Business of Cinematic Arts (BS)
+Credential: BS
+School or Academic Unit: Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32780
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32780&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32780
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:50:57Z
+Content SHA-256: b54b8ed42d11923bfc6c81db7fc44b98209133e3d172f0dace75caaff39fb868
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Business of Cinematic Arts (BS)
+
+---
+
+The combined Bachelor of Science degree program in the Business of Cinematic Arts offers qualified students an opportunity to gain an educational foundation in both areas.
+
+The degree cannot be combined as an additional major with either business administration or cinematic arts. The degree is administered by the Marshall School of Business.
+
+### Degree Requirements
+
+This degree requires at least 128 units including USC’s General Education requirements.
+
+A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken.
+
+## Composition/Writing Requirement (8 units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *
+- * Note: The section of WRIT 340 titled “Advanced Writing for Business: Entertainment Industry” is strongly recommended for BCA majors when available.
+
+## Major Requirements (84 Units)
+
+---
+
+### Business Requirements (48 units)
+
+---
+
+- BUAD 280 Introduction to Financial Accounting Units: 3
+- BUAD 281 Introduction to Managerial Accounting Units: 3
+- BUAD 302 Communication Strategy in Business Units: 4
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+-
+- BUAD 306 Business Finance Units: 4
+- or
+- BUAD 308 Advanced Business Finance Units: 4
+-
+- BUAD 307 Marketing Fundamentals Units: 4
+-
+- BUAD 310g Applied Business Statistics Units: 4
+- or
+- BUAD 312g Statistics and Data Science for Business Units: 4
+-
+- BUAD 311 Operations Management Units: 4
+- or
+- BUAD 313 Advanced Operations Management and Analytics Units: 4
+-
+- BUAD 425 Introduction to Business Analytics Units: 2
+- or
+- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2
+-
+- BUAD 497 Strategic Management Units: 4
+- ECON 351x Microeconomics for Business Units: 4
+- ECON 352x Macroeconomics for Business Units: 4
+-
+- MATH 118gx Calculus for Business and Economics Units: 4 *
+- or
+- MATH 125g Calculus I Units: 4 **
+
+#### Note:
+
+---
+
+* Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher.
+** A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information.
+
+MATH 117g , MATH 118gx and MATH 125g satisfy GE category F: Quantitative Reasoning.
+
+### Cinematic Arts Requirements (24 units)
+
+---
+
+- CNTV 428 Fundamentals of Entertainment Law and Dealmaking Units: 2
+- CNTV 441 Business and Cinematic Arts Entertainment Practicum Units: 2
+- CNTV 458 Producing and Marketing Feature Length Films Units: 2
+- CNTV 463 Television: Integrating Creative and Business Objectives Units: 2
+- CNTV 481 Entertainment Industry Launchpad Units: 4
+- CTCS 190g Introduction to Cinema Units: 4 *
+- CTIN 458 Business and Management of Games Units: 2
+- CTPR 385 Colloquium: Motion Picture Production Techniques Units: 4
+- CTPR 410 The Entertainment Industry: From Idea to Audience Units: 2
+- * Satisfies GE Category A: The Arts.
+
+### Electives (12 units)
+
+---
+
+#### Business Electives (8-12 units)
+
+---
+
+Complete at least 8 units of upper-division elective courses offered by the Marshall School, specifically 300- or 400-level courses with a prefix ACCT, BAEP, BUCO, DSO, FBE, MKT MOR or RISK. Students can also satisfy the business electives requirement through participation in a Marshall School sponsored international exchange program.
+
+#### Cinematic Arts Electives (0-4 units)
+
+---
+
+- CNTV 375 Breaking Into the Entertainment Industry Units: 2
+- CNTV 457 The Entertainment Entrepreneur: Getting Your First Project Made Units: 2
+- CTAN 432 The World of Visual Effects Units: 2
+- CTAN 451 History of Animation Units: 2
+- CTCS 367 Global Media Units: 4
+- CTCS 403 Studies in National and Regional Media Units: 4
+- CTCS 499 Special Topics Units: 2, 3, 4
+- CTPR 425 Production Planning Units: 2
+- CTPR 426 The Production Experience Units: 2
+- CTPR 458 Organizing Creativity: Entertainment Industry Decision Making Units: 2
+- CTPR 460 Film Business Procedures and Distribution Units: 2 or 4
+- CTWR 404 Foundations of Comedy Units: 2
+- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4
+- CTWR 411 Television Script Analysis Units: 2
+- CTWR 416 Motion Picture Script Analysis Units: 2
+- CTWR 417 Script Coverage and Story Analysis Units: 2
+- CTWR 422 Creating the Dramatic Television Series Units: 2
+- CTWR 430 Comedy Writers and Their Work Units: 2
+- CTWR 431 Screenwriters and Their Work Units: 2
+- CTWR 432 Television Writers and Their Work Units: 2
+
+#### Free Electives (12 units)
+
+---
+
+The curriculum of this program allows for as many as 12 units of free electives.
+
+## Total units: 128
+
+---
+
+Return to: USC Marshall School of Business
+
+---

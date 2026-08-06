@@ -1,0 +1,64 @@
+Program Name: Earth Sciences (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31759
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31759&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31759
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:56Z
+Content SHA-256: f01f547efb7378ef5b231c155155afc154a1e8445022b5c01dbcb01cb03272a4
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Earth Sciences (BA)
+
+---
+
+## Required Courses
+
+---
+
+### Introduction:
+
+---
+
+Any GEOL 100- or 200-level course (4 units):
+
+### Required:
+
+---
+
+- GEOL 315L Minerals and Earth Systems Units: 4
+
+### Electives:
+
+---
+
+28 additional units must be selected from MATH 225 , MATH 226 , or any upper-division course listed or cross-listed as GEOL (28 units):
+
+### Required courses in other departments (8 units):
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4
+-
+- MATH 118gx Calculus for Business and Economics Units: 4 or
+- MATH 125g Calculus I Units: 4
+
+### Choose any one of the following (4 units):
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4
+- CHEM 105bL General Chemistry Units: 4
+- PHYS 135aLg Physics for the Life Sciences Units: 4
+
+## Total units: 48
+
+---
+
+---

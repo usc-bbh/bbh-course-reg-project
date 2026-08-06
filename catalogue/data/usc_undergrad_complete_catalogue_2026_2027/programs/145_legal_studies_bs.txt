@@ -1,0 +1,174 @@
+Program Name: Legal Studies (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32797
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32797&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32797
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:33Z
+Content SHA-256: 89669caeaed8a8237e6ca17d2687b2d7b71c69fa9b8b049817a8ec6536f6333d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Legal Studies (BS)
+
+---
+
+The Bachelor of Science in Legal Studies will provide students with an in-depth understanding of the legal system including the infrastructure, the reasoning process and the substantive commitments that the legal system has made. As future leaders, students in this major will become critical thinkers able to apply and understand various legal concepts in their interaction with real world issues locally, nationally and globally.
+
+This program is particularly appropriate for students interested in pursuing a career that integrates legal concepts with other disciplines or that requires familiarity with extensive aspects of the legal system. It is a major designed for students who are looking to become future leaders in the community, the city, the state, the nation and the world. It is also suitable for students wanting to pursue graduate education in various disciplines, such as economics, humanities, social science, political science, business, health care, public service and many more, and for anyone who wants to obtain a general understanding of the place of law in contemporary society.
+
+Departmental Honors Designation:
+
+To qualify and to request Departmental Honors, students must have completed at least 96 units of course work (toward the 128 total units which are required to satisfy the degree requirements).
+
+Students must have a minimum 3.5 cumulative USC GPA at the time of their request and achieve at least a 3.5 cumulative GPA (A = 4.0) at the time of graduation.
+
+Departmental Honors designation is linked to the Capstone Project. Additional requirements are set by the Office of Undergraduate Law Programs.
+
+## General Education
+
+---
+
+Eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies). In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements.
+
+Core Literacies:
+
+- GE-A: The Arts (one course)
+- GE-B: Humanistic Inquiry (two courses)
+- GE-C: Social Analysis (two courses)
+- GE-D: Life Sciences (one course)
+- GE-E: Physical Sciences (one course)
+- GE-F: Quantitative Reasoning (one course)
+
+Global Perspectives:
+
+- GE-G: Global Perspectives I (one course)
+- GE-H: Global Perspectives II (one course)
+
+## Writing Requirements - 8 Units
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+## Major Requirements - 48 Units
+
+---
+
+Students must choose one of the tracks listed
+
+## Core Courses - 24 units
+
+---
+
+- LAW 101w Law and the U.S. Constitution in Global History Units: 4
+- LAW 200w Law and Society Units: 4
+- LAW 205 Introduction to Criminal Law Units: 4
+- LAW 210p Fundamentals of the U.S. Legal System Units: 4
+- LAW 220 The Legal Profession Units: 2
+-
+- LAW 222 Interdisciplinary Perspectives on the Law Units: 2 or
+- LAW 225 Current Court Cases Units: 2
+-
+- LAW 300 Concepts in American Law Units: 4
+
+## Public Law Track - 20 Units
+
+---
+
+Select 20 units from the courses below. At least 16 units must be at the upper-division level.
+
+- LAW 150w Stereotypes, Prejudice and the Rule of Law Units: 4
+- LAW 201w Law and Politics Units: 4
+- LAW 202 Wrongful Convictions Units: 4
+- LAW 203 Criminal Punishment in the Age of Mass Incarceration Units: 4
+- LAW 206 Responsible Use of Artificial Intelligence: Ethics and Law Units: 4
+- LAW 207 Personal Data in the 21st Century Units: 4
+- LAW 208w Law and Economics of AI Regulation Units: 4
+- LAW 211 Intellectual Property and Technology Units: 4
+- LAW 212 Immigration Law for a New America Units: 4
+- LAW 250w Children and the Law Units: 4
+- LAW 275p Equal by Law: The History of Civil Rights Law in the United States Units: 4
+- LAW 301 Voting Rights and the Law Units: 4
+- LAW 305 International Influence: Law and Power Units: 4
+- LAW 306 Issues in the Use of AI in Law and Regulation Units: 4
+- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4
+- LAW 320p Law, Enslavement and Race Units: 4
+- LAW 355 Law and Homelessness Units: 4
+- LAW 401 Cybersecurity and Cybercrime Units: 4
+- LAW 402 Psychology and Law Units: 4
+- LAW 403 Mental Health Law Units: 4
+- LAW 404 Psychology of the Criminal Justice Process Units: 4
+- LAW 406 Individual Rights in U.S. Constitutional Law Units: 4
+- LAW 407 Regulatory Law Units: 4
+- PPD 314 Public Policy and Law Units: 4
+
+## Private Law Track - 20 Units
+
+---
+
+Select 20 units from the courses below. At least 16 units must be at the upper-division level.
+
+- FBE 428 Introduction to Employment Law Units: 4
+- LAW 150w Stereotypes, Prejudice and the Rule of Law Units: 4
+- LAW 206 Responsible Use of Artificial Intelligence: Ethics and Law Units: 4
+- LAW 207 Personal Data in the 21st Century Units: 4
+- LAW 208w Law and Economics of AI Regulation Units: 4
+- LAW 211 Intellectual Property and Technology Units: 4
+- LAW 306 Issues in the Use of AI in Law and Regulation Units: 4
+- LAW 307 Love, Sex, Money, and Power: How Law Shapes Families Units: 4
+- LAW 311 Fundamentals of Entertainment Law Units: 4
+- LAW 324 Sports Law Units: 4
+- LAW 326 Law and the Modern Athlete Units: 4
+- LAW 350 Law and Entrepreneurship Units: 4
+- LAW 352 Introduction to Law and Economics Units: 4
+- LAW 401 Cybersecurity and Cybercrime Units: 4
+
+## The Regulatory State Track - 20 Units
+
+---
+
+Select 20 units from the courses below. At least 16 units must be at the upper-division level.
+
+- LAW 150w Stereotypes, Prejudice and the Rule of Law Units: 4
+- LAW 202 Wrongful Convictions Units: 4
+- LAW 206 Responsible Use of Artificial Intelligence: Ethics and Law Units: 4
+- LAW 207 Personal Data in the 21st Century Units: 4
+- LAW 211 Intellectual Property and Technology Units: 4
+- LAW 212 Immigration Law for a New America Units: 4
+- LAW 250w Children and the Law Units: 4
+- LAW 301 Voting Rights and the Law Units: 4
+- LAW 306 Issues in the Use of AI in Law and Regulation Units: 4
+- LAW 352 Introduction to Law and Economics Units: 4
+- LAW 355 Law and Homelessness Units: 4
+- LAW 401 Cybersecurity and Cybercrime Units: 4
+- LAW 402 Psychology and Law Units: 4
+- LAW 403 Mental Health Law Units: 4
+- LAW 404 Psychology of the Criminal Justice Process Units: 4
+- LAW 407 Regulatory Law Units: 4
+- PPD 314 Public Policy and Law Units: 4
+
+## General Legal Studies - 20 Units
+
+---
+
+Select 20 units from the categories below. At least 16 units must be at the upper-division level.
+
+- Must take 8 units from the Public Law Track
+- Must take 8 units from the Private Law Track
+- Must take 4 units from the Regulatory State Track
+
+## Additional Requirements - 4 units
+
+---
+
+- LAW 498 Law Internship Units: 1, 2, 3, 4 and
+- LAW 497 Legal Studies Capstone Project Units: 2
+
+---

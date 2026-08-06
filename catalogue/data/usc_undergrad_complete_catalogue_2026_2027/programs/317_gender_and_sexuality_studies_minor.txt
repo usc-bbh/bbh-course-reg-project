@@ -1,0 +1,42 @@
+Program Name: Gender and Sexuality Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32602
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32602&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32602
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:03:06Z
+Content SHA-256: 655b1913dc93a8fae77ee88be8b40542aabd1bf7c5c01b0fe1998316ef014ad2
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Gender and Sexuality Studies Minor
+
+---
+
+The Department of Gender and Sexuality Studies offers a minor for students specializing in other disciplines who would like a substantive introduction to the way gender shapes individuals and institutions, as well as to the research methods and topics specific to the field. Twenty units of course work are required for completion of the minor in Gender and Sexuality Studies, including one of the following lower-division courses: SWMS 210gmw , SWMS 212gp , SWMS 215gw , SWMS 219gp , or SWMS 221g . Four additional upper-division courses are needed, including the following two required courses: SWMS 392 and SWMS 410 . The remaining two upper-division courses may be taken from a list of department-approved SWMS courses, which includes many courses that are cross-listed.
+
+## Lower Division (4 units)
+
+---
+
+- SWMS 210gmw Social Analysis of Gender Units: 4
+- SWMS 212gp Introduction to Gender and Sexuality: American Perspectives Units: 4
+- SWMS 215gw Introduction to Gender and Sexuality: International Perspectives Units: 4
+- SWMS 219gp Introduction to Feminist Theory Units: 4
+- SWMS 221g Introduction to Queer Theory Units: 4
+
+## Upper Division (16 units)
+
+---
+
+Four additional upper-division courses are needed, including the following two required courses: SWMS 392 and SWMS 410 . The remaining two upper-division courses may be taken from a list of department-approved SWMS courses, which includes many courses that are cross-listed.
+
+- SWMS 392 Junior Seminar in Gender and Sexuality Studies Units: 4
+- SWMS 410 Senior Seminar in Gender and Sexuality Studies Units: 4
+
+---

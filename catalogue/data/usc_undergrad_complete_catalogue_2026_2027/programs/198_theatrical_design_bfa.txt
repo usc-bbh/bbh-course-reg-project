@@ -1,0 +1,154 @@
+Program Name: Theatrical Design (BFA)
+Credential: BFA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32802
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32802&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32802
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:32Z
+Content SHA-256: f4a9f2a635211d4eea6d08da8be29cd307233bcc9e95debe648bf7bf916eee3e
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Theatrical Design (BFA)
+
+---
+
+The Bachelor of Fine Arts in Theatrical Design provides four years of intensive training at the undergraduate level. A total of 128 units of course work is required for the degree, including a 16-unit Critical Studies core in addition to required courses for the program.
+
+All BFA students are required to earn a grade point average of 2.75 (A = 4.0) in their theatre courses each semester. BFA students who fail to earn a GPA of 2.75 in their theatre courses will be placed on probation the following semester. Students who remain on probation for a consecutive second semester will be disqualified from the BFA program.
+
+A student disqualified from continued study in the BFA program for failing to meet the GPA standards outlined above will be given the option of transferring into the BA program.
+
+### General Education Requirements
+
+The university’s General Education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above.
+
+Note that courses within the program will also satisfy certain Core Literacy requirements. Please work with your adviser to determine those courses.
+
+## Required Courses for the Theatrical Design BFA (90-92 units)
+
+---
+
+- THTR 101 Introduction to Acting Units: 4
+- THTR 131a Advanced Theatrical Production Units: 2
+- THTR 131b Advanced Theatrical Production Units: 2
+- THTR 132a Art of Theatrical Design Units: 2
+- THTR 132b Art of Theatrical Design Units: 2
+- THTR 241 Methods and Materials Units: 2
+- THTR 305a Directing Units: 4
+- THTR 397 Theatre Practicum Units: 1, 2, 3, 4 (6 units required)
+- THTR 407a Drawing and Rendering for the Theatre Units: 2
+- THTR 431 Seminar in Theatre Design Units: 2
+- THTR 493a Periods and Styles Units: 2
+- THTR 497 Advanced Theatre Practicum Units: 2 (4 units required)
+
+### Three Courses (9 units) from:
+
+---
+
+Skills I
+
+- THTR 231 Costume Construction Units: 3
+- THTR 232 Introduction to Theatrical Lighting Units: 3
+- THTR 236 Stage Sound Units: 3
+- THTR 335 Scenic Construction Units: 3
+
+### One course (3 units) from:
+
+---
+
+Drafting I
+
+- THTR 409 Advanced Drafting: Vectorworks Units: 3
+- THTR 435 Advanced Theatrical Drafting: AutoCAD Units: 3
+
+### Three courses (9 units) from:
+
+---
+
+Skills II
+
+- THTR 233 Historic Costumes for the Theatre Units: 3
+- THTR 213 Corset Construction Units: 3
+- THTR 308 Lighting Programming for Live Events Units: 3
+- THTR 346 Musical Theatre Sound Reinforcement Units: 4
+- THTR 437 Scene Painting Units: 3
+- THTR 439 Stage Properties Units: 3
+- THTR 441 Digital Sound Mixing Units: 3
+
+### Three courses (10-12 units) from:
+
+---
+
+Design I
+
+- THTR 303 Projection Design I Units: 3
+- THTR 330 Scene Design I Units: 4
+- THTR 331 Costume Design I Units: 4
+- THTR 332 Lighting Design I Units: 4
+- THTR 336 Sound Design I Units: 3
+
+### Three courses (9 units) from:
+
+---
+
+Design II
+
+- THTR 432a Scene Design II Units: 3
+- THTR 433a Costume Design II: The Psychology of Fashion Units: 3
+- THTR 434a Lighting Design II Units: 3
+- THTR 436 Sound Design II: Content Creation Units: 3
+
+## Critical Studies Core (16 units)
+
+---
+
+Complete the two required courses below. In addition, take one course from List A and one course from either List A or B.
+
+- THTR 125 Text Studies for Production Units: 4
+- THTR 225g Theatre Across History and Cultures Units: 4
+
+### List A
+
+---
+
+- THTR 310 Comedy and Diversity Units: 4
+- THTR 312 LGBTQ Theatre Units: 4
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 405m Performing Identities Units: 4
+- THTR 406 Theatre on the Edge Units: 4
+- THTR 456 Latinx Theatre Units: 4
+- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4
+- THTR 476mw African American Theatre, Dance, and Performance Units: 4
+
+### List B
+
+---
+
+- THTR 301 Greek and Roman Theatre Units: 4
+- THTR 302 Shakespeare in His World Units: 4
+- THTR 313 Comedy of Manners Units: 4
+- THTR 314 Advanced Topics in Modern Drama Units: 4
+- THTR 400 Eco-Theatre: Art and Science in Contemporary Plays Units: 4
+- THTR 401 Contemporary Theatre in a Changing World Units: 4
+- THTR 403 The Performing Arts Units: 4
+- THTR 404 Acting Theory Units: 4
+
+## General Education Units: 36
+
+---
+
+## Electives Units: Remaining Units
+
+---
+
+## Total Units: 128
+
+---
+
+---

@@ -1,0 +1,45 @@
+Program Name: Paleontology Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32951
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32951&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32951
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:42Z
+Content SHA-256: 2136f6d883bf40d290ea3b60c92cb1f5dafc8600370c42bce592f89467af8488
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Paleontology Minor
+
+---
+
+Paleontology is a science that fascinates people from all walks of life. Many who plan careers in other disciplines harbor a strong desire to learn significantly more about paleontology during their college years. This minor is intended to provide the necessary foundational learning in biology and geology together with an emphasis on the evolution and extinction of life over deep geological time. The role of major players in the early history of life, from microbes to the first marine animals, to the later rise of dinosaurs, mammals, angiosperms and humans, are but several of the many topics focusing on specific organisms that will be treated. Mechanisms that have shaped this history of life, including the origin of life, early evolution of animals and plants, mass extinctions and the evolution of humans will be emphasized.
+
+The Paleontology minor requires at least 32 units.
+
+## Required Courses (16 units)
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+- GEOL 126Lg The History of Life on Earth: A View from the Museum Units: 4
+- GEOL 433L Paleontology and Evolution in Deep Time Units: 4
+
+## Elective Courses (choose 16 units)
+
+---
+
+- BISC 404L Biodiversity Data Analytics Units: 4
+- BISC 483 Geobiology and Astrobiology Units: 4
+- GEOL 320L Surficial Processes and Stratigraphic Systems Units: 4
+- GEOL 414 Survival In a Changing World: Humans, Climate, Environment Units: 4
+- GEOL 435L Phylogenetic Systematics and Dinosaur Evolution Units: 4
+- HBIO 314 Foundations of Human Evolution Units: 4
+
+---

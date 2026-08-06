@@ -1,0 +1,53 @@
+Program Name: Jazz Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32246
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32246&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32246
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:42Z
+Content SHA-256: 82962293e2b2defa950f25de93262c043ba877a98b0aaee20785487fb7b00710
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Jazz Studies Minor
+
+---
+
+This 21-unit minor program in jazz studies incorporates course work in individual instruction, the history of jazz masters, techniques of jazz improvisation and jazz theory for improvisers. The minor is not available to BM jazz studies majors.
+
+Requirements for admission are: GPA per university regulations and an audition.
+
+## Required Courses (19 units)
+
+---
+
+- MUCO 130ax Basics of Music Theory Units: 3
+- MUJZ 150 Beginning Jazz Improvisation Units: 2
+- MUJZ 301 Individual Instruction Units: 1, 2
+- 4 units total of MUJZ 301 in your primary instrument
+- MUJZ 450 Intermediate Jazz Improvisation Units: 2
+- MUSC 250gmw The Music of Black Americans Units: 4
+-
+- Select 4 units from the following:
+-
+- MUEN 305 Vocal Jazz Ensemble Units: 1
+- MUEN 326 Guitar Ensemble Units: 1
+- MUEN 329 Jazz Ensemble Units: 1
+- MUEN 332 Jazz Chamber Music Units: 1
+
+## Music Electives (2 units)
+
+---
+
+Music courses numbered 300–499 (2 units total)
+
+## Total units: 21
+
+---
+
+---

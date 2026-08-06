@@ -1,0 +1,58 @@
+Program Name: Law and Regulation of Artificial Intelligence Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32878
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32878&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32878
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:07Z
+Content SHA-256: 43c9358d708655cebcaa3acfd9b403ea33b00ed0ebbe0509e5ef6e32de90555f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Law and Regulation of Artificial Intelligence Minor
+
+---
+
+In the Law and Regulation of Artificial Intelligence minor, students study the effect AI and machine learning has on society and examine how the law is responding to the regulation of artificial intelligence as it becomes more pervasive in everyday life.
+
+The Law and Regulation of Artificial Intelligence minor totals 20 units; 8 required core units, 8 LAW elective units, and 4 other elective units from various departments as detailed below.
+
+## Required Core Courses (8 units)
+
+---
+
+- LAW 210p Fundamentals of the U.S. Legal System Units: 4
+- LAW 306 Issues in the Use of AI in Law and Regulation Units: 4
+
+## Law Electives (8 units)
+
+---
+
+- LAW 206 Responsible Use of Artificial Intelligence: Ethics and Law Units: 4
+- LAW 207 Personal Data in the 21st Century Units: 4
+- LAW 208w Law and Economics of AI Regulation Units: 4
+- LAW 211 Intellectual Property and Technology Units: 4
+- LAW 407 Regulatory Law Units: 4
+
+## Other Electives (4 units)
+
+---
+
+- COMM 309 Communication and Technology Units: 4
+- CSCI 113x Programming Fundamentals for Computing Units: 4
+- EIS 370 Ethical Issues in Artificial Intelligence Units: 4
+- PHIL 265g Ethics, Technology and Value Units: 4
+-
+- TAC 115 Programming in Python Units: 2 or
+- TAC 116 Accelerated Programming in Python Units: 2
+- and
+- TAC 216 Applied Python Units: 2
+-
+- TAC 259 Basics of Artificial Intelligence Units: 4
+
+---

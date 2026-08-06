@@ -1,0 +1,58 @@
+Program Name: Natural Science Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31724
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31724&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31724
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:20Z
+Content SHA-256: 84d5c767034375187cca9223a4b27b97c4e2e21b240e1ce338d8d5b803c8a4cf
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Natural Science Minor
+
+---
+
+The minor in natural science will first provide students with a foundation in the basic sciences of physics, chemistry and biology. Each student will then build on these foundation courses by selecting a variety of electives to meet individual scientific interests and academic goals. Eighteen units toward the natural science minor must be completed at USC. This minor is not available to majors in the natural sciences.
+
+## Required Courses (22 Units)
+
+---
+
+### Any five courses from among:
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4
+-
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+-
+- CHEM 105aLg General Chemistry Units: 4 or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+-
+- CHEM 105bL General Chemistry Units: 4 or
+- CHEM 115bL Advanced General Chemistry Units: 4
+-
+- PHYS 135aLg Physics for the Life Sciences Units: 4
+- PHYS 135bL Physics for the Life Sciences Units: 4
+
+### And a capstone course:
+
+---
+
+- BISC 321 Multidisciplinary Seminar: Science, Technology and Society Units: 2
+
+## Elective Course Requirement (8 units)
+
+---
+
+Any two courses chosen from among those offered for major credit by the departments of chemistry , physics , biological sciences and earth sciences .
+
+---

@@ -1,0 +1,86 @@
+Program Name: Social Work (BSW)
+Credential: BSW
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32862
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32862&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32862
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:18Z
+Content SHA-256: c7cb2285bf437317bd4009d15955da4ccb416acbb4febbe3fb3a272379e1caee
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Social Work (BSW)
+
+---
+
+The Bachelor of Social Work (BSW) program is designed to cultivate a workforce comprising culturally competent, ethical, service-oriented, generalist social workers. Students in the program are primed to address the needs of a global society, promoting the welfare of individuals, families, groups, organizations, and communities through a framework of interprofessional collaboration, integrative practice, scientific inquiry and an unwavering commitment to human rights and social change— supported by a curriculum that intentionally builds students’ professional wellness, resilience and long-term sustainability in the field.
+
+Through a comprehensive curriculum, the program equips students with the necessary skills and knowledge for entry-level professional social work careers or further graduate-level education in social work. Emphasizing human rights and social change, the BSW program aims to achieve several key objectives while preparing students to thrive personally and professionally in a demanding practice environment:
+
+1. Grounding in Generalist Practice and Preparation for Advanced Education: Students are grounded in the principles of generalist practice, providing them with a solid foundation for advanced study in social work and the wellness competencies needed for long-term professional growth.
+2. Engagement, Assessment, Intervention and Evaluation: Students are equipped with the skills to effectively engage, assess, intervene and evaluate practices concerning individuals, families, groups, organizations and communities.
+3. Ethical Practice and Critical Thinking: Emphasis is placed on fostering ethical social work practice and nurturing critical thinking skills to guide professional judgments and actions in ways that support well-being, reflection and healthy professional boundaries.
+4. Advocacy and Social Change: Graduates are empowered to be change agents, advocating for human rights, dismantling institutional and systemic barriers and actively advancing social change in all spheres of society while sustaining themselves as practitioners and leaders over the course of their careers.
+
+To earn the BSW degree, students must successfully complete a total of 128 units, with 60 units specifically allocated to courses in the social work major. This encompasses fulfilling lower-division general education requisites, mandatory prerequisite courses, selecting one elective course, completing mandatory courses within the social work major, participating in social work practicum internship seminars and fulfilling 440 hours of social work practicum internship. All students must achieve an overall average of C (2.0) or better in the BSW program courses required for completion of the degree/major. Students must also demonstrate a strong commitment to ethical practice and professionalism grounded in principles of wellness, resilience and reflective practice.
+
+## Foundations of Social Work and Human Well-being Courses (16 Units)
+
+---
+
+Provides students with a grounding in the social work profession, human behavior in context, intercultural humility, and policy advocacy, offering the essential frameworks needed to understand and promote individual and collective well-being.
+
+- SOWK 300 Foundations of Social Work Units: 4
+- SOWK 306 Intro to Human Behavior and the Social Environment Units: 4
+- SOWK 330 Intercultural Humility in Social Work Units: 4
+- SOWK 336 Social Work Policy Advocacy for Social Change Units: 4
+
+## Wellness Courses (12 Units)
+
+---
+
+Deepens students’ understanding of human well-being by supporting their own growth and resilience while building the knowledge and skills needed to promote wellness, health, and culturally responsive care across diverse individuals, communities, and systems.
+
+- SOWK 110 Thriving: Connecting Wellness, Identity and Systems Units: 4
+- SOWK 210 Global Well-being and Human Performance Units: 4
+- SOWK 323 Intercultural Coaching, Care Coordination and Perspectives Units: 4
+
+## Research Course (4 Units)
+
+---
+
+Introduces students to evidence-based social work practice by building foundational skills in locating, evaluating, and applying research to inform effective, ethical, and data-driven interventions and strategies.
+
+- SOWK 346 Evidence-Based Social Work Practice (EBSWP) Units: 4
+
+## Practice Courses (16 Units)
+
+---
+
+Develops the applied skills and competencies required for effective social work intervention across micro, mezzo, and macro systems, preparing students to engage, assess, intervene, and advocate with individuals, families, organizations, and communities.
+
+- SOWK 423a Macro Social Work Practice Units: 4
+- SOWK 423b Macro Social Work Practice Units: 4
+- SOWK 425a Micro and Mezzo Social Work Practice Units: 4
+- SOWK 425b Micro and Mezzo Social Work Practice Units: 4
+
+## Practicum Education and Placement (8 Units)
+
+---
+
+Provides applied, supervised field/internship experience in social work settings and may be repeated for variable credit, with students completing a total of 8 units to meet the program requirement. Selected in consultation with an adviser.
+
+- SOWK 491 Social Work Integrative Practicum Units: 4
+
+## SOWK Elective (4 Units)
+
+---
+
+Allows students to deepen their interests through additional coursework offered by the School of Social Work, providing opportunities to explore specialized topics or emerging areas of practice. Selected in consultation with an adviser.
+
+---

@@ -1,0 +1,113 @@
+Program Name: International Relations and the Global Economy (BA)
+Credential: BA
+School or Academic Unit: School of International Relations
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31832
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31832&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31832
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:18Z
+Content SHA-256: 475c52ed43d1452a0f25c2103876fa67a7212d86570bda236f2aadfc90f16db0
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# International Relations and the Global Economy (BA)
+
+---
+
+The BA in International Relations and the Global Economy (IRGE) offers students rigorous interdisciplinary training at the intersection of international relations and economics. The major prepares students for careers ranging from foreign policy and international development to international finance and political risk analysis. It is also ideally suited for students who plan to seek advanced degrees in the social sciences.
+
+The degree cannot also be combined as an additional major with any economics degree. The degree is administered by the School of International Relations.
+
+## Lower-Division Courses
+
+---
+
+- ECON 203g Principles of Microeconomics Units: 4
+- ECON 205g Principles of Macroeconomics Units: 4
+- IR 210gw International Relations: Introductory Analysis Units: 4
+-
+- MATH 118gx Calculus for Business and Economics Units: 4 * or
+- MATH 125g Calculus I Units: 4 *
+
+## Core Skills and Issues
+
+---
+
+- ECON 303 Intermediate Microeconomic Theory Units: 4
+- ECON 305 Intermediate Macroeconomic Theory Units: 4
+- ECON 317 Introduction to Statistics for Economists Units: 4
+- IR 330 Politics of the World Economy Units: 4
+
+### Choose two courses (8 units):
+
+---
+
+- ECON 318 Introduction to Econometrics Units: 4
+- IR 324 Multinational Enterprises and World Politics Units: 4
+- IR 325 North-South Relations in the Global Economy Units: 4
+- IR 326 U.S. Foreign Economic Policy Units: 4
+- IR 328 The Evolving Global Economic Architecture-Capital Mobility Units: 4
+- IR 329 The Global Finance and Monetary Regime Units: 4
+- IR 331 The Global Economy 2040 Units: 4
+- IR 332 Money, Guns and Oil Units: 4
+
+## Regional Study
+
+---
+
+Choose one course (4 units):
+
+- ECON 340 Economics of Less Developed Countries Units: 4
+- ECON 342 Economic Development of the Middle East Units: 4
+- ECON 343 Economic Development of East Asia Units: 4
+- ECON 344 Economic Development of Sub-Saharan Africa Units: 4
+- ECON 346 Economics of Transition and Development: China Units: 4
+- IR 317 The Political Economy of Africa Units: 4
+- IR 340 The Political Economy of China Units: 4
+- IR 360 International Relations of the Pacific Rim Units: 4
+- IR 363 Middle East Political Economy Units: 4
+- IR 364 The Political Economy of Latin American Development Units: 4
+- IR 384 Asian Security Issues Units: 4
+- IR 425 The New Triangle: China, the U.S. and Latin America Units: 4
+- IR 428 China’s Political Economy Units: 4
+- IR 439 Political Economy of Russia and Eurasia Units: 4
+- IR 468 European Integration Units: 4
+- POSC 430 Political Economy of Mexico Units: 4
+- POSC 431 Political Economy of Central America Units: 4
+- POSC 435 Politics and the Economy Units: 4
+- POSC 451 Politics of Resources and Development Units: 4
+
+## Senior Emphasis
+
+---
+
+Choose one course (4 units):
+
+- ECON 404 Games and Economics Units: 4
+- ECON 415 Behavioral Economics Units: 4
+- ECON 450 International Trade Units: 4 (prerequisite: ECON 303 )
+- ECON 452 International Finance Units: 4
+- ECON 457 Financial Markets Units: 4
+- ECON 474 Economic Consulting and Applied Managerial Economics Units: 4
+- ECON 487 Resource and Environmental Economics Units: 4
+- IR 412 Applied Data Science for International Relations 1 Units: 2
+- IR 413 Applied Data Science for International Relations 2 Units: 2
+- IR 420 Political Economy of Corruption Units: 4
+- IR 427 Seminar on Economics and Security Units: 4
+- IR 430 The Politics of International Trade Units: 4
+- IR 431 Commercial and Financial Globalization-Trends, Challenges Units: 4
+- IR 454 The International Political Economy of Development Units: 4
+- IR 455 The Political Economy of Autocracy Units: 4
+- IR 470 Comparative Regionalism Units: 4
+
+## Total: 12 courses, 48 units
+
+---
+
+*Prerequisite required
+
+---

@@ -1,0 +1,80 @@
+Program Name: Food and Society Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32609
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32609&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32609
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:35Z
+Content SHA-256: 8e5f5999478d8772e4f7a6db25ef48ea1b62ea071bf454362f2b298cba7e1a7f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Food and Society Minor
+
+---
+
+The interdisciplinary minor in Food and Society explores food as a complex social phenomenon, shaped by human knowledges, practices and ecologies. Grounded in Anthropology, the minor in Food and Society allows students to examine the diversity that characterizes human relationships to food, and to apply the tools of social analysis to gain critical insight into the complex social forces that shape human food systems and foodways.
+
+## Core Requirement (4 units):
+
+---
+
+- ANTH 338g Food in Culture and Society Units: 4
+
+## Electives
+
+---
+
+The electives listed below are approved for the minor.
+
+Courses outside of ANTH may be applied toward this requirement as approved by an adviser or the faculty.
+
+### Lower-Division Electives (4 units):
+
+---
+
+One elective from the following list of lower-division courses:
+
+- ANTH 101g Body, Mind and Healing: Introduction to Medical Anthropology Units: 4
+- ANTH 123gp Forms of Folklore Units: 4
+- ANTH 201g Introduction to Social and Cultural Anthropology Units: 4
+- ANTH 205g Introduction to Global Studies and Cross-cultural Research Units: 4
+- ANTH 220g Anthropology of the Environment Units: 4
+- ANTH 263g Exploring Culture through Film Units: 4
+- BISC 102Lgx Humans and Their Environment Units: 4
+- BISC 115Lxg The Biology of Food Units: 4
+- HP 230 Nutrition and Health Units: 4
+- JS 258gp Food and Faith Units: 4
+- REL 136g Sense and Sensuality in Indian Religions and Culture Units: 4
+
+### Upper-Division Electives (12 units):
+
+---
+
+Three courses (12 units) from the following list of upper-division electives:
+
+- ANTH 301g The Global Performance of Healing Units: 4
+- ANTH 300 Evolution, Ecology, and Culture Units: 4
+- ANTH 302 Humans and Ancient Environments Units: 4
+- ANTH 303 Exploring Ancient Ways of Living: Experimental Archaeology Units: 4
+- ANTH 312 Documenting Latinx Los Angeles Food Cultures Units: 4
+- ANTH 313w Water Units: 4
+- ANTH 338g Food in Culture and Society Units: 4
+- AMST 343 Food, Health and Culture in Los Angeles Units: 4
+- ANTH 360 Symbolic Anthropology Units: 4
+- ANTH 393 Directed Internship Units: 2, 3, 4, 5, 6, 7, 8
+- ANTH 460 Economic Anthropology Units: 4
+- HBIO 300 Evolution, Ecology, and Culture Units: 4
+- JOUR 458 Media, Food and Culture Units: 4
+- PPD 416 Food Policy and Planning Units: 2
+- REL 303Lg Exploring Ancient Ways of Living: Experimental Archaeology Units: 4
+- SPAN 316x Spanish for the Professions Units: 4
+- SPAN 385 The Culture of Food in Hispanic Los Angeles Units: 4
+- SWMS 389 Gender, Sexuality and Food Cultures in the U.S. Units: 4
+
+---

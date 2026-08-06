@@ -1,0 +1,83 @@
+Program Name: Visual Narrative Art Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32668
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32668&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32668
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:33Z
+Content SHA-256: d90c245433c52e43e32b526b3a60d3ffa8fbbaa9ded6ed17e66b2eb8637ce09c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Visual Narrative Art Minor
+
+---
+
+This interdisciplinary minor is designed for students who wish to concentrate on Visual Narrative Art (which could be any genre or platform of art, including fine art, illustration and cartooning and more). This minor provides a broad scope of courses in 2-D media, rendering and narrative art studies. This minor is open to any USC student ** especially those interested in telling stories through pictures – fine art, illustration, comics, journalism, narrative studies, cinema and media studies, animation and digital arts, film and television production, interactive media and game design and more. Students will create works that have a narrative intent, telling stories and creating worlds through the language of images and words. Students interested in the vast varieties of visual communication and media can develop better rendering (in all genres), composition, and word/image storytelling skills. Total number of units required is 20.
+
+**Roski majors are required to include at least 16 units of electives that are unique to this minor (i.e., not included in their major and outside of Roski). Please consult with your academic adviser before adding this minor.
+
+**SCA majors are required to include at least 16 units of electives that are unique to this minor (i.e., not included in their major and outside of SCA). Please consult with your academic adviser before adding this minor.
+
+## Choose one of the following two options (4 units)
+
+---
+
+- ART 110 Drawing for Art and Design Units: 4
+- or
+- ART 207a Two-Dimensional Art Workshop Units: 2 and
+- ART 207b Two-Dimensional Art Workshop Units: 2
+
+## Upper-Division Required Courses (4 units)
+
+---
+
+- ART 314 Illustration for Art and Design Units: 2
+- DES 203 Digital Design Fundamentals Units: 2
+
+## Upper-Division Electives (12 units)
+
+---
+
+- ART 310 Drawing II Units: 4
+- ART 312 Comics Project Units: 4
+- ART 320 Painting II Units: 4
+- ART 410 Topics in Advanced Drawing Units: 4
+- ART 412 Advanced Comics Project Units: 4
+- ART 414 Advanced Illustration for Art and Design Units: 2
+- ART 416 Ideation of Visual Worlds Units: 2
+- ART 417 Digital Painting Studio Units: 2
+- ART 420 Topics in Advanced Painting Units: 4
+- CTAN 420 Concept Design for Animation Units: 2
+- CTAN 432 The World of Visual Effects Units: 2
+- CTAN 436 Writing for Animation Units: 2
+- CTAN 443L Character Development for 3-D Animation and Games Units: 2
+- CTAN 452 Introduction to 3-D Computer Animation Units: 2
+- CTAN 460 Character Design Workshop Units: 2
+- CTAN 485 Character Modeling Units: 2
+- CTAN 503 Storyboarding for Animation Units: 2
+- CTIN 401L Interface Design for Games Units: 2
+- CTIN 491L Advanced Game Project I Units: 4
+- CTPR 448 World Building Design Studio Units: 2
+- CTPR 455 Survey of Production Design Units: 2
+- CTPR 456 Introduction to Art Direction Units: 2
+- ENGL 343m Images of Women in Contemporary Culture Units: 4
+- ENGL 372 Literature and Related Arts Units: 4
+- ENGL 376g Comics and Graphic Novels Units: 4
+- ENGL 392 Visual and Popular Culture Units: 4
+- IML 423 Remixing the Archive Units: 4
+- IML 425 Narrative Across Media Units: 4
+- IML 453 Design Fiction and Speculative Futures Units: 4
+- IML 477 Embodied Storytelling and Immersive Docu-Narratives Units: 4
+- THTR 331 Costume Design I Units: 4
+- THTR 407a Drawing and Rendering for the Theatre Units: 2
+- THTR 407b Drawing and Rendering for the Theatre Units: 2
+- THTR 433a Costume Design II: The Psychology of Fashion Units: 3
+- THTR 433b Costume Design II: The Psychology of Fashion Units: 3
+
+---

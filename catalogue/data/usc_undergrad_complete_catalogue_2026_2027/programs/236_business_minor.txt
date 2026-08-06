@@ -1,0 +1,77 @@
+Program Name: Business Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31597
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31597&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31597
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:04Z
+Content SHA-256: 503ced50316c7ae04343b3cf335d8f53d5044768c80e5acc207d6e91e7187190
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Business Minor
+
+---
+
+The minor in business is available to students in all schools and departments except the Marshall School of Business. The minor provides the opportunity for students to gain understanding of key concepts and tools of business.
+
+To enroll in the business minor, students must have completed a minimum of 32 units of college-level courses and attained a minimum overall GPA of 2.75.
+
+Successful completion of the business minor requires at least 23 units with a minimum cumulative GPA of 2.0 in the courses applied to the minor.
+
+## Minor Course Requirements
+
+---
+
+### Choose one of the following six options: (units 2-8) *
+
+---
+
+- BUAD 200x Economic Foundations for Business Units: 2
+- or
+-
+- BUAD 201x Introduction to Business for Non-Majors Units: 4
+- or
+-
+- BUAD 351 Economic Analysis for Business Decisions Units: 4 and
+- BUAD 352 Macroeconomic Analysis for Business Decisions Units: 4 or
+-
+- ECON 203g Principles of Microeconomics Units: 4 and
+- ECON 205g Principles of Macroeconomics Units: 4
+- or
+-
+- ECON 303 Intermediate Microeconomic Theory Units: 4 and
+- ECON 305 Intermediate Macroeconomic Theory Units: 4
+- or
+-
+- ECON 351x Microeconomics for Business Units: 4 and
+- ECON 352x Macroeconomics for Business Units: 4
+- [*]Students who have earned scores of 4 or 5 on both the AP Microeconomics and the AP Macroeconomics exams will be waived out of the first requirement (BUAD 200 , BUAD 201 , 351/352 or ECON).
+
+### Additional Required Course Work:
+
+---
+
+- ACCT 410x Foundations of Accounting Units: 4 or
+- BUAD 280 Introduction to Financial Accounting Units: 3 or
+- BUAD 305 Abridged Core Concepts of Accounting Information Units: 4
+-
+- BUAD 306 Business Finance Units: 4 or
+- BUAD 308 Advanced Business Finance Units: 4
+-
+- BUAD 302 Communication Strategy in Business Units: 4
+-
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+-
+- BUAD 307 Marketing Fundamentals Units: 4
+-
+- BUAD 315x Basics of Project and Operations Management for Non-Majors Units: 2 or
+- BUAD 311 Operations Management Units: 4 or
+- BUAD 313 Advanced Operations Management and Analytics Units: 4
+
+---

@@ -1,0 +1,75 @@
+Program Name: Mind Body Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32739
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32739&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32739
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:56Z
+Content SHA-256: 87146634ef8c8562481c2c8c7812a38d58edd7920c7b1c114da673cffd08f07c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Mind Body Studies Minor
+
+---
+
+Students will explore the interconnectedness of body and mind wellbeing through an experiential, interdisciplinary study that blends theory, research and practice. Offered through the Department of Physical Education and Mind Body Health, core course work includes foundations in yoga, mindfulness and stress management for a comprehensive approach to healthy living. Interdisciplinary course work examines mental and physical health for a multi-dimensional view of mind-body awareness and connection. This minor is designed for students who want to add a dimension of wellbeing to their personal and academic lives. It is particularly suited for those with career interests in health care, physical therapy, psychology or social work.
+
+Required Course Work (20 units): Students will complete a combination of experiential classes in Physical Education and Mind Body Health, as well as theory and research-based interdisciplinary electives.
+
+## Core Courses (3 units)
+
+---
+
+- PHED 120a Yoga Units: 1
+-
+- PHED 119 Introduction to Mindfulness Units: 2 or
+- PHED 160 Stress Management for Healthy Living Units: 2
+
+## Upper-Division Courses (choose 12 units)
+
+---
+
+- BAEP 472 The Science of Peak Performance Units: 2
+- DANC 362 Pilates Mat Training Units: 2
+- GERO 411L Physiology, Nutrition, and Aging Units: 2 or 4
+- HBIO 301L Human Anatomy Units: 4
+- HBIO 309 The Human Machine Units: 4
+- HBIO 401L Physiology of Movement Units: 4
+- MKT 404 Happiness and Wellbeing in the Marketplace Units: 4
+- OT 325 The Brain: Mind, Body, and Self Units: 4
+- PSYC 339Lg Origins of the Mind Units: 4
+- REL 340 Introduction to Indian Philosophy Units: 4
+
+## Elective (choose 5 units)
+
+---
+
+- PHED 106a Physical Conditioning Units: 1
+- PHED 110a Swimming Units: 1
+- PHED 118 Sleep for Peak Performance Units: 2
+- PHED 119 Introduction to Mindfulness Units: 2 *
+- PHED 120b Yoga Units: 1
+- PHED 122 Yoga and Meditation Units: 1
+- PHED 123 Yoga Therapy Units: 2
+- PHED 124 Walking for Fitness Units: 1
+- PHED 127 Principles of Yoga Through Community Outreach Units: 2
+- PHED 134 Hiking Units: 1
+- PHED 160 Stress Management for Healthy Living Units: 2 *
+- PHED 163 Health Coaching Units: 3
+- PHED 299 Special Topics Units: 1, 2, 3, 4, 5, 6, 7, 8
+
+## Minimum Units: 20
+
+---
+
+Note: No more than 4 units of physical education activity courses may be applied to a student’s overall unit requirement, toward his or her USC degree.
+
+*Core courses may not double count as electives.
+
+---

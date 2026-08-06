@@ -1,0 +1,56 @@
+Program Name: Law and Public Health Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32931
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32931&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32931
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:08:12Z
+Content SHA-256: a1bd72168fe8ca89278227e2a318728bdd2d2fcd7aae201e7d8655adc2f16371
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Law and Public Health Minor
+
+---
+
+The Minor in Law and Public Health offers an interdisciplinary foundation for understanding how legal systems shape health services, health behaviors, and population health outcomes. Students examine domestic and global health law, ethics, regulation, and health systems, with particular attention to health equity, patient rights, and the social determinants of health. The minor equips students with analytical tools to critically assess how law can both promote and hinder public health, preparing them for careers in health, law, policy, research, and advocacy across clinical, institutional, and societal settings.
+
+The minor totals 20 units; 8 units of required courses, a minimum of 4 or maximum of 8 units of health promotion and disease prevention electives and a minimum of 4 or maximum of 8 units LAW electives.
+
+## Required Courses (8 units)
+
+---
+
+- HP 200 Introduction to Health Promotion and Disease Prevention Units: 4
+-
+- LAW 200w Law and Society Units: 4 or
+- LAW 210p Fundamentals of the U.S. Legal System Units: 4
+
+## Health Promotion and Disease Prevention Electives (a minimum of 4 or maximum of 8 units)
+
+---
+
+- HP 270 Introduction to Global Health Units: 4
+- HP 365gmw Culture, Lifestyle, and Health Units: 4
+- HP 405 Sexually Transmitted Diseases: A Global Public Health Priority Units: 4
+- HP 420m Gender and Minority Health Issues Units: 4
+- HP 421 Violence as a Public Health Issue Units: 4
+- HP 446 Poisons, People, and Politics Units: 4
+
+## LAW Electives (a minimum of 4 or maximum of 8 units)
+
+---
+
+- LAW 250w Children and the Law Units: 4
+- LAW 402 Psychology and Law Units: 4
+- LAW 403 Mental Health Law Units: 4
+- LAW 406 Individual Rights in U.S. Constitutional Law Units: 4
+- LAW 407 Regulatory Law Units: 4
+- LAW 498 Law Internship Units: 1, 2, 3, 4
+
+---

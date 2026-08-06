@@ -1,0 +1,47 @@
+Program Name: Ceramics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31573
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31573&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31573
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:08Z
+Content SHA-256: d8baabcb3127b92b009499cca4c02f2936ef08f2a7c5d14fa9f0060b0b122d4e
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Ceramics Minor
+
+---
+
+Students enrolled in this minor will be introduced to the rich traditions of ceramic practice — from wheel throwing to 3-D modeling — while encouraging the use of materials and methods as vehicles for individual expression in contemporary art. They will be exposed to lectures and readings in the history of clay and critical writings on the subject. A variety of classes is offered including beginning and advanced ceramics, wheel throwing, clay and glaze formulation, art and technology, modeling and mold making, sculpture, visual literacy and theory and criticism. As students advance in the level of their studies, they can choose to follow a traditional approach to clay and/or pursue exploration and experimentation with the medium including freedom to create mixed-media pieces or to bring technology in to their work. The goal is to create a strong foundation in clay significant to the career path of their choosing. The total number of units is required for this minor is 20.
+
+## Required lower-division course (4 units)
+
+---
+
+- ART 130 Ceramics I Units: 4
+
+## Three required upper-division courses (10 units)
+
+---
+
+- ART 330 Ceramics II Units: 4
+- ART 432 Clay and Glazes Units: 2
+- ART 430 Topics in Advanced Ceramics Units: 4 max 12
+
+## Upper-division electives (6 units)
+
+---
+
+- ART 441 Installation Art Units: 4
+- ART 442 Art and Technology Units: 4
+- ART 443 Woodworking Units: 2
+- ART 444 Modeling and Mold Making Units: 2
+- ART 445 Metal Units: 2
+
+---

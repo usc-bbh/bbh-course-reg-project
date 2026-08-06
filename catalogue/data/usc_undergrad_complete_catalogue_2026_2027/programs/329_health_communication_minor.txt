@@ -1,0 +1,55 @@
+Program Name: Health Communication Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32215
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32215&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32215
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:06:52Z
+Content SHA-256: 6838417b5a08f3720b0691f7e0ef42843813a8334ebdc2bb789733eacd290d57
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Health Communication Minor
+
+---
+
+This minor is designed to appeal to students with a wide range of interests, including those with a general interest in promoting healthy lifestyle practices through effective communication. These students will be prepared to seek jobs in areas such as the managed care industry, hospitals, wellness programs, broadcast and cable companies, and private and governmental agencies, as well as other organizations looking for experts with demonstrated knowledge in health-related fields.
+
+## Required Courses (20 Units)
+
+---
+
+- COMM 302 Persuasion Units: 4
+- COMM 385 Organizational Communication Units: 4
+- COMM 443 Communicating Better Health: What Works and Why Units: 4
+- HP 200 Introduction to Health Promotion and Disease Prevention Units: 4
+
+### One of the following:
+
+---
+
+- COMM 304 Interpersonal Communication Units: 4
+- COMM 308 Communication and Conflict Units: 4
+- COMM 315 Health Communication Units: 4
+- COMM 324mw Intercultural Communication Units: 4
+- COMM 375 Business and Professional Communication Units: 4
+- COMM 402 Public Communication Campaigns Units: 4
+- COMM 480 Nonverbal Communication Units: 4
+- COMM 486 Human and Technological Systems in Organizations Units: 4
+- HP 365gmw Culture, Lifestyle, and Health Units: 4
+- HP 370g Introduction to Epidemiology: Methods and Applications Units: 4
+- HP 401 Cultural Competence in Medicine Units: 4
+- HP 402 Maternal and Child Health Units: 4
+- HP 408 Environmental Health in the Community Units: 4
+- HP 420m Gender and Minority Health Issues Units: 4
+- HP 421 Violence as a Public Health Issue Units: 4
+- HP 422 AIDS in Society Units: 4
+- HP 430 Obesity and Health Units: 4
+- HP 442 Chronic Disease Epidemiology Units: 4
+
+---

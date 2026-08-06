@@ -1,0 +1,54 @@
+Program Name: Musical Theatre Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32247
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32247&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32247
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:11Z
+Content SHA-256: 60a33838be75e57df7e8ae56fb095c0ec31afdae7261e4f024e4079891b71515
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Musical Theatre Minor
+
+---
+
+The minor in musical theatre, interdisciplinary in nature, is a 20-unit program incorporating the study of acting, dance or movement, vocal arts and related musical subjects. Admission to the minor requires an audition for music but not for theatre.
+
+## Required Courses (12 units)
+
+---
+
+- MPVA 140 Vocal Production for Musical Theatre Units: 2
+- MPVA 402 Musical Theatre Workshop I Units: 3
+- MPVA 412 Musical Theatre Workshop II Units: 3
+- MUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4
+
+## Select 8 units from the following: *
+
+---
+
+- DANC 175 Choreography for the Screen Units: 2
+- DANC 181–189
+- MPVA 301 Individual Instruction Units: 1, 2
+- THTR 101 Introduction to Acting Units: 4
+- THTR 216 Movement for Actors Units: 2
+- THTR 252a Intermediate Acting I: Drama/Comedy Units: 4
+- THTR 252b Intermediate Acting I: Drama/Comedy Units: 4
+- THTR 316 Advanced Movement for Actors Units: 2
+- THTR 343 Musical Theatre Audition Units: 3
+- THTR 352a Intermediate Acting II Units: 4
+- THTR 352b Intermediate Acting II Units: 4
+
+## Total units: 20
+
+---
+
+*Note for dance, music and theatre majors: dance majors must select 8 units in music and/or theatre, music majors must select 8 units in dance and/or theatre, and theatre majors must select 8 units in dance and/or music. Exception: Theatre majors may select THTR 216 and/or THTR 316 as part of the 8-unit requirement.
+
+---

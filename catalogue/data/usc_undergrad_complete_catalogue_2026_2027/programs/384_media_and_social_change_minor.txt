@@ -1,0 +1,73 @@
+Program Name: Media and Social Change Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31688
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31688&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31688
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:46Z
+Content SHA-256: 8e52e5479f3aeec8356e11e7d1b63ceca053067bd85f037300b27f338d34237b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Media and Social Change Minor
+
+---
+
+The minor in Media and Social Change provides the opportunity for students who are interested in media content creation and research to take classes in a focused curriculum on the various aspects of media for change. Students will gain insight into the professional practices of creating media content, analyzing existing content, and learning how they can influence the future by integrating social issues into the work they are doing in related fields.
+
+Information about declaring the minor, courses and other program offerings can be obtained by emailing the Media Arts and Practice program at map@cinema.usc.edu.
+
+## Program Requirements
+
+---
+
+A total of 20 units is required to complete the minor. All courses must be taken for a letter grade.
+
+## Introductory Courses
+
+---
+
+Choose 4 units from the following courses:
+
+- CTCS 192mg Race, Class, and Gender in American Film Units: 4
+- CTWR 211g The Television Writer: An Agent of Change Units: 4
+- IML 295Lm Identity, Power, and Digital Culture Units: 4
+
+## Electives, Group I
+
+---
+
+Choose 12 units from the following courses:
+
+- CTIN 479 Documentary and Activist Games Units: 2
+- CTPR 474 Documentary Production Units: 4
+- CTXA 470 Documentary Animation Production Units: 2
+- IML 419 Emotion in Digital Culture Units: 4
+- IML 420m New Media for Social Change Units: 4
+- IML 421 Designing and Writing for Transmedia Narratives Units: 4
+- IML 423 Remixing the Archive Units: 4
+- IML 425 Narrative Across Media Units: 4
+- IML 427 DIY Music Videos from Critique to Creation Units: 4
+- IML 453 Design Fiction and Speculative Futures Units: 4
+- IML 477 Embodied Storytelling and Immersive Docu-Narratives Units: 4
+- IML 493 Creativity and Wellbeing Units: 2, 4
+
+## Electives, Group II
+
+---
+
+Choose 4 units from the following courses:
+
+- CTCS 400 Documentary Film and Media Units: 4
+- CTCS 403 Studies in National and Regional Media Units: 4
+- CTCS 407 African American Cinema Units: 4
+- CTCS 408 Contemporary Political Film and Digital Media Units: 4
+- CTCS 412 Gender, Sexuality and Media Units: 4
+- CTCS 414 Latina/o Screen Cultures Units: 4
+
+---

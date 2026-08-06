@@ -1,0 +1,27 @@
+Program Name: Classical Greek Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32474
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32474&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32474
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:23Z
+Content SHA-256: 09c2807e6b9dd8cfa91ee5d6cd226dc0d1de9d21994e5d16cd0c3779a15eeacc
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Classical Greek Minor
+
+---
+
+Four courses in Classical Greek, of which one may be GR 220 and at least three must be at the upper-division level.
+
+One additional upper-division course: either Classical Greek or Classics (CLAS).
+
+TOTAL: five courses
+
+---

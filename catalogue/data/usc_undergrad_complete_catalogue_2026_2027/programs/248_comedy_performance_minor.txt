@@ -1,0 +1,61 @@
+Program Name: Comedy (Performance) Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32008
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32008&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32008
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:32Z
+Content SHA-256: b575734ecb058f4f87e87f0f1b0078f6448b2357f81006c82870f0025b84fce4
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Comedy (Performance) Minor
+
+---
+
+The minor in Comedy (Performance) is a 16-unit minor for students who want to develop their comedic presence for a range of fields. Beginning with a foundation in the history of comic performance, students then select from comedy electives that focus on using improv, stand-up, clowning, and other forms of humor to be more effective and entertaining in any professional setting. The progression of the minor offers students a comprehensive theoretical and experiential education in the many differing disciplines of comedy.
+
+## Required Courses (4 units)
+
+---
+
+- THTR 197g Comedy and Performance Units: 4
+
+## Required Elective Courses (12 units)
+
+---
+
+- THTR 122 Improvisation and Theatre Games Units: 2
+- THTR 202 The Fundamentals of Comedy Units: 2
+- THTR 290 Introduction to Medical Clowning Units: 2
+- THTR 304 Advanced Medical Clowning Units: 2
+- THTR 307 Comedy in LA Units: 2
+- THTR 310 Comedy and Diversity Units: 4
+- THTR 313 Comedy of Manners Units: 4
+- THTR 317 Theatre Clown Units: 2
+- THTR 322 Improv 2: Advanced Improv Units: 2
+- THTR 355 Acting for Sitcoms Units: 4
+- THTR 413 Writing Your Own Material Units: 2
+- THTR 421 Public Speaking as Performance: A Course for Non-Actors Units: 2
+- THTR 422 Improv 3: Long Form Improvisation Units: 2
+- THTR 423 Magic Units: 2
+- THTR 424 Creator as Entrepreneur Units: 2
+- THTR 467 Going Viral: Performance for New Media Units: 2
+- THTR 469 Satire and Parody in Performance Units: 2
+- THTR 470 Sketch Comedy for Theatre Units: 4
+- THTR 473 Sketch Comedy in Performance Units: 2
+- THTR 474 Introduction to Stand Up Comedy Units: 2
+- THTR 479 Solo Performance Units: 4
+- THTR 482 Stand Up 2: Becoming A Pro Units: 2
+- THTR 483 Characters of Comedy Units: 2
+
+## Total Units: 16
+
+---
+
+---

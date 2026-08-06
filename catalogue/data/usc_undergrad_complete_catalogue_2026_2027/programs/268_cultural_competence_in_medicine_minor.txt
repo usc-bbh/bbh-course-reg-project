@@ -1,0 +1,47 @@
+Program Name: Cultural Competence in Medicine Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32212
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32212&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32212
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:14Z
+Content SHA-256: 9f2f1a249dcd0937e30dddc4a4f788f64e8b9c7d2a3da5228783791575455331
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Cultural Competence in Medicine Minor
+
+---
+
+This minor is designed for students who plan to enter careers or professional programs in medicine after graduation and are interested in using cultural knowledge to provide more effective health care. The minor focuses on cultural differences in the understanding of health, disease, health care and risk factors unique to specific populations. The minor provides a foundation for students who want to become effective health care providers in an increasingly diverse society. It complements major programs such as biological sciences, chemistry, kinesiology and environmental studies.
+
+## Required Courses (20 Units)
+
+---
+
+- HP 200 Introduction to Health Promotion and Disease Prevention Units: 4
+- HP 365gmw Culture, Lifestyle, and Health Units: 4
+- HP 401 Cultural Competence in Medicine Units: 4
+- HP 420m Gender and Minority Health Issues Units: 4
+
+### One of the following:
+
+---
+
+- HP 370g Introduction to Epidemiology: Methods and Applications Units: 4
+- HP 402 Maternal and Child Health Units: 4
+- HP 408 Environmental Health in the Community Units: 4
+- HP 410 Issues in Prevention and Cessation of Drug Abuse Units: 4
+- HP 421 Violence as a Public Health Issue Units: 4
+- HP 422 AIDS in Society Units: 4
+- HP 442 Chronic Disease Epidemiology Units: 4
+- HP 450 Traditional Eastern Medicine and Modern Health Units: 4
+- HP 460 Adolescent Health Units: 4
+- PSYC 462m Culture and Mental Health Units: 4
+
+---

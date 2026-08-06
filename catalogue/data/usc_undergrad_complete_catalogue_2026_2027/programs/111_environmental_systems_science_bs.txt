@@ -1,0 +1,111 @@
+Program Name: Environmental Systems Science (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32958
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32958&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32958
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:20Z
+Content SHA-256: 56df5a01ef31ac8b4069756970c3f9c2df243fceac5f178762a210b630bcd8d8
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Environmental Systems Science (BS)
+
+---
+
+The Bachelor of Science in Environmental Systems Science provides students with a strong foundation in the natural sciences and their application to today’s most pressing environmental challenges. Through course work in biology, chemistry and geoscience, together with electives in the social sciences, students gain the scientific knowledge and analytical skills needed to understand complex environmental systems. Emphasizing fieldwork, laboratory research, data analysis and problem-solving, the program prepares graduates for careers in environmental consulting, conservation, sustainability, natural resource management and environmental regulation, as well as for advanced study in graduate or professional programs.
+
+## Gateway and Capstone Requirements
+
+---
+
+- Gateway experience
+- GEOL 160Lg Introduction to Geosystems Units: 4
+- Capstone experience
+- GEOL 450L Geosystems Units: 4
+
+## Fundamental Mathematics and Science Requirements
+
+---
+
+- BISC 103Lgx General Biology for the Environment and Life Units: 4
+- CHEM 103Lgx General Chemistry for the Environment and Life Units: 4
+- ENST 320a Water and Soil Sustainability; Energy and Air Sustainability Units: 4
+- ENST 320b Water and Soil Sustainability; Energy and Air Sustainability Units: 4
+- GEOL 415 Fundamentals of Environmental Data Science Units: 4
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+
+## Skill Building Electives
+
+---
+
+Choose three of the following:
+
+- BISC 457L Methods in Marine Biology and Biological Oceanography Units: 4
+- CHEM 300L Analytical Chemistry Units: 4
+- GEOL 315L Minerals and Earth Systems Units: 4
+- GEOL 320L Surficial Processes and Stratigraphic Systems Units: 4
+- GEOL 351L Climate Systems Units: 4
+- GEOL 425L Data Analysis in the Earth and Environmental Sciences Units: 4
+- GEOL 470L Environmental Hydrogeology Units: 4
+- SSCI 301L Maps and Spatial Reasoning Units: 4
+- SSCI 402 GIS and Sustainable Development Units: 4
+
+## Environmental Problems Electives
+
+---
+
+Choose at least three, for a total of 12 or more units:
+
+- BISC 315L Introduction to Ecology Units: 4
+- BISC 473L Biological Oceanography Units: 4
+- BISC 474L Ecosystem Function and Earth Systems Units: 4
+- BISC 483 Geobiology and Astrobiology Units: 4
+- CE 363L Environmental Chemistry and Analysis Units: 4
+- CE 410L Environmental Engineering Microbiology Units: 4
+- ENE 440 Machine Learning for Climate Change and Sustainability Units: 4
+- ENST 310 Sustainable Fisheries Management Units: 4
+- ENST 335 Science, Health and the Environment Units: 4
+- ENST 413 Sustainable Aquaculture and Food Security Units: 4
+- ENST 445 Earth Climate: Past, Present, and Future Units: 4
+- ENST 483L Coastal Zone Sustainability Units: 4
+- GEOL 412 Oceans, Climate, and the Environment Units: 4
+- GEOL 433L Paleontology and Evolution in Deep Time Units: 4
+- GEOL 460L Geochemistry Units: 4
+- GEOL 465L Field Geology Units: 4
+- Up to 4 units of 490 environmental research credit in a science disipline
+- BISC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- CHEM 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- GEOL 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- PHYS 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+
+## Environment and Society Electives
+
+---
+
+Choose two of the following:
+
+- ANTH 202g Archaeology: Our Human Past Units: 4
+- ANTH 302 Humans and Ancient Environments Units: 4
+- COMM 475 Environmental Communication Units: 4
+- ENST 344 Environmental Ethics Units: 4
+- ENST 360 Public Policy for Sustainability Units: 4
+- ENST 370 Marine and Coastal Environmental Policy Units: 4
+- ENST 387 Economics for Natural Resources and the Environment Units: 4
+- HP 408 Environmental Health in the Community Units: 4
+- HP 448 Global Environmental Changes and Health Units: 4
+- IR 323 Politics of Global Environment Units: 4
+- MOR 466 Business and Environmental Sustainability Units: 4
+- POSC 347 Environmental Law Units: 4
+- POSC 436 Environmental Politics Units: 4
+- PPD 348 Sustainable Infrastructure Units: 4
+- PPD 361 Sustainable Communities, Policy and Planning Units: 4
+- PPD 420 Environmental Impact Assessment Units: 4
+
+---

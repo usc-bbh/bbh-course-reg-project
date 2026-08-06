@@ -1,0 +1,128 @@
+Program Name: Human Biology (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31720
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31720&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31720
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:51Z
+Content SHA-256: baf8da369b77e34c55628685b6e466a7517eb5ba79a77817a440133355b321fb
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Human Biology (BA)
+
+---
+
+The section of Human and Evolutionary Biology within the Department of Biological Sciences oversees the Human Biology BA at USC. This degree is designed for students seeking a course of study in human applied physiology and metabolism, performance and/or human evolution. The Human Biology BA is an excellent option for students pursuing pre-professional education in the fields of physical therapy, nutrition, pharmacology, sports training, kinesiology, biomechanics, human evolution, primatology, evolutionary biology, etc.
+
+#### Summary of Requirements
+
+Students must complete the general core consisting of 21 units. In addition, they must select 16 units from one of the three track modules below, as well as 8 additional units from the restricted elective list or any other track in the major. No more than one course may be lower division (100- or 200-level) from the major track and electives combined. Total requirements: 45 units including at least 24 upper-division.
+
+## General Core (21 Units)
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4 or
+- HBIO 200Lg The Human Animal Units: 4
+-
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+-
+- HBIO 120 Introduction to Human and Evolutionary Biology Units: 1
+- HBIO 202Lg Nutrition for Life Units: 4
+- HBIO 301L Human Anatomy Units: 4
+-
+- MATH 108g Contemporary Precalculus Units: 4 or
+- MATH 125g Calculus I Units: 4 or
+- MATH 126g Calculus II Units: 4
+
+## Major Track (16 Units)
+
+---
+
+Choose 16 units from one of the track modules below.
+
+### Human Physiology and Metabolism (16 units)
+
+---
+
+The Human Physiology and Metabolism track explores human movement through the study of body form and function, using general principles of physiology, and biomechanics. Courses in this track further examine physiology and nutrition with an emphasis on human health and disease.
+
+- HBIO 302L Nutrition and Metabolism Units: 4 *
+- HBIO 370 Genetics and Disease Units: 4 *
+- HBIO 360L Nutrition and Disease Units: 4 *
+- HBIO 407L Endocrinology and Metabolism Units: 4 *
+- HBIO 408L Biomechanics Units: 4 *
+- HBIO 420L Applied Human Physiology Units: 4 *
+
+### Human Evolutionary Biology (16 units)
+
+---
+
+The Human Evolution track examines how and why humans evolved using evolutionary mechanisms and hypotheses. The track courses explore paleo-human ancestors, primates (prosimians, monkeys and apes), and the impact of society and culture on evolution.
+
+- HBIO 300 Evolution, Ecology, and Culture Units: 4
+- HBIO 306 Biology of the Non-Human Primates Units: 4
+- HBIO 308 Origins and Evolution of Human Behavior Units: 4
+- HBIO 403L Forensic Science of the Bones Units: 4 *
+- HBIO 405 Evolutionary Medicine Units: 4 *
+- HBIO 406 Theory and Method in Human Evolutionary Biology Units: 4 *
+
+### Human Performance (16 units)
+
+---
+
+The Human Performance track examines the scientific link between nutrition, athletic performance and the physiological response to exercise. The track further provides students with knowledge of prevention, treatment and rehabilitation of athletic injuries.
+
+- HBIO 250g The Pharmacology of Performance-Enhancing Drugs Units: 4
+- HBIO 320 Muscle Physiology Units: 4 *
+- HBIO 400L Motor Control and Learning Units: 4 *
+- HBIO 401L Physiology of Movement Units: 4 *
+- HBIO 441L Prevention of Athletic Injuries Units: 4 *
+
+## Restricted Electives (8 Units)
+
+---
+
+A minimum of 8 units is required. Courses can be selected from the elective list below or from any other track in the major.
+
+- BISC 300L Microbiology Units: 4 *
+- BISC 307L General Physiology Units: 4 *
+- BISC 312x Molecular Biochemistry Units: 4 *
+- BISC 313L Evolution and Population Genetics Units: 4 *
+- BISC 320Lg Molecular Biology Units: 4 *
+- BISC 325 Genetics Units: 4 *
+- BISC 421 Neurobiology Units: 4 *
+- BISC 423 Epilepsy to Ecstasy: Biological Basis of Neurological Disorders Units: 4 *
+- BISC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 (4 Units Required) *
+- CHEM 322aL Organic Chemistry Units: 4 *
+- CHEM 322bL Organic Chemistry Units: 4 *
+- HBIO 309 The Human Machine Units: 4
+- HBIO 409 Metabolic Diseases Units: 4 *
+- HBIO 435 Neurobiology of Feeding Behavior and Obesity Units: 4 *
+- HBIO 439L Human Performance and Bioenergetics Units: 2 or 4 (4 Units Required) *
+- HBIO 442L Evaluation and Rehabilitation of Athletic Injuries Units: 4 *
+- HBIO 491L Laboratory Experience in Kinesiology Units: 2, 4 *
+-
+- MATH 114xg Foundations of Statistics Units: 4 or
+- MATH 208x Elementary Probability and Statistics Units: 4 or
+- PSYC 274Lg Statistics Units: 4 *
+-
+- PSYC 339Lg Origins of the Mind Units: 4 *
+- PSYC 360 Psychological Disorders Units: 4 *
+- QBIO 305g Statistics for Biological Sciences Units: 4
+
+## Note:
+
+---
+
+*Prerequisite required
+
+---

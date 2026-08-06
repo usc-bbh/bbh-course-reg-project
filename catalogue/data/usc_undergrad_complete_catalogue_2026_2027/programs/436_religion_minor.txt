@@ -1,0 +1,27 @@
+Program Name: Religion Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31921
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31921&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31921
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:46Z
+Content SHA-256: edae21cbfebb0a596bfa5bcba7c263e76a0dbedfc2f84b15fb6668fed568e322
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Religion Minor
+
+---
+
+Students taking the religion minor must enroll in REL 301 Introduction to the Study of Religion . In addition, they must complete four additional religion courses, at least three of which must be upper-division courses.
+
+The total unit requirement for the minor is 20 units; 16 of those units must be upper-division.
+
+Students who wish to focus their minor in Jewish studies must minor in Judaic Studies.
+
+---

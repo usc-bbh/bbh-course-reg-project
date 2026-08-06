@@ -1,0 +1,128 @@
+Program Name: Computational Linguistics (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32478
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32478&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32478
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:19Z
+Content SHA-256: 1e5f0f245b0c68d2c0f3639de386b41c3c7103343126720000cffe5aa939b5eb
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Computational Linguistics (BS)
+
+---
+
+### Major Requirements for the Bachelor of Science in Computational Linguistics
+
+The degree requires six to seven lower-division courses (22-26 units) and six upper-division courses (24 units): a total of 46-50 units.
+
+## Lower-Division Courses (22-26 units)
+
+---
+
+### Two in Linguistics (8 units)
+
+---
+
+- LING 210g Introduction to Linguistics Units: 4
+- LING 285Lg Human Language and Technology Units: 4
+
+### Four to five courses in Computer Science (14-18 units)
+
+---
+
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 104L Data Structures Units: 4
+- CSCI 113x Programming Fundamentals for Computing Units: 4
+- CSCI 114x Programming for Applications of Computing Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+- CSCI 201 Principles of Software Development Units: 4
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4
+
+## Upper-Division Courses (24 units)
+
+---
+
+### Five courses in Linguistics (20 units)
+
+---
+
+- LING 385Lg Human Language as Computation Units: 4 *
+
+#### Choose one among the following (4 units)
+
+---
+
+Phonetics and Phonology
+
+- LING 301 Introduction to Phonology and Morphology Units: 4
+- LING 415 Phonetics Units: 4
+- LING 450 Forensic Speaker Identification Units: 4
+
+#### Choose one among the following (4 units)
+
+---
+
+Psycholinguistics
+
+- LING 405 Child Language Acquisition Units: 4
+- LING 406 Psycholinguistics Units: 4
+- LING 408 Sociolinguistics Units: 4
+- LING 410 Second Language Acquisition Units: 4
+
+#### Choose one among the following (4 units)
+
+---
+
+Syntax and Semantics
+
+- LING 302 Introduction to Syntax Units: 4
+- LING 303 Introduction to Semantics and Pragmatics Units: 4 *
+
+#### Choose one among the following (4 units)
+
+---
+
+Advanced Computational Linguistics
+
+- LING 486 Natural Language Processing Units: 4
+- LING 487 Speech Synthesis and Recognition Units: 4
+
+### One course in Computer Science (4 units)
+
+---
+
+#### Choose one among the following (4 units)
+
+---
+
+Computer Science
+
+- CSCI 310 Software Engineering Units: 4
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4
+
+## Capstone Experience
+
+---
+
+The Computational Linguistics major requires a capstone experience, which can be fulfilled in one of the following ways:
+
+(A) A research paper completed as Honors Thesis LING 497 , or as Directed Research LING 490 or as a Linguistic 400-level course research paper.
+
+(B) A poster presented at the USC UG symposium [https://ahf.usc.edu/signature-events/symposium/] or at a conference.
+
+(C) A summer internship related to the degree.
+
+## Computational Linguistics Major with Honors
+
+---
+
+The Computational Linguistics major with honors requires the student to complete the requirements for the major with a GPA of 3.5 or above and, among those requirements, to complete LING 497 Honors Thesis with a grade of B+ or better. Intent to complete the major with honors should be registered with the undergraduate adviser no later than the second semester of the junior year.
+
+---

@@ -1,0 +1,74 @@
+Program Name: Craniofacial and Dental Technology Minor
+Credential: 
+School or Academic Unit: Herman Ostrow School of Dentistry adviser for specific program requirements
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31979
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31979&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31979
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:03Z
+Content SHA-256: 884798fb15d00311b93cce8e7b3fe277627eaa4f64a64680b1fb27e917dbd765
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Craniofacial and Dental Technology Minor
+
+---
+
+The Herman Ostrow School of Dentistry, the Viterbi School of Engineering Department of Biomedical Engineering and the Dornsife College of Letters, Arts and Sciences Department of Biological Sciences jointly offer the minor in craniofacial and dental technology. This minor is designed to prepare engineering, pre-dental, pre-medical and biological sciences undergraduates to enter the dental biotechnology industry as well as to introduce them to recent innovations in craniofacial sciences and therapeutics. The course work introduces students to concepts in dental and craniofacial sciences and technology, tissue engineering, molecular biology, genetics, biochemistry and biotechnology as well as applications to dental diagnostics, imaging and dental therapies (dental implants, restorative dentistry, salivary diagnostics).
+
+This minor requires a minimum of 16 units outside your home department; further, at least 16 units must be unique to the minor.
+
+Please see a biomedical engineering, biological sciences or Herman Ostrow School of Dentistry adviser for specific program requirements.
+
+## Core Required Courses, Upper Division
+
+---
+
+- DENT 412 Fundamentals of Craniofacial and Dental Technology Units: 3
+- BISC 320Lg Molecular Biology Units: 4
+- BISC 325 Genetics Units: 4 *
+- BME 410L Stem Cells and Biomaterials for Tissue Engineering Units: 4 *
+
+## Total core units: 15
+
+---
+
+## Electives
+
+---
+
+### Enroll in at least two courses from the following to complete at least 16 units outside your home department; further, at least 16 units must be unique to the minor:
+
+---
+
+- BISC 330L Biochemistry Units: 4 *
+- BISC 403 Advanced Molecular Biology Units: 4 *
+- BISC 406L Biotechnology Units: 4 *
+- BISC 410 Applications of Molecular Biology to Medicine Units: 4 *
+- BISC 435 Advanced Biochemistry Units: 4 *
+- BME 404 Computational Neuromechanics Units: 4 *
+- BME 415 Regulation of Medical Products Units: 2
+- BME 416L Development and Regulation of Medical Products Units: 4
+- BME 451L Fundamentals of Biomedical Microdevices Units: 4 *
+- DENT 221 Introduction to Dentistry Units: 1
+- ENGR 305 Engineering Biology Matters Units: 3
+- HP 340Lg Health Behavior Statistical Methods Units: 4
+- HP 350L Health Behavior Research Methods Units: 4
+- MASC 310L Materials Behavior and Processing Units: 4
+- RXRS 416 Medical Products: From Idea to Market Units: 4
+
+### Total elective units: 3-8
+
+---
+
+## Note:
+
+---
+
+*Prerequisite required
+
+---

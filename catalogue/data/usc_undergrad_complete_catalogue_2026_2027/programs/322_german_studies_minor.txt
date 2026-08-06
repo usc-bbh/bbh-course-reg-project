@@ -1,0 +1,73 @@
+Program Name: German Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31818
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31818&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31818
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:06:38Z
+Content SHA-256: e38e683ddb041e3cbecf75d9031da42a0771c92074555a76a156687d459032f6
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# German Studies Minor
+
+---
+
+## Required Courses, Lower-Division
+
+---
+
+- GERM 101 German I Units: 4
+- GERM 102 German II Units: 4
+- GERM 201 German III, Conversation and Composition Units: 4
+- GERM 221 Conversational German IV Units: 4 , or the equivalent by test
+
+## Required Courses, Upper-Division
+
+---
+
+Four courses — 16 units in the two areas of concentration.
+
+### One course from the following:
+
+---
+
+- GERM 310 Business German I Units: 4 *
+- GERM 311 Business German II Units: 4 *
+- GERM 470 Advanced Composition and Stylistics Units: 4
+
+#### Note:
+
+---
+
+*Prerequisite: GERM 201 or the equivalent by test.
+
+### Three elective courses from the following:
+
+---
+
+(only one course each from HIST and IR may be counted toward the minor):
+
+- GERM 320 Composition and Conversation on Contemporary Affairs Units: 4
+- GERM 325 Composition and Conversation in Cultural History Units: 4
+- GERM 330 Introduction to Literary Studies Units: 4
+- GERM 346 German Folklore and Popular Culture Units: 4
+- GERM 352 Colloquium on Poetry Units: 4
+- GERM 353 Colloquium on Prose Units: 4
+- GERM 360g 20th Century German Prose: Texts and Films Units: 4
+- GERM 410 Profile of German Literature I Units: 4
+- GERM 420 Profile of German Literature II Units: 4
+- HIST 323 The Holocaust in 20th Century Europe Units: 4
+- HIST 414 Contemporary Europe Units: 4
+- HIST 427 The German Question: Nation and Identity in Modern Central Europe Units: 4
+- IR 369 Post-War European Relations Units: 4
+- IR 385 European Foreign Policy and Security Issues Units: 4
+- IR 468 European Integration Units: 4
+- POSC 463 European Politics Units: 4
+
+---

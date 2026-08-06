@@ -1,0 +1,80 @@
+Program Name: Computational Biology and Bioinformatics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31723
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31723&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31723
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:43Z
+Content SHA-256: 4ee2dee61aaf06973f7d1075f1d62080dc26b6bdd1f409eacfb03f20ef86a779
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Computational Biology and Bioinformatics Minor
+
+---
+
+The Department of Quantitative and Computational Biology offers the Minor in Computational Biology and Bioinformatics. This minor provides essential training in using quantitative skills to solve fundamental biological problems.
+
+As with all minors, students must include at least four upper-division courses (16 units) and four courses (16 units) dedicated exclusively to this minor (they can overlap). Four courses (16 units) taken outside the major department are required. Students need to take 28 units of the courses listed: all requirements, and enough electives to add up to 28 units, while fulfilling the requirement listed above.
+
+The courses are designed for students in biological sciences, neuroscience, mathematics, computer science, or biomedical engineering. Other students may need more units to receive the minor. Please contact the minor adviser for specific program requirements.
+
+## Required Courses
+
+---
+
+- BISC 320Lg Molecular Biology Units: 4 or
+- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 104L Data Structures Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+- MATH 125g Calculus I Units: 4
+- QBIO 305g Statistics for Biological Sciences Units: 4 or
+- QBIO 310 Statistical Thinking for Quantitative Biology Units: 4
+- QBIO 478 Computational Genome Analysis Units: 4 or
+- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4
+
+## Elective Courses
+
+---
+
+Students who have satisfied a required course with AP credit will select an elective course to complete the minor requirements.
+
+A selected required course may not double-count toward electives.
+
+- BISC 230Lgx The Biology of the Brain Units: 4
+- BISC 300L Microbiology Units: 4
+- BISC 313L Evolution and Population Genetics Units: 4
+- BISC 320Lg Molecular Biology Units: 4 *
+- BISC 325 Genetics Units: 4
+- BISC 330L Biochemistry Units: 4
+- BISC 403 Advanced Molecular Biology Units: 4
+- BISC 406L Biotechnology Units: 4
+- BISC 410 Applications of Molecular Biology to Medicine Units: 4
+- BISC 486 Regenerative Medicine: Principles, Paradigms and Practice Units: 4
+- CSCI 201 Principles of Software Development Units: 4
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4
+- CSCI 485 File and Database Management Units: 4
+- MATH 126g Calculus II Units: 4
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4
+- MATH 226g Calculus III Units: 4
+- MATH 408 Mathematical Statistics Units: 4
+- MATH 432 Applied Combinatorics Units: 4
+- MATH 458 Numerical Methods Units: 4
+- MATH 465 Nonlinear Dynamics and Chaos Units: 4
+- MATH 466 Dynamic Modeling Units: 4
+- MATH 467 Theory and Computational Methods for Optimization Units: 4
+- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4 *
+- QBIO 475 Statistical and Evolutionary Genetics Units: 4
+- QBIO 478 Computational Genome Analysis Units: 4 *
+- QBIO 479L Computational Genome Analysis Laboratory Units: 4
+- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4 *
+- QBIO 482 Systems Biology: Modeling the Dynamics of Life Units: 4
+- * Optional required course.
+
+---

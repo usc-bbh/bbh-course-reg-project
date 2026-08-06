@@ -1,0 +1,139 @@
+Program Name: Law and Economics (BS)
+Credential: BS
+School or Academic Unit: Gould School of Law
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32938
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32938&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32938
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:29Z
+Content SHA-256: 715e03fda64c0482565ffa24473333d3827a1ee5d805cb5ffa3711cb8e316380
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Law and Economics (BS)
+
+---
+
+The Bachelor of Science in Law and Economics is a 56-unit major available to current USC students who are interested in gaining a deep, interdisciplinary understanding of how the law structures and influences economic activity, and how economic reasoning and empirical analysis can illuminate the operation of law. By combining rigorous training in legal reasoning, economic theory and quantitative methods, this major equips students to evaluate how law shapes markets, incentives and policy outcomes, and how economic forces, in turn, inform the creation and interpretation of legal rules.
+
+Students in this distinctive program gain comprehensive knowledge of the economic and regulatory complexities of the digital era, understanding the economic consequences of innovation such as AI, its effect on labor markets and productivity, as well as the legal challenges it poses in areas such as privacy, data security, intellectual property and antitrust laws law.
+
+As future leaders in both the public and private sectors, students in this program will learn to think critically and analytically about the frameworks that govern society’s allocation of rights and economic resources. The major fosters an integrated approach to understanding how legal institutions, economic models and human behavior interact, allowing students to apply both legal and economic reasoning to complex regulatory, social, political and business challenges.
+
+Current USC students must have a cumulative GPA of 3.0 and must submit a personal statement to the Gould School of Law’s Office of Undergraduate Programs for review.
+
+## General Education Requirements
+
+---
+
+Eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies). In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements.
+
+Core Literacies:
+
+GE-A: The Arts (one course)
+
+GE-B: Humanistic Inquiry (two courses)
+
+GE-C: Social Analysis (two courses)
+
+GE-D: Life Sciences (one course)
+
+GE-E: Physical Sciences (one course)
+
+GE-F: Quantitative Reasoning (one course)
+
+Global Perspectives:
+
+GE-G: Global Perspectives I (one course)
+
+GE-H: Global Perspectives II (one course)
+
+## Writing Requirements (8 units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+## Law and Economics Major Requirements (56 units)
+
+---
+
+## Required Econ Courses (16 units)
+
+---
+
+- ECON 203g Principles of Microeconomics Units: 4
+- ECON 303 Intermediate Microeconomic Theory Units: 4
+- ECON 317 Introduction to Statistics for Economists Units: 4
+- MATH 118gx Calculus for Business and Economics Units: 4
+- OR
+- MATH 125g Calculus I Units: 4
+
+## Required Law Courses (8 units)
+
+---
+
+- LAW 200w Law and Society Units: 4
+- LAW 210p Fundamentals of the U.S. Legal System Units: 4
+
+## Econ Electives (8 units)
+
+---
+
+- ECON 318 Introduction to Econometrics Units: 4
+- ECON 332 Contracts, Organizations and Institutions Units: 4
+- ECON 333 Innovation Economics and Business: Beer, AI and Video Games Units: 4
+- ECON 379 Economic Policy Analysis Units: 4
+- ECON 404 Games and Economics Units: 4
+- ECON 415 Behavioral Economics Units: 4
+- ECON 434 Economic Analysis of Law Units: 4
+- OR
+- LAW 352 Introduction to Law and Economics Units: 4
+- ECON 474 Economic Consulting and Applied Managerial Economics Units: 4
+- ECON 480 Economics of Industrial Organization Units: 4
+- ECON 487 Resource and Environmental Economics Units: 4
+- Students must choose between LAW 352 and ECON 434 - they may not receive major credit for both courses.
+
+## Law Electives (16 units)
+
+---
+
+At least 4 units must be at the upper-division level.
+
+- LAW 101w Law and the U.S. Constitution in Global History Units: 4
+- LAW 201w Law and Politics Units: 4
+- LAW 206 Responsible Use of Artificial Intelligence: Ethics and Law Units: 4
+- LAW 208w Law and Economics of AI Regulation Units: 4
+- LAW 212 Immigration Law for a New America Units: 4
+- LAW 222 Interdisciplinary Perspectives on the Law Units: 2
+- AND
+- LAW 225 Current Court Cases Units: 2
+- LAW 300 Concepts in American Law Units: 4
+- LAW 305 International Influence: Law and Power Units: 4
+- LAW 306 Issues in the Use of AI in Law and Regulation Units: 4
+- LAW 350 Law and Entrepreneurship Units: 4
+- LAW 352 Introduction to Law and Economics Units: 4
+- OR
+- ECON 434 Economic Analysis of Law Units: 4
+- LAW 406 Individual Rights in U.S. Constitutional Law Units: 4
+- LAW 407 Regulatory Law Units: 4
+- Students must choose between LAW 352 and ECON 434 - they may not receive major credit for both courses.
+- LAW 498 Law Internship Units: 1, 2, 3, 4
+
+## Interdisciplinary Electives (8 units)
+
+---
+
+- ENST 387 Economics for Natural Resources and the Environment Units: 4
+- GERO 452 Economic Issues and the Aged Units: 2 or 4
+- IR 326 U.S. Foreign Economic Policy Units: 4
+- IR 427 Seminar on Economics and Security Units: 4
+- PHIL 339 Philosophy of Economics Units: 4
+- PHIL 475 Topics in Philosophy, Politics and Economics Units: 4
+
+---

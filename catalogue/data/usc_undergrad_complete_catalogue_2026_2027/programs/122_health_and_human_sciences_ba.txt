@@ -1,0 +1,171 @@
+Program Name: Health and Human Sciences (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32477
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32477&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32477
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:44Z
+Content SHA-256: d2196480cd4768b3c20b01cf144409568295a4d66022df41fe686cb05463ad8a
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Health and Human Sciences (BA)
+
+---
+
+This degree is for individuals who desire the freedom and responsibility to design their own educational path. USC students, living in urban Los Angeles, have access to a myriad of research and volunteer experiences to complement their academic course work. The Health and Human Sciences major encourages the inquiry skills and knowledge needed to succeed in the evolving disciplines of health, science and medicine.
+
+The field of health care, including medicine, pharmacy, dentistry and allied health providers, has changed so dramatically over the last 25 years that our traditional approach to training undergraduates has become obsolete. The traditional biology degree does not adequately provide the student with the knowledge to pursue a career in health. Preparing for a career in health requires an interdisciplinary approach with a foundation of science. As stated by the Association of American Medical Colleges (AAMC), doctors must be able to appreciate the diverse populations they work with and “have a clear understanding of the impact of behavior on health.” This requires understanding how psychological, cultural, social, economic, ethical and biological factors influence our lives and most importantly, our health.
+
+The Health and Human Sciences curriculum combines all of the necessary science, social science, humanities and critical thinking concepts, as well as field experience, in order to educate a broadly thinking and prepared student. The major is designed so that every student will be able to choose a semester abroad program as a component of this major.
+
+This major is open to all students. Students are not required to pursue a pre-health track to declare this major.
+
+## Lower-Division Core Requirements (16 Units)
+
+---
+
+- BISC 150Lgx The Nature of Human Health and Disease Units: 4 or
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+-
+- CHEM 105aLg General Chemistry Units: 4
+-
+- MATH 114xg Foundations of Statistics Units: 4 or
+- MATH 125g Calculus I Units: 4 or
+- MATH 208x Elementary Probability and Statistics Units: 4
+-
+- SOCI 242g Sociology, Demography and Health Units: 4
+
+## Modules in the Human Sciences (16 Units)
+
+---
+
+Choose one module among the six below:
+
+### 1. Health, Gender and Ethnicity
+
+---
+
+- ANTH 125g Social Issues in Human Sexuality and Reproduction Units: 4
+- ANTH 305 Childhood, Birth and Reproduction Units: 4
+- PSYC 462m Culture and Mental Health Units: 4
+- SWMS 325 The Science of Sex Differences: A Gender and Sexuality Studies Approach Units: 4
+- SWMS 336 Health, Gender and Ethnicity Units: 4
+
+### 2. Health and the Mind
+
+---
+
+- PSYC 100Lg Introduction to Psychology Units: 4
+- PSYC 336L Developmental Psychology Units: 4
+- PSYC 360 Psychological Disorders Units: 4
+- PSYC 361 Introduction to Clinical Psychology Units: 4
+- PSYC 367g Stress, Health, and the Mind-Body Connection Units: 4
+- PSYC 462m Culture and Mental Health Units: 4
+
+### 3. International Health
+
+---
+
+- ANTH 101g Body, Mind and Healing: Introduction to Medical Anthropology Units: 4
+- ANTH 105g Culture, Medicine and Politics Units: 4
+- ANTH 305 Childhood, Birth and Reproduction Units: 4
+- IR 306 International Organizations Units: 4
+- IR 339 Public Health and International Relations Units: 4
+- IR 371 Global Civil Society: Non-State Actors in World Politics Units: 4
+- IR 382w Order and Disorder in Global Affairs Units: 4
+- SOCI 362 Global and Transnational Sociology Units: 4
+
+### 4. Sociology of Health
+
+---
+
+- ANTH 336 Health, Gender and Ethnicity Units: 4
+- IR 339 Public Health and International Relations Units: 4
+- SOCI 200gm Introduction to Sociology Units: 4
+- SOCI 210g Science, Technology, and Social Conflict Units: 4
+- SOCI 225gw Sociology of Health and the Body Units: 4
+- SOCI 360m Social Inequality: Class, Status and Power Units: 4
+- SOCI 475 Medical Sociology Units: 4
+
+### 5. Health and Aging
+
+---
+
+- GERO 321 Introduction to Psychology and Aging Units: 4
+- GERO 330 Society and Adult Development Units: 4
+- GERO 340 Policy, Values, and Power in an Aging Society Units: 4
+- GERO 437 Social and Psychological Aspects of Death and Dying Units: 2 or 4 (4 units required)
+-
+- GERO 380m Diversity in Aging Units: 4
+- GERO 416 Health Issues in Adulthood Units: 4
+- GERO 435m Women and Aging: Psychological, Social and Political Implications Units: 4
+
+### 6. Biology of Health
+
+---
+
+- BISC 450L Principles of Immunology Units: 4
+- HBIO 300 Evolution, Ecology, and Culture Units: 4
+- HBIO 301L Human Anatomy Units: 4
+- HBIO 302L Nutrition and Metabolism Units: 4
+- BISC 307L General Physiology Units: 4 Or
+- HBIO 420L Applied Human Physiology Units: 4
+
+## Experiential Learning Component (1-4 Units)
+
+---
+
+Choose one course from the list below:
+
+- AMST 365 Leadership in the Community — Internship Units: 4
+- GERO 495 Practicum in Geriatric Care Units: 4
+- MDA 250 Internship for Liberal Arts: Work and Career — Theory and Practice Units: 1, 2
+- POSC 395 Directed Governmental and Political Leadership Internship Units: 2, 3, 4, 5, 6, 7, 8
+- SOCI 450 Non-Governmental Organizations/Non-profits Field Practicum Units: 4
+- SOCI 472 Health, Disease, Language and Culture: Guatemala Units: 3
+- SWMS 311 Gender and Sexuality Studies: Internship Units: 2, 4, 8
+
+## Upper-Division Electives (8 Units)
+
+---
+
+Choose two courses from the list below, or one from this list and one upper-division elective from a different module option that you have not completed.
+
+- BISC 312x Molecular Biochemistry Units: 4 or
+- CHEM 350 Molecular Principles of Biochemistry Units: 4
+-
+- BISC 325 Genetics Units: 4
+- BISC 406L Biotechnology Units: 4
+- BISC 421 Neurobiology Units: 4
+- BISC 440 Biodemography of Aging Units: 4
+- CHEM 322aL Organic Chemistry Units: 4
+- HBIO 405 Evolutionary Medicine Units: 4
+- HIST 330 Drugs: A Global Cultural History Units: 4
+- MDA 320 Global Ethics: Poverty, Health and the Human Condition Units: 4
+- PSYC 320 Principles of Psychobiology Units: 4
+- PSYC 326 Behavioral Neuroscience Units: 4
+- PSYC 337L Adult Development and Aging Units: 4
+- PSYC 355 Social Psychology Units: 4
+- REL 460 Senior Seminar: Medical Ethics Units: 4
+- SOCI 305m Sociology of Childhood Units: 4
+- SOCI 325 Applied Social Research Methods Units: 4
+- SOCI 342m Race Relations Units: 4
+- SOCI 369 The Family in a Changing Society Units: 4
+- SOCI 431 Cities Units: 4
+- SOCI 450 Non-Governmental Organizations/Non-profits Field Practicum Units: 4
+- SSCI 340 Community Health Scan Units: 4
+
+## Total units required for the BA in Health and Human Sciences: 41-44
+
+---
+
+(at least 20 upper-division)
+
+---

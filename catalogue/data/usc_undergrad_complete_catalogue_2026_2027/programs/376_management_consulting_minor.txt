@@ -1,0 +1,51 @@
+Program Name: Management Consulting Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31606
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31606&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31606
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:28Z
+Content SHA-256: 26a58cb76ee922099046d1556add4ce2d7e4a1241b181ff83c15bd4d9c0bce7c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Management Consulting Minor
+
+---
+
+The minor in Management Consulting develops skills used by professional consultants to assist organizations and businesses in identifying and addressing their issues and problems.
+
+To enroll, students must have completed a minimum of 32 units of college-level courses and have a minimum overall GPA of 2.75. Completion of this minor requires a minimum GPA of 2.0 in the following courses:
+
+## Course Requirements
+
+---
+
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+- MOR 462 Management Consulting Units: 4
+
+### Electives
+
+---
+
+Choose three courses from the following (12 units):
+
+- DSO 455 Project Management Units: 4
+- MOR 421 Social and Ethical Issues in Business Units: 4
+- MOR 451 Mastering Decision Making Units: 4
+- MOR 458 AI Technology Strategic Management Units: 2, 4
+- MOR 466 Business and Environmental Sustainability Units: 4
+- MOR 467 Innovation in Business: How Companies Win Units: 4
+- MOR 469 Negotiation and Persuasion Units: 4
+- MOR 470 Global Leadership Units: 4
+- MOR 472 Power, Politics and Influence Units: 4
+- MOR 473 Designing and Leading Teams Units: 4
+- MOR 492 Global Strategy Units: 4
+- Return to: USC Marshall School of Business
+
+---

@@ -1,0 +1,76 @@
+Program Name: Art (BA)*
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31572
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31572&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31572
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:38Z
+Content SHA-256: 624d9a010ff67c316747b2dc751252fea667166882ff2a64d82a848937762245
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Art (BA)*
+
+---
+
+The Bachelor of Arts program offers a more flexible and broad academic education than the Bachelor of Fine Arts (BFA) degree while still providing a meaningful experience in the studio area and preparation for many design and art-related careers. The degree provides the student with the opportunity to double major or to combine an art major with a minor in various fields. Some possibilities for minors include communication, multimedia, education, business, film, animation and many other options.
+
+## Curriculum Requirements
+
+---
+
+The Bachelor of Arts (BA) requires a total of 128 units including 68 units of major requirements (52 units in Art courses and 16 units in Critical Studies courses, some of which overlap with the university’s required GE courses). In addition to the required courses, BA students have a minimum of 24 non-specific elective units that can be selected from a variety of university courses, based on their personal and professional goals and in consultation with their academic adviser. Electives are typically clustered in a particular field as in a minor, but may be spread across different areas.
+
+### Required Courses
+
+---
+
+#### Three 4-unit foundation courses are required for students admitted to the BA, Art:
+
+---
+
+- ART 105 Art and Design Studio I Units: 4
+- ART 106 Art and Design Studio II Units: 4
+- ART 110 Drawing for Art and Design Units: 4
+
+#### Two 2-unit Studio Critique courses are required in the second and third year:
+
+---
+
+- ART 280 Studio Critique I Units: 2
+- ART 380 Studio Critique II Units: 2
+
+#### In the senior year, the following 4-unit course is required.
+
+---
+
+- ART 485 Studio Capstone Units: 4
+
+#### The following Critical Studies courses are required:
+
+---
+
+- CRIT 150gp Histories of Art, Design and Visual Culture Units: 4
+- CRIT 160g Critical Theory in Art, Design and Visual Culture Units: 4
+- CRIT 350gw Global Art, Design and Visual Culture since 1960 Units: 4
+- and
+- One 400-level Critical Studies seminar Units: 4
+
+### Art Electives
+
+---
+
+Select 12 additional units from any lower-division ART or DES courses, and 20 additional units from any upper-division ART or DES courses.
+
+## General Education Requirements
+
+---
+
+The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. See the General Education for more information.
+
+---

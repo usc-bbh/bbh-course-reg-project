@@ -1,0 +1,69 @@
+Program Name: Sustainability, Community and STEM Education Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32922
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32922&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32922
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:02Z
+Content SHA-256: 18d4faa1e1f12cd2c26094a82bb24184d8b894046467242653d9d240ab761143
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Sustainability, Community and STEM Education Minor
+
+---
+
+The Sustainability, Community and STEM Education (SCSE) minor prepares future educators to integrate sustainability principles into STEM education while fostering equitable and inclusive learning environments. Designed for those interested in teaching science (biological sciences, chemistry, geoscience or physics) at the secondary level, the SCSE minor equips students with the pedagogical and content knowledge necessary to engage diverse learners in sustainability-focused STEM instruction.
+
+Through interdisciplinary course work and clinical field experiences in urban schools and community organizations, students will develop the skills to design NGSS-aligned unit plans, implement equity-centered sustainability lessons and engage in real-world problem-solving. The program emphasizes systems thinking, inclusive instructional strategies and the application of Sustainable Development Goals (SDGs) in STEM education.
+
+#### Program Features and Career Pathways
+
+The SCSE minor aligns with USC’s Assignment: Earth initiative and national trends emphasizing sustainability in education. Graduates will be well-positioned for careers as:
+
+- Secondary STEM educators with sustainability expertise
+- Environmental education specialists
+- Curriculum designers focused on sustainability and equity
+- Science and sustainability policymakers
+- STEM-focused instructional leaders
+
+As a California-based licensure program, candidates enrolled in the SCSE minor must satisfy requirements in addition to the courses listed below. Please refer to the information about these requirements in the Credential Programs section of the Rossier School section of the catalogue.
+
+##### The required course work consists of 20 units. Core Courses (Each course is 4 units):
+
+- EDUC 477 – Explores community-driven sustainability initiatives, integrating environmental literacy with STEM education to design interdisciplinary projects that promote equity and civic engagement.
+- EDUC 478 – Examines how digital tools, AI and engineering practices can be leveraged to teach sustainability in STEM, with an emphasis on culturally responsive and ethical technology use.
+- EDUC 481 – Focuses on systems thinking, interdisciplinary teaching and the use of Sustainable Development Goals (SDGs) to create sustainability-focused STEM curricula.
+- EDUC 483 – Investigates how STEM education can address sustainability and career pathways while incorporating social-emotional learning and equity-based instructional practices.
+- EDUC 485 (Maymester Capstone) - A hands-on teaching experience where students design, implement and assess sustainability-focused STEM lessons in real-world classroom or community settings.
+
+##### Clinical Fieldwork and Practicum
+
+Students in the SCSE minor engage in clinical placements in secondary science classrooms and community-based sustainability projects, totaling up to 838 hours of fieldwork. The Maymester capstone experience further deepens students’ ability to apply instructional strategies and sustainability principles in authentic educational settings.
+
+##### Program Benefits
+
+- Prepares future STEM educators to integrate sustainability into science instruction
+- Equips students with interdisciplinary teaching strategies and real-world applications
+- Fulfills credentialing requirements for secondary science education in California
+- Provides hands-on experience through clinical practice in urban schools and community organizations
+- Positions graduates for careers in science education, sustainability policy, and curriculum design
+
+The SCSE minor is open to all USC undergraduates and may be completed in one or two academic years. By combining sustainability with STEM education, the program empowers students to become leaders in equity-focused science teaching and environmental advocacy.
+
+## Required Courses (20 units)
+
+---
+
+- EDUC 477 Community-Based Sustainability and STEM Education Units: 4
+- EDUC 478 Teaching STEM, Sustainability, Technology and Engineering Units: 4
+- EDUC 481 Sustainable and Equitable STEM Literacies Units: 4
+- EDUC 483 Inclusive Practices in Sustainability and STEM Education Units: 4
+- EDUC 485 Applied Teaching in Sustainable STEM Education Units: 4
+
+---

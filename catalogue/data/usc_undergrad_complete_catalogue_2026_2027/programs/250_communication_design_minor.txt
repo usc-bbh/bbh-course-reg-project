@@ -1,0 +1,69 @@
+Program Name: Communication Design Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31574
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31574&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31574
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:36Z
+Content SHA-256: 0a7d163ca17cc2831119b13f9ffeb8950eba2d6075e9eafbca2f770c93b2a1cb
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Communication Design Minor
+
+---
+
+The core of this minor is communication design. In addition to courses in design, visual literacy and digital imaging, this minor includes optional courses in business, communication, public relations and marketing, allowing students to translate their design foundation in ways that are directly relevant to their career paths. The total number of units required for the minor is 24.
+
+## Required Course (4 units)
+
+---
+
+- DES 102 Design Fundamentals Units: 4
+
+## One lower-division course (4 units), chosen from the following:
+
+---
+
+- ART 150 Introduction to Photography: Process and Concept Units: 4
+- ART 260 Introduction to Video: Projection and Virtual Worlds in Art Units: 4
+- CRIT 150gp Histories of Art, Design and Visual Culture Units: 4
+- DES 202 Design II Units: 4 (corequisite: DES 203 or former FADN 203)
+
+## Four upper-division courses (16 units), chosen from the following:
+
+---
+
+- ACCT 410x Foundations of Accounting Units: 4
+- ART 360 Video Installation and Moving Image Environments Units: 4
+- ART 361 Post-Internet Art and Aesthetics Units: 4
+- ART 362 Ideas in Intermedia Units: 4
+- BAEP 423 Management of Small Businesses Units: 4
+- BAEP 451 The Management of New Enterprises Units: 4
+- BAEP 452 Feasibility Analysis Units: 4
+- BUAD 307 Marketing Fundamentals Units: 4
+- COMM 321 Communication and Social Media Units: 4
+- COMM 339 Communication Technology and Culture Units: 4
+- COMM 340 The Cultures of New Media Units: 4
+- COMM 375 Business and Professional Communication Units: 4
+- DES 302 Design III Units: 4
+- DES 303 Advanced Digital Design Units: 2
+- DES 313 Graphic Design in Fashion Units: 4
+- DES 323g Design Theory Units: 4
+- DES 332a Typography Units: 2
+- DES 332b Typography Units: 2
+- DES 333 New York Design Study Tour Units: 2
+- DES 402 Advanced Design Projects Units: 4 max 12
+- DES 432 Special Projects in Design Units: 2
+- DES 433 International Design Study Tour Units: 2
+- MKT 405 Marketing Communication and Promotion Strategy Units: 4
+- MKT 406 Practicum in Marketing Communication and Promotion Design Units: 4.0
+- MKT 450 Consumer Behavior and Marketing Units: 4
+- PR 340 Introduction to Advertising Units: 4
+
+---

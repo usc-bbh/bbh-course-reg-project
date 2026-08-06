@@ -1,0 +1,86 @@
+Program Name: Real Estate Development (BS)
+Credential: BS
+School or Academic Unit: Price School
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32306
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32306&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32306
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:05Z
+Content SHA-256: 2e7604118f69c73a085991a893d1229d9d6617d1a26908b93b4c2b828360e75c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Real Estate Development (BS)
+
+---
+
+Price School students are trained to look at the interaction between people and place and the consequences for our communities. The Bachelor of Science in Real Estate Development explores the broader context of real estate allowing students to launch their careers by grasping the full structure of the industry and its role in society. The foundational core courses integrate the many disciplines that are the basis for real estate education, including accounting, economics and business finance. The real estate core classes taken through the Price School focus on real estate principles, financial analysis, market analysis, land use policy, urban design and the history of cities. Students also select electives to complement their interests from either the Price School or closely related disciplines. Throughout, the students’ education will be connected to professional practice, as exemplified by the mandatory internship. Finally, the major is structured to provide students with sufficient elective credits to explore minors or other programs at USC so they can broaden their education to better prepare themselves for the next stage of their lives.
+
+#### Double Major
+
+Students who wish to pursue the Bachelor of Science in Real Estate Development as a second major must satisfy all university requirements for a second major and complete 32 units unique to the Real Estate Development major.
+
+## Pre-major Requirements (8 units)
+
+---
+
+- ECON 203g Principles of Microeconomics Units: 4
+- MATH 117g Precalculus for Business and Economics Units: 4
+
+## Foundational Core (22 units)
+
+---
+
+- ACCT 410x Foundations of Accounting Units: 4
+-
+- BUAD 306 Business Finance Units: 4 or
+- BUAD 308 Advanced Business Finance Units: 4 or
+- RED 325 Introduction to Finance in Cities Units: 4
+-
+- PPD 245g The Urban Context Units: 4 *
+- PPD 303 Statistics for Policy, Planning, and Development Units: 4
+- RED 200 Introduction to Real Estate Units: 4
+- RED 201 Real Estate Career Seminar Units: 2
+
+### Note:
+
+---
+
+*May double count as general education.
+
+## Real Estate Core (24 units)
+
+---
+
+- RED 362 Real Estate Development Fundamentals Units: 4
+- RED 375 Real Estate Development Analysis Units: 4
+- RED 417 History of Planning and Development Units: 4
+- RED 425 Designing Livable Communities Units: 4
+- RED 435 Analyzing Real Estate Markets Units: 4
+- RED 437 Advanced Finance and Investment for Real Estate Development Units: 4
+
+## Additional Requirements
+
+---
+
+### Real Estate Electives (11-12 units)
+
+Students select 11-12 units of course work from the Price School or in related fields. Elective classes must be approved by the Price School academic adviser.
+
+### Capstone (4 units)
+
+Students will complete four units of a capstone experience during their senior year. This may be fulfilled by taking PPD 431 Undergraduate Policy, Planning, and Development Studio (4) or PPD 497a Senior Thesis , PPD 497b Senior Thesis (2-2). Students wishing to enroll in PPD 497a , PPD 497b must have a 3.7 GPA in Price School courses and an overall 3.5 GPA.
+
+### Internship (1 unit)
+
+Students are required to complete 140 hours of while concurrently enrolled in RED 301 Real Estate Internship Seminar. Internships are matched as closely as possible to the student’s interests and skills. RED 301 and the internship provide opportunities to develop and formulate future career goals, as well as to gain personal and professional experience while completing the undergraduate degree.
+
+### Honors
+
+Price School honors are available at graduation to qualified students and result in a special designation of departmental honors on a student’s transcript. Achievement of Price School honors requires a 3.7 GPA in Price School major courses, a 3.5 overall GPA, as well as nomination by the professor of the capstone experience. In addition, students must earn an A in their capstone course (PPD 431 or PPD 497a , PPD 497b ).
+
+---

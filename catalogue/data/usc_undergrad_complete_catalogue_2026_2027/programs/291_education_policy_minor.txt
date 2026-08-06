@@ -1,0 +1,42 @@
+Program Name: Education Policy Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32641
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32641&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32641
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:04Z
+Content SHA-256: aa3d717f6bdf7129ce490fa36b247d600aa6107e3ec628c6d317032c169296ae
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Education Policy Minor
+
+---
+
+Education is one the largest expenditures of state and local governments, and educational costs continue to rise. Yet many are dissatisfied with the performance of the education system—both the low levels of achievement relative to our international peers and the considerable opportunity and achievement gaps that separate racial/ethnic and socioeconomic groups. As governments face increasingly tight budgets, they are turning to new and novel policies and interventions to address our educational challenges.
+
+The 20-unit minor is designed to equip students with both substantive and methodological skills relating to the analysis of education policy. Students gain from the expertise of faculty in the Sol Price School of Public Policy and the USC Rossier School of Education. The program’s content courses introduce students to the most pressing policy issues in education today.
+
+## Required Courses (16 units)
+
+---
+
+- EDUC 431 Education Policy in the United States Units: 4
+- EDUC 432 Inequality in Education Units: 4
+- PPD 225 Solving Public Problems Units: 4
+- PPD 315 Analytic Foundations for Public Policy Units: 4
+
+## Electives (4 units)
+
+---
+
+- PPD 240g Citizenship and Public Ethics Units: 4
+- PPD 300 Social Justice Issues in Public Policy and Urban Planning Units: 4
+- PPD 303 Statistics for Policy, Planning, and Development Units: 4
+
+---

@@ -1,0 +1,59 @@
+Program Name: Physics/Computer Science (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31887
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31887&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31887
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:50Z
+Content SHA-256: 4c2d3dbb19dc618772158a1b4c75e533510aa8b0e4410bb86411eac02c102d6a
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Physics/Computer Science (BS)
+
+---
+
+This program is intended for students with dual interests in physics and computer science who wish to complete the essential courses for both majors within their normal four-year career.
+
+## Required Lower-Division Courses
+
+---
+
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 104L Data Structures Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+- CSCI 201 Principles of Software Development Units: 4
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4
+- MATH 226g Calculus III Units: 4
+- PHYS 161Lg Advanced Principles of Physics I Units: 4
+- PHYS 162L Advanced Principles of Physics II Units: 4
+- PHYS 163L Advanced Principles of Physics III Units: 4
+- PHYS 190 Physics Discovery Series Units: 4
+
+## Required Upper-Division Courses
+
+---
+
+- CSCI 350 Fundamentals of Operating Systems Units: 4
+- CSCI 356 Computer Systems Units: 4
+- MATH 445 Mathematics of Physics and Engineering II Units: 4
+- PHYS 304 Mechanics Units: 4
+- PHYS 408a Electricity and Magnetism Units: 4
+- PHYS 408b Electricity and Magnetism Units: 4
+- PHYS 438a Introduction to Quantum Mechanics and its Applications Units: 4
+
+## Total units: 80
+
+---
+
+For those wishing to pursue an honors degree, a senior thesis with at least 2 units of PHYS 495 is also required. Students who maintain a GPA of at least 3.5 in physics courses are eligible for graduation with honors, or high honors with a GPA of at least 3.8.
+
+---

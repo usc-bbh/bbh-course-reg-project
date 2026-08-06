@@ -1,0 +1,61 @@
+Program Name: Mobile App Development Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32129
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32129&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32129
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:58Z
+Content SHA-256: 6d5ea2f87e8725bca95dd30bde1e433dec5c945bf8fadede69b3d2215e0f689e
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Mobile App Development Minor
+
+---
+
+Students pursuing this minor will study and gain experience with the technologies, tools, frameworks, and languages that are most commonly used in developing apps for mobile devices such as smartphones and tablets. They will learn: the fundamentals of programming languages widely used to develop mobile apps; how to design mobile interfaces; how to use the libraries to build apps that have the proper look and feel; how to design and handle user input; and the essential principles of mobile apps in order to be prepared for the new technologies and frameworks that are constantly being developed. Students in this minor will have the opportunity to build a mobile app from the initial idea all the way to a finished product.
+
+Students should meet the regular admissions standards and have a declared USC major. Students will complete an application for the minor with the Viterbi School of Engineering. For specific information on admission and application procedures, contact the Information Technology Program at (213) 740-4542.
+
+The minor requires a minimum of 18 units.
+
+## Required courses (10 units)
+
+---
+
+### Complete the following (6 units)
+
+---
+
+ITP 115 or 116 may be waived with demonstrated prior Python programming experience
+
+- TAC 115 Programming in Python Units: 2 or
+- TAC 116 Accelerated Programming in Python Units: 2
+- TAC 265 Software Design with Object-Oriented Programming Units: 4
+
+### Complete one of the following (4 units)
+
+---
+
+- TAC 341 Android App Development Units: 4
+- TAC 342 iOS App Development Units: 4
+
+## Choose two elective courses (8 units minimum)
+
+---
+
+- TAC 303 Full-Stack Web Development Units: 4
+- TAC 310 Design for User Experience Units: 4
+- TAC 341 Android App Development Units: 4
+- TAC 342 iOS App Development Units: 4
+- TAC 344 Advanced iOS App Development Units: 4
+- TAC 345 Advanced Android App Development Units: 4
+- TAC 368 Cross-Platform App Development with Flutter Units: 4
+- TAC 382 Mobile Game Development Units: 4
+
+---

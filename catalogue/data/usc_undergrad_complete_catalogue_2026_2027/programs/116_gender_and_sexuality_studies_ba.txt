@@ -1,0 +1,56 @@
+Program Name: Gender and Sexuality Studies (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32623
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32623&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32623
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:32Z
+Content SHA-256: e055e875f8f621171272b866435466b6e91f422108cf040fb100a0acc0c13694
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Gender and Sexuality Studies (BA)
+
+---
+
+The Department of Gender and Sexuality Studies offers students the opportunity to examine the forces behind the cultural and historical production of gender, including their relationship to other factors including race, class, ability, nationalism and colonialism. The department aims for its students to develop competencies in critical thinking; research skills; community-engaged creativity and collaboration; feminist knowledge production; intersectionality; queer and transgender theory; justice, equality, and power; transnationalism; and decoloniality. The Gender and Sexuality Studies curriculum analyzes how gender and sexuality operate in politics, popular culture, the professional sphere, intimate life, health, technology, science, sports and the very production of knowledge itself. With this rigorous understanding of the shifting terrain of contemporary power relations, graduates will be able to identify, resist and transform oppressive systems in their personal and professional lives. The interdisciplinary major in Gender and Sexuality Studies will prepare students to enter graduate programs in the humanities and social sciences and in professional schools including law, business, education, and health care. In addition, the curriculum equips students for careers in industry, including the media, arts, communication, governmental and non-governmental organizations and public service.
+
+The major in Gender and Sexuality Studies requires completion of 40 undergraduate units (usually ten 4-unit courses).
+
+## Lower Division
+
+---
+
+For the lower division, two of the following courses may be selected as the requirement:
+
+- SWMS 210gmw Social Analysis of Gender Units: 4
+- SWMS 212gp Introduction to Gender and Sexuality: American Perspectives Units: 4
+- SWMS 215gw Introduction to Gender and Sexuality: International Perspectives Units: 4
+-
+- SWMS 219gp Introduction to Feminist Theory Units: 4 or
+- SWMS 221g Introduction to Queer Theory Units: 4
+
+## Upper Division
+
+---
+
+Thirty-two units of upper-division SWMS courses are required. Of these, students are required to complete SWMS 308 , SWMS 311 , SWMS 392 and SWMS 410 .
+
+- SWMS 308 Advanced Gender Theory Units: 4
+- SWMS 311 Gender and Sexuality Studies: Internship Units: 2, 4, 8
+- (4 units required)
+- SWMS 392 Junior Seminar in Gender and Sexuality Studies Units: 4
+- SWMS 410 Senior Seminar in Gender and Sexuality Studies Units: 4
+
+## Honors Program Requirements
+
+---
+
+The Department of Gender and Sexuality Studies offers a two-semester honors program, in which qualified students spend their first semester in an honors track in an upper-division seminar, SWMS 410 Senior Seminar in Gender and Sexuality Studies . During the second semester, all honors students are required to take SWMS 492 Gender and Sexuality Studies: Honors Thesis , in which each completes a thesis project on a topic of his or her choosing under faculty direction. Contact the departmental honors director for further information. To graduate with honors, department majors must have a minimum GPA of 3.5 in their major course work.
+
+---

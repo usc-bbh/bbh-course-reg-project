@@ -1,0 +1,170 @@
+Program Name: Human Technology Interaction (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32920
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32920&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32920
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:05Z
+Content SHA-256: 7d33a6038805a049c5f284409757c38dd89583e34e6f81e82c724ccf754f5fb9
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Human Technology Interaction (BS)
+
+---
+
+The Bachelor of Science in Human Technology Interaction (BS HTI) is offered by the Iovine Young Academy, a global educational leader in product and process innovation. The degree is offered in partnership with the Viterbi School of Engineering and in collaboration with four other USC schools (Dornsife, Keck, Annenberg and Rossier). The degree prepares students for careers in Full Stack Development for Emerging Technologies (Interactive AI, Extended Reality, Data and Decision systems, IoT and Physical Computing). Graduates are able to collaborate with diverse stakeholders to develop and implement novel strategies for integrating emerging technologies into products and processes in a manner that leverages the interaction of human expertise with emerging technologies and advances improved performance of human experts and overall product/process innovation. Students develop integrated expertise across front end, back end and API development as well as complementary skills in product design and product management.
+
+Students complete the IYA sequences of courses on interaction design, technology development and business management and a Viterbi sequence of courses on software development. They complement this knowledge with HTI electives spanning the sciences, humanities, communication, medicine and education.
+
+The degree leverages the IYA’s unique Challenge Based Reflective Learning Framework that motivates learning through complex sociotechnical challenges provided by industry and community partners. Students and industry partners work together to learn how to spot challenges and generate creative responses in complex and often under-explored territories. To accomplish this, students work in and out, back and forth and through a series of stages for product innovation: discern, prompt, prototype and iterate.
+
+The degree requires at least 128 units for program completion.
+
+## Challenge Based Reflective Learning Required Courses (16 Units)
+
+---
+
+Any 2-unit course needs to be taken twice for 4 units.
+
+- ACAD 174 Innovators Forum Units: 2
+-
+- ACAD 376 Industry Practicum I: Designing and Implementing Real-World Solutions Units: 4 or
+- ACAD 419 Professional Internship Units: 1, 2 or
+- ACAD 450 Industry and Impact Projects Units: 2
+-
+- ACAD 475a The Garage Experience Units: 4
+- ACAD 475b The Garage Experience Units: 4
+
+## HTI Design Sequence Required Courses (12 Units)
+
+---
+
+- ACAD 176 Rapid Visualization Units: 4
+- ACAD 325 Human Technology Interaction and the User Experience Units: 4
+- ACAD 360 Design Strategy: Problem Solving for Organizations Units: 4
+
+## Business Courses in Product and Process Innovation Requirements (8 Units)
+
+---
+
+- ACAD 183 Product Management for Challenge-Based Innovation Units: 4
+-
+- ACAD 184 Operations Management and Finance for Challenge-Based Innova Units: 4 or
+- ACAD 185 Analytics and Marketing for Challenge-Based Innovation Units: 4
+
+## IYA Technology Requirements (12 Units)
+
+---
+
+Choose 12 units from ONE area below:
+
+### Extended Reality
+
+---
+
+- ACAD 217 Extended Reality Design Units: 4
+- ACAD 288 Constructing Digital Worlds Units: 4
+- IDSN 537 Extended Reality for Fashion Units: 4
+- IDSN 539 Extended Reality Development Units: 4
+- IDSN 574 Extended Reality in Medicine Units: 4
+
+### Interactive AI
+
+---
+
+- ACAD 191 Python for Machine Intelligence Units: 2
+- ACAD 220 Introduction to Data Innovation and Analytics Units: 4
+- ACAD 222 Introduction to Machine Intelligence Units: 4
+- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- IDSN 543 Augmented Intelligence Units: 4
+- IDSN 544 Transformative Artificial Intelligence in Society Units: 4
+
+### IoT and Physical Computing
+
+---
+
+- ACAD 230 Introduction to Interactive Physical Computing Units: 4
+- ACAD 535 Ambient Computing for Fashion Units: 4
+- IDSN 567 Materials Science for Product Design Units: 4
+- IDSN 571 Devices and Systems for Body Computing Units: 4
+- IDSN 572 Embedded Computing for Human Performance Units: 4
+
+### Web and App Development
+
+---
+
+- ACAD 275 Dev I Units: 4
+- ACAD 276 Dev II Units: 4
+- ACAD 415 Dev III: Designing Applications for Emerging Platforms Units: 4
+-
+- ACAD 404 Advanced Front-End Web Development Units: 4 or
+- ACAD 405 Advanced Back-End Web Development Units: 4
+- IDSN 533 iOS Application Design and Development Units: 4
+
+## Software Development Requirements – Viterbi School of Engineering (20 Units)
+
+---
+
+Enrollment in CSCI 103L requires (a) taking CSCI 102L , or (b) prior introductory programming in Java or C++ and passing the CSCI 102 challenge exam.
+
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 104L Data Structures Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+- CSCI 201 Principles of Software Development Units: 4
+- CSCI 310 Software Engineering Units: 4
+
+## HTI Elective within Viterbi School of Engineering (4 units)
+
+---
+
+Note that some of the courses below have additional prerequisites.
+
+- CSCI 445L Foundations of Robotics Units: 4
+- DSCI 352 Applied Machine Learning and Data Mining Units: 4
+- ISE 370L Human Factors in Work and Systems Design Units: 4
+- ISE 440 Socio-Technical Systems and Work Organizations Units: 4
+- ISE 470 Human/Computer Interface Design Units: 4
+- TAC 359 Applied Neural Networks Units: 4
+- TAC 449 Applications of Machine Learning Units: 4
+- TAC 459 Applied Natural Language Processing and Generative AI Units: 4
+
+## HTI Electives from Keck, Annenberg, Dornsife, Marshall, Rossier (12 Units)
+
+---
+
+Choose 12 units from the following (or other approved electives from these schools):
+
+- ARCG 305Lg Virtual and Digital Culture, Heritage and Archaeology Units: 2, 4
+- BIOC 581 Toolbox for Biochemistry and Molecular Biology Units: 2, 4
+- BISC 408 Systems Neuroscience: From Synapses to Perception Units: 4
+- BUAD 310g Applied Business Statistics Units: 4
+- DSO 470 Optimization and Analytics for Better Decisions using GenAI Units: 4
+- ECON 415 Behavioral Economics Units: 4
+- MDA 423 User Experience Units: 4
+- MEDS 445 Cancer: Biology, Prevention and Therapy from the Bench to the Bedside Units: 4
+- OHNS 303 Telehealth and Assistive Technology in SLP Units: 4
+- PSYC 301L Cognitive Processes Units: 4
+- PSYC 304L Sensation and Perception Units: 4
+- PSYC 423 User Experience Units: 4
+- PSYC 440 Foundations of Cognitive Neuroscience Units: 4
+- PSYC 454 Social Cognition Units: 4
+
+## Additional Domain-Specific Electives (8 Units)
+
+---
+
+Take an additional 8 units of elective course work with adviser approval.
+
+## University General Education and Writing Requirements
+
+---
+
+The university requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education .
+
+---

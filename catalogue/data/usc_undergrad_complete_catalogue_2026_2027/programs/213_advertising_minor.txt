@@ -1,0 +1,51 @@
+Program Name: Advertising Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31968
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31968&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31968
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:09Z
+Content SHA-256: ccc5e1934ce81d3aab34f6613a651c3374363a558f7a210c34bbc83dce6fc0db
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Advertising Minor
+
+---
+
+The advertising minor is designed for students interested in building a career in, or developing a better understanding of, the field of advertising. It explores the key role played by advertising in today’s global economy. At no time has advertising been more successful or more controversial than it is today, and this program will explore both the positives and the negatives. Emphasis is placed throughout the program on both the practical skills required to meet the demands of the marketplace and the theoretical underpinnings of those practices. Program content includes: the history of advertising; creation of written and visual advertising elements; the measurement, selection and analysis of media; the concept of “branding;” the role of advertising in creating and maintaining successful brands; the analysis of advertising campaign case studies; and the creation of integrated marketing communications campaigns.
+
+## Required Courses
+
+---
+
+- PR 340 Introduction to Advertising Units: 4
+- PR 431 Integrated Media Planning and Buying Units: 4
+- PR 432 Concepting: Advertising Strategy and Creative Development Units: 4
+- PR 433 Advertising and Technology Units: 4
+
+### Choose one of the following:
+
+---
+
+- MKT 406 Practicum in Marketing Communication and Promotion Design Units: 4.0
+- PR 434 Advertising Campaign Construction Units: 4
+
+### Choose one elective:
+
+---
+
+- MKT 402 Introduction to Marketing Analytics Units: 4
+- MKT 405 Marketing Communication and Promotion Strategy Units: 4
+- MKT 425 Digital Marketing Fundamentals Units: 4
+
+## Total units: 24
+
+---
+
+---

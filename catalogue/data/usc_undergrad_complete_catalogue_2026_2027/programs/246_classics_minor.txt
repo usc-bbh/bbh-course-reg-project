@@ -1,0 +1,62 @@
+Program Name: Classics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31745
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31745&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31745
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:27Z
+Content SHA-256: 4f3a367018a06c5394a52c574f6ebcc6f28899cd5a0da4cb6470746c0151cb3d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Classics Minor
+
+---
+
+The classics department minor requires one lower-division Classics course or one third-semester Latin or Greek course, and four upper-division Classics, Latin or Greek courses.
+
+## One course from either A or B:
+
+---
+
+Lower-division course
+
+### A.
+
+---
+
+Lower division Classics courses
+
+- CLAS 101gp State and Society in the Ancient World Units: 4
+- CLAS 150gp The Greeks and their Legacies Units: 4
+- CLAS 151gp The Legacy of Rome Units: 4
+- CLAS 160gp Ancient Lives Units: 4
+- CLAS 180g Classical Mythology and the Mythic Imagination Units: 4
+- CLAS 275gp The Byzantine Empire, 324 - 1453 Units: 4
+- CLAS 280gp Classical Mythology in Art and Literature Units: 4
+
+### B.
+
+---
+
+Third semester Latin or Greek courses:
+
+- GR 220 Greek III Units: 4
+- LAT 222 Latin III Units: 4
+
+## Additional Requirements
+
+---
+
+Four upper-division courses (16 units) drawn from classics course offerings in Classics, Latin or Greek
+
+## Total: 5 courses
+
+---
+
+---

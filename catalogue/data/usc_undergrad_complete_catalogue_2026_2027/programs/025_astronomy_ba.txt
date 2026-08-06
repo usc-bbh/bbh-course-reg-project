@@ -1,0 +1,55 @@
+Program Name: Astronomy (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31889
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31889&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31889
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:52Z
+Content SHA-256: eea02c5276ce1967c4d57842da481c82f89f84e0e3cc9c9d0fcc888a1ea4fe69
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Astronomy (BA)
+
+---
+
+This program is intended for students with an interest in astronomy who may not intend to pursue a career in the field.
+
+## Required Lower-Division Courses
+
+---
+
+- ASTR 110 The Universe for Astronomy Majors Units: 4
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+- MATH 226g Calculus III Units: 4
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+- PHYS 161Lg Advanced Principles of Physics I Units: 4 *
+- PHYS 162L Advanced Principles of Physics II Units: 4 *
+- PHYS 163L Advanced Principles of Physics III Units: 4 *
+- PHYS 190 Physics Discovery Series Units: 4
+
+## Required Upper-Division Courses
+
+---
+
+- ASTR 350 Astrophysics I Units: 4
+- ASTR 400 The Solar System Units: 4, 2 years
+- ASTR 422 Galaxies and Large-Scale Structures in the Universe Units: 4, 2 years
+- ASTR 424 Cosmology Units: 4
+- PHYS 304 Mechanics Units: 4
+- PHYS 316 Thermodynamics and Statistical Mechanics Units: 4
+- PHYS 492L Senior Lab Units: 4
+
+## Total units: 64
+
+---
+
+*PHYS 151L , PHYS 152L and PHYS 153L may be substituted for the sequence PHYS 161L , PHYS 162L and PHYS 163L .
+
+---

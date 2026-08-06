@@ -1,0 +1,48 @@
+Program Name: Business Law Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31600
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31600&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31600
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:01Z
+Content SHA-256: 1f597c0dd81d4ab98fab80c6bddf2b67f0174f68318e9f15ed6cfc5a2b346ac0
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Business Law Minor
+
+---
+
+The minor in business law will provide students with practical legal knowledge of substantive business law topics and current legal issues. The minor provides skill sets to identify and manage issues encountered within personal and business contexts including litigation, contract law, employment and human resources, real and personal property law. This minor exposes students to such topics as: commercial transactions, constitutional law, Internet and online commerce; intellectual property and entertainment law; bankruptcy and securities law; law of business and non-profit organizations; and international law.
+
+It also prepares students for career opportunities in management, technology and politics. The minor is an excellent preparation for further legal education.
+
+To enroll, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of at least 2.75.
+
+A minimum of 16 units is required to complete the minor.
+
+## Required Courses
+
+---
+
+- FBE 403 Introduction to the Legal Environment of Business Units: 4
+- FBE 458 Law of Forming, Financing and Managing Businesses Units: 4
+
+## Electives
+
+---
+
+Choose two of the following:
+
+- FBE 427 Real Estate Law Units: 4
+- FBE 428 Introduction to Employment Law Units: 4
+- FBE 429 International Business Law Units: 4
+- LAW 350 Law and Entrepreneurship Units: 4
+- Return to: USC Marshall School of Business
+
+---

@@ -1,0 +1,79 @@
+Program Name: Game Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31686
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31686&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31686
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:03:02Z
+Content SHA-256: b7fadacaa027722d2da825e7e804d7c7f18e825763d09c18c149f579fd158bcf
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Game Studies Minor
+
+---
+
+Games are a major cultural form, with game sales now exceeding box office revenue in the United States. Attention to games and interactive media is growing, and it has become necessary to understand them as meaningful systems, reflect on their cultural influence, and to help guide their evolution with insightful criticism. The game studies minor prepares a student with fundamental underpinnings in media criticism and games.
+
+To be eligible for the game studies minor, a student must be in good academic standing and have a declared major. To declare the game design minor a student must get permission from the Interactive Media and Games Division (SCI 201) and submit a Change of Major/Minor form to Cinematic Arts Student Affairs (SCB 105).
+
+#### Course Requirements for the Minor:
+
+A total of 24 units is required for the game design minor, at least 6 lower-division units and at least 14 upper-division units.
+
+## Lower-division Core Units (6 Units)
+
+---
+
+- CTIN 101 Fundamentals of Procedural Media Units: 2
+- CTIN 190 Introduction to Interactive Entertainment Units: 4
+
+## Upper-division Core Units (10 Units)
+
+---
+
+- CTIN 462 Video Game Franchises Units: 4
+- CTIN 464 Game Studies Seminar Units: 2
+- CTIN 488 Game Design Workshop Units: 4
+
+## Electives (8 Additional Units)
+
+---
+
+- AHIS 363m Contemporary Art and the Culture Wars Units: 4
+- AHIS 429 Studies in Art, Science, and Technology Units: 4
+- ANTH 123gp Forms of Folklore Units: 4
+- COMM 340 The Cultures of New Media Units: 4
+- COMM 350 Video Games: Business, Science and Culture Units: 4
+- CTCS 367 Global Media Units: 4
+- CTCS 412 Gender, Sexuality and Media Units: 4
+- CTCS 469 Film and/or Television Style Analysis Units: 4
+- CTCS 478 Culture, Technology and Communications Units: 4
+- CTCS 482 Transmedia Entertainment Units: 4
+- CTIN 289 Game Development Fundamentals Units: 4
+- CTIN 463 Anatomy of a Game Units: 4
+- CTIN 492L Experimental Game Topics Units: 4
+- CTWR 410L Character Development and Storytelling for Games Units: 4
+- HIST 380 American Popular Culture Units: 4
+- IML 466 Digital Studies Symposium Units: 2
+- JOUR 381 Entertainment, Business and Media in Today’s Society Units: 4
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 403 The Performing Arts Units: 4
+- THTR 405m Performing Identities Units: 4
+- THTR 406 Theatre on the Edge Units: 4
+- THTR 488mw Theatre in the Community Units: 4
+
+## Additional Requirements
+
+---
+
+#### Grade Point Average Requirement
+
+A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.
+
+---

@@ -1,0 +1,145 @@
+Program Name: Computer Science (BS)
+Credential: BS
+School or Academic Unit: Viterbi First-Year Academy
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32086
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32086&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32086
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:26Z
+Content SHA-256: 6c19c6881decd069bdf431272cbb088ef330d3845dcc48b92d56baae900f2385
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Computer Science (BS)
+
+---
+
+The undergraduate program in computer science is an interdisciplinary program leading to the Bachelor of Science in Computer Science. The program is designed to provide both an academic and professional orientation.
+
+General admission requirements for the undergraduate program are the same as those of the university and the USC Viterbi School of Engineering and include 3 to 5 units of mathematics and one unit of science (biology, chemistry or physics). The minimum requirement for the degree is 128 units.
+
+A grade of C (2.0) or better is required for each of the core courses CSCI 102L , CSCI 103 , CSCI 170 , CSCI 104 and CSCI 201 .
+
+Courses with a grade of C- or below must be repeated; courses may only be retaken once.
+
+Departmental approval is required in order to retake a course.
+
+Students who do not satisfy the degree requirement after repeating a class will be disqualified from the program.
+
+A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper division courses applied toward the major, regardless of the department in which the courses are taken. Candidates must complete general education requirements; see the General Education Program.
+
+## Composition/Writing Requirements (8 Units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4 [*]
+
+## General Education (20 Units)
+
+---
+
+- General Education Units: 20
+
+## Pre-Major Requirements (30 Units)
+
+---
+
+### Engineering (2 units)
+
+---
+
+- ENGR 102 Viterbi First-Year Academy Units: 2
+
+### Mathematics (16 units)
+
+---
+
+Note: Both MATH 125 and MATH 126 satisfy the GE-F Quantitative Reasoning general education requirement.
+
+- MATH 125g Calculus I Units: 4
+-
+- MATH 126g Calculus II Units: 4 or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- MATH 235 Linear Algebra and Applications Units: 4
+-
+- MATH 226g Calculus III Units: 4 or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+
+### Statistics and Probability (4 units)
+
+---
+
+- EE 364 Probability and Statistics for Engineers and Computer Scientists Units: 4
+
+### Life Sciences (4 units)
+
+---
+
+Take one of the following life science courses, each of which satisfies the GE-D Life Sciences requirement.
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4 or
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+
+### Physical Sciences (4 units)
+
+---
+
+Take one of the following science courses, each of which satisfies the GE-E Physical Sciences requirement.
+
+- CHEM 105aLg General Chemistry Units: 4 or
+- CHEM 115aLg Advanced General Chemistry Units: 4 or
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 or
+- PHYS 161Lg Advanced Principles of Physics I Units: 4
+
+## Major Requirements (66 Units)
+
+---
+
+### Computer Science (46 units)
+
+---
+
+- CSCI 102L Introduction to Programming Units: 2
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 104L Data Structures Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+- CSCI 201 Principles of Software Development Units: 4
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4
+- CSCI 310 Software Engineering Units: 4
+- CSCI 350 Fundamentals of Operating Systems Units: 4
+- CSCI 353 Internetworking Units: 4
+- CSCI 356 Computer Systems Units: 4
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4
+- CSCI 401 Capstone: Design and Construction of Large Software Systems Units: 4
+
+### Electrical Engineering (4 units)
+
+---
+
+- EE 109L Introduction to Embedded Systems Units: 4
+
+### Core Electives (16 units)
+
+---
+
+Take at least four 300- or 400- level CSCI courses for a minimum of 16 units.
+
+## Free Electives (4 Units)
+
+---
+
+## Total Units: 128
+
+---
+
+[*]WRIT 340 Advanced Writing and Critical Engagement (Communication for Engineers) is strongly recommended for CSCI majors.​​​​​​​
+
+---

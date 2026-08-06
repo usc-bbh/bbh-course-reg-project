@@ -1,0 +1,59 @@
+Program Name: Business Economics Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31598
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31598&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31598
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:55Z
+Content SHA-256: 905179d576141198495356861dfd5a06a33facc1f0223078588d944db17b85d9
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Business Economics Minor
+
+---
+
+This minor is available to students of all majors except economics. This minor teaches students to think strategically about business. It integrates economic ideas with practical applications in the real world. Students who minor in business economics learn to think like leaders in business firms. This minor approaches problems conceptually, proceeding from the general economic theories to specific real world applications. This gives students a higher level of understanding of business opportunities and problems.
+
+Many students in disciplines other than business need economic skills that focus on business. This minor teaches a combination of the ideas, skill sets and methodological approaches used in business economics. Students develop economic reasoning skills related to real-world problems and opportunities.
+
+To enroll, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of at least 2.75. Completion of this minor requires a minimum GPA of 2.0 for the 20 units applied to the minor.
+
+## Required Courses (12 Units)
+
+---
+
+- MATH 118gx Calculus for Business and Economics Units: 4
+- BUAD 351 Economic Analysis for Business Decisions Units: 4
+- or
+- ECON 351x Microeconomics for Business Units: 4
+- BUAD 352 Macroeconomic Analysis for Business Decisions Units: 4
+- or
+- ECON 352x Macroeconomics for Business Units: 4
+
+## Electives (8 units)
+
+---
+
+Choose two from the list below:
+
+- FBE 402 Government and Business Units: 4
+- FBE 416 Managerial Economics Units: 4 [*]
+- FBE 424 Financial Institutions and Capital Markets Units: 4 *
+- FBE 443 Introduction to Forecasting and Risk Analysis Units: 4 [*]
+- FBE 462 International Trade, Finance and Commercial Policy Units: 4 *
+
+## Note:
+
+---
+
+[*]Prerequisite required
+
+Return to: USC Marshall School of Business
+
+---

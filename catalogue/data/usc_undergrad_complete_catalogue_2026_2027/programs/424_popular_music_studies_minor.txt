@@ -1,0 +1,42 @@
+Program Name: Popular Music Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32249
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32249&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32249
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:16Z
+Content SHA-256: f2d5f04f356951386d72bae9c2abd634be4ef238b6cf97817f0f33b52d36074a
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Popular Music Studies Minor
+
+---
+
+This minor consists of courses that examine different aspects of popular music. The minor focuses on the study of the repertories and their cultural and social context. Students must be in good academic standing to be admitted. No previous musical experience is required.
+
+## Course Requirements (16 units total)
+
+---
+
+Choose 16 units from the following:
+
+- MUSC 102gw World Music Units: 4
+- MUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4
+- MUSC 210g Electronic Music and Dance Culture Units: 4
+- MUSC 250gmw The Music of Black Americans Units: 4
+- MUSC 320gmw Hip-hop Music and Culture Units: 4
+- MUSC 373g Writing About Popular Music Units: 4
+- MUSC 422 The Beatles: Their Music and Their Times Units: 4
+- MUSC 423 Classic Rock: Popular Music of the Sixties and Seventies Units: 2
+- MUSC 424 Iconic Figures of Popular Music Units: 2
+- MUSC 444 American Roots Music: History and Culture Units: 4
+- MUSC 460 Film Music: History and Function from 1930 to the Present Units: 4
+- MUSC 465 Music, Television and American Culture Units: 4
+
+---

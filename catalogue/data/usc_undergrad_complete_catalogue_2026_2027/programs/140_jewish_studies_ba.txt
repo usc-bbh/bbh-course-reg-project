@@ -1,0 +1,116 @@
+Program Name: Jewish Studies (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32429
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32429&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32429
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:23Z
+Content SHA-256: 3b2381e2ccee238df80d5c4a0a533c66ea79001c3fbec4cfa4beaffe489df5de
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Jewish Studies (BA)
+
+---
+
+The interdisciplinary major in Jewish Studies investigates the study of Jewish religion, history, culture and languages through a variety of academic perspectives. Students can work with scholars in the School of Religion in USC Dornsife College, the Louchheim School for Judaic Studies at Hebrew Union College-Jewish Institute of Religion and faculty across the USC campus trained in religious studies, Jewish thought, history, linguistics, literature, international relations, political science, music and sociology. The curriculum is designed to allow students options in combining courses that focus on Judaism as a religion with those that focus on history, literature and other forms of Jewish culture and civilization.
+
+## Major Requirements
+
+---
+
+Students choose among courses that focus on Judaism as a living religious system and those that focus on Jewish history, culture and society in its global setting.
+
+Three core courses are required: REL 301 Approaches to the Study of Religion , REL 401 Seminar in Religious Studies , and either JS 100gp Jewish History or JS 180gp Judaism .
+
+Students must choose one course from the Judaism as a Religious Tradition track and one course from the Jewish History and Culture track which are listed below.
+
+In addition, students must select three courses from either track. No more than two courses in total may come from the lower-division (100 and 200) levels. A total of eight courses are required for the degree (32 units.)
+
+## A. Core Courses
+
+---
+
+Three courses are required. Students must take REL 301 and REL 401 and select one course from either JS 100 or JS 180 .
+
+- JS 100gp Jewish History Units: 4
+- JS 180gp Judaism Units: 4
+- REL 301 Approaches to the Study of Religion Units: 4
+- REL 401 Seminar in Religious Studies Units: 4
+
+## B. Judaism as a Religious Tradition (at least one course required)
+
+---
+
+- JS 180gp Judaism Units: 4
+- JS 258gp Food and Faith Units: 4
+- JS 314gp Holy War And History: Jews, Christians, Muslims Units: 4
+- JS 321 Gender and Judaism Units: 4
+- JS 361gp Scripture and Polemic in Judaism, Christianity and Islam Units: 4
+- JS 374 Messiah: The History of an Idea Units: 4
+- JS 378gp Jewish Magic in the Ancient World Units: 4
+- JS 382g Judaism as an American Religion Units: 4
+- JS 467 Modern Jewish Thought Units: 4
+- REL 111g The World of the Hebrew Bible Units: 4
+- REL 112g Religions of Ancient Egypt and the Near East Units: 4
+- REL 114g The Mediterranean: A Religious History Units: 4
+- REL 115g Jerusalem, City of Three Faiths Units: 4
+- REL 121g The New Testament Units: 4
+- REL 132g Origins of Western Religions Units: 4
+- REL 311g The Bible in Western Literature Units: 4
+- REL 312 Biblical Wisdom Literature Units: 4
+- REL 317g The Bible in Its Ancient Context Units: 4
+- REL 359g Culture in Diaspora: The Jews of Spain Units: 4
+- REL 364 Religion and Ethics Units: 4
+- REL 394 Archaeology of Egypt and the Near East Units: 4
+- REL 473 Advanced Hebrew Bible Studies Units: 4
+
+## C. Jewish History and Culture (at least one course required)
+
+---
+
+- HEBR 315 Modern Hebrew Language (Hebrew IV) Units: 4
+- HIST 305 Women and Gender in Pre-Modern Europe Units: 4
+- HIST 323 The Holocaust in 20th Century Europe Units: 4
+- HIST 402 Cultural Heritage, Religion, and Politics in the Middle East Units: 4
+- HIST 443 Race and Religious Riots in Modern World History Units: 4
+- HIST 444 Mass Violence and Comparative Genocide in Modern World History Units: 4
+- HIST 446 Resistance to Genocide Units: 4
+- ITAL 352 The Holocaust in Italian Fiction and Film Units: 4
+- JS 100gp Jewish History Units: 4
+- JS 211gw The Holocaust Units: 4
+- JS 214 Zionism, Israel, and the Modern World Units: 4
+- JS 300 American Jewish History Units: 4
+- JS 315g Anti-Semitism, Racism and Other Hatreds Units: 4
+- JS 330 Jewish Politics in the Contemporary World Units: 4
+- JS 340 Modern Jewish History Units: 4
+- JS 342 Reading in Two Directions: Connecting Law and Literature in Jewish Tradition Units: 4
+- JS 360m Identity, Community, and Service: Jews and Other Americans Units: 4
+- JS 362 Terror and Resistance in Literature and the Media Units: 4
+- JS 370gp Digs and Dispute: Religion and Archaeology in Israel Units: 4
+- JS 379gm Mixing and Matching: Intermarriage in the 21st Century Units: 4
+- JS 381 The Jew in American Society Units: 4
+- JS 383gp Jews in American Popular Culture Units: 4
+- JS 389 Culture and Society in Israel: Inventing the Dream Units: 4
+- JS 390 Special Problems Units: 1, 2, 3, 4
+- JS 415 The American Jewish Experience in Film Units: 4
+- JS 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- JS 499 Special Topics Units: 4
+- MSCR 475 Introduction to Jewish Music Units: 2
+- REL 324g Sex and the Bible: Gender, Sexuality, and Scripture Units: 4
+- SPAN 350 Cultural Cross-Currents of the Iberian Middle Ages Units: 4
+
+## D. Major Electives (three courses required)
+
+---
+
+In addition to the three core courses in Area A and one required course in each of Areas B and C, students must complete three additional courses chosen from lists B and C. No more than two courses in total may come from the lower-division (100 and 200) levels.
+
+Jewish Studies majors are encouraged to take HEBR 120 , HEBR 150 and HEBR 220 , which fulfill the Dornsife College foreign language requirement.
+
+---

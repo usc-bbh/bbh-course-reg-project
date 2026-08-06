@@ -1,0 +1,83 @@
+Program Name: Logic Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32954
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32954&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32954
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:23Z
+Content SHA-256: b2f5a6361937d3ac7c72e7a4123c580c057025ffadfdc04b24c847b6bdcc474d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Logic Minor
+
+---
+
+The interdisciplinary Logic minor requires a minimum of 18 units, at least 16 of which must be upper-division. Students must take at least 3 courses from the combined categories of Advanced Logic, and Upper-Division Logic, Math, and Philosophy.
+
+## Logic Minor Requirements
+
+---
+
+A total of 18 units is required for the minor, at least 16 of which must be upper-division. In addition to the Foundational Logic requirement, students must complete at least three courses from the combined categories of Advanced Logic and Upper-Division Logic, Math, and Philosophy.
+
+## Foundational Logic
+
+---
+
+Students must complete the Foundational Logic requirement. Students with sufficient background in Mathematics or Computer Science, or who have already taken PHIL 220 or PHIL 222g , may—with instructor permission and on a case-by-case basis—substitute this requirement with an additional Advanced Logic course.
+
+- PHIL 350 Intermediate Logic Units: 4
+
+## Advanced Logic
+
+---
+
+Students must complete at least one course from the following list.
+
+- PHIL 450 The Limits of Logic Units: 4
+- PHIL 451 Higher-order Logic Units: 4
+- PHIL 452 Modal Logic Units: 4
+
+## Upper-Division Logic, Math, and Philosophy
+
+---
+
+Students must complete courses from this category as part of the 18-unit minor requirement. At least three total courses must be taken from the combined categories of Advanced Logic and Upper-Division Logic, Math, and Philosophy.
+
+- MATH 425a Fundamental Concepts of Analysis Units: 4
+- MATH 430 Theory of Numbers Units: 4
+- MATH 450 History of Mathematics Units: 4
+- PHIL 381 Infinity in Mathematics and Philosophy Units: 4
+- PHIL 480 Philosophy of Mathematics Units: 4
+
+## Elective Courses
+
+---
+
+Students may select from the following courses to count toward the Logic minor.
+
+- CSCI 102L Introduction to Programming Units: 2
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 113x Programming Fundamentals for Computing Units: 4
+- CSCI 114x Programming for Applications of Computing Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+- LING 303 Introduction to Semantics and Pragmatics Units: 4
+- MATH 290 Mathematical Reasoning and Problem Solving Units: 4
+- PHIL 220 Introduction to Logic Units: 4
+- PHIL 222g Logic and Language Units: 4
+- PHIL 258g Probability and Rational Choice Units: 4
+- SLL 199 Chess and Critical Thinking Units: 2
+- TAC 115 Programming in Python Units: 2
+- TAC 116 Accelerated Programming in Python Units: 2
+- TAC 165 Introduction to C++ Programming Units: 2
+- TAC 168 Introduction to MATLAB Units: 2
+- TAC 216 Applied Python Units: 2
+- TAC 265 Software Design with Object-Oriented Programming Units: 4
+
+---

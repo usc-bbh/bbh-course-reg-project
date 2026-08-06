@@ -1,0 +1,79 @@
+Program Name: Economics and Data Science (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32704
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32704&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32704
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:03Z
+Content SHA-256: 85edec70a6955192b0443b6eb5a652c3c101ed7de015a445917e9b8d7a7eb74e
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Economics and Data Science (BS)
+
+---
+
+This 60-unit major blends core economics instruction with course work in data science, computer science and mathematics to train students to apply advanced data science techniques to the analysis and formulation of economic problems.
+
+#### Admission
+
+Please visit the economics department website for the admissions guidelines.
+
+## Economics (28 units)
+
+---
+
+- ECON 203g Principles of Microeconomics Units: 4
+- ECON 205g Principles of Macroeconomics Units: 4
+- ECON 303 Intermediate Microeconomic Theory Units: 4
+- ECON 305 Intermediate Macroeconomic Theory Units: 4
+- ECON 317 Introduction to Statistics for Economists Units: 4 *
+- ECON 318 Introduction to Econometrics Units: 4
+- ECON 460 Economic Applications of Machine Learning Units: 4
+
+### Note:
+
+---
+
+*The sequence MATH 307 /MATH 308 or the sequence MATH 407 /MATH 408 may be substituted for ECON 317 .
+
+## Mathematics (12 units)
+
+---
+
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4
+
+## Computer Science (6 units)
+
+---
+
+- CSCI 102L Introduction to Programming Units: 2
+- CSCI 103L Object Oriented Programming Units: 4
+
+## Information Technology Program and Data Science (10 units)
+
+---
+
+- DSCI 250 Introduction to Data Science Units: 4
+- DSCI 351 Foundations of Data Management Units: 4
+- TAC 115 Programming in Python Units: 2
+
+## Elective (4 units)
+
+---
+
+- DSCI 352 Applied Machine Learning and Data Mining Units: 4
+- DSCI 454 Visualization for Data-driven Decision Making Units: 4
+- ECON 419 Advanced Econometrics Units: 4
+- ECON 470 Professional Research in Economics and Data Science Units: 4
+- MATH 226g Calculus III Units: 4
+- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4
+
+---

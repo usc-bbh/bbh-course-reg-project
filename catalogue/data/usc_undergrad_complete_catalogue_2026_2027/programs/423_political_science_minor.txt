@@ -1,0 +1,29 @@
+Program Name: Political Science Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31898
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31898&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31898
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:13Z
+Content SHA-256: 01cf53a42580ebeda8bd81b658f831136c81a10105ac1413056bd00f18400c7d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Political Science Minor
+
+---
+
+Students who minor in political science must take five courses, 20 units, in political science. Students can either pursue course work in a traditional subfield (American politics, comparative politics, law and public policy, or political theory) or in a specific issue area of concentration (civil liberties and human rights, race, ethnicity, and gender, urban political problems, Asian politics, etc.).
+
+Those who focus their studies on a traditional subfield must take the lower-level introductory course in that subfield: POSC 100 Theory and Practice of American Democracy (American politics); POSC 110 Ideology and Political Conflict (political theory); POSC 120 Comparative Politics (comparative politics) or POSC 130 Law, Politics and Public Policy (law and public policy).
+
+Students pursuing the minor must also take four upper-division courses, three of which must be in the chosen subfield. Students choose from a predetermined list of courses divided by subfield in consultation with and approval of the department’s undergraduate student adviser.
+
+Those who pursue a specific issue area of concentration are required to take the department’s designated gateway course, POSC 120 Comparative Politics , and at least three upper-division courses in the issue area of concentration. A fourth upper-division course must be taken in the issue area of concentration or a complementary area. The upper-division courses are chosen in consultation with and approval of the department’s undergraduate student adviser.
+
+---

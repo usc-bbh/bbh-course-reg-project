@@ -1,0 +1,51 @@
+Program Name: Creating Dramatic Writing Content Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32858
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32858&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32858
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:05Z
+Content SHA-256: f007dc2e9aa5a59c9ec5446d744dac5d7a1b0302a56b032cc1e612e96b85fb5b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Creating Dramatic Writing Content Minor
+
+---
+
+The minor in Creating Dramatic Content presents undergraduate students an opportunity for broadening and deepening expression using the literary and performing arts. This minor offers a foundation for extended expression in dramatic writing and creative writing genres in general; fostering skills in content creation, research, communication and collaboration. The minor is a 16-unit program.
+
+## Required Course (4 Units)
+
+---
+
+- THTR 365 Playwriting I Units: 4
+
+## Elective Courses (12 units)
+
+---
+
+- THTR 122 Improvisation and Theatre Games Units: 2
+- THTR 125 Text Studies for Production Units: 4
+- THTR 305a Directing Units: 4
+- THTR 309 Dramaturgy Units: 4
+- THTR 312 LGBTQ Theatre Units: 4
+- THTR 318 Creating the Hit Podcast Units: 2
+- THTR 365 Playwriting I Units: 4
+- THTR 366 Playwriting II Units: 4
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 424 Creator as Entrepreneur Units: 2
+- THTR 465 Playwriting III Units: 4
+- THTR 467 Going Viral: Performance for New Media Units: 2
+- THTR 479 Solo Performance Units: 4
+
+## Total Units: 16
+
+---
+
+---

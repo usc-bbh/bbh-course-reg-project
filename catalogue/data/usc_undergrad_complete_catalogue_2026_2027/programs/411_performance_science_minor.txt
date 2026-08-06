@@ -1,0 +1,83 @@
+Program Name: Performance Science Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32426
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32426&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32426
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:46Z
+Content SHA-256: 19c42d9d88e478fe51a8160d0fa00d8c0510e351c0a9632fcef423f4ac931300
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Performance Science Minor
+
+---
+
+The minor in Performance Science teaches the science, best practices and applied processes to instill a high-performance mindset though a multi-disciplinary curriculum spanning business, psychology, biology, philosophy and athletics. This interdisciplinary minor will enable students to understand brain and body function, human behavior, psychology, emotion and leadership, all with the goals of optimizing individual mindsets, maximizing performance and creating a culture of high performance within their organizations.
+
+To enroll in this Performance Science minor, students must have completed 32 units of college-level courses and attain a minimum overall GPA of 2.75.
+
+Completion of the minor requires 20 units.
+
+## Core Requirement
+
+---
+
+- BAEP 470 The Entrepreneurial Mindset — Taking the Leap Units: 2
+- BAEP 472 The Science of Peak Performance Units: 2
+- Complete at least 4 units from each of the following categories: Mind, Business, Body.
+  MIND:
+- GERO 315g A Journey into the Mind Units: 4
+- OT 325 The Brain: Mind, Body, and Self Units: 4
+- PSYC 440 Foundations of Cognitive Neuroscience Units: 4 *
+- BUSINESS:
+- BAEP 455 Founder’s Dilemmas Units: 4
+- BUCO 333mw Communication in the Working World - Managing Diversity Units: 4
+- MOR 451 Mastering Decision Making Units: 4
+- BODY:
+- BISC 230Lgx The Biology of the Brain Units: 4
+- HP 440 Happiness, Well-Being, and Health Units: 4
+- PSYC 367g Stress, Health, and the Mind-Body Connection Units: 4 **
+- *Prerequisite required.
+  **Registration restricted to the following majors: Psychology, Social Sciences with an Emphasis in Psychology, Health and Human Sciences. Prerequisite required. Other majors will not be permitted to take the course.
+
+### Total Core: 16 units
+
+---
+
+## Electives
+
+---
+
+Complete at least 4 units from the list of courses below or the courses listed above that are not applied as a “required course.”
+
+- MIND:
+- PHIL 258g Probability and Rational Choice Units: 4
+- PSYC 301L Cognitive Processes Units: 4 *
+- BUSINESS:
+- BAEP 450 Fundamentals of Entrepreneurship Units: 4
+- or
+- BAEP 451 The Management of New Enterprises Units: 4
+-
+- DSO 478 Sports Data Science, AI and Management Units: 4
+- MOR 469 Negotiation and Persuasion Units: 4
+- MOR 471 Managing and Developing People Units: 4
+- BODY:
+- HBIO 202Lg Nutrition for Life Units: 4
+- HBIO 205Lgx The Science of Sport Units: 4
+- PHED 106a Physical Conditioning Units: 1
+- PHED 160 Stress Management for Healthy Living Units: 2
+- *Prerequisite required.
+
+## Total Units Required: 20
+
+---
+
+Return to: USC Marshall School of Business
+
+---

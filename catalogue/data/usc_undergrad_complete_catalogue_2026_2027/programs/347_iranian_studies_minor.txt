@@ -1,0 +1,104 @@
+Program Name: Iranian Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31867
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31867&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31867
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:37Z
+Content SHA-256: 9771efec2c1f9c2115725bdc0ffcb2913db4b59cd6554d4b8f7a2cc8d13fe835
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Iranian Studies Minor
+
+---
+
+This minor is an interdisciplinary degree focusing on the peoples and cultures of Iran. Its courses offer students interested in exploring the richness and complexity of Iran a framework for developing both expertise and wide-ranging critical perspectives on its past, present, and future. The cross-section of courses and rigorous training in the Persian language allow students to develop a wide-ranging perspective on the country or a narrower focus on a particular historical period or theme.
+
+Learning Objectives for the Iranian Studies Minor:
+
+1. Offer foundational knowledge of the geography, cultures and history of Iran.
+2. Offer rigorous training in a range of social science and humanities approaches from history, economics, political science, geography and international relations to literary and cultural criticism with an emphasis on their application to the study of Iranian society.
+3. Develop critical thinking skills that enable the student to place recent and current events in appropriate historical and contemporary contexts.
+4. Enhance students’ ability to question non-scholarly accounts of Iran’s past and present.
+5. Deliver firm grounding in the Persian language.
+6. Train students to conduct informed research on Iran and its diaspora.
+
+A special accommodation is in place for majors in the Department of Political Science and International Relations who minor in Iranian Studies. Courses that are cross-listed between MDES and IR can satisfy the four unique courses (at least 16 units) that must be completed outside of their major department for this interdisciplinary minor. Students will still be required, however, to complete at least four courses (16 units) that are unique to the minor (not required to meet major course requirements). A minimum of 20 units is required.
+
+## Language
+
+---
+
+Students wishing to minor in Iranian Studies must demonstrate fourth-semester proficiency in the Persian language. This can be achieved through placement, transfer credits (subject to approval), from study abroad, or through successfully completing the level IV Persian (IRAN 250 ) course at USC. Students who place out of the requirement to take IRAN 250 must take an additional elective course.
+
+- IRAN 250 Persian IV Units: 4
+
+## Required Course - Lower Division
+
+---
+
+All students must take one of the following courses:
+
+- MDES 201w The Middle East Units: 4
+- or
+- MDES 213gp Iran: From Antiquity to Modernity Units: 4
+
+## Required Course - Upper Division
+
+---
+
+All students must take the following course:
+
+- MDES 313p Modern Iran Units: 4
+
+## Iranian Studies Concentration
+
+---
+
+All students must take one of the following courses. Students may only choose IR 363 , MDES 375 and POSC 351 with departmental approval.
+
+- IR 363 Middle East Political Economy Units: 4
+- MDES 314p Politics, Ideologies, Cultures of the Global South Units: 4
+- MDES 345p Power and Authority in the Middle East Units: 4
+- MDES 375 Politics and Society in the Contemporary Middle East Units: 4
+- MDES 401 Environment and Politics in the Global South Units: 4
+- MDES 403 Infrastructures of Dominance: Technology, Development and the Struggle for Power Units: 4
+- MDES 441w Cities of the Middle East Units: 4
+- POSC 351 Middle East Politics Units: 4
+
+## Elective Courses
+
+---
+
+Students must take one course from the list below. Students who place out of language requirements must take two elective courses. Students may only choose IR 362 , IR 363 , IR 464 and POSC with departmental approval.
+
+- CLAS 349gp Ancient Empires Units: 4
+- ECON 342 Economic Development of the Middle East Units: 4
+- HIST 480 Seminar in Middle East History Units: 4
+- IR 362 The International Relations of the Contemporary Middle East Units: 4
+- IR 363 Middle East Political Economy Units: 4
+- IR 464 US-Middle East Foreign Policy Issues Units: 4
+- IRAN 320 Advanced Persian I Units: 4
+- IRAN 325 Business Persian Units: 4
+- IRAN 350 Advanced Persian II Units: 4
+- MDES 301g The Global Middle East Units: 4
+- MDES 312 Premodern Iran Units: 4
+- MDES 314p Politics, Ideologies, Cultures of the Global South Units: 4
+- MDES 316p The Great Muslim Empires of the Near East and India Units: 4
+- MDES 324 Persian Literature Units: 4
+- MDES 325g Politics of Film and Literature in Modern Iran Units: 4
+- MDES 340g The United States and the Middle East Units: 4
+- MDES 345p Power and Authority in the Middle East Units: 4
+- MDES 375 Politics and Society in the Contemporary Middle East Units: 4
+- MDES 401 Environment and Politics in the Global South Units: 4
+- MDES 403 Infrastructures of Dominance: Technology, Development and the Struggle for Power Units: 4
+- MDES 441w Cities of the Middle East Units: 4
+- POSC 351 Middle East Politics Units: 4
+
+---

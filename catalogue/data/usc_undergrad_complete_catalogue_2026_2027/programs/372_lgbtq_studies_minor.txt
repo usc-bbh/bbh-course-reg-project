@@ -1,0 +1,56 @@
+Program Name: LGBTQ Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31816
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31816&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31816
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:19Z
+Content SHA-256: ab4af4bbba0dd7a224565e739c6d25b2599f7e34cf8be261601c7308e4c06950
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# LGBTQ Studies Minor
+
+---
+
+The LGBTQ Studies minor focuses on how sexuality and sexual orientation shape gender identities, roles and status in societies past and present. Twenty units of course work are required for completion of the LGBTQ Studies minor: one course selected from SWMS 210gmw , SWMS 212gp , SWMS 215gw , SWMS 221g ; required SWMS 306 ; and 12 units of upper-division electives.
+
+## Required Course – Lower Division (4 Units)
+
+---
+
+Choose one:
+
+- SWMS 210gmw Social Analysis of Gender Units: 4
+- SWMS 212gp Introduction to Gender and Sexuality: American Perspectives Units: 4
+- SWMS 215gw Introduction to Gender and Sexuality: International Perspectives Units: 4
+- SWMS 221g Introduction to Queer Theory Units: 4
+
+## Required Course – Upper Division (4 Units)
+
+---
+
+- SWMS 306 Contemporary Issues in LGBTQ Studies Units: 4
+
+## Upper-Division Electives (12 Units)
+
+---
+
+Choose three:
+
+- ENGL 344gm Sexual/Textual Diversity Units: 4
+- ITAL 350g Gender and Sexuality in Renaissance Italy Units: 4
+- SWMS 308 Advanced Gender Theory Units: 4
+- SWMS 310 Gender and Social Justice Units: 4
+- SWMS 311 Gender and Sexuality Studies: Internship Units: 2, 4, 8
+- SWMS 355 Transgender Studies Units: 4
+- SWMS 358 U.S. Gay and Lesbian History Units: 4
+- SWMS 385m Men and Masculinity Units: 4
+- SWMS 425 Queer Los Angeles Units: 4
+
+---

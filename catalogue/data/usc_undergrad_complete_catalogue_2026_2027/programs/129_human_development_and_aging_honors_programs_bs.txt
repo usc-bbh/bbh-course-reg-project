@@ -1,0 +1,119 @@
+Program Name: Human Development and Aging, Honors Programs (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32144
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32144&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32144
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:01Z
+Content SHA-256: 962b10d73cfb2c6adebc9f4e7ae41bb5b01c028ba3971c086500eea68131d8ad
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Human Development and Aging, Honors Programs (BS)
+
+---
+
+USC Davis offers an honors program to outstanding students pursuing the BS in Human Development and Aging. The program gives students the chance to work on mentored undergraduate research, take coursework in research methods and statistics in aging, and complete an honors thesis. Students who finish the program earn the designation of Bachelor of Science in Human Development and Aging with Honors on their transcript.
+
+Honors Program (Minimum 10 units):
+GERO 497a , GERO 497b , GERO 497c and GERO 593
+All honors courses may be applied toward the required upper-division gerontology elective units.
+
+Students begin in the fall or spring of junior year with 2 units of GERO 497a as they start developing their honors thesis. In the second semester, they take 2 units of GERO 497b as they finalize their research design and begin the project. Students complete GERO 593 (4 units, minimum grade of B) during the first or second semester in the program. In the third semester, students take 2–4 units of GERO 497c with the goal of completing the research and writing the thesis.
+
+Eligibility: Students must have a minimum cumulative GPA of 3.3 and a minimum 3.5 GPA in GERO courses. For Health Science Track students, only GERO courses offered by the School of Gerontology count toward the GERO GPA requirement. To graduate with Honors, students must also finish the program with at least a 3.3 cumulative GPA and a 3.5 GERO GPA.
+
+## Degree Requirements
+
+---
+
+### Required Courses
+
+---
+
+- GERO 200 Gerontology: The Science of Adult Development Units: 4
+- GERO 320g Psychology of Adult Development Units: 4
+- GERO 330 Society and Adult Development Units: 4
+- GERO 340 Policy, Values, and Power in an Aging Society Units: 4
+- GERO 416 Health Issues in Adulthood Units: 4
+- GERO 470 Aging and Business Units: 4
+- GERO 491 Practicum Units: 2-8
+- GERO 492 Senior Seminar Units: 4
+- General Education Units: 24
+- Writing Requirement Units: 8
+- Foreign Language or Programming Units: 12
+- Gerontology Elective Units: 8-10
+- One approved statistics course Units: 4
+- General electives in gerontology or related disciplines (8 units upper division) Units: 32
+
+### Gerontology Honors Courses
+
+---
+
+- GERO 497a Honors Seminar Units: 2 [*]
+- GERO 497b Honors Seminar Units: 2 [*]
+- GERO 497c Honors Seminar Units: 2-4 [*]
+- GERO 593 Research Methods Units: 4
+
+## Total units: 128
+
+---
+
+[*]Prerequisite required.
+
+## Requirements for Completion of the Health Science Honors Track
+
+---
+
+### Science and Mathematics
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+- CHEM 105aLg General Chemistry Units: 4 [*]
+- CHEM 105bL General Chemistry Units: 4 [*]
+- CHEM 322aL Organic Chemistry Units: 4 [*]
+- CHEM 322bL Organic Chemistry Units: 4 [*]
+- MATH 125g Calculus I Units: 4 [*]
+- PHYS 135aLg Physics for the Life Sciences Units: 4 [*]
+- PHYS 135bL Physics for the Life Sciences Units: 4 [*]
+
+### Gerontology Upper Division Core Courses
+
+---
+
+- GERO 310 Physiology of Aging Units: 4
+-
+- GERO 320g Psychology of Adult Development Units: 4 or
+- GERO 330 Society and Adult Development Units: 4
+-
+- GERO 340 Policy, Values, and Power in an Aging Society Units: 4
+- GERO 414 Neurobiology of Aging Units: 4
+- GERO 495 Practicum in Geriatric Care Units: 4
+- General Education Units: 24
+- Writing Requirement Units: 8
+- Gerontology Elective Units: 0-2
+- General electives in gerontology or related disciplines (8 units upper division) Units: 28
+
+### Gerontology Honors Courses
+
+---
+
+- GERO 497a Honors Seminar Units: 2 [*]
+- GERO 497b Honors Seminar Units: 2 [*]
+- GERO 497c Honors Seminar Units: 2-4 [*]
+- GERO 593 Research Methods Units: 4
+
+## Total units: 128
+
+---
+
+[*]Prerequisite required.
+
+---

@@ -1,0 +1,75 @@
+Program Name: Music Industry Minor
+Credential: 
+School or Academic Unit: Thornton School of Music
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32245
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32245&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32245
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:01Z
+Content SHA-256: dfcefa6205d2e21433fadc1b8129f7b156f6140bab5de23b452e6b1bb1d3ddd1
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Music Industry Minor
+
+---
+
+A minor in the music industry is offered for undergraduate students to provide them with the background necessary to enter varied fields in the music business and to familiarize them with standard practices and procedures. A minimum of 20 units is required for completion of this minor. The minor is not available to music industry majors.
+
+#### Prerequisite
+
+Acceptance into the program might require a personal interview by the Thornton School of Music.
+
+Students admitted to this minor will be expected to have a minimum GPA of 2.0 and to maintain that average with no grade lower than a “C” for all courses taken in the minor.
+
+## Required Courses
+
+---
+
+- MUIN 272x Basics of the Music Industry Units: 4
+
+### Select 4 units from the following:
+
+---
+
+- MUSC 115gp Western Music as Sounding History Units: 4
+- MUSC 210g Electronic Music and Dance Culture Units: 4
+- MUSC 250gmw The Music of Black Americans Units: 4
+- MUSC 320gmw Hip-hop Music and Culture Units: 4
+- MUSC 422 The Beatles: Their Music and Their Times Units: 4
+- MUSC 423 Classic Rock: Popular Music of the Sixties and Seventies Units: 2
+- MUSC 424 Iconic Figures of Popular Music Units: 2
+- MUSC 444 American Roots Music: History and Culture Units: 4
+- MUSC 460 Film Music: History and Function from 1930 to the Present Units: 4
+- MUSC 465 Music, Television and American Culture Units: 4
+
+### Select 12 units from the following:
+
+---
+
+- MTEC 245 Introduction to MIDI Sequencing Units: 1
+- MTEC 246 Introduction to Audio Recording and Editing Units: 1
+- MTEC 277x Introduction to Music Technology Units: 4
+- MTEC 446a Computer Assisted Recording and Editing Units: 2
+- MTEC 446b Computer Assisted Recording and Editing Units: 2
+- MUIN 280 Communications in the Music Industry Units: 4
+- MUIN 370 Music Publishing and Licensing Units: 2
+- MUIN 372 Business and Legal Aspects of the Music Industry Units: 4
+- MUIN 410 Marketing, Branding and Strategic Alliances in Music Units: 2
+- MUIN 420 DIY Music Marketing Units: 2
+- MUIN 425 Live Music Production and Promotion Units: 4
+- MUIN 430 Artist Management and Development Units: 4
+- MUIN 443 The Business of Music for Visual Media Units: 4
+- MUIN 444 Music Supervision Units: 4
+- MUIN 495 Web Design for the Music Industry Units: 4
+- MUIN 497 Current Topics, Case Studies, and Analysis Units: 2
+
+## Total units: 20
+
+---
+
+---

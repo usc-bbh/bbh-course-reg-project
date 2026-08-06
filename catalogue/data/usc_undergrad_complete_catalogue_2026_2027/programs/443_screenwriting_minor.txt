@@ -1,0 +1,93 @@
+Program Name: Screenwriting Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31690
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31690&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31690
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:02Z
+Content SHA-256: 5f0829a310f9fe930bd51c3d33404d6483155db6a2b7155d8720ea44fcb70965
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Screenwriting Minor
+
+---
+
+The minor in Screenwriting is designed to train students in the creatively challenging field of writing for screen and television. Students learn the fundamentals of writing for film and television with the opportunity to specialize in writing feature-length screenplays, teleplays in both drama and comedy, or analysis of the craft of screenwriting.
+
+#### Application Procedures
+
+To apply to the minor in Screenwriting, a student must be in good academic standing, have a declared major, and have previously completed with a passing grade CTWR 409 Fundamentals of Screenwriting: Character, Conflict, and Story.
+
+Applications and information can be obtained online at cinema.usc.edu or by emailing writing@cinema.usc.edu.
+
+#### Course Requirements for the Minor
+
+The minor in Screenwriting is a specialized course of study for students who desire a solid foundation in the craft of screenwriting. A total of 20 units is required to complete the Screenwriting Minor: 10 units of fundamental courses and 10 units of electives.
+
+## Fundamentals And Feature Development (10 Units)
+
+---
+
+- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4
+- CTWR 416 Motion Picture Script Analysis Units: 2
+- CTWR 321 Breaking the Hour-Long Television Series Units: 4 * or
+- CTWR 324 Breaking the Half-Hour Television Series Units: 4 *
+- *Prerequisite Required.
+
+### Total units: 10
+
+---
+
+## Additional Electives (10 Units)
+
+---
+
+- CTWR 303g From Page to Screen: Adapting Stories for Film and TV Units: 4
+- CTWR 402 Writing and Social Change Units: 2
+- CTWR 403 Writing the Narrative Podcast Series Units: 2
+- CTWR 404 Foundations of Comedy Units: 2
+- CTWR 407 Creating the Comedic Character Units: 2
+- CTWR 410L Character Development and Storytelling for Games Units: 4
+- CTWR 411 Television Script Analysis Units: 2
+- CTWR 417 Script Coverage and Story Analysis Units: 2
+- CTWR 421 Writing the Hour-Long Dramatic Series Units: 2 max 4 *
+- CTWR 422 Creating the Dramatic Television Series Units: 2 max 4
+- CTWR 423 Writing the Screenplay Units: 4 Units: 4 *
+- CTWR 430 Comedy Writers and Their Work Units: 2
+- CTWR 431 Screenwriters and Their Work Units: 2 max 6
+- CTWR 432 Television Writers and Their Work Units: 2
+- CTWR 433 Adaptations: Transferring Existing Work to the Screen Units: 2
+- CTWR 434 Writing the Half-Hour Comedy Series Units: 2 max 6 *
+- CTWR 435 Writing for Film and Television Genres Units: 2, 3, 4 max 8 *
+- CTWR 437 Writing the Original Situation Comedy Pilot Units: 4 max 8 *
+- CTWR 438 Micro-Stories for New Platforms Units: 2, 4 max 8
+- CTWR 439 Writing the Original Dramatic Series Pilot Units: 4 max 8 *
+- CTWR 441 Creative Consciousness and Cinematic Dreams Units: 2
+- CTWR 446 Narrative Design of the Contained Story Units: 2
+- CTWR 449 Rewriting the Original Dramatic Series Pilot Units: 4 max 8*
+- CTWR 453 Advanced Feature Rewriting Units: 4 max 8 *
+- CTWR 468 Screenwriting in Collaboration Units: 4 max 8 *
+- CTWR 477 Staff Writing the Sketch Comedy Show Units: 2 max 6*
+- CTWR 487 Staff Writing the Multi-Camera Television Series Units: 4 max 8*
+- CTWR 499 Special Topics Units: 2, 3, 4 max 8
+- *Prerequisite Required
+
+## Additional Requirements
+
+---
+
+#### Grade Point Averages
+
+A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.
+
+#### Graduate Courses
+
+Students may not apply more than 16 units of graduate level course work toward their university degree.
+
+---

@@ -1,0 +1,59 @@
+Program Name: Mathematics (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31852
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31852&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31852
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:40Z
+Content SHA-256: 7b87b7a9a7d3bcb77d72817715d1994671a11b1b4c7429b918f63714e0087c9f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Mathematics (BA)
+
+---
+
+## Pre-major Requirements
+
+---
+
+- MATH 125g Calculus I Units: 4
+-
+- MATH 126g Calculus II Units: 4 or
+- MATH 127 Enhanced Calculus II Units: 4 or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- MATH 235 Linear Algebra and Applications Units: 4
+-
+- MATH 226g Calculus III Units: 4 or
+- MATH 227 Enhanced Calculus III Units: 4 or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+-
+- MATH 290 Mathematical Reasoning and Problem Solving Units: 4
+
+## Upper-division Math Requirements
+
+---
+
+The following three courses are required with a grade of C or better:
+
+- MATH 410 Fundamental Concepts of Modern Algebra Units: 4
+- MATH 425a Fundamental Concepts of Analysis Units: 4
+-
+- MATH 434 Euclidean and Non-Euclidean Geometries Units: 4 or
+- MATH 435 Introduction to Differential Geometry Units: 4 or
+- MATH 440 Topology Units: 4
+
+## Upper-division Math Electives
+
+---
+
+Three MATH courses are required at the 400-level or above. The courses must be at least 3 units each, and MATH 450 is excluded. Students contemplating a graduate program in Mathematics should discuss their plans with their academic adviser.
+
+---

@@ -1,0 +1,57 @@
+Program Name: Extended Reality Design and Development Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32828
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32828&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32828
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:29Z
+Content SHA-256: 8b37a69d9d69c7d0bc3bc4d4e22a5e2cec554ee3d36d714616ae9bade45b6002
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Extended Reality Design and Development Minor
+
+---
+
+Extended Reality (XR) focuses on the intersection of our physical and digital lives as experienced with our bodies and senses, using multimodal digital tools and participatory narrative processes. It encompasses augmented and virtual reality, spatial computing, as well as hardware that enables new kinds of context-specific interactions realized through custom arrays of sensing and multimodal displays. Modular and multimodal narrative components flow into extended reality experiences with active user participation through use of their vision, hands and eye-tracking. Extended reality also necessitates novel intellectual property, marketing and distribution techniques. The minor looks at the potential of XR wearables to gradually replace activities and content dominant on smartphones for 15 years. Applications of XR range from entertainment to commerce, communication, learning, fashion, mobility, health, productivity and social applications. Through the minor in Extended Reality Design and Development, designers, entrepreneurs and developers will explore the interconnection of narrative, space construction, software development, hardware engineering and user experience. The minor provides a robust core foundation combined with bespoke learning experiences and industry insights to help students chart new paths in creating diverse experiences and careers that are immersive, future-facing with significant potential for societal impact. It also helps innovators create groundbreaking impact in areas including med-tech, collective decision making systems, augmented intelligence, product design, augmented manufacturing, hybrid learning, brand marketing, and new areas that are yet to be defined.
+
+Information on how to apply to the minor can be found at: iovine-young.usc.edu.
+
+## Required Courses (8 units)
+
+---
+
+Students must complete the following 8 units:
+
+- ACAD 217 Extended Reality Design Units: 4
+- ACAD 281 Constructing Experiences Units: 4
+
+## Technical Core (4 units)
+
+---
+
+Students need to complete 4 units from the following:
+
+- ACAD 230 Introduction to Interactive Physical Computing Units: 4
+- IDSN 539 Extended Reality Development Units: 4
+
+## Electives (12 units)
+
+---
+
+Students need to complete 12 units from the following. Note: Technical Core units cannot be double counted toward Elective requirements.
+
+- ACAD 177 Digital Toolbox: Design Units: 2
+- ACAD 178 Digital Toolbox: Motion Graphics Units: 2
+- ACAD 180 Digital Toolbox: Audio and Video Units: 2
+- ACAD 207 Narrative Technology and the Human Experience Units: 4
+- ACAD 230 Introduction to Interactive Physical Computing Units: 4
+- IDSN 537 Extended Reality for Fashion Units: 4
+- IDSN 539 Extended Reality Development Units: 4
+
+---

@@ -1,0 +1,47 @@
+Program Name: Cyber Governance Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32910
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32910&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32910
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:25Z
+Content SHA-256: ae6fccdb29682c18477cc57cdeca4e006b5e2728e9dfc123571b4664eecc6fe3
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Cyber Governance Minor
+
+---
+
+Cyber Governance is the intersection of applied cyber technologies, regulatory frameworks, and strategic approaches tailored to meet the specific requirements of businesses. This minor equips students with the skills needed to develop robust security methodologies and frameworks that foster the optimal functioning of security processes and systems.
+
+## Core Requirements (6 units)
+
+---
+
+- TAC 125L Hackers to CEOs: Intro to Cyber Security in the AI Era Units: 2
+- TAC 370 Cybersecurity Management and Operations Units: 4
+
+## Electives (12 units)
+
+---
+
+- LAW 401 Cybersecurity and Cybercrime Units: 4
+- RISK 380 Introduction to Enterprise Risk Management Units: 4
+- TAC 325 Ethical Hacking Units: 4
+- TAC 357 Enterprise Networks: Design and Architecture Units: 4
+- TAC 375 Digital Forensics and Cybersecurity Investigations Units: 4
+- TAC 457 Network Security Units: 4
+- TAC 458 Defending and Investigating Compromised Networks Units: 4
+- TAC 479 Cyber Law and Privacy Units: 4
+
+## Minimum Units: 18
+
+---
+
+---

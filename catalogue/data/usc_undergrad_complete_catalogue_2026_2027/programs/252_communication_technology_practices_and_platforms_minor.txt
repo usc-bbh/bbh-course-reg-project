@@ -1,0 +1,55 @@
+Program Name: Communication Technology Practices and Platforms Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31949
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31949&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31949
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:40Z
+Content SHA-256: 4a6a901179fec6a11526f2ff907a97d05c8c0a6d0e4c2c965f8e04e5d2611079
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Communication Technology Practices and Platforms Minor
+
+---
+
+Students in this minor trace the roots and dynamics of contemporary networked technologies and learn how to participate and excel within media cultures, online networks and organizational workplaces. The minor focuses on three areas: cultures (connecting communication technologies to histories, values, and ethics of social relationships and civic communities); networks (developing qualitative and quantitative skills to model, explain and influence relationships among media and people at local and global scales); institutions (tracing the legal, organizational, economic and interpersonal contexts that produce and transform communication technologies). The field of communication technology requires individuals who can critique, cultivate, build and influence new relationships among people, platforms and practices. Whether starting careers in strategic consulting, medical informatics, non-profit management, social media design, public sector service or new media entrepreneurship, students are encouraged to utilize skills and foundational concepts underlying 21st century communication technologies.
+
+Requirements for admission are a minimum 3.0 GPA and completion of a minimum of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission.
+
+## Required Core Communication Courses
+
+---
+
+- COMM 309 Communication and Technology Units: 4
+- COMM 339 Communication Technology and Culture Units: 4
+- COMM 340 The Cultures of New Media Units: 4
+
+## Electives-Choose Two From The Following
+
+---
+
+- COMM 310 Media and Society Units: 4
+- COMM 321 Communication and Social Media Units: 4
+- COMM 345 Social and Economic Implications of Communication Technologies Units: 4
+- COMM 350 Video Games: Business, Science and Culture Units: 4
+- COMM 422 Legal Issues and New Media Units: 4
+- COMM 431 Global Strategy for the Communications Industry Units: 4
+- COMM 449 Perspectives on the Networked Press Units: 4
+- COMM 465m Gender in Media Industries and Products Units: 4
+- COMM 486 Human and Technological Systems in Organizations Units: 4
+- COMM 498 Ethical Issues in Entertainment and Communication Units: 4
+- CTIN 462 Video Game Franchises Units: 4
+- CTIN 463 Anatomy of a Game Units: 4
+- CTIN 488 Game Design Workshop Units: 4
+
+## Total units: 20
+
+---
+
+---

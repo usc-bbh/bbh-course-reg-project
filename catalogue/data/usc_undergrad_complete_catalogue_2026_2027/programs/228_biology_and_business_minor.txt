@@ -1,0 +1,95 @@
+Program Name: Biology and Business Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32747
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32747&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32747
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:43Z
+Content SHA-256: d68e998843c77d24b5a7667361e52a674ce35b78aa82851c78401d51ce0cb2d8
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Biology and Business Minor
+
+---
+
+The USC Dornsife College of Letters, Arts and Sciences Departments of Biological Sciences and Chemistry and the USC Marshall School of Business jointly offer the cross-departmental minor in biology and business. This minor brings essential knowledge in the basic sciences together with the corporate skills needed in a rapidly growing industry. The minor is especially well suited for the business, biological sciences, chemistry or engineering student seeking a career in business and/or the biomedical/bio-technical sciences.
+
+This minor requires a varying number of units beyond major requirements depending upon the student’s major program of study: biological sciences (BA or BS), 16–18 additional units; business (BS), 28 additional units; chemistry (BA or BS), 32–34 additional units.
+
+Students in other majors may be required to complete up to 46 units for the minor depending on whether their major includes any of the minor requirements and their prerequisites.
+
+Please see a biological sciences or business adviser for specific program requirements.
+
+## BISC Core Courses (16 units)
+
+---
+
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+-
+- BISC 320Lg Molecular Biology Units: 4
+- BISC 330L Biochemistry Units: 4
+- BISC 406L Biotechnology Units: 4
+
+### Additional Recommended BISC Courses
+
+---
+
+- BISC 300L Microbiology Units: 4
+- BISC 403 Advanced Molecular Biology Units: 4
+- BISC 450L Principles of Immunology Units: 4
+
+## CHEM Core Courses (12 units)
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4
+- CHEM 105bL General Chemistry Units: 4
+- CHEM 322aL Organic Chemistry Units: 4
+
+### Additional Recommended Collateral Science Courses
+
+---
+
+- CHE 489 Biochemical Engineering Units: 4
+- CHEM 322bL Organic Chemistry Units: 4
+
+## Finance, Business and Accounting Courses (16 - 18 units)
+
+---
+
+Students pursuing a business degree must enroll in BUAD 280 , BUAD 281 and BUAD 306 .
+
+- ACCT 410x Foundations of Accounting Units: 4
+- or
+- BUAD 280 Introduction to Financial Accounting Units: 3 and
+- BUAD 281 Introduction to Managerial Accounting Units: 3
+- or
+- BUAD 305 Abridged Core Concepts of Accounting Information Units: 4
+-
+- BUAD 306 Business Finance Units: 4
+- or
+- BUAD 308 Advanced Business Finance Units: 4
+-
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+- or
+- BUAD 307 Marketing Fundamentals Units: 4
+- FBE 403 Introduction to the Legal Environment of Business Units: 4
+
+### Additional Recommended MATH Courses
+
+---
+
+- MATH 118gx Calculus for Business and Economics Units: 4
+- or
+- MATH 125g Calculus I Units: 4
+-
+- MATH 208x Elementary Probability and Statistics Units: 4
+
+---

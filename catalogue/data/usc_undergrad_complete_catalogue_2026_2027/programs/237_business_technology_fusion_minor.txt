@@ -1,0 +1,46 @@
+Program Name: Business Technology Fusion Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31601
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31601&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31601
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:06Z
+Content SHA-256: 31a1969bcf4abddf1b217adeb2332f68cc585fb6c3c2cd929202d58cc35b052c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Business Technology Fusion Minor
+
+---
+
+This minor requires 20 units to complete. To enroll, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of at least 2.75.
+
+## Course Requirements
+
+---
+
+- DSO 428 Essentials and Digital Frontiers of Big Data Units: 4
+- DSO 435 Enterprise Data Architecture Units: 4
+
+### Electives
+
+---
+
+Choose from the following to achieve a total of at least 12 units:
+
+- BAEP 465 Digital Playbook for Entrepreneurs: Creating a Tech Startup Units: 2
+- DSO 401 Data Analysis with Spreadsheets Units: 2
+- DSO 431 Digital Innovation as Competitive Advantage Units: 4
+- DSO 443 Business Model Innovations in the Media Industries Units: 4
+- DSO 455 Project Management Units: 4
+- DSO 462 Managing a Small Business on the Internet Units: 2
+- DSO 464 Deep Learning for AI and Business Applications Units: 4
+- MOR 458 AI Technology Strategic Management Units: 2, 4
+- Return to: USC Marshall School of Business
+
+---

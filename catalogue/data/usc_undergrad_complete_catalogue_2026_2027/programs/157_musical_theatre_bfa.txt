@@ -1,0 +1,114 @@
+Program Name: Musical Theatre (BFA)
+Credential: BFA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32621
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32621&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32621
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:59Z
+Content SHA-256: 4afc9e73b79c341e633a41eb17b3bf83a7ae38de2ac0e94cd22167b5eb6352b6
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Musical Theatre (BFA)
+
+---
+
+Musical theatre performers are multi-hyphenate artists. Beyond the intense requirements of a musical theatre performer to be a triple threat, the BFA degree in Musical Theatre is a four-year, professional training program focusing on providing students with the skills needed to be healthy and expressive artists, creators and innovators in the 21st Century. Through a partnership between the School of Dramatic Arts (SDA) and the School of Cinematic Arts (SCA), we will train the student of musical theatre to perform, create and innovate storytelling on various platforms. We are amongst the first institutions to offer this type of groundbreaking training for musical theatre artists. The program's values are deeply rooted in Equity, Diversity, Inclusion and Access (EDIA). Our curriculum reflects the opportunities available in the 21st Century for representation in the post-pandemic entertainment industry. The curriculum will be implemented by emphasizing classical and contemporary material from the global canon and innovative training techniques influenced by many cultures.
+
+During the first three semesters of the program, the focus will be on introducing and practicing the foundational skills needed in each of the four disciplines in our program. In the following three semesters, the emphasis is on integrating skills between the art forms in project-based workshop classes employing a variety of platforms. At the same time, the students become proficient in each of the four disciplines in technique classes.
+
+During the first semester of the senior year students will discover their unique artistic form of expression through classes in innovation and creation. Students experiment with new working methods, refine their skills and delve deeper into advanced techniques, such as creating a mini-movie musical, building a cabaret, pop-rock singing, etc. They can explore and expand their interests by choosing a specialization and working on a creative project.
+
+Students focus on their professional potential in their final semester by expressing their unique artistic identity. In addition to preparing their senior showcase, their curriculum will concentrate on the business skills needed to be a self-sufficient artist in the 21st Century.
+
+All BFA theatre majors are required to earn a minimum grade point average of 2.75 (A= 4.0) in their theatre courses each semester. BFA students that fail to earn a minimum GPA of 2.75 in their theatre classes will be placed on probation the following semester. Students who remain on probation for a second consecutive semester will be disqualified from the BFA program. A student disqualified from continued study in the BFA program for failing to meet the GPA standards outlined above will be given the option of transferring to the BA program.
+
+## Required Courses for the Musical Theatre BFA Program
+
+---
+
+### Cinematic Arts
+
+---
+
+8 units required.
+
+- CTCS 190g Introduction to Cinema Units: 4
+- CTPR 386 Film and Television Case Study Units: 4
+
+### Required Electives
+
+---
+
+Select 4 units from the list below:
+
+- CTAN 425 Studio Careers: Story to Screen Units: 2
+- CTWR 403 Writing the Narrative Podcast Series Units: 2
+- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4
+- CTWR 411 Television Script Analysis Units: 2
+- CTWR 422 Creating the Dramatic Television Series Units: 2
+- DANC 170 Choreography and Performance Units: 2
+- DANC 342gp International and Historical Perspectives on Dance Units: 4
+- MUSC 255 Songwriting I Units: 2
+- THTR 105 Introduction to Screen Acting Units: 2
+- THTR 318 Creating the Hit Podcast Units: 2
+- THTR 408b Dialects Units: 2
+- THTR 410 The Digital Actor Units: 2
+- THTR 416 Creating Content for the Actor Units: 2.0
+- THTR 424 Creator as Entrepreneur Units: 2
+- THTR 442 Voice-over Acting Units: 2
+- THTR 464 An Actor’s Reel Units: 2
+- THTR 459 Songwriting for the Musical Theatre Units: 2
+
+### Dramatic Arts
+
+---
+
+79 units required.
+
+- THTE 107 Foundations of Vocal Performance Units: 2
+- THTE 201aL Acting for Musical Theatre Units: 4
+- THTE 205L Musicianship for Musical Theatre Actors I Units: 1
+- THTE 206bL Movement for Musical Theatre Units: 4
+- THTE 206aL Movement for Musical Theatre Units: 4
+- THTE 208 Musicianship for Musical Theatre Actors II Units: 3
+- THTE 306L Movement for Musical Theatre II Units: 4
+- THTE 340L Musical Theatre Integration Workshop I Units: 7
+- THTE 350aL Musical Theatre Integration Workshop II Units: 7
+- THTE 350bL Musical Theatre Integration Workshop II Units: 7
+- THTE 354 Musical Theatre Individual Instruction Units: 1
+- (7 units required)
+- THTE 450aL Musical Theatre Integration Workshop III Units: 5
+- THTE 450bL Musical Theatre Integration Workshop III Units: 5
+- THTR 120aL Acting I Units: 4
+- THTR 120b Acting I Units: 4
+- THTR 125 Text Studies for Production Units: 4
+- THTR 130 Introduction to Theatrical Production Units: 2
+- THTR 471 Industry Landscape Units: 4
+- THTR 497 Advanced Theatre Practicum Units: 2
+
+## Writing Units: 8
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+## Required General Education Units: 28
+
+---
+
+## Elective Units: 5
+
+---
+
+## Total Units: 132
+
+---
+
+---

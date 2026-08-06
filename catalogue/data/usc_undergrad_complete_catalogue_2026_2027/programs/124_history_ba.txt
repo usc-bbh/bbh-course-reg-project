@@ -1,0 +1,355 @@
+Program Name: History (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31820
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31820&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31820
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:49Z
+Content SHA-256: 1dea83570719f7f19b3575420ea0f0ed4ae8ea5ccaf468e8f29f04637dc06e60
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# History (BA)
+
+---
+
+The Bachelor of Arts in History requires students to take 10 courses (40 units).
+
+The History major offers students a means to encounter the peoples and cultures of the past and develop critical thinking, research and writing skills essential for understanding the present. The program exposes students to underlying connections between the study of past times and places and the roots of that study in human concerns about values, identities, issues and policies.
+
+In their lower-division courses, majors will have the opportunity to explore the histories of different cultures across time. Students at the upper-division level hone their knowledge of different cultures and societies, while also learning how to do history. When they begin to take seminar courses (400 level), they will apply that knowledge to a substantial works of independent research.
+
+###### Lower-Division Requirements
+
+All majors are required to complete HIST 201 Approaches to History. It is recommended that students complete HIST 201 early in their course of study.
+
+Students can take up to three additional lower-division survey courses. However, if they prefer to take upper-division courses instead, they may.
+
+The Department of History will accept scores of 4 or 5 on Advanced Placement European History, Advanced Placement United States History or Advanced Placement World History as a substitute for one course requirement at the lower-division level.
+
+###### Upper-Division Requirements
+
+Six upper-division courses are required, of which at least two must be 400-levels. No more than 4 units of HIST 490x Directed Research may be counted as satisfying the upper-division seminar requirement.
+
+###### Geographic and Temporal Breadth Requirements
+
+For geographic breadth, majors must take at least one course from four geographic areas. Those areas and the classes that fulfill them are listed below. Majors must also take two class that focus on the period before 1800 and two that focus on the period after 1800 to show temporal breadth. The courses that cover those periods are listed below. A single course may fulfill both a geographic and temporal requirement.
+
+###### Capstone Requirement
+
+All history majors must complete a capstone course in the fall and/or spring of their senior year (exceptions can be made for juniors who need to take it earlier). There are two ways to complete the history capstone: a History Honors Thesis or a History Capstone Exercise.
+
+The History Honors Thesis is a substantial work of scholarship based on original primary source research and/or extensive analysis of a methodological or historiographical issue. To apply for the Honors program, students need a 3.5 or higher GPA in all USC history coursework (although this can be waived in certain cases). They also need to take HIST 492 , both in the fall and spring semester. Those who take this track will be considered for honors in the major. Taking HIST 492 will count as their Capstone.
+
+The History Capstone Exercise is a way for students to reflect upon what they have learned as a history major. They will need to fill out a google form (or submit their answers in essay form) where they will reflect upon the classes they took, the papers wrote, and the skills they have developed. They will also attend one of the “Capstone Conversation” events scheduled throughout the year, where they will discuss their answers and their experiences as a major in a larger group setting. The questions and google document link will be posted on the website under Undergraduate Capstone.
+
+## All majors must take:
+
+---
+
+- HIST 201 Approaches to History Units: 4
+
+## Geographic Requirement: The Americas
+
+---
+
+All majors must take ONE course in this area. See possible courses below.
+
+- HIST 100mg Rethinking the American Experience Units: 4
+- HIST 109g The Latin American Experience Units: 4
+- HIST 210gw How to Be An American: Global Histories of U.S. Citizenship Units: 4
+- HIST 211gp Race in America Units: 4
+- HIST 225g Film, Power, and American History Units: 4
+- HIST 235g War and the American Experience Units: 4
+- HIST 240gp The History of California Units: 4
+- HIST 241gp Introduction to the American West Units: 4
+- HIST 245mgp How Sex Changed: US History, 1870-the Present Units: 4
+- HIST 271g Telling Native American Stories Units: 4
+- HIST 272g Women and Gender in the Ancient and Spanish Americas Units: 4
+- HIST 317gmp Native Americans in American Public Life Units: 4
+- HIST 320p Law, Slavery, and Race Units: 4
+- HIST 343 Empire’s Workshop: The United States in Latin America Units: 4
+- HIST 349 Colonial North America 1600–1760 Units: 4
+- HIST 351 The American Revolution Units: 4
+- HIST 352 The American Civil War Units: 4
+- HIST 353m Race and Racism in the Americas Units: 4
+- HIST 354 Mexican Migration to the United States Units: 4
+- HIST 355 The African-American Experience Units: 4
+- HIST 357 Modern Consumer Culture Units: 4
+- HIST 358 U.S. Gay and Lesbian History Units: 4
+- HIST 359 The U.S.-Mexico Border Units: 4
+- HIST 361 20th Century U.S. History Units: 4
+- HIST 362 Authenticity in Twentieth Century Popular Music Units: 4
+- HIST 368 Afro-Latin America Units: 4
+- HIST 370 Colonial Latin America Units: 4
+- HIST 372 Modern Latin America Units: 4
+- HIST 373 History of the Mexican American Units: 4
+- HIST 374 History of Mexico Units: 4
+- HIST 378m Introduction to Asian American History Units: 4
+- HIST 379 Arabs in America Units: 4
+- HIST 380 American Popular Culture Units: 4
+- HIST 386 American Legal History Units: 4
+- HIST 392 The Southern California Armenian Diaspora Units: 4
+- HIST 393g Quantitative Historical Analysis Units: 4
+- HIST 451 The Mexican Revolution Units: 4
+- HIST 452 20th Century Black Nationalism, Radicalism and Gender Units: 4
+- HIST 453 The Age of Emancipation Units: 4
+- HIST 455 Advanced Topics in African-American History Units: 4
+- HIST 456 Race, Slavery, and the Making of the Atlantic World Units: 4
+- HIST 457 Seminar in the American West Units: 4
+- HIST 459 Race and the Carceral State Units: 4
+- HIST 460 War, Race, and the Constitution Units: 4
+- HIST 473 Colonial Latin America Seminar Units: 4
+- HIST 487 The United States since 1939 Units: 4
+
+## Geographic Requirement: Africa, Asia and the Middle East
+
+---
+
+All majors must take ONE course in this area. See possible courses below.
+
+- HIST 106g Chinese Lives: An Introduction to Chinese History Units: 4
+- HIST 107gp Introduction to the History of Japan Units: 4
+- HIST 108g Histories of South Asia Units: 4
+- HIST 110g History of Early Africa Units: 4
+- HIST 111g African History Since 1880 Units: 4
+- HIST 185g A Survey of Armenian History Units: 4
+- HIST 266gp Business and East Asian Culture, 1800-Present Units: 4
+- HIST 301 Religions of Ancient Egypt and the Near East Units: 4
+- HIST 334 History of the Samurai Units: 4
+- HIST 335 History and Law in Japan Units: 4
+- HIST 336 History of Japan, 1550–1945 Units: 4
+- HIST 337 Japan since 1945 Units: 4
+- HIST 340 History of China since 1800 Units: 4
+- HIST 364 Religion and Difference in the Modern Middle East Units: 4
+- HIST 366 The People’s Republic of China Units: 4
+- HIST 377 Law and Society in Premodern China and Japan Units: 4
+- HIST 389 Modern Iran Units: 4
+- HIST 391 Feminist Histories of South Asia Units: 4
+- HIST 394p The Great Muslim Empires of the Near East and India Units: 4
+- HIST 437 Seminar in Modern Chinese History Units: 4
+- HIST 438 War and Peace in Medieval Japan Units: 4
+- HIST 448 South Africa: Race, Power and Resistance Units: 4
+- HIST 467 Defeat and Occupation in Modern Japan Units: 4
+- HIST 480 Seminar in Middle East History Units: 4
+
+## Geographic Requirement: Europe and the Mediterranean
+
+---
+
+All majors must take ONE course in this area. See possible courses below.
+
+- HIST 101gp State and Society in the Ancient World Units: 4
+- HIST 102gm The Worlds of Medieval Europe Units: 4
+- HIST 103gp The Emergence of Modern Europe Units: 4
+- HIST 104gp Modern Europe Units: 4
+- HIST 237gp Fascism Units: 4
+- HIST 306 The Early Middle Ages Units: 4
+- HIST 307 The High Middle Ages: 1100-1400 Units: 4
+- HIST 308 Britain and Ireland to 1200 C.E. Units: 4
+- HIST 309 Britain and Ireland, 1100–1500 C.E. Units: 4
+- HIST 312 The Age of the French Revolution and Napoleon Units: 4
+- HIST 314 Rome Through its Monuments from Antiquity to the Middle Ages Units: 4
+- HIST 315 Origins of Free Market Thought in Early Modern Europe Units: 4
+- HIST 316 The Renaissance Units: 4
+- HIST 319 The Quest for the Individual in Early Modern Europe Units: 4
+- HIST 321 The Crusades Units: 4
+- HIST 323 The Holocaust in 20th Century Europe Units: 4
+- HIST 325 Early Modern Britain Units: 4
+- HIST 326 The Victorians Units: 4
+- HIST 327 Twentieth Century Britain Units: 4
+- HIST 329 Madness and Society in the Modern Age Units: 4
+- HIST 350 Early Modern Things: Material Culture in Early Modern Life Units: 4
+- HIST 385 Law and Order in the Early Modern British World Units: 4
+- HIST 395 Sex and the City: Constructing Gender in London, 1700-1900 Units: 4
+- HIST 397 Gender, Madness and Modernism in Freud’s Vienna Units: 4
+- HIST 396 Women of Rome, from Antiquity through the Middle Ages Units: 4
+- HIST 403 The Age of Charlemagne and the Making of Europe Units: 4
+- HIST 405 Traveling in the Early Medieval Mediterranean Units: 4
+- HIST 407 Europe in the 10th Century Units: 4
+- HIST 408 Heretics and Prophets in the Middle Ages Units: 4
+- HIST 411 Early Modern European Cultural History Units: 4
+- HIST 417 History of Soviet Russia: 1917–1991 Units: 4, 2 years
+- HIST 422 European Intellectual and Cultural History: The 20th Century, 1920 to the Present Units: 4
+- HIST 427 The German Question: Nation and Identity in Modern Central Europe Units: 4
+- HIST 429 Street Life: Urban Culture in Modern Europe Units: 4
+
+## Geographic Requirement: Global or Transnational
+
+---
+
+All majors must take ONE course in this area. See possible courses below.
+
+- HIST 190g History of Science: Antiquity to the Scientific Revolution Units: 4
+- HIST 250g Climate Change: Science, History and Solutions Units: 4
+- HIST 251gp History of Science, Technology and Medicine Units: 4
+- HIST 278gp Ottomans and Empire: Anatolia, the Middle East, and the Mediterranean World Units: 4
+- HIST 322 Anti-Semitism, Racism and Other Hatreds Units: 4
+- HIST 330 Drugs: A Global Cultural History Units: 4
+- HIST 331 The British Empire: 1588–1834 Units: 4
+- HIST 363 A Global History of Computing Units: 4
+- HIST 371 Culture in Diaspora: The Jews of Spain Units: 4
+- HIST 381 Cinema and History Units: 4
+- HIST 398 The History of Waste Units: 4
+- HIST 413 The Age of Revolutions Units: 4
+- HIST 430 Migration and Displacement in the Indian Ocean World Units: 4
+- HIST 431 Histories of the Apocalypse Units: 4
+- HIST 433 The History of Drink Units: 4
+- HIST 443 Race and Religious Riots in Modern World History Units: 4
+- HIST 444 Mass Violence and Comparative Genocide in Modern World History Units: 4
+- HIST 446 Resistance to Genocide Units: 4
+- HIST 447 Law and Empire: An Introduction to Global Legal History Units: 4
+- HIST 479 History in the Museum: The Past in Objects Units: 4
+- HIST 482 Family History, World History Units: 4
+
+## Temporal Requirement: Pre-1800
+
+---
+
+All majors must take TWO courses from this period. See possible courses below.
+
+- HIST 101gp State and Society in the Ancient World Units: 4
+- HIST 102gm The Worlds of Medieval Europe Units: 4
+- HIST 103gp The Emergence of Modern Europe Units: 4
+- HIST 106g Chinese Lives: An Introduction to Chinese History Units: 4
+- HIST 110g History of Early Africa Units: 4
+- HIST 185g A Survey of Armenian History Units: 4
+- HIST 190g History of Science: Antiquity to the Scientific Revolution Units: 4
+- HIST 271g Telling Native American Stories Units: 4
+- HIST 272g Women and Gender in the Ancient and Spanish Americas Units: 4
+- HIST 273g Colonial Latin America Units: 4
+- HIST 278gp Ottomans and Empire: Anatolia, the Middle East, and the Mediterranean World Units: 4
+- HIST 301 Religions of Ancient Egypt and the Near East Units: 4
+- HIST 306 The Early Middle Ages Units: 4
+- HIST 307 The High Middle Ages: 1100-1400 Units: 4
+- HIST 308 Britain and Ireland to 1200 C.E. Units: 4
+- HIST 309 Britain and Ireland, 1100–1500 C.E. Units: 4
+- HIST 314 Rome Through its Monuments from Antiquity to the Middle Ages Units: 4
+- HIST 315 Origins of Free Market Thought in Early Modern Europe Units: 4
+- HIST 316 The Renaissance Units: 4
+- HIST 319 The Quest for the Individual in Early Modern Europe Units: 4
+- HIST 321 The Crusades Units: 4
+- HIST 325 Early Modern Britain Units: 4
+- HIST 331 The British Empire: 1588–1834 Units: 4
+- HIST 334 History of the Samurai Units: 4
+- HIST 335 History and Law in Japan Units: 4
+- HIST 349 Colonial North America 1600–1760 Units: 4
+- HIST 350 Early Modern Things: Material Culture in Early Modern Life Units: 4
+- HIST 351 The American Revolution Units: 4
+- HIST 370 Colonial Latin America Units: 4
+- HIST 371 Culture in Diaspora: The Jews of Spain Units: 4
+- HIST 377 Law and Society in Premodern China and Japan Units: 4
+- HIST 385 Law and Order in the Early Modern British World Units: 4
+- HIST 394p The Great Muslim Empires of the Near East and India Units: 4
+- HIST 396 Women of Rome, from Antiquity through the Middle Ages Units: 4
+- HIST 403 The Age of Charlemagne and the Making of Europe Units: 4
+- HIST 405 Traveling in the Early Medieval Mediterranean Units: 4
+- HIST 407 Europe in the 10th Century Units: 4
+- HIST 411 Early Modern European Cultural History Units: 4
+- HIST 456 Race, Slavery, and the Making of the Atlantic World Units: 4
+- HIST 438 War and Peace in Medieval Japan Units: 4
+
+## Temporal Requirement: Post-1800
+
+---
+
+All majors must take TWO courses from this period. See possible courses below.
+
+- HIST 100mg Rethinking the American Experience Units: 4
+- HIST 104gp Modern Europe Units: 4
+- HIST 107gp Introduction to the History of Japan Units: 4
+- HIST 108g Histories of South Asia Units: 4
+- HIST 109g The Latin American Experience Units: 4
+- HIST 111g African History Since 1880 Units: 4
+- HIST 210gw How to Be An American: Global Histories of U.S. Citizenship Units: 4
+- HIST 211gp Race in America Units: 4
+- HIST 225g Film, Power, and American History Units: 4
+- HIST 235g War and the American Experience Units: 4
+- HIST 237gp Fascism Units: 4
+- HIST 240gp The History of California Units: 4
+- HIST 241gp Introduction to the American West Units: 4
+- HIST 245mgp How Sex Changed: US History, 1870-the Present Units: 4
+- HIST 250g Climate Change: Science, History and Solutions Units: 4
+- HIST 251gp History of Science, Technology and Medicine Units: 4
+- HIST 266gp Business and East Asian Culture, 1800-Present Units: 4
+- HIST 312 The Age of the French Revolution and Napoleon Units: 4
+- HIST 317gmp Native Americans in American Public Life Units: 4
+- HIST 320p Law, Slavery, and Race Units: 4
+- HIST 323 The Holocaust in 20th Century Europe Units: 4
+- HIST 326 The Victorians Units: 4
+- HIST 327 Twentieth Century Britain Units: 4
+- HIST 329 Madness and Society in the Modern Age Units: 4
+- HIST 330 Drugs: A Global Cultural History Units: 4
+- HIST 336 History of Japan, 1550–1945 Units: 4
+- HIST 337 Japan since 1945 Units: 4
+- HIST 340 History of China since 1800 Units: 4
+- HIST 343 Empire’s Workshop: The United States in Latin America Units: 4
+- HIST 352 The American Civil War Units: 4
+- HIST 353m Race and Racism in the Americas Units: 4
+- HIST 354 Mexican Migration to the United States Units: 4
+- HIST 355 The African-American Experience Units: 4
+- HIST 357 Modern Consumer Culture Units: 4
+- HIST 358 U.S. Gay and Lesbian History Units: 4
+- HIST 359 The U.S.-Mexico Border Units: 4
+- HIST 361 20th Century U.S. History Units: 4
+- HIST 362 Authenticity in Twentieth Century Popular Music Units: 4
+- HIST 363 A Global History of Computing Units: 4
+- HIST 364 Religion and Difference in the Modern Middle East Units: 4
+- HIST 366 The People’s Republic of China Units: 4
+- HIST 368 Afro-Latin America Units: 4
+- HIST 372 Modern Latin America Units: 4
+- HIST 373 History of the Mexican American Units: 4
+- HIST 374 History of Mexico Units: 4
+- HIST 378m Introduction to Asian American History Units: 4
+- HIST 379 Arabs in America Units: 4
+- HIST 380 American Popular Culture Units: 4
+- HIST 381 Cinema and History Units: 4
+- HIST 386 American Legal History Units: 4
+- HIST 389 Modern Iran Units: 4
+- HIST 391 Feminist Histories of South Asia Units: 4
+- HIST 392 The Southern California Armenian Diaspora Units: 4
+- HIST 393g Quantitative Historical Analysis Units: 4
+- HIST 395 Sex and the City: Constructing Gender in London, 1700-1900 Units: 4
+- HIST 397 Gender, Madness and Modernism in Freud’s Vienna Units: 4
+- HIST 398 The History of Waste Units: 4
+- HIST 408 Heretics and Prophets in the Middle Ages Units: 4
+- HIST 413 The Age of Revolutions Units: 4
+- HIST 417 History of Soviet Russia: 1917–1991 Units: 4, 2 years
+- HIST 422 European Intellectual and Cultural History: The 20th Century, 1920 to the Present Units: 4
+- HIST 427 The German Question: Nation and Identity in Modern Central Europe Units: 4
+- HIST 429 Street Life: Urban Culture in Modern Europe Units: 4
+- HIST 430 Migration and Displacement in the Indian Ocean World Units: 4
+- HIST 433 The History of Drink Units: 4
+- HIST 437 Seminar in Modern Chinese History Units: 4
+- HIST 443 Race and Religious Riots in Modern World History Units: 4
+- HIST 444 Mass Violence and Comparative Genocide in Modern World History Units: 4
+- HIST 446 Resistance to Genocide Units: 4
+- HIST 448 South Africa: Race, Power and Resistance Units: 4
+- HIST 451 The Mexican Revolution Units: 4
+- HIST 452 20th Century Black Nationalism, Radicalism and Gender Units: 4
+- HIST 453 The Age of Emancipation Units: 4
+- HIST 455 Advanced Topics in African-American History Units: 4
+- HIST 457 Seminar in the American West Units: 4
+- HIST 459 Race and the Carceral State Units: 4
+- HIST 460 War, Race, and the Constitution Units: 4
+- HIST 467 Defeat and Occupation in Modern Japan Units: 4
+- HIST 479 History in the Museum: The Past in Objects Units: 4
+- HIST 482 Family History, World History Units: 4
+- HIST 487 The United States since 1939 Units: 4
+
+## Capstone Requirement
+
+---
+
+All history majors must complete a capstone course in the fall and/or spring of their senior year (exceptions can be made for juniors who need to take it earlier). There are two ways to complete the history capstone: a History Honors Thesis or a History Capstone Exercise.
+
+The History Honors Thesis is a substantial work of scholarship based on original primary source research and/or extensive analysis of a methodological or historiographical issue. To apply for the Honors program, students need a 3.5 or higher GPA in all USC history coursework (although this can be waived in certain cases). They also need to take HIST 492 , both in the fall and spring semester. Those who take this track will be considered for honors in the major. Taking HIST 492 will count as their Capstone.
+
+The History Capstone Exercise is a way for students to reflect upon what they have learned as a history major. They will need to fill out a google form (or submit their answers in essay form) where they will reflect upon the classes they took, the papers wrote, and the skills they have developed. They will also attend one of the “Capstone Conversation” events scheduled throughout the year, where they will discuss their answers and their experiences as a major in a larger group setting. The questions and google document link will be posted on the website under Undergraduate Capstone.
+
+---

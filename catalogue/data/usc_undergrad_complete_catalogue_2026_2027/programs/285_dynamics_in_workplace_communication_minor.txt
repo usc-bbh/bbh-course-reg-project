@@ -1,0 +1,64 @@
+Program Name: Dynamics in Workplace Communication Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32583
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32583&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32583
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:52Z
+Content SHA-256: 68e04708492c2b3871f8fe7b25a0f66a4b9e9dff7c68d00f10873cb5f9046374
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Dynamics in Workplace Communication Minor
+
+---
+
+Whether navigating the culture of a start-up, a Fortune 100 company, or in any domestic or international workplace situation, strategic and emotionally intelligent communication is essential. This minor has a high emphasis on application practice to prepare students to succeed in their work environment. Courses feature experiential components and/or offer opportunities to connect with professionals and outside constituencies to learn hands-on about communication challenges and how to develop effective communication strategy.
+
+To declare this minor, students must have a declared major and must have completed 32 units of college level courses with a cumulative USC GPA of at least 2.75.
+
+Students taking this minor should, if possible, enroll in the business version of the upper division USC writing requirement: WRIT 340 Advanced Writing and Critical Engagement .
+
+Successful completion of the minor requires a minimum cumulative GPA of 2.0 in the courses applied to the minor.
+
+## Required Courses (8 units)
+
+---
+
+- BUAD 302 Communication Strategy in Business Units: 4
+-
+- Complete one of the following:
+- BUCO 333mw Communication in the Working World - Managing Diversity Units: 4
+- BUCO 460 International Business Communication Units: 4
+
+## Electives (8 units)
+
+---
+
+- Business Communication (4-8 units)
+  Complete at least one of the following BUCO courses:
+- BUCO 333mw Communication in the Working World - Managing Diversity Units: 4 *
+- BUCO 425 Ethics and Professional Communication Units: 4
+- BUCO 445 Communicating to Lead and Persuade Units: 4
+- BUCO 458 Managing Communication and New Media Units: 4
+- BUCO 460 International Business Communication Units: 4 *
+- BUCO 485 Business Communication Management for Nonprofits Units: 4
+- * May be completed as an elective if not applied as a required course.
+-
+- Free Electives (0-4 units)
+  Complete any of the following as needed to total 16 units:
+- BAEP 470 The Entrepreneurial Mindset — Taking the Leap Units: 2
+- BAEP 472 The Science of Peak Performance Units: 2
+- BAEP 475 Entertainment Entrepreneurship Units: 2
+- BAEP 491 Introduction to Social Entrepreneurship Units: 4
+- BUCO 450 Communication for Organizations: Exploring Creativity Units: 2
+- MOR 469 Negotiation and Persuasion Units: 4
+- MOR 471 Managing and Developing People Units: 4
+- Return to: USC Marshall School of Business
+
+---

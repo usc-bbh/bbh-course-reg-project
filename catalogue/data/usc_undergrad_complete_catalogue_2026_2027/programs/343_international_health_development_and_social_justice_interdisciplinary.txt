@@ -1,0 +1,138 @@
+Program Name: International Health, Development, and Social Justice Interdisciplinary Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31829
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31829&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31829
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:28Z
+Content SHA-256: be66ce5da0266a6f84397915377c3901a6e768afb4bf779901277dc47f7aa078
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# International Health, Development, and Social Justice Interdisciplinary Minor
+
+---
+
+This minor is intended for students who wish to understand the challenges associated with health care as an ethical issue in the international context. In doing so, it focuses on the convergence of three large fields of inquiry, raising questions about their intersection. Social justice is concerned with equity, with questions of fairness as they inform (or should inform) access to resources necessary for the survival and well-being of people around the globe.
+
+To provide the necessary content, this minor presents an introduction to political economy, to cross-cultural approaches to health and wellness, and to theories of economic development as they relate to health care.
+
+This minor is intended to prepare students for careers and leadership roles in the arenas of international health, medical ethics, overpopulation, economic development, human welfare and principles of social justice.
+
+As with all minors, students should include four courses outside their major, four courses at the upper-division level, and four courses that are not being used to satisfy any other subject requirement. In addition, to satisfy this minor, students must choose courses from at least two different departments.
+
+REQUIRED COURSE WORK: 24 units
+
+## Lower Division Requirement: Choose one Course (4 Units)
+
+---
+
+Students should have some experience with engaging ethical questions or considering the context in which these issues arise, which can be accomplished by completing one of the following:
+
+- ANTH 101g Body, Mind and Healing: Introduction to Medical Anthropology Units: 4
+- ANTH 105g Culture, Medicine and Politics Units: 4
+- ANTH 125g Social Issues in Human Sexuality and Reproduction Units: 4
+- ANTH 205g Introduction to Global Studies and Cross-cultural Research Units: 4
+- BISC 102Lgx Humans and Their Environment Units: 4
+- BISC 103Lgx General Biology for the Environment and Life Units: 4
+- BISC 150Lgx The Nature of Human Health and Disease Units: 4
+- ECON 205g Principles of Macroeconomics Units: 4
+- GEOL 108Lg Natural Disasters and Their Global Impact Units: 4
+- IR 101gxw International Relations Units: 4
+- IR 213 The Global Economy Units: 4 *
+- PHIL 166gw Current Moral and Social Issues Units: 4
+- PHIL 172gmw Social Ethics for Earthlings and Others Units: 4
+- SOCI 225gw Sociology of Health and the Body Units: 4
+- SOCI 242g Sociology, Demography and Health Units: 4 **
+
+### Note:
+
+---
+
+*Prerequisite: IR 210
+
+**Prerequisite: BISC 120 or BISC 220
+
+## Introduction to Political Economy: Choose One Course (4 Units)
+
+---
+
+The courses in this and the following categories provide an understanding of the forces that shape global development.
+
+- ECON 238xg Political Economy and Social Issues Units: 4
+- ECON 340 Economics of Less Developed Countries Units: 4 *
+- ECON 350 The World Economy Units: 4 *
+- POSC 435 Politics and the Economy Units: 4
+
+### Note:
+
+---
+
+*Prerequisite: ECON 203 or ECON 205
+
+## Theories of Development: Choose One Course (4 Units)
+
+---
+
+- IR 325 North-South Relations in the Global Economy Units: 4
+- IR 344 The Global South in World Politics Units: 4
+- IR 454 The International Political Economy of Development Units: 4
+- POSC 456 Women in International Development Units: 4
+- SOCI 314Lg Analyzing Social Statistics Units: 4
+- SOCI 362 Global and Transnational Sociology Units: 4
+- SOCI 470 Social Change in Low-Income Countries Units: 4
+
+## Cross-Cultural Perspectives on Health and Wellness: Choose One Course (4 Units)
+
+---
+
+These courses explore cultural attitudes and differences about health and wellness that affect decisions about health care.
+
+- ANTH 301g The Global Performance of Healing Units: 4
+- ANTH 305 Childhood, Birth and Reproduction Units: 4
+- ANTH 405 Evolutionary Medicine Units: 4
+- IR 339 Public Health and International Relations Units: 4
+- PSYC 367g Stress, Health, and the Mind-Body Connection Units: 4 *
+- PSYC 462m Culture and Mental Health Units: 4 **
+- REL 460 Senior Seminar: Medical Ethics Units: 4
+- SOCI 475 Medical Sociology Units: 4
+- SWMS 336 Health, Gender and Ethnicity Units: 4
+
+### Note:
+
+---
+
+*Prerequisite: PSYC 100
+
+**Recommended preparation: PSYC 100
+
+## Perspectives on Social Justice: Choose One Course (4 Units)
+
+---
+
+These courses familiarize students with the application of legal and ethical questions to social phenomena and the allocation of resources.
+
+- ANTH 300 Evolution, Ecology, and Culture Units: 4
+- IR 316 Gender and Global Issues Units: 4
+- IR 401 The United Nations and World Order Units: 4
+- PHIL 431 Law, Society, and Politics Units: 4
+- PHIL 437 Social and Political Philosophy Units: 4
+- REL 366 Religion and Social Change Units: 4
+- SOCI 360m Social Inequality: Class, Status and Power Units: 4
+
+## Capstone Requirement: Choose One Course (4 Units)
+
+---
+
+These capstone courses examine efforts to introduce issues of social justice to the distribution of health care and other resources essential for human survival and well-being.
+
+- MDA 320 Global Ethics: Poverty, Health and the Human Condition Units: 4
+- SOCI 408 Volunteers, Non-Governmental Organizations, and Everyday Politics Units: 4
+- SOCI 450 Non-Governmental Organizations/Non-profits Field Practicum Units: 4
+
+---

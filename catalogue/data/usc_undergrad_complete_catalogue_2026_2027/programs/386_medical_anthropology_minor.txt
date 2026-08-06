@@ -1,0 +1,64 @@
+Program Name: Medical Anthropology Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31704
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31704&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31704
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:51Z
+Content SHA-256: d3475e6bdfc2d3ddf9b23e03bc186577de868d5b22e9dc9e76166473b3778250
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Medical Anthropology Minor
+
+---
+
+Medical anthropology examines the body, illness and healing from a cultural perspective, including comparative studies of folk healing systems, curing rituals and Western biomedical practices.
+
+## Lower-Division Courses (8 Units):
+
+---
+
+Two lower-division Anthropology courses, selected from the following:
+
+- ANTH 101g Body, Mind and Healing: Introduction to Medical Anthropology Units: 4
+- ANTH 105g Culture, Medicine and Politics Units: 4
+- ANTH 125g Social Issues in Human Sexuality and Reproduction Units: 4
+- ANTH 201g Introduction to Social and Cultural Anthropology Units: 4
+- HBIO 200Lg The Human Animal Units: 4
+- ANTH 273g Shamans, Spirits and Ancestors: Non-Western Religious Traditions Units: 4
+
+## Upper-Division Courses (16 Units):
+
+---
+
+16 units of upper-division Anthropology coursework, selected from the following:
+
+- ANTH 300 Evolution, Ecology, and Culture Units: 4
+- ANTH 301g The Global Performance of Healing Units: 4
+- ANTH 305 Childhood, Birth and Reproduction Units: 4
+- ANTH 308 Origins and Evolution of Human Behavior Units: 4
+- ANTH 325 Mixed Methods Research for Global and Cross-Cultural Studies Units: 4
+- or
+- ANTH 410 Ethnographic Research Methods Units: 4
+- ANTH 332g Anthropology and Narrative Medicine Units: 4
+- ANTH 338g Food in Culture and Society Units: 4
+- ANTH 357g Cultures of Genocide, Cultures of Care Units: 4
+- ANTH 360 Symbolic Anthropology Units: 4
+- ANTH 370 Sex, Love, and Marriage: An Introduction to Kinship Units: 4
+- ANTH 373 Magic, Witchcraft and Healing Units: 4
+- ANTH 380 Sex and Gender in Anthropological Perspective Units: 4
+- ANTH 385m Men and Masculinity Units: 4
+- ANTH 393 Directed Internship Units: 2, 3, 4, 5, 6, 7, 8
+- ANTH 405 Evolutionary Medicine Units: 4
+- ANTH 440 History of Anthropological Theory Units: 4
+- ANTH 445 African American Anthropology Units: 4
+- OT 375 The Narrative Structure of Social Action: Narrative, Healing and Occupation Units: 4
+- SWMS 336 Health, Gender and Ethnicity Units: 4
+
+---

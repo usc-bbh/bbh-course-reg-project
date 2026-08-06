@@ -1,0 +1,58 @@
+Program Name: Real Estate Development Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32311
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32311&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32311
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:41Z
+Content SHA-256: c461a43217bbb891b88b96d4dbb1858148cb2fd7b6896f90ff1c6290cfe8bafe
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Real Estate Development Minor
+
+---
+
+This minor provides students with an overview of the field of real estate development - its principles, the urban context and history, finance, as well as the opportunity to select an elective. The minor requires 20 units, including four core courses and 4 units of electives. The minor is intended for any student with an interest in a career in real estate.
+
+## Core (16 units):
+
+---
+
+- RED 200 Introduction to Real Estate Units: 4
+-
+- PPD 227 Planning for the Future City Units: 4 or
+- PPD 245g The Urban Context Units: 4
+-
+- RED 362 Real Estate Development Fundamentals Units: 4
+-
+- FBE 400x Introduction to Real Estate Finance and Development Units: 4 or
+- RED 375 Real Estate Development Analysis Units: 4
+
+### Electives (4 units):
+
+---
+
+- PPD 358 Urban and Regional Economics Units: 4
+- PPD 360 Urban Transportation Planning and Policy Units: 4
+- PPD 361 Sustainable Communities, Policy and Planning Units: 4
+- PPD 364 Technology and the City Units: 4
+- PPD 422 Transportation Data and Automation Units: 4
+- PPD 439 Housing and Community Development Units: 4
+- RED 351 Land Use Regulation Units: 4
+- RED 398 Shaping Cities Through Real Estate Units: 2, 3, 4
+- RED 417 History of Planning and Development Units: 4
+- RED 425 Designing Livable Communities Units: 4
+- RED 435 Analyzing Real Estate Markets Units: 4
+- RED 469 Mixed Use Development Process Units: 4
+
+## Total Units: 20
+
+---
+
+---

@@ -1,0 +1,32 @@
+Program Name: Blockchain Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32585
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32585&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32585
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:53Z
+Content SHA-256: d64eb41d3493a623cc89b80a98303eebf22bd9a7257bdf3aec89ebfabad0e6d5
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Blockchain Minor
+
+---
+
+Blockchain is a way of recording peer-to-peer transactions in a distributed public ledger. The Blockchain Minor explores the fundamentals of the public (and private), transparent, secure, tamper-resistant, and distributed databases known as blockchains. Students will learn how to develop smart contracts as self-executing programs that run on the blockchain and be introduced to cutting-edge research results and developments as blockchain technology evolves. Finally, students will apply their knowledge in a project-oriented capstone course during which they will design and develop a practical application of blockchain technology.
+
+## Required Courses (16 units)
+
+---
+
+- TAC 256 Blockchain Units: 4
+- TAC 356 Blockchain: Decentralized Applications Units: 4 (Prerequisite: TAC 256 )
+- TAC 366 Blockchain: Advances and Use Cases Units: 4 (Prerequisite: TAC 256 )
+- TAC 456 Blockchain: Capstone Units: 4 (Prerequisite: TAC 356 and TAC 366 )
+
+---

@@ -1,0 +1,248 @@
+Program Name: Narrative Studies (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31790
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31790&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31790
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:02Z
+Content SHA-256: 34342684f53f89798ca79477eefb3cc3dbe8f1bb46077b0bf9d4027416700ad5
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Narrative Studies (BA)
+
+---
+
+Narrative Studies prepares students for the development and evaluation of original content for novels, films, theatre and other narrative platforms, but recognizes that the range of professional opportunities in literature and the performing arts is much wider than the roles of author, screenwriter or playwright. To recognize a good story, to critique, help shape, realize and transform it, requires a background in the history of narrative, crosscultural and contemporary models, and an understanding of the broader context of popular culture.
+
+Narrative Studies assumes that an effective narrative will be adapted from the medium in which it first appears as new media become available. To prepare students for a future in which the platform is likely to change, the Bachelor of Arts in Narrative Studies allows students to study across the current platforms while concentrating on the techniques of effective construction common to them all.
+
+## Requirements
+
+---
+
+The Narrative Studies major requires 40 units distributed across an introductory course ENGL 270g , six required categories, two upper-division electives, and a senior capstone project. Of the 40 units, only 12 units can be from schools outside of Dornsife (i.e. Cinematic Arts, Thornton, Roski, Dramatic Arts, etc.) and only 12 units can be lower-division (100-200 level).
+
+### Studying Narrative
+
+---
+
+- ENGL 270g Studying Narrative Units: 4
+
+### Narrative Media (choose one course):
+
+---
+
+- ANTH 203g Global Media Units: 4
+- COLT 373 Literature and Film Units: 4
+- COLT 365 Literature and Popular Culture Units: 4
+- CTCS 190g Introduction to Cinema Units: 4
+- CTCS 191 Introduction to Television and Video Units: 4
+- CTIN 190 Introduction to Interactive Entertainment Units: 4
+- ENGL 371g Literary Genres and Film Units: 4
+- ENGL 372 Literature and Related Arts Units: 4
+- ENGL 392 Visual and Popular Culture Units: 4
+- THTR 125 Text Studies for Production Units: 4
+- THTR 195g Theatre on Film: The Movie Musical Units: 4
+- THTR 403 The Performing Arts Units: 4
+- Or other appropriate course work as determined by the department.
+
+### Creating Narrative (choose one or two courses, totaling 4 units):
+
+---
+
+- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4
+- CTWR 412 Introduction to Screenwriting Units: 2
+- CTWR 415a Advanced Writing Units: 2
+- ENGL 300 The Art and Craft of the Essay Units: 2, 3, 4
+- ENGL 302 Writing Narrative Units: 4
+- ENGL 303 Introduction to Fiction Writing Units: 4
+- ENGL 305 Introduction to Creative Nonfiction Units: 4
+- THTR 365 Playwriting I Units: 4
+- THTR 366 Playwriting II Units: 4
+- Or other appropriate course work as determined by the department.
+
+### Politics of Narrative (choose one course):
+
+---
+
+- AHIS 366g Picturing Democracy: American Art and Visual Culture, 1750-1900 Units: 4
+- COLT 303 Globalization: Culture, Change, Resistance Units: 4
+- COLT 476 Narrative and the Law Units: 4
+- COMM 206 Communication and Culture Units: 4
+- COMM 384 Interpreting Popular Culture Units: 4
+- COMM 412 Communication and Social Movements Units: 4
+- CTCS 192mg Race, Class, and Gender in American Film Units: 4
+- CTCS 412 Gender, Sexuality and Media Units: 4
+- ENGL 280g Introduction to Narrative Medicine Units: 4
+- ENGL 344gm Sexual/Textual Diversity Units: 4
+- ENGL 373g Literature and Society Units: 4
+- ENGL 475 Politics and the Novel Units: 4
+- MUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4
+- MUSC 372g Music and Politics Units: 4
+- MUSC 374g Beatles, Stones, Bowie: Empire and Masculinity Units: 4
+- POSC 437 Mass Media and Politics Units: 4
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 405m Performing Identities Units: 4
+- Or other appropriate course work as determined by the department.
+
+### Narrative and Global Cultures (choose one course):
+
+---
+
+- AMST 204g Introduction to Native Studies Units: 4
+- AMST 274mw Exploring Ethnicity through Film Units: 4
+- AMST 285gm African American Popular Culture Units: 4
+- AMST 325gw The Middle East in Hollywood Units: 4
+- AMST 448m Chicano and Latino Literature Units: 4
+- AMST 449m Asian American Literature Units: 4
+- ANTH 123gp Forms of Folklore Units: 4
+- ANTH 263g Exploring Culture through Film Units: 4
+- ANTH 365 Life History in Anthropological Perspective Units: 4
+- ANTH 372 Interpretation of Myth and Narrative Units: 4
+- COLT 102g On Location: The Place of Literature in Global Cultures Units: 4
+- COLT 250g Cultures of Latin America Units: 4
+- COLT 264gp Asian Aesthetic and Literary Traditions Units: 4
+- COLT 303 Globalization: Culture, Change, Resistance Units: 4
+- COLT 360gp Fictions of Africa Units: 4
+- COLT 375 Latin American Cultural and Literary Theory Units: 4
+- COLT 382gw Zen and Daoism in Asian Literature Units: 4
+- CTCS 200g History of the International Cinema I Units: 4
+- CTCS 201 History of the International Cinema II Units: 4
+- DANC 312gw African American Dance Units: 4
+- DANC 342gp International and Historical Perspectives on Dance Units: 4
+- EALC 110gp East Asian Humanities: The Great Tradition Units: 4
+- EALC 125g Introduction to Contemporary East Asian Cinema and Culture Units: 4
+- EALC 145g Introduction to Chinese Culture, Art and Literature Units: 4
+- EALC 150gw Global Chinese Cinema and Cultural Studies Units: 4
+- EALC 332 Modern Korean Literature in Translation Units: 4
+- EALC 333g Introduction to Korean Film Units: 4
+- EALC 342gp Japanese Literature and Culture Units: 4
+- EALC 358g Transnational Chinese Literature and Culture Units: 4
+- EALC 380 Cultural Topics in East Asian Literature Units: 4
+- EALC 385 Myth, Folklore, and Fantasy in Japanese Literature and Film Units: 4
+- EALC 452 Chinese Fiction Units: 4
+- EALC 455 Japanese Fiction Units: 4
+- ENGL 333g Literature of Gandhi’s India Units: 4
+- ENGL 374m Literature, Nationality and Otherness Units: 4
+- ENGL 444m Native American Literature Units: 4
+- ENGL 445m The Literatures of America: Cross-Cultural Perspectives Units: 4
+- ENGL 447m African-American Narrative Units: 4
+- ENGL 450 Caribbean Literature Units: 4
+- ENGL 451 Black British Literature Units: 4
+- FREN 320g The French New Wave and its Legacy Units: 4
+- FREN 375gmw Global Narratives of Illness and Disability Units: 4
+- GERM 360g 20th Century German Prose: Texts and Films Units: 4
+- ITAL 360g Italian Cinema Units: 4
+- MDES 343g Modern Arab Culture and Literature Units: 4
+- MUSC 320gmw Hip-hop Music and Culture Units: 4
+- SLL 397p Literature, Ideology and Film in Eastern European History Units: 4
+- SPAN 301 Introduction to Literature and Film Units: 4
+- SPAN 302 Screen Cultures: From Film to the Internet Units: 4
+- SPAN 380g Literature of Mexico Units: 4
+- THTR 456 Latinx Theatre Units: 4
+- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4
+- THTR 476mw African American Theatre, Dance, and Performance Units: 4
+- Or other appropriate course work as determined by the department.
+
+### Narrative Across History (choose one course):
+
+---
+
+- ANTH 140g Mesoamerican Cosmovision and Culture Units: 4
+- CLAS 151gp The Legacy of Rome Units: 4
+- CLAS 280gp Classical Mythology in Art and Literature Units: 4
+- CLAS 325 Ancient Epic Units: 4
+- CLAS 337gp Ancient Drama Units: 4
+- CLAS 380 Approaches to Myth Units: 4
+- COLT 251g Literature and Thought of the West Since 1800 Units: 4
+- COLT 312 Heroes, Myths and Legends in Literature and the Arts Units: 4
+- COLT 324 Women in Medieval and Renaissance Europe Units: 4
+- COLT 374gm Women Writers in Europe and America Units: 4
+- ENGL 261g English Literature to 1800 Units: 4
+- ENGL 262g English Literature since 1800 Units: 4
+- ENGL 263g American Literature Units: 4
+- ENGL 352g Bookpacking Units: 4
+- ENGL 341 Women in English Literature before 1800 Units: 4
+- ENGL 342g Women in English and American Literature after 1800 Units: 4
+- ENGL 364 The Modern Novel Units: 4
+- ENGL 422 English Literature of the 17th Century Units: 4
+- ENGL 423 English Literature of the 18th Century (1660–1780) Units: 4
+- ENGL 424 English Literature of the Romantic Age (1780–1832) Units: 4
+- ENGL 425 English Literature of the Victorian Age (1832–1890) Units: 4
+- ENGL 426 Modern English Literature (1890–1945) Units: 4
+- ENGL 430 Shakespeare Units: 4
+- ENGL 440 American Literature to 1865 Units: 4
+- ENGL 441 American Literature, 1865 to 1920 Units: 4
+- ENGL 461 English Drama to 1800 Units: 4
+- ENGL 465 The English Novel to 1800 Units: 4
+- ENGL 466 The 19th Century English Novel Units: 4
+- GERM 340 German Prose Fiction from Goethe to Thomas Mann Units: 4
+- GERM 372g Literature and Culture in Berlin in the 1920s Units: 4
+- ITAL 350g Gender and Sexuality in Renaissance Italy Units: 4
+- ITAL 381 Storytelling in the Italian Tradition Units: 4
+- MDES 320g Arabic Literature: Classical to Contemporary Units: 4
+- SLL 302g Modern Russian Literature Units: 4
+- SLL 344g Tolstoy: Writer and Moralist Units: 4
+- SLL 345g Literature and Philosophy: Dostoevsky Units: 4
+- SPAN 304 The Art of Fiction Units: 4
+- THTR 301 Greek and Roman Theatre Units: 4
+- THTR 302 Shakespeare in His World Units: 4
+- Or other appropriate course work as determined by the department.
+
+### Contemporary Narrative (choose one course):
+
+---
+
+- COLT 348 Modernist Fiction Units: 4
+- COLT 420 The Fantastic Units: 4
+- COLT 472 Los Angeles Crime Fiction Units: 4
+- CTCS 394 History of American Cinema since 1960 Units: 4
+- EALC 332 Modern Korean Literature in Translation Units: 4
+- EALC 354g Modern Chinese Literature in Translation Units: 4
+- ENGL 361g Contemporary Prose Units: 4
+- ENGL 363g Contemporary Drama Units: 4
+- ENGL 375 Science Fiction Units: 4
+- ENGL 376g Comics and Graphic Novels Units: 4
+- ENGL 442 American Literature, 1920 to the Present Units: 4
+- SLL 303 Contemporary Russian Literature Units: 4
+- SPAN 372 Modern and Contemporary Latin American Fiction Units: 4
+- THTR 314 Advanced Topics in Modern Drama Units: 4
+- THTR 401 Contemporary Theatre in a Changing World Units: 4
+- Or other appropriate course work as determined by the department.
+
+### Two additional courses
+
+---
+
+(three if CTWR 412 /CTWR 414 are chosen) (8 units) at the upper-division 300 or 400 level, from different departments, chosen from the lists above.
+
+### Capstone Enrollment:
+
+---
+
+- ENGL 492 Narrative Studies Capstone Seminar Units: 4
+- or
+- MDA 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 (4 Units Required)
+- or
+- MDA 494 Directed Creative Project Units: 2, 3, 4 (4 Units Required)
+- Or other appropriate course work as determined by the department.
+
+## Total: 40 units
+
+---
+
+Ten courses, including at least seven at the upper-division level, for a total of 40 units.
+
+*Prerequisite required
+
+**Corequisite required
+
+***Recommend preparation suggested
+
+---

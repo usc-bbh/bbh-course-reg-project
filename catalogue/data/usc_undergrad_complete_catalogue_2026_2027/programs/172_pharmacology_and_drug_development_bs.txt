@@ -1,0 +1,179 @@
+Program Name: Pharmacology and Drug Development (BS)
+Credential: BS
+School or Academic Unit: Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32517
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32517&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32517
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:35Z
+Content SHA-256: 04cf546c1b98dcd01d2240642eb29b504f4587d43e8f57afc30d2584ddbf8891
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Pharmacology and Drug Development (BS)
+
+---
+
+The Bachelor of Science in Pharmacology and Drug Development (PDD) provides a well-defined pathway for science and non-science majors to gain significant knowledge in pharmacology, pharmaceutical sciences, toxicology and medical product development, marketing and use.
+
+Pharmacology is the science of drugs including their origin, composition, pharmacokinetics, pharmacodynamics, therapeutic uses and toxicology. Drug development is the discipline that deals with the process of turning a new chemical entity (NCE) into a safe and effective medication for the advancement of human health. Completion of the PDD major will significantly prepare USC undergraduates for advanced training in health related fields including pharmacy, medicine, dentistry, occupational therapy and other clinical specialties. The PDD major is also uniquely suited to provide course work applicable for undergraduates interested in drug discovery/development training that will lead to careers in biotech, pharmaceutical and biomedical industries ranging from private companies to governmental careers.
+
+The Bachelor of Science in Pharmacology and Drug Development requires the completion of a minimum of 128 units that include:
+
+1. General education and writing requirements
+2. Foundational courses designed to prepare students for the major
+3. An introductory 4-unit lower-division (200 level) course in Pharmaceutical and Regulatory Science (RXRS)
+4. A minimum number of 32 units of upper-division (300 level and above) courses in Pharmaceutical and Regulatory Science (RXRS)
+5. A minimum of 8 units of upper-division (300 level and above) courses in Biological Sciences (BISC) unique to the major
+
+The Bachelor of Science in Pharmacology and Drug Development provides a novel path for science and non-science undergraduates at USC to gain significant knowledge in the disciplines of pharmacology and drug development. Pharmacology is the science of drugs including their origin, composition, pharmacokinetics, pharmacodynamics, therapeutic uses and toxicology. Drug development is the discipline that deals with the process of turning a new chemical entity (NCE) into a safe and effective medication for the advancement of human health. Completion of the major will prepare students for advanced clinical training in health-related fields including pharmacy, medicine and dentistry. It will also provide foundational education that can lead to new opportunities for students considering careers in biotech, pharmaceutics and biomedical industries.
+
+The Bachelor of Science in Pharmacology and Drug Development is conferred by the Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences.
+
+## Calculus
+
+---
+
+Select one course.
+
+- MATH 108g Contemporary Precalculus Units: 4
+- MATH 118gx Calculus for Business and Economics Units: 4
+- MATH 125g Calculus I Units: 4
+
+## Statistics
+
+---
+
+Select one course.
+
+- BME 423 Statistical and Data Science Methods in Biomedical Engineering Units: 4
+- ECON 317 Introduction to Statistics for Economists Units: 4
+- HP 340Lg Health Behavior Statistical Methods Units: 4
+- MATH 208x Elementary Probability and Statistics Units: 4
+- PSYC 274Lg Statistics Units: 4
+- QBIO 305g Statistics for Biological Sciences Units: 4
+
+## Chemistry
+
+---
+
+Select two courses.
+
+- CHEM 105aLg General Chemistry Units: 4
+- and
+- CHEM 105bL General Chemistry Units: 4
+-
+- or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+- and
+- CHEM 115bL Advanced General Chemistry Units: 4
+- Courses must be selected from either the general chemistry or the advanced general chemistry series.
+
+## Biology
+
+---
+
+Select two courses.
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4
+- and
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+-
+- or
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4
+- and
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+- Courses must be selected from either the general biology or the advanced general biology series.
+
+## Pharmaceutical and Regulatory Science (RXRS) and Biopharmaceutical Sciences (BPSI) Unit Requirement
+
+---
+
+Students must complete a minimum of 36 units of BPSI or RXRS course work, including one 4-unit lower-division RXRS course and a minimum of 32 units of upper-division (300 level and above) BPSI or RXRS course work. A maximum of 4 units can be met by taking Directed Research (BPSI 490x ).
+
+## Pharmaceutical and Regulatory Science (RXRS) Requirement (Part 1)
+
+---
+
+One course.
+
+- RXRS 200 Approaches to Pharmacology and Drug Development Units: 4
+
+## Pharmaceutical and Regulatory Science (RXRS) Requirement (Part 2)
+
+---
+
+One course.
+
+- RXRS 402 Human Pharmacology: Challenge of Therapeutics in Society Units: 4
+
+## Pharmaceutical and Regulatory Science (RXRS) Requirement (Part 3)
+
+---
+
+Select one course.
+
+- RXRS 302 Introduction to Pharmacology and Therapeutics Units: 4
+- RXRS 413w Globalization of the Biomedical Industry Units: 4
+
+## Pharmaceutical and Regulatory Science (RXRS) and Biopharmaceutical Sciences (BPSI) Unit Requirement (Part 4)
+
+---
+
+Select four courses.
+
+- BPSI 405 Organ Systems Physiology, Drug Delivery and Drug Action Units: 4
+- RXRS 403 Neuropharmacology in Health and Disease Units: 4
+- RXRS 407 The Discovery, Development and Marketing of Medicines Units: 4
+- RXRS 408 Arming the Immune System for Novel Therapies Units: 4
+- RXRS 410 Cancer Biology and Pharmacotherapy Units: 4
+- RXRS 411 Innovations in Medical Product Development Units: 4
+- RXRS 414 Buzzed: Modern Substances of Abuse and Addiction Units: 4
+- RXRS 416 Medical Products: From Idea to Market Units: 4
+- RXRS 421 Management and Operation of Clinical Trials Units: 4
+- RXRS 424 From Poisons to Toxicology and Forensic Applications Units: 4
+
+## Pharmaceutical and Regulatory Science (RXRS) and Biopharmaceutical Sciences (BPSI) Unit Requirement (Part 5)
+
+---
+
+The remaining units may be selected from the following RXRS and/or BPSI courses, including, but not limited to:
+
+- BPSI 412 Targeted and Precision Medicines Units: 4
+- BPSI 413 Rigor, Resources and Reproducibility Units: 2
+- BPSI 414 Pharmacoethics Units: 2
+- BPSI 415 Science Talk Units: 2
+- RXRS 405 Breaking Brains: The Pharmacology of Addiction Units: 4
+- RXRS 406 Clinical Pharmacology and Medication Management Units: 4
+- RXRS 412 Ethics, Drugs and Society Units: 4
+- RXRS 417 Food Safety: The Good, The Bad and The Deadly Units: 4
+- RXRS 418 More than Prescriptions: An Integrative Approach to Modern Healthcare Units: 4
+- RXRS 422 Regulation, Guidance and Control of Medical Products Units: 2
+- RXRS 430 Principles of Pharmacy Compounding and Calculations Units: 2
+- RXRS 431 Introduction to Patient Care and Clinical Therapeutics Units: 2
+- RXRS 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- A maximum of 4 units can be met by taking Directed Research (RXRS 490)
+
+## Biological Sciences (BISC) Requirement
+
+---
+
+Select two courses.
+
+- BISC 300L Microbiology Units: 4
+- BISC 307L General Physiology Units: 4
+- BISC 320Lg Molecular Biology Units: 4
+- BISC 330L Biochemistry Units: 4
+
+## Undergraduate Honors Program (optional)
+
+---
+
+- RXRS 493x Senior Honors Seminar I Units: 2
+- RXRS 494x Senior Honors Seminar II Units: 2
+
+---

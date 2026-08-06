@@ -1,0 +1,116 @@
+Program Name: Choral Music (BA)*
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32243
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32243&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32243
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:51:32Z
+Content SHA-256: 476635691e056a306fcddb6db1be323947364f527171b42783ba0b76795b3b94
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Choral Music (BA)*
+
+---
+
+Overview
+
+The Bachelor of Arts in Choral Music combines the flexibility of a Bachelor of Arts program with an in-depth education in choral music that includes an introduction to choral music and course work in choral conducting, choral development, choral arranging, diction and choral ensemble.
+
+Entrance Requirements
+
+Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees. Specific entrance requirements are reviewed on an annual basis and published online at music.usc.edu.
+
+General Education Requirements
+
+The university’s General Education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above.
+
+Note that courses within the major will also satisfy certain Core Literacy requirements. Please work with your major adviser to determine those courses.
+
+## Curriculum Requirements
+
+---
+
+### General Education *
+
+---
+
+- Core Literacies
+  GE-A: The Arts (one course)
+  GE-B: Humanistic Inquiry (two courses)
+  GE-C: Social Analysis (two courses)
+  GE-D: Life Sciences (one course)
+  GE-E: Physical Sciences (one course)
+  GE-F: Quantitative Reasoning (one course)
+  Global Perspectives
+  GE-G: Global Perspectives I (one course)
+  GE-H: Global Perspectives II (one course)
+  Writing
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+### Lessons (6 units)
+
+---
+
+- MPVA 301 Individual Instruction Units: 1, 2
+- 6 units total of MPVA 301 (Choral)
+
+### Music Ensembles (8 units)
+
+---
+
+- Choral Music Ensemble at the 300-level: eight 1-unit courses
+
+### Program Intensive Courses (12 units)
+
+---
+
+- MPVA 442 Introduction to the International Phonetic Alphabet Units: 2
+- MUCD 340 Choral Conducting I Units: 2
+- MUCD 441 Choral Conducting II Units: 2
+- MUCM 320 Introduction to Choral Music Units: 2
+- MUCM 440 Choral Development Units: 2
+- MUCO 441 Choral Arranging Units: 1, 2 (2 units total of MUCO 441)
+
+### Core Thornton Academic Courses (38 units)
+
+---
+
+- MPKS 250a Keyboard Instruction I Units: 2
+- MPKS 250b Keyboard Instruction I Units: 2
+- MUCO 132a Aural Skills I Units: 2
+- MUCO 132b Aural Skills I Units: 2
+- MUCO 133a Theory I Units: 3
+- MUCO 133b Theory I Units: 3
+- MUCO 232a Aural Skills II Units: 2
+- MUCO 232b Aural Skills II Units: 2
+- MUCO 233a Theory II Units: 3
+- MUCO 233b Theory II Units: 3
+- MUCO 338x Elementary Orchestration Units: 2
+- MUHL 250g Music and Ideas Units: 4
+- MUHL 350g Western Art Music History I Units: 4
+- MUHL 351 Western Art Music History II Units: 4
+
+### Foreign Language (12 units)
+
+---
+
+Three 4-unit courses in the same language
+
+### Electives (20 units)
+
+---
+
+### Total required for degree: 128
+
+---
+
+[*]With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.
+
+---

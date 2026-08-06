@@ -1,0 +1,116 @@
+Program Name: Mathematical Finance Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31851
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31851&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31851
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:42Z
+Content SHA-256: ef819568f8866dc3f45f663f3e90fdb8f296de8bd3f74062eaf59a628d569256
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Mathematical Finance Minor
+
+---
+
+This interdisciplinary minor was created for students in business, economics and mathematics, whose majors already require some of the introductory course work. Students in other programs are welcome but should expect the minor to require more units than it does for students in those programs.
+
+As with all minors, students must include at least four upper-division courses and four courses dedicated exclusively to this minor (which may be the same four courses). Finally, students must select four courses outside their major department. Economics majors must choose four courses outside of economics; math majors must choose four courses outside of math; business majors must choose four courses outside of the Marshall School of Business. These may be the same courses used to meet the first two conditions.
+
+## Programming Requirement (2-4 units)
+
+---
+
+At least one dedicated programming course. Students may choose from a variety of languages.
+
+- CSCI 102L Introduction to Programming Units: 2
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 113x Programming Fundamentals for Computing Units: 4
+- CSCI 114x Programming for Applications of Computing Units: 4
+- TAC 115 Programming in Python Units: 2
+- TAC 116 Accelerated Programming in Python Units: 2
+- TAC 165 Introduction to C++ Programming Units: 2
+- TAC 168 Introduction to MATLAB Units: 2
+
+## MATH Requirements (8 units)
+
+---
+
+- MATH 126g Calculus II Units: 4 or
+- MATH 127 Enhanced Calculus II Units: 4 or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- MATH 235 Linear Algebra and Applications Units: 4 or
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+
+## ECON Requirements (16 units)
+
+---
+
+- ECON 203g Principles of Microeconomics Units: 4 and
+- ECON 205g Principles of Macroeconomics Units: 4
+- or
+- ECON 351x Microeconomics for Business Units: 4 and
+- ECON 352x Macroeconomics for Business Units: 4
+-
+- ECON 303 Intermediate Microeconomic Theory Units: 4 and
+- ECON 305 Intermediate Macroeconomic Theory Units: 4
+
+## Probability and Statistics (4-8 units)
+
+---
+
+- ECON 317 Introduction to Statistics for Economists Units: 4
+- or
+- EE 364 Probability and Statistics for Engineers and Computer Scientists Units: 4
+- or
+- MATH 307 Statistical Inference and Data Analysis I Units: 4 and
+- MATH 308 Statistical Inference and Data Analysis II Units: 4
+- or
+- MATH 407 Probability Theory Units: 4 and
+- MATH 408 Mathematical Statistics Units: 4
+
+## Electives (12 units)
+
+---
+
+Choose three courses from the following list:
+
+- BUAD 306 Business Finance Units: 4
+- BUAD 310g Applied Business Statistics Units: 4
+- FBE 421 Financial Analysis and Valuation Units: 4
+- FBE 441 Investments Units: 4
+- FBE 443 Introduction to Forecasting and Risk Analysis Units: 4
+- FBE 459 Financial Derivatives Units: 4
+- FBE 462 International Trade, Finance and Commercial Policy Units: 4
+-
+- ECON 350 The World Economy Units: 4
+- ECON 357 Money, Credit, and Banking Units: 4
+- ECON 404 Games and Economics Units: 4
+- ECON 415 Behavioral Economics Units: 4
+- ECON 452 International Finance Units: 4
+- ECON 457 Financial Markets Units: 4
+-
+- MATH 446 Data Science with Python Units: 4
+- MATH 447 Mathematics of Machine Learning Units: 4
+- MATH 454 Game Theory Units: 4
+- MATH 458 Numerical Methods Units: 4
+- MATH 467 Theory and Computational Methods for Optimization Units: 4
+
+## Total requirements, for students with no prior course work: 42–48 units
+
+---
+
+Students majoring in business administration, economics or mathematics can meet many of these requirements with course work that also satisfies their majors. In addition to those classes, students in those majors must complete the following requirements:
+
+- Business majors satisfy 24 units with course work that is also required for the major and need to complete only 18 units in MATH, ECON and ITP or CSCI
+- Economics majors satisfy 20–24 units with course work required for the major (including one major elective), needing only 18–22 units in BUAD, FBE, ITP or CSCI and MATH
+- Mathematics majors satisfy 16 units with course work required for the major, needing only 26 units in BUAD, ECON, FBE and ITP or CSCI
+
+---

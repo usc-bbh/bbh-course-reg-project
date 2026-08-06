@@ -1,0 +1,198 @@
+Program Name: Human Security and Geospatial Intelligence (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32640
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32640&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32640
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:03Z
+Content SHA-256: 140ac39158690aec41da45f638105bcfd38243261f17520b914c7e99911c11ce
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Human Security and Geospatial Intelligence (BS)
+
+---
+
+The Bachelor of Science in Human Security and Geospatial Intelligence offered by the USC Dornsife College of Letters, Arts and Sciences prepares students for professional careers and/or graduate study by engaging them in the framework for the analysis and planning in future human security and geospatial intelligence (GEOINT) work. The underlying spatial and GEOINT principles and expertise can be used to support within the U.S. Department of Defense, U.S. State Department, related U.S. support/non-governmental agencies and within comparable international organizations. The course work, and in particular the capstone course, provides students with opportunities to develop the skills and expertise to lead innovative ventures in areas such as international border conflicts, humanitarian response and relief, global human rights, monitoring and prevention of genocide, refugee migration, and crisis management. Finally, the major is structured to provide students with sufficient elective credits to explore minors or other programs at USC so that they can broaden their education to better prepare themselves for future stages in their lives.
+
+The program requires 10 core courses including a capstone experience and a minimum of 128 units. The BS in HSGI degree can be completed in the planned 4-year undergraduate experience (eight semesters) for full-time registrants.
+
+Students in the BS in HSGI program can receive departmental honors by satisfying a > 3.7 GPA in major core courses in their second to last semester and an overall GPA > 3.5, and by presenting a poster or making a presentation of their research at an academic or professional conference and/or by exhibiting leadership within a club or organization.
+
+## Pre-Major Requirement (8)
+
+---
+
+Courses to be completed within first two semesters of enrolling in the major.
+
+- IR 210gw International Relations: Introductory Analysis Units: 4
+- MATH 114xg Foundations of Statistics Units: 4
+
+## Major Requirements (40)
+
+---
+
+- IR 304 National Intelligence and the Shaping of Policy Units: 4
+- PPD 225 Solving Public Problems Units: 4
+- SSCI 202 Principles of Geospatial Intelligence Units: 4
+- SSCI 214g Human Populations and Natural Hazards Units: 4
+- SSCI 220L Spatial Data Collection Using Drones Units: 4
+- SSCI 301L Maps and Spatial Reasoning Units: 4
+- SSCI 381 Statistics for the Spatial Sciences Units: 4
+- SSCI 382L Geographic Information Science: Spatial Analytics Units: 4
+- SSCI 383L Geographic Information Science: Geospatial Modeling and Customization Units: 4
+
+### Practicum
+
+---
+
+Course to be completed as culminating requirement.
+
+- SSCI 420 Human Security and Geospatial Intelligence Practicum Units: 4
+
+## Electives (16)
+
+---
+
+Choose four courses from the general list of approved electives below.
+
+Students have the option to choose an elective track. To do so, pick four courses from one of the elective tracks below (Environment, Policy or Cyber). Choosing an elective track is not mandatory.
+
+- AMST 150gw The American War in Viet Nam Units: 4
+- DSCI 250 Introduction to Data Science Units: 4
+- DSCI 429 Security and Privacy Units: 4
+- GEOL 150Lg Climate Change Units: 4
+- IR 150 Environmental Issues in Society Units: 4
+- IR 210gw International Relations: Introductory Analysis Units: 4
+- IR 211g International Relations: Approaches to Research Units: 4
+- IR 212 Historical Approaches to International Relations Units: 4
+- IR 304 National Intelligence and the Shaping of Policy Units: 4
+- IR 310 Peace and Conflict Studies Units: 4
+- IR 319 Human Security and Humanitarian Intervention Units: 4
+- IR 320 Technology and International Relations Units: 4
+- IR 314 Espionage and Intelligence Units: 4
+- IR 341 Foreign Policy Analysis Units: 4
+- IR 342 The Politics and Strategy of Weapons of Mass Destruction Units: 4
+- IR 343 U.S. Foreign Policy since World War II Units: 4
+- IR 381 Introduction to International Security Units: 4
+- IR 382w Order and Disorder in Global Affairs Units: 4
+- IR 386 Terrorism and Counterterrorism Units: 4
+- IR 387 Strategic Studies Units: 4
+- MATH 114xg Foundations of Statistics Units: 4
+- MDES 201w The Middle East Units: 4
+- POSC 110g Ideology and Political Conflict Units: 4
+- POSC 130g Law, Politics and Public Policy Units: 4
+- POSC 248gw Human Rights Units: 4
+- POSC 265gw Environmental Challenges Units: 4
+- POSC 270 Introduction to Environmental Law and Politics Units: 4
+- POSC 347 Environmental Law Units: 4
+- POSC 363 Cities and Regions in World Politics Units: 4
+- POSC 418 Environmental Sustainability and Public Participation Units: 4
+- POSC 435 Politics and the Economy Units: 4
+- POSC 436 Environmental Politics Units: 4
+- POSC 444 Civil and Political Rights and Liberties Units: 4
+- POSC 451 Politics of Resources and Development Units: 4
+- POSC 452 Critical Issues in Law and Public Policy Units: 4
+- PPD 225 Solving Public Problems Units: 4
+- PPD 245g The Urban Context Units: 4
+- PPD 300 Social Justice Issues in Public Policy and Urban Planning Units: 4
+- PPD 320 Organizational Behavior for Public Leadership Units: 4
+- PPD 344 Environmental Policy and Sustainable Development Units: 4
+- PPD 345 AI and Urban Planning Units: 2
+- PPD 348 Sustainable Infrastructure Units: 4
+- PPD 361 Sustainable Communities, Policy and Planning Units: 4
+- PPD 373 Public Policy and Planning Analysis Units: 4
+- PPD 402 Management of Public and Nonprofit Organizations Units: 4
+- SOCI 210g Science, Technology, and Social Conflict Units: 4
+- SSCI 175gw Food, Health and Place Units: 4
+- SSCI 265Lg The Water Planet Units: 4
+- SSCI 350 International Geodesign Units: 4
+- TAC 125L Hackers to CEOs: Intro to Cyber Security in the AI Era Units: 2
+- TAC 259 Basics of Artificial Intelligence Units: 4
+- TAC 325 Ethical Hacking Units: 4
+- TAC 370 Cybersecurity Management and Operations Units: 4
+- TAC 375 Digital Forensics and Cybersecurity Investigations Units: 4
+- TAC 479 Cyber Law and Privacy Units: 4
+
+## Elective Tracks
+
+---
+
+Students can choose to specialize by taking approved electives within each track.
+
+### Policy
+
+---
+
+- AMST 150gw The American War in Viet Nam Units: 4
+- IR 210gw International Relations: Introductory Analysis Units: 4
+- IR 211g International Relations: Approaches to Research Units: 4
+- IR 212 Historical Approaches to International Relations Units: 4
+- IR 304 National Intelligence and the Shaping of Policy Units: 4
+- IR 310 Peace and Conflict Studies Units: 4
+- IR 314 Espionage and Intelligence Units: 4
+- IR 319 Human Security and Humanitarian Intervention Units: 4
+- IR 320 Technology and International Relations Units: 4
+- IR 341 Foreign Policy Analysis Units: 4
+- IR 342 The Politics and Strategy of Weapons of Mass Destruction Units: 4
+- IR 343 U.S. Foreign Policy since World War II Units: 4
+- IR 381 Introduction to International Security Units: 4
+- IR 382w Order and Disorder in Global Affairs Units: 4
+- IR 386 Terrorism and Counterterrorism Units: 4
+- IR 387 Strategic Studies Units: 4
+- MDES 201w The Middle East Units: 4
+- POSC 110g Ideology and Political Conflict Units: 4
+- POSC 130g Law, Politics and Public Policy Units: 4
+- POSC 248gw Human Rights Units: 4
+- POSC 444 Civil and Political Rights and Liberties Units: 4
+- POSC 451 Politics of Resources and Development Units: 4
+- POSC 452 Critical Issues in Law and Public Policy Units: 4
+- PPD 225 Solving Public Problems Units: 4
+- PPD 245g The Urban Context Units: 4
+- PPD 300 Social Justice Issues in Public Policy and Urban Planning Units: 4
+- PPD 320 Organizational Behavior for Public Leadership Units: 4
+- PPD 344 Environmental Policy and Sustainable Development Units: 4
+- PPD 345 AI and Urban Planning Units: 2
+- PPD 348 Sustainable Infrastructure Units: 4
+- PPD 361 Sustainable Communities, Policy and Planning Units: 4
+- PPD 373 Public Policy and Planning Analysis Units: 4
+- PPD 402 Management of Public and Nonprofit Organizations Units: 4
+
+### Environment
+
+---
+
+- GEOL 150Lg Climate Change Units: 4
+- IR 150 Environmental Issues in Society Units: 4
+- POSC 265gw Environmental Challenges Units: 4
+- POSC 270 Introduction to Environmental Law and Politics Units: 4
+- POSC 347 Environmental Law Units: 4
+- POSC 418 Environmental Sustainability and Public Participation Units: 4
+- POSC 436 Environmental Politics Units: 4
+- PPD 344 Environmental Policy and Sustainable Development Units: 4
+- PPD 348 Sustainable Infrastructure Units: 4
+- PPD 361 Sustainable Communities, Policy and Planning Units: 4
+- SSCI 175gw Food, Health and Place Units: 4
+- SSCI 265Lg The Water Planet Units: 4
+
+### Cyber
+
+---
+
+- DSCI 250 Introduction to Data Science Units: 4
+- DSCI 429 Security and Privacy Units: 4
+- PPD 345 AI and Urban Planning Units: 2
+- SOCI 210g Science, Technology, and Social Conflict Units: 4
+- TAC 125L Hackers to CEOs: Intro to Cyber Security in the AI Era Units: 2
+- TAC 259 Basics of Artificial Intelligence Units: 4
+- TAC 325 Ethical Hacking Units: 4
+- TAC 370 Cybersecurity Management and Operations Units: 4
+- TAC 375 Digital Forensics and Cybersecurity Investigations Units: 4
+- TAC 479 Cyber Law and Privacy Units: 4
+
+---

@@ -1,0 +1,45 @@
+Program Name: Architecture Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31558
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31558&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31558
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:27Z
+Content SHA-256: 0a9755940caf8316c94f7296abf22fca1b72687e2bf9b238684d553445290bec
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Architecture Minor
+
+---
+
+The minor in architecture provides the flexibility of complementing a student’s major with an area of specialization. Taking a minor in architecture is a unique opportunity for a student to stimulate his or her imagination and learn creative approaches to problem solving.
+
+#### Admission Requirements
+
+Students in good academic standing who have completed the freshman year are eligible.
+
+#### Course Requirements
+
+The requirements for the minor include three required courses (8 units) and a minimum of 12 units of upper division courses.
+
+## Required Courses
+
+---
+
+- ARCH 106x Workshop in Architecture Units: 2
+- ARCH 114 Architecture: Culture and Community Units: 2
+- ARCH 304x Intensive Survey: Prehistory to the Present Units: 4
+
+## Note:
+
+---
+
+Students may elect to take the upper division courses in an area of specialization, such as architectural history and theory, historic preservation, computers and design, visual communication, landscape architecture, public places — urban spaces, housing or practice management. This minor is not available to architecture majors.
+
+---

@@ -1,0 +1,106 @@
+Program Name: Business Administration (Cinematic Arts) (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31592
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31592&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31592
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:50:34Z
+Content SHA-256: 54f414f78a9d23cfd6330afd31f8a8b5bc569124d4f44022d1822d6e2bc19939
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Business Administration (Cinematic Arts) (BS)
+
+---
+
+This program consists of courses offered by both the Marshall School and the School of Cinematic Arts. Students completing the program receive a Bachelor of Science in Business Administration with an emphasis in Cinematic Arts. The program is available to entering freshmen only.
+
+#### Requirements for Completion
+
+To complete the program, students must satisfy all requirements for the Bachelor of Science degree in business, including USC’s General Education requirements, as well as an additional 24 units in cinematic arts, which specifically address the business side of the industry.
+
+## Composition/Writing Requirements (8 units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *
+- * Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BCT majors.
+
+## Business Requirements
+
+---
+
+- BUAD 280 Introduction to Financial Accounting Units: 3
+- BUAD 281 Introduction to Managerial Accounting Units: 3
+- BUAD 302 Communication Strategy in Business Units: 4
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+-
+- BUAD 306 Business Finance Units: 4 or
+- BUAD 308 Advanced Business Finance Units: 4
+-
+- BUAD 307 Marketing Fundamentals Units: 4
+-
+- BUAD 310g Applied Business Statistics Units: 4 or
+- BUAD 312g Statistics and Data Science for Business Units: 4
+-
+- BUAD 311 Operations Management Units: 4 or
+- BUAD 313 Advanced Operations Management and Analytics Units: 4
+-
+- BUAD 425 Introduction to Business Analytics Units: 2
+- BUAD 497 Strategic Management Units: 4
+- ECON 351x Microeconomics for Business Units: 4
+- ECON 352x Macroeconomics for Business Units: 4
+-
+- MATH 118gx Calculus for Business and Economics Units: 4 or *
+- MATH 125g Calculus I Units: 4 **
+-
+- Electives-Business 300- or 400-level ACCT, BAEP, BUCO, DSO, FBE, MKT, MOR or RISK Units: 12
+
+### Total business units: 60
+
+---
+
+### Note:
+
+---
+
+[*]Placement into MATH 118 is contingent on successful completion of MATH 117 or obtaining an acceptable score on the math placement exam or AP calculus or IB mathematics exam. The MATH 118 requirement may be waived with an AP Calculus AB or BC score of 4 or higher, or an IB math score of 5 or higher.
+[**]A-level mathematics examination scores of A or B may receive subject credit for MATH 125 . Eligible students should speak with their academic adviser for additional information.
+
+## Cinematic Arts Requirements
+
+---
+
+- CNTV 441 Business and Cinematic Arts Entertainment Practicum Units: 2
+- CNTV 458 Producing and Marketing Feature Length Films Units: 2
+- CNTV 463 Television: Integrating Creative and Business Objectives Units: 2
+-
+- CNTV 467 The Future of Digital Media and the Entertainment Industry Units: 2 or
+- CNTV 428 Fundamentals of Entertainment Law and Dealmaking Units: 2
+-
+- CTCS 190g Introduction to Cinema Units: 4
+-
+- CTCS 191 Introduction to Television and Video Units: 4 or
+- CNTV 481 Entertainment Industry Launchpad Units: 4
+-
+- CTIN 458 Business and Management of Games Units: 2
+- CTPR 385 Colloquium: Motion Picture Production Techniques Units: 4
+- CTPR 410 The Entertainment Industry: From Idea to Audience Units: 2
+
+### Total Cinematic Arts units: 24
+
+---
+
+## Total program units: 84
+
+---
+
+Return to: USC Marshall School of Business
+
+---

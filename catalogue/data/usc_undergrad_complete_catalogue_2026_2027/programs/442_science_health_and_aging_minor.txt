@@ -1,0 +1,49 @@
+Program Name: Science, Health and Aging Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32147
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32147&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32147
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:59Z
+Content SHA-256: 20eefbc4c1242b474b3766b1375da28040f5949edb86d216fff1975c174d061e
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Science, Health and Aging Minor
+
+---
+
+The science, health and aging minor is appropriate for students working toward careers in medicine, dentistry, pharmacy, biological sciences, public health or other health related fields. Admission to the minor is only available to students who have completed 4 units of prerequisites (BISC 120 or BISC 121 ) as part of their major requirements. Upon completion of 20 units and graduation, the minor is noted on the student’s transcript.
+
+## Required Courses
+
+---
+
+- GERO 310 Physiology of Aging Units: 4
+- GERO 414 Neurobiology of Aging Units: 4
+-
+- GERO 416 Health Issues in Adulthood Units: 4 or
+- GERO 496 Introduction to Clinical Geriatrics Units: 4
+
+### Select two from the following:
+
+---
+
+- GERO 315g A Journey into the Mind Units: 4
+- GERO 415 Neuroaffective Disorders of Aging Units: 4
+- GERO 437 Social and Psychological Aspects of Death and Dying Units: 2 or 4
+- GERO 440 Biodemography of Aging Units: 4 *
+- GERO 475 Ethical Issues in Geriatric Health Care Units: 4
+- GERO 495 Practicum in Geriatric Care Units: 4
+- * Prerequisite required.
+
+## Total units: 20
+
+---
+
+---

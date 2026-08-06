@@ -1,0 +1,49 @@
+Program Name: Behavioral Economics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32415
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32415&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32415
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:40Z
+Content SHA-256: 295136ffc2aa0f38d5ce5f002e8f1a7e888dff330cc5b619994f36e8639e202c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Behavioral Economics Minor
+
+---
+
+This minor offers a series of classes that offer a broad perspective of recent research on economic decision-making. Theoretical classes will review traditional theories of decision-making based on the economic rational paradigm as well as new behavioral theories designed to better capture actual decision-making. Experimental classes will cover standard and novel experimental methods used to study economic decision-making and game theoretical paradigms.
+
+## Required Lower-Division Courses (8 units)
+
+---
+
+- ECON 203g Principles of Microeconomics Units: 4
+- MATH 118gx Calculus for Business and Economics Units: 4 or
+- MATH 125g Calculus I Units: 4
+
+## Required Upper-Division Course (4 units)
+
+---
+
+- ECON 303 Intermediate Microeconomic Theory Units: 4
+
+## Required Upper-Division Electives (12 units)
+
+---
+
+Choose any three of the following courses:
+
+- ECON 404 Games and Economics Units: 4
+- ECON 405 Neuroeconomics Units: 4
+- ECON 415 Behavioral Economics Units: 4
+- ECON 420 Experimental Economics Units: 4
+- ECON 432 Economics of Happiness Units: 4
+
+---

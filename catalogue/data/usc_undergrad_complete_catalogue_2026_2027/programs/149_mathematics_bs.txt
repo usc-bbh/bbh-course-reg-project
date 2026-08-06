@@ -1,0 +1,75 @@
+Program Name: Mathematics (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31853
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31853&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31853
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:42Z
+Content SHA-256: a5c62b4cbba060bcf05c4867fb58150951709e2be473d7f27967129eb640ae0a
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Mathematics (BS)
+
+---
+
+## Pre-major Requirements:
+
+---
+
+- MATH 125g Calculus I Units: 4
+-
+- MATH 126g Calculus II Units: 4 or
+- MATH 127 Enhanced Calculus II Units: 4 or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- MATH 235 Linear Algebra and Applications Units: 4
+-
+- MATH 226g Calculus III Units: 4 or
+- MATH 227 Enhanced Calculus III Units: 4 or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+
+## Elective in Logical Reasoning
+
+---
+
+A course taken to satisfy this requirement may not also be used as an upper-division elective. Choose one:
+
+- MATH 290 Mathematical Reasoning and Problem Solving Units: 4 or
+- MATH 430 Theory of Numbers Units: 4 or
+- MATH 432 Applied Combinatorics Units: 4
+
+## Upper-division Math Requirements
+
+---
+
+The following four courses are required with a grade of C or better:
+
+- MATH 410 Fundamental Concepts of Modern Algebra Units: 4 and
+- MATH 425a Fundamental Concepts of Analysis Units: 4 and
+- MATH 425b Fundamental Concepts of Analysis Units: 4 and
+- MATH 471 Topics in Linear Algebra Units: 4
+
+## Upper-division Math Electives
+
+---
+
+Four MATH courses are required at the 400-level or above. The courses must be at least 3 units each, and MATH 450 is excluded. Students contemplating a graduate degree in Mathematics are advised to take one or more of the following:
+
+- MATH 435 Introduction to Differential Geometry Units: 4 or
+- MATH 440 Topology Units: 4 or
+- MATH 475 Introduction to Theory of Complex Variables Units: 4
+
+## Science Electives
+
+---
+
+A minimum of 16 units are required, selected in consultation with an adviser, from any course in ASTR, BISC, CHEM, GEOL, HBIO, QBIO, PHYS and CSCI that is acceptable for the Bachelor of Science degree in its respective department. At least one of these courses must be upper-division.
+
+---

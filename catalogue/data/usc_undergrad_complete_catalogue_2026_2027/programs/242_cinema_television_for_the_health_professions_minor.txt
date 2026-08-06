@@ -1,0 +1,55 @@
+Program Name: Cinema-Television for the Health Professions Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32211
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32211&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32211
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:17Z
+Content SHA-256: 2c2db2c70d980a1e5e9ff925c7a9f2c6923c46a85e827e27992e3bdf8c697e79
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Cinema-Television for the Health Professions Minor
+
+---
+
+This minor introduces pre-health students to the theory and techniques of the cinematic arts and to a set of media practices useful for the implementation of health promotion strategies. This minor is designed for students who plan to enter careers or professional programs in medicine after graduation and are interested in working with film and television producers to disseminate accurate health information to the public. It complements major programs such as biological sciences, chemistry, kinesiology, health promotion and disease prevention studies, and environmental studies.
+
+## Required Courses (24 Units)
+
+---
+
+- CTCS 190g Introduction to Cinema Units: 4
+- HP 345 Health Issues in Entertainment Media Units: 4
+
+### Two of the following:
+
+---
+
+- HP 370g Introduction to Epidemiology: Methods and Applications Units: 4
+- HP 401 Cultural Competence in Medicine Units: 4
+- HP 408 Environmental Health in the Community Units: 4
+- HP 410 Issues in Prevention and Cessation of Drug Abuse Units: 4
+- HP 420m Gender and Minority Health Issues Units: 4
+- HP 421 Violence as a Public Health Issue Units: 4
+- HP 422 AIDS in Society Units: 4
+
+### Eight additional units from the following:
+
+---
+
+- CTAN 451 History of Animation Units: 2
+- CTCS 400 Documentary Film and Media Units: 4
+- CTPR 375 Functions of a Director Units: 4
+- CTPR 385 Colloquium: Motion Picture Production Techniques Units: 4
+- CTPR 474 Documentary Production Units: 4
+- CTWR 315x Writing the TV Series Pilot Units: 4
+- CTWR 412 Introduction to Screenwriting Units: 2
+- CTWR 416 Motion Picture Script Analysis Units: 2
+
+---

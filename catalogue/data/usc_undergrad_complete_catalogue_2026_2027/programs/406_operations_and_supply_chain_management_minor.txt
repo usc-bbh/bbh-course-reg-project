@@ -1,0 +1,56 @@
+Program Name: Operations and Supply Chain Management Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31608
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31608&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31608
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:35Z
+Content SHA-256: a88ed461de729314157ef9ad8d28fa99fddc3f2083357e8b44257504998ca780
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Operations and Supply Chain Management Minor
+
+---
+
+The minor in operations and supply chain management provides students with fundamental knowledge of operations and supply chains, the backbone of all businesses. This minor requires 20 units to complete. To enroll, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of at least 2.75.
+
+## Minor Course Requirements
+
+---
+
+- BUAD 311 Operations Management Units: 4 or
+- BUAD 313 Advanced Operations Management and Analytics Units: 4
+-
+- DSO 482 Supply Chain Management Units: 4
+- One of the following
+- DSO 427 Spreadsheet Modeling for Business Insights Units: 4 or
+- DSO 455 Project Management Units: 4 or
+- DSO 483 Operations Consulting Units: 4
+
+### Electives
+
+---
+
+Choose from the following to achieve a total of at least 8 units:
+
+- DSO 401 Data Analysis with Spreadsheets Units: 2
+- DSO 424 Business Forecasting Units: 4
+- DSO 427 Spreadsheet Modeling for Business Insights Units: 4 *
+- DSO 433 Designing Digital Processes and User Experience with AI Units: 4
+- DSO 455 Project Management Units: 4 *
+- DSO 462 Managing a Small Business on the Internet Units: 2
+- DSO 470 Optimization and Analytics for Better Decisions using GenAI Units: 4
+- DSO 483 Operations Consulting Units: 4 *
+- DSO 499 Special Topics Units: 2, 3, 4 **
+-
+- * If not applied to the minor as a required course.
+  ** Subject to approval by the program director prior to registration.
+- Return to: USC Marshall School of Business
+
+---

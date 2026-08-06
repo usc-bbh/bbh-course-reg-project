@@ -1,0 +1,141 @@
+Program Name: Neuroscience Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31872
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31872&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31872
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:23Z
+Content SHA-256: 1049c75c1b4d33cb91d61db9cc61c70dd3babbc99f50bfc0e3bd9e00f8bbdea5
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Neuroscience Minor
+
+---
+
+Coordinator: David McKemy, PhD
+Undergraduate Advisers: Pablo Lopez, pablol@usc.edu; Mia Kirsten Santos, mnsantos@usc.edu
+
+#### Grade Requirements
+
+A grade of C- or higher is required to count toward minor requirements.
+
+## Core Requirements (12 Units)
+
+---
+
+- BISC 407 Cellular and Molecular Neuroscience Units: 4
+- BISC 421 Neurobiology Units: 4 **
+- NEUR 408 Systems Neuroscience: From Synapses to Perception Units: 4 **
+
+### Statistics Requirement (4 units)*
+
+---
+
+Choose one course from the following:
+
+- BUAD 310g Applied Business Statistics Units: 4
+- ECON 317 Introduction to Statistics for Economists Units: 4
+- HP 340Lg Health Behavior Statistical Methods Units: 4
+- MATH 208x Elementary Probability and Statistics Units: 4
+- MATH 307 Statistical Inference and Data Analysis I Units: 4
+- MATH 407 Probability Theory Units: 4
+- PSYC 274Lg Statistics Units: 4
+- QBIO 305g Statistics for Biological Sciences Units: 4
+
+### Electives (4 units)
+
+---
+
+Choose one course from the following:
+
+- BISC 307L General Physiology Units: 4
+- BISC 312x Molecular Biochemistry Units: 4
+- BISC 313L Evolution and Population Genetics Units: 4
+- BISC 320Lg Molecular Biology Units: 4
+- BISC 325 Genetics Units: 4
+- BISC 330L Biochemistry Units: 4
+- BISC 403 Advanced Molecular Biology Units: 4
+- BISC 406L Biotechnology Units: 4
+- BISC 410 Applications of Molecular Biology to Medicine Units: 4
+- BISC 411 Advanced Cell Biology Units: 4
+- BISC 423 Epilepsy to Ecstasy: Biological Basis of Neurological Disorders Units: 4
+- BISC 424 Brain Architecture Units: 4
+- BISC 425 Genetics through the Scientific Literature Units: 4
+- BISC 438 Nutritional Biochemistry Units: 4
+- BISC 444 Practical Analysis of Biological Data in R Units: 2
+- BISC 461 Seminar in Molecular and Computational Biology Units: 2
+- BISC 462 Seminar in Neurobiology Units: 2
+- *can be repeated twice; different topic each semester
+- BISC 466 Neuroimmunology Units: 4
+- BISC 480L Developmental Biology Units: 4
+- BISC 499 Special Topics Units: 2, 3, 4
+- BME 210 Biomedical Computer Simulation Methods Units: 4
+- BPSI 405 Organ Systems Physiology, Drug Delivery and Drug Action Units: 4
+- CHEM 350 Molecular Principles of Biochemistry Units: 4
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4
+- CSCI 445L Foundations of Robotics Units: 4
+- ECON 405 Neuroeconomics Units: 4
+- GERO 310 Physiology of Aging Units: 4
+- GERO 320g Psychology of Adult Development Units: 4
+- GERO 321 Introduction to Psychology and Aging Units: 4
+- cannot take if completed GERO 320
+- GERO 414 Neurobiology of Aging Units: 4
+- GERO 415 Neuroaffective Disorders of Aging Units: 4
+- GERO 494 Resilience in Aging: A Cross-Cultural Exploration Units: 4
+- HBIO 306 Biology of the Non-Human Primates Units: 4
+- HBIO 308 Origins and Evolution of Human Behavior Units: 4
+- HBIO 420L Applied Human Physiology Units: 4
+- HBIO 435 Neurobiology of Feeding Behavior and Obesity Units: 4
+- HP 340Lg Health Behavior Statistical Methods Units: 4
+- HP 409 Environmental Impacts on the Brain Units: 4
+- LING 385Lg Human Language as Computation Units: 4
+- MEDS 320 Human Cadaveric Anatomy Units: 4
+- MEDS 340 The Brain in Health and Disease Units: 2
+- MEDS 350 Neurochemistry of Addiction: Drugs, Brain, and Behavior Units: 2
+- NEUR 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- PSYC 301L Cognitive Processes Units: 4
+- PSYC 304L Sensation and Perception Units: 4
+- PSYC 305 Learning and Memory Units: 4
+- PSYC 320 Principles of Psychobiology Units: 4
+- PSYC 326 Behavioral Neuroscience Units: 4
+- PSYC 337L Adult Development and Aging Units: 4
+- PSYC 339Lg Origins of the Mind Units: 4
+- PSYC 420 Animal Behavior Units: 4
+- PSYC 424 Neuropsychology Units: 4
+- PSYC 425 Functional Imaging of the Human Brain Units: 4
+- PSYC 426 Motivated Behaviors and Addiction Units: 4
+- PSYC 427 Neuropsychopharmacology Units: 4
+- PSYC 428 Advanced Psychobiology Seminar Units: 4
+- PSYC 432 From Eugenics to Neurodiversity: History of DisAbility Units: 4
+- PSYC 438 Behavioral Genetics Units: 4
+- PSYC 440 Foundations of Cognitive Neuroscience Units: 4
+- PSYC 450 Neural Network Models of Social and Cognitive Processes Units: 4
+- PSYC 452 Social Neuroscience Units: 4
+- PSYC 468 Happiness: Research in Neuroscience and Positive Psychology Units: 4
+- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4
+- RXRS 403 Neuropharmacology in Health and Disease Units: 4
+- RXRS 405 Breaking Brains: The Pharmacology of Addiction Units: 4
+- RXRS 412 Ethics, Drugs and Society Units: 4
+- SCRM 487 Regenerative Medicine: Principles, Paradigms and Practice Units: 4
+
+### Note:
+
+---
+
+*An equivalent course may be substituted with permission.
+
+**Prerequisite: BISC 220 or BISC 221 .
+
+***Prerequisite: PSYC 100 .
+
+Recommended but not required: CHEM 103Lx (or CHEM 105La ) plus MATH 125
+
+Students who have not already taken the prerequisites (BISC 220 /BISC 221 and PSYC 100 ) will need to take a total of 28 units to satisfy the requirements of a minor in neuroscience. Thus, the range of units will vary from 20 to 28 depending on a student’s background; consult an academic adviser.
+
+---

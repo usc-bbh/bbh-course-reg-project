@@ -1,0 +1,33 @@
+Program Name: Education and Society Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32014
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32014&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32014
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:02Z
+Content SHA-256: 313545298abc6ce4d26c47f5d2baf687b1b7f5a27b8c29cd9fd138c7d739e488
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Education and Society Minor
+
+---
+
+The education and society minor seeks to examine education and its role in society. The minor is intended to help students develop broad perspectives on the purposes and forms of education and schooling, including the purpose and history of schooling; the provision of equitable opportunities for all; the factors impacting teaching, learning and achievement; and the development of engaged citizenship for more just societies through education. Students enrolled in this minor will gain multiple perspectives on education locally, nationally and internationally, including technology’s role in educational outcomes. The minor provides resources for students who may want to pursue careers in education after graduation — teaching, educational advocacy through nonprofits or non-governmental organizations, university research, policymaking or educational entrepreneurship.
+
+## Upper-Division Requirements
+
+---
+
+- EDUC 421w Global Issues: Impact on Educational Outcomes Units: 4
+- EDUC 422 Education for Social Change Units: 4
+- EDUC 423 Unrealized Promise and Hope for Education in 21st Century Units: 4
+- EDUC 426 Educational Inquiry for Equity Units: 4
+-
+
+---

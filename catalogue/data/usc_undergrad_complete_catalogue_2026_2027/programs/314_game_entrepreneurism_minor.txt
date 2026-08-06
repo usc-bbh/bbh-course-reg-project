@@ -1,0 +1,62 @@
+Program Name: Game Entrepreneurism Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31685
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31685&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31685
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:03:00Z
+Content SHA-256: 3f4b3d5aab4bdf18e04a8e76c4d6e4a2e3e4b460d26966c2a5ba6dc1c1600447
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Game Entrepreneurism Minor
+
+---
+
+Game Entrepreneurism is a minor for students interested in building a business in the games and digital media industry. Building on the business, production and management courses in the Interactive Media Division, this minor culminates in our advanced game project course and provides students with hands-on mentorship in starting actual companies based on the work they are doing in these concurrent classes. The minor provides a basis in theories of design and production for games, as well as a strong grounding in the business knowledge necessary to become an entrepreneur.
+
+To be eligible for the game entrepreneurism minor, a student must be in good academic standing and have a declared major. To declare the Game Entrepreneurism minor a student must get permission from the Interactive Media Division (SCA 222), and submit a change of major/minor form to Cinematic Arts Student Services (SCB 105).
+
+#### Course Requirements for the Minor
+
+A minimum of 16 units is required for the Game Entrepreneurism minor.
+
+## Upper-division Core (10 Units)
+
+---
+
+- BAEP 450 Fundamentals of Entrepreneurship Units: 4 or
+- BAEP 451 The Management of New Enterprises Units: 4
+- BAEP 452 Feasibility Analysis Units: 4 *
+- CTIN 458 Business and Management of Games Units: 2
+
+## Electives (6 Additional Units)
+
+---
+
+- BAEP 454 Venture Initiation: Launching and Scaling Your Startup Units: 4 *
+- BAEP 460 Seminar in Entrepreneurship Units: 2
+- BAEP 465 Digital Playbook for Entrepreneurs: Creating a Tech Startup Units: 2
+- BAEP 475 Entertainment Entrepreneurship Units: 2
+- CTIN 291 Crew for Advanced Game Project Units: 2
+- CTIN 463 Anatomy of a Game Units: 4
+- CTIN 468 Advanced Games Business Units: 2
+- CTIN 488 Game Design Workshop Units: 4
+- CTIN 497 Interactive Media Startup Units: 1
+
+## Note:
+
+---
+
+*Prerequisite required.
+
+#### Grade Point Average Requirement
+
+A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.
+
+---

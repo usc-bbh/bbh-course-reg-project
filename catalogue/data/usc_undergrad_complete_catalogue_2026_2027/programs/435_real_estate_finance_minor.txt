@@ -1,0 +1,91 @@
+Program Name: Real Estate Finance Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32540
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32540&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32540
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:43Z
+Content SHA-256: 10f95aedfcea45a1799bcd06bfddd90b16f45bdf93383b183aaf656a7f1fee41
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Real Estate Finance Minor
+
+---
+
+The minor in real estate finance is available to all students except real estate development majors. It provides students with training in the areas of business, finance, real estate law, design, and urban economics. It provides an opportunity for students to gain thorough exposure to the topics of real estate investing, finance and development. Upon successful completion of this minor, students will have achieved a basic understanding of the interplay of the various disciplines involved in contemporary real estate ownership and investment and how they impact the areas of the student’s specific interests and expertise.
+
+Those completing this minor will master techniques in valuing income-producing properties, analyze financial instruments such as mortgages and loans, understand the roles of debt and equity, gain insights into the processes of design and construction, as well as understand the dynamics of how real estate markets affect the underlying values of real property assets, as well as the role real estate markets play in the overall economy.
+
+To enroll, students must have completed a minimum of 32 units of college-level course work and attained a minimum overall GPA of at least 2.75.
+
+Successful completion of this minor requires 20 units including a minimum of 16 upper-division units in the minor and a cumulative GPA of 2.0 for the 20 units.
+
+## Required Courses (8 units)
+
+---
+
+### Business Finance: 4 units
+
+---
+
+- BUAD 306 Business Finance Units: 4
+- or
+- BUAD 308 Advanced Business Finance Units: 4
+
+### Real Estate Finance: 4 units
+
+---
+
+- FBE 391 Real Estate Finance and Investment Units: 4 * or
+- FBE 400x Introduction to Real Estate Finance and Development Units: 4
+
+## Electives (12 Units with no more than 4 units of non-Real Estate electives)
+
+---
+
+### Real Estate Electives: 8 - 12 units
+
+---
+
+Choose 8 - 12 units from the following. (The number of units of Real Estate Electives plus Non-Real Estate Electives will total 12.)
+
+- FBE 427 Real Estate Law Units: 4
+- FBE 465 Real Estate Analysis and Computer Modeling Units: 2 *
+- FBE 466 Management of Real Estate Development: Feasibility Studies Units: 4 *
+- FBE 467 Real Estate Investment Trust (REIT) Analysis Units: 4 *
+- FBE 468 International Real Estate Analysis Units: 4 *
+- FBE 470 Advanced Real Estate Analysis Units: 4 *
+- FBE 489 Real Estate Capital Markets Units: 4 *
+- FBE 491 Real Estate Finance Colloquium Units: 2
+
+### Non-Real Estate Electives: 0 - 4 units
+
+---
+
+Choose 0 - 4 units from the following
+
+- BAEP 423 Management of Small Businesses Units: 4
+- DSO 455 Project Management Units: 4
+- FBE 421 Financial Analysis and Valuation Units: 4 *
+- FBE 423 Introduction to Venture Capital and Private Equity Units: 4 *
+- FBE 435 Applied Finance in Fixed Income Securities Units: 4 *
+- FBE 437 Entrepreneurial Finance: Financial Management for Developing Firms Units: 4 *
+- FBE 441 Investments Units: 4 *
+- FBE 459 Financial Derivatives Units: 4 *
+- MOR 469 Negotiation and Persuasion Units: 4
+
+## Note:
+
+---
+
+[*]Prerequisites required. Plan carefully.
+
+Return to: USC Marshall School of Business
+
+---

@@ -1,0 +1,16 @@
+# Runtime state: contains live USC session cookies and anti-bot (WAF) tokens
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+browser_profile/
+state/
+.bootstrap_state/
+*_work/
+http_cookies.json
+storage_state.json
+*.sqlite3
+out/
+.DS_Store

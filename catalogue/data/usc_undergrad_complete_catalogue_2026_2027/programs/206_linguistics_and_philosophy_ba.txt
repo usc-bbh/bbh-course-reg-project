@@ -1,0 +1,90 @@
+Program Name: Linguistics and Philosophy (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31843
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31843&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31843
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:52Z
+Content SHA-256: 0a23ccb6537893389e0dfb7273d23448dc63d317d012bb831b60a3fbd338ceaa
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Linguistics and Philosophy (BA)
+
+---
+
+Combined major program between the Department of Linguistics and the Department of Philosophy.
+
+## For the lower division,
+
+---
+
+- LING 210g Introduction to Linguistics Units: 4 is required
+
+## For the upper division the following courses are required:
+
+---
+
+- LING 302 Introduction to Syntax Units: 4
+- LING 303 Introduction to Semantics and Pragmatics Units: 4
+- PHIL 350 Intermediate Logic Units: 4
+- PHIL 465 Philosophy of Language Units: 4
+
+## Two courses selected from
+
+---
+
+- LING 301 Introduction to Phonology and Morphology Units: 4
+- LING 380 Languages of the World Units: 4
+- LING 401 Advanced Phonology Units: 4
+- LING 402 Advanced Syntax Units: 4
+- LING 403 Advanced Semantics Units: 4
+- LING 405 Child Language Acquisition Units: 4
+- LING 406 Psycholinguistics Units: 4
+- LING 407 Atypical Language Units: 4
+- LING 410 Second Language Acquisition Units: 4
+- LING 415 Phonetics Units: 4
+- LING 466 Word and Phrase Origins Units: 4
+- LING 467 Language, Linguistics and Mind Units: 4 * and
+- LING 485 Field Methodology Units: 4
+
+## And three courses selected from
+
+---
+
+- PHIL 450 The Limits of Logic Units: 4
+- PHIL 460 Metaphysics Units: 4
+- PHIL 462 Philosophy of Mind Units: 4
+- PHIL 467 Language, Linguistics and Mind Units: 4 * and
+- PHIL 470 Theory of Knowledge Units: 4
+
+## Note
+
+---
+
+*This course may count toward only one program requirement.
+
+## Capstone Experience
+
+---
+
+The Linguistics and Philosophy major requires a capstone experience, which can be fulfilled in one of the following ways:
+
+(A) A research paper completed as Honors Thesis LING 497 , or as Directed Research LING 490 or as a Linguistic 400-level course research paper.
+
+(B) A poster presented at the USC UG symposium [https://ahf.usc.edu/signature-events/symposium/] or at a conference.
+
+(C) A summer internship related to the degree.
+
+## Linguistics and Philosophy Major with Honors
+
+---
+
+The Linguistics and Philosophy major with honors requires the student to complete the requirements for the major with a GPA of 3.5 or above and to complete in addition LING 497 Honors Thesis or PHIL 494 Senior Thesis with a grade of B+ or better. Intent to complete the major with honors should be registered with the undergraduate adviser no later than the second semester of the junior year.
+
+---

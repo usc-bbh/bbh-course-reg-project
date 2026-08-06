@@ -1,0 +1,44 @@
+Program Name: Intermedia Arts Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32618
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32618&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32618
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:25Z
+Content SHA-256: e74bcafbd83a8722fd37d635d974308b6f16fbb2607b212cde6ef1d79b15e606
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Intermedia Arts Minor
+
+---
+
+This minor deals with technology in art making including digital photography, digital video and the Internet. Course work includes choice of classes in history of photography, digital media, visual literacy and computer imaging. The professional aspects of this minor assist students in developing careers in fine arts, communication, design, engineering, film, journalism and in any area where there is a need for flexible and creative imaging using digital media. The total number of units required for the minor is 20.
+
+## Required Lower-Division Courses (8 Units)
+
+---
+
+- ART 150 Introduction to Photography: Process and Concept Units: 4
+- ART 260 Introduction to Video: Projection and Virtual Worlds in Art Units: 4
+
+## Three Upper-Division Courses (12 units)
+
+---
+
+Choose from the following courses:
+
+- ART 350 Intermediate Photography: Studio, Field, Independent Projects Units: 4
+- ART 360 Video Installation and Moving Image Environments Units: 4
+- ART 361 Post-Internet Art and Aesthetics Units: 4
+- ART 362 Ideas in Intermedia Units: 4 max 8
+- ART 460 Post-Material Studio Units: 4 max 8
+- ART 484 Contemporary Issues in Art Units: 4
+- CRIT 350gw Global Art, Design and Visual Culture since 1960 Units: 4
+
+---

@@ -1,0 +1,132 @@
+Program Name: Classical Perspectives Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32430
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32430&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32430
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:24Z
+Content SHA-256: 092ce37913f51cd0ed2cac1b451596c401f27f70b276dcf8889260f0992aa218
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Classical Perspectives Minor
+
+---
+
+The interdisciplinary minor in Classical Perspectives provides immersion in foundational ideas, texts and histories of the Greco-Roman tradition that speak to more contemporary topics and areas of study. How did the Greeks and Romans view love and sexuality, justice and mercy, wisdom and honor, war and peace, glory and shame? What insights might classical perspectives provide into artistic and political choices, professional practices, ethical controversies and social issues in other ages; or, into the study of psychology, sex, gender and sexuality, international relations, race relations, cinema, the sciences, business, theatre or popular culture?
+
+The interdisciplinary 20-unit minor is meant to be easily adapted to any student’s program of study and allows students to double-count General Education and Thematic Option Honors courses. Students choose 20 units from the list below in consultation with a Classics faculty member or staff adviser. No more than 12 units may be taken in any one USC Dornsife department or USC school.
+
+## Foundational Courses
+
+---
+
+Choose one course from the following list (4 units)
+
+- AHIS 120gp Foundations of Western Art: Prehistoric to Renaissance Units: 4
+- AHIS 201g Digging into the Past Units: 4
+- CLAS 150gp The Greeks and their Legacies Units: 4
+- CLAS 151gp The Legacy of Rome Units: 4
+- CLAS 160gp Ancient Lives Units: 4
+- CLAS 170gp Classics of Music and Literature: from Ancient Greece Through Contemporary LA Units: 4
+- CLAS 180g Classical Mythology and the Mythic Imagination Units: 4
+- CLAS 190g History of Science: Antiquity to the Scientific Revolution Units: 4
+- CLAS 275gp The Byzantine Empire, 324 - 1453 Units: 4
+- CLAS 280gp Classical Mythology in Art and Literature Units: 4
+- CORE 102gp Culture and Values: Thematic Option Honors Program Units: 4
+- HIST 101gp State and Society in the Ancient World Units: 4
+- GE seminars on appropriate topics (consult an adviser)
+- REL 112g Religions of Ancient Egypt and the Near East Units: 4
+- REL 114g The Mediterranean: A Religious History Units: 4
+- REL 121g The New Testament Units: 4
+
+## Core Courses
+
+---
+
+Choose at least one course from the following list (4-12 units)
+
+- CLAS 310 Pagans and Christians Units: 4
+- CLAS 320gmp Diversity and the Classical Western Tradition Units: 4
+- CLAS 330 Ancients VS. Moderns Units: 4
+- CLAS 339 Ancient Science Units: 4
+- CLAS 340 Ethics and Politics in Ancient Rome Units: 4
+- CLAS 370 Leaders and Communities: Classical Models Units: 4
+- CLAS 380 Approaches to Myth Units: 4
+- CLAS 415 Object-Worlds: Histories and Theories of Things Units: 4
+- CLAS 420 Science and Empire from Baghdad to Byzantium Units: 4
+- CLAS 470 Democracies Ancient and Modern Units: 4
+
+## Electives
+
+---
+
+Choose at least one course from the following list (4-12 units)
+
+- AHIS 301 Guardians of the Past? Art Preservation, Ethics, and the Law Units: 4
+- AHIS 304gm Art, Power and Identity in Renaissance Italy Units: 4
+- AHIS 321 Greek Art and Archaeology Units: 4
+- AHIS 322 Roman Art and Archaeology Units: 4
+- AHIS 325 Roman Archaeological Excavation: Methods and Practice Units: 4
+- AHIS 420 Studies in Ancient Art Units: 4
+- AHIS 425 Interdisciplinary Studies in Classical Art and Archaeology: Research and Methodology Units: 4
+- ANTH 372 Interpretation of Myth and Narrative Units: 4
+- ARCG 323p Roman Archaeology: History, Methods and Field Work Units: 4
+- CLAS 300 Women in Antiquity Units: 4
+- CLAS 305 Roman Law Units: 4
+- CLAS 307 Law and Society in Classical Greece Units: 4
+- CLAS 310 Pagans and Christians Units: 4
+- CLAS 315 Sport and Spectacle in the Ancient World Units: 4
+- CLAS 320gmp Diversity and the Classical Western Tradition Units: 4
+- CLAS 321 Greek Art and Archaeology Units: 4
+- CLAS 322 Roman Art and Archaeology Units: 4
+- CLAS 323 Aegean Archaeology Units: 4
+- CLAS 324 Late Antique Art and Archaeology Units: 4
+- CLAS 325 Ancient Epic Units: 4
+- CLAS 328 Archaeology of Religion in the Greco- Roman World Units: 4
+- CLAS 333 Cult and City in Ancient Greece Units: 4
+- CLAS 336 Rome and its Discontents: Literature and Social Change Units: 4
+- CLAS 337gp Ancient Drama Units: 4
+- CLAS 338 Warfare, State, and Society in the Ancient World Units: 4
+- CLAS 348g Athens in the Age of Democracy and Empire Units: 4
+- CLAS 349gp Ancient Empires Units: 4
+- CLAS 371 From Alexander to Cleopatra: The Mediterranean in an Age of Expansion Units: 4
+- CLAS 375 Alexander the Great Units: 4
+- CLAS 378 Ptolemaic Egypt Units: 4
+- CLAS 390 Special Problems Units: 1, 2, 3, 4
+- CLAS 425 Interdisciplinary Studies in Classical Art and Archaeology: Research and Methodology Units: 4
+- CLAS 465 Archaeology and Society Units: 4
+- CLAS 485 Comparative Grammar of Greek and Latin Units: 4
+- CLAS 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- COLT 311 Epic Units: 4
+- COLT 312 Heroes, Myths and Legends in Literature and the Arts Units: 4
+- COLT 391 Literary Criticism from Plato to Postmodernism Units: 4
+- COMM 330p Rhetoric in Classical Culture Units: 4
+- HIST 303 Barbarians, Romans, and Christians Units: 4
+- HIST 305 Women and Gender in Pre-Modern Europe Units: 4
+- HIST 306 The Early Middle Ages Units: 4
+- HIST 314 Rome Through its Monuments from Antiquity to the Middle Ages Units: 4
+- HIST 316 The Renaissance Units: 4
+- HIST 396 Women of Rome, from Antiquity through the Middle Ages Units: 4
+- HIST 401 The Roman World Units: 4
+- HIST 403 The Age of Charlemagne and the Making of Europe Units: 4
+- HIST 405 Traveling in the Early Medieval Mediterranean Units: 4
+- HIST 479 History in the Museum: The Past in Objects Units: 4
+- LING 466 Word and Phrase Origins Units: 4
+- PHIL 314 Origins of Free Market Thought in Early Modern Europe Units: 4
+- PHIL 315 History of Western Philosophy: Ancient Period Units: 4
+- PHIL 411 Plato Units: 4
+- PHIL 415 Aristotle Units: 4
+- POSC 370 European Political Thought I Units: 4
+- REL 302 Religions of Ancient Egypt and the Near East Units: 4
+- REL 325g Religious Experience in the Greco-Roman World Units: 4
+- REL 326gp Historical Jesus Units: 4
+- REL 327g Heretics, Martyrs, and Miracles Units: 4
+- THTR 301 Greek and Roman Theatre Units: 4
+
+---

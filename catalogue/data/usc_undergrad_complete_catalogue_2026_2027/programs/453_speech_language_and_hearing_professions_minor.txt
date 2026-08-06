@@ -1,0 +1,44 @@
+Program Name: Speech-Language and Hearing Professions Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32645
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32645&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32645
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:45Z
+Content SHA-256: e97e92c79ffa3f159f5d6d82dce3e92b3530ed29f6073c073d98bdd9900b8553
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Speech-Language and Hearing Professions Minor
+
+---
+
+The USC Caruso Department of Otolaryngology – Head and Neck Surgery offers the minor in Speech-Language and Hearing Professions. This minor is designed to introduce undergraduate students from a wide variety of majors to the field of communication sciences and disorders (i.e. speech-language pathology and audiology) and guide them in the development of interdisciplinary knowledge, which will lead to collaborative practices in health care, social services and education, as it relates to communication sciences and disorders. Relevant majors from which students may be interested in this minor include education, pre-medical and biological sciences, social work, occupational and physical therapy, linguistics, music or other related fields in a variety of aspects related to the field of communication sciences and disorders and/or speech, language and hearing professions.
+
+Course work for this minor will focus on Interprofessional Practice necessary to serving individuals with communication disabilities. The course work will examine broad aspects of typical and atypical speech, language and hearing development, delays and disorders, technological advancements in hearing science and audiology practice and collaborative work settings for allied and related professionals serving individuals with communication disabilities. In addition, public policy and practice will be discussed throughout the course work, including aspects of access to medical and educational services.
+
+This minor requires 16 units, consisting of 4 required units and 12 elective units, as detailed below.
+
+## Required Course
+
+---
+
+- OHNS 200 Communication Development and Disorders Across the Life Span Units: 4
+
+### Electives
+
+---
+
+Select 12 units of electives from the following:
+
+- OHNS 301 The Practice of Educational Speech-Language Pathology Units: 4
+- OHNS 303 Telehealth and Assistive Technology in SLP Units: 4
+- OHNS 401 The Practice of Medical Speech-Language Pathology Units: 4
+- OHNS 402 The Dynamic Profession of Audiology Units: 4
+
+---

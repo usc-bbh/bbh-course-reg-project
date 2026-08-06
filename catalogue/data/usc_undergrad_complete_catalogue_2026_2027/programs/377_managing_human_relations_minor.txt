@@ -1,0 +1,85 @@
+Program Name: Managing Human Relations Minor
+Credential: 
+School or Academic Unit: College
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31932
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31932&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31932
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:30Z
+Content SHA-256: 91e2d211bbd59b371617c95bcb10703aba3d842df15bb8ae863d4df9098015ad
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Managing Human Relations Minor
+
+---
+
+College Academic Services Building
+(213) 740-2534
+
+This interdisciplinary minor is intended for students in all schools with an interest in human relations as a subject of study or professional goal. In addition to course work in organizational behavior, social psychology and management, this minor includes attention to questions of ethics and leadership.
+
+As with all minors, students must include at least four upper-division courses and four courses dedicated exclusively to this minor (not used for credit toward a major, another minor or general education requirements). Finally, students must select four courses outside their major department. Students seeking the Bachelor of Arts in Sociology must choose four courses outside of sociology; those seeking the Bachelor of Science in Business Administration must choose four courses outside the USC Marshall School of Business.
+
+## Requirements
+
+---
+
+### Choose one course from the following (4 units):
+
+---
+
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+- PSYC 355 Social Psychology Units: 4 *
+
+### Choose one course from the following (4 units):
+
+---
+
+- SOCI 340 Organizations: Bureaucracy and Alternatives to Bureaucracy Units: 4
+- SOCI 342m Race Relations Units: 4
+- SOCI 345 Social Institutions Units: 4
+
+### Choose one course from the following list of classes on leadership (4 units):
+
+---
+
+- CLAS 370 Leaders and Communities: Classical Models Units: 4
+- IR 303 Leadership and Diplomacy Units: 4
+- MDA 325 Case Studies in Modern Leadership Units: 2 or 4
+- MDA 365 The Art and Adventure of Leadership Units: 1, 2, 3, 4
+- MOR 470 Global Leadership Units: 4 *
+
+### Choose one course from the following list of classes on ethics (4 units):
+
+---
+
+- BUCO 425 Ethics and Professional Communication Units: 4 *
+- MOR 421 Social and Ethical Issues in Business Units: 4 *
+- PHIL 340 Ethics Units: 4
+- REL 341 Technology, Culture, and Ethics Units: 4
+
+### Choose one of the following three capstone classes (4 units):
+
+---
+
+- ECON 332 Contracts, Organizations and Institutions Units: 4 *
+- ECON 471 Economics of Labor Markets and Human Capital Units: 4 *
+- MOR 471 Managing and Developing People Units: 4
+- SOCI 340 Organizations: Bureaucracy and Alternatives to Bureaucracy Units: 4
+
+### Note:
+
+---
+
+*Course has prerequisite or corequisite
+
+## Total requirements: five courses, 20 units
+
+---
+
+---

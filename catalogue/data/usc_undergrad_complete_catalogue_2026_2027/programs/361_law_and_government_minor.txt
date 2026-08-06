@@ -1,0 +1,61 @@
+Program Name: Law and Government Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32943
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32943&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32943
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:08:05Z
+Content SHA-256: 4e97ca13ca62f380b7f4fd51da29e9dd6baa43a940c23916e78014c65ade7803
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Law and Government Minor
+
+---
+
+The Minor in Law and Government introduces the legal foundations of legal institutions and explores the intersections of law with government and politics.
+
+The minor totals 16 units: 4 required core law units, at least 4 elective law units, and up to 8 units of electives from various departments as listed below.
+
+## Required Core Courses (4 units)
+
+---
+
+- LAW 201w Law and Politics Units: 4
+
+## LAW Electives (a minimum of 4 or maximum of 8 units)
+
+---
+
+- LAW 200w Law and Society Units: 4
+- LAW 207 Personal Data in the 21st Century Units: 4
+- LAW 210p Fundamentals of the U.S. Legal System Units: 4
+- LAW 225 Current Court Cases Units: 2
+- LAW 301 Voting Rights and the Law Units: 4
+- LAW 305 International Influence: Law and Power Units: 4
+- LAW 406 Individual Rights in U.S. Constitutional Law Units: 4
+- LAW 407 Regulatory Law Units: 4
+- LAW 498 Law Internship Units: 1, 2, 3, 4
+
+## Other Electives (a minimum of 4 or maximum of 8 units)
+
+---
+
+- IR 309 Global Governance Units: 4
+- POSC 335 Political Parties, Campaigns, and Elections Units: 4
+- POSC 360 Comparative Political Institutions Units: 4
+- POSC 395 Directed Governmental and Political Leadership Internship Units: 2, 3, 4, 5, 6, 7, 8
+- POSC 425 Legislative Process Units: 4
+- POSC 499 Special Topics Units: 2, 3, 4
+- PPD 240g Citizenship and Public Ethics Units: 4
+- PPD 314 Public Policy and Law Units: 4
+- PPD 342 Crime and Public Policy Units: 4
+- PPD 357 Government and Business Units: 4
+- SCDC 435 How Washington Really Works Units: 4
+
+---

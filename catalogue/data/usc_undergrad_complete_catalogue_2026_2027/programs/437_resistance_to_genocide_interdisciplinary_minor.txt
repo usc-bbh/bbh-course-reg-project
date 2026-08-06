@@ -1,0 +1,88 @@
+Program Name: Resistance to Genocide Interdisciplinary Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31823
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31823&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31823
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:48Z
+Content SHA-256: 93615288970931259ab915e2e9e704908690822b91397490588b2857bf2661af
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Resistance to Genocide Interdisciplinary Minor
+
+---
+
+To resist genocide effectively, we need to understand its history — the factors that have brought it about and those that have enabled people to prevent, resist or recuperate from mass violence. This interdisciplinary minor draws upon USC faculty in a dozen academic units researching the causes, results and representations of attempted genocide as well as resistance to genocidal mass violence. Courses include attention to different definitions of genocide, its occurrence around the world and its representation in literature and the arts.
+
+#### Course Requirements
+
+The minor requires five courses (20 units); at least four must be at the upper-division level. As with all minors, students must choose at least four courses (16 units) outside their major department and four courses (16 units) that are not being used to satisfy any other subject requirement.
+
+## Lower-Division Requirement
+
+---
+
+Choose one course (4 units) from the following list:
+
+### List A – Introduction to Genocide
+
+---
+
+- HIST 237gp Fascism Units: 4
+- HIST 271g Telling Native American Stories Units: 4
+- JS 211gw The Holocaust Units: 4
+- POSC 248gw Human Rights Units: 4
+
+## Upper-Division Requirements
+
+---
+
+Choose four courses (16 units) from the lists below, at least one from each list:
+
+### List B — Representations of Genocide
+
+---
+
+- COLT 379 Nationalism and Postcolonialism in Southeast Asian Cinema Units: 4
+- COLT 485 The Shoah (Holocaust) in Literature and the Arts Units: 4
+- ENGL 444m Native American Literature Units: 4
+- FREN 373g Remembering Loss, Writing Memory Units: 4
+- ITAL 352 The Holocaust in Italian Fiction and Film Units: 4
+- JS 362 Terror and Resistance in Literature and the Media Units: 4
+- MUSC 430m Music and the Holocaust Units: 4
+
+### List C — The Reality of Genocide
+
+---
+
+- ANTH 315gw Native North Americans Units: 4
+- ANTH 357g Cultures of Genocide, Cultures of Care Units: 4
+- COMM 479 Trauma and Communication Units: 4
+- HIST 321 The Crusades Units: 4
+- HIST 323 The Holocaust in 20th Century Europe Units: 4
+- HIST 364 Religion and Difference in the Modern Middle East Units: 4
+- HIST 448 South Africa: Race, Power and Resistance Units: 4
+- IR 310 Peace and Conflict Studies Units: 4
+- IR 313 Religions and Political Violence Units: 4
+- IR 319 Human Security and Humanitarian Intervention Units: 4
+- IR 423 Forced Migration and Conflict Units: 4
+- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4
+- MDA 330 The Armenian Heritage: History, Arts, and Culture Units: 4
+- POSC 366 Terrorism and Genocide Units: 4
+- REL 334g Religion and Colonial Encounter Units: 4
+
+### List D — Capstone Courses: Resisting Genocide
+
+---
+
+- HIST 444 Mass Violence and Comparative Genocide in Modern World History Units: 4
+- HIST 446 Resistance to Genocide Units: 4
+- IR 437 Comparative Genocide Units: 4
+
+---

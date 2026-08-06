@@ -1,0 +1,44 @@
+Program Name: Spanish Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31937
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31937&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31937
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:42Z
+Content SHA-256: d7eb9af0fa95395d026f3216e441979c669de6e5120e441145c83b9ef33c171a
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Spanish Minor
+
+---
+
+## Required Courses
+
+---
+
+### Lower-Division (4 Units)
+
+---
+
+- SPAN 260 Advanced Spanish: Arts and Sciences Units: 4
+
+### Upper-Division (20 Units)
+
+---
+
+- Any five courses at the 300 or 400 level.
+- Only one section of SPAN 316x may be taken for minor credit.
+
+## Note:
+
+---
+
+Minors may request a waiver of SPAN 260 if they meet one or more of the following prerequisites: a) a score of 5 on the Spanish language or literature advanced placement (AP) exam, b) a score of 6 or 7 on the Spanish International Baccalaureate Higher-Level exam (IBHL), c) a score of 800 in the Spanish SAT subject exam or d) demonstration of advanced proficiency in spoken and written Spanish. Departmental approval is required in every case.
+
+---

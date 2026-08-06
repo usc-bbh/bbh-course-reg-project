@@ -1,0 +1,25 @@
+Program Name: Judaic Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31839
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31839&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31839
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:46Z
+Content SHA-256: bd423004ba365f15110806d965b3433ae1c3b5ded14607b01654ec3c9e485252
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Judaic Studies Minor
+
+---
+
+The minor in Judaic Studies provides the opportunity for in-depth study of Jewish history, literature, politics, culture, religion, sociology and gender studies using approaches developed through multidisciplinary approaches. Courses offered cover a broad time span — the ancient Near East to contemporary America — and they challenge and stimulate students to examine and learn about Jewish culture as a topic of scientific interest.
+
+For the minor, 20 units in Judaic Studies and Religion are required. The following courses are required: REL 301 and JS 180 . Three additional courses may be chosen from among JS 321 , JS 340 , JS 361 , JS 375 , JS 382 , JS 383 , JS 415 and REL 312 . Successful completion of five 4-unit courses or the equivalent in Jewish American Studies is required to qualify for the minor.
+
+---

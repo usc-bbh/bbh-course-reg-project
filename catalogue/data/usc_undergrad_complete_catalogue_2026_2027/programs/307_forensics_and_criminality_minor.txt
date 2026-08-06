@@ -1,0 +1,111 @@
+Program Name: Forensics and Criminality Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31931
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31931&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31931
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:41Z
+Content SHA-256: f3a16bfd961e607c1d8319158901b4edfee7f064511635e075273638c1e5f4ef
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Forensics and Criminality Minor
+
+---
+
+The interdisciplinary minor in forensics and criminality was designed for students interested in the study of law, deviant behavior or careers in the criminal justice system. In this program, students study psychological and/or ethical issues related to criminal behavior, consider criminality in the context of social class analysis, and learn about the American system of criminal justice. Twenty units are required, 4 at the lower-division and 16 at the upper-division level. Contact Dornsife College Advising for further details.
+
+Students should choose a curriculum for their minor based on their academic interests. Those students interested in white collar crime, for example, might choose POSC 130 Law, Politics, and Public Policy at the lower-division level, SOCI 350 Social Exclusion, Social Power, and Deviance and PPD 342 Crime and Public Policy .
+
+Those who are interested in the criminal justice system might choose LAW 200x Law and Society , REL 341 Ethics in a Technological Society , SOCI 351 Public Policy and Juvenile Justice , POSC 340 Constitutional Law and POSC 432 The Politics of Local Criminal Justice .
+
+Those interested in individual and social determinants of deviancy might take PSYC 100 Introduction to Psychology , PSYC 360 Abnormal Psychology , or PSYC 363 Criminal Behavior , or PSYC 365 Introduction to Forensic Psychology ; SOCI 360 Social Inequality: Class, Status, and Power , LAW 402 Psychology and Law and SOCI 353 Public Policy and Criminal Justice .
+
+## Lower-Division Requirement (4 Units)
+
+---
+
+### Choose one course from:
+
+---
+
+- AMST 101gmw Race and Class in Los Angeles Units: 4
+- LAW 200w Law and Society Units: 4
+- POSC 130g Law, Politics and Public Policy Units: 4
+- PSYC 100Lg Introduction to Psychology Units: 4
+- PSYC 165Lg Drugs, Behavior and Society Units: 4
+- SOCI 142gm Diversity and Racial Conflict Units: 4
+- SOCI 150gm Social Problems Units: 4
+- SOCI 200gm Introduction to Sociology Units: 4
+
+## Upper-Division Requirements (16 Units)
+
+---
+
+### Choose one course from each group below:
+
+---
+
+#### The Individual in Society
+
+---
+
+- LAW 404 Psychology of the Criminal Justice Process Units: 4
+- LING 412 Language and Law Units: 4
+- LING 450 Forensic Speaker Identification Units: 4
+-
+- PSYC 355 Social Psychology Units: 4 * or
+- POSC 441m Cultural Diversity and the Law Units: 4
+- PSYC 360 Psychological Disorders Units: 4 *
+- PSYC 363 Criminal Behavior Units: 4 *
+- PSYC 365 Introduction to Forensic Psychology Units: 4 *
+- REL 341 Technology, Culture, and Ethics Units: 4
+
+##### Note:
+
+---
+
+*Prerequisite: PSYC 100
+
+#### Social Class and Criminality
+
+---
+
+- ANTH 371gm Cross-Cultural Research on Urban Gangs Units: 4
+- SOCI 350 Social Exclusion, Social Power and Deviance Units: 4
+- SOCI 351 Youth, Social Control and Public Policy Units: 4
+- SOCI 360m Social Inequality: Class, Status and Power Units: 4
+- SOWK 350 Adolescent Gang Intervention Units: 4
+
+#### The System of Criminal Justice
+
+---
+
+- LAW 402 Psychology and Law Units: 4
+- LAW 403 Mental Health Law Units: 4
+- PHIL 430 Philosophy of Law Units: 4
+- PHIL 437 Social and Political Philosophy Units: 4
+- POSC 340 Constitutional Law Units: 4
+- POSC 426 The United States Supreme Court Units: 4
+- POSC 444 Civil and Political Rights and Liberties Units: 4
+- PPD 340 The American System of Justice Units: 4
+- SOCI 415 Sociology of Law Units: 4
+
+#### Crime and Punishment
+
+---
+
+- POSC 432 Politics of Local Criminal Justice Units: 4
+- PPD 342 Crime and Public Policy Units: 4
+- SOCI 353 Crime, Punishment and Society Units: 4
+
+## Total requirements: five courses (20 units)
+
+---
+
+---

@@ -1,0 +1,105 @@
+Program Name: Race, Ethnicity and Politics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31901
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31901&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31901
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:39Z
+Content SHA-256: 437e4fb0bade11de51cde9ed0342e4744f8c57a370814f58e715f867f2148799
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Race, Ethnicity and Politics Minor
+
+---
+
+The interdisciplinary minor in race, ethnicity and politics helps students analyze and critically evaluate contemporary race relations and how race matters in politics today.
+
+#### Requirements: Five Courses (20 Units)*
+
+All students are required to take POSC 421 Ethnic Politics . In addition, students must also take one course from each category: Race and Gender in a Global Context, Comparative Racial Politics, Social/Historical (Racial Perspective) and Racial Formation. The following is a list of courses that fulfill each category.
+
+## Core Requirement
+
+---
+
+- POSC 421 Ethnic Politics Units: 4
+
+## Political Science Upper-Division Courses
+
+---
+
+### Choose one course from each of the groups below:
+
+---
+
+#### Race and Gender in a Global Context:
+
+---
+
+- POSC 350 Politics of Latin America Units: 4
+- POSC 351 Middle East Politics Units: 4
+- POSC 352 Politics of Southeast Asia Units: 4
+- POSC 356 Politics in the People’s Republic of China Units: 4
+- POSC 358 Politics of Sub-Sahara Africa Units: 4
+- POSC 430 Political Economy of Mexico Units: 4
+- POSC 431 Political Economy of Central America Units: 4
+- POSC 452 Critical Issues in Law and Public Policy Units: 4
+- POSC 456 Women in International Development Units: 4
+
+#### Comparative Racial Politics:
+
+---
+
+- POSC 320 Urban Politics Units: 4
+- POSC 328 Asian American Politics Units: 4
+- POSC 424m Political Participation and American Diversity Units: 4
+- POSC 427 Black Politics in the American Political System Units: 4
+- POSC 428 Latino Politics Units: 4
+- POSC 441m Cultural Diversity and the Law Units: 4
+- POSC 442m The Politics of Human Differences: Diversity and Discrimination Units: 4
+- POSC 444 Civil and Political Rights and Liberties Units: 4
+
+## Electives
+
+---
+
+### Choose one course from each of the groups below:
+
+---
+
+#### Social/Historical:
+
+---
+
+- HIST 265gw Racism, Sexism, and the Law Units: 4
+- HIST 341 American Social History Units: 4
+- HIST 347 Urbanization in the American Experience Units: 4
+- SOCI 142gm Diversity and Racial Conflict Units: 4
+- SOCI 155gm Immigrant America Units: 4
+- SOCI 342m Race Relations Units: 4
+- SOCI 432m Racial and Ethnic Relations in a Global Society Units: 4
+
+#### Racial Formation:
+
+---
+
+- AMST 301gp America, the Frontier, and the New West Units: 4
+- AMST 320 Social Construction of Race and Citizenship Units: 4
+- AMST 365 Leadership in the Community — Internship Units: 4
+- AMST 385 African American Culture and Society Units: 4
+
+## Note:
+
+---
+
+*Political science majors are required to take seven courses (28 units).
+
+Political science majors must take four courses (at least three must be upper-division) from the Social/Historical and the Racial Formation categories. At least four classes must be unique to the minor and not taken for additional major, minor or general education credit.
+
+---

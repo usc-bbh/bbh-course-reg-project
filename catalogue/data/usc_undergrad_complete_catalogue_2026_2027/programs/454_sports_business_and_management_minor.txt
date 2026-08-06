@@ -1,0 +1,77 @@
+Program Name: Sports Business and Management Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32603
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32603&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32603
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:48Z
+Content SHA-256: e4a22ee430d90a99c94ad5e21d15cb3c11831812f21deefb54e87691ac12359b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Sports Business and Management Minor
+
+---
+
+The worldwide and national sports industry is large and growing, with a significant presence in Southern California. The sports industry has significant ties to entertainment, real estate, games and special events, as well as media, journalism and other industries. The sports industry provides a unique business context, with specific needs in marketing, finance, economics, data analytics, risk management, communication, human resources, law and other business disciplines. The Sports Business and Management minor provides students the opportunity to combine courses in core management disciplines with complementary courses specific to sports business.
+
+To enroll in this minor, students must have completed 32 units of college-level courses and have a minimum overall GPA of 2.75.
+
+Successful completion of the Sports Business and Management minor requires a minimum of 20 units and a minimum cumulative GPA of 2.0 in the courses applied to the minor.
+
+## Required Courses (8 units)
+
+---
+
+- BUAD 201x Introduction to Business for Non-Majors Units: 4
+- MOR 479 The Business of Sports Units: 4
+
+## Elective Courses (12 units)
+
+---
+
+### General Business and Management
+
+---
+
+Select at least 4 units from the following:
+
+- ACCT 410x Foundations of Accounting Units: 4
+-
+- BAEP 450 Fundamentals of Entrepreneurship Units: 4 or
+- BAEP 451 The Management of New Enterprises Units: 4
+-
+- BUAD 302 Communication Strategy in Business Units: 4
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+- BUAD 307 Marketing Fundamentals Units: 4
+- BUAD 315x Basics of Project and Operations Management for Non-Majors Units: 2
+- BUCO 333mw Communication in the Working World - Managing Diversity Units: 4
+- DSO 428 Essentials and Digital Frontiers of Big Data Units: 4
+- DSO 443 Business Model Innovations in the Media Industries Units: 4
+- FBE 400x Introduction to Real Estate Finance and Development Units: 4
+- FBE 403 Introduction to the Legal Environment of Business Units: 4
+- MOR 469 Negotiation and Persuasion Units: 4
+
+### Sports Business
+
+---
+
+Select at least 4 units from the following:
+
+- BAEP 465 Digital Playbook for Entrepreneurs: Creating a Tech Startup Units: 2
+- BAEP 470 The Entrepreneurial Mindset — Taking the Leap Units: 2
+- BAEP 472 The Science of Peak Performance Units: 2
+- DSO 478 Sports Data Science, AI and Management Units: 4
+- JOUR 380 Sports, Business and Media in Today’s Society Units: 4
+- LAW 324 Sports Law Units: 4
+- MKT 479 Sports Marketing Units: 4
+- MOR 480 Sports Business Innovation: Impacts on Decision Making Units: 4
+- RISK 387 Risk Management in Entertainment, Sports and the Arts Units: 4
+- Return to: USC Marshall School of Business
+
+---

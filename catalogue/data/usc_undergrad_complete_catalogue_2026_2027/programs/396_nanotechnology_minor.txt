@@ -1,0 +1,72 @@
+Program Name: Nanotechnology Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32439
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32439&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32439
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:13Z
+Content SHA-256: 0d93ce894cf8802f3369604f20c8aac3c3507273bba95d3764faa98376870c70
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Nanotechnology Minor
+
+---
+
+A minor in nanotechnology consisting of 20 required units is available to undergraduate majors in various fields. Nanotechnology involves the study of matter at length scales that are intermediate between the molecular and the bulk. In this minor, students will (1) learn in detail the properties of material structures on the nanometer scale, (2) examine a range of nanoscale materials, including metallic, ceramic, and polymeric particles as well as proteins, and (3) be exposed to a variety of specialized probes capable of visualizing matter on these length scales.
+
+## Prerequisite Courses
+
+---
+
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+- or
+- MATH 127 Enhanced Calculus II Units: 4
+- or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+- CHEM 105aLg General Chemistry Units: 4
+- or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+- CHEM 105bL General Chemistry Units: 4
+- or
+- CHEM 115bL Advanced General Chemistry Units: 4
+
+## Required Courses
+
+---
+
+- MASC 350L Nanostructured Materials: Design, Synthesis and Processing Units: 4
+-
+- CHEM 322aL Organic Chemistry Units: 4
+- or
+- CHEM 325aL Organic Chemistry Units: 4
+
+## Core Electives
+
+---
+
+- BME 459L Introduction to Nanomedicine and Drug Delivery Units: 4
+- CHE 475 Physical Properties of Polymers Units: 4
+
+## Electives
+
+---
+
+Choose one of the following or the one “Core Elective” not already chosen.
+
+- CHEM 455 Chemical Nanotechnology Units: 4
+- CHEM 461 Polymer Chemistry Units: 4
+
+## Minimum Units: 20
+
+---
+
+---

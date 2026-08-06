@@ -1,0 +1,43 @@
+Program Name: Painting Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31577
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31577&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31577
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:39Z
+Content SHA-256: 3df34a474b7523651f6ab49f3a0294227ea2793ad0f964bbb1d5371fb5514c45
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Painting Minor
+
+---
+
+Within both western and non-western traditions, painting has a long history as a site for aesthetic experience and cultural questioning. This minor allows students to immerse themselves in painting, as well as developing a grasp of the critical issues surrounding it. Foundation courses provide the fundamentals of color, composition, medium and drawing. Advanced courses require more ambitious projects, personal direction, research and sustained focus. Students majoring in many areas of the humanities may pursue this minor to augment their understanding of one of the key media in the arts. The minor is available to all USC students who wish to develop their painting skills. A total of 20 units are required for this minor.
+
+## Required lower-division courses (8 units):
+
+---
+
+- ART 110 Drawing for Art and Design Units: 4
+- ART 120 Painting I Units: 4
+
+## Three upper-division courses (12 units) chosen from the following:
+
+---
+
+- ART 312 Comics Project Units: 4
+- max 8
+- ART 320 Painting II Units: 4
+- ART 370 Printmaking Units: 4
+- ART 415 Studies in Drawing and Painting Units: 4
+- ART 420 Topics in Advanced Painting Units: 4 (max 12)
+- ART 470 Topics in Advanced Printmaking Units: 4 (max 12)
+- CRIT 350gw Global Art, Design and Visual Culture since 1960 Units: 4
+
+---

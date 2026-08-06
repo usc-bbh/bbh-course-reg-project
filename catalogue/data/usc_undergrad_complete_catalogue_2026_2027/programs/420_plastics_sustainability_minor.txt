@@ -1,0 +1,61 @@
+Program Name: Plastics Sustainability Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32819
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32819&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32819
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:07Z
+Content SHA-256: e79b0c7418b43c875b3c635456a77d4504a4c14e687b5f49fd19048b0c9d3f6b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Plastics Sustainability Minor
+
+---
+
+The plastics sustainability minor is designed for students interested in an interdisciplinary approach to addressing the proliferation of plastic waste, which is a pressing sustainability issue for the 21st century. The plastics sustainability minor confronts this issue through a program that educates students on both technical aspects of polymer manufacturing and circularity and the broader economic and societal drivers that must be understood to confront and solve the plastics problem.
+
+The plastics sustainability minor requires a minimum of 23 units, as follows:
+
+## Required Environmental Courses (8 units)
+
+---
+
+- ENST 100g Introduction to Environmental Studies Units: 4 or
+- ENST 150gx Environmental Issues in Society Units: 4
+-
+- ENE 200 Environmental Engineering Principles Units: 4 *
+
+## Required Polymers Courses (8 units)
+
+---
+
+- CHE 475 Physical Properties of Polymers Units: 4 or
+- CHEM 461 Polymer Chemistry Units: 4 *
+-
+- CHEM 462L Properties and Sustainability of Polymers Units: 4 *
+
+## Choose Two Elective Courses (7-8 units)
+
+---
+
+- BUAD 301 Technology Entrepreneurship Units: 3, 4
+- CHE 475 Physical Properties of Polymers Units: 4 **
+- CHEM 461 Polymer Chemistry Units: 4 * **
+- ENST 344 Environmental Ethics Units: 4
+- MOR 466 Business and Environmental Sustainability Units: 4
+
+## Notes:
+
+---
+
+*Prerequisite required.
+
+**CHE 475 and CHEM 461 cannot be double-counted as both an elective and required course.
+
+---

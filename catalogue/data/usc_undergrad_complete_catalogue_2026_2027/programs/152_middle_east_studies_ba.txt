@@ -1,0 +1,266 @@
+Program Name: Middle East Studies (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31866
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31866&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31866
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:49Z
+Content SHA-256: 923260e675920d888dc059e47551c5b4d6604f8c85b9a0276a9ce2e71c303d1a
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Middle East Studies (BA)
+
+---
+
+This major is an interdisciplinary degree with an emphasis on the pressing problems of globalization and the environment of the peoples, cultures, and societies of the Middle East. Its courses offer students interested in exploring the richness and complexity of the Middle East, broadly defined as extending from Morocco through Iran, a framework for developing both expertise and wide-ranging critical perspectives on the region’s past, present and future. The variety of courses allows students to build on their firm grounding in at least one of the region’s languages and pursue their research interests in their capstone projects. It offers a concentration in Iranian Studies for those who would like to deepen their knowledge in the field.
+
+Learning Objectives for the Middle East Studies Major:
+
+1. Offer foundational knowledge of the geography, cultures and history of the Middle East and North Africa.
+2. Provide option to pursue concentration in Iranian Studies.
+3. Offer rigorous training in a range of social science and humanities approaches from history, economics, political science, geography, and international relations to literary and cultural criticism.
+4. Develop critical thinking skills that enable the student to place recent and current regional events in context.
+5. Enhance students’ ability to question non-scholarly accounts of the region’s past and present.
+6. Deliver firm grounding in at least one of the region’s languages: fourth semester proficiency in Arabic, Hebrew or Persian.
+7. Train students to conduct informed research on the Middle East and/or Iran.
+
+Nine total courses are required for the major. No more than two courses may be counted toward this major and another major. Students participating in USC Overseas Studies programs should contact the department to discuss course selection for the major. Students must meet with a faculty mentor from the department upon declaring a major in Middle East Studies.
+
+## I. Language
+
+---
+
+All MDES majors must demonstrate fourth semester competency in a Middle Eastern language. This can be achieved through placement, transfer credits from other institutions (subject to approval by the MDES Curriculum Committee), from study abroad, or through successfully completing the level IV Arabic (ARAB 252 ), Hebrew (HEBR 315 ) or Persian (IRAN 250 ) courses at USC. Students who place out of the requirement to take ARAB 252 , HEBR 315 or IRAN 250 must take an additional elective course.
+
+- ARAB 252 Arabic IV Units: 4
+- HEBR 315 Modern Hebrew Language (Hebrew IV) Units: 4
+- IRAN 250 Persian IV Units: 4
+
+## II. Required Course - Lower Division
+
+---
+
+All students must the following course.
+
+- MDES 201w The Middle East Units: 4
+
+## III. Required Courses - Upper Division
+
+---
+
+All students must take the following two courses.
+
+- MDES 301g The Global Middle East Units: 4
+- MDES 475 Seminar in Middle East Studies Units: 4
+
+## IV. Concentration I
+
+---
+
+Students must take at least two courses from this list, one of which must be an MDES course.
+
+- ARAB 300 Introduction to Translation Units: 4
+- ARAB 322 Advanced Arabic I Units: 4
+- ARAB 333 Colloquial Arabic: Regional Dialects Units: 4
+- ARAB 334 Media Arabic Units: 4
+- ARAB 352 Advanced Arabic II Units: 4
+- CLAS 349gp Ancient Empires Units: 4
+- CLAS 371 From Alexander to Cleopatra: The Mediterranean in an Age of Expansion Units: 4
+- CLAS 378 Ptolemaic Egypt Units: 4
+- HIST 480 Seminar in Middle East History Units: 4
+- IRAN 320 Advanced Persian I Units: 4
+- IRAN 325 Business Persian Units: 4
+- IRAN 350 Advanced Persian II Units: 4
+- MDES 312 Premodern Iran Units: 4
+- MDES 313p Modern Iran Units: 4
+- MDES 316p The Great Muslim Empires of the Near East and India Units: 4
+- MDES 320g Arabic Literature: Classical to Contemporary Units: 4
+- MDES 324 Persian Literature Units: 4
+- MDES 325g Politics of Film and Literature in Modern Iran Units: 4
+- MDES 335 Nation and State in Modern Turkey Units: 4
+- MDES 343g Modern Arab Culture and Literature Units: 4
+
+## V. Concentration II
+
+---
+
+Students must take at least two courses from this list, one of which must be an MDES course.
+
+- ECON 342 Economic Development of the Middle East Units: 4
+- IR 362 The International Relations of the Contemporary Middle East Units: 4
+- IR 363 Middle East Political Economy Units: 4
+- IR 464 US-Middle East Foreign Policy Issues Units: 4
+- MDES 314p Politics, Ideologies, Cultures of the Global South Units: 4
+- MDES 340g The United States and the Middle East Units: 4
+- MDES 342g Arab Intellectuals in Question Units: 4
+- MDES 345p Power and Authority in the Middle East Units: 4
+- MDES 375 Politics and Society in the Contemporary Middle East Units: 4
+- MDES 401 Environment and Politics in the Global South Units: 4
+- MDES 403 Infrastructures of Dominance: Technology, Development and the Struggle for Power Units: 4
+- MDES 441w Cities of the Middle East Units: 4
+- POSC 351 Middle East Politics Units: 4
+
+## VI. Elective Courses
+
+---
+
+Students must also take one upper-division course, chosen from the list below. Students who place out of the requirement to take ARAB 252 , HEBR 315 or IRAN 250 must take two elective courses.
+
+- ARAB 300 Introduction to Translation Units: 4
+- ARAB 322 Advanced Arabic I Units: 4
+- ARAB 333 Colloquial Arabic: Regional Dialects Units: 4
+- ARAB 334 Media Arabic Units: 4
+- ARAB 352 Advanced Arabic II Units: 4
+- CLAS 349gp Ancient Empires Units: 4
+- CLAS 371 From Alexander to Cleopatra: The Mediterranean in an Age of Expansion Units: 4
+- CLAS 378 Ptolemaic Egypt Units: 4
+- CLAS 420 Science and Empire from Baghdad to Byzantium Units: 4
+- ECON 342 Economic Development of the Middle East Units: 4
+- FREN 448m France and Islam Units: 4
+- HIST 480 Seminar in Middle East History Units: 4
+- IR 362 The International Relations of the Contemporary Middle East Units: 4
+- IR 363 Middle East Political Economy Units: 4
+- IR 464 US-Middle East Foreign Policy Issues Units: 4
+- IRAN 320 Advanced Persian I Units: 4
+- IRAN 325 Business Persian Units: 4
+- IRAN 350 Advanced Persian II Units: 4
+- JS 314gp Holy War And History: Jews, Christians, Muslims Units: 4
+- MDES 312 Premodern Iran Units: 4
+- MDES 313p Modern Iran Units: 4
+- MDES 314p Politics, Ideologies, Cultures of the Global South Units: 4
+- MDES 316p The Great Muslim Empires of the Near East and India Units: 4
+- MDES 320g Arabic Literature: Classical to Contemporary Units: 4
+- MDES 324 Persian Literature Units: 4
+- MDES 325g Politics of Film and Literature in Modern Iran Units: 4
+- MDES 335 Nation and State in Modern Turkey Units: 4
+- MDES 340g The United States and the Middle East Units: 4
+- MDES 342g Arab Intellectuals in Question Units: 4
+- MDES 343g Modern Arab Culture and Literature Units: 4
+- MDES 345p Power and Authority in the Middle East Units: 4
+- MDES 375 Politics and Society in the Contemporary Middle East Units: 4
+- MDES 401 Environment and Politics in the Global South Units: 4
+- MDES 403 Infrastructures of Dominance: Technology, Development and the Struggle for Power Units: 4
+- MDES 441w Cities of the Middle East Units: 4
+- MDES 475 Seminar in Middle East Studies Units: 4
+- POSC 351 Middle East Politics Units: 4
+- REL 315 Thought and Life of Islam Units: 4
+
+### Note:
+
+---
+
+Concentration I and II courses may not be double counted as elective courses. MDES 490 and MDES 492 may only be taken by departmental approval.
+
+## Iranian Studies Concentration
+
+---
+
+### I. Language
+
+---
+
+Students wishing to pursue an Iranian Studies concentration must demonstrate fourth-semester proficiency in the Persian language. This can be achieved through placement, transfer credits (subject to approval), from study abroad, or through successfully completing the level IV Persian (IRAN 250 ) course at USC. Students who place out of the requirement to take IRAN 250 must take an additional elective course.
+
+- IRAN 250 Persian IV Units: 4
+
+### II. Orientation Courses
+
+---
+
+All students must take the following courses:
+
+- MDES 201w The Middle East Units: 4
+- AND
+- MDES 213gp Iran: From Antiquity to Modernity Units: 4
+- OR
+- MDES 312 Premodern Iran Units: 4
+
+### III. Required Upper Division
+
+---
+
+All students must take the following course:
+
+- MDES 313p Modern Iran Units: 4
+
+### IV. Topical Courses
+
+---
+
+Students must take at least three courses from this list. IR 363 , MDES 375 and POSC 351 require departmental approval.
+
+- IR 363 Middle East Political Economy Units: 4
+- IRAN 320 Advanced Persian I Units: 4
+- MDES 301g The Global Middle East Units: 4
+- MDES 314p Politics, Ideologies, Cultures of the Global South Units: 4
+- MDES 340g The United States and the Middle East Units: 4
+- MDES 345p Power and Authority in the Middle East Units: 4
+- MDES 375 Politics and Society in the Contemporary Middle East Units: 4
+- MDES 401 Environment and Politics in the Global South Units: 4
+- MDES 403 Infrastructures of Dominance: Technology, Development and the Struggle for Power Units: 4
+- MDES 441w Cities of the Middle East Units: 4
+- POSC 351 Middle East Politics Units: 4
+
+### V. Elective
+
+---
+
+Students must take one course from the list below. Students who place out of language requirements must take two elective courses.
+
+- CLAS 349gp Ancient Empires Units: 4
+- ECON 342 Economic Development of the Middle East Units: 4
+- HIST 480 Seminar in Middle East History Units: 4
+- IR 362 The International Relations of the Contemporary Middle East Units: 4
+- IR 363 Middle East Political Economy Units: 4
+- IR 464 US-Middle East Foreign Policy Issues Units: 4
+- IRAN 320 Advanced Persian I Units: 4
+- IRAN 325 Business Persian Units: 4
+- IRAN 350 Advanced Persian II Units: 4
+- MDES 312 Premodern Iran Units: 4
+- MDES 314p Politics, Ideologies, Cultures of the Global South Units: 4
+- MDES 316p The Great Muslim Empires of the Near East and India Units: 4
+- MDES 324 Persian Literature Units: 4
+- MDES 325g Politics of Film and Literature in Modern Iran Units: 4
+- MDES 340g The United States and the Middle East Units: 4
+- MDES 345p Power and Authority in the Middle East Units: 4
+- MDES 375 Politics and Society in the Contemporary Middle East Units: 4
+- MDES 401 Environment and Politics in the Global South Units: 4
+- MDES 403 Infrastructures of Dominance: Technology, Development and the Struggle for Power Units: 4
+- MDES 441w Cities of the Middle East Units: 4
+- POSC 351 Middle East Politics Units: 4
+
+#### Note:
+
+---
+
+Topical Courses cannot be double counted as electives.
+
+### VI. Capstone Project
+
+---
+
+Students must take the following course. After taking at least one upper-level course, students are required to produce a substantial piece of original and informed research employing sources in the Persian language.
+
+- MDES 475 Seminar in Middle East Studies Units: 4
+
+## Honors Program
+
+---
+
+Candidates for the BA in Middle East Studies may receive a designation on their transcripts of departmental honors.
+
+Students interested in pursuing MDES’s honors track should begin planning for this by the start of the fourth or fifth semester. This means that before your senior year, you will have already taken an MDES course in which you have written a substantial research paper.
+
+Admission to the honors program is required.
+
+Prerequisites: 3.33 overall GPA; 3.5 GPA or better in courses in the major; a minimum grade of B+ in MDES 301g ; completion of at least one upper-level MDES course (400 level) requiring a seminar paper at the time of admission; and submission of an application form to the department’s Director of Undergraduate Studies (DUS). Prior approval of the thesis adviser and/or DUS is required for any modification of these requirements.
+
+Required for departmental honors: The student must maintain the GPA requirements stated above and successfully complete the MDES 492 Honors Thesis. In semesters when MDES 492 is not offered, students may, with program approval, substitute MDES 490 (independent study) as constituting an honors seminar equivalent.
+
+---
