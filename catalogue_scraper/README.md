@@ -1,4 +1,4 @@
-# Catalogue — degree-requirements scraper
+# catalogue_scraper — degree-requirements scraper
 
 Owner: Francis Ruan
 
@@ -53,7 +53,7 @@ OFFICIAL CATALOGUE CONTENT
 ## Run it
 
 ```bash
-cd catalogue
+cd catalogue_scraper
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
 python -m playwright install chromium
