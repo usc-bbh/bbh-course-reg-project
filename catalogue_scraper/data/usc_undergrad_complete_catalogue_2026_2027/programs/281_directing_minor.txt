@@ -1,0 +1,51 @@
+Program Name: Directing Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32916
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32916&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32916
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:44Z
+Content SHA-256: 32b7e05c057358b2115de6e8b89d9eccdf4cdddfd79d5601c3282c42025f0144
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Directing Minor
+
+---
+
+The Minor in Directing is a 20-unit minor that provides students with essential skills in theatrical storytelling, leadership and collaboration. Designed for those interested in the creative aspects of leadership and directing, the program offers a structured curriculum covering acting, directing fundamentals and leadership strategies. Through a combination of core course work and electives in dramaturgy, design and production, students gain hands-on experience in staging performances, working with actors and developing their artistic vision.
+
+## Required Courses (16 units)
+
+---
+
+- THTR 101 Introduction to Acting Units: 4
+- THTR 305a Directing Units: 4
+- THTR 305b Directing Units: 4
+- THTR 451 Leadership Tools for the Director Units: 4
+
+## Choose one 4-unit elective course:
+
+---
+
+- THTR 152 Introduction to Scene Study: Contemporary Plays Units: 4
+- THTR 303 Projection Design I Units: 3
+- THTR 309 Dramaturgy Units: 4
+- THTR 331 Costume Design I Units: 4
+- THTR 336 Sound Design I Units: 3
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 401 Contemporary Theatre in a Changing World Units: 4
+- THTR 403 The Performing Arts Units: 4
+- THTR 495 Experimental Theatre Workshop I Units: 4
+- THTR 496 Experimental Theatre Workshop II Units: 4
+
+## Total Units: 20 units
+
+---
+
+---

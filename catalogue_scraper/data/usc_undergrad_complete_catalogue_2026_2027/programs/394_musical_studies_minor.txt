@@ -1,0 +1,37 @@
+Program Name: Musical Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32248
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32248&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32248
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:08Z
+Content SHA-256: 064b645197b582a9609c2be824fcaa3d3b1b477dfbe6388580a60946dfa57cb9
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Musical Studies Minor
+
+---
+
+This 18-unit program in musical studies, with an emphasis in performance, incorporates the study of music theory, music history, performance, and ensembles. Students may enter the program in their freshman year. An audition is required for this minor, which is not available to music majors.
+
+## Required Courses
+
+---
+
+- MUCO 130ax Basics of Music Theory Units: 3
+- MUCO 130bx Basics of Music Theory Units: 3
+- MUEN 300–499 Units: 2 units total
+- MUSC 115gp Western Music as Sounding History Units: 4
+- Individual Instruction at the 301 level Units: 6 units total
+
+## Total Units: 18
+
+---
+
+---

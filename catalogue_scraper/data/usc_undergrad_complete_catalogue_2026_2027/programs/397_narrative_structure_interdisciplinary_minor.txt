@@ -1,0 +1,159 @@
+Program Name: Narrative Structure Interdisciplinary Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31793
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31793&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31793
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:15Z
+Content SHA-256: 115a8f57b0069d0283c22a864c0d09ae480a96b55f51b0836cef6d30a5faf458
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Narrative Structure Interdisciplinary Minor
+
+---
+
+This interdisciplinary minor is intended for students with an interest in story-telling who are majoring in programs and disciplines other than narrative studies. The minor, based in the humanities, provides opportunities for undergraduates to study story structure from the perspective of several disciplines. As with all minors, students must choose at least four courses (16 units) outside their major department and four courses (16 units) that are not being used to satisfy any other subject requirement.
+
+Course Requirements: five courses (20 units)
+
+## Lower-Division Requirement
+
+---
+
+Choose one course (4 units) from the following list.
+
+- COLT 101gp Masterpieces and Masterminds: Literature and Thought Units: 4
+- COLT 264gp Asian Aesthetic and Literary Traditions Units: 4
+- CTCS 190g Introduction to Cinema Units: 4
+- CTCS 200g History of the International Cinema I Units: 4
+- CTCS 201 History of the International Cinema II Units: 4
+- CTIN 190 Introduction to Interactive Entertainment Units: 4
+- EALC 125g Introduction to Contemporary East Asian Cinema and Culture Units: 4
+- ENGL 105x Creative Writing for Non-Majors Units: 4
+- ENGL 262g English Literature since 1800 Units: 4
+- ENGL 263g American Literature Units: 4
+
+## Upper-Division Requirements
+
+---
+
+Choose four courses (16 units) from the lists below, one from each list.
+
+### Core Course
+
+---
+
+- ENGL 302 Writing Narrative Units: 4
+
+### European and American Literary Narratives
+
+---
+
+- AMST 301gp America, the Frontier, and the New West Units: 4
+- AMST 378m Introduction to Asian American History Units: 4
+- AMST 385 African American Culture and Society Units: 4
+- CLAS 325 Ancient Epic Units: 4
+- COLT 312 Heroes, Myths and Legends in Literature and the Arts Units: 4
+- COLT 324 Women in Medieval and Renaissance Europe Units: 4
+- COLT 345 Realist Fiction Units: 4
+- COLT 374gm Women Writers in Europe and America Units: 4
+- COLT 472 Los Angeles Crime Fiction Units: 4
+- COLT 475 Politics and the Novel Units: 4
+- COLT 476 Narrative and the Law Units: 4
+- ENGL 351 Periods and Genres in American Literature Units: 4
+- ENGL 352g Bookpacking Units: 4
+- ENGL 361g Contemporary Prose Units: 4
+- ENGL 364 The Modern Novel Units: 4
+- ENGL 372 Literature and Related Arts Units: 4
+- ENGL 375 Science Fiction Units: 4
+- ENGL 422 English Literature of the 17th Century Units: 4
+- ENGL 425 English Literature of the Victorian Age (1832–1890) Units: 4 *
+- ENGL 426 Modern English Literature (1890–1945) Units: 4 *
+- ENGL 440 American Literature to 1865 Units: 4 **
+- ENGL 441 American Literature, 1865 to 1920 Units: 4 **
+- ENGL 442 American Literature, 1920 to the Present Units: 4
+- ENGL 447m African-American Narrative Units: 4
+- ENGL 461 English Drama to 1800 Units: 4
+- ENGL 465 The English Novel to 1800 Units: 4
+- ENGL 466 The 19th Century English Novel Units: 4
+- FREN 383 French Women Writers Units: 4 (taught in French) **
+- FREN 404 Studies in an Author Units: 4 (taught in French)
+- GERM 340 German Prose Fiction from Goethe to Thomas Mann Units: 4
+- GERM 372g Literature and Culture in Berlin in the 1920s Units: 4
+- ITAL 350g Gender and Sexuality in Renaissance Italy Units: 4
+- ITAL 381 Storytelling in the Italian Tradition Units: 4
+- SLL 302g Modern Russian Literature Units: 4
+- SLL 303 Contemporary Russian Literature Units: 4
+- SLL 344g Tolstoy: Writer and Moralist Units: 4
+- SLL 345g Literature and Philosophy: Dostoevsky Units: 4
+- SLL 348g The Novels of Vladimir Nabokov Units: 4
+- SPAN 304 The Art of Fiction Units: 4 (taught in Spanish)
+- SPAN 372 Modern and Contemporary Latin American Fiction Units: 4
+
+#### Note:
+
+---
+
+*Prerequisite required
+
+**Corequisite required
+
+### Global Narrative Traditions
+
+---
+
+- ANTH 365 Life History in Anthropological Perspective Units: 4
+- ANTH 372 Interpretation of Myth and Narrative Units: 4
+- COLT 375 Latin American Cultural and Literary Theory Units: 4
+- COLT 382gw Zen and Daoism in Asian Literature Units: 4
+- EALC 332 Modern Korean Literature in Translation Units: 4
+- EALC 333g Introduction to Korean Film Units: 4
+- EALC 342gp Japanese Literature and Culture Units: 4
+- EALC 354g Modern Chinese Literature in Translation Units: 4
+- EALC 358g Transnational Chinese Literature and Culture Units: 4
+- EALC 380 Cultural Topics in East Asian Literature Units: 4
+- EALC 385 Myth, Folklore, and Fantasy in Japanese Literature and Film Units: 4
+- EALC 428 Nature and the Ecological Imagination in Japanese Literature Units: 4
+- EALC 452 Chinese Fiction Units: 4
+- EALC 455 Japanese Fiction Units: 4
+- ENGL 333g Literature of Gandhi’s India Units: 4
+- ENGL 444m Native American Literature Units: 4
+- ENGL 445m The Literatures of America: Cross-Cultural Perspectives Units: 4
+- ENGL 450 Caribbean Literature Units: 4
+- FREN 375gmw Global Narratives of Illness and Disability Units: 4
+- MDES 343g Modern Arab Culture and Literature Units: 4
+- SPAN 380g Literature of Mexico Units: 4
+
+### Narratives in Visual Media
+
+---
+
+- AMST 325gw The Middle East in Hollywood Units: 4
+- ANTH 263g Exploring Culture through Film Units: 4
+- CLAS 337gp Ancient Drama Units: 4
+- COLT 373 Literature and Film Units: 4
+- CTCS 367 Global Media Units: 4
+- CTCS 392 History of American Cinema to 1960 Units: 4
+- CTCS 393 Topics in Historical Cinema and Media Units: 4
+- CTCS 394 History of American Cinema since 1960 Units: 4
+- CTCS 407 African American Cinema Units: 4
+- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4
+- ENGL 363g Contemporary Drama Units: 4
+- ENGL 371g Literary Genres and Film Units: 4
+- ENGL 381 Narrative Forms in Literature and Film Units: 4
+- ENGL 430 Shakespeare Units: 4
+- FREN 320g The French New Wave and its Legacy Units: 4
+- GERM 360g 20th Century German Prose: Texts and Films Units: 4
+- ITAL 360g Italian Cinema Units: 4
+- SLL 346 Russian Drama and the Western Tradition Units: 4
+- SPAN 301 Introduction to Literature and Film Units: 4
+- SPAN 302 Screen Cultures: From Film to the Internet Units: 4 (taught in Spanish)
+- SPAN 306 Performance from Street to Stage Units: 4 (taught in Spanish)
+
+---

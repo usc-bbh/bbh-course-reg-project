@@ -1,0 +1,105 @@
+Program Name: Product Management Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32941
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32941&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32941
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:21Z
+Content SHA-256: 0f80f2b866ff98ea0777072f1efbafe4b82da3846d90c6a92cd26caec5a1f19c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Product Management Minor
+
+---
+
+The Product Management minor provides specialized skill sets for students that they will apply to succeed in the workplace, regardless of their chosen profession. Students will learn to apply product leadership frameworks and utilize rapidly evolving product management tools and technologies, to facilitate effective processes among organizational stakeholders and cross-functional product teams.
+
+The minor signals to potential employers that the graduate is ready to lead and motivate teams in-person and virtually, facilitate complex decision-making among diverse groups and individuals across cultures, and guide the development, launch, and scaling of successful products and solutions to support the success of the organization. Students will gain exposure to the full product lifecycle including identifying product-market fit, leveraging data for strategic decisions, and managing stakeholder relationships to deliver meaningful business outcomes.
+
+Requirements for Admission
+
+To declare this minor, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of 2.75.
+
+Successful completion of the Product Management Minor requires minimum GPA of 2.0 for the 16 units applied to the program.
+
+## Required Courses
+
+---
+
+- Complete both of the following courses:
+- MOR 452 Product Management I - Essentials and Frameworks Units: 2
+- MOR 453 Product Management II - Execution and Alignment Units: 2
+- Complete one of the following courses focused on understanding the consumer:
+- BAEP 450 Fundamentals of Entrepreneurship Units: 4
+- MKT 445 New Product Development and Branding Units: 4
+- Complete one of the following courses focused on applications:
+- BAEP 452 Feasibility Analysis Units: 4
+- DSO 433 Designing Digital Processes and User Experience with AI Units: 4
+- MKT 451 User Experience (UX) and Design for Marketing Units: 4
+- MOR 454 Applied Product Management and Leadership Units: 4
+
+## Electives
+
+---
+
+Complete 4 units selected from the following if not completed as a requirement above:
+
+- ACAD 181g Disruptive Innovation Units: 4
+- ACAD 182 Disruptive Validation Units: 4
+- ACAD 406 Purpose-Driven Innovation Incubator Units: 2
+- BAEP 423 Management of Small Businesses Units: 4
+- BAEP 450 Fundamentals of Entrepreneurship Units: 4
+- BAEP 452 Feasibility Analysis Units: 4
+- BAEP 453 Venture Management Units: 4
+- BAEP 454 Venture Initiation: Launching and Scaling Your Startup Units: 4
+- BAEP 455 Founder’s Dilemmas Units: 4
+- BAEP 465 Digital Playbook for Entrepreneurs: Creating a Tech Startup Units: 2
+- BUCO 445 Communicating to Lead and Persuade Units: 4
+- BUCO 458 Managing Communication and New Media Units: 4
+- DSCI 250 Introduction to Data Science Units: 4
+- DSCI 351 Foundations of Data Management Units: 4
+- DSCI 352 Applied Machine Learning and Data Mining Units: 4
+- DSO 424 Business Forecasting Units: 4
+- DSO 427 Spreadsheet Modeling for Business Insights Units: 4
+- DSO 428 Essentials and Digital Frontiers of Big Data Units: 4
+- DSO 431 Digital Innovation as Competitive Advantage Units: 4
+- DSO 433 Designing Digital Processes and User Experience with AI Units: 4
+- DSO 445 Statistical Computing and Data Viz: R, Python, Tableau Units: 4
+- DSO 455 Project Management Units: 4
+- DSO 458 Essentials of Business Data Analysis Using R Units: 4
+- DSO 459 Business Analytics with Python Units: 4
+- DSO 463 AI Applications: The Technology and The Product Units: 4
+- DSO 464 Deep Learning for AI and Business Applications Units: 4
+- MKT 401 Marketing Research for Consumer Insights Units: 4
+- MKT 402 Introduction to Marketing Analytics Units: 4
+- MKT 405 Marketing Communication and Promotion Strategy Units: 4
+- MKT 425 Digital Marketing Fundamentals Units: 4
+- MKT 445 New Product Development and Branding Units: 4
+- MKT 450 Consumer Behavior and Marketing Units: 4
+- MKT 451 User Experience (UX) and Design for Marketing Units: 4
+- MKT 461 Marketing in the Entertainment Industry Units: 4
+- MOR 451 Mastering Decision Making Units: 4
+- MOR 454 Applied Product Management and Leadership Units: 4
+- MOR 467 Innovation in Business: How Companies Win Units: 4
+- MOR 469 Negotiation and Persuasion Units: 4
+- MOR 473 Designing and Leading Teams Units: 4
+- TAC 228 Computer-Aided Modeling and Rapid Fabrication Units: 2
+- TAC 249 Introduction to Data Analytics Units: 4
+- TAC 259 Basics of Artificial Intelligence Units: 4
+- TAC 310 Design for User Experience Units: 4
+- TAC 348 Making Smart Devices: Introduction to Electronics/Wearables Units: 4
+- TAC 349 Enterprise Data Analytics Units: 4
+- TAC 383 Database Systems: Storage and Retrieval using SQL Units: 4
+- TAC 388 Developing Smart Devices Units: 4
+- TAC 393 Video Game Project Management Units: 4
+- TAC 466 Building the High Tech Startup Units: 4
+- TAC 476 Technologies for Interactive Marketing Units: 4
+- Return to: USC Marshall School of Business
+
+---

@@ -1,0 +1,68 @@
+Program Name: Applied Analytics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32397
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32397&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32397
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:19Z
+Content SHA-256: ace1745c76b30e35bf55ad6cf58cd3f31bc8c196e9ac1720ae882a97eb1ac0ca
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Applied Analytics Minor
+
+---
+
+The minor in Applied Analytics prepares undergraduate students in the field of data analytics as applied to real-world problems. Applications vary from business to health care, social media to sports. The goal is to educate students to become data analysts. Students in the minor will learn all aspects of analytics: technology infrastructure to stage data, techniques to analyze data, tools to visualize results, and systems to publish and share the findings.
+
+Requirements for minor completion: Minimum units 18-20
+
+## Required Courses (12 units)
+
+---
+
+- TAC 249 Introduction to Data Analytics Units: 4
+- TAC 349 Enterprise Data Analytics Units: 4
+- TAC 449 Applications of Machine Learning Units: 4
+
+## Programming Course(s) (2-4 units)
+
+---
+
+Choose either the CSCI programming course or the TAC sequence
+
+### CSCI programming course
+
+---
+
+- CSCI 113x Programming Fundamentals for Computing Units: 4
+
+### TAC sequence
+
+---
+
+TAC 115 or TAC 116 may be waived with demonstrated prior Python programming experience.
+
+- TAC 115 Programming in Python Units: 2 or
+- TAC 116 Accelerated Programming in Python Units: 2
+-
+- TAC 216 Applied Python Units: 2
+
+## Electives (Choose a minimum of 4 units)
+
+---
+
+- DSCI 351 Foundations of Data Management Units: 4
+- DSO 424 Business Forecasting Units: 4
+- * Students must take BUAD 310g prior to taking DSO 424 .
+- DSO 428 Essentials and Digital Frontiers of Big Data Units: 4
+- TAC 259 Basics of Artificial Intelligence Units: 4
+- TAC 419 Advanced Cloud Analytics Units: 4
+- TAC 489 In-Memory Data Modeling and Analytics Units: 4
+
+---

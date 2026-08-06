@@ -1,0 +1,44 @@
+Program Name: Nonprofits, Philanthropy and Volunteerism Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32310
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32310&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32310
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:29Z
+Content SHA-256: b22f249356219f3d064f5799a8f0dcdea5701d8b230d0cc7cd4287c40d7a840e
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Nonprofits, Philanthropy and Volunteerism Minor
+
+---
+
+This four-course minor enables students to learn about the nonprofit sector — its organizations, philanthropy and voluntary action. The three-course core provides: (1) an overview of the nonprofit sector and philanthropy and its role in the United States, including its historical and theoretical foundations, its various components and its relation to public policy; (2) a focus on voluntary action and service as one means for social change and problem-solving; and (3) insights into the management of nonprofit organizations. Students select an elective that extends their understanding to the role of nongovernmental organizations in international affairs or to the role of public relations for nonprofits.
+
+This minor is intended for students who plan (1) to work in a nonprofit or charitable organization, whether it is a large organization such as United Way, a small social service agency, an environmental advocacy group, a museum or a religious organization, (2) to participate with nonprofits as a volunteer throughout their lives or (3) pursue further graduate work in a service-related profession.
+
+## Required Courses
+
+---
+
+- PPD 371 The Nonprofit Sector and the Public Interest Units: 4
+- PPD 402 Management of Public and Nonprofit Organizations Units: 4
+- PPD 478 Social Innovation Units: 4
+
+### Electives (select one)
+
+---
+
+- BUCO 485 Business Communication Management for Nonprofits Units: 4
+- IR 371 Global Civil Society: Non-State Actors in World Politics Units: 4
+- PPD 318 Financial Accounting in Public and Nonprofit Organizations Units: 4
+- PPD 353 Philanthropy and Social Change Units: 4
+- PPD 372m Public Service in an Urban Setting Units: 4
+- PR 455 Public Relations for Non-Profit Organizations Units: 4
+
+---

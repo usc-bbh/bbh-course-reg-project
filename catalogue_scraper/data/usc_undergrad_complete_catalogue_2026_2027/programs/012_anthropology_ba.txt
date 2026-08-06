@@ -1,0 +1,92 @@
+Program Name: Anthropology (Visual Anthropology) (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31700
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31700&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31700
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:23Z
+Content SHA-256: 40cbc0f89d7bf70ac4b18e7f58078fc749a807d11682164cd3e0dbfd99244870
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Anthropology (Visual Anthropology) (BA)
+
+---
+
+In addition to the general education requirements, the following courses are required.
+
+## Required Courses, Lower-Division (4 units)
+
+---
+
+- ANTH 263g Exploring Culture through Film Units: 4
+
+## Required Courses, Upper-Division (8 units)
+
+---
+
+- ANTH 410 Ethnographic Research Methods Units: 4
+- ANTH 440 History of Anthropological Theory Units: 4
+
+## Visual Anthropology Courses (8 units)
+
+---
+
+Students must complete two Visual Anthropology courses from the following list:
+
+- ANTH 470 Multimodal Methods in Visual Anthropology Units: 4 *
+- ANTH 472 Photo-ethnography Units: 4
+- ANTH 476 Ethnographic Film Theory from an Historical Perspective Units: 4
+- ANTH 575 Seminar in Ethnographic Film Units: 4
+
+### Note:
+
+---
+
+ANTH 575 requires departmental approval, or an A- or higher in either ANTH 410 or ANTH 440 as prerequisite.
+
+## Anthropology Elective (4 units)
+
+---
+
+One additional elective in Anthropology is required to complete the major.
+
+The following are some recommended electives:
+
+- AMST 395m African American Humor and Culture Units: 4
+- ANTH 203g Global Media Units: 4
+- ANTH 275 Anthropology of the Arts Units: 4
+- ANTH 309Lg Virtual and Digital Culture, Heritage and Archaeology Units: 2, 4
+- ANTH 312 Documenting Latinx Los Angeles Food Cultures Units: 4
+- ANTH 316gmp Native Americans in American Public Life Units: 4
+- ANTH 321 Space, Place, Perception and Power Units: 4
+- ANTH 332g Anthropology and Narrative Medicine Units: 4
+- ANTH 340 Anthropology In and Of the Museum Units: 4
+- ANTH 344g Social Memory Units: 4
+- ANTH 372 Interpretation of Myth and Narrative Units: 4
+- ANTH 445 African American Anthropology Units: 4
+
+## Senior Capstone (4 units)
+
+---
+
+Students must submit a proposal for departmental approval prior to enrolling in the 4-unit senior capstone seminar course.
+
+The following are approved capstone seminar courses for the Visual Anthropology Major:
+
+- ANTH 411 Thesis Seminar in Ethnographic Analysis Units: 4
+- Offered irregularly:
+- ANTH 470 Multimodal Methods in Visual Anthropology Units: 4 *
+
+## Note:
+
+---
+
+*ANTH 470 can be taken as either a course option OR as a Senior Capstone Course option. For it to count as the latter Capstone, students have to inform the instructor by the drop/add deadline.
+
+---

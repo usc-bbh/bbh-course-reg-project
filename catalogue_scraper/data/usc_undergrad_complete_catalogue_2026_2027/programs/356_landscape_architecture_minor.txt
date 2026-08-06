@@ -1,0 +1,58 @@
+Program Name: Landscape Architecture Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31559
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31559&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31559
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:52Z
+Content SHA-256: d4fd377a9e2aca3d687124653dba3f7edf8b81b734f3c5b05ee2cb7afadd1dd1
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Landscape Architecture Minor
+
+---
+
+The minor provides students with the ability to integrate the ecological and cultural dimensions of landscape architecture into their course of study. Studies are about repairing and sustaining natural systems in cities, about the history of human settlements, places, and gardens in urban landscapes, and about the cultural and aesthetic meanings of landscape architecture design. This is an excellent emphasis for students in environmental studies, civil engineering, planning and anthropology. This minor is not available to architecture majors.
+
+#### Admission Requirements
+
+Students in good academic standing who have completed the freshman year are eligible.
+
+#### Course Requirements
+
+The minor in landscape architecture consists of three required courses (10 units) and a minimum of 10 units of upper-division courses.
+
+## Required Courses
+
+---
+
+- ARCH 203 Visualizing and Experiencing the Built Environment Units: 4
+- ARCH 531 Urban Ecology Units: 3
+- ARCH 565 Global History of Designed Landscapes Units: 3
+
+## Upper Division Courses (10 Units)
+
+---
+
+- ARCH 303 Principles of Spatial Design I Units: 4
+- ARCH 432 People, Places and Culture: Architecture of the Public Realm Units: 4
+- ARCH 531 Urban Ecology Units: 3
+- ARCH 536 The Landscape Planning Process Units: 3
+- ARCH 544 Landscape as Urbanism: Case Studies Units: 3
+- ARCH 545 Contemporary Theories of Landscape Architecture Units: 3
+- ARCH 547 Advanced Topics in Urban Ecology Units: 3
+- ARCH 566 Cross Cultural Topics in Landscape Architecture History Units: 3 (max 6)
+
+## Note:
+
+---
+
+Non-architecture students must obtain written approval from their academic unit in order to take a 500-level course. For more information, contact an architecture adviser, archadvs@usc.edu.
+
+---

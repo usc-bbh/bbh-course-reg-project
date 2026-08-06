@@ -1,0 +1,47 @@
+Program Name: Substance Abuse Prevention Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32218
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32218&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32218
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:00Z
+Content SHA-256: e56a760e620ba9842b5344e0658e2bd2f8be984b46ffb9efeda8a9a264ae5d4a
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Substance Abuse Prevention Minor
+
+---
+
+This minor offers students an opportunity to gain an overall understanding of substance abuse as a major modifiable risk factor for illness. It allows students to learn theories of behavior change, to understand the issues in prevention and cessation of drug abuse, and to develop, implement, and evaluate intervention strategies. It complements a number of majors including psychology, sociology, American studies and ethnicity, biological science and gerontology.
+
+## Required Courses (24 Units*)
+
+---
+
+- HP 200 Introduction to Health Promotion and Disease Prevention Units: 4
+- HP 300 Principles of Human Behavior Units: 4 [*]
+- HP 410 Issues in Prevention and Cessation of Drug Abuse Units: 4
+
+### Two of the following:
+
+---
+
+- HP 365gmw Culture, Lifestyle, and Health Units: 4
+- HP 370g Introduction to Epidemiology: Methods and Applications Units: 4
+- HP 401 Cultural Competence in Medicine Units: 4
+- HP 402 Maternal and Child Health Units: 4
+- HP 421 Violence as a Public Health Issue Units: 4
+
+## Note:
+
+---
+
+[*]Including prerequisite
+
+---

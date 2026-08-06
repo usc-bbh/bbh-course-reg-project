@@ -1,0 +1,53 @@
+Program Name: Organizational Leadership and Management Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31609
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31609&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31609
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:37Z
+Content SHA-256: 88fd7a04caf98ec4cf11d3a71f0c2067945bca68c5013f976810e53e7dd2e798
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Organizational Leadership and Management Minor
+
+---
+
+Students in the organizational leadership and management minor learn about personal and organizational leadership, ethics of the workplace, leading in a global context and organizing and planning for effective personal and organizational performance.
+
+To enroll, students must have completed a minimum of 32 units of college-level courses and have a minimum overall GPA of 2.75. Completion of this minor requires a minimum GPA of 2.0 in the following courses:
+
+## Course Requirements
+
+---
+
+Complete both of the following courses.
+
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+- MOR 470 Global Leadership Units: 4
+
+### Electives
+
+---
+
+Choose three courses from the following (12 units):
+
+- MOR 421 Social and Ethical Issues in Business Units: 4
+- MOR 451 Mastering Decision Making Units: 4
+- MOR 458 AI Technology Strategic Management Units: 2, 4
+- MOR 462 Management Consulting Units: 4
+- MOR 466 Business and Environmental Sustainability Units: 4
+- MOR 468 International Negotiations Units: 4
+- MOR 469 Negotiation and Persuasion Units: 4
+- MOR 471 Managing and Developing People Units: 4
+- MOR 472 Power, Politics and Influence Units: 4
+- MOR 473 Designing and Leading Teams Units: 4
+- MOR 492 Global Strategy Units: 4
+- Return to: USC Marshall School of Business
+
+---

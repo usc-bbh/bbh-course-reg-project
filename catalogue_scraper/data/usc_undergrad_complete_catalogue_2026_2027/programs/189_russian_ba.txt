@@ -1,0 +1,50 @@
+Program Name: Russian (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31923
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31923&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31923
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:11Z
+Content SHA-256: 1476c286d0ba718c9f1bd3e5118c79fa55d15c2909bd3ce1b02943729792139d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Russian (BA)
+
+---
+
+## Required Courses, Lower-Division
+
+---
+
+- RUSS 120 Beginning Russian I Units: 4
+- RUSS 150 Beginning Russian II Units: 4
+- RUSS 220 Intermediate Russian I Units: 4
+-
+- RUSS 250 Intermediate Russian II Units: 4 or
+- RUSS 255 Business Russian Units: 4
+
+## Required Courses, Upper-Division
+
+---
+
+- RUSS 310 Advanced Russian in Popular Culture Units: 4
+-
+- SLL 321 Cultures of Russia Units: 4 or
+- SLL 330gp Russian Thought and Civilization Units: 4
+-
+- RUSS 340 Intercultural Communication in Russian Units: 4
+- RUSS 465 Seminar in Russian Studies Units: 4
+
+## Elective Courses
+
+---
+
+- Two courses approved by the undergraduate adviser
+
+---

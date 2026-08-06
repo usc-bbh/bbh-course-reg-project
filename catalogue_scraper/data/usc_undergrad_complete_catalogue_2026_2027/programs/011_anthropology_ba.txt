@@ -1,0 +1,127 @@
+Program Name: Anthropology (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31699
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31699&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31699
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:21Z
+Content SHA-256: 34fb4bef88b9bfbf144549e5c1c5f79ed2e1307c350e5a86bd028cec23b2b7c4
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Anthropology (BA)
+
+---
+
+By providing students with tools for better understanding human social and cultural complexity, a BA in Anthropology prepares students for careers in global health and medicine, museums, law, government, environmental management, entrepreneurship and international business, education and the arts.
+
+Anthropology majors are required to take 10 courses (40 units) in Anthropology.
+
+## Areas of Focus
+
+---
+
+Anthropology majors can pursue a focus in a specific area of anthropological inquiry by completing at least three courses (12 units) of qualifying course work. Possible focus areas in Anthropology include:
+
+- Medical Anthropology
+- Heritage Studies and Archaeology
+- Environmental Anthropology
+- Media Anthropology
+
+Students may also design a focus that aligns with their interests, with departmental approval.
+
+More information about courses and faculty can be found on the Anthropology Department website: dornsife.usc.edu/anth.
+
+An academic adviser, or the Anthropology Director of Undergraduate Studies (anth-dus@dornsife.usc.edu), can provide further guidance in selecting appropriate course work.
+
+### Introductory Course Work (4 units)
+
+---
+
+One introductory course in preparation for the major, either:
+
+- ANTH 201g Introduction to Social and Cultural Anthropology Units: 4
+- or
+- ANTH 263g Exploring Culture through Film Units: 4
+
+### Required Courses, Upper-Division (12 units)
+
+---
+
+Three upper-division ANTH courses are required for all majors:
+
+- ANTH 410 Ethnographic Research Methods Units: 4
+- ANTH 411 Thesis Seminar in Ethnographic Analysis Units: 4
+- ANTH 440 History of Anthropological Theory Units: 4
+
+### Electives (24 units)
+
+---
+
+Six Anthropology electives, which must include:
+
+- At least one 4-unit lower-division ANTH course (100-299).
+
+- At least two 4-unit upper-division ANTH courses (300-499).
+
+- One or more 4-unit courses representing an area of world ethnography: involving study of a region, cultural or religious group, or diasporic or settled community. Courses outside of ANTH, as well as course work completed during study abroad, may be applied toward this requirement as approved by adviser or faculty.
+
+- Recommended lower-division electives (ANTH 100-299):
+- ANTH 211 Writing Culture: Ethnography as Critical Reasoning Units: 4
+- ANTH 101g Body, Mind and Healing: Introduction to Medical Anthropology Units: 4
+- ANTH 105g Culture, Medicine and Politics Units: 4
+- ANTH 125g Social Issues in Human Sexuality and Reproduction Units: 4
+- ANTH 130g Festival and Cultural Performance Units: 4
+- ANTH 140g Mesoamerican Cosmovision and Culture Units: 4
+- ANTH 202g Archaeology: Our Human Past Units: 4
+- ANTH 203g Global Media Units: 4
+- ANTH 207 Introduction to Heritage Studies Units: 4
+- ANTH 220g Anthropology of the Environment Units: 4
+- ANTH 255g Culture, Performance and Personal Narrative Units: 4
+- ANTH 272 Mindfulness and Culture Units: 4
+- ANTH 273g Shamans, Spirits and Ancestors: Non-Western Religious Traditions Units: 4
+- ANTH 275 Anthropology of the Arts Units: 4
+- Recommended upper-division electives (ANTH 300-499):
+- ANTH 304 Critical Issues in Contemporary Anthropology Units: 4
+- ANTH 303 Exploring Ancient Ways of Living: Experimental Archaeology Units: 4
+- ANTH 305 Childhood, Birth and Reproduction Units: 4
+- ANTH 312 Documenting Latinx Los Angeles Food Cultures Units: 4
+- ANTH 313w Water Units: 4
+- ANTH 315gw Native North Americans Units: 4
+- ANTH 316gmp Native Americans in American Public Life Units: 4
+- ANTH 318 Ethics and Global Heritage Units: 4
+- ANTH 319 Political Anthropology of Europe Units: 4
+- ANTH 321 Space, Place, Perception and Power Units: 4
+- ANTH 324gw Contemporary China: Cultural Politics and Social Realities Units: 4
+- ANTH 325 Mixed Methods Research for Global and Cross-Cultural Studies Units: 4
+- ANTH 331 Disability, Embodiment and an Ethics of Care Units: 4
+- ANTH 332g Anthropology and Narrative Medicine Units: 4
+- ANTH 336 Health, Gender and Ethnicity Units: 4
+- ANTH 338g Food in Culture and Society Units: 4
+- ANTH 340 Anthropology In and Of the Museum Units: 4
+- ANTH 343 Heritage Archaeology Units: 4
+- ANTH 344g Social Memory Units: 4
+- ANTH 345 Law, Power and Culture Units: 4
+- ANTH 357g Cultures of Genocide, Cultures of Care Units: 4
+- ANTH 365 Life History in Anthropological Perspective Units: 4
+- ANTH 371gm Cross-Cultural Research on Urban Gangs Units: 4
+- ANTH 372 Interpretation of Myth and Narrative Units: 4
+- ANTH 373 Magic, Witchcraft and Healing Units: 4
+- ANTH 393 Directed Internship Units: 2, 3, 4, 5, 6, 7, 8
+- ANTH 395m African American Humor and Culture Units: 4
+- ANTH 400 Maya Resilience: Constructing Past and Present Identities Units: 4
+- ANTH 401 Environment and Politics in the Global South Units: 4
+- ANTH 405 Evolutionary Medicine Units: 4
+- ANTH 410 Ethnographic Research Methods Units: 4
+- ANTH 445 African American Anthropology Units: 4
+- ANTH 449 Feminist Science and Technology Studies Units: 4
+- ANTH 450 Field Research in Maya Archaeology Units: 4
+- ANTH 470 Multimodal Methods in Visual Anthropology Units: 4
+- ANTH 472 Photo-ethnography Units: 4
+
+---

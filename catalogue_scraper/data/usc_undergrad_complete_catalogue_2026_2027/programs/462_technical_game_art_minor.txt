@@ -1,0 +1,45 @@
+Program Name: Technical Game Art Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32724
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32724&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32724
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:05Z
+Content SHA-256: 4d1f708b17b99fd04d5ddc65ab39806553a9235690a56fdda656006ffbe44aaf
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Technical Game Art Minor
+
+---
+
+The Technical Game Art minor is a unique 16-unit program, offered by the Information Technology Program that combines an engineering background with the production practice of character modeling, rigging and animation to prepare students for a professional career in the field of 3d games and cinematics. Focuses on creative orchestrations per project, user-friendly toolsets and production planning.
+
+## Required Courses (14 units)
+
+---
+
+Complete all of the following:
+
+- TAC 215L Introduction to 3D Modeling, Animation and Visual Effects Units: 2
+- TAC 351 3D Character Modeling for Games Units: 4
+- TAC 361 Character Rigging for Games Units: 4
+- TAC 371 Technical Character Animation for Games Units: 4
+
+## Electives (2 units)
+
+---
+
+Complete one of the following:
+
+- TAC 115 Programming in Python Units: 2
+- TAC 116 Accelerated Programming in Python Units: 2
+- CTAN 452 Introduction to 3-D Computer Animation Units: 2
+- CTAN 462 Visual Effects Units: 2
+
+---

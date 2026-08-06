@@ -1,0 +1,96 @@
+Program Name: Sociology (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31928
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31928&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31928
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:20Z
+Content SHA-256: 308f2ea7a84baadf138dac5c36a4dac97e5ced394d786c6f0d186f594dd625ab
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Sociology (BA)
+
+---
+
+All students must achieve an overall average of C (2.0) or better in the 10 courses (40 units) required for completion of the major.
+
+All sociology majors must complete five core courses of sociology.
+
+At least 8 of the 20 elective units must come from 400-level courses.
+
+## Core Courses
+
+---
+
+- SOCI 200gm Introduction to Sociology Units: 4
+- SOCI 270g Sociological Theory Units: 4
+- SOCI 313L Sociological Research Methods Units: 4
+- SOCI 314Lg Analyzing Social Statistics Units: 4
+-
+- SOCI 325 Applied Social Research Methods Units: 4 or
+- SSCI 301L Maps and Spatial Reasoning Units: 4
+
+## Electives
+
+---
+
+20 elective units are required to complete the major, with at least 8 of the 20 units from 400-level courses.
+
+### 300-Level Electives
+
+---
+
+- AMST 357m Latino Social Movements Units: 4
+- JS 379gm Mixing and Matching: Intermarriage in the 21st Century Units: 4
+- JS 382g Judaism as an American Religion Units: 4
+- SOCI 305m Sociology of Childhood Units: 4
+- SOCI 335 Society and Population Units: 4
+- SOCI 340 Organizations: Bureaucracy and Alternatives to Bureaucracy Units: 4
+- SOCI 342m Race Relations Units: 4
+- SOCI 345 Social Institutions Units: 4
+- SOCI 350 Social Exclusion, Social Power and Deviance Units: 4
+- SOCI 351 Youth, Social Control and Public Policy Units: 4
+- SOCI 353 Crime, Punishment and Society Units: 4
+- SOCI 355m Immigrants in the United States Units: 4
+- SOCI 356m Mexican Immigrants in Sociological Perspective Units: 4
+- SOCI 360m Social Inequality: Class, Status and Power Units: 4
+- SOCI 362 Global and Transnational Sociology Units: 4
+- SOCI 369 The Family in a Changing Society Units: 4
+- SOCI 376m Contemporary Issues in Asian American Communities Units: 4
+- SWMS 385m Men and Masculinity Units: 4
+
+### 400-Level Electives
+
+---
+
+- REL 468 Sociology of Religion Units: 4
+- SOCI 402 Human Trafficking Units: 4
+- SOCI 408 Volunteers, Non-Governmental Organizations, and Everyday Politics Units: 4
+- SOCI 410 The Sociology of Popular Culture Units: 4
+- SOCI 415 Sociology of Law Units: 4
+- SOCI 425 Social Movements: Power, Resistance and Political Dynamics Units: 4
+- SOCI 429 Immigration, Work and Labor Units: 4
+- SOCI 431 Cities Units: 4
+- SOCI 432m Racial and Ethnic Relations in a Global Society Units: 4
+- SOCI 435m Women in Society Units: 4
+- SOCI 440 Environmental Sociology Units: 4
+- SOCI 445 Political and Social Theory Units: 4
+- SOCI 450 Non-Governmental Organizations/Non-profits Field Practicum Units: 4
+- SOCI 460 Key Issues in Contemporary International Migration Units: 4
+- SOCI 464 Sociology of Gender and Work Units: 4
+- SOCI 465 Visual Sociology of the City and Its Residents Units: 4
+- SOCI 470 Social Change in Low-Income Countries Units: 4
+- SOCI 475 Medical Sociology Units: 4
+- SOCI 480 The Sociology of Risk and Disaster Units: 4
+- SOCI 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- SOCI 494 Sociology Honors Seminar I Units: 4
+- SOCI 495 Sociology Honors Seminar II Units: 4
+- SOCI 499 Special Topics Units: 2, 3, 4
+
+---

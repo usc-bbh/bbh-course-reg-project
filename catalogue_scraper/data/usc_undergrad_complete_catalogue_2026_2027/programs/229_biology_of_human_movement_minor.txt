@@ -1,0 +1,57 @@
+Program Name: Biology of Human Movement Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32665
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32665&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32665
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:46Z
+Content SHA-256: 5b497c3626f24efbbb63c6374f596e780bb0ed1a4fcef47f106195f06327407d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Biology of Human Movement Minor
+
+---
+
+This minor provides students with an interdisciplinary perspective that integrates elements of anatomy, biomechanics, motor control as well as evolution and applies them to the assessment and improvement of human performance during the activities of daily living. This minor is ideal for students interested in fields such as bioengineering, biokinesiology, health promotion, athletics and dance.
+
+## Prerequisite Courses
+
+---
+
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+-
+- MATH 108g Contemporary Precalculus Units: 4 or
+- MATH 125g Calculus I Units: 4
+-
+- PHYS 135aLg Physics for the Life Sciences Units: 4 or
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+
+## Core Courses
+
+---
+
+Four courses for a total 16 units from the following options are required:
+
+- HBIO 301L Human Anatomy Units: 4
+-
+- HBIO 401L Physiology of Movement Units: 4 or
+- HBIO 408L Biomechanics Units: 4
+-
+- HBIO 309 The Human Machine Units: 4 or
+- HBIO 400L Motor Control and Learning Units: 4
+-
+- HBIO 439L Human Performance and Bioenergetics Units: 2 or 4 or
+- HBIO 442L Evaluation and Rehabilitation of Athletic Injuries Units: 4
+
+## Minimum Upper-Division Core Units Required: 16
+
+---
+
+---

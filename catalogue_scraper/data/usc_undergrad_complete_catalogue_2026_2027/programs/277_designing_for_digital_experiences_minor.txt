@@ -1,0 +1,55 @@
+Program Name: Designing for Digital Experiences Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32661
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32661&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32661
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:35Z
+Content SHA-256: d4b38ae025c649587b337552e940fef7eedc47179f4ccb2deeaab786b50817f9
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Designing for Digital Experiences Minor
+
+---
+
+The Designing for Digital Experiences minor provides students in all fields of study an opportunity to gain essential knowledge and skills in interaction design. Courses focus on the tools required to implement powerful interactive visual and touch experiences, as well as the conceptual and theoretical knowledge necessary to apply universal standards for human-centered design. The minor is of particular interest to students wishing to further develop highly sought-after specializations such as interaction design, data visualization, app design, social media marketing and digital art direction.
+
+Additional electives, including in other schools at USC, will be considered through student advisement.
+
+Information on how to apply for the minor can be found at:
+iovine-young.usc.edu
+
+## Required Courses (16 units)
+
+---
+
+Students must complete the following 16 units:
+
+- ACAD 177 Digital Toolbox: Design Units: 2
+- ACAD 178 Digital Toolbox: Motion Graphics Units: 2
+- ACAD 275 Dev I Units: 4
+- ACAD 280 Information Design Units: 4
+- ACAD 324g The Practice of Design: Ideation to Innovation Units: 4
+
+## Electives (8 units)
+
+---
+
+Students must complete 8 units from the following:
+
+- ACAD 180 Digital Toolbox: Audio and Video Units: 2
+- ACAD 186 Digital Toolbox: Computational Visual Design Units: 2
+- ACAD 207 Narrative Technology and the Human Experience Units: 4
+- ACAD 217 Extended Reality Design Units: 4
+- ACAD 276 Dev II Units: 4
+- ACAD 402 Modern Brand and Community Playbook Units: 2
+- ACAD 415 Dev III: Designing Applications for Emerging Platforms Units: 4
+- DSCI 454 Visualization for Data-driven Decision Making Units: 4
+
+---

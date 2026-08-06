@@ -1,0 +1,115 @@
+Program Name: Accounting and Finance (BS)
+Credential: BS
+School or Academic Unit: Leventhal School of Accounting
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32801
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32801&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32801
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:01Z
+Content SHA-256: c501d2c7fea48c248a0df2f6f646177be9ad1ef613c841927b8276aeca3434c3
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Accounting and Finance (BS)
+
+---
+
+The Bachelor of Science degree program in Accounting and Finance is offered jointly by the Leventhal School of Accounting and the Marshall School of Business. It offers qualified students an opportunity to gain an educational foundation in both areas.
+
+The degree cannot be combined as an additional major in either accounting or business administration. The degree is administered by the Leventhal School of Accounting.
+
+This degree requires at least 128 units including USC’s General Education requirements.
+
+A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken.
+
+## Writing Requirements (8 units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *
+- * Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for ACFN majors.
+
+## Major Requirements (72 units)
+
+---
+
+### Accounting/Business Foundation Courses (48 units)
+
+---
+
+- BUAD 280 Introduction to Financial Accounting Units: 3
+- BUAD 281 Introduction to Managerial Accounting Units: 3
+- BUAD 302 Communication Strategy in Business Units: 4
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+-
+- BUAD 306 Business Finance Units: 4
+- or
+- BUAD 308 Advanced Business Finance Units: 4
+-
+- BUAD 307 Marketing Fundamentals Units: 4
+-
+- BUAD 310g Applied Business Statistics Units: 4
+- or
+- BUAD 312g Statistics and Data Science for Business Units: 4
+-
+- BUAD 311 Operations Management Units: 4
+- or
+- BUAD 313 Advanced Operations Management and Analytics Units: 4
+-
+- BUAD 425 Introduction to Business Analytics Units: 2
+- or
+- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2
+-
+- BUAD 497 Strategic Management Units: 4
+-
+- ECON 351x Microeconomics for Business Units: 4
+- ECON 352x Macroeconomics for Business Units: 4
+-
+- MATH 118gx Calculus for Business and Economics Units: 4
+- or
+- MATH 125g Calculus I Units: 4
+
+#### Note:
+
+---
+
+*Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher.
+
+**A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information.
+
+BUAD 310g , BUAD 312g , MATH 118gx and MATH 125g satisfy GE category F: Quantitative Reasoning.
+
+### Required Accounting Courses (12 units)
+
+---
+
+- ACCT 370 External Financial Reporting Issues Units: 4
+- ACCT 416 Financial Statement Analysis Units: 4
+- Complete 4 units from the following list:
+- ACCT 371 Introduction to Accounting Systems Units: 4
+- ACCT 377 Valuation for Financial Statement Purposes Units: 2
+- ACCT 405 Introduction to Sustainability Reporting Units: 4 Units: 4
+- ACCT 451 Tax Analysis with Data Analytics Units: 4
+- ACCT 456 Auditing with Data Analytics Units: 4
+- ACCT 462 Detecting Fraudulent Financial Reporting Units: 2
+- ACCT 470 Advanced External Financial Reporting Issues Units: 4
+- ACCT 493 Leventhal Honors Research Seminar Units: 2
+- ACCT 494 Marshall Honors Research and Thesis Units: 2
+
+### Required Finance Courses (12 units)
+
+---
+
+- FBE 421 Financial Analysis and Valuation Units: 4
+- Complete 4 units from the following list:
+- FBE 423 Introduction to Venture Capital and Private Equity Units: 4
+- FBE 432 Corporate Financial Strategy Units: 4
+- FBE 460 Mergers, Acquisitions and Restructuring Units: 4
+- • Complete 4 units of upper-division elective course work - not including the courses completed to satisfy the above requirements - offered by the Finance and Business Economics department in the Marshall School, specifically 300- or 400-level courses with a prefix FBE that are available for credit toward the major.
+
+---

@@ -1,0 +1,53 @@
+Program Name: Archaeology and Heritage Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32877
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32877&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32877
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:24Z
+Content SHA-256: 7e8b93f777198ed0c1771196e3383a31cb4d70bcb85d863235429a86dfb5cd88
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Archaeology and Heritage Studies Minor
+
+---
+
+The minor in Archaeology and Heritage Studies broadens the experience of students preparing for a wide range of professional careers and graduate study. This five-course minor is structured around four required courses: a foundation course, ANTH 202g Archaeology: Our Human Past ; a heritage ethics course to support principled, considered decision-making; an experiential applied methods course; and a capstone course in which students encounter the exciting diversity of heritage applications from folklore and historic preservation, to archaeological discovery and emerging fields such as traces of human habitation in space.
+
+Discovery and investigations of heritage occur in diverse ways, sometimes with trowel in hand, with remote sensing from satellites or drones, through virtual means, by listening to stories and folklore, through laboratory analysis and artifact material studies, or through policy, planning, advocacy, and preservation investments.
+
+Through archaeology and heritage studies we deepen our understanding of peoples and societies worldwide across space and time, equipping us for debates in the past and present about the shape of our shared human future.
+
+The minor in Archaeology and Heritage Studies is available to students in all schools and departments.
+
+## Lower-Division Requirement (4 units)
+
+---
+
+### Required Course (4 units)
+
+---
+
+- ANTH 202g Archaeology: Our Human Past Units: 4
+
+## Upper-Division Requirement (16 units)
+
+---
+
+- Select one course from the Theories and Methods list of the Archaeology and Heritage Studies Major (4 units).
+- Select any one upper-division course from those listed under Archaeology and Heritage Studies Major (4 units).
+- Take one course from the Ethics and Heritage list of the Archaeology and Heritage Studies Major (4 units).
+- Take Capstone Course (4 units):
+  - CLAS 465 Archaeology and Society Units: 4
+
+## Total Requirement: Five courses (20 units)
+
+---
+
+---

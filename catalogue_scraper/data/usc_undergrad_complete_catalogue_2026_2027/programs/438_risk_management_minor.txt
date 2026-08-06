@@ -1,0 +1,85 @@
+Program Name: Risk Management Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32538
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32538&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32538
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:50Z
+Content SHA-256: 0b32fcebdd48f5846301cefeaf030a76a17a3d9cd6bf41b43b403c311c21a08f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Risk Management Minor
+
+---
+
+The minor in Risk Management provides students with the fundamental knowledge of risk management - a crucial component of contemporary management, corporate governance and decision making under uncertain conditions.
+
+The required courses provide the foundation of the risk management framework and present alternative business models of insurance, the most common form of risk transfer. The electives provide opportunities to more deeply understand facets of risk and the environments in which they arise as well as specific methodologies of mitigation.
+
+Industries currently seeking risk management professionals include entertainment, tech, aviation, hospitality, healthcare, manufacturing, insurance and many others.
+
+A student declaring the minor in Risk Management also has the opportunity to participate in the Risk Management Mentorship Program and be paired with a mentor from the risk management industry for the academic year.
+
+The minor is available to students in all schools and departments except for students pursuing the Business Administration (Risk Management) (BS) emphasis.
+
+To declare this minor, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of 2.75.
+
+Successful completion of the Risk Management Minor requires 16 units with a minimum GPA of 2.0 in the following courses:
+
+## Required Courses
+
+---
+
+- RISK 380 Introduction to Enterprise Risk Management Units: 4
+-
+- Choose one of the following:
+- ECON 361 Understanding Financial Crises Units: 4 *
+- PHIL 258g Probability and Rational Choice Units: 4
+- PPD 407 Financial Management of Public and Nonprofit Organizations Units: 4
+- RISK 385 Introduction to Risk Management and Insurance Units: 4
+
+## Electives
+
+---
+
+Complete at least 8 units from the following:
+
+- BUAD 315x Basics of Project and Operations Management for Non-Majors Units: 2
+- COMM 309 Communication and Technology Units: 4
+- COMM 422 Legal Issues and New Media Units: 4
+- DSO 427 Spreadsheet Modeling for Business Insights Units: 4
+- DSO 455 Project Management Units: 4
+- ECON 340 Economics of Less Developed Countries Units: 4 *
+- ECON 361 Understanding Financial Crises Units: 4 * ***
+- FBE 437 Entrepreneurial Finance: Financial Management for Developing Firms Units: 4
+- FBE 443 Introduction to Forecasting and Risk Analysis Units: 4 *
+- FBE 458 Law of Forming, Financing and Managing Businesses Units: 4
+- FBE 459 Financial Derivatives Units: 4 *
+- PHIL 258g Probability and Rational Choice Units: 4 ***
+- PPD 357 Government and Business Units: 4 **
+- PPD 358 Urban and Regional Economics Units: 4
+- PPD 407 Financial Management of Public and Nonprofit Organizations Units: 4 ***
+- RISK 385 Introduction to Risk Management and Insurance Units: 4 ***
+- RISK 386 Managing Risks and Crises in Media, Hospitality and Tech Units: 4
+- RISK 387 Risk Management in Entertainment, Sports and the Arts Units: 4
+- RISK 388 Innovating Risk Solutions in Disruptive Environments Units: 4
+- RISK 498 Special Topics Units: 1, 2, 3, 4
+- RISK 499 Special Topics Units: 2, 3, 4 Units: 1, 2, 3, 4
+- TAC 125L Hackers to CEOs: Intro to Cyber Security in the AI Era Units: 2
+- TAC 325 Ethical Hacking Units: 4 *
+- TAC 370 Cybersecurity Management and Operations Units: 4
+- TAC 375 Digital Forensics and Cybersecurity Investigations Units: 4 *
+- TAC 471 Consultancy Skills for Cyber Security Risk Management Units: 4
+- TAC 479 Cyber Law and Privacy Units: 4
+- * Prerequisite required that is not part of this minor.
+  ** PPD will waive the prerequisite.
+  *** If not applied to the minor as a required course.
+  Return to: Marshall School of Business
+
+---

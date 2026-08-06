@@ -1,0 +1,92 @@
+Program Name: Game Development and Interactive Design (BFA)
+Credential: BFA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32782
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32782&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32782
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:29Z
+Content SHA-256: 5b8e2fc04ac3a605fb8d98422a8f38c8331dc4c5e6a9257b64144d577b898700
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Game Development and Interactive Design (BFA)
+
+---
+
+The Bachelor of Fine Arts in Game Development and Interaction Design is a unique four-year program, offered by the School of Cinematic Arts, that combines a liberal arts background with comprehensive specialization in a profession. Students study within a framework learned from the games industry, which combines a broad liberal arts background with industry specific knowledge and project based collaborative work. Undergraduate students take their pre-professional courses in the USC Dornsife College of Letters, Arts and Sciences, including the general education requirements. Major courses are selected from the curriculum of the School of Cinematic Arts. The degree requires 128 units, including a minimum of 56 units in the major.
+
+## Core Requirements
+
+---
+
+- CNTV 101 Reality Starts Here Units: 2
+- CTCS 150gw The Cinematic Arts in Society Units: 4
+-
+- CTIN 101 Fundamentals of Procedural Media Units: 2 Or
+- TAC 165 Introduction to C++ Programming Units: 2
+-
+- CTIN 190 Introduction to Interactive Entertainment Units: 4
+- CTIN 289 Game Development Fundamentals Units: 4
+- CTIN 290 Digital Media Workshop Units: 4
+- CTIN 291 Crew for Advanced Game Project Units: 2
+- CTIN 389 Game Development Principles Units: 4
+- CTIN 391 Fundamentals of User Research and Experience Units: 2
+- CTIN 458 Business and Management of Games Units: 2
+- CTIN 488 Game Design Workshop Units: 4
+- CTIN 489L Intermediate Game Design and Production Units: 4
+- CTWR 410L Character Development and Storytelling for Games Units: 4
+
+## Professional Electives
+
+---
+
+At least 6 units from the following list:
+
+- CSCI 426 Game Prototyping Units: 4
+- CTAN 452 Introduction to 3-D Computer Animation Units: 2
+- CTIN 401L Interface Design for Games Units: 2
+- CTIN 404L User Research for Games Units: 2
+- CTIN 406L Sound Design for Games Units: 2
+- CTIN 409 Producing Interactive Projects Units: 2
+- CTIN 411 Tabletop Game Mechanics Seminar Units: 2
+- CTIN 412 Interactive Systems Design Units: 2
+- CTIN 420 Tabletop Roleplaying Games Units: 2
+- CTIN 444 Audio Expression Units: 2
+- CTIN 452L Themed Entertainment Design Units: 4
+- CTIN 478 Level Design Workshop Units: 2
+- CTIN 480 Directing for Games and Interactive Media Units: 2
+- CTIN 482 Designing Social Games Units: 2
+- CTIN 485 Advanced Game Development Units: 2
+- CTIN 486 Alternative Control Workshop Units: 2
+- CTIN 487 Streaming Explorations: Games and Entertainment for Community Units: 2
+- CTIN 497 Interactive Media Startup Units: 1
+- TAC 215L Introduction to 3D Modeling, Animation and Visual Effects Units: 2
+- TAC 361 Character Rigging for Games Units: 4
+
+## Theory Requirement
+
+---
+
+At least one of the following courses:
+
+- CTCS 478 Culture, Technology and Communications Units: 4
+- CTCS 482 Transmedia Entertainment Units: 4
+- CTIN 462 Video Game Franchises Units: 4
+- CTIN 463 Anatomy of a Game Units: 4
+
+## Capstone Requirement
+
+---
+
+One of the following courses:
+
+- CTIN 459L Game Industry Workshop Units: 4
+- CTIN 491L Advanced Game Project I Units: 4
+- CTIN 492L Experimental Game Topics Units: 4
+
+---

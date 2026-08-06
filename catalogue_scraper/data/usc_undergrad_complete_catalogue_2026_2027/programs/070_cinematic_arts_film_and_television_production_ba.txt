@@ -1,0 +1,152 @@
+Program Name: Cinematic Arts, Film and Television Production (BA)*
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31662
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31662&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31662
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:51:38Z
+Content SHA-256: 42a519945f67607bf04089c10c662bd8cca8481b088ebff491801f2776760d37
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Cinematic Arts, Film and Television Production (BA)*
+
+---
+
+The Bachelor of Arts in Cinematic Arts, Film and Television Production is granted through the USC Dornsife College of Letters, Arts and Sciences in conjunction with the School of Cinematic Arts. Students study within a framework that combines a broad liberal arts background with specialization in a profession. Bachelor of Arts students are enrolled in the USC Dornsife College of Letters, Arts and Sciences, where they take their preprofessional courses, including the general education requirements. Major courses are selected from the curriculum of the School of Cinematic Arts. The degree requires 128 units, including 16 lower-division units and 26 upper-division units in Cinematic Arts. A maximum of 40 School of Cinematic Arts upper-division units will apply to the BA degree.
+
+Applicants must submit a supplemental application and materials to the Undergraduate Production Program. For specific instructions, contact the Cinematic Arts Office of Admission, University Park, Los Angeles, CA 90089-2211, (213) 740-8358 or online at cinema.usc.edu.
+
+### General Education Requirements
+
+The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information, see General Education .
+
+## Production Sequence
+
+---
+
+Candidates for the Bachelor of Arts degree in Cinematic Arts, Film and Television Production are required to take CTPR 294 Directing in Documentary, Fiction and New Media and CTPR 295L Cinematic Arts Laboratory the first semester they are enrolled in the program. These courses are taken in preparation for the next phase of the production sequence, CTPR 310 Intermediate Production .
+
+In CTPR 294 , students explore the basic concepts of directing in television, documentary and dramatic narrative by working with actors, documentary production and the creation of short television projects.
+
+In CTPR 295 , students study the aesthetics and tools of the major disciplines of cinematic arts: producing, cinematography, sound and editing.
+
+CTPR 310 Intermediate Production is the second phase of the production sequence. In this workshop, students work in small crews, learning to collaborate and explore the expressive principles of visual and audio communication; idea development and realization using image, movement, pace, the spoken word and other sounds. Most equipment and materials are provided by the school; however, approximately $2,000 should be budgeted for miscellaneous expenses and insurance fees.
+
+To qualify for enrollment in CTPR 310 , students must fulfill all requirements outlined in the guidelines distributed in CTPR 294 .
+
+Following CTPR 310 , students must refine their areas of interest by taking advanced-level practicum courses within the major disciplines of production: directing, editing, cinematography, sound, producing and production design. Thereafter students complete the final phase of the production sequence by taking one of the following courses: CTPR 480 , CTPR 484, CTPR 486 or CTPR 547 .
+
+In CTPR 480 Advanced Production Workshop , production students form crews in which directors, producers, cinematographers, editors and sound designers collaborate to produce, shoot, edit and deliver a fictional narrative, documentary or experimental project in one semester.
+
+Equipment and facilities are provided by the school. There are extra personal expenses associated with all production workshops.
+
+To qualify for enrollment in CTPR 480 , students must fulfill all requirements outlined in the CTPR 480 guidelines.
+
+CTPR 484 Comedy Television Production is a class in which students will produce a half-hour situation comedy pilot in one semester.
+
+CTPR 486 Single Camera Television Dramatic Series is an intensive group workshop experience in the collaborative process of producing an episodic television drama.
+
+CTPR 547 is an intensive workshop where students shoot and finish documentary projects up to about 25 minutes in length.
+
+CTPR 310 , CTPR 480 , CTPR 484 , CTPR 486 and CTPR 547L cannot be waived or substituted with another course or transfer credit under any circumstances.
+
+### Course Requirements
+
+---
+
+- CTCS 190g Introduction to Cinema Units: 4
+-
+- CTCS 200g History of the International Cinema I Units: 4 or
+- CTCS 201 History of the International Cinema II Units: 4
+-
+- CTPR 294 Directing in Documentary, Fiction and New Media Units: 4
+- CTPR 295L Cinematic Arts Laboratory Units: 4
+- CTPR 310 Intermediate Production Units: 8
+- CTWR 413 Writing the Short Script I Units: 2
+
+#### and a choice of:
+
+---
+
+- CTPR 431 Developing the Documentary Production Units: 2
+- CTWR 411 Television Script Analysis Units: 2
+- CTWR 414 The Screenplay Units: 2
+- CTWR 416 Motion Picture Script Analysis Units: 2
+
+#### One of the following cinema and media studies courses:
+
+---
+
+- CTCS 367 Global Media Units: 4
+- CTCS 392 History of American Cinema to 1960 Units: 4
+- CTCS 393 Topics in Historical Cinema and Media Units: 4
+- CTCS 394 History of American Cinema since 1960 Units: 4
+- CTCS 400 Documentary Film and Media Units: 4
+- CTCS 402 Practicum in Film/Television Criticism Units: 4
+- CTCS 403 Studies in National and Regional Media Units: 4
+- CTCS 404 Television and Cultural Criticism Units: 4
+- CTCS 406 History of American Television Units: 4
+- CTCS 407 African American Cinema Units: 4
+- CTCS 409 Censorship in Cinema Units: 4
+- CTCS 411 Film, Television and Cultural Studies Units: 4
+- CTCS 412 Gender, Sexuality and Media Units: 4
+- CTCS 414 Latina/o Screen Cultures Units: 4
+- CTCS 417 African American Television Units: 4
+- CTCS 464 Film and/or Television Genres Units: 4
+- CTCS 469 Film and/or Television Style Analysis Units: 4
+- CTCS 478 Culture, Technology and Communications Units: 4
+- CTCS 482 Transmedia Entertainment Units: 4
+
+#### Three of the following production practicum courses:
+
+---
+
+- CTPR 421 Practicum in Editing Units: 2
+- CTPR 424 Practicum in Cinematography Units: 2
+- CTPR 438 Practicum in Producing Units: 2
+- CTPR 440 Practicum in Sound Units: 2 max 4
+- CTPR 465 Practicum in Production Design Units: 2
+- CTPR 478 Practicum in Directing Units: 2
+
+#### One of the following courses:
+
+---
+
+- CTPR 480 Advanced Production Workshop Units: 4 max 12
+- CTPR 484 Comedy Television Production Units: 4
+- CTPR 486 Straight to Series: Production of Episodic TV Drama Units: 4
+- CTPR 547L Production III, Documentary Units: 6 *
+
+##### Note:
+
+---
+
+*Enrollment in CTPR 547 requires special permission.
+
+## Additional Requirements
+
+---
+
+### Grade Point Average Requirements
+
+A minimum grade of C, 2.0 (A = 4.0), must be earned in all required and prerequisite courses. A grade of C- (1.7) or lower will not fulfill a major requirement.
+
+Students who do not earn the minimum grade of C (2.0) in CTPR 294 , CTPR 295 and CTPR 310 after repeating these requirements will be disqualified from the program.
+
+### Limitations on Enrollment
+
+No more than 40 upper-division units can be taken in the major without approval of the dean, USC Dornsife College of Letters, Arts and Sciences.
+
+Registration in graduate level courses (numbered 500) for undergraduate credit requires prior approval of the School of Cinematic Arts.
+
+### Curriculum Review
+
+Cinematic arts majors are expected to meet with an adviser every semester to review their progress. Contact the Cinematic Arts Student Services Office (SCB 105), (213) 740-8358, for an appointment.
+
+---

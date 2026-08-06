@@ -1,0 +1,93 @@
+Program Name: Customer Analytics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32659
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32659&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32659
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:22Z
+Content SHA-256: cb412cb0f41cd35c878f2a867846dbc596c21e0b7aff1738a01cc4fb059e4d0b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Customer Analytics Minor
+
+---
+
+At the heart of most modern organizations, such as Google, Amazon, Netflix and Facebook, lies a strong Customer Analytics function. Customer Analytics uses vast amounts of data to generate insights that help firms and policy makers to make data driven decisions about customers. Insights into customer behavior, attitudes, demographics and pyschographics can prove to be a sustainable advantage for firms.
+
+This minor draws on empirical methods and applications from fields such as marketing, economics, entrepreneurship, information sciences, international relations, political sciences and sociology to better understand its multidimensional prime constituent - the customer.
+
+To enroll in this minor, students must have completed a minimum of 32 units of college-level courses and have a minimum overall GPA of 2.75.
+
+This minor requires 20 units.
+
+## Required Courses
+
+---
+
+- BUAD 307 Marketing Fundamentals Units: 4
+- MKT 402 Introduction to Marketing Analytics Units: 4
+
+## Electives
+
+---
+
+Complete at least 12 units from the lists below subject to the following constraints:
+
+- A minimum of 16 units (including BUAD 307 and MKT 402 ) must be unique to the minor (i.e., cannot be countable toward requirements for the student’s major).
+- At least 16 units of all courses taken for the minor are not offered by the student’s major department.
+- A minimum of 4 units must be taken from each of the two groups listed below.
+
+### Marketing Applications and Consumer Decision Making
+
+---
+
+Complete at least 4 units from the following group:
+
+- BAEP 450 Fundamentals of Entrepreneurship Units: 4 or
+- BAEP 451 The Management of New Enterprises Units: 4
+-
+- DSO 431 Digital Innovation as Competitive Advantage Units: 4
+-
+- ECON 203g Principles of Microeconomics Units: 4 or
+- ECON 351x Microeconomics for Business Units: 4
+-
+- MKT 405 Marketing Communication and Promotion Strategy Units: 4 *
+- MKT 425 Digital Marketing Fundamentals Units: 4 *
+- MKT 426 Analytics for Advertising and Social Media Campaigns Units: 4
+- MKT 445 New Product Development and Branding Units: 4 *
+- MKT 450 Consumer Behavior and Marketing Units: 4
+- MKT 465 Multicultural Marketing Units: 4
+- MKT 488 Marketing Capstone: From Strategy to Execution Units: 4 *
+- * Prerequisite required.
+
+### Research Techniques
+
+---
+
+Complete at least 4 units from the following group:
+
+- BUAD 310g Applied Business Statistics Units: 4 or
+- BUAD 312g Statistics and Data Science for Business Units: 4 or
+- PSYC 274Lg Statistics Units: 4
+-
+- COMM 301Lg Empirical Research in Communication Units: 4
+- DSO 401 Data Analysis with Spreadsheets Units: 2
+- DSO 427 Spreadsheet Modeling for Business Insights Units: 4
+- DSO 428 Essentials and Digital Frontiers of Big Data Units: 4
+- JOUR 494 Python Coding for Data Journalism Units: 2
+- MKT 401 Marketing Research for Consumer Insights Units: 4
+- TAC 249 Introduction to Data Analytics Units: 4
+
+## Total units required: 20
+
+---
+
+Return to: USC Marshall School of Business
+
+---

@@ -1,0 +1,50 @@
+Program Name: Chemistry Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31740
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31740&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31740
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:11Z
+Content SHA-256: 802f3d03cc9d38c65710ee76f12759d8aa73cacd51d3f66c9c8e5a75f3c40dd7
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Chemistry Minor
+
+---
+
+A chemistry minor is available for students who wish to broaden their exposure to the chemical sciences. In addition to a core of five chemistry courses (year-long sequences in general chemistry and organic chemistry and a one semester course in analytical chemistry), students must take one upper-division chemistry elective in either advanced organic or advanced inorganic chemistry.
+
+Biology majors must take CHEM 300L , CHEM 426 and CHEM 453 .
+
+## Required Courses, Lower-Division
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4
+- CHEM 105bL General Chemistry Units: 4 or
+-
+- CHEM 115aLg Advanced General Chemistry Units: 4
+- CHEM 115bL Advanced General Chemistry Units: 4
+
+## Required Courses, Upper-Division
+
+---
+
+- CHEM 300L Analytical Chemistry Units: 4
+-
+- CHEM 322aL Organic Chemistry Units: 4
+- CHEM 322bL Organic Chemistry Units: 4 or
+-
+- CHEM 325aL Organic Chemistry Units: 4
+- CHEM 325bL Organic Chemistry Units: 4
+-
+- CHEM 426 Advanced Organic Chemistry Units: 4 or
+- CHEM 453 Advanced Inorganic Chemistry Units: 4
+
+---

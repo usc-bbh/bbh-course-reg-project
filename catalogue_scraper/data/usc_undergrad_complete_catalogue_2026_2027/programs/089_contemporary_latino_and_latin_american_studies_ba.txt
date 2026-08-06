@@ -1,0 +1,155 @@
+Program Name: Contemporary Latino and Latin American Studies (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32428
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32428&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32428
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:33Z
+Content SHA-256: c4caf150b5874b606024beb5b572f256caa4ca349b61d757fd0b00189896cd1b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Contemporary Latino and Latin American Studies (BA)
+
+---
+
+The Bachelor of Arts in Contemporary Latino and Latin American Studies (CLLA) is an interdisciplinary major bridging the fields of Latin American Studies (focusing on the history and cultures of Central and South America) and Latino Studies (focusing on the experience of Chicano/a and Latino/a communities in the United States). By combining these two areas of scholarly inquiry in a single undergraduate degree, students acquire interdisciplinary perspectives on the indigenous and transnational histories, cultures, and social issues of the Américas.
+
+The Bachelor of Arts in Contemporary Latino and Latin American Studies provides an opportunity for undergraduates to gain a general understanding of this area of scholarship and research and focus their study to reflect their personal aspirations. The major requires nine courses (36 units), two at the lower-division (100 and 200) level and seven at the upper-division (300 and 400) level. This curriculum prepares students for careers in business, diplomacy, or social change that reflect and respect the cultural diversity of the western hemisphere.
+
+## Lower-division Requirements (8 units)
+
+---
+
+### Language Requirement (4 units)
+
+---
+
+Choose one of the following four courses or earn a sufficient score on the Spanish placement exam:
+
+- SPAN 245 Spanish Through Social Issues in Costa Rica Units: 4
+- SPAN 250x Spanish for Business Communication Units: 4
+- SPAN 261 Advanced Spanish: Society and the Media Units: 4
+- SPAN 270 Spanish for Heritage Speakers Units: 4
+- Students who satisfy this requirement by placement exam score should take an additional course from the list below to satisfy the unit requirement.
+
+### Introduction to Latin American Culture (4 units)
+
+---
+
+Choose one course from the following list:
+
+- AHIS 127g Arts of the Ancient Americas Units: 4
+- AHIS 128gp The Arts and Society in Latin America, Colonial to Contemporary Units: 4
+- AMST 135gmw Peoples and Cultures of the Americas Units: 4
+- AMST 140gw Borderlands in a Global Context Units: 4
+- ANTH 140g Mesoamerican Cosmovision and Culture Units: 4
+- COLT 250g Cultures of Latin America Units: 4
+- HIST 273g Colonial Latin America Units: 4
+- MUJZ 218a Afro-Latin Percussion Instruments Units: 2
+- MUJZ 218b Afro-Latin Percussion Instruments Units: 2
+
+## Upper-division Requirements (28 units)
+
+---
+
+### Contemporary Latin Americans (8 units)
+
+---
+
+Choose two of the following:
+
+- AMST 340m Latina/o LA Units: 4
+- HIST 372 Modern Latin America Units: 4
+- IR 364 The Political Economy of Latin American Development Units: 4
+- POSC 428 Latino Politics Units: 4
+
+### Major Interest (16 units)
+
+---
+
+Choose four additional courses not yet taken from one of the three following lists:
+
+#### The Cultural Heritage of Latin America
+
+---
+
+- AHIS 319 Mesoamerican Art and Culture Units: 4
+- AMST 448m Chicano and Latino Literature Units: 4
+- ANTH 425 Peoples and Cultures of Latin America Units: 4
+- COLT 375 Latin American Cultural and Literary Theory Units: 4
+- HIST 369 History of the Indigenous Peoples in the Americas Units: 4
+- HIST 370 Colonial Latin America Units: 4
+- HIST 374 History of Mexico Units: 4
+- HIST 451 The Mexican Revolution Units: 4
+- HIST 470 The Spanish Inquisition in the Early Modern Hispanic World Units: 4, 2 years
+- REL 333 Religion in the Borderlands Units: 4
+- REL 334g Religion and Colonial Encounter Units: 4
+- SPAN 301 Introduction to Literature and Film Units: 4
+- SPAN 304 The Art of Fiction Units: 4
+- SPAN 306 Performance from Street to Stage Units: 4
+- SPAN 308 The Art of Poetry Units: 4
+- SPAN 372 Modern and Contemporary Latin American Fiction Units: 4
+- SPAN 380g Literature of Mexico Units: 4
+- SPAN 385 The Culture of Food in Hispanic Los Angeles Units: 4
+- SPAN 462 Literary Cartographies of Latin America and Spain, 1810–1898 Units: 4
+- SPAN 481 Literature and Popular Culture Units: 4
+- SPAN 482 Literature and the City Units: 4
+- SPAN 483 Gender and Sexuality Units: 4
+- SPAN 484 Studies in Visual and Material Culture Units: 4
+
+#### Social Realities in the United States and Latin America
+
+---
+
+- AMST 340m Latina/o LA Units: 4
+- AMST 353m Race and Racism in the Americas Units: 4
+- AMST 357m Latino Social Movements Units: 4
+- AMST 373m History of the Mexican American Units: 4
+- ANTH 425 Peoples and Cultures of Latin America Units: 4
+- HIST 354 Mexican Migration to the United States Units: 4
+- HIST 372 Modern Latin America Units: 4
+- IR 364 The Political Economy of Latin American Development Units: 4
+- IR 365 Politics and Democracy in Latin America Units: 4
+- IR 366 Mexico and its Relations with the United States Units: 4
+- IR 425 The New Triangle: China, the U.S. and Latin America Units: 4
+- IR 465 Contemporary Issues in United States-Latin America Relations Units: 4
+- IR 466 Contemporary Issues in Latin American Politics Units: 4
+- POSC 350 Politics of Latin America Units: 4
+- POSC 428 Latino Politics Units: 4
+- POSC 430 Political Economy of Mexico Units: 4
+- POSC 431 Political Economy of Central America Units: 4
+- SOCI 356m Mexican Immigrants in Sociological Perspective Units: 4
+- SPAN 320 Politics, Thought, Society Units: 4
+
+#### Latino and Latin American Arts and Media
+
+---
+
+- AHIS 318 Arts of the Ancient Andes Units: 4
+- AHIS 328 Colonial Latin American Art Units: 4
+- AHIS 428 Studies in Colonial Latin American Art Units: 4
+- AMST 446 Latinx Music in the Americas Units: 4
+- COLT 470 Literature and Media in Latin America Units: 4
+- CTCS 414 Latina/o Screen Cultures Units: 4
+- JOUR 465m Latino News Media in the United States Units: 4
+- SPAN 302 Screen Cultures: From Film to the Internet Units: 4
+- SPAN 321 Sounds, Images, Objects Units: 4
+- SPAN 466 Argentina, Society and the Arts Units: 4
+- THTR 481 From The Border to Broadway Units: 4
+
+### Capstone Experience (4 units)
+
+---
+
+Students engage in travel or original research by choosing one of the following courses, which include Maymester and Problems Without Passport courses, overseas programs, or courses created for this purpose. Choose one of the following:
+
+- ANTH 400 Maya Resilience: Constructing Past and Present Identities Units: 4
+- ANTH 450 Field Research in Maya Archaeology Units: 4
+
+---

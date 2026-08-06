@@ -1,0 +1,60 @@
+Program Name: Law, Advocacy and Persuasive Performance Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32933
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32933&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32933
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:15Z
+Content SHA-256: 48c11e8a677318c532e4fc35d0b5d1acf69890d8c76678cf44346552c85bcd2e
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Law, Advocacy and Persuasive Performance Minor
+
+---
+
+The minor in Law, Advocacy and Persuasive Performance is an innovative and interdisciplinary minor that explores the intersection between dramatic arts and the law which emphasizes performance-based skills essential to the law and the legal profession: persuasive speaking, improvisation, audience analysis and storytelling.
+
+The minor totals 16 unit: 8 required law and theatre units, 4 law and 4 dramatic arts elective units.
+
+## Required Courses: 8 units
+
+---
+
+- LAW 200w Law and Society Units: 4
+- THTR 122 Improvisation and Theatre Games Units: 2
+- THTR 421 Public Speaking as Performance: A Course for Non-Actors Units: 2
+
+## Law Electives: 4 units
+
+---
+
+- LAW 150w Stereotypes, Prejudice and the Rule of Law Units: 4
+- LAW 202 Wrongful Convictions Units: 4
+- LAW 203 Criminal Punishment in the Age of Mass Incarceration Units: 4
+- LAW 212 Immigration Law for a New America Units: 4
+- LAW 250w Children and the Law Units: 4
+- LAW 301 Voting Rights and the Law Units: 4
+- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4
+- LAW 320p Law, Enslavement and Race Units: 4
+- LAW 355 Law and Homelessness Units: 4
+- LAW 403 Mental Health Law Units: 4
+
+## Dramatic Arts Electives: 4 units
+
+---
+
+- THTR 101 Introduction to Acting Units: 4
+- THTR 216 Movement for Actors Units: 2
+- THTR 322 Improv 2: Advanced Improv Units: 2
+- THTR 414 Secrets of Storytelling Units: 2
+- THTR 426 Being on Screen: A Class for Presenters, Hosts, and Others Units: 2
+- THTR 445 Developing Your Speaking Voice Units: 2
+- THTR 479 Solo Performance Units: 4
+
+---

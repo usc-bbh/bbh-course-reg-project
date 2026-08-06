@@ -1,0 +1,153 @@
+Program Name: Philosophy, Politics and Economics (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32604
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32604&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32604
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:40Z
+Content SHA-256: 35e5616b1d3e67f11ea2cd7524e30f020b3c286cb261a00f2df9d1355cf1b94b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Philosophy, Politics and Economics (BA)
+
+---
+
+This demanding major trains students in political economy, grounding their study in the historical, conceptual and moral foundations of our shared political and economic lives. The interdisciplinary major allows students to trace interconnections between political, economic and legal issues within a range of broader humanistic concerns. It also fosters the development of logical, quantitative and analytic skills needed for clear thinking and effective communication, leaving students with a wide range of options for further, more specialized study or careers in law, politics or economics.
+
+The major requires 11 courses including an introductory lower-division course, a final capstone seminar and a range of further courses in the three disciplines.
+
+## Lower-Division Course
+
+---
+
+Students must complete one of the following courses.
+
+- PHIL 101g Free People, Free Thought and Free Markets Units: 4
+- PHIL 103g Philosophy, Politics and Economics in Europe, from Renaissance to Enlightenment Units: 4
+- PHIL 174gw Freedom, Equality, and Social Justice Units: 4
+- PHIL 178gw Moral Dilemmas in the Legal Domain Units: 4
+- PHIL 258g Probability and Rational Choice Units: 4
+- PHIL 260gw Ethical Theory and Practice Units: 4
+- POSC 130g Law, Politics and Public Policy Units: 4
+
+## Logic Course
+
+---
+
+Students must complete one of the following courses.
+
+- PHIL 220 Introduction to Logic Units: 4
+- PHIL 222g Logic and Language Units: 4
+- PHIL 350 Intermediate Logic Units: 4
+- PHIL 450 The Limits of Logic Units: 4
+- PHIL 452 Modal Logic Units: 4
+
+## Lower-Division Political Science Recommendation
+
+---
+
+One lower-division POSC course is strongly recommended before taking any upper-division POSC courses.
+
+## Philosophy Gateway Course
+
+---
+
+Completing a gateway course is recommended prior to enrolling in any 400-level Philosophy course. This course will count toward the upper-division Philosophy requirements.
+
+- PHIL 311 The Quest for the Individual in Early Modern Europe Units: 4
+- PHIL 314 Origins of Free Market Thought in Early Modern Europe Units: 4
+- PHIL 315 History of Western Philosophy: Ancient Period Units: 4
+- PHIL 320 History of Western Philosophy: Modern Period Units: 4
+- PHIL 336 Philosophy of Mind and Language Units: 4
+- PHIL 337 Political Philosophy Units: 4
+- PHIL 339 Philosophy of Economics Units: 4
+- PHIL 340 Ethics Units: 4
+- PHIL 360 Epistemology and Metaphysics Units: 4
+- PHIL 362 Possible Worlds Units: 4
+- PHIL 363 Philosophy of Perception Units: 4
+- PHIL 385 Science and Rationality Units: 4
+
+## Philosophy of Economics, Political or Legal Philosophy
+
+---
+
+Students must complete one of the following courses.
+
+- PHIL 339 Philosophy of Economics Units: 4
+- PHIL 430 Philosophy of Law Units: 4
+- PHIL 431 Law, Society, and Politics Units: 4
+- PHIL 437 Social and Political Philosophy Units: 4
+
+## History of Philosophy
+
+---
+
+Students must complete one of the following courses.
+
+- PHIL 311 The Quest for the Individual in Early Modern Europe Units: 4
+- PHIL 314 Origins of Free Market Thought in Early Modern Europe Units: 4
+- PHIL 337 Political Philosophy Units: 4
+- PHIL 410 Early Greek Thought Units: 4
+- PHIL 411 Plato Units: 4
+- PHIL 415 Aristotle Units: 4
+- PHIL 416 The Ancient Stoics Units: 4
+- PHIL 421 Continental Rationalism Units: 4
+- PHIL 422 British Empiricism Units: 4
+- PHIL 423 The Critical Philosophy of Kant Units: 4
+- PHIL 424 19th Century Philosophy Units: 4
+
+## Moral Philosophy
+
+---
+
+Students must complete one of the following courses.
+
+- PHIL 437 Social and Political Philosophy Units: 4
+- PHIL 440 Contemporary Ethical Theory Units: 4
+- PHIL 442 History of Ethics to 1900 Units: 4
+- PHIL 443 Value Theory Units: 4
+
+## Upper-Division Political Science
+
+---
+
+Students must complete any two 4-unit upper-division POSC courses, excluding internship, research, special topics and seminar (POSC 390 , POSC 391 , POSC 392 , POSC 395 , POSC 398L , POSC 410x , POSC 420 , POSC 490x , POSC 490x ). Students may also choose IR 309 .
+
+- IR 309 Global Governance Units: 4
+
+## Economics
+
+---
+
+Students must complete the following two courses in economics.
+
+- ECON 203g Principles of Microeconomics Units: 4
+- ECON 317 Introduction to Statistics for Economists Units: 4
+
+## Upper-Division Economics
+
+---
+
+Students must complete one 4-unit, 300-level ECON course after having completed ECON 203g and ECON 317 .
+
+## Capstone Course
+
+---
+
+Students must complete the following capstone course. In semesters when the capstone course is not offered, students may enroll in an acceptable course equivalent with departmental approval.
+
+- PHIL 475 Topics in Philosophy, Politics and Economics Units: 4
+
+## Note:
+
+---
+
+Majors may graduate with departmental honors by doing the following: (i) completing all major requirements, (ii) having a GPA of at least 3.5 for upper-level courses for the major, and (iii) completing the Honors Capstone Seminar (PHIL 495 ), or if that’s not possible, the Senior Thesis Seminar (PHIL 494 ). To take PHIL 494 of PHIL 495 , students must be seniors and we recommend having completed two other 400-level Philosophy courses first.
+
+---

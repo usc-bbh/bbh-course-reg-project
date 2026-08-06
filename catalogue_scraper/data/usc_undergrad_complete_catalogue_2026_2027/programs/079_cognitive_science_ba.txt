@@ -1,0 +1,404 @@
+Program Name: Cognitive Science (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31909
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31909&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31909
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:08Z
+Content SHA-256: 923f33ac30270ec8150b5fb71c6ec28bdaeb196d166442e93e561d3fff623860
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Cognitive Science (BA)
+
+---
+
+Director: Toben Mintz, PhD
+
+Cognitive science is an interdisciplinary major that focuses on the mind and cognition from a variety of perspectives and approaches. The core and electives sample from courses in psychology, philosophy, linguistics, human and evolutionary biology, and computer science.
+
+Cognitive Science Major with Honors
+
+---
+
+The cognitive science major with honors requires the student to complete the requirements for the major with a GPA of 3.5 or above and to complete in addition CGSC 498 Honors Thesis with a grade of B or better. Intent to complete the cognitive science major with honors should be registered with the undergraduate adviser no later than the second semester of the junior year.
+
+---
+
+The major consists of four fixed core courses, plus two tiers of flexible core courses. Tier 1 generally consists of more introductory courses, and Tier 2 consists of more advanced courses. Students must take two courses from Tier 1 and three courses from Tier 2. We provide suggested tracks through these tiers that allow students to concentrate on one or two subspecialities in this broad interdisciplinary field. Students may choose to focus on one of these tracks, or they may opt to tailor an interdisciplinary curriculum that provides in-depth exploration of a combination of areas. Electives allow students to take courses related to the core areas, but may cover a more specialized or applied area of study.
+
+Students are encouraged to refer to the suggested tracks below, and to consult with their academic adviser.
+
+## Core Requirements (Four Courses)
+
+---
+
+- PHIL 246Lg Foundations of Cognitive Science Units: 4
+- PSYC 100Lg Introduction to Psychology Units: 4
+- PSYC 274Lg Statistics Units: 4
+- PSYC 301L Cognitive Processes Units: 4
+
+### Units: 16
+
+---
+
+## Flexible Core Requirements (Five Courses)
+
+---
+
+### Two courses from:
+
+---
+
+- BISC 230Lgx The Biology of the Brain Units: 4
+- CSCI 103L Object Oriented Programming Units: 4 *
+- HBIO 200Lg The Human Animal Units: 4
+- LING 210g Introduction to Linguistics Units: 4
+- LING 275Lg Language and Mind Units: 4
+- LING 285Lg Human Language and Technology Units: 4
+- LING 301 Introduction to Phonology and Morphology Units: 4 *
+- LING 302 Introduction to Syntax Units: 4 *
+- PHIL 220 Introduction to Logic Units: 4 or
+- PHIL 222g Logic and Language Units: 4
+- PHIL 240g Mind, Self, and Consciousness Units: 4
+- PHIL 254gp Science, Knowledge and Objectivity Units: 4
+- PHIL 258g Probability and Rational Choice Units: 4
+- PSYC 304L Sensation and Perception Units: 4 *
+
+### Three courses from:
+
+---
+
+- BISC 421 Neurobiology Units: 4 *
+- CSCI 170 Discrete Methods in Computer Science Units: 4 *
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4 *
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4 *
+- ECON 405 Neuroeconomics Units: 4 *
+- HBIO 306 Biology of the Non-Human Primates Units: 4
+- HBIO 308 Origins and Evolution of Human Behavior Units: 4
+- LING 385Lg Human Language as Computation Units: 4
+- LING 405 Child Language Acquisition Units: 4
+- LING 406 Psycholinguistics Units: 4 *
+- LING 407 Atypical Language Units: 4 *
+- LING 412 Language and Law Units: 4
+- LING 486 Natural Language Processing Units: 4 *
+- LING 487 Speech Synthesis and Recognition Units: 4 *
+- PHIL 336 Philosophy of Mind and Language Units: 4
+- PHIL 363 Philosophy of Perception Units: 4
+- PHIL 462 Philosophy of Mind Units: 4
+- PHIL 463 Theories of Action Units: 4
+- PHIL 465 Philosophy of Language Units: 4
+- PHIL 470 Theory of Knowledge Units: 4
+- PSYC 305 Learning and Memory Units: 4 *
+- PSYC 326 Behavioral Neuroscience Units: 4 *
+- PSYC 336L Developmental Psychology Units: 4 *
+- PSYC 339Lg Origins of the Mind Units: 4
+- PSYC 422 Human Judgment and Decision Making Units: 4 *
+- PSYC 423 User Experience Units: 4
+- PSYC 424 Neuropsychology Units: 4 *
+- PSYC 425 Functional Imaging of the Human Brain Units: 4 *
+- PSYC 433 Children’s Learning and Cognitive Development Units: 4 *
+- PSYC 440 Foundations of Cognitive Neuroscience Units: 4 *
+- PSYC 450 Neural Network Models of Social and Cognitive Processes Units: 4 *
+- PSYC 454 Social Cognition Units: 4 *
+
+### Units: 20
+
+---
+
+*Prerequisite required.
+
+## Electives (Three Courses)
+
+---
+
+- BISC 230Lgx The Biology of the Brain Units: 4
+- BISC 421 Neurobiology Units: 4 *
+- BISC 424 Brain Architecture Units: 4
+- CGSC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- CGSC 498 Honors Thesis Units: 4
+- CSCI 103L Object Oriented Programming Units: 4 *
+- CSCI 104L Data Structures Units: 4 *
+- CSCI 113x Programming Fundamentals for Computing Units: 4
+- CSCI 114x Programming for Applications of Computing Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4 *
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4 *
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4 *
+- ECON 405 Neuroeconomics Units: 4 *
+- HBIO 200Lg The Human Animal Units: 4
+- HBIO 306 Biology of the Non-Human Primates Units: 4
+- HBIO 308 Origins and Evolution of Human Behavior Units: 4
+- HBIO 406 Theory and Method in Human Evolutionary Biology Units: 4 *
+- LING 210g Introduction to Linguistics Units: 4
+- LING 275Lg Language and Mind Units: 4
+- LING 285Lg Human Language and Technology Units: 4
+- LING 301 Introduction to Phonology and Morphology Units: 4 *
+- LING 302 Introduction to Syntax Units: 4 *
+- LING 307 Linguistic Theory and Communication Disorders Units: 4
+- LING 405 Child Language Acquisition Units: 4
+- LING 406 Psycholinguistics Units: 4 *
+- LING 407 Atypical Language Units: 4 *
+- LING 412 Language and Law Units: 4
+- LING 415 Phonetics Units: 4
+- LING 450 Forensic Speaker Identification Units: 4
+- LING 486 Natural Language Processing Units: 4 *
+- LING 487 Speech Synthesis and Recognition Units: 4 *
+- PHIL 220 Introduction to Logic Units: 4
+- PHIL 222g Logic and Language Units: 4
+- PHIL 240g Mind, Self, and Consciousness Units: 4
+- PHIL 254gp Science, Knowledge and Objectivity Units: 4
+- PHIL 258g Probability and Rational Choice Units: 4
+- PHIL 336 Philosophy of Mind and Language Units: 4
+- PHIL 363 Philosophy of Perception Units: 4
+- PHIL 385 Science and Rationality Units: 4
+- PHIL 422 British Empiricism Units: 4
+- PHIL 423 The Critical Philosophy of Kant Units: 4
+- PHIL 427 Twentieth Century Anglo-American Philosophy Units: 4
+- PHIL 428 Anglo-American Philosophy Since 1950 Units: 4
+- PHIL 450 The Limits of Logic Units: 4 *
+- PHIL 452 Modal Logic Units: 4 *
+- PHIL 462 Philosophy of Mind Units: 4
+- PHIL 463 Theories of Action Units: 4
+- PHIL 465 Philosophy of Language Units: 4
+- PHIL 470 Theory of Knowledge Units: 4
+- PHIL 486 Methodologies of the Sciences Units: 4
+- PSYC 215Lg Music, Mind and the Brain Units: 4
+- PSYC 304L Sensation and Perception Units: 4 *
+- PSYC 305 Learning and Memory Units: 4 *
+- PSYC 314L Experimental Research Methods Units: 4 *
+- PSYC 320 Principles of Psychobiology Units: 4 *
+- PSYC 326 Behavioral Neuroscience Units: 4 *
+- PSYC 336L Developmental Psychology Units: 4 *
+- PSYC 339Lg Origins of the Mind Units: 4
+- PSYC 360 Psychological Disorders Units: 4 *
+- PSYC 421L Data Analysis for Psychological Research Units: 4 *
+- PSYC 422 Human Judgment and Decision Making Units: 4 *
+- PSYC 423 User Experience Units: 4
+- PSYC 424 Neuropsychology Units: 4 *
+- PSYC 425 Functional Imaging of the Human Brain Units: 4 *
+- PSYC 428 Advanced Psychobiology Seminar Units: 4 *
+- PSYC 433 Children’s Learning and Cognitive Development Units: 4
+- PSYC 434 Intelligence, Problem Solving and Creativity Units: 4 *
+- PSYC 436 Developmental Neuroscience of Human Behavior Units: 4
+- PSYC 438 Behavioral Genetics Units: 4 *
+- PSYC 440 Foundations of Cognitive Neuroscience Units: 4 *
+- PSYC 450 Neural Network Models of Social and Cognitive Processes Units: 4 *
+- PSYC 452 Social Neuroscience Units: 4 *
+- PSYC 454 Social Cognition Units: 4 *
+- TAC 115 Programming in Python Units: 2
+- TAC 116 Accelerated Programming in Python Units: 2
+- TAC 310 Design for User Experience Units: 4
+- Note: Students that are interested in focusing on aspects of Cognitive Science that draw from Computer Science will need to take CSCI 103L , and CSCI 104L , in order to take the more advanced Computer Science offerings in the curriculum. In considering how many CSCI courses to take, students should consider that units from these courses are outside of the Dornsife College, and will not be counted toward the required Dornsife College units.
+  Students may not complete more than one of the following courses: TAC 115 , TAC 116 , CSCI 103L and CSCI 113x
+
+## Units: 10-12
+
+---
+
+*Prerequisite required
+
+## Total units: 46–48
+
+---
+
+Note: A course that is listed in multiple categories can only be applied once. Students must choose a minimum of 16 upper-division units from the flexible core and electives lists.
+
+### Suggested Tracks
+
+---
+
+The suggested tracks are organized by broad areas of emphasis within cognitive science, and more specific areas of interest within the broader domains. These tracks are suggestions only; they are not listed on the transcript, and they do not have to be officially declared. Some tracks and emphases include a single course under Tier 1 courses, providing the opportunity to select a second course that is best suited to particular areas of interest. Students work with their academic adviser to tailor an interdisciplinary curriculum that combines several areas.
+
+#### Cognitive Science with an Emphasis in Psychology
+
+---
+
+##### Suggested Track: Learning, Memory and Reasoning
+
+---
+
+###### Related Tier 1 Courses
+
+---
+
+- PHIL 220 Introduction to Logic Units: 4 or
+- PHIL 222g Logic and Language Units: 4
+- PHIL 240g Mind, Self, and Consciousness Units: 4
+- PSYC 304L Sensation and Perception Units: 4 *
+
+###### Related Tier 2 Courses
+
+---
+
+- PSYC 305 Learning and Memory Units: 4 *
+- PSYC 339Lg Origins of the Mind Units: 4
+- PSYC 422 Human Judgment and Decision Making Units: 4 *
+- PSYC 423 User Experience Units: 4
+- PSYC 450 Neural Network Models of Social and Cognitive Processes Units: 4 *
+- PSYC 454 Social Cognition Units: 4
+
+##### Suggested Track: Social and Developmental Processes
+
+---
+
+###### Related Tier 1 Course
+
+---
+
+- HBIO 200Lg The Human Animal Units: 4
+
+###### Related Tier 2 Courses
+
+---
+
+- HBIO 306 Biology of the Non-Human Primates Units: 4
+- HBIO 308 Origins and Evolution of Human Behavior Units: 4
+- PSYC 305 Learning and Memory Units: 4 *
+- PSYC 336L Developmental Psychology Units: 4 *
+- PSYC 339Lg Origins of the Mind Units: 4
+- PSYC 422 Human Judgment and Decision Making Units: 4 *
+- PSYC 450 Neural Network Models of Social and Cognitive Processes Units: 4 *
+- PSYC 454 Social Cognition Units: 4 *
+
+##### Suggested Track: Neuroscience
+
+---
+
+###### Related Tier 1 Course
+
+---
+
+- BISC 230Lgx The Biology of the Brain Units: 4
+
+###### Related Tier 2 Courses
+
+---
+
+- PSYC 326 Behavioral Neuroscience Units: 4 *
+- PSYC 425 Functional Imaging of the Human Brain Units: 4 *
+- PSYC 440 Foundations of Cognitive Neuroscience Units: 4 *
+- PSYC 450 Neural Network Models of Social and Cognitive Processes Units: 4 *
+
+#### Cognitive Science with an Emphasis in Language
+
+---
+
+##### Suggested Track: Processing and Development
+
+---
+
+###### Related Tier 1 Courses
+
+---
+
+- LING 210g Introduction to Linguistics Units: 4
+- LING 275Lg Language and Mind Units: 4
+- LING 301 Introduction to Phonology and Morphology Units: 4 *
+- LING 302 Introduction to Syntax Units: 4 *
+
+###### Related Tier 2 Courses
+
+---
+
+- LING 405 Child Language Acquisition Units: 4
+- LING 406 Psycholinguistics Units: 4 *
+- LING 407 Atypical Language Units: 4 *
+- PSYC 339Lg Origins of the Mind Units: 4
+
+##### Suggested Track: Computation
+
+---
+
+###### Related Tier 1 Courses
+
+---
+
+- LING 210g Introduction to Linguistics Units: 4
+- LING 285Lg Human Language and Technology Units: 4
+
+###### Related Tier 2 Courses
+
+---
+
+- LING 385Lg Human Language as Computation Units: 4
+- LING 486 Natural Language Processing Units: 4 *
+- LING 487 Speech Synthesis and Recognition Units: 4 *
+
+#### Cognitive Science with an Emphasis in Philosophy
+
+---
+
+##### Suggested Track: Philosophy of Mind
+
+---
+
+###### Related Tier 1 Courses
+
+---
+
+- PHIL 220 Introduction to Logic Units: 4 or
+- PHIL 222g Logic and Language Units: 4
+- PHIL 240g Mind, Self, and Consciousness Units: 4
+- PHIL 254gp Science, Knowledge and Objectivity Units: 4
+- PHIL 258g Probability and Rational Choice Units: 4
+- PSYC 304L Sensation and Perception Units: 4 *
+
+###### Related Tier 2 Courses
+
+---
+
+- PHIL 336 Philosophy of Mind and Language Units: 4
+- PHIL 363 Philosophy of Perception Units: 4
+- PHIL 462 Philosophy of Mind Units: 4
+- PHIL 463 Theories of Action Units: 4
+- PHIL 470 Theory of Knowledge Units: 4
+- PSYC 336L Developmental Psychology Units: 4 *
+- PSYC 339Lg Origins of the Mind Units: 4
+- PSYC 422 Human Judgment and Decision Making Units: 4 *
+- PSYC 454 Social Cognition Units: 4 *
+
+##### Suggested Track: Philosophy of Language
+
+---
+
+###### Related Tier 1 Courses
+
+---
+
+- LING 210g Introduction to Linguistics Units: 4
+- LING 302 Introduction to Syntax Units: 4 *
+- PHIL 220 Introduction to Logic Units: 4 or
+- PHIL 222g Logic and Language Units: 4
+
+###### Related Tier 2 Courses
+
+---
+
+- LING 385Lg Human Language as Computation Units: 4
+- LING 412 Language and Law Units: 4
+- PHIL 465 Philosophy of Language Units: 4
+
+#### Cognitive Science with an Emphasis in Computer Science
+
+---
+
+##### Related Tier 1 Course
+
+---
+
+- CSCI 103L Object Oriented Programming Units: 4 *
+
+##### Related Tier 2 Courses
+
+---
+
+- CSCI 170 Discrete Methods in Computer Science Units: 4 *
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4 *
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4 *
+
+---

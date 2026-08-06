@@ -1,0 +1,71 @@
+Program Name: Game User Research Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31687
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31687&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31687
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:03:04Z
+Content SHA-256: 40fc3ea6081db85b2159120909cad5f4023dfb33f0bba389f6b7b98caeb5b5c8
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Game User Research Minor
+
+---
+
+Game and interaction design are deeply dependent upon human-computer interaction and the ability to use research methods to improve player experience. Game user research is a critical aspect of game design and development that involves management of playtests and usability tests of the software, technology and rules. Along with the ability to analyze and design for optimal player experience, this field combines the ability to analyze large batches of data, and an understanding of how to build applications that mine data from users; these skills form the backbone of an incredibly valuable team member for digital entertainment products. The Interactive Media and Games Division at the School of Cinematic Arts is a leading facility in the teaching of usability, research, and playtesting practices in this field, and the game user research minor is designed to give students an underpinning in game design, interface design and research methods, while teaching a full set of skills for playtesting and usability practice.
+
+To be eligible for the game user research minor, a student must be in good academic standing and have a declared major. To declare the game design minor a student must get permission from the Interactive Media and Games Division (SCI 201) and submit a Change of Major/Minor form to Cinematic Arts Student Affairs (SCB 105).
+
+#### Course Requirements for the Minor
+
+A total of 16 units is required for the game user research minor, 2 lower-division units and a minimum of 12 upper-division units.
+
+## Lower-division Core Units (2 Units)
+
+---
+
+- CTIN 291 Crew for Advanced Game Project Units: 2
+
+## Upper-division Core Units (8 Units)
+
+---
+
+- COMM 301Lg Empirical Research in Communication Units: 4
+- CTIN 401L Interface Design for Games Units: 2
+- CTIN 404L User Research for Games Units: 2
+
+## Electives (6 Additional Units)
+
+---
+
+- CTIN 110 Statistical Analysis for Games: Storytelling with Numbers Units: 4
+- CTIN 432 Polishing and Publishing Interactive Media Units: 2
+- CTIN 458 Business and Management of Games Units: 2
+- CTIN 463 Anatomy of a Game Units: 4
+- CTIN 482 Designing Social Games Units: 2
+- CTIN 488 Game Design Workshop Units: 4
+- CTIN 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- CTIN 491L Advanced Game Project I Units: 4 *
+- CTIN 493L Advanced Game Project II Units: 2 *
+- CTIN 510 Research Methods for Innovation, Engagement and Assessment Units: 2 +
+- PSYC 301L Cognitive Processes Units: 4 *
+
+## Note:
+
+---
+
+*Prerequisite required.
+
++Enrollment in CTIN 510 requires special permission.
+
+#### Grade Point Average Requirement
+
+A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.
+
+---

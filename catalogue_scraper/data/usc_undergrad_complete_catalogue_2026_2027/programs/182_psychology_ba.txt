@@ -1,0 +1,107 @@
+Program Name: Psychology (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31906
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31906&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31906
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:57Z
+Content SHA-256: 8825c5ff742c8d7bbd01661f827bc32aae7ae82d4bb037589772d1f4d20f9b4b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Psychology (BA)
+
+---
+
+#### Grade Requirement
+
+A grade of C- or higher is required to count a class toward major requirements.
+
+## Required Courses, Lower-Division
+
+---
+
+- MATH 114xg Foundations of Statistics Units: 4 *
+- PSYC 100Lg Introduction to Psychology Units: 4
+- PSYC 274Lg Statistics Units: 4 **
+
+### Note:
+
+---
+
+*At least one math course of 2.67 units or more is required. MATH 114x (or MATH 208x or MATH 265 ) is required. Students with a strong math background may profit from a more advanced class.
+
+## Thirty-two upper-division psychology units are required, including:
+
+---
+
+### Required Courses, Upper-Division
+
+---
+
+- PSYC 314L Experimental Research Methods Units: 4 **
+- PSYC 316L Non-Experimental Research Methods Units: 4
+
+#### Note:
+
+---
+
+**It is recommended that no more than two upper-division psychology courses be taken prior to the completion of PSYC 274L and PSYC 314 .
+
+### One course from each of four of the following five lists is also required:
+
+---
+
+#### Cognitive
+
+---
+
+- PSYC 301L Cognitive Processes Units: 4
+- PSYC 305 Learning and Memory Units: 4
+
+#### Developmental
+
+---
+
+- PSYC 336L Developmental Psychology Units: 4
+- PSYC 337L Adult Development and Aging Units: 4
+- PSYC 339Lg Origins of the Mind Units: 4
+
+#### Clinical
+
+---
+
+- PSYC 360 Psychological Disorders Units: 4
+- PSYC 361 Introduction to Clinical Psychology Units: 4
+- PSYC 367g Stress, Health, and the Mind-Body Connection Units: 4
+
+#### Biological
+
+---
+
+- PSYC 304L Sensation and Perception Units: 4
+- PSYC 326 Behavioral Neuroscience Units: 4
+- PSYC 372 Human Sexuality Units: 4
+- PSYC 420 Animal Behavior Units: 4
+
+#### Social
+
+---
+
+- PSYC 355 Social Psychology Units: 4
+- PSYC 353g Close Relationships Units: 4
+
+## Additional Requirements
+
+---
+
+Two 400-level psychology courses other than 490x totaling 8 units are also required. PSYC 420 may not count toward this requirement if used to satisfy the biological category above.
+
+An additional psychology course, either upper- or lower-division of at least 2.67 units is required.
+
+---

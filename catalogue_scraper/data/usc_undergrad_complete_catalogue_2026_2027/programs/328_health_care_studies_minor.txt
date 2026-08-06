@@ -1,0 +1,106 @@
+Program Name: Health Care Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32201
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32201&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32201
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:06:50Z
+Content SHA-256: 44aa0c86aacd295ccc2691c7f39d475a3d9ef165820315d1e4616caab7da2bfc
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Health Care Studies Minor
+
+---
+
+The Keck minor in Health Care Studies is designed for undergraduates who wish to pursue a postgraduate career in health care or health care related fields. Students are exposed to course work and skills that are practical and relevant for a future career in health care. The minor brings together course work that explores health care both in the classroom and in clinical settings. Students are given practical hands-on activity and experiences in research laboratories, hospitals, the simulation lab, the cadaver lab and other unique settings not typically offered at an undergraduate level.
+
+The 20-unit minor in Health Care Studies will:
+
+1. Provide instruction in domains identified as prerequisite competencies for health professions education.
+2. Provide content related to contemporary issues in health care.
+3. Provide students with an introduction to clinical care.
+4. Demonstrate the importance of scientific research and its applications to clinical practice.
+
+## Required Courses (8 Units)
+
+---
+
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+- MEDS 220 Healthcare Foundations: Core Concepts and Terminology Units: 2
+- MEDS 225 Introduction to Professionalism and the Practice of Medicine Units: 2
+
+## Electives (12 units)
+
+---
+
+Students must choose a minimum of 12 units from any of the following lists.
+
+### Essential/Contemporary Topics in Health Care
+
+---
+
+- MEDS 260 Challenges in the Forefront of Biomedical Ethics Units: 2
+- MEDS 280 The History of Medicine: a Doctor’s Perspective Units: 2
+- MEDS 405 Health Care Systems: A Doctor’s Perspective Units: 2
+- MEDS 455 Integrative Health Care Units: 2
+
+### Science and Medicine
+
+---
+
+- BISC 312x Molecular Biochemistry Units: 4
+- CHEM 350 Molecular Principles of Biochemistry Units: 4
+- HBIO 301L Human Anatomy Units: 4
+- MEDS 305 The Molecular Basis of Disease: A Case-Based Approach Units: 4
+- MEDS 315 Human Anatomy, Physiology, and the Technology of Medicine Units: 2
+- MEDS 330 Bionics: Solutions to Enable the Disabled Units: 2
+- MEDS 335 Human Development: From Stem to Sternum Units: 2
+- MEDS 340 The Brain in Health and Disease Units: 2
+- MEDS 350 Neurochemistry of Addiction: Drugs, Brain, and Behavior Units: 2
+- MEDS 355 Skeletal Biology and Pathology Units: 2
+- MEDS 425 Medical Examiner-Coroner: Investigating Death Units: 2
+- SCRM 380 Stem Cells: Fact and Fiction Units: 2
+
+### Topics in Clinical Medicine
+
+---
+
+- MEDS 320 Human Cadaveric Anatomy Units: 4
+- MEDS 370 Organ Failure: Non-Communicable Chronic Disease Units: 2
+- MEDS 420 Human Development: Birth to Adolescence Units: 2
+- MEDS 425 Medical Examiner-Coroner: Investigating Death Units: 2
+- MEDS 440 Introduction to Surgical Principles Units: 2
+- MEDS 445 Cancer: Biology, Prevention and Therapy from the Bench to the Bedside Units: 4
+- MEDS 450 OB/GYN: The Medicine and Surgery of Reproduction Units: 2
+- MEDS 460 Emergency Health Care Units: 2
+- MEDS 465 Wilderness and Survival Medicine Units: 4
+- MEDS 495 Social Emergency Medicine: Practicum with the CHLA CHAT Team Units: 2, 4
+- MEDS 499 Special Topics Units: 1, 2, 3, 4, 5, 6, 7, 8
+
+### Biomedical Research
+
+---
+
+- MEDS 300g Statistical Methods for Biomedical Research Units: 4
+- MEDS 360 Bench to Bedside: Application of the Basic Sciences Units: 2
+- MEDS 490x Directed Research in Biomedical Science Units: 2, 4, 6
+
+### Health Care Innovation
+
+---
+
+A maximum of 4 units from the following courses may count if enrolled in the Health Innovation Minor offered by the Iovine and Young Academy.
+
+- ACAD 260 Introduction to Healthcare Innovation Units: 4
+- ACAD 422 Cybersecurity, Privacy and Trust in Connective Healthcare Units: 4
+- ACAD 431 Devices and Systems for Body Computing Units: 4
+- ACAD 432 Collaborative Prototyping in Health Innovation Units: 4
+
+---

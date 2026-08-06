@@ -1,0 +1,111 @@
+Program Name: Visual Culture Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31712
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31712&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31712
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:30Z
+Content SHA-256: aa67ffd96a4117bf2727b36ca9ff9b4104719758e543bf2c03b2b4facbdcaef5
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Visual Culture Minor
+
+---
+
+More than ever, students of today need the critical skills and intellectual breadth required to describe, analyze, and evaluate visual culture, which encompasses a broad range of visual material, artifacts, and media. Courses within the minor are organized around two foundational questions: how do we understand the production, dissemination, and consumption of visual media?; what do the objects of visual culture tell us about the experience and expression of cultural and social diversity?
+
+The minor is open to all undergraduate majors and is especially relevant for those whose fields employ visual images to convey ideas as well as information. The minor will complement pre-professional majors (such as those in film) as well as in the humanities and social sciences.
+
+## Foundational Requirements (8 units):
+
+---
+
+- AHIS 100g Introduction to Visual Culture Units: 4
+
+### Select one of the following:
+
+---
+
+- AHIS 201g Digging into the Past Units: 4
+- AHIS 215g Studies in Architecture and Urbanism Units: 4
+- AHIS 220g Medieval Visual Culture Units: 4
+- AHIS 230 Art and Culture in Early Modern Europe Units: 4
+- AHIS 240g Introduction to American Art Units: 4
+- AHIS 250gm Art, Modernity and Difference Units: 4
+- AHIS 255g Culture Wars: Art and Social Conflict in the Modern World Units: 4
+- AHIS 270 L.A. Now: Contemporary Art in Los Angeles Units: 4
+- AHIS 282 Korean Art Units: 4
+
+## Additional Requirements (16 units)
+
+---
+
+Four courses to be selected. A maximum of two critical electives (8 units) from outside the Art History Department may be used to satisfy these additional requirements.
+
+- AHIS 304gm Art, Power and Identity in Renaissance Italy Units: 4
+- AHIS 319 Mesoamerican Art and Culture Units: 4
+- AHIS 320 Aegean Archaeology Units:
+- AHIS 321 Greek Art and Archaeology Units: 4
+- AHIS 322 Roman Art and Archaeology Units: 4
+- AHIS 324 Late Antique Art and Archaeology Units: 4
+- AHIS 325 Roman Archaeological Excavation: Methods and Practice Units: 4
+- AHIS 363m Contemporary Art and the Culture Wars Units: 4
+- AHIS 364 Myths, Arts, Realities: Visual Culture in California, 1849 to the Present Units: 4
+- AHIS 365m African American Art Units: 4
+- AHIS 366g Picturing Democracy: American Art and Visual Culture, 1750-1900 Units: 4
+- AHIS 367g Early American Modernism: American Art and Visual Culture, 1876-1939 Units: 4
+- AHIS 370g Modern Art III: 1940 to the Present Units: 4
+- AHIS 376 Introduction to African Art Units: 4
+- AHIS 378 Modern Russian Art Units: 4
+- AHIS 381g Visual Cultures of Asia Units: 4
+- AHIS 382 Art and Cultural Heritage in East Asia Units: 4
+- AHIS 415 Object-Worlds: Histories and Theories of Things Units: 4
+- AHIS 425 Interdisciplinary Studies in Classical Art and Archaeology: Research and Methodology Units: 4
+- AHIS 427 Archaeological Theories, Methods, and Practice Units: 4
+- AHIS 429 Studies in Art, Science, and Technology Units: 4
+- AHIS 449 History of Prints and Drawings Units: 4
+- AHIS 465 Studies in American Art Units: 4
+- AHIS 466 Studies in the Decorative Arts and Design Units: 4
+- AHIS 469 Critical Approaches to Photography Units: 4
+- AHIS 470 Studies in Contemporary Art Units: 4
+- AHIS 475m Blackness in American Visual Culture Units: 4
+- AHIS 477 Studies in Visual and Material Culture Units: 4
+- AHIS 482 Japanese Photography Units: 4
+- AHIS 486 Introduction to Museums: Past, Present, and Future Units: 4
+- AHIS 488 Topics in Art Conservation Units: 4
+- AHIS 498 The Gods and Goddesses of the Renaissance Units: 4
+- ANTH 263g Exploring Culture through Film Units: 4
+- ARCH 442m Women’s Spaces in History: “Hussies,” “Harems” and “Housewives” Units: 4
+- COLT 365 Literature and Popular Culture Units: 4
+- COLT 480 Dada and Surrealism Units: 4
+- COMM 384 Interpreting Popular Culture Units: 4
+- COMM 395m Gender, Media and Communication Units: 4
+- COMM 450 Visual Culture and Communication Units: 4
+- COMM 458m Race and Ethnicity in Entertainment and the Arts Units: 4
+- COMM 465m Gender in Media Industries and Products Units: 4
+- CTCS 192mg Race, Class, and Gender in American Film Units: 4
+- CTCS 392 History of American Cinema to 1960 Units: 4
+- CTCS 393 Topics in Historical Cinema and Media Units: 4
+- CTCS 394 History of American Cinema since 1960 Units: 4
+- CTCS 400 Documentary Film and Media Units: 4
+- CTCS 404 Television and Cultural Criticism Units: 4
+- CTCS 412 Gender, Sexuality and Media Units: 4
+- FREN 320g The French New Wave and its Legacy Units: 4
+- HIST 225g Film, Power, and American History Units: 4
+- HIST 245mgp How Sex Changed: US History, 1870-the Present Units: 4
+- HIST 380 American Popular Culture Units: 4
+- HIST 381 Cinema and History Units: 4
+- HIST 481 Producing Film Histories Units: 4
+- PHIL 446 Aesthetics and the Film Units: 4
+
+## Total units required: 24
+
+---
+
+---

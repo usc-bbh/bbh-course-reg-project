@@ -1,0 +1,84 @@
+Program Name: Philosophy of Law, Politics and Economics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32667
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32667&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32667
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:59Z
+Content SHA-256: 71d81843a4bffeb3bdfd88efa5c01278963cdd93017f83e838c776d03044ad0d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Philosophy of Law, Politics and Economics Minor
+
+---
+
+The Philosophy of Law, Politics and Economics minor requires a minimum of five courses, at least three of which must be philosophy courses, and at least four of which must be upper-division. Students must complete one course in Logic, and at least one course from each of the following three categories: Philosophy and Economics, Philosophy and Politics, Philosophy and Law.
+
+## Logic
+
+---
+
+Students must complete one course from this category.
+
+- PHIL 220 Introduction to Logic Units: 4
+- PHIL 222g Logic and Language Units: 4
+- PHIL 350 Intermediate Logic Units: 4
+- PHIL 450 The Limits of Logic Units: 4
+- PHIL 452 Modal Logic Units: 4
+
+## Philosophy and Economics
+
+---
+
+Students must complete at least one course from this category.
+
+- PHIL 101g Free People, Free Thought and Free Markets Units: 4
+- PHIL 311 The Quest for the Individual in Early Modern Europe Units: 4
+- PHIL 314 Origins of Free Market Thought in Early Modern Europe Units: 4
+- PHIL 339 Philosophy of Economics Units: 4
+- ECON 203g Principles of Microeconomics Units: 4
+- ECON 238xg Political Economy and Social Issues Units: 4
+
+## Philosophy and Politics
+
+---
+
+Students must complete at least one course from this category.
+
+- PHIL 103g Philosophy, Politics and Economics in Europe, from Renaissance to Enlightenment Units: 4
+- PHIL 174gw Freedom, Equality, and Social Justice Units: 4
+- PHIL 258g Probability and Rational Choice Units: 4
+- PHIL 337 Political Philosophy Units: 4
+- PHIL 437 Social and Political Philosophy Units: 4
+- PHIL 440 Contemporary Ethical Theory Units: 4
+- POSC 130g Law, Politics and Public Policy Units: 4
+- POSC 370 European Political Thought I Units: 4
+- POSC 371 European Political Thought II Units: 4
+- POSC 375 American Political Thought Units: 4
+- POSC 380 Political Theories and Social Reform Units: 2, 4
+- POSC 476 Contemporary Political Thought Units: 4
+- POSC 479 Critical Issues in Political Thought Units: 4
+
+## Philosophy and Law
+
+---
+
+Students must complete at least one course from this category.
+
+- LAW 210p Fundamentals of the U.S. Legal System Units: 4
+- PHIL 178gw Moral Dilemmas in the Legal Domain Units: 4
+- PHIL 430 Philosophy of Law Units: 4
+- PHIL 431 Law, Society, and Politics Units: 4
+- POSC 340 Constitutional Law Units: 4
+
+## Minimum Units Required: 20
+
+---
+
+---

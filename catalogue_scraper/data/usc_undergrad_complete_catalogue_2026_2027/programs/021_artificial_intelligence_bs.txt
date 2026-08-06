@@ -1,0 +1,215 @@
+Program Name: Artificial Intelligence (BS)
+Credential: BS
+School or Academic Unit: USC Viterbi School of Engineering. The minimum requirement for the degree is 128
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32917
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32917&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32917
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:43Z
+Content SHA-256: 43a60fa9deb58e52089b19d7bd5abfae4a87614270f4d82c65d3f90b9433fa71
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Artificial Intelligence (BS)
+
+---
+
+The undergraduate program in artificial intelligence is an interdisciplinary program leading to the Bachelor of Science in Artificial Intelligence. This is a program that spans the Thomas Lord Department of Computer Science, the Ming Hsieh Department of Electrical and Computer Engineering, and the Daniel J. Epstein Department of Industrial and Systems Engineering. The program is designed to provide both an academic and professional orientation.
+
+General admission requirements for the undergraduate program are the same as those of the university and the USC Viterbi School of Engineering. The minimum requirement for the degree is 128 units.
+
+A grade of C (2.0) or better is required for each of the core courses CSCI 113x , CSCI 114x , CSCI 170 , and the Mathematical Foundations courses. Courses with a grade of C– or below must be repeated; courses may only be retaken once. Corresponding departmental approval is required in order to retake a course. Students who do not satisfy the degree requirement after repeating a class will be disqualified from this program.
+
+A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper division courses applied toward the major, regardless of the department in which the courses are taken. Candidates must complete general education requirements; see the General Education Program.
+
+## Composition/Writing Requirements (8 units)*
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+## General Education (20 units)
+
+---
+
+General Education (20 units)
+
+## Pre-Major Requirements (28 units)
+
+---
+
+In addition to the 20 units of general education requirements above, the GE-D, GE-E, and GE-F general education requirements are satisfied by the Biology, Physics, and Mathematics pre-major requirements, respectively.
+
+### Engineering (4 units)
+
+---
+
+- ENGR 102 Viterbi First-Year Academy Units: 2
+- ENGR 103 Artificial Intelligence: An Introduction Units: 2
+
+### Mathematical Foundations (16 units)**
+
+---
+
+- EE 141L Applied Linear Algebra for Engineering Units: 4
+- MATH 125g Calculus I Units: 4
+-
+- MATH 126g Calculus II Units: 4 or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 226g Calculus III Units: 4 or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+- MATH 129 and MATH 229 are the recommended Calculus II and III sequence for the BS AI program.
+
+### Basic Science (8 units)
+
+---
+
+#### Biology Requirement (4 units)
+
+---
+
+Take one of the following courses:
+
+- BISC 104Lgx How the Body Works Units: 4
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+- BISC 230Lgx The Biology of the Brain Units: 4
+- HBIO 205Lgx The Science of Sport Units: 4
+- PHIL 246Lg Foundations of Cognitive Science Units: 4
+
+#### Physics Requirement (4 units)
+
+---
+
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 or
+- PHYS 161Lg Advanced Principles of Physics I Units: 4
+
+## Core Lower-Division Requirements (30 units)
+
+---
+
+### Programming and Discrete Methods (12 Units)***
+
+---
+
+- CSCI 113x Programming Fundamentals for Computing Units: 4
+- CSCI 114x Programming for Applications of Computing Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+
+### Probability and Statistics (8 units)
+
+---
+
+- ISE 220 Foundations of Probability Modeling Units: 4
+- ISE 225 Foundations of Data Analysis Units: 4
+
+### Embedded Systems (4 units)
+
+---
+
+- EE 109L Introduction to Embedded Systems Units: 4
+
+### AI Core (6 units)
+
+---
+
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4
+- ENGR 203 Artificial Intelligence: Exploration in Current Applications Units: 2
+
+## Upper-Division Requirements (16 units)
+
+---
+
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4
+-
+- CSCI 467 Foundations of Machine Learning Units: 4 or
+- EE 460 Machine Learning for Engineers Units: 4
+-
+- EIS 370 Ethical Issues in Artificial Intelligence Units: 4
+- ISE 330 Optimization Units: 4
+
+## Choose one of the following three tracks (24 units)
+
+---
+
+### Computing Foundations and Applications Track
+
+---
+
+- CSCI 201 Principles of Software Development Units: 4
+- CSCI 401 Capstone: Design and Construction of Large Software Systems Units: 4
+
+#### Choose four of the following classes (16 units):
+
+---
+
+- CSCI 444 Language Models in Natural Language Processing Units: 4
+- CSCI 445L Foundations of Robotics Units: 4
+- CSCI 452 Parallel and Distributed Computation Units: 4
+- CSCI 461 Artificial Intelligence for Sustainable Development Units: 4
+- CSCI 468 Trustworthy Artificial Intelligence Units: 4
+- CSCI 469 Computer Vision Units: 4
+- EE 456 Reinforcement Learning and Applications Units: 4
+
+### Hardware Systems for AI Track
+
+---
+
+- EE 250L Distributed Systems for the Internet of Things Units: 4
+- EE 354L Digital Circuits Units: 4
+- EE 461 Machine Learning with Distributed Computing Systems Units: 4
+- EE 462L Hardware Design and Optimization for Machine Learning Units: 4
+- EE 496 Capstone Design Units: 4
+
+#### Choose one of the following (4 units)
+
+---
+
+- EE 451 Parallel and Distributed Computation Units: 4
+- EE 454L System-on-Chip Units: 4
+- EE 456 Reinforcement Learning and Applications Units: 4
+- EE 457 Computer Systems Organization Units: 4
+- EE 477L MOS VLSI Circuit Design Units: 4
+
+### AI Systems and Operations Engineering Track
+
+---
+
+- ISE 227 Enterprise Process Engineering Units: 4
+- ISE 325 Modeling for Predictive Analytics Units: 4
+- ISE 382 Database Systems: Storage and Retrieval using SQL Units: 4
+- ISE 430 Advanced Analytics Units: 4
+- ISE 480 Data Engineering Units: 4
+
+#### Choose one of the following (4 units)
+
+---
+
+- ISE 315L Engineering Project Management Units: 4
+- ISE 435L Discrete Systems Simulation Units: 4
+- ISE 440 Socio-Technical Systems and Work Organizations Units: 4
+- ISE 470 Human/Computer Interface Design Units: 4
+
+## Free Elective (2 units)
+
+---
+
+## Total Units: 128
+
+---
+
+* A WRIT 340 section entitled “Advanced Writing Communication for Engineers” is strongly recommended for BS AI majors.
+
+** A grade of C (2.0) or better is required. Courses with a grade of C- or below must be repeated; courses may only be retaken once.
+
+*** A grade of C (2.0) or better is required. Courses with a grade of C- or below must be repeated; courses may only be retaken once. Students transferring into this program after the first year may petition for other programming sequences or a different linear algebra class to substitute for the required courses.
+
+---

@@ -1,0 +1,107 @@
+Program Name: Media Arts and Practice (BA)*
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31669
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31669&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31669
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:47Z
+Content SHA-256: 9f940f396e7daa1423e27a21ada5e180ec89e595aa90d06419624214eecc4be3
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Media Arts and Practice (BA)*
+
+---
+
+The Bachelor of Arts in Media Arts and Practice is a hybrid theory/practice program integrating creative and critical approaches to the history, theory and practice of digital media in the 21st century. Students learn how to work with a broad spectrum of media-making tools, including video, sound, graphic design and interactive media, while also exploring the relationships among media forms, emerging technologies, and culture. Students explore an array of methods, including worldbuilding, design fiction and critical making, as well as how to integrate research and creativity while working with faculty mentors in SCA’s varied research labs. The Media Arts and Practice major is ideal for students who are innovative storytellers eager to explore a full range of cinematic techniques and platforms; who are committed to making a positive difference in the world; and who will use their skills across diverse fields after graduation.
+
+## Program Requirements
+
+---
+
+A total of 66 units is required to complete the major. All courses must be taken for a letter grade.
+
+## Core Studio Courses
+
+---
+
+- CNTV 101 Reality Starts Here Units: 2
+- CTCS 150gw The Cinematic Arts in Society Units: 4
+- IML 201 The Languages of Digital Media Units: 4
+- IML 202 Media Arts and Practice Studio I Units: 4
+- IML 203 Media Arts and Practice Studio II Units: 4
+- IML 295Lm Identity, Power, and Digital Culture Units: 4
+- IML 310 Professionalism for Media Arts Units: 2
+- IML 346 Methods in Digital Research Units: 2
+- IML 440 Thesis Studio Units: 4
+- IML 466 Digital Studies Symposium Units: 2
+
+## Platform-Specific Courses
+
+---
+
+- IML 230 Introduction to Visual Design Units: 4
+- IML 288 Introduction to Creative Coding Units: 4
+- IML 300 Introduction to Creative Web Programming Units: 4
+- IML 328 Introduction to Sound Units: 2
+- IML 335 Introduction to Video Units: 2
+- IML 354 Introduction to 3-D Modeling Units: 2
+- Choose 8 units from the following courses:
+- IML 400 Advanced Platform: Creative Coding and Web Design Units: 4
+- IML 404 Advanced Platform: Tangible and Spatial Computing Units: 4
+- IML 428 Advanced Platform: Sound Units: 4
+- IML 430 Advanced Platform: Visual Design Units: 4
+- IML 435 Advanced Platform: Video Units: 4
+- IML 436 Advanced Platform: Hypercinemas Units: 4
+- IML 454 Advanced Platform: 3-D Design Units: 4
+- IML 481 Advanced Platform: Mixed Realities Units: 4
+
+## Media Arts Electives
+
+---
+
+This requirement allows students to expand their inquiry into media arts as a discipline. Choose 8 units from the following courses:
+
+- IML 419 Emotion in Digital Culture Units: 4
+- IML 418 Sensory Design Units: 4
+- IML 420m New Media for Social Change Units: 4
+- IML 421 Designing and Writing for Transmedia Narratives Units: 4
+- IML 422 Information Visualization Units: 4
+- IML 423 Remixing the Archive Units: 4
+- IML 424 The Music Festival Experience Units: 4
+- IML 425 Narrative Across Media Units: 4
+- IML 427 DIY Music Videos from Critique to Creation Units: 4
+- IML 450 Critical Play and Documentary Games Units: 4
+- IML 452 Integrative Design for Mobile Devices Units: 4
+- IML 453 Design Fiction and Speculative Futures Units: 4
+- IML 455 Future Cinema Units: 4
+- IML 456 Nature, Design and Media Units: 2
+- IML 458 The Embedded Story: Designing Digital Landscapes and Languages Units: 2
+- IML 460 AI and Creativity Units: 4
+- IML 475 Media Arts Research Lab Units: 2, 3, 4
+- IML 477 Embodied Storytelling and Immersive Docu-Narratives Units: 4
+- IML 493 Creativity and Wellbeing Units: 2, 4
+- IML 499 Special Topics Units: 2, 3, 4
+
+## Additional Requirements
+
+---
+
+### Thesis Sequence
+
+The media arts and practice major culminates in a digital thesis project that students research, develop and construct during their senior year. These projects will engage a key issue faced by contemporary media arts practitioners and will represent the convergence of conceptual excellence and digital innovation.
+
+### Grade Point Average Requirements
+
+A minimum grade of C (2.0) must be earned in all required and prerequisite courses. A grade of C- (1.7) or lower will not satisfy a major requirement.
+
+### Curriculum Review
+
+Media arts and practice majors are expected to meet with an academic adviser every semester to review their progress. Contact the Media Arts and Practice program at map@cinema.usc.edu for an appointment.
+
+---

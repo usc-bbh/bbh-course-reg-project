@@ -1,0 +1,81 @@
+Program Name: Italian (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31812
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31812&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31812
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:19Z
+Content SHA-256: f21494a18ac3486267df0e4103ff3eb53f5166b49335b9b99036a0364e714774
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Italian (BA)
+
+---
+
+The upper-division requirements include one core course plus an additional five courses to be selected in consultation with the department adviser (no more than three of which may be in English). Of the additional five courses, at least two must be at the 400 level.
+
+## Required Courses — Lower Division
+
+---
+
+Some or all of these courses may be waived by examination.
+
+- ITAL 120 Italian I Units: 4
+- ITAL 150 Italian II Units: 4
+- ITAL 220 Italian III Units: 4
+- ITAL 240 Italian IV Units: 4
+
+## Upper Division (6 Courses)
+
+---
+
+No more than three courses conducted in English may be counted toward the major.
+
+### Core courses:
+
+---
+
+Students may choose either ITAL 300g or ITAL 350g .
+
+- ITAL 300g Inventing Modern Italy Units: 4 (in English) or
+- ITAL 350g Gender and Sexuality in Renaissance Italy Units: 4 (in English)
+- Students may take the Core course as early as their first semester of Italian and are strongly encouraged to complete it before enrolling in any 400-level course.
+
+### Five upper-division Italian courses to be chosen from the following:
+
+---
+
+- ITAL 300g Inventing Modern Italy Units: 4
+- ITAL 340g Italian and French Cinema and Society Units: 4
+- ITAL 345 Contemporary Italy Units: 4
+- ITAL 347 Italy Today: Youth, Family and Migration Units: 4
+- ITAL 350g Gender and Sexuality in Renaissance Italy Units: 4
+- ITAL 352 The Holocaust in Italian Fiction and Film Units: 4
+- ITAL 360g Italian Cinema Units: 4
+- ITAL 374gm Women Writers in Europe and America Units: 4
+- ITAL 380 Italian Women Writers Units: 4 (in Italian)
+- ITAL 381 Storytelling in the Italian Tradition Units: 4
+- ITAL 382g Dante Units: 4
+- ITAL 392 Seminar in Literary and Cultural Studies Units: 4
+- ITAL 393 Seminar in Italian Thought Units: 4
+- ITAL 401 Studies in Early Modernity Units: 4
+- ITAL 402 Studies in Modernity Units: 4 (in Italian)
+- ITAL 403 Black Italy Units: 4 (in Italian)
+- ITAL 440 Futurism and Fascism in Italy Units: 4 (in Italian)
+- ITAL 461 Italian Theatre Units: 4 (in Italian)
+- ITAL 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- ITAL 499 Special Topics Units: 1, 2, 3, 4, 5, 6, 7, 8 , max 8
+
+## Honors Program
+
+---
+
+The BA in Italian with Honors is available to students who have an overall GPA of 3.0 and a GPA of at least 3.5 in courses counted for major credit. To complete the Honors Program the student must complete three 400-level courses and write an honors thesis of 25–30 pages in Italian in one of the 400-level courses. The topic of the thesis must be agreed upon with the instructor.
+
+---

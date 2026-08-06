@@ -1,0 +1,64 @@
+Program Name: Applied AI in Business Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32945
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32945&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32945
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:16Z
+Content SHA-256: c514214d0351b1fb91284b4804a2658eab9d07d56a14072bdefa32aacf1a93ba
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Applied AI in Business Minor
+
+---
+
+This minor helps students in any profeessional path develop practical, career-ready AI skills and shape how these technologies are used in the real world.
+
+Students develop the ability to recognize where AI can create genuine value, design AI-enabled solutions to complex problems, and communicate insights to inform decision-making. They learn how to lead AI adoption in ways that align with organizational and personal values, while maintaining stakeholder trust. The curriculum emphasizes applied learning, encouraging students to engage with AI as a tool for solving real challenges across industries. Graduates will be able to contribute immediately in AI-enabled environments and to guide the thoughtful adoption of emerging technologies over time.
+
+##### Requirements for Admission
+
+To declare this minor, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of 2.75.
+
+##### Degree Requirements
+
+Successful completion of the Applied AI in Business minor requires 16 units with a minimum combined GPA of 2.0 in the courses applied to the minor.
+
+## Required Courses
+
+---
+
+Complete the following courses (8 units):
+
+- DSO 461 Responsible AI Leadership for Business Applications Units: 4
+- MOR 458 AI Technology Strategic Management Units: 2, 4
+- (4 units required for this program)
+
+## Electives
+
+---
+
+Complete two of the following courses (8 units):
+
+- BUAD 301 Technology Entrepreneurship Units: 3, 4
+- (4-unit version recommended for this program)
+- BUCO 436 Leading with AI: Digital Media and Strategic Communication Units: 4
+- BUCO 437 Signals, Trends & AI: The Future of Business Communication Units: 4
+- DSO 431 Digital Innovation as Competitive Advantage Units: 4
+- DSO 433 Designing Digital Processes and User Experience with AI Units: 4
+- DSO 463 AI Applications: The Technology and The Product Units: 4
+- MKT 333 Innovation Economics and Business: Beer, AI and Video Games Units: 4 *
+- MKT 402 Introduction to Marketing Analytics Units: 4
+- MKT 457 AI and Technology: Behavioral Insights for Marketing Units: 4
+- MOR 454 Applied Product Management and Leadership Units: 4
+- MOR 457 Adaptive Leadership for a Complex World Units: 4
+- * Prerequisite required that is not included in this program.
+- Return to: USC Marshall School of Business
+
+---

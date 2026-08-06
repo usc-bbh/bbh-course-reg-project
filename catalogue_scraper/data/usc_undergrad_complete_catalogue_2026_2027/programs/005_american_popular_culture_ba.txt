@@ -1,0 +1,150 @@
+Program Name: American Popular Culture (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32471
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32471&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32471
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:07Z
+Content SHA-256: 40420b4b3ece9ada3d780c5e18399b1ca3bf0d92b337ad4acf4d6150fa8c8bde
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# American Popular Culture (BA)
+
+---
+
+The interdisciplinary major in American Popular Culture helps students to assess from a variety of perspectives the icons and ideas they encounter every day, to think critically about the images and assertions of the mass media and commercial culture, and to see the experience of popular culture as it interacts with questions of gender and ethnicity in the American context. Students choose two core classes, four upper-division classes, and four elective classes (including one upper-division elective), from a curriculum organized to explore: critical approaches to popular culture; gender and ethnicity in American popular culture; and popular culture in the arts. Forty units are required, with a minimum of 24 at the upper-division level.
+
+## Lower-Division Core Requirement
+
+---
+
+Choose one lower-division course (4 units).
+
+- AMST 205g Introduction to American Popular Culture Units: 4
+- AMST 206gm The Politics and Culture of the 1960s Units: 4
+- AMST 285gm African American Popular Culture Units: 4
+
+## Senior Core Requirement
+
+---
+
+Choose one senior course based on departmental offerings (4 units).
+
+- AMST 492 Research Methods in American Studies and Ethnicity Units: 4
+- AMST 493 Senior Capstone Experience in American Studies and Ethnicity Units: 4
+- AMST 498 Senior Seminar in American Studies and Ethnicity Units: 4
+- Note: Honors students will complete an Honors Thesis in their senior core course.
+
+## Upper-Division Requirements
+
+---
+
+Choose four courses (16 units), at least one from each of the groups below.
+
+### Critical Approaches to Popular Culture
+
+---
+
+- AMST 301gp America, the Frontier, and the New West Units: 4
+- COLT 365 Literature and Popular Culture Units: 4
+- COMM 384 Interpreting Popular Culture Units: 4
+- ENGL 392 Visual and Popular Culture Units: 4
+- HIST 380 American Popular Culture Units: 4
+
+### Gender and Ethnicity in American Popular Culture
+
+---
+
+- AMST 325gw The Middle East in Hollywood Units: 4
+- AMST 330m Black Music and the Political Imagination Units: 4
+- AMST 343 Food, Health and Culture in Los Angeles Units: 4
+- AMST 357m Latino Social Movements Units: 4
+- AMST 365 Leadership in the Community — Internship Units: 4
+- AMST 385 African American Culture and Society Units: 4
+- AMST 395m African American Humor and Culture Units: 4
+- AMST 448m Chicano and Latino Literature Units: 4
+- AMST 449m Asian American Literature Units: 4
+- ENGL 343m Images of Women in Contemporary Culture Units: 4
+
+### Popular Culture in the Arts
+
+---
+
+- AHIS 363m Contemporary Art and the Culture Wars Units: 4
+- AHIS 370g Modern Art III: 1940 to the Present Units: 4
+- AMST 305 Art and Performance in the Americas Units: 4
+- AMST 446 Latinx Music in the Americas Units: 4
+- CTCS 392 History of American Cinema to 1960 Units: 4
+- CTCS 393 Topics in Historical Cinema and Media Units: 4
+- CTCS 394 History of American Cinema since 1960 Units: 4
+- ENGL 371g Literary Genres and Film Units: 4
+- ENGL 375 Science Fiction Units: 4
+- ENGL 381 Narrative Forms in Literature and Film Units: 4
+- HIST 481 Producing Film Histories Units: 4
+- MUJZ 419m The Jazz Experience: Myths and Culture Units: 4
+- MUSC 422 The Beatles: Their Music and Their Times Units: 4
+
+## Electives
+
+---
+
+Choose four additional courses (16 units) from the lists above or below. One must be an upper-division course in a department you have not already chosen for the major.
+
+- AHIS 100g Introduction to Visual Culture Units: 4
+- AHIS 250gm Art, Modernity and Difference Units: 4
+- AHIS 255g Culture Wars: Art and Social Conflict in the Modern World Units: 4
+- AHIS 270 L.A. Now: Contemporary Art in Los Angeles Units: 4
+- AHIS 364 Myths, Arts, Realities: Visual Culture in California, 1849 to the Present Units: 4
+- AHIS 365m African American Art Units: 4
+- AHIS 370g Modern Art III: 1940 to the Present Units: 4
+- AMST 274mw Exploring Ethnicity through Film Units: 4
+- ANTH 240gm Representing 9/11 and Hurricane Katrina Units: 4
+- ANTH 263g Exploring Culture through Film Units: 4
+- ANTH 380 Sex and Gender in Anthropological Perspective Units: 4
+- ANTH 470 Multimodal Methods in Visual Anthropology Units: 4
+- COMM 206 Communication and Culture Units: 4
+- COMM 307 Sound Clash: Popular Music and American Culture Units: 4
+- COMM 310 Media and Society Units: 4
+- COMM 312 The Business and Culture of Celebrity Units: 4
+- COMM 360 Los Angeles: Communication and Culture Units: 4
+- COMM 366 Designing Media for Social Change Units: 4
+- COMM 371 Media Censorship and the Law Units: 4
+- COMM 384 Interpreting Popular Culture Units: 4
+- COMM 396g Fashion, Media and Culture Units: 4
+- COMM 413 Propaganda, Ideology and Public Controversy Units: 4
+- COMM 415m African American Rhetoric and Image Units: 4
+- COMM 426 Religion, Media and Hollywood: Faith in TV Units: 4
+- COMM 432 American Media and Entertainment Industries Units: 4
+- COMM 456 Entertainment, Marketing and Culture Units: 4
+- COMM 458m Race and Ethnicity in Entertainment and the Arts Units: 4
+- COMM 465m Gender in Media Industries and Products Units: 4
+- CRIT 371 Art in the Public Realm: Contemporary Issues Units: 4
+- CTCS 192mg Race, Class, and Gender in American Film Units: 4
+- CTCS 403 Studies in National and Regional Media Units: 4
+- CTCS 404 Television and Cultural Criticism Units: 4
+- CTCS 406 History of American Television Units: 4
+- CTCS 407 African American Cinema Units: 4
+- CTCS 408 Contemporary Political Film and Digital Media Units: 4
+- CTCS 409 Censorship in Cinema Units: 4
+- CTCS 411 Film, Television and Cultural Studies Units: 4
+- CTCS 412 Gender, Sexuality and Media Units: 4
+- CTCS 414 Latina/o Screen Cultures Units: 4
+- CTCS 462 Video Game Franchises Units: 4
+- CTCS 478 Culture, Technology and Communications Units: 4
+- DANC 212g Dance in Popular Culture Units: 4
+- DANC 302g Hip Hop Don’t Stop: Black Social Dance Culture and Media Units: 4
+- ENGL 341 Women in English Literature before 1800 Units: 4
+- ENGL 342g Women in English and American Literature after 1800 Units: 4
+- JOUR 467 Gender and the News Media Units: 4
+- SOCI 342m Race Relations Units: 4
+- SOCI 410 The Sociology of Popular Culture Units: 4
+- THTR 488mw Theatre in the Community Units: 4
+- THTR 295 Theatre in Los Angeles Units: 2 (4 units required)
+
+---

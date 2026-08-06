@@ -1,0 +1,60 @@
+Program Name: Environmental Science and Health (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31805
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31805&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31805
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:12Z
+Content SHA-256: 991523b3289aeee55d6d5a251332c988cc5ec3845b12d2963a81f99f49a6aa86
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Environmental Science and Health (BA)
+
+---
+
+The Environmental Science and Health BA degree combines interdisciplinary courses on sustainability with traditional biology and chemistry content to provide options for students preparing for one of the health professions with an undergraduate emphasis on environmental sustainability. The Environmental Science and Health BA degree may be appropriate for students preparing for other graduate or professional training as well as students pursuing double majors.
+
+## Required Courses
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+- or
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+-
+- CHEM 105aLg General Chemistry Units: 4
+- CHEM 105bL General Chemistry Units: 4
+- or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+- CHEM 115bL Advanced General Chemistry Units: 4
+-
+- PHYS 135aLg Physics for the Life Sciences Units: 4
+- or
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+-
+- MATH 125g Calculus I Units: 4
+- HP 340Lg Health Behavior Statistical Methods Units: 4
+-
+- ENST 335 Science, Health and the Environment Units: 4
+- or
+- HP 408 Environmental Health in the Community Units: 4
+-
+- ENST 320a Water and Soil Sustainability; Energy and Air Sustainability Units: 4
+- ENST 320b Water and Soil Sustainability; Energy and Air Sustainability Units: 4
+- ENST 344 Environmental Ethics Units: 4
+- ENST 387 Economics for Natural Resources and the Environment Units: 4
+- ENST 495 Senior Seminar in Environmental Studies Units: 4
+
+## Total units: 52
+
+---
+
+---

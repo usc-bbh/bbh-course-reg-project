@@ -1,0 +1,48 @@
+Program Name: Petroleum Engineering Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32068
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32068&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32068
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:54Z
+Content SHA-256: b184a988db2e8aea0a34e74a99e4ef84935b4c2b257709ab67dbf28305d81a6a
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Petroleum Engineering Minor
+
+---
+
+A minor in petroleum engineering consisting of 16 required units is available to undergraduate majors in various fields of engineering and applied science. Besides preparing for graduate study in petroleum engineering, the program will prepare students for careers in areas of national need such as the exploration, recovery and production of subterranean resources, and the underground disposal of hazardous wastes.
+
+## Prerequisite courses:
+
+---
+
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+- MATH 226g Calculus III Units: 4
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- CHEM 105aLg General Chemistry Units: 4
+
+## Required Courses
+
+---
+
+- PTE 461 Formation Data Sensing with Well Logs Units: 4
+- PTE 462 Economic, Risk and Formation Productivity Analysis Units: 4
+- PTE 463L Introduction to Transport Processes in Porous Media Units: 4
+- PTE 464L Modeling and Simulation of Subsurface Flow Systems Units: 4
+- PTE 465L Drilling Technology and Subsurface Methods Units: 3
+
+## Total units: 16
+
+---
+
+---

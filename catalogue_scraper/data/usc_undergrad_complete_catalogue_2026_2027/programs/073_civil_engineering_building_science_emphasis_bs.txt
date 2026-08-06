@@ -1,0 +1,146 @@
+Program Name: Civil Engineering, Building Science Emphasis (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32434
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32434&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32434
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:51:44Z
+Content SHA-256: 7151d25f751da64a45f86bddbf903b618cf782517c83bd5f735a3484ec63d17c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Civil Engineering, Building Science Emphasis (BS)
+
+---
+
+The requirement for the degree with an emphasis in building science is 138 units. A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken. In addition, a minimum grade of C must be earned in each of the following courses: CE 215, CE 225 and CE 309. See also the common requirements for undergraduate degrees section.
+
+## Composition/Writing Requirement
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+## General Education
+
+---
+
+- General Education Units: 16
+
+## Pre-Major Requirements
+
+---
+
+### Chemistry Requirement
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4 * or
+- CHEM 115aLg Advanced General Chemistry Units: 4 *
+
+### Math Requirement
+
+---
+
+- MATH 126g Calculus II Units: 4 * or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 226g Calculus III Units: 4 * or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+-
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+
+### Physics Requirement
+
+---
+
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 *
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+
+### Biology Requirement
+
+---
+
+Each of the following courses will satisfy both the BS CE basic science requirement and the General Education GE-D requirement. Choose one from this list:
+
+- BISC 104Lgx How the Body Works Units: 4 *
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 *
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4 *
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 *
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4 *
+- BISC 230Lgx The Biology of the Brain Units: 4 *
+- *
+- HBIO 205Lgx The Science of Sport Units: 4
+
+## Major Requirements
+
+---
+
+### Engineering
+
+---
+
+- ENGR 102 Viterbi First-Year Academy Units: 2
+
+### Civil Engineering
+
+---
+
+- CE 106 Introduction to Civil Engineering Units: 2
+- CE 108 Programming for Civil and Environmental Engineers Units: 2
+- CE 119 Statistical Data Analysis in Engineering Units: 2
+- CE 215 Statics and Dynamics Units: 4
+- CE 225 Mechanics of Deformable Bodies Units: 4
+- CE 309 Fluid Mechanics Units: 4
+- CE 330 Computational Methods in Engineering Units: 2
+- CE 334L Mechanical Behavior of Materials Units: 4
+- CE 358L Elementary Theory of Structures Units: 4
+- CE 408 Risk and Decision Analysis in Civil Engineering Units: 2
+- CE 456 Structural Design I Units: 4
+- CE 457 Structural Design II Units: 4
+- CE 458 Computational Structural Analysis Units: 4
+- CE 460 Construction Engineering Units: 4
+- CE 467L Geotechnical Engineering Units: 4
+
+### Architecture
+
+---
+
+- ARCH 205aL Building Science I Units: 4 **
+- ARCH 205bL Building Science I Units: 4 **
+- ARCH 214ag World History of Architecture Units: 3 *
+- ARCH 214bg World History of Architecture Units: 3 *
+- ARCH 305aL Building Science II Units: 4 **
+- ARCH 305bL Building Science II Units: 4 **
+- ARCH 405aL Building Science III Units: 4 **
+- ARCH 405bL Building Science III Units: 4 **
+
+### Advanced Computing
+
+---
+
+Students who must take MATH 125g Calculus I will be waived from the required Advanced Computing course. Select one course from the following list:
+
+- CE 423 Principles of Autonomy in Civil Engineering Units: 4
+- Or
+- ENE 440 Machine Learning for Climate Change and Sustainability Units: 4
+- Or
+- CE 427 Machine Learning for Civil and Environmental Engineers Units: 4
+
+## Total units: 138
+
+---
+
+*Satisfies GE requirement.
+
+**The School of Architecture requires a minimum grade of C in ARCH 205a , ARCH 205b , ARCH 305a , ARCH 305b and ARCH 405a , ARCH 405b in order to continue in the building science design sequence.​
+
+All curricula leading to a degree must be approved by the Astani Department of Civil and Environmental Engineering; please note this includes transfer credit and units for courses waived for subject credit only, which have been approved through the Degree Progress department.
+
+---

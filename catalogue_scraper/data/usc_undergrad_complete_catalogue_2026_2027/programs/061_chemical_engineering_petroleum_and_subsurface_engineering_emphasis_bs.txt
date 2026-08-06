@@ -1,0 +1,109 @@
+Program Name: Chemical Engineering, Petroleum and Subsurface Engineering Emphasis (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32811
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32811&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32811
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:51:17Z
+Content SHA-256: 576387c28475fe3feda9210726afae9df32d9871fc5929cf409e6abd551051d7
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Chemical Engineering, Petroleum and Subsurface Engineering Emphasis (BS)
+
+---
+
+## Bachelor of Science in Chemical Engineering Degree
+
+---
+
+The Mork Family Department of Chemical Engineering offers a Bachelor of Science degree in Chemical Engineering. Additionally, there are four possible areas of emphasis within this chemical engineering program major. These are: biological and pharmaceutical engineering (134 units); materials engineering (134 units); energy and sustainability (134 units); petroleum and subsurface engineering (134 units). An area of emphasis appears in parentheses after the primary major name on the transcript.
+
+Sample student schedules are located on the department web page (chems.usc.edu).
+
+#### Common Requirements for the BS Degree and All Areas of Emphasis (118 units)
+
+See also common requirements for undergraduate degrees .
+
+### Composition/Writing Courses
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+### General Education
+
+---
+
+- General Education Units: 24
+
+### Chemistry Courses
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4 or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+-
+- CHEM 105bL General Chemistry Units: 4 or
+- CHEM 115bL Advanced General Chemistry Units: 4
+-
+- CHEM 322aL Organic Chemistry Units: 4
+- CHEM 430 Physical Chemistry: Thermodynamics and Kinetics Units: 4
+
+### Math Courses
+
+---
+
+- MATH 125g Calculus I Units: 4
+-
+- MATH 126g Calculus II Units: 4 or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 226g Calculus III Units: 4 or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+-
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+
+### Physics Courses
+
+---
+
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+
+### Chemical Engineering Courses
+
+---
+
+- CHE 120 Introduction to Chemical Engineering Units: 4
+- CHE 305 Numerical and Statistical Analysis for Chemical Engineers Units: 4
+- CHE 330 Chemical Engineering Thermodynamics Units: 4
+- CHE 350 Introduction to Separation Processes Units: 4
+- CHE 442 Chemical Reactor Design Units: 4
+- CHE 443 Chemical Engineering Fluid Mechanics Units: 4
+- CHE 444aL Chemical Engineering Laboratory Units: 2
+- CHE 444bL Chemical Engineering Laboratory Units: 2
+- CHE 444cL Chemical Engineering Laboratory Units: 2
+- CHE 447 Heat and Mass Transfer in Chemical Engineering Processes Units: 4
+- CHE 460L Chemical Process Dynamics and Control Units: 4
+- CHE 480 Chemical Process and Plant Design Units: 4
+- CHE 485 Computer-Aided Chemical Process Design Units: 4
+
+## Emphasis in Petroleum and Subsurface Engineering
+
+---
+
+​The requirement for the Bachelor of Science in Chemical Engineering with an emphasis in Petroleum and Subsurface Engineering is 134 units. A cumulative grade point average of C (2.0) is required for all upper-division courses applied toward the major, regardless of the department in which the courses are taken. In addition to the common requirements, the following are required:
+
+- PTE 461 Formation Data Sensing with Well Logs Units: 4
+- PTE 463L Introduction to Transport Processes in Porous Media Units: 4
+- PTE 464L Modeling and Simulation of Subsurface Flow Systems Units: 4
+- PTE 465L Drilling Technology and Subsurface Methods Units: 3
+
+---

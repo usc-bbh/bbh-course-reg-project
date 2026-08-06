@@ -1,0 +1,23 @@
+Program Name: Economics (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31776
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31776&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31776
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:00Z
+Content SHA-256: 37d5dc19d3d6032af9594a21548432a53695f601f0c45c1fd01ea19594433ee2
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Economics (BA)
+
+---
+
+Students are required to take ECON 203 , ECON 205 , ECON 303 , ECON 305 , ECON 317 , ECON 318 and four economics elective courses. Of the four elective courses (300 level or above) a minimum of two must be economics courses at the 400 level or higher. The remaining two economics courses must be approved by the department’s director of undergraduate studies. A grade of C (2.0) or better is required for each of the core courses ECON 303 , ECON 305 , ECON 317 and ECON 318 . MATH 118gx or MATH 125 is required for the major; students are advised to meet the requirement by their sophomore year. Majors are also required to take at least one two-unit course on computing chosen from TAC 101 or CSCI 101L.
+
+---

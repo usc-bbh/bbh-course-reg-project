@@ -1,0 +1,49 @@
+Program Name: Cybersecurity Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32790
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32790&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32790
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:28Z
+Content SHA-256: 7e22b0d3b1c1d58c68968c49c1e55be03d92703f83a2603c56b25025e5d44488
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Cybersecurity Minor
+
+---
+
+The minor in cybersecurity combines both theoretical concepts and technical skills to prepare students for a career in cybersecurity while incorporating their major field of work. Students will have the full flexibility to have both breadth and depth in various areas of cybersecurity, including offensive operations, networking, forensics, information security management and web security.
+
+The minor requires at least 18 units.
+
+## Core Requirements (10 units)
+
+---
+
+- TAC 125L Hackers to CEOs: Intro to Cyber Security in the AI Era Units: 2
+- TAC 325 Ethical Hacking Units: 4
+- TAC 357 Enterprise Networks: Design and Architecture Units: 4
+
+## Electives (8 units)
+
+---
+
+Choose two of the following:
+
+- TAC 370 Cybersecurity Management and Operations Units: 4
+- TAC 375 Digital Forensics and Cybersecurity Investigations Units: 4
+- TAC 425 Web Application Security Units: 4
+- TAC 443 Malware Analysis and Reverse Engineering Units: 4
+- TAC 445 Apple Forensics and Security (macOS and iOS) Units: 4
+- TAC 447 Mobile Device Forensics and Security Units: 4
+- TAC 457 Network Security Units: 4
+- TAC 458 Defending and Investigating Compromised Networks Units: 4
+- TAC 479 Cyber Law and Privacy Units: 4
+
+---

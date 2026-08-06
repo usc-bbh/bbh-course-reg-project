@@ -1,0 +1,103 @@
+Program Name: Digital Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31680
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31680&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31680
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:42Z
+Content SHA-256: 2e6778649e6551e6b99a4ac7e6e414bc8f414594c3fc661db468a425d6f89960
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Digital Studies Minor
+
+---
+
+The minor in Digital Studies explores the rich potential of digital media for critical analysis and creative discovery. Learning the exciting and dynamic potential of a broad array of tools and technologies, students create innovative projects, from photo essays to web-based documentaries, from interactive videos to sophisticated websites, and from typography in motion to 3-D visualizations. Elective courses explore media for social change, tangible computing, transmedia expression and more, allowing students to use media in pursuit of their own interests and to enhance their majors.
+
+All Digital Studies courses combine theory and practice in lab-based seminars featuring hands-on tutorials to support students in producing sophisticated media-rich work. Participants in this minor gain powerful skills useful in future endeavors within or beyond academia, where the ability to work effectively with media is a crucial job skill.
+
+Information about courses and other program offerings can be obtained by emailing the Media Arts and Practice program at map@cinema.usc.edu.
+
+## Program Requirements
+
+---
+
+A minimum of 20 units is required to complete the minor. All courses must be taken for a letter grade.
+
+## Introductory Courses
+
+---
+
+- IML 104 Introduction to Digital Studies Units: 2 and
+- IML 140 Workshop in Multimedia Authoring Units: 2 or
+- IML 201 The Languages of Digital Media Units: 4
+
+## Media Arts Platform Courses
+
+---
+
+Choose 8 units from the following courses:
+
+- IML 230 Introduction to Visual Design Units: 4
+- IML 288 Introduction to Creative Coding Units: 4
+- IML 300 Introduction to Creative Web Programming Units: 4
+- IML 328 Introduction to Sound Units: 2
+- IML 335 Introduction to Video Units: 2
+- IML 354 Introduction to 3-D Modeling Units: 2
+- IML 400 Advanced Platform: Creative Coding and Web Design Units: 4 *
+- IML 404 Advanced Platform: Tangible and Spatial Computing Units: 4 *
+- IML 428 Advanced Platform: Sound Units: 4 *
+- IML 430 Advanced Platform: Visual Design Units: 4 *
+- IML 435 Advanced Platform: Video Units: 4 *
+- IML 436 Advanced Platform: Hypercinemas Units: 4 *
+- IML 454 Advanced Platform: 3-D Design Units: 4 *
+- IML 481 Advanced Platform: Mixed Realities Units: 4
+- *Prerequisite required.
+
+## Media Arts Electives
+
+---
+
+Choose 8 units from the following courses:
+
+- IML 310 Professionalism for Media Arts Units: 2 *
+- IML 418 Sensory Design Units: 4
+- IML 419 Emotion in Digital Culture Units: 4
+- IML 420m New Media for Social Change Units: 4 *
+- *Prerequisite required.
+- IML 421 Designing and Writing for Transmedia Narratives Units: 4
+- IML 422 Information Visualization Units: 4
+- IML 423 Remixing the Archive Units: 4
+- IML 425 Narrative Across Media Units: 4
+- IML 424 The Music Festival Experience Units: 4
+- IML 450 Critical Play and Documentary Games Units: 4
+- IML 452 Integrative Design for Mobile Devices Units: 4
+- IML 453 Design Fiction and Speculative Futures Units: 4
+- IML 455 Future Cinema Units: 4
+- IML 456 Nature, Design and Media Units: 2
+- IML 458 The Embedded Story: Designing Digital Landscapes and Languages Units: 2
+- IML 460 AI and Creativity Units: 4
+- IML 466 Digital Studies Symposium Units: 2
+- IML 475 Media Arts Research Lab Units: 2, 3, 4
+- IML 477 Embodied Storytelling and Immersive Docu-Narratives Units: 4
+- IML 493 Creativity and Wellbeing Units: 2, 4
+- IML 499 Special Topics Units: 2, 3, 4
+- IML 427 DIY Music Videos from Critique to Creation Units: 4
+
+## Honors Thesis Track
+
+---
+
+Students who wish to pursue the honors track must submit an application to their minor adviser. If approved, students will complete a capstone thesis project during their senior year in order to earn an honors designation. Students must enroll in the following thesis courses:
+
+- IML 346 Methods in Digital Research Units: 2 *
+- IML 440 Thesis Studio Units: 4 *
+- *Prerequisite required.
+
+---

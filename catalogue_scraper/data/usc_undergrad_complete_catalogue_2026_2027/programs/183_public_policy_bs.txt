@@ -1,0 +1,241 @@
+Program Name: Public Policy (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32398
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32398&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32398
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:59Z
+Content SHA-256: 0c12b7525dfb86741072426d5298513881caef580fe5ce17d7513c557284074b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Public Policy (BS)
+
+---
+
+The Bachelor of Science in Public Policy is an interdisciplinary major that prepares students for graduate study and/or professional careers by engaging them in the analysis of society’s political, social and economic issues. The major introduces students to theoretical foundations and practical applications through a set of cross-cutting introductory courses and specialized courses in one of five tracks: health policy and management, public policy and law, philanthropy, nonprofits and social innovation, public policy and data analytics, or urban environmental and sustainability policy. Students will be introduced to analytical and research tools relevant for and connected to professional practice, as exemplified by consultative class projects and the mandatory internship.
+
+## Pre-Major Requirements
+
+---
+
+Students must complete the pre-major requirements. A minimum grade of C, 2.0 (A = 4.0), must be earned in each of the pre-major courses. All pre-major requirements must be taken for a letter grade.
+
+- MATH 117g Precalculus for Business and Economics Units: 4
+- PPD 203 Economic Analysis for Public Policy Units: 4
+
+## Core Curriculum (30 Units)
+
+---
+
+- PPD 225 Solving Public Problems Units: 4
+- PPD 240g Citizenship and Public Ethics Units: 4
+- PPD 300 Social Justice Issues in Public Policy and Urban Planning Units: 4
+- PPD 301 PPD Practices: Internship Seminar Units: 2
+- PPD 303 Statistics for Policy, Planning, and Development Units: 4
+- PPD 315 Analytic Foundations for Public Policy Units: 4
+- PPD 373 Public Policy and Planning Analysis Units: 4
+- PPD 431 Undergraduate Policy, Planning, and Development Studio Units: 4 *
+- *See alternate capstone options in Additional Requirements section, below.
+
+## Tracks
+
+---
+
+Students select one track for degree emphasis; they take 28 units from the track selected. Each track includes five required courses and two elective courses with the exception of the Public Policy and Data Analysis track, which has four required courses and three elective courses. During advisement, students will be given a list of recommended elective courses particularly appropriate for the chosen track. Students may work with their adviser for approval to take track electives outside of the courses listed to meet their academic needs. The required courses for each track are listed below followed by track elective options.
+
+### Health Policy and Management Track
+
+---
+
+Required Track Courses (28 units: 20 required, 8 electives)​
+
+- PPD 325 Fundamentals of Health Policy and Management Units: 4
+- PPD 330 Introduction to Health Care Systems Units: 4
+- PPD 357 Government and Business Units: 4
+- PPD 413 Management of Health Care Organizations Units: 4
+- PPD 415 Health Policy Units: 4
+- Track Electives (Select two)
+- ACAD 260 Introduction to Healthcare Innovation Units: 4
+- GERO 416 Health Issues in Adulthood Units: 4
+- HP 408 Environmental Health in the Community Units: 4
+- LAW 403 Mental Health Law Units: 4
+- MEDS 220 Healthcare Foundations: Core Concepts and Terminology Units: 2
+- MEDS 405 Health Care Systems: A Doctor’s Perspective Units: 2
+- PPD 314 Public Policy and Law Units: 4
+- PPD 318 Financial Accounting in Public and Nonprofit Organizations Units: 4
+- PPD 320 Organizational Behavior for Public Leadership Units: 4
+- PPD 403 Management Analysis I Units: 4
+- PPD 404 Empirical Methods for Public Policy Units: 4
+- PPD 407 Financial Management of Public and Nonprofit Organizations Units: 4
+- PPD 414 Community Health Policy and Planning Units: 4
+- PPD 478 Social Innovation Units: 4
+
+### Philanthropy, Nonprofits and Social Innovation Track
+
+---
+
+Required Track Courses (28 units: 20 required, 8 electives)
+
+- PPD 353 Philanthropy and Social Change Units: 4
+- PPD 371 The Nonprofit Sector and the Public Interest Units: 4
+- PPD 402 Management of Public and Nonprofit Organizations Units: 4
+- PPD 407 Financial Management of Public and Nonprofit Organizations Units: 4
+- PPD 478 Social Innovation Units: 4
+- Track Electives (Select two)
+- BUCO 485 Business Communication Management for Nonprofits Units: 4
+- IR 371 Global Civil Society: Non-State Actors in World Politics Units: 4
+- PPD 318 Financial Accounting in Public and Nonprofit Organizations Units: 4
+- PPD 320 Organizational Behavior for Public Leadership Units: 4
+- PPD 357 Government and Business Units: 4
+- PPD 372m Public Service in an Urban Setting Units: 4
+- PPD 380a Urban Problem-Solving and Public Policy Units: 4
+- PPD 400 Topics in Public Policy and Urban Studies Units: 4
+- PPD 382 International Development Units: 4
+- PPD 404 Empirical Methods for Public Policy Units: 4
+- Only one from the following: PPD 314, PPD 415, or PPD 344
+- PPD 314 Public Policy and Law Units: 4
+- PPD 344 Environmental Policy and Sustainable Development Units: 4
+- PPD 415 Health Policy Units: 4
+- Graduate courses in the subject area may be selected in consultation and with the approval of the adviser.
+
+### Public Policy and Law Track
+
+---
+
+Required Track Courses (28 units: 20 required, 8 electives)
+
+- PPD 313 Finance of the Public Sector Units: 4
+- PPD 314 Public Policy and Law Units: 4
+- PPD 342 Crime and Public Policy Units: 4
+-
+- LAW 300 Concepts in American Law Units: 4
+- or
+- POSC 340 Constitutional Law Units: 4
+-
+- LAW 200w Law and Society Units: 4
+- or
+- PPD 357 Government and Business Units: 4
+- Track Electives (Select two)
+- ECON 434 Economic Analysis of Law Units: 4
+- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4
+- LAW 403 Mental Health Law Units: 4
+- LAW 404 Psychology of the Criminal Justice Process Units: 4
+- POSC 444 Civil and Political Rights and Liberties Units: 4
+- PPD 360 Urban Transportation Planning and Policy Units: 4
+- PPD 361 Sustainable Communities, Policy and Planning Units: 4
+- PPD 371 The Nonprofit Sector and the Public Interest Units: 4
+- PPD 382 International Development Units: 4
+- PPD 404 Empirical Methods for Public Policy Units: 4
+- PPD 410 Comparative Urban Development Units: 4
+- PPD 414 Community Health Policy and Planning Units: 4
+- PPD 439 Housing and Community Development Units: 4
+- PPD 478 Social Innovation Units: 4
+- PPD 485m U.S. Immigration Policy Units: 4
+- For the two track requirements that consist of a choice (POSC 340 or LAW 300 and LAW 200w or PPD 357 ), the courses not used to satisfy these requirements may be taken as electives.
+
+### Public Policy and Data Analytics Track
+
+---
+
+#### Required Courses
+
+---
+
+Required Track Courses (28 units: 16 required, 12 electives):
+
+- PPD 313 Finance of the Public Sector Units: 4
+- PPD 404 Empirical Methods for Public Policy Units: 4
+- PPD 427L Geographic Information Systems and Planning Applications Units: 4
+- or
+- DSCI 250 Introduction to Data Science Units: 4
+- PPD 430 Urban Informatics Units: 4
+
+#### Electives
+
+---
+
+Track Electives (Select 12 units):
+
+- DSCI 250 Introduction to Data Science Units: 4
+- DSCI 352 Applied Machine Learning and Data Mining Units: 4
+- DSCI 429 Security and Privacy Units: 4
+- ECON 303 Intermediate Microeconomic Theory Units: 4
+- PPD 314 Public Policy and Law Units: 4
+- PPD 318 Financial Accounting in Public and Nonprofit Organizations Units: 4
+- PPD 342 Crime and Public Policy Units: 4
+- PPD 357 Government and Business Units: 4
+- PPD 358 Urban and Regional Economics Units: 4
+- PPD 361 Sustainable Communities, Policy and Planning Units: 4
+- PPD 382 International Development Units: 4
+- PPD 407 Financial Management of Public and Nonprofit Organizations Units: 4
+- PPD 415 Health Policy Units: 4
+- PPD 427L Geographic Information Systems and Planning Applications Units: 4
+- PPD 439 Housing and Community Development Units: 4
+- If not used to satisfy the core track requirement, either PPD 427L or DSCI 250 may be selected as an elective.
+
+### Urban Environmental and Sustainability Policy Track
+
+---
+
+Required Track Courses (28 units: 20 required, 8 electives)
+
+- PPD 245g The Urban Context Units: 4
+- PPD 344 Environmental Policy and Sustainable Development Units: 4
+- PPD 361 Sustainable Communities, Policy and Planning Units: 4
+- Two courses selected in consultation with adviser
+- Track electives (2 courses; 8 units)
+- PPD 360 Urban Transportation Planning and Policy Units: 4
+- PPD 380a Urban Problem-Solving and Public Policy Units: 4
+- PPD 400 Topics in Public Policy and Urban Studies Units: 4
+- PPD 410 Comparative Urban Development Units: 4
+- PPD 420 Environmental Impact Assessment Units: 4
+- PPD 422 Transportation Data and Automation Units: 4
+- PPD 430 Urban Informatics Units: 4
+- Other elective courses may be selected in consultation with the adviser.
+
+## Cross-cutting Topics Course
+
+---
+
+Students will be required to take 4 units of a cross-cutting topics course. It is taken preferably junior year after completion of the core curriculum. Students may select a course from the list below. If a student uses a course to satisfy a requirement or elective that has already been taken in the track requirements, it can not be double-counted as the cross-cutting course. The cross-cutting course must be a different course.
+
+- PPD 313 Finance of the Public Sector Units: 4
+- PPD 314 Public Policy and Law Units: 4
+- PPD 325 Fundamentals of Health Policy and Management Units: 4
+- PPD 342 Crime and Public Policy Units: 4
+- PPD 353 Philanthropy and Social Change Units: 4
+- PPD 357 Government and Business Units: 4
+- PPD 371 The Nonprofit Sector and the Public Interest Units: 4
+- PPD 380a Urban Problem-Solving and Public Policy Units: 4
+- PPD 400 Topics in Public Policy and Urban Studies Units: 4
+- PPD 404 Empirical Methods for Public Policy Units: 4
+
+## Additional Requirements
+
+---
+
+### *Capstone
+
+All students will take 4 units of a capstone experience during their senior year. This may be fulfilled by taking PPD 431 Undergraduate Policy, Planning, and Development Studio (4) or PPD 497a Senior Thesis , PPD 497b Senior Thesis (2-2). Students wishing to enroll in PPD 497a , PPD 497b must have a 3.7 GPA in PPD courses and an overall 3.5 GPA.
+
+### Internships
+
+Public Policy majors are required to complete 140 hours of internship by enrolling in PPD 301 PPD Practices: Internship Seminar or the Washington, D.C., Semester internship. Internships are matched as closely as possible to the student’s interests and skills.
+
+PPD 301 and the internship in a position provide numerous opportunities to develop and formulate future career goals, as well as to gain personal and professional experience while completing the undergraduate degree.
+
+### Honors
+
+Price School honors are available at graduation to qualified PPD majors and result in a special designation of departmental honors on a student’s transcript. Achievement of PPD honors requires a 3.7 GPA in PPD major courses and a 3.5 overall GPA as well as nomination by the professor in the capstone experience. In addition, students must earn an A in their capstone course (PPD 497a , PPD 497b or PPD 431 ).
+
+### Washington, D.C., Semester
+
+The Washington, D.C., Semester program provides an intensive semester of confrontation with the political center of the nation and its complex components. The program offers opportunities for behind-the-scenes work in national government agencies and related organizations, combined with an academic environment and the chance to explore, share and learn with a group of fellow students.
+
+---

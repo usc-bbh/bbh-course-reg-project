@@ -1,0 +1,95 @@
+Program Name: Philosophy Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31878
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31878&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31878
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:57Z
+Content SHA-256: c70eaf17f4b06c6449aab7a273366ab4b400f2bbe790905fd9ba1ef5ab7216ab
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Philosophy Minor
+
+---
+
+The minor in philosophy requires the completion of five philosophy courses, at least four of which must be upper-division courses. All minors must take a gateway course — PHIL 315 , PHIL 320 , PHIL 336 , PHIL 337 , PHIL 340 , PHIL 360 or PHIL 385 .
+
+## Distribution requirement:
+
+---
+
+### Students must take at least one course from each of the three categories listed below:
+
+---
+
+#### History of Philosophy:
+
+---
+
+- PHIL 311 The Quest for the Individual in Early Modern Europe Units: 4
+- PHIL 314 Origins of Free Market Thought in Early Modern Europe Units: 4
+- PHIL 315 History of Western Philosophy: Ancient Period Units: 4
+- PHIL 317 History of Western Philosophy: Medieval Period Units: 4
+- PHIL 320 History of Western Philosophy: Modern Period Units: 4
+- PHIL 410 Early Greek Thought Units: 4
+- PHIL 411 Plato Units: 4
+- PHIL 415 Aristotle Units: 4
+- PHIL 416 The Ancient Stoics Units: 4
+- PHIL 421 Continental Rationalism Units: 4
+- PHIL 422 British Empiricism Units: 4
+- PHIL 423 The Critical Philosophy of Kant Units: 4
+- PHIL 424 19th Century Philosophy Units: 4
+- PHIL 427 Twentieth Century Anglo-American Philosophy Units: 4
+- PHIL 428 Anglo-American Philosophy Since 1950 Units: 4
+- PHIL 442 History of Ethics to 1900 Units: 4
+- PHIL 473 Wittgenstein Units: 4
+
+#### Ethics, Law and Value Theory:
+
+---
+
+- PHIL 337 Political Philosophy Units: 4
+- PHIL 340 Ethics Units: 4
+- PHIL 347 Philosophy in Literature Units: 4
+- PHIL 361 Philosophy of Religion Units: 4
+- PHIL 430 Philosophy of Law Units: 4
+- PHIL 431 Law, Society, and Politics Units: 4
+- PHIL 437 Social and Political Philosophy Units: 4
+- PHIL 440 Contemporary Ethical Theory Units: 4
+- PHIL 442 History of Ethics to 1900 Units: 4
+- PHIL 443 Value Theory Units: 4
+- PHIL 445 Philosophy of the Arts Units: 4
+- PHIL 446 Aesthetics and the Film Units: 4
+
+#### Systematic Topics:
+
+---
+
+- PHIL 336 Philosophy of Mind and Language Units: 4
+- PHIL 350 Intermediate Logic Units: 4
+- PHIL 360 Epistemology and Metaphysics Units: 4
+- PHIL 362 Possible Worlds Units: 4
+- PHIL 363 Philosophy of Perception Units: 4
+- PHIL 385 Science and Rationality Units: 4
+- PHIL 427 Twentieth Century Anglo-American Philosophy Units: 4
+- PHIL 428 Anglo-American Philosophy Since 1950 Units: 4
+- PHIL 450 The Limits of Logic Units: 4
+- PHIL 452 Modal Logic Units: 4
+- PHIL 460 Metaphysics Units: 4
+- PHIL 462 Philosophy of Mind Units: 4
+- PHIL 463 Theories of Action Units: 4
+- PHIL 465 Philosophy of Language Units: 4
+- PHIL 467 Language, Linguistics and Mind Units: 4
+- PHIL 470 Theory of Knowledge Units: 4
+- PHIL 480 Philosophy of Mathematics Units: 4
+- PHIL 484 Philosophy of Physics Units: 4
+- PHIL 485 Development of Physical Science Units: 4
+- PHIL 486 Methodologies of the Sciences Units: 4
+
+---

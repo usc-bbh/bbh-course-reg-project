@@ -1,0 +1,114 @@
+Program Name: International Policy and Management Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31835
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31835&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31835
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:30Z
+Content SHA-256: bd4e857325dcfee4fb399ca7d46b153e0c10d8ad715719bcfa88706ee2e31879
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# International Policy and Management Minor
+
+---
+
+The minor in international policy and management brings together courses from the School of International Relations, dealing with the new global challenges, specific regions of the world and international organizations and policies, and the USC Price School of Public Policy dealing with core management skills and public policy processes. Students will gain an understanding of the changes and challenges transforming the world and a taste of the policy and management skills to deal with them. To increase their understanding of the context and application of these concepts, students must complete a semester-long internship either in Washington, D.C. or Los Angeles with an organization that has an international focus.
+
+Students take three courses in international relations, including the gateway course, IR 305w Managing New Global Problems , three courses in public policy and management, and an approved internship through the School of International Relations (IR 491x ).
+
+## Required Courses from International Relations:
+
+---
+
+- IR 305w Managing New Global Problems Units: 4
+
+### One regional course selected from:
+
+---
+
+- IR 333 China in International Affairs Units: 4
+- IR 345 Russian and Post-Soviet Foreign Policy Units: 4
+- IR 360 International Relations of the Pacific Rim Units: 4
+- IR 361 South and Southeast Asia in International Affairs Units: 4
+- IR 362 The International Relations of the Contemporary Middle East Units: 4
+- IR 363 Middle East Political Economy Units: 4
+- IR 365 Politics and Democracy in Latin America Units: 4
+- IR 367 Africa in International Affairs Units: 4
+- IR 369 Post-War European Relations Units: 4
+- IR 383 Conflict Mediation & Negotiation Units: 4
+- IR 385 European Foreign Policy and Security Issues Units: 4
+- IR 439 Political Economy of Russia and Eurasia Units: 4
+- IR 442 Japanese Foreign Policy Units: 4
+- IR 468 European Integration Units: 4
+
+### One course from either the regional course list or the following:
+
+---
+
+- IR 306 International Organizations Units: 4
+- IR 307 Contemporary International Politics Units: 4
+- IR 310 Peace and Conflict Studies Units: 4
+- IR 315 Ethnicity and Nationalism in World Politics Units: 4
+- IR 316 Gender and Global Issues Units: 4
+- IR 318 Violent Conflict Units: 4
+- IR 323 Politics of Global Environment Units: 4
+- IR 324 Multinational Enterprises and World Politics Units: 4
+- IR 325 North-South Relations in the Global Economy Units: 4
+- IR 326 U.S. Foreign Economic Policy Units: 4
+- IR 330 Politics of the World Economy Units: 4
+- IR 341 Foreign Policy Analysis Units: 4
+- IR 343 U.S. Foreign Policy since World War II Units: 4
+- IR 344 The Global South in World Politics Units: 4
+- IR 381 Introduction to International Security Units: 4
+- IR 382w Order and Disorder in Global Affairs Units: 4
+- IR 427 Seminar on Economics and Security Units: 4
+- IR 444w Theories of Global Society Units: 4
+
+## From Public Policy:
+
+---
+
+The public policy component requires the completion of the following three options:
+
+- PPD 225 Solving Public Problems Units: 4
+
+### Two additional courses from the following:
+
+---
+
+- PPD 357 Government and Business Units: 4
+- PPD 371 The Nonprofit Sector and the Public Interest Units: 4
+- PPD 373 Public Policy and Planning Analysis Units: 4
+- PPD 476 Politics and Administration Units: 4
+- PPD 482 Comparative Public Administration Units: 4
+
+### Or from Public Management:
+
+---
+
+- PPD 402 Management of Public and Nonprofit Organizations Units: 4
+
+### Two additional courses from the following:
+
+---
+
+- PPD 313 Finance of the Public Sector Units: 4
+- PPD 407 Financial Management of Public and Nonprofit Organizations Units: 4
+- PPD 411a Sacramento Semester Units: 4
+- PPD 476 Politics and Administration Units: 4
+
+## Additional Requirements
+
+---
+
+#### Internship
+
+Each student is required to complete an approved internship with an international focus. Students take a 2-unit internship through the School of International Relations (IR 491 ).
+
+---

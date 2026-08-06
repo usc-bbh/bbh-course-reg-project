@@ -1,0 +1,68 @@
+Program Name: Songwriting Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32250
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32250&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32250
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:15Z
+Content SHA-256: e459df33e662c28831a651099a5987d6945cd1d0d3ae1f12e2940b256f987251
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Songwriting Minor
+
+---
+
+The minor in songwriting incorporates practical instruction in the craft of songwriting and in performance skills, instruction in the technology relevant to songwriting, and critical studies in the relevant repertories.
+
+Requirements for admission: Those who are considering this program should enroll in MUSC 255 Songwriting I. Admission will be based on songwriting ability and potential as determined by the songwriting faculty.
+
+## Required Courses (16 units)
+
+---
+
+- MTEC 245 Introduction to MIDI Sequencing Units: 1
+- MTEC 246 Introduction to Audio Recording and Editing Units: 1
+- MUCO 130ax Basics of Music Theory Units: 3
+- MUCO 130bx Basics of Music Theory Units: 3
+- MUSC 255 Songwriting I Units: 2
+- MUSC 355 Songwriting II Units: 2
+- MUSC 455 Songwriting III: The Performing Songwriter Units: 2
+- Choose one course from the following:
+- MTEC 443 Desktop Music Production Units: 2
+- MTEC 446a Computer Assisted Recording and Editing Units: 2
+
+## Choose 4 units from the following:
+
+---
+
+- COMM 306 Innovation, Entertainment, and the Arts Units: 4
+- COMM 307 Sound Clash: Popular Music and American Culture Units: 4
+- COMM 384 Interpreting Popular Culture Units: 4
+- COMM 440 Music as Communication Units: 4
+- MUSC 102gw World Music Units: 4
+- MUSC 115gp Western Music as Sounding History Units: 4
+- MUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4
+- MUSC 210g Electronic Music and Dance Culture Units: 4
+- MUSC 250gmw The Music of Black Americans Units: 4
+- MUSC 320gmw Hip-hop Music and Culture Units: 4
+- MUSC 371g Musical Genre Bending Units: 4
+- MUSC 372g Music and Politics Units: 4
+- MUSC 373g Writing About Popular Music Units: 4
+- MUSC 422 The Beatles: Their Music and Their Times Units: 4
+- MUSC 423 Classic Rock: Popular Music of the Sixties and Seventies Units: 2
+- MUSC 424 Iconic Figures of Popular Music Units: 2
+- MUSC 444 American Roots Music: History and Culture Units: 4
+- MUSC 460 Film Music: History and Function from 1930 to the Present Units: 4
+- MUSC 465 Music, Television and American Culture Units: 4
+
+## Total units: 20
+
+---
+
+---

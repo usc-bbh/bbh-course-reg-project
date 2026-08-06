@@ -1,0 +1,100 @@
+Program Name: Linguistics and Cognitive Science (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32405
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32405&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32405
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:47Z
+Content SHA-256: 10c883c02fabbc511e86a7d50aca3eb4030ee54f873498f7ab4ec9e37ac7cc37
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Linguistics and Cognitive Science (BA)
+
+---
+
+Combined major program between the Department of Linguistics and the Department of Cognitive Science.
+
+## Lower-Division Courses (12 units)
+
+---
+
+- LING 210g Introduction to Linguistics Units: 4
+- PSYC 100Lg Introduction to Psychology Units: 4
+- PSYC 274Lg Statistics Units: 4
+
+## Upper-Division Courses (32 units)
+
+---
+
+### Two among the following (8 units)
+
+---
+
+- LING 301 Introduction to Phonology and Morphology Units: 4
+- LING 302 Introduction to Syntax Units: 4
+- LING 303 Introduction to Semantics and Pragmatics Units: 4
+- LING 415 Phonetics Units: 4
+
+### One among the following (4 units)
+
+---
+
+- PSYC 301L Cognitive Processes Units: 4
+
+### Three among the following (12 units)
+
+---
+
+- LING 401 Advanced Phonology Units: 4
+- or
+- LING 402 Advanced Syntax Units: 4
+- or
+- LING 403 Advanced Semantics Units: 4
+- LING 322g Language Contact and Language Acquisition Units: 4
+- LING 325g Language and Number Units: 4
+- LING 385Lg Human Language as Computation Units: 4
+- LING 405 Child Language Acquisition Units: 4
+- LING 406 Psycholinguistics Units: 4
+- LING 407 Atypical Language Units: 4
+- LING 410 Second Language Acquisition Units: 4
+- LING 412 Language and Law Units: 4
+- LING 450 Forensic Speaker Identification Units: 4
+
+### One among the following (4 units)
+
+---
+
+- PSYC 336L Developmental Psychology Units: 4
+- PSYC 433 Children’s Learning and Cognitive Development Units: 4
+
+### Additional Requirement
+
+---
+
+An additional upper-division course from the above list or from a related field (4 units)
+
+## Capstone Experience
+
+---
+
+The Linguistics and Cognitive Science major requires a capstone experience, which can be fulfilled in one of the following ways:
+
+(A) A research paper completed as Honors Thesis LING 497 , or as Directed Research LING 490 or as a Linguistic 400-level course research paper.
+
+(B) A poster presented at the USC UG symposium [https://ahf.usc.edu/signature-events/symposium/] or at a conference.
+
+(C) A summer internship related to the degree.
+
+## Linguistics and Cognitive Science Major with Honors
+
+---
+
+The Linguistics and Cognitive Science major with honors requires the student to complete the requirements for the major with a GPA of 3.5 or above and to complete LING 497 Honors Thesis with a grade of B+ or better. Intent to complete the major with honors should be registered with the undergraduate adviser no later than the second semester of the junior year.
+
+---

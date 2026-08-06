@@ -1,0 +1,65 @@
+Program Name: Physics (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31888
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31888&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31888
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:46Z
+Content SHA-256: 179cd04dfd81ed72dcbd5024e0432895becd7a4683ae331ad73fe838b750a60e
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Physics (BA)
+
+---
+
+This program is intended for students with an interest in physics who may not intend to pursue a career in physics.
+
+## Required Lower-Division Courses
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4 **
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4
+- MATH 226g Calculus III Units: 4
+- PHYS 161Lg Advanced Principles of Physics I Units: 4
+- PHYS 162L Advanced Principles of Physics II Units: 4
+- PHYS 163L Advanced Principles of Physics III Units: 4
+- PHYS 190 Physics Discovery Series Units: 4
+
+## Required Upper-Division Courses
+
+---
+
+- MATH 445 Mathematics of Physics and Engineering II Units: 4
+- PHYS 304 Mechanics Units: 4
+- PHYS 316 Thermodynamics and Statistical Mechanics Units: 4
+- PHYS 408a Electricity and Magnetism Units: 4
+- PHYS 438a Introduction to Quantum Mechanics and its Applications Units: 4
+- PHYS 492L Senior Lab Units: 4
+
+## Upper-Division Elective
+
+---
+
+Choose one of the following:
+
+- PHYS 408b Electricity and Magnetism Units: 4 or
+- PHYS 438b Introduction to Quantum Mechanics and its Applications Units: 4 or
+- PHYS 440 Introduction to Condensed Matter Physics Units: 4 or
+- PHYS 493L Advanced Experimental Techniques Units: 4
+
+## Total units: 64
+
+---
+
+**CHEM 115aLg , MATH 114xg , MATH 208x , or other 4-unit quantitative STEM course not already required may be substituted for CHEM 105aLg .
+
+---

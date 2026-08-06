@@ -1,0 +1,72 @@
+Program Name: South Asian Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32824
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32824&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32824
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:17Z
+Content SHA-256: 5b7d502cd5ceafb7f18d2af5d9e99a5ed058a7bc1c311050c9e03832d1b8a191
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# South Asian Studies Minor
+
+---
+
+This interdisciplinary minor offers students a framework for developing a fundamental understanding of the richness and complexity of South Asia, broadly defined as including Afghanistan, Bangladesh, India, the Maldives, Nepal, Pakistan and Sri Lanka.
+
+Students may select courses that provide an introduction across disciplines, or they may choose courses that address a particular historical period or theme.
+
+The minor requires a minimum of 20 units.
+
+## Introduction to the Minor
+
+---
+
+4 units, select one course:
+
+- MDA 340p South Asian Studies: Arts, Cultures, History and Religion Units: 4
+- REL 340 Introduction to Indian Philosophy Units: 4
+
+## Lower-Division Course
+
+---
+
+4 units, select at least one course:
+
+- AHIS 125gp Arts of Asia I: Antiquity to 1300 Units: 4
+- DANC 187 Bollywood Dance Units: 2
+- HIST 108g Histories of South Asia Units: 4
+- LING 125 Hindi I Units: 4
+- PHED 120a Yoga Units: 1
+- PHED 120b Yoga Units: 1
+- PHED 122 Yoga and Meditation Units: 1
+- REL 130g Indian Traditions of Mind and Body Units: 4
+- REL 134g Introduction to Buddhism Units: 4
+- REL 136g Sense and Sensuality in Indian Religions and Culture Units: 4
+
+## Required Upper-Division Courses:
+
+---
+
+12 units, select three courses:
+
+- AHIS 381g Visual Cultures of Asia Units: 4
+- AMST 449m Asian American Literature Units: 4
+- ANTH 330m Culture, Gender and Politics in South Asia Units: 4
+- ENGL 333g Literature of Gandhi’s India Units: 4
+- HIST 391 Feminist Histories of South Asia Units: 4
+- HIST 394p The Great Muslim Empires of the Near East and India Units: 4
+- HIST 430 Migration and Displacement in the Indian Ocean World Units: 4
+- IR 361 South and Southeast Asia in International Affairs Units: 4
+- IR 384 Asian Security Issues Units: 4
+- POSC 328 Asian American Politics Units: 4
+- REL 330 Introduction to the Religions of India Units: 4
+- REL 336w Re-Viewing Religion in Asian America Units: 4
+
+---

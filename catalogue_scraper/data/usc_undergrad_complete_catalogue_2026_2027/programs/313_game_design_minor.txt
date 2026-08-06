@@ -1,0 +1,69 @@
+Program Name: Game Design Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31684
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31684&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31684
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:57Z
+Content SHA-256: 1f1058c1bdcb0ba46b03a4a6cd5ea8ba05ba0e93fc0d86bc8393fe412403d6bb
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Game Design Minor
+
+---
+
+Game design is the next great design field, and individuals of many professions and skill sets will benefit from understanding how to design for interactivity and new technology. The game design minor teaches basic iterative design and prototyping skills while providing students the opportunity to explore design for new technologies and the skills of user assessment and usability testing.
+
+To be eligible for the game design minor, a student must be in good academic standing and have a declared major. To declare the game design minor a student must get permission from the Interactive Media Division (SCA 222) and submit a Change of Major/Minor form to Cinematic Arts Student Services (SCB 105).
+
+#### Course Requirements for the Minor
+
+A total of 24 units is required for the game design minor, 10 lower-division units and 14 upper-division units.
+
+## Lower-division Core (10 Units)
+
+---
+
+- CTIN 101 Fundamentals of Procedural Media Units: 2
+- CTIN 190 Introduction to Interactive Entertainment Units: 4
+- CTIN 289 Game Development Fundamentals Units: 4
+
+## Upper-division Core (8 Units)
+
+---
+
+- CTIN 488 Game Design Workshop Units: 4
+- CTIN 489L Intermediate Game Design and Production Units: 4
+
+## Electives (6 Additional Units)
+
+---
+
+- CTIN 401L Interface Design for Games Units: 2
+- CTIN 404L User Research for Games Units: 2
+- CTIN 405L Design and Technology for Mobile Experiences Units: 2
+- CTIN 458 Business and Management of Games Units: 2
+- CTIN 464 Game Studies Seminar Units: 2
+- CTIN 482 Designing Social Games Units: 2
+- CTIN 486 Alternative Control Workshop Units: 2
+- CTIN 491L Advanced Game Project I Units: 4
+- CTIN 492L Experimental Game Topics Units: 4
+- CTIN 493L Advanced Game Project II Units: 2 *
+
+## Note:
+
+---
+
+*Prerequisite required.
+
+#### Grade Point Average Requirement
+
+A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.
+
+---

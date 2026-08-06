@@ -1,0 +1,75 @@
+Program Name: Behavioral Economics and Psychology (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32779
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32779&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32779
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:56Z
+Content SHA-256: 7b01b4c1c9a1a9abfcf51dd59c963c65d8979c76f568bd2006e762d1503148b1
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Behavioral Economics and Psychology (BA)
+
+---
+
+The Behavioral Economics and Psychology (BEEP) program aims to train students in a comprehensive set of skills necessary to understand how economic actors make decisions in real-life settings, to understand how these decisions affect economic and social outcomes and to design interventions to improve these outcomes. Concretely, students will:
+
+1. acquire knowledge about human cognition and decision-making and become capable of modeling behavior;
+2. study how individual behavior affects outcomes in strategic interactions and markets; and
+3. learn tools to collect and analyze information relevant to the areas of inquiry explored in the program.
+
+Completion of the program requires a minimum of 128 units.
+
+## I. Foundational Theory
+
+---
+
+12 units total
+
+- ECON 203g Principles of Microeconomics Units: 4
+- ECON 303 Intermediate Microeconomic Theory Units: 4
+- PSYC 100Lg Introduction to Psychology Units: 4
+
+## II. Techniques and Methods
+
+---
+
+18 units total
+
+- ECON 317 Introduction to Statistics for Economists Units: 4
+- TAC 115 Programming in Python Units: 2 or
+- TAC 116 Accelerated Programming in Python Units: 2
+- MATH 125g Calculus I Units: 4
+- PSYC 314L Experimental Research Methods Units: 4
+- PSYC 316L Non-Experimental Research Methods Units: 4
+
+## III. Electives
+
+---
+
+28 units: seven 4-unit electives with no more than four courses (16 units) from either ECON or PSYC
+
+- ECON 318 Introduction to Econometrics Units: 4
+- ECON 404 Games and Economics Units: 4
+- ECON 405 Neuroeconomics Units: 4
+- ECON 415 Behavioral Economics Units: 4
+- ECON 420 Experimental Economics Units: 4
+- ECON 432 Economics of Happiness Units: 4
+- ECON 620L Experimental Methods I Units: 4
+- ECON 621L Experimental Methods II Units: 4
+- PSYC 305 Learning and Memory Units: 4
+- PSYC 326 Behavioral Neuroscience Units: 4
+- PSYC 355 Social Psychology Units: 4
+- PSYC 422 Human Judgment and Decision Making Units: 4
+- PSYC 423 User Experience Units: 4
+- PSYC 434 Intelligence, Problem Solving and Creativity Units: 4
+- PSYC 452 Social Neuroscience Units: 4
+- PSYC 459 Industrial/Organizational Psychology Units: 4
+
+---

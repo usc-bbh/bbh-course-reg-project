@@ -1,0 +1,195 @@
+Program Name: Music (BA)*
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32242
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32242&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32242
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:51Z
+Content SHA-256: 7c55dc9030145e0dda02a8168ae10d3aa17b35935481f4cacbaba35b95147632
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Music (BA)*
+
+---
+
+## Overview
+
+The Bachelor of Arts in Music combines a rigorous foundation in music consisting of theory, aural skills, and music history, with the USC general education program, foreign language study, and the flexibility of a Bachelor of Arts curriculum. Within the core Thornton academic courses, students will have the opportunity to choose course groupings that reflect their interests within classical, popular music, and jazz disciplines. At the end of the program, students will complete a senior thesis as a capstone project.
+
+## Entrance Requirements
+
+Admission to the Bachelor of Arts in Music is available to current USC undergraduates who wish to change their major program of study to the BA Music. Students will be required to apply for and be approved for admission. Specific entrance requirements are available at the Thornton School of Music website (music.usc.edu).
+
+## General Education Requirements
+
+USC’s General Education program, revised in fall 2015, provides a coherent, integrated approach to the study of the liberal arts, with the goal of nurturing habits of thought that are essential for professional success, personal development, and meaningful lifelong learning. Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC. With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements. Academic advisers in the Thornton School carefully guide Thornton students in making their course choices. This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements.
+
+## Capstone Project
+
+#### Senior Thesis
+
+The capstone will consist of one or two substantial papers on a topic that is either a focus of traditional music research (e.g., musicology, ethnomusicology, music teaching and learning, music theory and analysis, the music industry), or an interdisciplinary topic that explores music’s relationship to other fields of study. The expected total length is a minimum of 50 double-spaced pages, exclusive of bibliography. This can be one 50-page paper or two papers of roughly 25 pages each. Students will enroll in 4 units of Directed Research 490 in the appropriate department in order to facilitate the Senior Thesis requirement. Students will be required to secure a Senior Thesis adviser who will also serve as the supervising faculty member on the Directed Research contract.
+
+## Curriculum Requirements
+
+---
+
+### General Education *
+
+---
+
+#### Core Literacies
+
+---
+
+GE-A: The Arts (one course)
+
+GE-B: Humanistic Inquiry (two courses)
+
+GE-C: Social Analysis (two courses)
+
+GE-D: Life Sciences (one course)
+
+GE-E: Physical Sciences (one course)
+
+GE-F: Quantitative Reasoning (one course)
+
+#### Global Perspectives
+
+---
+
+GE-G: Global Perspectives I (one course)
+
+GE-H: Global Perspectives II (one course)
+
+#### Writing
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+### Core Thornton Academic Courses (38 units)
+
+---
+
+#### Thornton Academic Courses (16 units)
+
+---
+
+- MUCD 348 Instrumental Conducting and Orchestration Units: 2
+- MUCO 132a Aural Skills I Units: 2
+- MUCO 132b Aural Skills I Units: 2
+- MUCO 133a Theory I Units: 3
+- MUCO 133b Theory I Units: 3
+- MUHL 250g Music and Ideas Units: 4
+
+#### Musicianship (10 units)
+
+---
+
+Select one concentration from the following:
+
+##### Classical Concentration
+
+---
+
+- MUCO 232a Aural Skills II Units: 2
+- MUCO 232b Aural Skills II Units: 2
+- MUCO 233a Theory II Units: 3
+- MUCO 233b Theory II Units: 3
+
+##### Popular Music Concentration
+
+---
+
+- MUCO 131a Harmony in Popular Music Units: 2
+- MUCO 131b Harmony in Popular Music Units: 2
+- MUCO 232a Aural Skills II Units: 2
+- MUCO 232b Aural Skills II Units: 2
+- MUSC 255 Songwriting I Units: 2
+
+##### Jazz Concentration
+
+---
+
+- MUJZ 195L Jazz Elements I Units: 2
+- 4 units total of MUJZ 195
+- MUJZ 305a Advanced Jazz Theory Units: 2
+- MUJZ 305b Advanced Jazz Theory Units: 2
+- MUJZ 400 Arranging for Jazz Ensemble Units: 2
+
+#### Music History (8 units)
+
+---
+
+​​​​​​​Select two courses from the following:
+
+- MPPM 350g A History of Popular Music Units: 4
+- MUHL 350g Western Art Music History I Units: 4
+- MUHL 351 Western Art Music History II Units: 4
+- MUJZ 350g A History of Jazz Music Units: 4
+
+#### Keyboard/Drumming (4 units)
+
+---
+
+​​​​​​​Select two courses from the following:
+
+- MPKS 250a Keyboard Instruction I Units: 2
+- MPKS 250b Keyboard Instruction I Units: 2
+- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2
+- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2
+- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2
+
+### Program Specific Courses (12 units)
+
+---
+
+#### Individual Instruction (8 units)
+
+---
+
+- 4 units total of Individual Instruction at the 153 level in primary instrument/voice
+- 4 units total of Individual Instruction at the 353 level in primary instrument/voice
+
+#### Ensembles (4 units)
+
+---
+
+- MUEN Ensemble Electives at the 300-level: four 1-unit courses
+
+### Foreign Language (12 units)
+
+---
+
+- Three 4-unit courses in the same language
+
+### Music Electives at the 300 or 400 Level (10 units)
+
+---
+
+### Electives (20 units)
+
+---
+
+### Capstone Project (4 units)
+
+---
+
+- Enroll in 4 units total of Directed Research 490 in order to facilitate the Senior Thesis requirement
+- Senior Thesis: 0 units
+
+## Total required for degree: 128
+
+---
+
+[*]With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.​​​​​​​
+
+---

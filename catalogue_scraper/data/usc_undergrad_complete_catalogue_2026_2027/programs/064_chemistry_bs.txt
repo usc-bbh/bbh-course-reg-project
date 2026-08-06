@@ -1,0 +1,84 @@
+Program Name: Chemistry (Chemical Biology) (BS)
+Credential: BS
+School or Academic Unit: USC Dornsife College of Letters, Arts and Sciences, the following courses are require
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31737
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31737&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31737
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:51:24Z
+Content SHA-256: da56bd05ecd5c4134c9dcd22e7b00dec1d0da26b03ede826260754858897b536
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Chemistry (Chemical Biology) (BS)
+
+---
+
+In addition to the general education, writing, foreign language and diversity requirements for a degree in the USC Dornsife College of Letters, Arts and Sciences, the following courses are required.
+
+## Required Core Courses, Lower-Division
+
+---
+
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+-
+- CHEM 105aLg General Chemistry Units: 4
+- CHEM 105bL General Chemistry Units: 4
+- or
+- CHEM 107Lg General Chemistry for Chemistry Majors Units: 4
+- CHEM 108L General Chemistry for Chemistry Majors: Kinetics and Equilibrium Units: 4
+- or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+- CHEM 115bL Advanced General Chemistry Units: 4
+-
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+-
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- MATH 226g Calculus III Units: 4
+-
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+
+## Required Core Courses, Upper-Division
+
+---
+
+- BISC 320Lg Molecular Biology Units: 4
+- CHEM 300L Analytical Chemistry Units: 4
+- CHEM 325aL Organic Chemistry Units: 4
+- CHEM 325bL Organic Chemistry Units: 4
+-
+- CHEM 430 Physical Chemistry: Thermodynamics and Kinetics Units: 4 or
+- CHEM 432 Physical Chemistry for the Life Sciences Units: 4
+-
+- CHEM 431 Physical Chemistry: Quantum Mechanics Units: 4
+- CHEM 463L Chemical Nanotechnology Laboratory Units: 2
+- CHEM 467L Advanced Chemical Biology Laboratory Units: 2
+- CHEM 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 (4 Units Required)
+
+## Advanced Laboratory Elective, 4 Units From Among:
+
+---
+
+- CHEM 332L Physical Chemical Measurements Units: 4
+- CHEM 423L Advanced Laboratory Techniques in Organic and Inorganic Chemistry Units: 4
+- CHEM 465L Chemical Instrumentation Units: 4
+
+## Advanced Chemistry Elective, Eight Units From Among:
+
+---
+
+- CHEM 426 Advanced Organic Chemistry Units: 4
+- CHEM 453 Advanced Inorganic Chemistry Units: 4
+- CHEM 519 Biochemistry and Molecular Biology: An Introduction for Chemists Units: 4
+- CHEM 520a Advanced Chemical Biology Units: 2
+- CHEM 520b Advanced Chemical Biology Units: 2
+- CHEM 521 Basic Principles of Physical Methods in Biochemistry Units: 2
+
+---

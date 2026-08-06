@@ -1,0 +1,245 @@
+Program Name: International Relations (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31830
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31830&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31830
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:13Z
+Content SHA-256: cbddfc1fd750ec544afe077e621cd896e4bb50e89119c6cb01bad93ecbcf2686
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# International Relations (BA)
+
+---
+
+The International Relations major requires a minimum of 48 units. All majors should complete IR 210gw International Relations: Introductory Analysis , IR 211g International Relations: Approaches to Research , IR 212 Historical Approaches to International Relations and IR 213 The Global Economy in their first 32 total units. The 200-level courses must be completed by the time they have completed 48 total units. The 200-level courses must be completed before attempting 400-level courses.
+
+Four semesters of a single foreign language are required. All majors are encouraged to obtain as much foreign language training as possible either through a major or a minor in a foreign language or through a study program abroad.
+
+Beyond IR 210 , IR 211 , IR 212 and IR 213 , international relations majors are required to take eight additional upper-division courses. Majors must choose one course from each of the four fields: Culture, Gender and a Global Society; Foreign Policy Analysis; International Political Economy; International Politics and Security Studies. In addition, students must complete one course from Regional Studies (Europe; Russia, Eastern Europe and Eurasia; Latin America; the Middle East and Africa; or Pacific Rim). Finally, students must complete one 400-level course of their choice. Students are encouraged to explore different professional career options within international relations by enrolling in IR 391 Directed International Relations Field Study , a 2-unit course that can be repeated for major credit. Students may receive both general education credit and major credit for the same course.
+
+## Culture, Gender and Global Society
+
+---
+
+This field explores identities and interests shaping the politics of intellectual global society.
+
+- EALC 375 Women and Gender in China: Past and Present Units: 4
+- IR 303 Leadership and Diplomacy Units: 4
+- IR 305w Managing New Global Problems Units: 4
+- IR 306 International Organizations Units: 4
+- IR 309 Global Governance Units: 4
+- IR 310 Peace and Conflict Studies Units: 4
+- IR 315 Ethnicity and Nationalism in World Politics Units: 4
+- IR 316 Gender and Global Issues Units: 4
+- IR 321 Civil War, Peace Building and International Intervention Units: 4
+- IR 339 Public Health and International Relations Units: 4
+- IR 344 The Global South in World Politics Units: 4
+- IR 371 Global Civil Society: Non-State Actors in World Politics Units: 4
+- IR 382w Order and Disorder in Global Affairs Units: 4
+- IR 404 International Relations Policy Task Force Units: 4
+- IR 422 Ecological Security and Global Politics Units: 4
+- IR 424w Citizenship and Migration in International Politics Units: 4
+- IR 436 Historical Memory, Identity, and International Politics Units: 4
+- IR 437 Comparative Genocide Units: 4
+- IR 444w Theories of Global Society Units: 4
+- IR 449 International Courts and the Globalization of Law Units: 4
+- IR 463 Islam and Arab Nationalism Units: 4
+- POSC 359 The Politics of Food Units: 4
+- POSC 456 Women in International Development Units: 4
+- PPD 382 International Development Units: 4
+- SOCI 335 Society and Population Units: 4
+- SOCI 435m Women in Society Units: 4
+- SOCI 445 Political and Social Theory Units: 4
+- SOCI 460 Key Issues in Contemporary International Migration Units: 4
+- SOCI 470 Social Change in Low-Income Countries Units: 4
+
+## Foreign Policy Analysis
+
+---
+
+This area examines the external relations of states, particularly the domestic and international factors that influence the formulation and implementation of national foreign policies. Factors within states (leadership, small group dynamics and domestic lobbying groups) and factors between states are stressed.
+
+- IR 303 Leadership and Diplomacy Units: 4
+- IR 341 Foreign Policy Analysis Units: 4
+- IR 342 The Politics and Strategy of Weapons of Mass Destruction Units: 4
+- IR 343 U.S. Foreign Policy since World War II Units: 4
+- IR 345 Russian and Post-Soviet Foreign Policy Units: 4
+- IR 346 Communism and Post-Communism: Eastern Europe and the Balkans Units: 4
+- IR 362 The International Relations of the Contemporary Middle East Units: 4
+- IR 365 Politics and Democracy in Latin America Units: 4
+- IR 368 French Foreign Policy: 1945 to the Present Units: 4
+- IR 385 European Foreign Policy and Security Issues Units: 4
+- IR 442 Japanese Foreign Policy Units: 4
+- IR 443 Formulation of U.S. Foreign Policy Units: 4
+- IR 445 U.S. Defense and Foreign Policy: Nonproliferation and Weapons of Mass Destruction Units: 4
+- IR 465 Contemporary Issues in United States-Latin America Relations Units: 4
+- IR 484 American Religion, Foreign Policy and the News Media Units: 4
+
+## International Political Economy
+
+---
+
+These courses focus on what used to be considered “low” politics, but which have become key issues. Money, trade, investment, development, the environment, law and foreign economic policy are examined.
+
+- ECON 450 International Trade Units: 4
+- ECON 452 International Finance Units: 4
+- IR 308gw Economic Globalization Units: 4
+- IR 309 Global Governance Units: 4
+- IR 324 Multinational Enterprises and World Politics Units: 4
+- IR 325 North-South Relations in the Global Economy Units: 4
+- IR 326 U.S. Foreign Economic Policy Units: 4
+- IR 328 The Evolving Global Economic Architecture-Capital Mobility Units: 4
+- IR 329 The Global Finance and Monetary Regime Units: 4
+- IR 330 Politics of the World Economy Units: 4
+- IR 331 The Global Economy 2040 Units: 4
+- IR 332 Money, Guns and Oil Units: 4
+- IR 349 International Law and Politics Units: 4
+- IR 363 Middle East Political Economy Units: 4
+- IR 364 The Political Economy of Latin American Development Units: 4
+- IR 420 Political Economy of Corruption Units: 4
+- IR 425 The New Triangle: China, the U.S. and Latin America Units: 4
+- IR 427 Seminar on Economics and Security Units: 4
+- IR 428 China’s Political Economy Units: 4
+- IR 430 The Politics of International Trade Units: 4
+- IR 439 Political Economy of Russia and Eurasia Units: 4
+- IR 449 International Courts and the Globalization of Law Units: 4
+- IR 454 The International Political Economy of Development Units: 4
+- IR 457 Political Economy of Redistribution Units: 4
+- POSC 431 Political Economy of Central America Units: 4
+
+## International Politics and Security Studies
+
+---
+
+War and peace are at the heart of relations among nations. These courses investigate defense analysis, arms control, peace-building and strategic studies. The domestic, technological and international factors influencing defense and arms control policies and negotiations are considered. The World Wars, Korea, Vietnam and the numerous crises of the Cold War are the backdrop in these courses.
+
+- IR 303 Leadership and Diplomacy Units: 4
+- IR 304 National Intelligence and the Shaping of Policy Units: 4
+- IR 310 Peace and Conflict Studies Units: 4
+- IR 313 Religions and Political Violence Units: 4
+- IR 318 Violent Conflict Units: 4
+- IR 321 Civil War, Peace Building and International Intervention Units: 4
+- IR 332 Money, Guns and Oil Units: 4
+- IR 342 The Politics and Strategy of Weapons of Mass Destruction Units: 4
+- IR 381 Introduction to International Security Units: 4
+- IR 382w Order and Disorder in Global Affairs Units: 4
+- IR 383 Conflict Mediation & Negotiation Units: 4
+- IR 384 Asian Security Issues Units: 4
+- IR 385 European Foreign Policy and Security Issues Units: 4
+- IR 386 Terrorism and Counterterrorism Units: 4
+- IR 387 Strategic Studies Units: 4
+- IR 402 Theories of War Units: 4
+- IR 404 International Relations Policy Task Force Units: 4
+- IR 422 Ecological Security and Global Politics Units: 4
+- IR 427 Seminar on Economics and Security Units: 4
+- IR 436 Historical Memory, Identity, and International Politics Units: 4
+- IR 437 Comparative Genocide Units: 4
+- IR 445 U.S. Defense and Foreign Policy: Nonproliferation and Weapons of Mass Destruction Units: 4
+- POSC 366 Terrorism and Genocide Units: 4
+- POSC 448a The Politics of Peace Units: 4
+- POSC 448b The Politics of Peace Units: 4
+
+## Regional Studies
+
+---
+
+The regional studies field focuses on geographic regions, such as the Pacific Rim, Latin America, Europe, the Middle East and Africa. These courses test general theories of international relations within the framework of a specific region. The economic, political, ethnic and social history of a region are examined to help explain current developments and interstate and domestic policies and issues within a region.
+
+### Europe:
+
+---
+
+- FREN 410 Actualités Françaises Units: 4
+- GERM 465 Germany East and West Units: 4
+- HIST 312 The Age of the French Revolution and Napoleon Units: 4
+- HIST 313 France and the French from Napoleon to Mitterand Units: 4
+- HIST 332 British Empire from the Mid-19th Century Units: 4
+- HIST 414 Contemporary Europe Units: 4
+- HIST 422 European Intellectual and Cultural History: The 20th Century, 1920 to the Present Units: 4
+- HIST 425 The Era of the First World War Units: 4
+- HIST 427 The German Question: Nation and Identity in Modern Central Europe Units: 4
+- IR 368 French Foreign Policy: 1945 to the Present Units: 4
+- IR 369 Post-War European Relations Units: 4
+- IR 385 European Foreign Policy and Security Issues Units: 4
+- IR 389 Islam in France Units: 4
+- IR 468 European Integration Units: 4
+- POSC 370 European Political Thought I Units: 4
+- POSC 371 European Political Thought II Units: 4
+- POSC 463 European Politics Units: 4
+- SPAN 320 Politics, Thought, Society Units: 4
+- SPAN 350 Cultural Cross-Currents of the Iberian Middle Ages Units: 4
+
+### Russia, Eastern Europe and Eurasia:
+
+---
+
+- HIST 416 History of Imperial Russia: 1689–1917 Units: 4
+- IR 345 Russian and Post-Soviet Foreign Policy Units: 4
+- IR 346 Communism and Post-Communism: Eastern Europe and the Balkans Units: 4
+- IR 439 Political Economy of Russia and Eurasia Units: 4
+- SLL 330gp Russian Thought and Civilization Units: 4
+
+### Latin America:
+
+---
+
+- ANTH 425 Peoples and Cultures of Latin America Units: 4
+- HIST 372 Modern Latin America Units: 4
+- HIST 374 History of Mexico Units: 4
+- IR 364 The Political Economy of Latin American Development Units: 4
+- IR 365 Politics and Democracy in Latin America Units: 4
+- IR 366 Mexico and its Relations with the United States Units: 4
+- IR 425 The New Triangle: China, the U.S. and Latin America Units: 4
+- IR 465 Contemporary Issues in United States-Latin America Relations Units: 4
+- IR 466 Contemporary Issues in Latin American Politics Units: 4
+- POSC 350 Politics of Latin America Units: 4
+- POSC 431 Political Economy of Central America Units: 4
+- SPAN 320 Politics, Thought, Society Units: 4
+
+### The Middle East and Africa:
+
+---
+
+- ECON 342 Economic Development of the Middle East Units: 4
+- HIST 480 Seminar in Middle East History Units: 4
+- IR 362 The International Relations of the Contemporary Middle East Units: 4
+- IR 363 Middle East Political Economy Units: 4
+- IR 367 Africa in International Affairs Units: 4
+- IR 463 Islam and Arab Nationalism Units: 4
+- POSC 351 Middle East Politics Units: 4
+- POSC 358 Politics of Sub-Sahara Africa Units: 4
+- REL 402 Cultural Heritage, Religion, and Politics in the Middle East Units: 4
+
+### Pacific Rim:
+
+---
+
+- ANTH 323 Southeast Asian Cultures Today: Globalization and Multiple Modernities Units: 4
+- ANTH 324gw Contemporary China: Cultural Politics and Social Realities Units: 4
+- EALC 340gp Japanese Civilization Units: 4
+- EALC 345 Korean Civilization Units: 4
+- EALC 350gp Chinese Civilization Units: 4
+- EALC 375 Women and Gender in China: Past and Present Units: 4
+- EASC 360 Global East Asia Units: 4
+- ECON 343 Economic Development of East Asia Units: 4
+- HIST 333 Korea: The Modern Transformation Units: 4
+- HIST 337 Japan since 1945 Units: 4
+- HIST 340 History of China since 1800 Units: 4
+- IR 333 China in International Affairs Units: 4
+- IR 360 International Relations of the Pacific Rim Units: 4
+- IR 361 South and Southeast Asia in International Affairs Units: 4
+- IR 384 Asian Security Issues Units: 4
+- IR 442 Japanese Foreign Policy Units: 4
+- POSC 352 Politics of Southeast Asia Units: 4
+- POSC 355 Politics of East Asia Units: 4
+- POSC 356 Politics in the People’s Republic of China Units: 4
+- POSC 453 Political Change in Asia Units: 4
+
+---

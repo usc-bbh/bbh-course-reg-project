@@ -1,0 +1,120 @@
+Program Name: Geodesign (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31939
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31939&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31939
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:33Z
+Content SHA-256: 7431eae06674e3bb11a134ee536a4451dadd3c239b54eb66ea354879c44b5efe
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Geodesign (BS)
+
+---
+
+The Bachelor of Science in Geodesign is an interdisciplinary major offered by the Dornsife College of Letters, Arts and Sciences, the USC School of Architecture, and the USC Price School of Public Policy. This degree prepares students for professional careers and/or graduate study by engaging them in the acquisition, representation, analysis, modeling and visualization of spatial information set in the context of the built environment and policy. The underlying spatial principles, methods and tools can be used to support sustainable planning, facility and infrastructure management, the design of livable and healthy communities, and a series of regional planning applications to address pollution, water and energy needs, and the impact of population growth on the environment. The major electives provide students with opportunities to explore one or more facets of the built environment and a series of complementary analytical and visualization tools in more detail. Finally, the major is structured to provide students with sufficient elective credits to explore minors or other programs at USC so they can broaden their education to better prepare themselves for the next stage of their lives.
+
+#### General Education Requirements
+
+The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see General Education .
+
+#### Major Requirements
+
+A minimum grade of C, 2.0 (A = 4.0) must be earned in each of the core courses and the capstone course. In addition, a minimum grade point average of C (2.0) or higher must be achieved in the major to earn the geodesign degree. No more than 16 units of core courses may be taken prior to the successful completion of the geodesign pre-major requirements.
+
+#### Pre-major Requirements
+
+Both pre-major requirements must be taken for a letter grade and a minimum grade of C, 2.0 (A = 4.0), must be earned in each of the pre-major courses.
+
+#### Departmental Honors
+
+Students in the BS in HSGI program can receive departmental honors by satisfying a > 3.7 GPA in major core courses in their second to last semester and an overall GPA > 3.5, and by presenting a poster or making a presentation of their research at an academic or professional conference and/or by exhibiting leadership within a club or organization.
+
+## Pre-Major Courses (8 Units)
+
+---
+
+- ECON 203g Principles of Microeconomics Units: 4
+- MATH 114xg Foundations of Statistics Units: 4
+
+## Core Courses + Capstone Course (48 Units)
+
+---
+
+- ARCH 203 Visualizing and Experiencing the Built Environment Units: 4
+- ARCH 303 Principles of Spatial Design I Units: 4
+- ARCH 403 Principles of Spatial Design II Units: 4
+- PPD 227 Planning for the Future City Units: 4
+- RED 417 History of Planning and Development Units: 4
+- RED 425 Designing Livable Communities Units: 4
+- SSCI 201g Principles of Geodesign Units: 4
+- SSCI 301L Maps and Spatial Reasoning Units: 4
+- SSCI 381 Statistics for the Spatial Sciences Units: 4
+- SSCI 382L Geographic Information Science: Spatial Analytics Units: 4
+- SSCI 383L Geographic Information Science: Geospatial Modeling and Customization Units: 4 (capstone course)
+- SSCI 412 Geodesign Practicum Units: 4
+
+## Additional Requirements
+
+---
+
+#### Capstone Course
+
+All students will take 4 units of a capstone experience during their senior year. This may be fulfilled by taking SSCI 412L GeoDesign Practicum (4 units) , which may be offered by any of the 3 units cross-listed (SSCI, ARCH, PPD) and will require students to use their knowledge and skills on a real project with a real client.
+
+#### Major Electives (24 Units)
+
+A suite of courses that further the development of practical, theoretical, and field knowledge and skills, including computer graphics, drawing, policy analysis, public finance, and statistics. Choose additional electives from the two lists equal to at least six courses (24 units) in all. At least two courses must come from Group A and two courses from Group B.
+
+### Group A: Built Environment
+
+---
+
+- ANTH 355 Urban Anthropology Units: 4
+- ENST 323 Politics of Global Environment Units: 4
+- ENST 335 Science, Health and the Environment Units: 4
+- POSC 363 Cities and Regions in World Politics Units: 4
+- PPD 360 Urban Transportation Planning and Policy Units: 4
+- PPD 361 Sustainable Communities, Policy and Planning Units: 4
+- PPD 410 Comparative Urban Development Units: 4
+- SOCI 242g Sociology, Demography and Health Units: 4
+- SSCI 165Lgw Sustainability Science in the City Units: 4
+- SSCI 175gw Food, Health and Place Units: 4
+- SSCI 214g Human Populations and Natural Hazards Units: 4
+- SSCI 265Lg The Water Planet Units: 4
+- SSCI 350 International Geodesign Units: 4
+
+### Group B: Design, Analysis And Computation
+
+---
+
+- ARCH 307 Digital Tools for Architecture Units: 3
+- DES 102 Design Fundamentals Units: 4
+- DES 203 Digital Design Fundamentals Units: 2
+- ENST 387 Economics for Natural Resources and the Environment Units: 4
+- IR 323 Politics of Global Environment Units: 4
+- POSC 265gw Environmental Challenges Units: 4
+- POSC 363 Cities and Regions in World Politics Units: 4
+- POSC 436 Environmental Politics Units: 4
+- PPD 430 Urban Informatics Units: 4
+- SSCI 135g Maps in the Digital World Units: 4
+- SSCI 220L Spatial Data Collection Using Drones Units: 4
+- SSCI 313 Global Geodesign and Stakeholder Engagement Units: 2
+- SSCI 314 Comparative Sustainability Theory and Practice for Geodesign Units: 2
+- SSCI 402 GIS and Sustainable Development Units: 4
+
+## Additional Requirements
+
+---
+
+#### Honors
+
+Candidates for the BS in Geodesign can receive an honors degree by meeting these requirements: a 3.7 GPA in department courses at the time of graduation; completion of an honors research project or thesis under the guidance of a faculty member (SSCI 412L ). Admission to the program is granted by the departmental undergraduate adviser in the semester preceding enrollment in SSCI 412L ; students should have a 3.7 GPA in the major at this time.
+
+---

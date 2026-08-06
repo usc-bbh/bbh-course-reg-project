@@ -1,0 +1,214 @@
+Program Name: Music Industry (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32241
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32241&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32241
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:55Z
+Content SHA-256: f4adbcdd861bbaa0964a9bbed4c97d27728f4253e62bc7f9abee1a54b2549b79
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Music Industry (BS)
+
+---
+
+## Overview
+
+The Bachelor of Science in the Music Industry is a professional degree that prepares students to enter a variety of careers in the music industry of today. Students must fulfill a series of core requirements for the degree.
+
+## Entrance Requirements
+
+Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees. Specific entrance requirements are reviewed on an annual basis and published online at music.usc.edu.
+
+## General Education Requirements
+
+USC’s General Education program, revised in fall 2015, provides a coherent, integrated approach to the study of the liberal arts, with the goal of nurturing habits of thought that are essential for professional success, personal development, and meaningful lifelong learning. Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC. With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements. Academic advisers in the Thornton School carefully guide Thornton students in making their course choices. This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements.
+
+## Business-related Requirements
+
+In addition to the above general education requirements, the following courses offered through the USC Marshall School of Business, the USC Leventhal School of Accounting and the USC Dornsife College of Letters, Arts and Sciences are required.
+
+## Capstone Project
+
+A capstone project must be completed under approved faculty supervision and guidance. The faculty of the department of the student’s major program determines the detailed requirements of the project, including content, length, format and other specifications. In cases in which a performance venue is required in order to present the project, reservations must be made according to the current guidelines of the Music Operations office.
+
+## Curriculum Requirements
+
+---
+
+### General Education *
+
+---
+
+#### Core Literacies
+
+---
+
+GE-A: The Arts (one course)
+
+GE-B: Humanistic Inquiry (two courses)
+
+GE-C: Social Analysis (two courses)
+
+GE-D: Life Sciences (one course)
+
+GE-E: Physical Sciences (one course)
+
+GE-F: Quantitative Reasoning (one course)
+
+#### Global Perspectives
+
+---
+
+GE-G: Global Perspectives I (one course)
+
+GE-H: Global Perspectives II (one course)
+
+#### Writing
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+### Business Related Courses (12 units)
+
+---
+
+- ACCT 410x Foundations of Accounting Units: 4
+- Any 4 unit ECON course
+- One course from the following:
+- BAEP 450 Fundamentals of Entrepreneurship Units: 4
+- BAEP 451 The Management of New Enterprises Units: 4
+
+### Program Intensive Courses (27 units)
+
+---
+
+- MPPM 100 Forum Units: 1
+- MTEC 175 Fundamentals of Audio Recording Units: 2
+- MTEC 176 Critical Listening Units: 2
+- MUIN 270 Introduction to the Music Industry Units: 4
+- MUIN 360 Introduction to Music Law Units: 4
+- MUIN 370 Music Publishing and Licensing Units: 2
+- MUIN 425 Live Music Production and Promotion Units: 4
+- MUIN 450 Practicum in Music Industry Issues (Internship) Units: 1, 2, 3, 4
+- 4 units total of MUIN 450
+- MUIN 497 Current Topics, Case Studies, and Analysis Units: 2
+- 4 units total of MUIN 497
+
+### Select 12 units from the following:
+
+---
+
+- MUIN 280 Communications in the Music Industry Units: 4
+- MUIN 430 Artist Management and Development Units: 4
+- MUIN 443 The Business of Music for Visual Media Units: 4
+- MUIN 444 Music Supervision Units: 4
+- MUIN 445 International Music Industry Units: 4
+- MUIN 450 Practicum in Music Industry Issues (Internship) Units: 1, 2, 3, 4
+- MUIN 475 Advanced Concert Management Units: 4
+- MUIN 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- MUIN 495 Web Design for the Music Industry Units: 4
+- MUIN 496 Music Media Solutions Units: 4
+
+### Select 8 units from the following:
+
+---
+
+- MTEC 245 Introduction to MIDI Sequencing Units: 1
+- MTEC 246 Introduction to Audio Recording and Editing Units: 1
+- MTEC 248 Introduction to Music Notation Units: 1
+- MTEC 275 Fundamentals of Audio Engineering Units: 4
+- MTEC 389 Digital Equipment and Recording Units: 2
+- MTEC 392a Acoustics and Speaker Design Units: 2
+- MTEC 442 Operation of the Radio Studio Units: 2
+- MTEC 443 Desktop Music Production Units: 2
+- MTEC 446a Computer Assisted Recording and Editing Units: 2
+- MTEC 446b Computer Assisted Recording and Editing Units: 2
+- MTEC 474a Electronic Synthesizer Techniques Units: 2, 3, 4
+- MTEC 474b Electronic Synthesizer Techniques Units: 2, 3, 4
+- MTEC 477 Remote Recording Techniques Units: 2
+- MTEC 478 Advanced Multichannel Remix Units: 2
+- MTEC 479 Audio Mastering Units: 2
+- MTEC 486 Computer-Assisted Music Editing for Picture Units: 2
+- MTEC 493 Audio Signal Processing Equipment Units: 2
+
+### Select 4 units from the following:
+
+---
+
+- BUAD 307 Marketing Fundamentals Units: 4
+- MUIN 410 Marketing, Branding and Strategic Alliances in Music Units: 2
+- MUIN 420 DIY Music Marketing Units: 2
+
+### Select 4 units from the following:
+
+---
+
+- MPPM 350g A History of Popular Music Units: 4
+- MUHL 250g Music and Ideas Units: 4
+- MUHL 350g Western Art Music History I Units: 4
+- MUHL 351 Western Art Music History II Units: 4
+- MUJZ 350g A History of Jazz Music Units: 4
+- MUSC 102gw World Music Units: 4
+- MUSC 115gp Western Music as Sounding History Units: 4
+- MUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4
+- MUSC 210g Electronic Music and Dance Culture Units: 4
+- MUSC 250gmw The Music of Black Americans Units: 4
+- MUSC 320gmw Hip-hop Music and Culture Units: 4
+- MUSC 371g Musical Genre Bending Units: 4
+- MUSC 372g Music and Politics Units: 4
+- MUSC 373g Writing About Popular Music Units: 4
+- MUSC 423 Classic Rock: Popular Music of the Sixties and Seventies Units: 2
+- MUSC 424 Iconic Figures of Popular Music Units: 2
+- MUSC 444 American Roots Music: History and Culture Units: 4
+- MUSC 460 Film Music: History and Function from 1930 to the Present Units: 4
+- MUSC 465 Music, Television and American Culture Units: 4
+
+### Select 6 units from the following:
+
+---
+
+- MPGU 120a Beginning Pop/Rock Guitar Units: 2
+- MPGU 120b Beginning Pop/Rock Guitar Units: 2
+- MPGU 120c Beginning Pop/Rock Guitar Units: 2
+- MPGU 121 Intensive Beginning Pop/Rock Guitar Units: 4
+- MPKS 150a Beginning Piano Units: 2
+- MPKS 150b Beginning Piano Units: 2
+- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2
+- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2
+- MPPM 340 Intermediate Drum Set Proficiency Units: 2
+- MPVA 141 Class Voice Units: 2
+- MPVA 241 Intermediate Class Voice Units: 2
+- MUCO 101x Fundamentals of Music Theory Units: 2
+- MUCO 130ax Basics of Music Theory Units: 3
+- MUCO 130bx Basics of Music Theory Units: 3
+- MUSC 255 Songwriting I Units: 2
+- MUSC 355 Songwriting II Units: 2
+- MUSC 455 Songwriting III: The Performing Songwriter Units: 2
+
+### Electives (21 units)
+
+---
+
+### Capstone Projects (2 units)
+
+---
+
+- MUIN 498a Final Capstone Project Units: 1
+- MUIN 498b Final Capstone Project Units: 1
+
+## Total Units: 128
+
+---
+
+[*]With correct planning, only 32 units (six GE and two writing courses) will be needed outside of your major requirements.​
+
+---

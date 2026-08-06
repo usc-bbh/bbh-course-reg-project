@@ -1,0 +1,45 @@
+Program Name: Drawing Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31576
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31576&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31576
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:50Z
+Content SHA-256: a0b946f1f02f198b44b677a8ce48ecbaf30b73619c3b5f85bea7dd0abf87a160
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Drawing Minor
+
+---
+
+Students enrolled in the minor in drawing will develop their creativity and technical drawing skills, as well as deepen their understanding of contemporary art. Foundation courses provide the fundamentals of spatial rendering, composition, figure drawing and visual expression. Advanced courses require more ambitious projects, personal direction, research and sustained focus. The minor is available to all USC students who wish to develop their abilities to communicate through visual means, or who wish to develop skills for conceptualization and problem solving. The minor in drawing can assist the students in art-related work, as well as creative pursuits such as printed works with images, games and animation. A total of 20 units are required for this minor.
+
+## Required Lower-Division Courses (8 Units)
+
+---
+
+- ART 110 Drawing for Art and Design Units: 4
+- ART 120 Painting I Units: 4
+
+## Three Upper-Division Courses (12 units) chosen from the following:
+
+---
+
+Three upper-division courses (12 units) chosen from the following:
+
+- ART 310 Drawing II Units: 4
+- ART 311 Anatomical Drawing from Life Units: 2
+- ART 312 Comics Project Units: 4
+- ART 370 Printmaking Units: 4
+- ART 410 Topics in Advanced Drawing Units: 4 (max 12)
+- ART 415 Studies in Drawing and Painting Units: 4
+- ART 470 Topics in Advanced Printmaking Units: 4 (max 12)
+- CRIT 350gw Global Art, Design and Visual Culture since 1960 Units: 4
+
+---

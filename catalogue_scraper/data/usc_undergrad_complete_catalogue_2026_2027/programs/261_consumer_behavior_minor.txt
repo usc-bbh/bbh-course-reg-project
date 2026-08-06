@@ -1,0 +1,173 @@
+Program Name: Consumer Behavior Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31602
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31602&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31602
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:58Z
+Content SHA-256: 3ae4a6b28467f25c1b98295d618bd070e637789b2311cf30c25b187c17ca5dfa
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Consumer Behavior Minor
+
+---
+
+Consumer behavior studies inform decision makers in the business, government and non-profit sectors on how consumer decisions, preferences, activities and other behaviors are influenced by factors such as culture, subculture, demographics, sensation, thinking, conscious and unconscious information processing, knowledge organization, beliefs, interpersonal communication, learning from experience and values. This is an interdisciplinary field, drawing on such disciplines as marketing, psychology, sociology, anthropology, economics, linguistics, ethnic studies, gender studies, geography, history, cognitive science and communications to understand the experiences of contemporary consumers across the world.
+
+To enroll in this minor, students must have completed a minimum of 32 units of college-level courses and have a minimum overall GPA of 2.75.
+
+This minor requires 18-20 units.
+
+## Required Courses
+
+---
+
+- MKT 450 Consumer Behavior and Marketing Units: 4
+- PSYC 100Lg Introduction to Psychology Units: 4
+
+## Electives
+
+---
+
+Complete at least 10 units consisting of at least three courses from the list below subject to the following constraints:
+
+- A minimum of 18 units (including MKT 450 and PSYC 100Lg ) must be unique to the minor (i.e., not be countable toward requirements for the major). This does not include any prerequisites for courses listed.
+- At least 16 units of all courses taken for the minor are not offered by the student’s major department. For Business Administration and Accounting majors, courses with prefixes of BUAD, DSO and MKT are considered to be offered by the student’s major department.
+- No more than two of the courses chosen from the list below may be offered by the same department.
+- At least one of the courses chosen below has a prefix other than COMM, MKT and BUAD.
+- Courses taken at institutions other than USC (i.e., International Exchange programs and transfer credits) cannot substitute for any of the minor requirements.
+
+### American Studies
+
+---
+
+- AMST 205g Introduction to American Popular Culture Units: 4
+- AMST 274mw Exploring Ethnicity through Film Units: 4
+- AMST 285gm African American Popular Culture Units: 4
+- AMST 380 American Popular Culture Units: 4
+- AMST 385 African American Culture and Society Units: 4
+
+### Anthropology
+
+---
+
+- ANTH 205g Introduction to Global Studies and Cross-cultural Research Units: 4
+- ANTH 263g Exploring Culture through Film Units: 4
+- ANTH 338g Food in Culture and Society Units: 4
+- ANTH 355 Urban Anthropology Units: 4 **
+- ANTH 370 Sex, Love, and Marriage: An Introduction to Kinship Units: 4
+- ANTH 375 Anthropology for Consulting and Design Units: 4
+- ANTH 460 Economic Anthropology Units: 4 **
+
+### Business Administration
+
+---
+
+- BUAD 307 Marketing Fundamentals Units: 4
+
+### Communication
+
+---
+
+- COMM 302 Persuasion Units: 4
+- COMM 340 The Cultures of New Media Units: 4 *
+- COMM 384 Interpreting Popular Culture Units: 4
+- COMM 396g Fashion, Media and Culture Units: 4 **
+
+### Data Science and Operations
+
+---
+
+- DSO 427 Spreadsheet Modeling for Business Insights Units: 4
+- DSO 455 Project Management Units: 4
+
+### Economics
+
+---
+
+- ECON 340 Economics of Less Developed Countries Units: 4 *
+- ECON 346 Economics of Transition and Development: China Units: 4 *
+- ECON 405 Neuroeconomics Units: 4 *
+- ECON 415 Behavioral Economics Units: 4 *
+- ECON 420 Experimental Economics Units: 4 *
+- ECON 432 Economics of Happiness Units: 4 *
+
+### English
+
+---
+
+- ENGL 392 Visual and Popular Culture Units: 4
+
+### History
+
+---
+
+- HIST 380 American Popular Culture Units: 4
+
+### Information Technology Program
+
+---
+
+- TAC 115 Programming in Python Units: 2 or
+- TAC 116 Accelerated Programming in Python Units: 2
+-
+- TAC 249 Introduction to Data Analytics Units: 4
+- TAC 310 Design for User Experience Units: 4
+
+### Marketing
+
+---
+
+- MKT 402 Introduction to Marketing Analytics Units: 4 *
+- MKT 404 Happiness and Wellbeing in the Marketplace Units: 4
+- MKT 405 Marketing Communication and Promotion Strategy Units: 4 *
+- MKT 410 Professional Selling Units: 4 *
+- MKT 465 Multicultural Marketing Units: 4 *
+
+### Policy, Planning, and Development
+
+---
+
+- PPD 245g The Urban Context Units: 4
+
+### Psychology
+
+---
+
+- PSYC 240gx Scientific Inquiry and Reasoning in Health Care Units: 4
+- PSYC 355 Social Psychology Units: 4 *
+- PSYC 422 Human Judgment and Decision Making Units: 4 *
+- PSYC 451 Formation and Change of Attitudes Units: 4 * **
+- PSYC 454 Social Cognition Units: 4 * **
+- PSYC 456 Conservation Psychology Units: 4 *
+
+### Sociology
+
+---
+
+- SOCI 155gm Immigrant America Units: 4
+- SOCI 210g Science, Technology, and Social Conflict Units: 4
+- SOCI 242g Sociology, Demography and Health Units: 4 *
+- SOCI 305m Sociology of Childhood Units: 4 **
+
+### Notes:
+
+---
+
+[*] Prerequisites required
+** Courses not offered regularly
+(Prerequisites will not be waived for upper-division courses; students must complete the prerequisite courses needed in addition to the courses for this minor.)
+
+## Total requirements: at least five courses: 18-20 units
+
+---
+
+Return to: USC Marshall School of Business
+
+---

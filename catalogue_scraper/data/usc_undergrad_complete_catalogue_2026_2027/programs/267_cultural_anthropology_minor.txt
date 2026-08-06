@@ -1,0 +1,56 @@
+Program Name: Cultural Anthropology Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31702
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31702&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31702
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:12Z
+Content SHA-256: fb6011895824b23c6d624940c811d9b8211232fd529f529f6e3c8742a4592687
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Cultural Anthropology Minor
+
+---
+
+Anthropology is the comparative study of human culture and society, the study of how individuals and communities are shaped by their traditions, values and institutions.
+
+The Cultural Anthropology minor allows students to develop insight into the field of Anthropology without a full major. The minor offers training in anthropological theory and provides opportunities to develop knowledge of a specific area of anthropological study, or to study and apply anthropological insights in an interdisciplinary context.
+
+More information about courses and faculty can be found on the Anthropology Department website: dornsife.usc.edu/anth.
+
+Departmental minors are required to take four courses (16 units) in Anthropology.
+
+## Introductory Course Work (4 units)
+
+---
+
+One introductory course in preparation for the minor, either:
+
+- ANTH 201g Introduction to Social and Cultural Anthropology Units: 4 or
+- ANTH 263g Exploring Culture through Film Units: 4
+
+## Upper-Division Requirement (4 units)
+
+---
+
+- ANTH 440 History of Anthropological Theory Units: 4
+
+## Two Anthropology Electives (8 units):
+
+---
+
+Two ANTH electives are required, of which at least one should be upper division (300-499).
+
+Any ANTH courses can be counted toward the elective requirement (unless counted toward a different requirement for the minor). However, the following electives are specifically recommended for Cultural Anthropology Minors:
+
+- ANTH 211 Writing Culture: Ethnography as Critical Reasoning Units: 4
+- ANTH 304 Critical Issues in Contemporary Anthropology Units: 4
+- ANTH 325 Mixed Methods Research for Global and Cross-Cultural Studies Units: 4
+
+---

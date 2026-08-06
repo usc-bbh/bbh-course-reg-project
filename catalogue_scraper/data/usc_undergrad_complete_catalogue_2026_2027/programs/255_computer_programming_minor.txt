@@ -1,0 +1,64 @@
+Program Name: Computer Programming Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32127
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32127&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32127
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:46Z
+Content SHA-256: 04d8313226af5ea45296ad8e61277409439c6b268559def80bd61ce2e988759d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Computer Programming Minor
+
+---
+
+The minor in computer programming focuses on the practical programming skills necessary to solve problems in a variety of domains including on desktops, laptops, mobile devices, the Web, the cloud and for video games. Upon completion of the minor, students will have strong experience with the application of programming languages in several different contexts.
+
+Students with a declared major in computer science, computer science and computer engineering, computer science (games), or computer science and business administration are not eligible for this minor. Students with a declared minor in computer science are likewise not eligible.
+
+## Choose one introductory programming course (2 units)
+
+---
+
+- TAC 115 Programming in Python Units: 2
+- TAC 116 Accelerated Programming in Python Units: 2
+- * TAC 115 or TAC 116 is recommended.
+- TAC 165 Introduction to C++ Programming Units: 2
+
+## Complete the following (8 units)
+
+---
+
+- TAC 265 Software Design with Object-Oriented Programming Units: 4
+- TAC 365 Data Structures in C++ Units: 4
+
+## Choose electives from the following (8 units)
+
+---
+
+- TAC 303 Full-Stack Web Development Units: 4
+- TAC 341 Android App Development Units: 4
+- TAC 342 iOS App Development Units: 4
+- TAC 344 Advanced iOS App Development Units: 4
+- TAC 345 Advanced Android App Development Units: 4
+- TAC 368 Cross-Platform App Development with Flutter Units: 4
+- TAC 380 Video Game Programming Units: 4
+- TAC 435 Professional C++ Units: 4
+- TAC 439 Compiler Development Units: 4
+- TAC 216 Applied Python Units: 2
+- TAC 259 Basics of Artificial Intelligence Units: 4
+- TAC 348 Making Smart Devices: Introduction to Electronics/Wearables Units: 4
+- TAC 382 Mobile Game Development Units: 4
+- TAC 404 Advanced Front-End Web Development Units: 4
+- TAC 405 Advanced Back-End Web Development Units: 4
+- TAC 438 Advanced Gameplay Programming Units: 4
+- TAC 449 Applications of Machine Learning Units: 4
+- TAC 483 Communication for Software Engineers Units: 2
+
+---

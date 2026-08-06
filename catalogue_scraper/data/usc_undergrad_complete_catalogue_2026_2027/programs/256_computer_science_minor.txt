@@ -1,0 +1,74 @@
+Program Name: Computer Science Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32531
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32531&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32531
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:49Z
+Content SHA-256: fc708e6e0958ff8e83625bf2e321057c080ff1b70c808df3e5e726e6501c8da1
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Computer Science Minor
+
+---
+
+The computer science minor introduces the concepts, tools and techniques that are involved in the programming of computers. The minor prepares students to achieve mastery in several current programming languages. In addition, the student will learn about creating effective user interfaces and how to build applications that are available on the Internet.
+
+Admission to the minor requires a B grade or higher in CSCI 102L , CSCI 103L and CSCI 170 . Students who meet these criteria may contact the Computer Science department to request admission to the minor.
+
+## Required Courses (18 units)
+
+---
+
+CSCI 102L is a preparatory requirement. Students with programming experience may request to take a placement exam to waive this requirement.
+
+- CSCI 102L Introduction to Programming Units: 2
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 104L Data Structures Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+-
+- CSCI 201 Principles of Software Development Units: 4 or
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4
+
+## Technical Electives (12 units)
+
+---
+
+12 units of upper-division courses selected from the following list:
+
+- CSCI 310 Software Engineering Units: 4
+- CSCI 350 Fundamentals of Operating Systems Units: 4
+- CSCI 353 Internetworking Units: 4
+- CSCI 356 Computer Systems Units: 4
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4
+- CSCI 401 Capstone: Design and Construction of Large Software Systems Units: 4
+- CSCI 420 Computer Graphics Units: 4
+- CSCI 430 Computer and Network Security Units: 4
+- CSCI 445L Foundations of Robotics Units: 4
+- CSCI 467 Foundations of Machine Learning Units: 4
+- CSCI 476 Cryptography: Secure Communication and Computation Units: 4
+- CSCI 485 File and Database Management Units: 4
+- CSCI 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- CSCI 499 Special Topics Units: 2, 3, 4
+
+## Total units: 30
+
+---
+
+## Note:
+
+---
+
+- Students interested in a progressive or traditional master’s degree in Computer Science must take CSCI 201L , CSCI 270 , CSCI 356 and CSCI 350 as preparation.
+- Students with interests in business applications should consider CSCI 310 , CSCI 401 or CSCI 485 .
+- Students with interest in AI/Robotics should consider CSCI 360 , CSCI 420 or CSCI 445L .
+- Students with interest in networking and security should consider CSCI 353 , CSCI 430 or CSCI 476 .
+- Additional elective options may be available with adviser approval.
+
+---

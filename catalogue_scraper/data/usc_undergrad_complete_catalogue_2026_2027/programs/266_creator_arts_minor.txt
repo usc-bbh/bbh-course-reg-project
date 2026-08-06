@@ -1,0 +1,48 @@
+Program Name: Creator Arts Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32964
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32964&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32964
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:10Z
+Content SHA-256: 1346c897359d6138110c6b02241243668b99d639730464f9566acbb2e986ae39
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Creator Arts Minor
+
+---
+
+The Creator Arts minor within the School of Dramatic Arts prepares students to thrive in today’s rapidly evolving creator economy by uniting artistic practice with entrepreneurial strategy. Designed for students across disciplines, the minor equips undergraduates with the creative, strategic, and collaborative tools necessary to build sustainable, self-generated careers. Through hands-on, process-based course work, students develop their authentic creative voice while gaining fluency in branding, digital production, audience engagement, and creator-led business models. This 16-unit minor offers an interdisciplinary pathway for students who aspire to become multi-hyphenate artists, innovators, and creative leaders.
+
+## Required Courses (4 units)
+
+---
+
+- THTE 226gw The History of Content Creation Units: 4
+
+## Required Elective Courses (12 units)
+
+---
+
+- THTE 101 Creator Economy Units: 4
+- THTR 101 Introduction to Acting Units: 4
+- THTR 125 Text Studies for Production Units: 4
+- THTR 205g Stardom: Creation, Management and Culture Impact Units: 4
+- THTE 310 The Creative Entrepreneur Units: 4
+- THTR 318 Creating the Hit Podcast Units: 2
+- THTR 410 The Digital Actor Units: 2
+- THTR 424 Creator as Entrepreneur Units: 2
+- THTR 467 Going Viral: Performance for New Media Units: 2
+- THTE 494 Creator Production Units: 4
+
+## Total Units: 16
+
+---
+
+---

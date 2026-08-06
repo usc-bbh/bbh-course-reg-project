@@ -1,0 +1,144 @@
+Program Name: User Experience Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32507
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32507&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32507
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:23Z
+Content SHA-256: 0d24f673882e51cfa4c8c24f8b734d74cdb56e8758466c8b96485e65dfb384ac
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# User Experience Minor
+
+---
+
+This interdisciplinary minor explores the experience of people interacting with digital sites and other products and environments. It involves training in psychology, sociology, economics, design, marketing and other units offering course work in relevant areas. How do individual factors, culture and economics influence people’s decisions? Why do people form the impressions that they do, and how can products and environments be designed to engage them more readily and responsively?
+
+As with all minors, students must choose at least four upper-division 4-unit courses and four courses dedicated exclusively to this minor (which may or may not be the same four courses). Students must also include four courses outside their major. To earn credit for this minor, psychology majors must choose four courses outside of psychology, art and design majors must choose four courses outside of the Roski School, and Business Administration majors must choose four courses outside of the Marshall School. Among the total, students must include courses from at least three departments.
+
+For advisement, contact the Dornsife Advising Office.
+
+Requirements
+
+Please note that prerequisites will not be waived for upper-division courses; students should be sure to complete the introductory classes they will need.
+
+## Lower Division Courses - Group A
+
+---
+
+Choose 4 units from the following:
+
+- ACAD 280 Information Design Units: 4
+- ART 141xg Creating and Understanding Visuals Units: 4
+- CRIT 150gp Histories of Art, Design and Visual Culture Units: 4
+- DES 123xg The Design Challenge: Exploring the Design Process Units: 4
+- DES 203 Digital Design Fundamentals Units: 2 *
+- and
+- DES 303 Advanced Digital Design Units: 2 *
+- ECON 203g Principles of Microeconomics Units: 4
+- LING 275Lg Language and Mind Units: 4
+- PSYC 100Lg Introduction to Psychology Units: 4
+
+### Note:
+
+---
+
+*Both DES 203 and DES 303 (2 units each) must be completed, if students choose that option. DES 303 requires DES 203 as a prerequisite.
+
+## Upper Division Courses - Group B
+
+---
+
+Choose one of the following:
+
+- BUAD 307 Marketing Fundamentals Units: 4
+- COMM 302 Persuasion Units: 4
+- MKT 450 Consumer Behavior and Marketing Units: 4
+- PSYC 355 Social Psychology Units: 4 *
+
+### Note:
+
+---
+
+*Requires PSYC 100Lg .
+
+## Upper Division Courses - Group C
+
+---
+
+Choose one of the following:
+
+- COMM 309 Communication and Technology Units: 4
+- COMM 339 Communication Technology and Culture Units: 4
+- DES 302 Design III Units: 4 *
+- ECON 303 Intermediate Microeconomic Theory Units: 4
+- MKT 425 Digital Marketing Fundamentals Units: 4
+- MKT 445 New Product Development and Branding Units: 4 **
+- PSYC 422 Human Judgment and Decision Making Units: 4 ***
+
+### Note:
+
+---
+
+*Requires DES 202 .
+
+**Requires BUAD 307 .
+
+***Requires PSYC 314L .
+
+## Upper-division Courses - Group D
+
+---
+
+Choose one of the following:
+
+- BISC 408 Systems Neuroscience: From Synapses to Perception Units: 4 *
+- ECON 415 Behavioral Economics Units: 4 **
+- PSYC 301L Cognitive Processes Units: 4 ***
+- PSYC 304L Sensation and Perception Units: 4 ***
+- PSYC 440 Foundations of Cognitive Neuroscience Units: 4 ***
+- PSYC 454 Social Cognition Units: 4 ***
+
+### Note:
+
+---
+
+*Requires BISC 421 .
+
+**Requires ECON 303 .
+
+***Requires PSYC 100Lg .
+
+## Capstone Courses - Group E
+
+---
+
+Choose one of the following:
+
+- ART 361 Post-Internet Art and Aesthetics Units: 4
+- COMM 473 Advanced Issues in Communication and Technology Units: 4 *
+- CSCI 534 Affective Computing Units: 4
+- DES 402 Advanced Design Projects Units: 4 **
+- MDA 423 User Experience Units: 4
+- PSYC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- (4 units required)
+
+### Note:
+
+---
+
+*Requires COMM 301Lg .
+
+**Requires DES 302 .
+
+## Minimum Units Required: 20
+
+---
+
+---

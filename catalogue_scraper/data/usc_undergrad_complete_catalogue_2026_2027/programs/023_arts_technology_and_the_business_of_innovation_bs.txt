@@ -1,0 +1,391 @@
+Program Name: Arts, Technology and the Business of Innovation (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31586
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31586&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31586
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:47Z
+Content SHA-256: 10dd22c4ffe8409dcb26f376ddd3e29e8e29122a410c1aa9085c6a13eb6b6262
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Arts, Technology and the Business of Innovation (BS)
+
+---
+
+The Iovine and Young Academy Bachelor of Science degree builds expertise at the intersection of human-centered design, technology, business innovation and culture. Through the Academy’s core, students develop a powerful mindset to analyze challenges, think across knowledge domains and synthesize diverse ideas to create new technologies, ventures and humane solutions for purpose-driven change. Design Strategy and Industry Practicum courses place students inside premier professionalizing experiences with leading industry collaborators, providing unparalleled preparation for careers or graduate study. Students develop interactive computing skills as well as more advanced technical skills in extended reality or transformative AI. Students also develop product design modeling and prototyping skills. The Academy core covers business fundamentals within the context of developing new products and experiences. The annual Innovation Quest process assists students in maturing their venture ideas into viable products. The fourth-year “Garage Experience” provides an advanced workshop environment for student teams to develop new products, systems and services, taking them from concept and prototyping to development and launch. Throughout the program students are taught to think seamlessly across domains and to apply their technological, business and design skills in an integrative manner toward innovative problem solving. Academy- and USC-wide electives serve to customize each student’s experience to their individual strengths or desired focus.
+
+The degree requires a total of at least 128 units, including 52 units in the core and 36 units in major electives. Students must select elective courses from the Academy’s offerings in cross-cutting industry areas such as extended reality, product innovation, interactive and physical computing, transformative AI, business of innovation, design strategy and health innovation. In consultation with their academic adviser, students may also petition to create unique degree paths by selecting courses from academic units or disciplines outside of the Academy.
+
+## BS in Arts, Technology and the Business of Innovation
+
+---
+
+The degree integrates design, technology and business skills and processes within the unique IYA Challenge Based Reflective Learning framework in order to prepare students for collaborative product development and process innovation within complex societal challenges.
+
+### Challenge Based Reflective Learning Required Courses (16 Units)
+
+---
+
+- ACAD 174 Innovators Forum Units: 2 (needs to be taken twice)
+- ACAD 376 Industry Practicum I: Designing and Implementing Real-World Solutions Units: 4 or credit bearing industry internship(s)
+- ACAD 475a The Garage Experience Units: 4
+- Collaborative Student Venture Development
+- ACAD 475b The Garage Experience Units: 4
+- Collaborative Student Venture Development
+
+### Business Requirements (8 Units)
+
+---
+
+Take 8 units from the following:
+
+- ACAD 183 Product Management for Challenge-Based Innovation Units: 4
+-
+- ACAD 184 Operations Management and Finance for Challenge-Based Innova Units: 4 or
+- ACAD 185 Analytics and Marketing for Challenge-Based Innovation Units: 4
+
+### Design Requirements (12 units)
+
+---
+
+Take ACAD 176 and 8 units from within one of the following paths:
+
+- ACAD 176 Rapid Visualization Units: 4
+
+#### Path 1
+
+---
+
+- ACAD 324g The Practice of Design: Ideation to Innovation Units: 4 or
+- ACAD 325 Human Technology Interaction and the User Experience Units: 4
+-
+- ACAD 360 Design Strategy: Problem Solving for Organizations Units: 4
+
+#### Path 2
+
+---
+
+- ACAD 187 Digital Toolbox: 3D Design Units: 2
+- ACAD 188 Modeling Products with Solidworks Units: 2
+- ACAD 245 Fundamentals of Product Design Units: 4
+- ACAD 288 Constructing Digital Worlds Units: 4
+- ACAD 444 Designing Products for Industry Units: 4
+- ACAD 445 Designing Products For Licensing Units: 4
+
+### Technology Requirements (16 units)
+
+---
+
+Take ACAD 274 and 12 units from within one of the following tech paths:
+
+- ACAD 274 Designing Interactive Data Systems Units: 4
+
+#### Physical and Embedded Computing for Enhanced Human Performance
+
+---
+
+- ACAD 230 Introduction to Interactive Physical Computing Units: 4
+- ACAD 431 Devices and Systems for Body Computing Units: 4
+- ACAD 535 Ambient Computing for Fashion Units: 4
+- IDSN 572 Embedded Computing for Human Performance Units: 4
+
+#### Transformative AI
+
+---
+
+- ACAD 191 Python for Machine Intelligence Units: 2
+- ACAD 220 Introduction to Data Innovation and Analytics Units: 4
+- ACAD 222 Introduction to Machine Intelligence Units: 4
+- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- IDSN 543 Augmented Intelligence Units: 4
+- IDSN 544 Transformative Artificial Intelligence in Society Units: 4
+
+#### Full Stack Web Development
+
+---
+
+- ACAD 275 Dev I Units: 4
+- ACAD 276 Dev II Units: 4
+- ACAD 280 Information Design Units: 4
+- ACAD 415 Dev III: Designing Applications for Emerging Platforms Units: 4
+-
+- TAC 404 Advanced Front-End Web Development Units: 4 or
+- TAC 405 Advanced Back-End Web Development Units: 4
+
+#### Extended Reality
+
+---
+
+- ACAD 217 Extended Reality Design Units: 4
+- ACAD 288 Constructing Digital Worlds Units: 4
+- IDSN 537 Extended Reality for Fashion Units: 4
+- IDSN 539 Extended Reality Development Units: 4
+- IDSN 574 Extended Reality in Medicine Units: 4
+
+## Major Electives (36 units)
+
+---
+
+Complete 36 units from the following. No more than 20 units outside of the school. ACAD and IDSN courses have no unit restrictions.
+
+Note: Courses from the design, technology or business requirements cannot be taken for duplicate elective credit.​​​​​​​
+
+### Augmented Intelligence and Data Innovation
+
+---
+
+- ACAD 191 Python for Machine Intelligence Units: 2
+- ACAD 220 Introduction to Data Innovation and Analytics Units: 4
+- ACAD 222 Introduction to Machine Intelligence Units: 4
+- ACAD 280 Information Design Units: 4
+- ACAD 422 Cybersecurity, Privacy and Trust in Connective Healthcare Units: 4
+- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- IDSN 543 Augmented Intelligence Units: 4
+- IDSN 544 Transformative Artificial Intelligence in Society Units: 4
+- TAC 449 Applications of Machine Learning Units: 4
+
+### Business of Innovation
+
+---
+
+- ACAD 183 Product Management for Challenge-Based Innovation Units: 4
+- ACAD 184 Operations Management and Finance for Challenge-Based Innova Units: 4
+- ACAD 185 Analytics and Marketing for Challenge-Based Innovation Units: 4
+- ACAD 302 The Hacker Imagination: from Ancient Greece to Cupertino Units: 4
+- ACAD 402 Modern Brand and Community Playbook Units: 2
+- ACAD 406 Purpose-Driven Innovation Incubator Units: 2
+- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- BAEP 474 The Entrepreneur’s Guide to Intellectual Property Units: 2
+- BUAD 315x Basics of Project and Operations Management for Non-Majors Units: 2
+- COMM 206 Communication and Culture Units: 4
+- COMM 375 Business and Professional Communication Units: 4
+- FBE 403 Introduction to the Legal Environment of Business Units: 4
+- FBE 458 Law of Forming, Financing and Managing Businesses Units: 4
+- JOUR 200w The Power and Responsibility of the Press Units: 4
+- JOUR 210x Basics of News Production for Non-Majors Units: 2
+- JOUR 472 Strategies for Monetizing New Media Units: 4
+- RISK 380 Introduction to Enterprise Risk Management Units: 4
+- RISK 387 Risk Management in Entertainment, Sports and the Arts Units: 4
+
+### Design Foundation
+
+---
+
+- ACAD 177 Digital Toolbox: Design Units: 2
+- ACAD 178 Digital Toolbox: Motion Graphics Units: 2
+- ACAD 180 Digital Toolbox: Audio and Video Units: 2
+- ACAD 186 Digital Toolbox: Computational Visual Design Units: 2
+- ACAD 187 Digital Toolbox: 3D Design Units: 2
+- ACAD 188 Modeling Products with Solidworks Units: 2
+- ACAD 189 3D Tools for Product Design Units: 2
+- ACAD 190 Making with Materials Units: 2
+- ACAD 325 Human Technology Interaction and the User Experience Units: 4
+
+### Design Strategy
+
+---
+
+- ACAD 281 Constructing Experiences Units: 4
+- ACAD 302 The Hacker Imagination: from Ancient Greece to Cupertino Units: 4
+- ACAD 307g Punk, Counterculture, and the Do-It-Yourself (DIY) Ethos Units: 4
+- ACAD 325 Human Technology Interaction and the User Experience Units: 4
+- ACAD 350 International Experience Units: 2
+- ACAD 377 Industry Practicum II: Designing and Implementing Real-World Solutions Units: 4
+- ACAD 450 Industry and Impact Projects Units: 2
+- ACAD 480 Design Research Units: 4
+- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- By advisement, select IDSN and PRIN graduate courses offered by the Academy.
+- IDSN 515 Professional Practices Residential Units: 2
+- IDSN 522 Inclusive Design and Design Allyship Units: 2
+- IDSN 523 Product Design for User Experience Units: 4
+
+### Extended Reality
+
+---
+
+- ACAD 178 Digital Toolbox: Motion Graphics Units: 2
+- ACAD 180 Digital Toolbox: Audio and Video Units: 2
+- ACAD 207 Narrative Technology and the Human Experience Units: 4
+- ACAD 217 Extended Reality Design Units: 4
+- ACAD 281 Constructing Experiences Units: 4
+- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- IDSN 537 Extended Reality for Fashion Units: 4
+- IDSN 539 Extended Reality Development Units: 4
+- IDSN 574 Extended Reality in Medicine Units: 4
+
+### Health Innovation
+
+---
+
+- ACAD 260 Introduction to Healthcare Innovation Units: 4
+- ACAD 422 Cybersecurity, Privacy and Trust in Connective Healthcare Units: 4
+- ACAD 431 Devices and Systems for Body Computing Units: 4
+- ACAD 432 Collaborative Prototyping in Health Innovation Units: 4
+- ACAD 463 Evidence Based Medicine for Health Innovators Units: 2
+- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- BPSI 411 Biopharmaceutical Marketing Analysis and Strategy Units: 4
+- SOWK 643 Advanced ISW Practice I: Adult Mental Health and Wellness Units: 3
+
+### Interactive Technologies and Physical Computing
+
+---
+
+- ACAD 230 Introduction to Interactive Physical Computing Units: 4
+- ACAD 275 Dev I Units: 4
+- ACAD 276 Dev II Units: 4
+- ACAD 280 Information Design Units: 4
+- ACAD 415 Dev III: Designing Applications for Emerging Platforms Units: 4
+- ACAD 431 Devices and Systems for Body Computing Units: 4
+- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- AME 201 Statics Units: 4.0
+- AME 204 Mechanics of Materials and Structures Units: 4
+- AME 301 Dynamics Units: 4
+- IDSN 535 Ambient Computing for Fashion Units: 4
+- IDSN 572 Embedded Computing for Human Performance Units: 4
+- TAC 344 Advanced iOS App Development Units: 4
+- TAC 365 Data Structures in C++ Units: 4
+- TAC 382 Mobile Game Development Units: 4
+- TAC 388 Developing Smart Devices Units: 4
+- TAC 404 Advanced Front-End Web Development Units: 4
+- TAC 405 Advanced Back-End Web Development Units: 4
+- TAC 425 Web Application Security Units: 4
+- TAC 460 Web Application Project Units: 4
+- TAC 468 Connected Devices Project Units: 4
+- TAC 476 Technologies for Interactive Marketing Units: 4
+- MASC 310L Materials Behavior and Processing Units: 4 (select offerings)
+- By advisement, select IDSN and PRIN graduate courses offered by the Academy.
+
+### Product Innovation
+
+---
+
+- ACAD 177 Digital Toolbox: Design Units: 2
+- ACAD 187 Digital Toolbox: 3D Design Units: 2
+- ACAD 188 Modeling Products with Solidworks Units: 2
+- ACAD 189 3D Tools for Product Design Units: 2
+- ACAD 245 Fundamentals of Product Design Units: 4
+- ACAD 288 Constructing Digital Worlds Units: 4
+- ACAD 344 Advanced iOS App Development Units: 4
+- ACAD 444 Designing Products for Industry Units: 4
+- ACAD 445 Designing Products For Licensing Units: 4
+- ACAD 490 Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- TAC 308 Computer-Aided Design for Bio-Mechanical Systems Units: 3
+
+## General Education Requirements
+
+---
+
+The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. For more information about USC’s general education requirements, see the General Education Program .
+
+## Sample Four-Year Program
+
+---
+
+### Year 1 - Fall
+
+---
+
+- ACAD 174 Innovators Forum Units: 2
+- ACAD 176 Rapid Visualization Units: 4
+- ACAD 181g Disruptive Innovation Units: 4
+- Foundational Electives Units: 4
+- General Education Seminar Units: 4
+
+#### Total units: 18
+
+---
+
+### Year 1 - Spring
+
+---
+
+- ACAD 174 Innovators Forum Units: 2
+- ACAD 182 Disruptive Validation Units: 4
+- ACAD 274 Designing Interactive Data Systems Units: 4
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- Major Electives Units: 4
+
+#### Total units: 18
+
+---
+
+### Year 2 - Fall
+
+---
+
+- ACAD 324g The Practice of Design: Ideation to Innovation Units: 4
+- Intersectional Tech Courses Units: 8
+- Major Electives Units: 4
+
+#### Total units: 16
+
+---
+
+### Year 2 - Spring
+
+---
+
+- ACAD 360 Design Strategy: Problem Solving for Organizations Units: 4
+- Intersectional Tech Courses Units: 8
+- Major Education Units: 4
+
+#### Total units: 16
+
+---
+
+### Year 3 - Fall
+
+---
+
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+- ACAD 376 Industry Practicum I: Designing and Implementing Real-World Solutions Units: 4
+- General Education Units: 4
+- Major Electives Units: 4
+
+#### Total units: 16
+
+---
+
+### Year 3 - Spring
+
+---
+
+- ACAD 377 Industry Practicum II: Designing and Implementing Real-World Solutions Units: 4
+- Major Elective Units: 4
+- General Education Units: 8
+
+#### Total units: 16
+
+---
+
+### Year 4 - Fall
+
+---
+
+- ACAD 475a The Garage Experience Units: 4
+- Major Electives Units: 4
+- General Education Units: 8
+
+#### Total units: 16
+
+---
+
+### Year 4 - Spring
+
+---
+
+- ACAD 475b The Garage Experience Units: 4
+- Major Electives Units: 4
+- General Education Units: 4
+
+#### Total units: 12
+
+---
+
+---

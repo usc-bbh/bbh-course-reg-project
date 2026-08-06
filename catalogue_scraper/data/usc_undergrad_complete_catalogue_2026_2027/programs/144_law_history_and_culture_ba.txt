@@ -1,0 +1,148 @@
+Program Name: Law, History, and Culture (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31822
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31822&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31822
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:31Z
+Content SHA-256: 001afb5eba57893f11e69d7be504c870c90c5362f185e796345f3a71dc494ef9
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Law, History, and Culture (BA)
+
+---
+
+Law, History and Culture is designed for students drawn to interdisciplinary, humanistic study of law and culture, as well as those who intend to pursue a law degree. It offers students an interdisciplinary education in legal institutions, languages and processes that are central to social, cultural and political developments in the past and present, and play a critical role in shaping our most basic concepts and categories of thought and identity. Students will gain theoretical and analytical perspectives on ethical, political and social issues relevant to law as they explore specific legal issues from a humanistic perspective. Students take courses in four core areas, which represent distinct disciplinary approaches to studying law’s position at the nexus of society. The major helps students develop skills for critical reading, writing and analysis that are both crucial to a liberal education and a gateway to further study of law.
+
+## Requirements
+
+---
+
+This major requires a minimum of 36 units (or 40 units with honors). Majors must complete courses from all four areas of core competence. One course from Core Competence 1: Legal Reasoning, three courses from Core Competence 2: Historical Approaches, two courses from Core Competence 3: Texts and Interpretations and three courses from Core Competence 4: Society and Policy.
+
+## Core competence 1: Legal reasoning
+
+---
+
+- LAW 300 Concepts in American Law Units: 4
+
+## Core competence 2: Historical approaches
+
+---
+
+Take three courses from among the following:
+
+- CLAS 275gp The Byzantine Empire, 324 - 1453 Units: 4
+- CLAS 305 Roman Law Units: 4
+- CLAS 307 Law and Society in Classical Greece Units: 4
+- CLAS 333 Cult and City in Ancient Greece Units: 4
+- CLAS 340 Ethics and Politics in Ancient Rome Units: 4
+- CLAS 348g Athens in the Age of Democracy and Empire Units: 4
+- CLAS 370 Leaders and Communities: Classical Models Units: 4
+- CLAS 470 Democracies Ancient and Modern Units: 4
+- HIST 210gw How to Be An American: Global Histories of U.S. Citizenship Units: 4
+- HIST 211gp Race in America Units: 4
+- HIST 220gp Murder on Trial in America Units: 4
+- HIST 265gw Racism, Sexism, and the Law Units: 4
+- HIST 312 The Age of the French Revolution and Napoleon Units: 4
+- HIST 320p Law, Slavery, and Race Units: 4
+- HIST 323 The Holocaust in 20th Century Europe Units: 4
+- HIST 335 History and Law in Japan Units: 4
+- HIST 351 The American Revolution Units: 4
+- HIST 354 Mexican Migration to the United States Units: 4
+- HIST 355 The African-American Experience Units: 4
+- HIST 359 The U.S.-Mexico Border Units: 4
+- HIST 364 Religion and Difference in the Modern Middle East Units: 4
+- HIST 377 Law and Society in Premodern China and Japan Units: 4
+- HIST 385 Law and Order in the Early Modern British World Units: 4
+- HIST 386 American Legal History Units: 4
+- HIST 413 The Age of Revolutions Units: 4
+- HIST 444 Mass Violence and Comparative Genocide in Modern World History Units: 4
+- HIST 448 South Africa: Race, Power and Resistance Units: 4
+- HIST 453 The Age of Emancipation Units: 4
+- HIST 455 Advanced Topics in African-American History Units: 4
+- HIST 456 Race, Slavery, and the Making of the Atlantic World Units: 4
+- HIST 459 Race and the Carceral State Units: 4
+- HIST 460 War, Race, and the Constitution Units: 4
+- HIST 463 The Constitutional History of the United States Units: 4
+- HIST 470 The Spanish Inquisition in the Early Modern Hispanic World Units: 4, 2 years
+- LAW 101w Law and the U.S. Constitution in Global History Units: 4
+- REL 361 Law and Religion Units: 4
+
+## Core competence 3: Literary, Philosophical and Theoretical Perspectives
+
+---
+
+Take two courses from among the following:
+
+- COLT 385 Literature and Justice Units: 4
+- COLT 472 Los Angeles Crime Fiction Units: 4
+- COLT 475 Politics and the Novel Units: 4
+- COLT 476 Narrative and the Law Units: 4
+- ENGL 355g Anglo-American Law and Literature Units: 4
+- ENGL 374m Literature, Nationality and Otherness Units: 4
+- ENGL 381 Narrative Forms in Literature and Film Units: 4
+- JS 342 Reading in Two Directions: Connecting Law and Literature in Jewish Tradition Units: 4
+- PHIL 430 Philosophy of Law Units: 4
+- PHIL 431 Law, Society, and Politics Units: 4
+- SWMS 349 Women and the Law Units: 4
+- SWMS 355 Transgender Studies Units: 4
+- SWMS 358 U.S. Gay and Lesbian History Units: 4
+
+## Core competence 4: Social Movements and Social Policy
+
+---
+
+Take three courses from among the following:
+
+- AMST 101gmw Race and Class in Los Angeles Units: 4
+- AMST 320 Social Construction of Race and Citizenship Units: 4
+- AMST 342m Law and Identities Units: 4
+- AMST 344m Islamic Law and American Society Units: 4
+- AMST 345 Law and American Indian Studies Units: 4
+- AMST 353m Race and Racism in the Americas Units: 4
+- AMST 357m Latino Social Movements Units: 4
+- AMST 389m Carceral Geographies Units: 4
+- ANTH 345 Law, Power and Culture Units: 4
+- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4
+- LAW 320p Law, Enslavement and Race Units: 4
+- POSC 130g Law, Politics and Public Policy Units: 4
+- POSC 248gw Human Rights Units: 4
+- POSC 340 Constitutional Law Units: 4
+- POSC 345 International Law Units: 4
+- POSC 370 European Political Thought I Units: 4
+- POSC 371 European Political Thought II Units: 4
+- POSC 375 American Political Thought Units: 4
+- POSC 380 Political Theories and Social Reform Units: 2, 4
+- POSC 426 The United States Supreme Court Units: 4
+- POSC 441m Cultural Diversity and the Law Units: 4
+- POSC 443 Law in Film Units: 4
+- POSC 444 Civil and Political Rights and Liberties Units: 4
+
+## Honors
+
+---
+
+Students wishing to pursue Departmental Honors must complete one additional course, HIST 493, generally offered in the spring semester. In order to enroll for Honors, students must have taken at least one upper-division course, normally during one of the previous two semesters, which included a substantial original research component. The nature of the original research will depend on the field in which the student is working.
+
+- HIST 493 Law, History and Culture Honors Thesis Seminar Units: 4
+
+## Additional notes:
+
+---
+
+No more than two of the nine required courses (8 units) may be taken at the 100 or 200 level, except with special permission of the LHC major adviser. No more than one lower-division (100 or 200 level) course may be taken in each area of core competence.
+
+Students may petition to substitute a course not on the approved list for an approved course. In order to do so, they must complete the Course Waiver procedure. Normally no more than two courses total may be substituted for those on the approved list.
+
+Students requesting LHC credit for courses taken out of residence (transfer, study abroad, summer school, etc.) must complete the Course Waiver procedure. Normally no more than two courses total may be substituted for those on the approved list.
+
+Students may request permission to shift one of the required courses from one area of core competence to another area in order to accommodate their interests (e.g., take three courses in Area 3 and two in Area 4). In order to do so, students will have to complete the Area of Competence Substitution procedure. Normally no more than two courses can be shifted from one area to another.
+
+---

@@ -1,0 +1,62 @@
+Program Name: Artificial Intelligence Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32947
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32947&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32947
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:33Z
+Content SHA-256: 5d7278dedcaa125e16ecc9125f95ffce4b0d82f1610818071e9daf25050d0b38
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Artificial Intelligence Minor
+
+---
+
+This minor in Artificial Intelligence — using course work from the Thomas Lord Department of Computer Science, the Ming Hsieh Department of Electrical and Computer Engineering, and the Daniel J. Epstein Department of Industrial and Systems Engineering — will permit students in STEM disciplines to develop additional skills in the theory and use of artificial intelligence. Advances in machine learning and artificial intelligence have accelerated rapidly; this minor permits students to pursue course work to further develop their knowledge in this area that will be an industry mainstay.
+
+The program assumes that students have a background that includes collegiate-level mathematics, probability and statistics, and programming:
+
+- Mathematics up through differential equations or linear algebra; i.e., MATH 225 or MATH 235 or MATH 245 or ([MATH 226g or MATH 227 or MATH 229 ] and EE 141L ).
+- Probability and Statistics course or sequence: e.g., (ISE 220 and ISE 225 ) or EE 364 or (CE 119 and CE 408 ).
+- Programming Fundamentals: ([CSCI 113x or ISE 150 ] and CSCI 114x ) or (CSCI 103L and CSCI 104L ) or ([TAC 115 or TAC 116 or CE 108 ] and TAC 216 and [TAC 265 or CSCI 114x ]).
+
+A grade of C or better is required in the prerequisite course work and in CSCI 170 ; grades of C– or below may be retaken only once and only with the corresponding department’s approval. (Interested students who do not satisfy the prerequisites of this minor are encouraged to instead consider pursuing the Artificial Intelligence Applications minor from Viterbi’s Technology and Applied Computing [TAC] program.)
+
+This minor requires 20 units of course work (not including any prerequisites). At least 16 units must be unique to the minor (i.e., not used to fulfill major requirements or the requirements of another minor).
+
+## Required Courses (16 units)
+
+---
+
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4
+- EIS 370 Ethical Issues in Artificial Intelligence Units: 4
+-
+- EE 460 Machine Learning for Engineers Units: 4 or
+- CSCI 467 Foundations of Machine Learning Units: 4
+
+## Electives (4 units)
+
+---
+
+Choose one of the following:
+
+- CSCI 444 Language Models in Natural Language Processing Units: 4
+- CSCI 445L Foundations of Robotics Units: 4
+- CSCI 461 Artificial Intelligence for Sustainable Development Units: 4
+- CSCI 468 Trustworthy Artificial Intelligence Units: 4
+- CSCI 469 Computer Vision Units: 4
+- EE 451 Parallel and Distributed Computation Units: 4
+- EE 456 Reinforcement Learning and Applications Units: 4
+- EE 461 Machine Learning with Distributed Computing Systems Units: 4
+- ISE 325 Modeling for Predictive Analytics Units: 4
+- ISE 470 Human/Computer Interface Design Units: 4
+- TAC 459 Applied Natural Language Processing and Generative AI Units: 4
+
+---

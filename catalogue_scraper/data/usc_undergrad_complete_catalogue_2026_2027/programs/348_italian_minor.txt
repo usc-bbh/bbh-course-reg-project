@@ -1,0 +1,76 @@
+Program Name: Italian Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31813
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31813&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31813
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:39Z
+Content SHA-256: 8b4c7dd40f971f05da1cae7544eb8d039c93bbd7d97e1ee79c0afa3715f17296
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Italian Minor
+
+---
+
+The upper-division requirements include one core course plus an additional three courses to be selected in consultation with the department adviser (no more than two of which may be in English). Of the additional four courses, at least one must be at the 400 level.
+
+Successful completion of the minor requires 32 units.
+
+## Lower Division
+
+---
+
+Some or all of these courses may be waived by examination.
+
+- ITAL 120 Italian I Units: 4
+- ITAL 150 Italian II Units: 4
+- ITAL 220 Italian III Units: 4
+- ITAL 240 Italian IV Units: 4
+
+## Upper Division (4 Courses)
+
+---
+
+### Required core course:
+
+---
+
+Students may choose either ITAL 300 or ITAL 350.
+
+- ITAL 300g Inventing Modern Italy Units: 4 (in English) or
+- ITAL 350g Gender and Sexuality in Renaissance Italy Units: 4 (in English)
+- Students may take the Core course as early as their first semester of Italian and are strongly encouraged to complete it before enrolling in any 400-level course.
+
+### Three upper-division Italian courses to be chosen from the following and to include at least one 400-level course:
+
+---
+
+No more than two courses conducted in English may be counted toward the minor.
+
+- ITAL 300g Inventing Modern Italy Units: 4
+- ITAL 340g Italian and French Cinema and Society Units: 4
+- ITAL 345 Contemporary Italy Units: 4
+- ITAL 347 Italy Today: Youth, Family and Migration Units: 4
+- ITAL 350g Gender and Sexuality in Renaissance Italy Units: 4
+- ITAL 352 The Holocaust in Italian Fiction and Film Units: 4
+- ITAL 360g Italian Cinema Units: 4
+- ITAL 374gm Women Writers in Europe and America Units: 4
+- ITAL 380 Italian Women Writers Units: 4 (in Italian)
+- ITAL 381 Storytelling in the Italian Tradition Units: 4
+- ITAL 382g Dante Units: 4
+- ITAL 392 Seminar in Literary and Cultural Studies Units: 4
+- ITAL 393 Seminar in Italian Thought Units: 4
+- ITAL 402 Studies in Modernity Units: 4 (in Italian)
+- ITAL 403 Black Italy Units: 4 (in Italian)
+- ITAL 440 Futurism and Fascism in Italy Units: 4 (in Italian)
+- ITAL 461 Italian Theatre Units: 4 (in Italian)
+- ITAL 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- ITAL 499 Special Topics Units: 1, 2, 3, 4, 5, 6, 7, 8 , max 8
+
+---

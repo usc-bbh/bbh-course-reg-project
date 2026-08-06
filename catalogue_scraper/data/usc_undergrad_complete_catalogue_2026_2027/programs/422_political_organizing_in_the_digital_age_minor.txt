@@ -1,0 +1,89 @@
+Program Name: Political Organizing in the Digital Age Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31902
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31902&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31902
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:11Z
+Content SHA-256: 98a53b6ee97cf21836588b854433a301acfef5c72b7c26d7532e5dc00ecdc9ff
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Political Organizing in the Digital Age Minor
+
+---
+
+The digital environment is changing the face of political organization, both in domestic American electoral politics and in the methods used by transnational social movements to call attention to problems around the globe. Howard Dean’s use of the Internet to fund his 2004 presidential campaign has made other candidates aware of the political power of the Web in fundraising and grass-roots orchestration of local (and “global”) events.
+
+This minor should be of interest to students majoring in international relations, political science or other programs who plan to use technology to affect contemporary national and international affairs. As with all minors, students must choose four courses dedicated exclusively to this minor and four courses outside their major departments. These may, but need not be, the same four courses.
+
+This minor is intended to help students engage in domestic and international political organizing by creating Websites, podcasting and using other new technologies. It should help students secure internships and jobs with political and international organizations, and generally improve their abilities to change the world.
+
+## Course Requirements
+
+---
+
+### Choose one class from each of the following five lists:
+
+---
+
+#### I. Domestic Political Organizing:
+
+---
+
+- POSC 315 Regulation of Elections and Political Finance Units: 4
+- POSC 335 Political Parties, Campaigns, and Elections Units: 4
+- POSC 422 Political Attitudes and Behavior Units: 4
+- POSC 424m Political Participation and American Diversity Units: 4
+- POSC 437 Mass Media and Politics Units: 4
+
+#### II. Transnational Social Movements:
+
+---
+
+- IR 305w Managing New Global Problems Units: 4
+- IR 306 International Organizations Units: 4
+- IR 324 Multinational Enterprises and World Politics Units: 4
+- IR 371 Global Civil Society: Non-State Actors in World Politics Units: 4
+
+#### III. New Technologies in Organizing:
+
+---
+
+#### IV. The Context of Political Organizing:
+
+---
+
+- COMM 321 Communication and Social Media Units: 4
+- COMM 489 Campaign Communication Units: 4
+- IR 308gw Economic Globalization Units: 4
+- IR 325 North-South Relations in the Global Economy Units: 4
+- IR 330 Politics of the World Economy Units: 4
+- IR 444w Theories of Global Society Units: 4
+- POSC 345 International Law Units: 4
+- POSC 371 European Political Thought II Units: 4
+- POSC 427 Black Politics in the American Political System Units: 4
+- POSC 428 Latino Politics Units: 4
+- POSC 451 Politics of Resources and Development Units: 4
+- POSC 456 Women in International Development Units: 4
+- PPD 372m Public Service in an Urban Setting Units: 4
+
+#### V. Capstone Class:
+
+---
+
+The capstone class allows students to engage more deeply in one of the contributing areas of study.
+
+- COMM 487 Communication and Global Organizations Units: 4
+- POSC 395 Directed Governmental and Political Leadership Internship Units: 2, 3, 4, 5, 6, 7, 8
+
+## Total: Five courses, 20 units
+
+---
+
+---

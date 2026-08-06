@@ -1,0 +1,56 @@
+Program Name: Creative Leadership Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32859
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32859&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32859
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:08Z
+Content SHA-256: 5e6392804eb0b8ba993ed9c96c105665463b6e5313c807014722974d227c1a24
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Creative Leadership Minor
+
+---
+
+The study and practice of embodied communication, collaboration and storytelling to create pathways to authentic, dynamic and empathic leadership. Through the use of these dramatic tools, students will develop and enhance their unique leadership presence. The minor is a 16-unit program.
+
+## Required Courses (6 units)
+
+---
+
+- THTR 122 Improvisation and Theatre Games Units: 2
+- THTR 421 Public Speaking as Performance: A Course for Non-Actors Units: 2
+- THTR 474 Introduction to Stand Up Comedy Units: 2
+
+## Elective Courses (10 units)
+
+---
+
+- THTR 105 Introduction to Screen Acting Units: 2
+- THTR 216 Movement for Actors Units: 2
+- THTR 290 Introduction to Medical Clowning Units: 2
+- THTR 304 Advanced Medical Clowning Units: 2
+- THTR 318 Creating the Hit Podcast Units: 2
+- THTR 322 Improv 2: Advanced Improv Units: 2
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 405m Performing Identities Units: 4
+- THTR 414 Secrets of Storytelling Units: 2
+- THTR 419 Alexander Technique for Performers Units: 2
+- THTR 426 Being on Screen: A Class for Presenters, Hosts, and Others Units: 2
+- THTR 445 Developing Your Speaking Voice Units: 2
+- THTR 467 Going Viral: Performance for New Media Units: 2
+- THTR 479 Solo Performance Units: 4
+- THTR 482 Stand Up 2: Becoming A Pro Units: 2
+- THTR 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+
+## Total Units: 16
+
+---
+
+---

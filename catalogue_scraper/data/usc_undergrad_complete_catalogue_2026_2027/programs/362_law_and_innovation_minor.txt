@@ -1,0 +1,61 @@
+Program Name: Law and Innovation Minor
+Credential: 
+School or Academic Unit: Young Academy
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32944
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32944&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32944
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:08:07Z
+Content SHA-256: 2fa8d4196bc4e7242581765e8e78b28f18d2c8ece20fbea08949c6223d205682
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Law and Innovation Minor
+
+---
+
+The minor in Law and Innovation introduces students to the legal foundations that shape design, technology, and creative innovation. The program explores U.S. law, design strategy, data visualization, and the legal issues driving emerging technologies and industries.
+
+The minor in Law and Innovation totals 18 units; 10 required core units, 4 elective units from Iovine and Young Academy and 4 elective units from Gould.
+
+## Required Courses (10 units)
+
+---
+
+- ACAD 360 Design Strategy: Problem Solving for Organizations Units: 4
+- LAW 210p Fundamentals of the U.S. Legal System Units: 4
+- LAW 220 The Legal Profession Units: 2
+
+## Academy Electives (4 units)
+
+---
+
+- ACAD 181g Disruptive Innovation Units: 4
+- ACAD 183 Product Management for Challenge-Based Innovation Units: 4
+- ACAD 220 Introduction to Data Innovation and Analytics Units: 4
+- ACAD 222 Introduction to Machine Intelligence Units: 4
+- ACAD 245 Fundamentals of Product Design Units: 4
+- ACAD 274 Designing Interactive Data Systems Units: 4
+- ACAD 302 The Hacker Imagination: from Ancient Greece to Cupertino Units: 4
+- ACAD 324g The Practice of Design: Ideation to Innovation Units: 4
+- ACAD 325 Human Technology Interaction and the User Experience Units: 4
+- ACAD 360 Design Strategy: Problem Solving for Organizations Units: 4
+
+## Law Electives (4 units)
+
+---
+
+- LAW 206 Responsible Use of Artificial Intelligence: Ethics and Law Units: 4
+- LAW 207 Personal Data in the 21st Century Units: 4
+- LAW 211 Intellectual Property and Technology Units: 4
+- LAW 306 Issues in the Use of AI in Law and Regulation Units: 4
+- LAW 311 Fundamentals of Entertainment Law Units: 4
+- LAW 350 Law and Entrepreneurship Units: 4
+- LAW 401 Cybersecurity and Cybercrime Units: 4
+- LAW 453 Legal Structure: From Startup to IPO Units: 4
+
+---

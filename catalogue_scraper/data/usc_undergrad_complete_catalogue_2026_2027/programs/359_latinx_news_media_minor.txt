@@ -1,0 +1,106 @@
+Program Name: Latinx News Media Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32748
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32748&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32748
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:08:00Z
+Content SHA-256: 380e30b4a63951765265d0c6013bb4f74d74d190ac6ae5dfbd9d2a2dd0749e8d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Latinx News Media Minor
+
+---
+
+The Latinx News Media Minor is designed to give students a grounding in the historical, theoretical, social and cultural landscape of Latino news media. In addition, the course work will expose students to trends in the development of current and evolving content strategy, distribution and news consumption trends. The minor will prepare students to create content for Latinx communities, media organizations, bilingual news outlets and independent distribution.
+
+The minor requires at least 16 units.
+
+## Required Courses
+
+---
+
+- JOUR 406 Social Media Storytelling for Latinx Audiences Units: 2
+- JOUR 465m Latino News Media in the United States Units: 4
+
+## Choose one of the following:
+
+---
+
+- JOUR 461 Spanish Language News Media Production Units: 2
+- JOUR 464 Experiential Journalism in Latin America Units: 2, 4
+
+## Electives
+
+---
+
+Choose at least 6-8 units from the following.
+
+NOTE: If students take JOUR 464 for 2 units, then 8 units of electives is required. If students take JOUR 464 for 4 units, then a minimum of 6 units of electives is required.
+
+- AHIS 128gp The Arts and Society in Latin America, Colonial to Contemporary Units: 4
+- AHIS 496 Paintings in the Prado Museum Units: 4
+- AMST 135gmw Peoples and Cultures of the Americas Units: 4
+- AMST 305 Art and Performance in the Americas Units: 4
+- ANTH 140g Mesoamerican Cosmovision and Culture Units: 4
+- ANTH 203g Global Media Units: 4
+- ANTH 314g The Nature of Maya Civilization Units: 4
+- ANTH 400 Maya Resilience: Constructing Past and Present Identities Units: 4
+- ANTH 425 Peoples and Cultures of Latin America Units: 4
+- ANTH 450 Field Research in Maya Archaeology Units: 4
+- COLT 250g Cultures of Latin America Units: 4
+- COMM 326 Latinx Media Studies Units: 4
+- HIST 109g The Latin American Experience Units: 4
+- HIST 272g Women and Gender in the Ancient and Spanish Americas Units: 4
+- HIST 353m Race and Racism in the Americas Units: 4
+- HIST 354 Mexican Migration to the United States Units: 4
+- HIST 359 The U.S.-Mexico Border Units: 4
+- HIST 368 Afro-Latin America Units: 4
+- HIST 370 Colonial Latin America Units: 4
+- HIST 371 Culture in Diaspora: The Jews of Spain Units: 4
+- HIST 372 Modern Latin America Units: 4
+- HIST 374 History of Mexico Units: 4
+- HIST 451 The Mexican Revolution Units: 4
+- HIST 473 Colonial Latin America Seminar Units: 4
+- IR 364 The Political Economy of Latin American Development Units: 4
+- IR 365 Politics and Democracy in Latin America Units: 4
+- IR 366 Mexico and its Relations with the United States Units: 4
+- IR 425 The New Triangle: China, the U.S. and Latin America Units: 4
+- PORT 250g Visions of Brazil Units: 4
+- POSC 350 Politics of Latin America Units: 4
+- SPAN 260 Advanced Spanish: Arts and Sciences Units: 4
+- SPAN 270 Spanish for Heritage Speakers Units: 4
+- SPAN 290gp Introduction to Latin American and Iberian Studies Units: 4
+- SPAN 301 Introduction to Literature and Film Units: 4
+- SPAN 302 Screen Cultures: From Film to the Internet Units: 4
+- SPAN 304 The Art of Fiction Units: 4
+- SPAN 306 Performance from Street to Stage Units: 4
+- SPAN 308 The Art of Poetry Units: 4
+- SPAN 311 Advanced Spanish Through Contemporary Issues: Oral Emphasis Units: 4
+- SPAN 320 Politics, Thought, Society Units: 4
+- SPAN 321 Sounds, Images, Objects Units: 4
+- SPAN 341 Advanced Conversation and Culture Units: 4
+- SPAN 375 Latin American Cultural and Literary Theory Units: 4
+- SPAN 380g Literature of Mexico Units: 4
+- SPAN 381 Narco-World Units: 4
+- SPAN 382 The Aesthetics of Violence in Latin America Units: 4
+- SPAN 385 The Culture of Food in Hispanic Los Angeles Units: 4
+- SPAN 391 Introduction to Contemporary Spanish Literature (USC Madrid Center) Units: 4
+- SPAN 413m Social and Geographic Varieties of Spanish Units: 4
+- SPAN 460 Don Quijote: Text and Film Units: 4
+- SPAN 462 Literary Cartographies of Latin America and Spain, 1810–1898 Units: 4
+- SPAN 464 Introduction to Contemporary Spanish Theatre Units: 4
+- SPAN 465 Cultural Perspectives of the Iberian Peninsula Units: 4
+- SPAN 470 Literature and Media in Latin America Units: 4
+- SPAN 472 The Sixties in Latin America Units: 4
+- SPAN 481 Literature and Popular Culture Units: 4
+- SPAN 482 Literature and the City Units: 4
+- SPAN 483 Gender and Sexuality Units: 4
+
+---

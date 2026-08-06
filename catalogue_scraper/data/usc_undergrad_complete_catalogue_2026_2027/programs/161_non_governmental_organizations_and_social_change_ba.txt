@@ -1,0 +1,195 @@
+Program Name: Non-Governmental Organizations and Social Change (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31929
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31929&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31929
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:10Z
+Content SHA-256: 12d49be669e0ee7010269d78f973e5918371a89c6a0fa8eff02d10b606d26c75
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Non-Governmental Organizations and Social Change (BA)
+
+---
+
+This interdisciplinary program focuses on the roots of social conflict, on theories and methods for understanding them, and on the non-governmental organizations (NGOs) and nonprofits that address them. To remedy social problems, we need to examine their economic, political and social roots, as well as the varied forms of organizations that aim to fix them. Students will engage in various methods of analysis, from investigations of everyday interactions to explorations of larger economic, political and social structures. In classrooms and internships, students will learn how people in NGOs and nonprofits promote new forms of citizenship and governance, aiming to protect the environment and to lessen the suffering of people around the world.
+
+The major requires nine courses (36 units) chosen from the specific lists of requirements below. As with all interdisciplinary majors, students may double-count no more than three courses from this degree to satisfy any other major.
+
+## Course Requirements
+
+---
+
+### A. Lower division requirement
+
+---
+
+#### Choose one course (4 units) from the following list:
+
+---
+
+- AMST 252gmw Black Social Movements in the U.S. Units: 4
+- ECON 238xg Political Economy and Social Issues Units: 4
+- ENST 150gx Environmental Issues in Society Units: 4
+- ENST 270 Introduction to Environmental Law and Politics Units: 4
+- GEOL 108Lg Natural Disasters and Their Global Impact Units: 4
+- IR 101gxw International Relations Units: 4
+- IR 210gw International Relations: Introductory Analysis Units: 4
+- PHIL 141g The Professions and the Public Interest in American Life Units: 4
+- POSC 130g Law, Politics and Public Policy Units: 4
+- POSC 248gw Human Rights Units: 4
+- POSC 265gw Environmental Challenges Units: 4
+- SOCI 100gmw Los Angeles and the American Dream Units: 4
+- SOCI 150gm Social Problems Units: 4
+- SOCI 200gm Introduction to Sociology Units: 4
+- SOCI 255g Sociology of Globalization Units: 4
+- SWMS 215gw Introduction to Gender and Sexuality: International Perspectives Units: 4
+
+### B. Core methods
+
+---
+
+#### Choose one course (4 units) from the following two:
+
+---
+
+- SOCI 313L Sociological Research Methods Units: 4
+- SOCI 314Lg Analyzing Social Statistics Units: 4
+
+### C. Core theory
+
+---
+
+#### Choose one course (4 units) from the following five:
+
+---
+
+- PHIL 337 Political Philosophy Units: 4
+- PHIL 437 Social and Political Philosophy Units: 4
+- POSC 380 Political Theories and Social Reform Units: 2, 4
+- SOCI 270g Sociological Theory Units: 4
+- SOCI 445 Political and Social Theory Units: 4
+
+### D. Perspectives on NGOs
+
+---
+
+#### Choose one course (4 units) from the following four:
+
+---
+
+- IR 371 Global Civil Society: Non-State Actors in World Politics Units: 4
+- PPD 371 The Nonprofit Sector and the Public Interest Units: 4
+- SOCI 250gmw Grassroots Participation in Global Perspective Units: 4
+- SOCI 408 Volunteers, Non-Governmental Organizations, and Everyday Politics Units: 4
+
+### E. Analyzing and identifying roots of social conflict
+
+---
+
+#### Choose two courses (8 units):
+
+---
+
+- ANTH 355 Urban Anthropology Units: 4
+- ANTH 316gmp Native Americans in American Public Life Units: 4
+- ANTH 357g Cultures of Genocide, Cultures of Care Units: 4
+- ANTH 371gm Cross-Cultural Research on Urban Gangs Units: 4
+- ANTH 380 Sex and Gender in Anthropological Perspective Units: 4
+- BISC 427 The Global Environment Units: 4
+- ECON 340 Economics of Less Developed Countries Units: 4 *
+- ECON 344 Economic Development of Sub-Saharan Africa Units: 4 *
+- ECON 350 The World Economy Units: 4 *
+- GERO 340 Policy, Values, and Power in an Aging Society Units: 4
+- GERO 483 Global Health and Aging Units: 4
+- HIST 323 The Holocaust in 20th Century Europe Units: 4
+- HIST 372 Modern Latin America Units: 4
+- IR 308gw Economic Globalization Units: 4
+- IR 310 Peace and Conflict Studies Units: 4
+- IR 315 Ethnicity and Nationalism in World Politics Units: 4
+- IR 316 Gender and Global Issues Units: 4
+- IR 323 Politics of Global Environment Units: 4
+- IR 324 Multinational Enterprises and World Politics Units: 4
+- IR 325 North-South Relations in the Global Economy Units: 4
+- IR 344 The Global South in World Politics Units: 4
+- IR 349 International Law and Politics Units: 4
+- IR 364 The Political Economy of Latin American Development Units: 4
+- IR 367 Africa in International Affairs Units: 4
+- MOR 385gm Business, Government and Society Units: 4
+- MOR 466 Business and Environmental Sustainability Units: 4
+- PHIL 340 Ethics Units: 4
+- POSC 320 Urban Politics Units: 4
+- POSC 321 Urban Political Problems Units: 4
+- POSC 345 International Law Units: 4
+- POSC 347 Environmental Law Units: 4
+- POSC 350 Politics of Latin America Units: 4
+- POSC 363 Cities and Regions in World Politics Units: 4
+- POSC 381 Sex, Power, and Politics Units: 4
+- POSC 436 Environmental Politics Units: 4
+- SOCI 362 Global and Transnational Sociology Units: 4
+- SOCI 402 Human Trafficking Units: 4
+- SOCI 429 Immigration, Work and Labor Units: 4
+- SOCI 430m Work and the Workplace Units: 4
+- SOCI 432m Racial and Ethnic Relations in a Global Society Units: 4
+- SOCI 440 Environmental Sociology Units: 4
+- SOCI 460 Key Issues in Contemporary International Migration Units: 4
+- SOCI 464 Sociology of Gender and Work Units: 4
+
+##### Note:
+
+---
+
+*Prerequisite required
+
+### F. Addressing social conflict and organizing advocacy
+
+---
+
+#### Choose two courses (8 units):
+
+---
+
+- AMST 357m Latino Social Movements Units: 4
+- BAEP 491 Introduction to Social Entrepreneurship Units: 4
+- BUCO 485 Business Communication Management for Nonprofits Units: 4
+- COMM 322 Argumentation and Advocacy Units: 4
+- COMM 366 Designing Media for Social Change Units: 4
+- COMM 400 Seminar in Communication Units: 4
+- COMM 402 Public Communication Campaigns Units: 4
+- COMM 412 Communication and Social Movements Units: 4
+- COMM 413 Propaganda, Ideology and Public Controversy Units: 4
+- COMM 487 Communication and Global Organizations Units: 4
+- GERO 350 Administrative Problems in Aging Units: 2 or 4
+- IR 306 International Organizations Units: 4
+- IR 318 Violent Conflict Units: 4
+- JS 360m Identity, Community, and Service: Jews and Other Americans Units: 4
+- POSC 323 Applied Politics Units: 4
+- PPD 318 Financial Accounting in Public and Nonprofit Organizations Units: 4
+- PPD 353 Philanthropy and Social Change Units: 4
+- REL 468 Sociology of Religion Units: 4
+- SOCI 340 Organizations: Bureaucracy and Alternatives to Bureaucracy Units: 4
+- SOCI 425 Social Movements: Power, Resistance and Political Dynamics Units: 4
+- SOWK 350 Adolescent Gang Intervention Units: 4
+- THTR 488mw Theatre in the Community Units: 4
+
+### G. Internship experience
+
+---
+
+#### One course (4 units) required
+
+---
+
+- SOCI 450 Non-Governmental Organizations/Non-profits Field Practicum Units: 4
+
+## Total course requirements: 36 units
+
+---
+
+---

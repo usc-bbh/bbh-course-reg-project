@@ -1,0 +1,53 @@
+Program Name: Law and Public Policy Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32309
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32309&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32309
+Acquisition Mode: browser_rendered_dom
+Retrieved At: 2026-07-31T01:08:17Z
+Content SHA-256: 2d8a1a51f929edbe3c3aee224260f2b29bb2da475ff29fbb039abd4543145cf2
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Law and Public Policy Minor
+
+---
+
+The minor in law and public policy draws upon four fields of study: public policy and management, law, economics and political science. It provides students with an understanding of the political and economic contexts in which laws are made as well as how legal institutions shape policy formulation. Students learn to analyze the consequences of policy and alternatives; the roles played by government, business and nonprofit organizations in public decision making; and the legal bases for various areas of public policy.
+
+Students minoring in law and public policy take 20 units, including the gateway class, PPD 225 Public Policy and Management , and one elective. The latter enables the student to focus on a specific area of law.
+
+## Required Courses
+
+---
+
+- PPD 225 Solving Public Problems
+- PPD 314 Public Policy and Law
+- PPD 315 Analytic Foundations for Public Policy
+- POSC 340 Constitutional Law
+  or
+- LAW 300 Concepts in American Law
+  or
+- PPD 357 Government and Business
+
+### And one of the following:
+
+---
+
+- FBE 403 Introduction to the Legal Environment of Business
+- LAW 200w Law and Society
+- LAW 403 Mental Health Law
+- POSC 345 International Law
+- POSC 347 Environmental Law
+- POSC 432 Politics of Local Criminal Justice
+- POSC 441m Cultural Diversity and the Law
+- POSC 444 Civil and Political Rights and Liberties
+- POSC 452 Critical Issues in Law and Public Policy
+- PPD 342 Crime and Public Policy
+
+---

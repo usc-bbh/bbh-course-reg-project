@@ -1,0 +1,56 @@
+Program Name: Podcasting Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32718
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32718&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32718
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:09Z
+Content SHA-256: 348b1635645dba323f5abf5aa15a3a75548ca0b659f7790ede23b054d33bf36b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Podcasting Minor
+
+---
+
+The minor is designed to give students a grounding in the history, theory, production and business of podcasting. Students will develop a discerning ear for quality audio content and the best practices for effective oral communication. Students will learn practical skills required for the production of a variety of podcast formats, from narrative storytelling to interview/conversational to fictional podcasts. In addition, the course work will expose students to non-production aspects of podcasting such as branding, marketing, distribution, analytics, monetization and legal issues. The minor will equip students to start a podcast or seek employment for podcast production jobs.
+
+## Required Courses
+
+---
+
+- CTPR 404 Practicum in Podcast Production Units: 2
+- CTWR 403 Writing the Narrative Podcast Series Units: 2
+- JOUR 407 The World of Podcasting Units: 4
+- JOUR 412 Podcasting: Origin Stories Units: 2
+- THTR 318 Creating the Hit Podcast Units: 2
+
+## Electives
+
+---
+
+Choose at least 4 units from the following:
+
+- COMM 383m Sports, Communication and Culture Units: 4
+- COMM 422 Legal Issues and New Media Units: 4
+- COMM 458m Race and Ethnicity in Entertainment and the Arts Units: 4
+- CTCS 411 Film, Television and Cultural Studies Units: 4
+- CTPR 407 Sound Design for Podcasting Units: 2
+- IML 328 Introduction to Sound Units: 2
+- IML 428 Advanced Platform: Sound Units: 4
+- JOUR 411 Broadcast and Digital Writing for Video and Audio for Non-Majors Units: 2
+- JOUR 472 Strategies for Monetizing New Media Units: 4
+- PR 486 Multimedia PR Content: Introduction to Digital Design Tools Units: 2
+- THTR 306 Audio-Drama Units: 2.0
+- THTR 489 Theatre Internship Units: 2, 3, 4, 5, 6
+
+## Units Required: 16
+
+---
+
+---

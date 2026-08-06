@@ -1,0 +1,138 @@
+Program Name: Biomedical Engineering, Mechanical Engineering Emphasis (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32052
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32052&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32052
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:50:18Z
+Content SHA-256: 1750dc8f4ee40344af69dc1759ed89880be450aaaef0c345442e06bcaaaa94ea
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Biomedical Engineering, Mechanical Engineering Emphasis (BS)
+
+---
+
+The minimum requirement for the degree with an emphasis in mechanical engineering is 130 units. A cumulative grade point average of C (2.0) is required in all upper-division courses applied toward the major, regardless of the department in which the courses are taken. See common requirements for undergraduate degrees .
+
+Technical electives are to be selected from an approved list available in the department office.
+
+## Composition/Writing Requirement
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+## General Education
+
+---
+
+- General education Units: 20
+
+## Pre-Major Requirements
+
+---
+
+### Math Requirement
+
+---
+
+- MATH 125g Calculus I Units: 4
+-
+- MATH 126g Calculus II Units: 4 or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 226g Calculus III Units: 4 or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+-
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+
+### Physics Requirements
+
+---
+
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+
+### Chemistry Requirements
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4 or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+-
+- CHEM 105bL General Chemistry Units: 4 or
+- CHEM 115bL Advanced General Chemistry Units: 4
+
+## Major Requirements
+
+---
+
+### Biology
+
+---
+
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+-
+- BISC 312x Molecular Biochemistry Units: 4 or
+- BISC 320Lg Molecular Biology Units: 4 or
+- HBIO 301L Human Anatomy Units: 4
+
+### Aerospace and Mechanical Engineering
+
+---
+
+- AME 201 Statics Units: 4.0
+- AME 204 Mechanics of Materials and Structures Units: 4
+- AME 301 Dynamics Units: 4
+- TAC 308 Computer-Aided Design for Bio-Mechanical Systems Units: 3
+
+### Biomedical Engineering
+
+---
+
+- BME 101 Introduction to Biomedical Engineering Units: 4
+- BME 202 Control and Communication in the Nervous System Units: 4
+- BME 210 Biomedical Computer Simulation Methods Units: 4
+- BME 403L Physiological Systems Units: 4
+- BME 404 Computational Neuromechanics Units: 4
+- BME 413 Bioengineering Signals and Systems Units: 4
+- BME 415 Regulation of Medical Products Units: 2
+- BME 423 Statistical and Data Science Methods in Biomedical Engineering Units: 4
+- BME 445aL Senior Design Project Units: 2
+- BME 445bL Senior Design Project Units: 2
+
+### Electrical and Computer Engineering
+
+---
+
+- EE 202L Linear Circuits Units: 4
+
+### Additional course work
+
+---
+
+Choose one course from the following:
+
+- AME 309 Dynamics of Fluids Units: 4
+- AME 416 Mechanics and Transport in Medicine and Biology Units: 4
+- CHEM 322aL Organic Chemistry Units: 4
+- MASC 310L Materials Behavior and Processing Units: 4
+
+## Electives
+
+---
+
+Technical Electives: Complete 5 units as needed to complete 130 approved program units. Technical electives are to be selected from an approved list available in the department office.
+
+## Total units: 130
+
+---
+
+---

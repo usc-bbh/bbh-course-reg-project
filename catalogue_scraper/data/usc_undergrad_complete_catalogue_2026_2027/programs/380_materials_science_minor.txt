@@ -1,0 +1,53 @@
+Program Name: Materials Science Minor
+Credential: 
+School or Academic Unit: Viterbi School of Engineering for the minor and departmental approval is requir
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32875
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32875&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32875
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:36Z
+Content SHA-256: e11455e9454b95da2870c7c6fccab5d8de8f81ee81ff201cea35e1ebdde59855
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Materials Science Minor
+
+---
+
+A minor in materials science is open to all undergraduate students in engineering. This minor provides students with the background and skills necessary to understand and use advanced materials in different engineering applications. Students are required to complete a minimum of of 16 units of course work consisting of both core requirements and elective courses.
+
+Students must apply to the Viterbi School of Engineering for the minor and departmental approval is required. The program is as follows:
+
+## Required Courses
+
+---
+
+- CHE 455 Sustainable Materials Units: 4 *
+- or
+- MASC 310L Materials Behavior and Processing Units: 4
+-
+- CHE 475 Physical Properties of Polymers Units: 4
+- MASC 483 Introduction to Machine Learning for Materials Units: 4
+
+## Electives
+
+---
+
+Choose at least 4 units:
+
+- CHE 455 Sustainable Materials Units: 4 *
+- CHEM 455 Chemical Nanotechnology Units: 4
+- MASC 350L Nanostructured Materials: Design, Synthesis and Processing Units: 4
+- MASC 455 Computational Materials I: Introduction to Atomistic Simulation Units: 4
+
+## *Note:
+
+---
+
+BSAE and BSME students must take CHE 455, which may not be double-counted as an elective. All other students must take MASC 310.
+
+---

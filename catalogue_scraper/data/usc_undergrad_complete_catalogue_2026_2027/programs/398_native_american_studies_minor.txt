@@ -1,0 +1,49 @@
+Program Name: Native American Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32497
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32497&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32497
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:17Z
+Content SHA-256: 510af9e5b95e5ff94a29015fa27815192affeebcee9c6e27c6ec3661f10551ac
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Native American Studies Minor
+
+---
+
+This minor is an overview of Native American studies. We will study Indigenous intellectualism and resistance through Indigenous language revitalization, art, decolonization and political resistance.
+
+Minimum Required Units: 20
+
+Students choose five classes in American Studies and Ethnicity, or courses certified for American Studies and Ethnicity credit. The five courses are distributed as follows: two core requirement courses and three additional elective courses chosen from the courses listed below.
+
+## Core Requirements - 8 Units
+
+---
+
+- AMST 204g Introduction to Native Studies Units: 4
+- and
+- AMST 200gm Introduction to American Studies and Ethnicity Units: 4
+- or
+- AMST 350 Junior Seminar in American Studies and Ethnicity: Theories and Methods Units: 4
+
+## Elective Courses - 12 Units
+
+---
+
+- AMST 140gw Borderlands in a Global Context Units: 4
+- AMST 320 Social Construction of Race and Citizenship Units: 4
+- AMST 342m Law and Identities Units: 4
+- AMST 345 Law and American Indian Studies Units: 4
+- AMST 365 Leadership in the Community — Internship Units: 4
+- ENGL 444m Native American Literature Units: 4
+- HIST 271g Telling Native American Stories Units: 4
+
+---

@@ -1,0 +1,64 @@
+Program Name: Physical Sciences (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31891
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31891&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31891
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:43Z
+Content SHA-256: 82c8dcc068a585d986cd53c89a4f57656b22e88bfea28f340683856049829a81
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Physical Sciences (BS)
+
+---
+
+This program is intended for students with an interest in the physical sciences. The program is designed to allow students interested in teaching at the secondary level to enroll in courses required for the California Single Subject Teaching credential offered through the School of Education.
+
+## Required Lower-Division Courses
+
+---
+
+- CHEM 115aLg Advanced General Chemistry Units: 4 **
+- CHEM 115bL Advanced General Chemistry Units: 4 **
+- GEOL 105Lg Planet Earth Units: 4
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+- PHYS 153L Fundamentals of Physics III: Optics, Thermo, Modern Physics Units: 4
+
+## Required Upper-Division Courses
+
+---
+
+- Astronomy elective* Units: 4
+- Chemistry elective* Units: 4
+- Earth Science elective* Units: 4
+- Physics elective* Units: 4
+- Three additional electives from these fields* Units: 12
+
+## Note:
+
+---
+
+*Upper-division courses must be applicable to majors in their respective departments.
+
+**CHEM 105aL , CHEM 105bL may be substituted for the sequence CHEM 115aL , CHEM 115bL .
+
+## Other Courses
+
+---
+
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+- MATH 226g Calculus III Units: 4
+
+## Total units: 64
+
+---
+
+---

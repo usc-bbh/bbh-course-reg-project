@@ -1,0 +1,69 @@
+Program Name: Law and Migration Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32703
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32703&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32703
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:08:09Z
+Content SHA-256: 5a06455b3d6e1a8196eeb83c8d1e037a234eb78b6f7abbff7a638c3772c76b1b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Law and Migration Studies Minor
+
+---
+
+The Law and Migration Studies minor introduces students to the U.S. legal system as it relates to various aspects of immigration law, its impact on our communities and consequences on our society nationally and globally.
+
+The Law and Migration Studies minor totals 20 units; 12 required units and 8 elective units, as detailed below.
+
+## Required Courses (12 units)
+
+---
+
+### Students must enroll in this course:
+
+---
+
+- LAW 212 Immigration Law for a New America Units: 4
+
+### Students must also enroll in 8 units from the following courses:
+
+---
+
+- LAW 101w Law and the U.S. Constitution in Global History Units: 4
+- LAW 150w Stereotypes, Prejudice and the Rule of Law Units: 4
+- LAW 200w Law and Society Units: 4
+- LAW 300 Concepts in American Law Units: 4
+- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4
+- LAW 352 Introduction to Law and Economics Units: 4
+
+## Elective Courses (8 units)
+
+---
+
+Students must enroll in 8 units of elective courses and must choose from the following to satisfy the minor requirements:
+
+- AMST 101gmw Race and Class in Los Angeles Units: 4
+- AMST 140gw Borderlands in a Global Context Units: 4
+- AMST 320 Social Construction of Race and Citizenship Units: 4
+- COLT 303 Globalization: Culture, Change, Resistance Units: 4
+- HIST 100mg Rethinking the American Experience Units: 4
+- LAW 222 Interdisciplinary Perspectives on the Law Units: 2
+- LAW 223 Exploring Courthouses in Los Angeles Units: 2
+- LAW 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- LAW 492 Undergraduate Law Review Units: 2
+- LAW 498 Law Internship Units: 1, 2, 3, 4
+- PPD 240g Citizenship and Public Ethics Units: 4
+- PPD 485m U.S. Immigration Policy Units: 4
+- SOCI 155gm Immigrant America Units: 4
+- SOCI 355m Immigrants in the United States Units: 4 *
+- SOCI 460 Key Issues in Contemporary International Migration Units: 4 *
+- * Sociology courses taken as part of this minor will have prerequisites waived by the Sociology Department.
+
+---

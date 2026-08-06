@@ -1,0 +1,51 @@
+Program Name: Geroscience Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32738
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32738&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32738
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:06:40Z
+Content SHA-256: 65efbfaa730f790c2dce752be9eab55b60d2cc248090f8df8264eb576687f29f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Geroscience Minor
+
+---
+
+The 16-unit Geroscience Minor provides students with the opportunity to supplement their education with a life course perspective of aging processes. The minor includes a specific focus on active participation in research and course work that emphasizes current research discoveries in geroscience. The core curriculum of this minor includes GERO 300 , GERO 301 , and 8 units of directed research credit for participating in hands-on research with a faculty mentor. GERO 300 is an introduction to geroscience research and is meant to be taken prior to working in a lab. This course will expose emerging undergraduate geroscholars to the breadth of research opportunities at USC by some of the worlds experts in all domains of gerontology. This course is meant to help students decide which area of research is more exciting for them and to help them choose potential research groups to rotate in during the following semester. GERO 301 enables students to effectively read current scientific literature and present a literature review to their peer group. This course will be taken after a minimum of two semesters of research in a mentors lab; once a student is more familiar with the field and the research methodologies for that discipline.
+
+This program is multidisciplinary in nature, It allows students to survey the biological, sociological, political and psychological aspects of aging, which provides a critical understanding of the current issues facing the field. Students choose one elective course based on their research area. For example, undergraduate researchers working with biogerontologists could take GERO 315g A Journey into the Mind , which is designed to help non-science majors appreciate the importance of science in their lives and understand the science of gathering data to support how the brain works and our resulting behavior. Researchers working with social gerontologists could take GERO 340 Policy, Values, and Power in an Aging Society , which studies how Americans’ political values affect public policy and discusses landmark legislation that explores the social contract between generations and the role of governments in social welfare. Students may also choose between two of our most popular courses on diversity in aging (GERO 380m and GERO 435m ), among other courses.
+
+## Required Courses
+
+---
+
+Take GERO 300 (2 units) and GERO 301 (2 units) and GERO 490 (2 units) for four semesters (12 units total).
+
+- GERO 300 Introduction to Geroscience Research Units: 2
+- GERO 301 Current Topics in Geroscience Research Units: 2
+- GERO 490x Directed Research Units: 1-8
+
+## Elective Courses
+
+---
+
+Choose one 4-unit course from the list below.
+
+- GERO 315g A Journey into the Mind Units: 4
+- GERO 330 Society and Adult Development Units: 4
+- GERO 340 Policy, Values, and Power in an Aging Society Units: 4
+- GERO 380m Diversity in Aging Units: 4
+- GERO 416 Health Issues in Adulthood Units: 4
+- GERO 435m Women and Aging: Psychological, Social and Political Implications Units: 4
+- GERO 440 Biodemography of Aging Units: 4 *
+- Note:
+  [*]Prerequisite required.
+
+---

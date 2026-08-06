@@ -1,0 +1,95 @@
+Program Name: Business Administration (Leadership and Innovation) (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32696
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32696&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32696
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:50:46Z
+Content SHA-256: af896a0fae1bbcb73a7ab54637463133099ddb3831b94df9349bf9f2cc7cb07f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Business Administration (Leadership and Innovation) (BS)
+
+---
+
+The Bachelor of Science in Business Administration with an emphasis in Leadership and Innovation prepares students for leadership roles in a variety of organizations in a world of increasing global, technological and regulatory change. The program aims to train inspirational leaders who bring together diverse groups to achieve transformational innovation for sustained competitive advantage.
+
+With this degree, students will learn how to create an inspiring vision and strategy for innovation in their organization, effectively lead high performing innovation teams, create a culture of agility and innovation, and effectively identify and solve critical problems in order to build sustainable competitive advantage and satisfy a diverse set of stakeholders.
+
+Requirements for Admission
+
+This program is available only to current Marshall and Leventhal undergraduates who satisfy the following three conditions: (1) have attained sophomore standing, (2) have completed at least one semester in residence at USC, and (3) have earned credit for the course BUAD 304 Organizational Behavior and Leadership . Students who wish to transfer to this program should visit the Office of Undergraduate Advising and Student Affairs in the Marshall School of Business.
+
+Students may earn only one emphasis within the BS in Business Administration degree.
+
+Requirements for Completion
+
+To complete the program, students must satisfy all requirements for the Bachelor of Science degree in business administration including USC’s General Education requirements and at least 12 upper-division units in the area of emphasis.
+
+## Composition/Writing Requirements (8 units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+- * Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BLDR majors.
+
+## Business Core Courses
+
+---
+
+Business Administration majors must complete the business core. The business core contains foundational courses that provide analytical skills and theoretical knowledge in math, statistics, accounting and business economics as well as communication skills pertinent to the business field; functional courses in business disciplines such as finance, marketing, organizational behavior and operations; and integrative courses in strategy and data analysis.
+
+- BUAD 280 Introduction to Financial Accounting Units: 3
+- BUAD 281 Introduction to Managerial Accounting Units: 3
+- BUAD 302 Communication Strategy in Business Units: 4
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+-
+- BUAD 306 Business Finance Units: 4
+- or
+- BUAD 308 Advanced Business Finance Units: 4
+-
+- BUAD 307 Marketing Fundamentals Units: 4
+-
+- BUAD 310g Applied Business Statistics Units: 4
+- or
+- BUAD 312g Statistics and Data Science for Business Units: 4
+-
+- BUAD 311 Operations Management Units: 4
+- or
+- BUAD 313 Advanced Operations Management and Analytics Units: 4
+-
+- BUAD 425 Introduction to Business Analytics Units: 2
+- or
+- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2
+-
+- BUAD 497 Strategic Management Units: 4
+- ECON 351x Microeconomics for Business Units: 4
+- ECON 352x Macroeconomics for Business Units: 4
+-
+- MATH 118gx Calculus for Business and Economics Units: 4 *
+- or
+- MATH 125g Calculus I Units: 4 **
+
+### Note:
+
+---
+
+* Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher.
+** A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information.
+
+## Emphasis Requirements
+
+---
+
+Complete 12 units of upper-division elective courses (typically three 4-unit courses) offered by the Management and Organization department in the Marshall School, specifically 300- or 400-level courses with a prefix MOR that are available for credit toward the major.
+
+Return to: USC Marshall School of Business
+
+---

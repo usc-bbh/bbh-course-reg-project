@@ -1,0 +1,62 @@
+Program Name: Technology Commercialization Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31612
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31612&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31612
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:08Z
+Content SHA-256: 5b68eecf5faecaa142117728e84318d65557508cfb94d8bf766fa698cd7c1db3
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Technology Commercialization Minor
+
+---
+
+This interdisciplinary minor includes courses from both the business and engineering schools and provides education in the economic, technological and entrepreneurial aspects of commercializing new technologies. The minor is designed for students from a range of backgrounds (e.g., majors in engineering, life sciences or business) who are interested in starting their own technology-based ventures, working for technology-based start-up companies or pursuing corporate careers that may involve the commercialization of new technologies. In the minor, students learn about conceptualizing, developing and managing new, technology-based ventures and projects.
+
+To enroll, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of 2.75. To complete the minor, students are required to complete the two required courses (7 units) and enough elective courses to achieve a total of 16 units outside of their major. Business majors thus require 23 total units and other majors 16 total units to complete the minor.
+
+## Required Courses
+
+---
+
+- BAEP 452 Feasibility Analysis Units: 4
+- BUAD 301 Technology Entrepreneurship Units: 3, 4 [*]
+
+### Note:
+
+---
+
+[*]BUAD 301 is a prerequisite to BAEP 452 and must be taken first.
+
+## Electives
+
+---
+
+- ACCT 410x Foundations of Accounting Units: 4
+- BAEP 454 Venture Initiation: Launching and Scaling Your Startup Units: 4
+- BAEP 455 Founder’s Dilemmas Units: 4
+- BAEP 460 Seminar in Entrepreneurship Units: 2
+- BAEP 469 Growth Hacking: Scaling Startups Units: 2
+- BAEP 470 The Entrepreneurial Mindset — Taking the Leap Units: 2
+- BAEP 474 The Entrepreneur’s Guide to Intellectual Property Units: 2
+- BME 416L Development and Regulation of Medical Products Units: 4
+- BUAD 307 Marketing Fundamentals Units: 4
+-
+- ENGR 493 Dean’s Seminar in Entrepreneurship: Disruptive Technologies with an Entrepreneurial Mindset Units: 2
+- ISE 344 Engineering Management and Teamwork Units: 4
+- ISE 440 Socio-Technical Systems and Work Organizations Units: 4
+- ISE 460 Engineering Decisions, Economics and Ethics Units: 4
+- TAC 310 Design for User Experience Units: 4
+- TAC 466 Building the High Tech Startup Units: 4
+- TAC 476 Technologies for Interactive Marketing Units: 4
+- MKT 445 New Product Development and Branding Units: 4
+- Return to: USC Marshall School of Business
+
+---

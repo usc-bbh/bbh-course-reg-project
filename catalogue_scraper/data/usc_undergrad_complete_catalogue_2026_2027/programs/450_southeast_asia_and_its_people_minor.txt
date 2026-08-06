@@ -1,0 +1,72 @@
+Program Name: Southeast Asia and its People Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31705
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31705&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31705
+Acquisition Mode: browser_rendered_dom
+Retrieved At: 2026-07-31T01:13:22Z
+Content SHA-256: 4bfa83c4cf263098857c6ebe53c13eb8f56fdb3a4d061a620cb8cd8f1712b965
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Southeast Asia and its People Minor
+
+---
+
+This minor allows students to supplement more narrowly defined departmental majors with a multidisciplinary focus on an area of great importance both to global developments and to cultural heritage issues in California and the United States. There is no language requirement and no required courses, but students must take one lower and four upper-division courses dealing with Southeast Asian cultures and people of Southeast Asian heritage in the United States. The focus of this new minor is on transnational connections and the new area of global culture.
+
+## Lower Division
+
+---
+
+### Choose one class (4 units)
+
+---
+
+- AMST 220gmw The Making of Asian America
+- ANTH 250g Race and Sexual Politics in Southeast Asia
+- ANTH 273g Shamans, Spirits and Ancestors: Non-Western Religious Traditions
+- POSC 120g Comparative Politics
+- HIST 265gw Racism, Sexism, and the Law
+
+## Upper Division
+
+---
+
+### Choose four classes (16 units), including at least one class from each list.
+
+---
+
+#### Southeast Asia
+
+---
+
+- ANTH 322 Anthropology of Bali
+- ANTH 373 Magic, Witchcraft and Healing
+- COLT 379 Nationalism and Postcolonialism in Southeast Asian Cinema
+- IR 315 Ethnicity and Nationalism in World Politics
+- POSC 352 Politics of Southeast Asia
+- REL 330 Introduction to the Religions of India
+- REL 334g Religion and Colonial Encounter
+
+#### Southeast Asia and the United States
+
+---
+
+- HIST 344 The Vietnam War, 1945–1975
+- IR 424w Citizenship and Migration in International Politics
+- POSC 328 Asian American Politics
+- REL 336w Re-Viewing Religion in Asian America
+
+## Note:
+
+---
+
+Courses have no prerequisites.
+
+---

@@ -1,0 +1,70 @@
+Program Name: Comedy Writing Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32953
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32953&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32953
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:35Z
+Content SHA-256: 0b591f34da601a936b74127be399887d4031dfb97139c66e284dee502e081089
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Comedy Writing Minor
+
+---
+
+Focused on the writing of comedy, students will learn to craft comedy across multiple platforms and refine their comedic voice. The curriculum is structured with three introduction courses: the study of comedy, the craft of comedic writing, and the importance of comedy in the human experience.
+
+Students will be required to complete an original 4-unit long form project and then select 8 units of elective course work from a designated grouping of electives.
+
+##### Application Procedures
+
+To apply to the minor in comedy writing, a student must be in good academic standing and have a declared major.
+
+Applications and information about the minor can be obtained from the USC School of Cinematic Arts, Writing for Screen and Television division, (213) 740-3303 or at writing@cinema.usc.edu subject line “Comedy Writing Minor Application.”
+
+Students with a declared Comedy Writing minor will receive advisement support in the John Wells Division of Writing for Screen and Television and will receive priority d-clearance for non-majors.
+
+##### Course Requirements for the Minor
+
+A total of 20 units is required to complete the Comedy Writing Minor.
+
+## Required Courses (8 units)
+
+---
+
+Foundations in structure, writing, and importance
+
+- CTWR 404 Foundations of Comedy Units: 2
+- CTWR 400 Is This A Joke: Mechanics of Comedy Writing Units: 4
+- CTWR 406 Why The Long Face: Writing Comedy & the Human Experience Units: 2
+
+## Long-Form Requirement (4 units From The Following)
+
+---
+
+Writing an original feature or television pilot with a comedy focus.
+
+- CTWR 437 Writing the Original Situation Comedy Pilot Units: 4
+- CTWR 457 Writing the Comedy Screenplay Units: 4
+
+## Electives (8 units From The Following)
+
+---
+
+Please note repeatable courses.
+
+- CTWR 324 Breaking the Half-Hour Television Series Units: 4
+- CTWR 407 Creating the Comedic Character Units: 2
+- CTWR 430 Comedy Writers and Their Work Units: 2 max 6
+- CTWR 437 Writing the Original Situation Comedy Pilot Units: 4 max 8
+- CTWR 438 Micro-Stories for New Platforms Units: 2, 4 max 8
+- CTWR 457 Writing the Comedy Screenplay Units: 4 max 12
+- CTWR 467 Comedy Punch Ups and Table Readings Units: 2 max 6
+
+---

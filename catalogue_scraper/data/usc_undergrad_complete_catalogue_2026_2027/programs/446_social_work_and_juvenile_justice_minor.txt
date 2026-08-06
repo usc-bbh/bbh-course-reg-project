@@ -1,0 +1,37 @@
+Program Name: Social Work and Juvenile Justice Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32664
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32664&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32664
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:09Z
+Content SHA-256: c502fdb4f644bfb41f3e0fe173c1522ce96a810f139b84245b7b863e9fc1357a
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Social Work and Juvenile Justice Minor
+
+---
+
+The Social Work and Juvenile Justice minor is designed for students who want to increase their knowledge of the juvenile justice system and service environments for youth populations. This minor is fit for students in the behavioral and social sciences and any student interested in developing a broad knowledge of issues in the field of juvenile justice. The minor is of particular interest to students wishing to pursue graduate studies in social work, law, sociology, psychology, public health or education.
+
+The Social Work and Juvenile Justice minor requires a minimum of 16 units.
+
+## Required Courses
+
+---
+
+Select four courses from the following course options:
+
+- SOWK 200xm Systemic Challenges and Social Change in the United States Units: 4
+- SOWK 324 Juvenile Justice in America Units: 4
+- SOWK 350 Adolescent Gang Intervention Units: 4
+- SOWK 417 Introduction to Substance Use Disorders and Recovery Units: 4
+- SOWK 424 Community Experience in Juvenile Justice Environments Units: 4
+
+---

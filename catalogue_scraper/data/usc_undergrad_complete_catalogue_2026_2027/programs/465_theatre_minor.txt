@@ -1,0 +1,53 @@
+Program Name: Theatre Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32011
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32011&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32011
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:12Z
+Content SHA-256: c24befa8203ef70dab1f13e7bd96acb29bbe280e4461cf77ce88856e64fe7624
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Theatre Minor
+
+---
+
+The general minor in theatre invites students to explore the many facets of this exciting field. Students have the opportunity to take a variety of classes in acting, playwriting, literature, stage management, directing, costume design and production. The curriculum is flexible and encourages students explore theatre through a broad combination of introductory and upper-division course work. All minor students are also eligible to participate in performance and production projects.
+
+## Required Courses
+
+---
+
+- THTR 101 Introduction to Acting Units: 4
+- THTR 125 Text Studies for Production Units: 4
+- THTR 130 Introduction to Theatrical Production Units: 2
+
+### One of the following:
+
+---
+
+- THTR 225g Theatre Across History and Cultures Units: 4
+- THTR 230 Theatrical Design as Poetic Realism Units: 3
+- THTR 231 Costume Construction Units: 3
+- THTR 233 Historic Costumes for the Theatre Units: 3
+- THTR 252a Intermediate Acting I: Drama/Comedy Units: 4
+- THTR 305a Directing Units: 4
+- THTR 333 Stage Management I Units: 3
+- THTR 336 Sound Design I Units: 3
+- THTR 365 Playwriting I Units: 4
+
+## Required upper-division THTR electives: 10-12 units
+
+---
+
+## Required theatre units: 24
+
+---
+
+---

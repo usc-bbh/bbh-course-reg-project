@@ -1,0 +1,40 @@
+Program Name: Human Performance and AI in Sports Analytics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32949
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32949&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32949
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:11Z
+Content SHA-256: 2e0154f0c411e2469c04f591c42c754a61f35a478efcd1ebd8cbc24528bec0ed
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Human Performance and AI in Sports Analytics Minor
+
+---
+
+This interdisciplinary program prepares students to apply AI, data science, as well as human and sport performance principles to improve athletic outcomes and reduce risk of injuries. With this minor, students are able to generate data-driven insights for key stakeholders throughout the sports industry ecosystem, thereby advancing human and athletic performance. With AI and monetization strategies reshaping the sports landscape, the program positions students to engage critically and creatively with emerging technologies and economic models. The program requires at least 18 units.
+
+## Lower-division requirements
+
+---
+
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 OR
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4 OR
+- HBIO 205Lgx The Science of Sport Units: 4
+
+## Upper-division requirements
+
+---
+
+- DSO 478 Sports Data Science, AI and Management Units: 4
+- DSO 484 Applied AI in Sports Research - Practicum I Units: 2, 4
+- HBIO 309 The Human Machine Units: 4
+- HBIO 401L Physiology of Movement Units: 4
+
+---

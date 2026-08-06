@@ -1,0 +1,139 @@
+Program Name: Thematic Approaches to Humanities and Society Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31946
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31946&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31946
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:14Z
+Content SHA-256: 45953fe86a08ff92aee57cfe3099b612bea7ae9935d4caf1febd1f8321f20ad1
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Thematic Approaches to Humanities and Society Minor
+
+---
+
+The interdisciplinary minor in Thematic Approaches to Humanities and Society allows students to examine a range of thematic and theoretical approaches to understanding culture and society from multiple standpoints in the humanities. The minor is rich in course and schedule options, enabling students with an interest in the humanities to continue their studies. It also includes co-curricular events and advisement from Thematic Option staff. Thematic approaches to humanities and society builds on the intellectual community developed in the Thematic Option honors program and is open to all interested students.
+
+The minor focuses on themes such as interdisciplinary perspectives and modes of inquiry; approaches to criticism and history; reification, ideology, contextualization; and knowledge, human diversity and social relations. Students choose six 4-unit classes, including one lower-division elective, one upper-division Thematic Option class (CORE 301 Modes of Inquiry ), and four upper-division electives. Students also complete a 2-unit reading salon (CORE 200 Liberal Arts Reading Salon ).
+
+## Requirements, Lower-Division (Choose One, 4 Units)
+
+---
+
+- CLAS 150gp The Greeks and their Legacies Units: 4
+- CLAS 151gp The Legacy of Rome Units: 4
+- CORE 102gp Culture and Values: Thematic Option Honors Program Units: 4
+- HIST 101gp State and Society in the Ancient World Units: 4
+- HIST 102gm The Worlds of Medieval Europe Units: 4
+- REL 132g Origins of Western Religions Units: 4
+
+## Course Requirements (6 Units)
+
+---
+
+- CORE 200 Liberal Arts Reading Salon Units: 2
+- CORE 301 Modes of Inquiry Units: 4
+
+## Requirements, Upper-Division (16 Units)
+
+---
+
+Enroll in four of the following, at least one from List A, one from List B and not more than one from List C. Not more than two may come from any one department. Courses must be chosen in consultation with a Thematic Option adviser.
+
+### List A
+
+---
+
+#### Early:
+
+---
+
+- CLAS 310 Pagans and Christians Units: 4
+- CLAS 320gmp Diversity and the Classical Western Tradition Units: 4
+- CLAS 333 Cult and City in Ancient Greece Units: 4
+- CLAS 470 Democracies Ancient and Modern Units: 4
+- EALC 340gp Japanese Civilization Units: 4
+- EALC 345 Korean Civilization Units: 4
+- EALC 350gp Chinese Civilization Units: 4
+- EALC 355 Studies in Chinese Thought Units: 4
+- EALC 365 Studies in Japanese Thought Units: 4
+- REL 311g The Bible in Western Literature Units: 4
+- REL 315 Thought and Life of Islam Units: 4
+- REL 317g The Bible in Its Ancient Context Units: 4
+
+#### Modern:
+
+---
+
+- COLT 426 Utopias Units: 4
+- COLT 445 Europe and the Writing of Others Units: 4
+- EALC 332 Modern Korean Literature in Translation Units: 4
+- EALC 335m Korean American Literature Units: 4
+- EALC 342gp Japanese Literature and Culture Units: 4
+- EALC 352g Chinese Literature and Culture Units: 4
+- EALC 354g Modern Chinese Literature in Translation Units: 4
+- FREN 446 Contemporary French Thought Units: 4
+- GERM 370 Literature and Culture in Vienna at the Turn of the Century Units: 4
+- GERM 372g Literature and Culture in Berlin in the 1920s Units: 4
+- PHIL 337 Political Philosophy Units: 4
+- PHIL 437 Social and Political Philosophy Units: 4
+- REL 340 Introduction to Indian Philosophy Units: 4
+- SLL 330gp Russian Thought and Civilization Units: 4
+- SLL 344g Tolstoy: Writer and Moralist Units: 4
+
+### List B
+
+---
+
+#### Humanities and Society:
+
+---
+
+- COLT 448 Multilingual Encounters Units: 4
+- COLT 475 Politics and the Novel Units: 4
+- ENGL 373g Literature and Society Units: 4
+- ENGL 374m Literature, Nationality and Otherness Units: 4
+- FREN 370gm Equality and Difference around the Enlightenment Units: 4
+- REL 366 Religion and Social Change Units: 4
+- REL 462 Religion and Violence Units: 4
+- SLL 345g Literature and Philosophy: Dostoevsky Units: 4
+- SLL 348g The Novels of Vladimir Nabokov Units: 4
+
+#### Critical Approaches:
+
+---
+
+- CLAS 380 Approaches to Myth Units: 4
+- COLT 391 Literary Criticism from Plato to Postmodernism Units: 4
+- COLT 454 Aesthetic Philosophy and Theory Units: 4
+- ENGL 372 Literature and Related Arts Units: 4
+- ENGL 379 History of Literary Criticism Units: 4
+- ENGL 380 Modern Literary Criticism: Theory and Practice Units: 4
+- LING 466 Word and Phrase Origins Units: 4
+- PHIL 361 Philosophy of Religion Units: 4
+- PHIL 445 Philosophy of the Arts Units: 4
+
+### List C
+
+---
+
+#### Social Science Approaches:
+
+---
+
+- ANTH 372 Interpretation of Myth and Narrative Units: 4
+- HIST 201 Approaches to History Units: 4
+- HIST 329 Madness and Society in the Modern Age Units: 4
+- IR 325 North-South Relations in the Global Economy Units: 4
+- POSC 381 Sex, Power, and Politics Units: 4
+- POSC 476 Contemporary Political Thought Units: 4
+- SOCI 350 Social Exclusion, Social Power and Deviance Units: 4
+- SOCI 360m Social Inequality: Class, Status and Power Units: 4
+
+---

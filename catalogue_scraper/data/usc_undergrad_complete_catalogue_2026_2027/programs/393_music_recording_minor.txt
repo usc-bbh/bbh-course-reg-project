@@ -1,0 +1,61 @@
+Program Name: Music Recording Minor
+Credential: 
+School or Academic Unit: Thornton School of Music to assure that the student has sufficient musical backg
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32244
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32244&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32244
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:06Z
+Content SHA-256: d57a817cd70b5471f3cd702f1e5927b993f0119560fb938948d83471bbf03666
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Music Recording Minor
+
+---
+
+A minor in music recording is offered for undergraduate students to provide them with the background necessary to enter the field of audio engineering and to familiarize them with the standards and techniques used in audio recording, editing, mixing and mastering.
+
+#### Prerequisite
+
+Acceptance into the program might require a personal interview by the Thornton School of Music to assure that the student has sufficient musical background and skill.
+
+Students admitted to this minor will be expected to have a minimum GPA of 2.0 and to maintain that average with no grade lower than a “C” for all courses taken in the minor.
+
+Students must apply for this minor, and admission is based on successful completion of MTEC 277x . Generally, students who earn a B or better in this course and have a GPA of 2.0 or higher are admitted. Declared engineering (ENGR) majors with a GPA of 3.0 or higher may be admitted before completing MTEC 277x .
+
+## Required Courses
+
+---
+
+- MTEC 275 Fundamentals of Audio Engineering Units: 4
+- MTEC 277x Introduction to Music Technology Units: 4 [*]
+- MTEC 446a Computer Assisted Recording and Editing Units: 2
+
+### 8 units from the following:
+
+---
+
+- MTEC 378 Introduction to Mixing and Mastering Units: 2
+- MTEC 389 Digital Equipment and Recording Units: 2
+- MTEC 392a Acoustics and Speaker Design Units: 2
+- MTEC 430 Advanced Instrumental Recording Units: 2
+- MTEC 446b Computer Assisted Recording and Editing Units: 2
+- MTEC 477 Remote Recording Techniques Units: 2
+- MTEC 478 Advanced Multichannel Remix Units: 2
+- MTEC 479 Audio Mastering Units: 2
+- MTEC 491 The Recording Console Units: 4
+- MTEC 493 Audio Signal Processing Equipment Units: 2
+- MUIN 340 Introduction to Sound Reinforcement Units: 4
+
+## Total units: 18
+
+---
+
+* Music Industry majors can substitute MTEC 175 and MTEC 176 for MTEC 277x .
+
+---

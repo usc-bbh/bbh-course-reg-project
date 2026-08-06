@@ -1,0 +1,93 @@
+Program Name: American Popular Culture Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31696
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31696&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31696
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:12Z
+Content SHA-256: c511de9de6be4583167702336da26bddc2830e23090f3f42b76c21d21a3311ad
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# American Popular Culture Minor
+
+---
+
+The interdisciplinary minor in American Popular Culture helps students to assess from a variety of perspectives the icons and ideas they encounter every day, to think critically about the images and assertions of the mass media and commercial culture, and to see the experience of popular culture as it interacts with questions of gender and ethnicity in the American context. Students choose five classes, including one upper-division elective, from a curriculum organized to explore: critical approaches to popular culture; gender and ethnicity in American popular culture; and popular culture in the arts. Twenty units are required, four at the lower-division and 16 at the upper-division level.
+
+## Lower-Division Requirements
+
+---
+
+### Choose one course (4 units)
+
+---
+
+- AMST 150gw The American War in Viet Nam Units: 4
+- AMST 205g Introduction to American Popular Culture Units: 4
+- AMST 206gm The Politics and Culture of the 1960s Units: 4
+- AMST 274mw Exploring Ethnicity through Film Units: 4
+- AMST 285gm African American Popular Culture Units: 4
+
+## Upper-Division Requirements
+
+---
+
+### Choose four courses (16 units), at least one from each of the groups below.
+
+---
+
+#### Critical Approaches to Popular Culture: choose one (4 units)
+
+---
+
+- AMST 301gp America, the Frontier, and the New West Units: 4
+- COLT 365 Literature and Popular Culture Units: 4
+- COMM 384 Interpreting Popular Culture Units: 4
+- ENGL 392 Visual and Popular Culture Units: 4
+- GESM 120g Seminar in Humanistic Inquiry Units: 4
+- HIST 380 American Popular Culture Units: 4
+
+#### Gender and Ethnicity in American Popular Culture: choose one (4 units)
+
+---
+
+- AMST 357m Latino Social Movements Units: 4
+- AMST 365 Leadership in the Community — Internship Units: 4
+- AMST 385 African American Culture and Society Units: 4
+- AMST 395m African American Humor and Culture Units: 4
+- AMST 448m Chicano and Latino Literature Units: 4
+- AMST 449m Asian American Literature Units: 4
+- ANTH 445 African American Anthropology Units: 4
+- GESM 130g Seminar in Social Analysis Units: 4
+
+#### Popular Culture in the Arts: choose one (4 units)
+
+---
+
+- AHIS 363m Contemporary Art and the Culture Wars Units: 4
+- AHIS 370g Modern Art III: 1940 to the Present Units: 4
+- AMST 305 Art and Performance in the Americas Units: 4
+- CTCS 392 History of American Cinema to 1960 Units: 4
+- CTCS 393 Topics in Historical Cinema and Media Units: 4
+- CTCS 394 History of American Cinema since 1960 Units: 4
+- ENGL 375 Science Fiction Units: 4
+- HIST 481 Producing Film Histories Units: 4
+- MUSC 320gmw Hip-hop Music and Culture Units: 4
+- MUSC 373g Writing About Popular Music Units: 4
+- MUSC 422 The Beatles: Their Music and Their Times Units: 4
+- MUSC 460 Film Music: History and Function from 1930 to the Present Units: 4
+- MUSC 465 Music, Television and American Culture Units: 4
+
+#### Electives (4 units)
+
+---
+
+Choose one additional upper-division course from the lists above, in a department you have not already chosen for the minor.
+
+---

@@ -1,0 +1,153 @@
+Program Name: Computer Science/Business Administration (BS)
+Credential: BS
+School or Academic Unit: Viterbi First-Year Academy
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32088
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32088&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32088
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:30Z
+Content SHA-256: 5ad04f130072b16fb9bbf1994858d0893c5256a2c78edc7a5f80caf9cb9da22d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Computer Science/Business Administration (BS)
+
+---
+
+The combined Bachelor of Science degree program in computer science/business administration offers qualified students the opportunity to gain an educational foundation in both areas. The degree cannot also be combined as an additional major in either computer science or business administration. The degree is administered by the Computer Science Department.
+
+The minimum requirement for the degree is 128 units.
+
+A grade of C (2.0) or better is required for each of the core courses CSCI 102L , CSCI 103 , CSCI 170 , CSCI 104 and CSCI 201 .
+
+Courses with a grade of C- or below must be repeated; courses may only be retaken once.
+
+Departmental approval is required in order to retake a course.
+
+Students who do not satisfy the degree requirement after repeating a class will be disqualified from the program.
+
+A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken.
+
+## Composition/Writing Requirements (8 Units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *
+
+## General Education (24 Units)
+
+---
+
+- General Education Units: 24
+
+## Pre-Major Requirements (14 Units)
+
+---
+
+### Engineering (2 units)
+
+---
+
+- ENGR 102 Viterbi First-Year Academy Units: 2
+
+### Mathematics (8 units)
+
+---
+
+- MATH 125g Calculus I Units: 4 **
+- MATH 126g Calculus II Units: 4
+- or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+
+### Basic Science (4 units)
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4 or
+- CHEM 105aLg General Chemistry Units: 4 or
+- CHEM 115aLg Advanced General Chemistry Units: 4 or
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 or
+- PHYS 161Lg Advanced Principles of Physics I Units: 4
+
+## Major Requirements (82 Units)
+
+---
+
+### Statistics and Probability (4 units)
+
+---
+
+- BUAD 310g Applied Business Statistics Units: 4 or
+- BUAD 312g Statistics and Data Science for Business Units: 4 or
+- EE 364 Probability and Statistics for Engineers and Computer Scientists Units: 4 or
+- MATH 407 Probability Theory Units: 4
+
+### Linear Algebra (4 units)
+
+---
+
+- EE 141L Applied Linear Algebra for Engineering Units: 4 or
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- MATH 235 Linear Algebra and Applications Units: 4
+
+### Computer Science Requirements (30 units)
+
+---
+
+- CSCI 102L Introduction to Programming Units: 2
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 104L Data Structures Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+- CSCI 201 Principles of Software Development Units: 4
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4
+- CSCI 310 Software Engineering Units: 4
+- CSCI 401 Capstone: Design and Construction of Large Software Systems Units: 4
+
+### Business Requirements (36 units)
+
+---
+
+- ACCT 410x Foundations of Accounting Units: 4
+- BUAD 302 Communication Strategy in Business Units: 4
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+- BUAD 306 Business Finance Units: 4
+- BUAD 307 Marketing Fundamentals Units: 4
+- BUAD 311 Operations Management Units: 4 or
+- BUAD 313 Advanced Operations Management and Analytics Units: 4
+- BUAD 497 Strategic Management Units: 4
+- ECON 351x Microeconomics for Business Units: 4
+- ECON 352x Macroeconomics for Business Units: 4
+
+### Technical Electives (8 units)
+
+---
+
+Students must take one 4-unit course from the Computer Science selection and 4 units from the Business selection.
+
+#### Computer Science Elective
+
+---
+
+Take at least one 4-unit 300- or 400-level CSCI course.
+
+#### Business Elective(s)
+
+---
+
+Take at least four units of 300- or 400-level courses offered by the Marshall School, specifically with a prefix of ACCT, BAEP, BUCO, BUAD, DSO, FBE, MKT, MOR or RISK, and selected in consultation with an adviser.
+
+## Total units: 128
+
+---
+
+[*]WRIT 340 Advanced Writing (Communication for Engineers) is strongly recommended for CSBA majors.
+
+[**]Satisfies GE requirement.
+
+---

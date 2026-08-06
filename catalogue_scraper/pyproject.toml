@@ -1,0 +1,57 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "usc-catalog-scraper"
+version = "1.2.0"
+description = "Collects one plain-text file per standalone undergraduate degree program from the latest USC Catalogue, with layered acquisition, strict section-boundary discovery, auditable classification, and safe resume."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "httpx[socks]>=0.27,<1",
+    "beautifulsoup4>=4.12,<5",
+    "lxml>=5,<7",
+    "tenacity>=8.2,<10",
+    "typer>=0.12,<1",
+    "rich>=13,<15",
+    "platformdirs>=4,<5",
+    "playwright>=1.45,<2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8,<10",
+    "pytest-cov>=5,<8",
+    "ruff>=0.5,<1",
+    "mypy>=1.10,<2",
+]
+
+[project.scripts]
+usc-catalog-scraper = "usc_catalog_scraper.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "RUF"]
+ignore = ["SIM108", "SIM105", "B008", "E501", "RUF001", "RUF002", "RUF003"]
+
+[tool.mypy]
+python_version = "3.10"
+mypy_path = "src"
+packages = ["usc_catalog_scraper"]
+ignore_missing_imports = true
+warn_unused_ignores = false
+no_implicit_optional = true
+check_untyped_defs = true

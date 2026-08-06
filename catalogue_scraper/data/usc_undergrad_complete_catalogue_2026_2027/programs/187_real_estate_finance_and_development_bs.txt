@@ -1,0 +1,159 @@
+Program Name: Real Estate Finance and Development (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32800
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32800&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32800
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:07Z
+Content SHA-256: aec2c76bb4eec08729e9ca381554c3db158821de98eccb5d9c4385e2b5c7da62
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Real Estate Finance and Development (BS)
+
+---
+
+The Bachelor of Science in Real Estate Finance and Development (REFD) degree program brings together the complementary strengths of two world-class schools at USC to deliver a rigorous, integrated curriculum for students with a strong interest in real estate.
+
+Combining the Marshall School of Business’s expertise in financial valuation, capital markets, and a comprehensive business education, and the Sol Price School of Public Policy’s leadership in urban development and land use, the program equips students with both analytical depth and applied perspective. Courses, taught by leading research faculty, incorporate applied learning components that bridge classroom theory with real-world practice in real estate development, investment, and valuation, preparing graduates to lead and adapt in an evolving real estate industry.
+
+Students are admitted to the program as freshmen. The degree is administered by the Marshall School of Business and cannot be combined as an additional major in either accounting or business administration.
+
+This degree requires at least 128 units including USC’s General Education Requirements .
+
+## Writing Requirements (8 units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *
+- * Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for REFD majors.
+
+## Major Requirements (96 units)
+
+---
+
+### Foundation Core Courses (26 units)
+
+---
+
+- BUAD 280 Introduction to Financial Accounting Units: 3
+- BUAD 281 Introduction to Managerial Accounting Units: 3
+-
+- BUAD 306 Business Finance Units: 4
+- or
+- BUAD 308 Advanced Business Finance Units: 4
+-
+- BUAD 310g Applied Business Statistics Units: 4
+- or
+- BUAD 312g Statistics and Data Science for Business Units: 4
+-
+- ECON 351x Microeconomics for Business Units: 4
+- ECON 352x Macroeconomics for Business Units: 4
+-
+- MATH 118gx Calculus for Business and Economics Units: 4 *
+- or
+- MATH 125g Calculus I Units: 4 **
+- Notes:
+  * Placement into MATH 118gx is contingent on successful completion of MATH 117g or obtaining an acceptable score on the math placement exam. The MATH 118gx requirement may be waived with an AP Calculus AB or BC score of 4 or higher or an IB math score of 5 or higher.
+  ** A-level mathematics examination scores of A or B may receive subject credit for MATH 125g . Eligible students should speak with their academic advisers for additional information.
+  BUAD 310, BUAD 312, MATH 118 and MATH 125g satisfy GE category F: Quantitative Reasoning.
+
+### Marshall Core Courses (22 units)
+
+---
+
+- BUAD 302 Communication Strategy in Business Units: 4
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+- BUAD 307 Marketing Fundamentals Units: 4
+-
+- BUAD 311 Operations Management Units: 4
+- or
+- BUAD 313 Advanced Operations Management and Analytics Units: 4
+-
+- BUAD 425 Introduction to Business Analytics Units: 2
+- or
+- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2
+-
+- BUAD 497 Strategic Management Units: 4
+
+### Price Core Courses (18 units)
+
+---
+
+- PPD 245g The Urban Context Units: 4
+- RED 200 Introduction to Real Estate Units: 4
+- RED 201 Real Estate Career Seminar Units: 2
+- RED 417 History of Planning and Development Units: 4
+- RED 425 Designing Livable Communities Units: 4
+
+### Real Estate Core Courses (17 units)
+
+---
+
+- BUAD 113 Real Estate Finance and Development Freshman Seminar Units: 1
+- FBE 391 Real Estate Finance and Investment Units: 4
+- RED 362 Real Estate Development Fundamentals Units: 4 *
+- RED 435 Analyzing Real Estate Markets Units: 4 **
+- RED 437 Advanced Finance and Investment for Real Estate Development Units: 4
+- Notes:
+  * REFD students should complete BUAD 310/312 and RED 362 before taking RED 435, and take FBE 391 either before or concurrently with RED 435.
+  *RED 435 requires a prerequisite and a corequisite not included in this program. Consult the program advisor for a prerequisite waiver.
+
+### Electives (12 units)
+
+---
+
+- • Two 4-unit upper-division (300- or 400- level) FBE courses not completed as a requirement. FBE 427 Real Estate Law is recommended.
+- Complete at least 4 units selected from the following:
+  • Any upper-division (300- or 400- level) Marshall (ACCT, BAEP, BUAD, BUCO, DSO, FBE, MKT, MOR, or RISK) elective course not completed as a requirement above. FBE 467 Real Estate Investment Trust (REIT) Analysis or RED 469 Mixed Use Development Process are recommended.
+  • In addition to Marshall electives, students may also select from the following approved non-Marshall courses:
+- ARCH 306m Shelter Units: 4
+- ARCH 404 Topics in Modern Architecture in Southern California Units: 3
+- ARCH 432 People, Places and Culture: Architecture of the Public Realm Units: 4
+- ARCH 442m Women’s Spaces in History: “Hussies,” “Harems” and “Housewives” Units: 4
+- ARCH 444 Great Houses of Los Angeles Units: 4
+- ARCH 480 Conversations on the Expanded Role of the Architect Units: 1
+- CE 412 Construction Contracts and Law Units: 2
+- CE 460 Construction Engineering Units: 4
+- CE 461 Construction Estimating Units: 4
+- CE 462 Construction Methods and Equipment Units: 2
+- CE 469 Sustainable Design and Construction Units: 2
+- CE 470 Building Information Modeling: Project Visualization and Simulation for Management Units: 4
+- LAW 355 Law and Homelessness Units: 4
+- MDES 441w Cities of the Middle East Units: 4
+- POSC 436 Environmental Politics Units: 4
+- PPD 300 Social Justice Issues in Public Policy and Urban Planning Units: 4
+- PPD 344 Environmental Policy and Sustainable Development Units: 4
+- PPD 357 Government and Business Units: 4
+- PPD 358 Urban and Regional Economics Units: 4
+- PPD 360 Urban Transportation Planning and Policy Units: 4
+- PPD 361 Sustainable Communities, Policy and Planning Units: 4
+- PPD 410 Comparative Urban Development Units: 4
+- PPD 422 Transportation Data and Automation Units: 4
+- PPD 439 Housing and Community Development Units: 4
+- PPD 478 Social Innovation Units: 4
+- RED 351 Land Use Regulation Units: 4
+- RED 398 Shaping Cities Through Real Estate Units: 2, 3, 4
+- RED 469 Mixed Use Development Process Units: 4
+- RED 499 Special Topics Units: 2, 3, 4
+- SOCI 431 Cities Units: 4
+- SSCI 301L Maps and Spatial Reasoning Units: 4
+- SSCI 313 Global Geodesign and Stakeholder Engagement Units: 2
+- SSCI 314 Comparative Sustainability Theory and Practice for Geodesign Units: 2
+- SSCI 350 International Geodesign Units: 4
+- • Other elective(s) approved by the program director.
+
+### Real Estate Internship (1 unit)
+
+---
+
+- RED 301 Real Estate Internship Seminar Units: 1
+- Return to: USC Marshall School of Business
+
+---

@@ -1,0 +1,52 @@
+Program Name: Professional and Managerial Communication Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31950
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31950&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31950
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:24Z
+Content SHA-256: 5679106559b39aa4546abdb9ca3c05df5f304c204ee74e46749045c666c0c038
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Professional and Managerial Communication Minor
+
+---
+
+The ability to succeed in today's workplace necessitates a growing number of communication skills. As today's increasingly global and highly competitive marketplace grows in complexity, the need to understand intercultural differences, the power of structure in the workplace and other issues such as dealing with interpersonal conflicts continues to increase. This minor will provide students interested in the management of people, resources or products with these necessary tools. Requirements for admission are a minimum 3.0 GPA and completion of a minimum of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission.
+
+## Required Core Communication Courses
+
+---
+
+- COMM 320 Small Group and Team Communication Units: 4
+- COMM 375 Business and Professional Communication Units: 4
+- COMM 385 Organizational Communication Units: 4
+
+## Electives-Choose Three From The Following:
+
+---
+
+- COMM 302 Persuasion Units: 4
+- COMM 304 Interpersonal Communication Units: 4
+- COMM 308 Communication and Conflict Units: 4
+- COMM 315 Health Communication Units: 4
+- COMM 321 Communication and Social Media Units: 4
+- COMM 322 Argumentation and Advocacy Units: 4
+- COMM 324mw Intercultural Communication Units: 4
+- COMM 345 Social and Economic Implications of Communication Technologies Units: 4
+- COMM 388 Ethics in Human Communication Units: 4
+- COMM 431 Global Strategy for the Communications Industry Units: 4
+- COMM 486 Human and Technological Systems in Organizations Units: 4
+- COMM 487 Communication and Global Organizations Units: 4
+
+## Total units: 24
+
+---
+
+---

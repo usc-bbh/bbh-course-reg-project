@@ -1,0 +1,127 @@
+Program Name: Health Innovation Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32617
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32617&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32617
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:06:55Z
+Content SHA-256: b31011b9b47f61cb1e30519a8b7adf0b55a84d6e09163603e4dc835c68652290
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Health Innovation Minor
+
+---
+
+The Health Innovation Minor is intended for undergraduate students at USC who are interested in collaborative health innovations that leverage the complex intersections of health science expertise, societal need, technology, patient active participation, new business/finance models and inclusive policy for health. Through participation in the minor, students will have the opportunity to:
+
+- Identify cross-cutting health challenges and understand their components and interrelations;
+- Create a diverse team with common interests and different view-points surrounding a health innovation challenge of common interest to the team;
+- Cross-train in the core aspects of a challenge so as to facilitate collaboration and communication;
+- Collaborate with other team members to prototype a process or product innovation that addresses a chosen challenge;
+- Investigate the intersectional components of an impactful innovation and co-design elements from different sectors that are tightly coupled within a challenge;
+- Use the co-design process to introduce disruptive perspectives across and within participating sectors
+
+In the process the students build collaborative innovation skills that are relevant to 21st century environments with an emphasis on health applications for diverse populations. The skills include systems thinking, cross-sector collaboration, integrated innovation, iterative improvement, team-building, project management, design strategy, inclusive design.
+
+The minor is a collaborative effort between: the Iovine and Young Academy, Biokinesiology, Biological Sciences, Biomedical Engineering, Dance, Health Promotion and Disease Prevention, Medical Sciences, Pharmaceutical Sciences, Pharmacy and Regulatory Sciences, Public Policy, and Social Work.
+
+A total of 28 units is required for the minor.
+
+Application information for the minor can be found at:iovine-young.usc.edu​ [http://iovine-young.usc.edu%E2%80%8B].
+
+## Biological and Medical foundations (8 units)
+
+---
+
+### Biological Science Requirement (4 units)
+
+---
+
+Complete one (1) course from the following:
+
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+
+### Medical Science Requirement (4 units)
+
+---
+
+Complete four (4) units from the following:
+
+- MEDS 315 Human Anatomy, Physiology, and the Technology of Medicine Units: 2
+- MEDS 355 Skeletal Biology and Pathology Units: 2
+- MEDS 360 Bench to Bedside: Application of the Basic Sciences Units: 2
+- MEDS 440 Introduction to Surgical Principles Units: 2
+- MEDS 445 Cancer: Biology, Prevention and Therapy from the Bench to the Bedside Units: 4
+- MEDS 450 OB/GYN: The Medicine and Surgery of Reproduction Units: 2
+
+## Cross-Training Courses (8 units)
+
+---
+
+​​​​​​
+
+- ACAD 176 Rapid Visualization Units: 4
+- ACAD 181g Disruptive Innovation Units: 4
+- ACAD 183 Product Management for Challenge-Based Innovation Units: 4
+- ACAD 220 Introduction to Data Innovation and Analytics Units: 4
+- ACAD 222 Introduction to Machine Intelligence Units: 4
+- ACAD 230 Introduction to Interactive Physical Computing Units: 4
+- ACAD 245 Fundamentals of Product Design Units: 4
+- ACAD 360 Design Strategy: Problem Solving for Organizations Units: 4
+- BME 415 Regulation of Medical Products Units: 2
+- BKN 610L Technology in Sport: Field Assessment of Athlete Performance Units: 2
+- BKN 611L Technology in Sport: Physiological Assessments Units: 2
+- DANC 305g Dance Science: Analysis of Dance Movement Units: 4
+- DANC 362 Pilates Mat Training Units: 2
+- HP 200 Introduction to Health Promotion and Disease Prevention Units: 4
+- HP 300 Principles of Human Behavior Units: 4
+- HP 446 Poisons, People, and Politics Units: 4
+- MEDS 220 Healthcare Foundations: Core Concepts and Terminology Units: 2
+- MEDS 225 Introduction to Professionalism and the Practice of Medicine Units: 2
+- PPD 202 Health and Health Care in America Today Units: 2
+- PPD 205 Introduction to Health Policy and Law Units: 2
+- PPD 325 Fundamentals of Health Policy and Management Units: 4
+- RXRS 406 Clinical Pharmacology and Medication Management Units: 4
+- RXRS 416 Medical Products: From Idea to Market Units: 4
+- RXRS 417 Food Safety: The Good, The Bad and The Deadly Units: 4
+- RXRS 418 More than Prescriptions: An Integrative Approach to Modern Healthcare Units: 4
+- RXRS 422 Regulation, Guidance and Control of Medical Products Units: 2
+- SOWK 110 Thriving: Connecting Wellness, Identity and Systems Units: 4
+- SOWK 210 Global Well-being and Human Performance Units: 4
+- SOWK 323 Intercultural Coaching, Care Coordination and Perspectives Units: 4
+- SOWK 417 Introduction to Substance Use Disorders and Recovery Units: 4
+- SOWK 506 Human Behavior and the Social Environment Units: 3
+- SOWK 605 Human Development and Mental Health Units: 3
+- SOWK 631 Advanced Theories and Clinical Interventions in Health Care Units: 3
+- SOWK 637 Assessing Wellness to Improve Recovery in Integrated Care Units: 3
+- SOWK 638 Policy in Integrated Care Units: 3
+- SOWK 644 Explanatory Theories of Health and Mental Health Units: 3
+- SOWK 645 Clinical Interventions: Evidence Based Practice in Health and Mental Health Settings Units: 3
+- SOWK 660 Health Care Delivery Systems: Planning for Health and Social Services Units: 3
+
+## Intersectional Courses (8 units)
+
+---
+
+- ACAD 230 Introduction to Interactive Physical Computing Units: 4
+- ACAD 260 Introduction to Healthcare Innovation Units: 4
+- ACAD 572 Embedded Computing for Human Performance Units: 4
+- BME 415 Regulation of Medical Products Units: 2
+- BPSI 411 Biopharmaceutical Marketing Analysis and Strategy Units: 4
+- RXRS 416 Medical Products: From Idea to Market Units: 4
+- RXRS 418 More than Prescriptions: An Integrative Approach to Modern Healthcare Units: 4
+
+## Capstone (4 units)
+
+---
+
+- ACAD 432 Collaborative Prototyping in Health Innovation Units: 4
+
+---

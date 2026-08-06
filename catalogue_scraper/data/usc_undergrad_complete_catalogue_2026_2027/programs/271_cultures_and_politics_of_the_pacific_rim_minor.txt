@@ -1,0 +1,131 @@
+Program Name: Cultures and Politics of the Pacific Rim Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31773
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31773&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31773
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:20Z
+Content SHA-256: 78d11c5ba1bcbe64f3bffaa9a2028f86d8b2ff3ad409474ee47c2febfb08f592
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Cultures and Politics of the Pacific Rim Minor
+
+---
+
+This interdisciplinary minor introduces students to the cultural heritage and political contexts of the United States’ most important trading partners on the Pacific Rim. Students study East Asia and Latin America, and the cultural, economic and political dimensions of international trade. It is intended for students who are interested in or considering diplomatic or commercial careers that require knowledge about the people and cultures of the Pacific Rim.
+
+As with all minors, students must choose at least four classes dedicated to this minor and four classes outside their major department, which may be the same four courses.
+
+## Requirements (Five Courses, 20 Units)
+
+---
+
+### International Trade
+
+---
+
+(choose one course from the list below)
+
+- ECON 450 International Trade Units: 4 (prerequisite: ECON 303 or BUAD 351 )
+- IR 325 North-South Relations in the Global Economy Units: 4
+- IR 330 Politics of the World Economy Units: 4
+- IR 470 Comparative Regionalism Units: 4 (prerequisite: IR 210 )
+- POSC 345 International Law Units: 4
+- POSC 451 Politics of Resources and Development Units: 4
+
+### Area Studies
+
+---
+
+(choose two courses, each from a different list below)
+
+#### Latin America:
+
+---
+
+- AHIS 319 Mesoamerican Art and Culture Units: 4
+- ANTH 314g The Nature of Maya Civilization Units: 4
+- ANTH 425 Peoples and Cultures of Latin America Units: 4
+- HIST 374 History of Mexico Units: 4
+- HIST 451 The Mexican Revolution Units: 4
+- HIST 473 Colonial Latin America Seminar Units: 4
+- IR 364 The Political Economy of Latin American Development Units: 4
+- IR 365 Politics and Democracy in Latin America Units: 4
+- POSC 350 Politics of Latin America Units: 4
+- SPAN 320 Politics, Thought, Society Units: 4 (in Spanish)
+- SPAN 321 Sounds, Images, Objects Units: 4 (in Spanish)
+- SPAN 372 Modern and Contemporary Latin American Fiction Units: 4 (in Spanish)
+- SPAN 380g Literature of Mexico Units: 4 (in Spanish)
+
+#### East Asia:
+
+---
+
+- ANTH 323 Southeast Asian Cultures Today: Globalization and Multiple Modernities Units: 4
+- ECON 343 Economic Development of East Asia Units: 4 (prerequisite: ECON 203 or ECON 205 )
+- IR 360 International Relations of the Pacific Rim Units: 4
+- IR 361 South and Southeast Asia in International Affairs Units: 4
+- IR 384 Asian Security Issues Units: 4
+- POSC 352 Politics of Southeast Asia Units: 4
+- POSC 355 Politics of East Asia Units: 4
+- POSC 453 Political Change in Asia Units: 4
+- REL 331 Religions of East Asia Units: 4
+
+### Country Study
+
+---
+
+(choose two courses from the lists below)
+
+#### China:
+
+---
+
+- AHIS 384 Early Chinese Art Units: 4
+- AHIS 385 Later Chinese Art Units: 4
+- ANTH 324gw Contemporary China: Cultural Politics and Social Realities Units: 4
+- EALC 350gp Chinese Civilization Units: 4
+- EALC 352g Chinese Literature and Culture Units: 4
+- EALC 354g Modern Chinese Literature in Translation Units: 4
+- EALC 355 Studies in Chinese Thought Units: 4
+- EALC 375 Women and Gender in China: Past and Present Units: 4
+- HIST 338 China to 960 A.D. Units: 4
+- HIST 339 China, 960–1800 A.D. Units: 4
+- HIST 340 History of China since 1800 Units: 4
+- IR 333 China in International Affairs Units: 4
+- POSC 356 Politics in the People’s Republic of China Units: 4
+
+#### Japan:
+
+---
+
+- AHIS 386 Early Japanese Art Units: 4
+- AHIS 387 Later Japanese Art Units: 4
+- EALC 340gp Japanese Civilization Units: 4
+- EALC 342gp Japanese Literature and Culture Units: 4
+- EALC 365 Studies in Japanese Thought Units: 4
+- EALC 428 Nature and the Ecological Imagination in Japanese Literature Units: 4
+- EALC 460 Love, Self and Gender in Japanese Literature Units: 4
+- HIST 335 History and Law in Japan Units: 4
+- HIST 336 History of Japan, 1550–1945 Units: 4
+- HIST 337 Japan since 1945 Units: 4
+- HIST 438 War and Peace in Medieval Japan Units: 4
+- HIST 464 Culture, Money, and Power: Japanese-American Relations since 1853 Units: 4
+- IR 442 Japanese Foreign Policy Units: 4
+
+#### Korea:
+
+---
+
+- EALC 332 Modern Korean Literature in Translation Units: 4
+- EALC 335m Korean American Literature Units: 4
+- EALC 345 Korean Civilization Units: 4
+- HIST 333 Korea: The Modern Transformation Units: 4
+
+---

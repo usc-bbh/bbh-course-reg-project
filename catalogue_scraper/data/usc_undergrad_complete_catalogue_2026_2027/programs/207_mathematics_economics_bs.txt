@@ -1,0 +1,89 @@
+Program Name: Mathematics/Economics (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31858
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31858&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31858
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:54Z
+Content SHA-256: 9369613bd8414e7017951ba548a062f531821ab07343ed06e01603f59eeef5bc
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Mathematics/Economics (BS)
+
+---
+
+Students are required to take seven courses in economics, seven courses in mathematics and two courses in information technology.
+
+## Pre-major Requirement:
+
+---
+
+- MATH 125g Calculus I Units: 4
+
+## In Economics:
+
+---
+
+- ECON 203g Principles of Microeconomics Units: 4
+- ECON 205g Principles of Macroeconomics Units: 4
+- ECON 303 Intermediate Microeconomic Theory Units: 4
+- ECON 305 Intermediate Macroeconomic Theory Units: 4
+- ECON 318 Introduction to Econometrics Units: 4
+- and at least two other ECON courses at the 400-level or above
+
+## In Mathematics:
+
+---
+
+- MATH 126g Calculus II Units: 4 or
+- MATH 127 Enhanced Calculus II Units: 4
+-
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+-
+- MATH 226g Calculus III Units: 4 or
+- MATH 227 Enhanced Calculus III Units: 4
+-
+- and either sequence one:
+-
+- MATH 407 Probability Theory Units: 4
+- MATH 408 Mathematical Statistics Units: 4
+-
+- or sequence two:
+- MATH 307 Statistical Inference and Data Analysis I Units: 4
+- MATH 308 Statistical Inference and Data Analysis II Units: 4
+-
+- at least two other MATH courses at the 400-level or above (for both sequences)
+
+## In Information Technology:
+
+---
+
+Two courses required.
+
+### At least one course chosen from
+
+---
+
+- TAC 115 Programming in Python Units: 2
+- TAC 165 Introduction to C++ Programming Units: 2
+
+### And
+
+---
+
+- TAC 249 Introduction to Data Analytics Units: 4
+
+## Note:
+
+---
+
+Electives must be approved by the program advisers.
+
+---

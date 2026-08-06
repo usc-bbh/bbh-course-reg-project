@@ -1,0 +1,44 @@
+Program Name: Nutrition and Health Promotion Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32217
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32217&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32217
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:31Z
+Content SHA-256: 4c5564aff1fb49415cbe6e5ecc028292cecf889e67a538f1f2809133714d4ebc
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Nutrition and Health Promotion Minor
+
+---
+
+This minor is designed to appeal to students interested in nutrition, especially in preparation for graduate study in health-related fields (e.g., medicine, public health) or to enter health-related fields of employment. The focus of the minor is on assessing, planning and evaluating dietary intake of individuals or groups under various conditions of health and disease based upon principles of nutrition and behavioral science. Students in this minor will study factors associated with dietary habits and the development of effective individual and group interventions. It complements majors including psychology, gerontology, biological sciences, chemistry, kinesiology and environmental studies.
+
+## Required Courses (20 Units)
+
+---
+
+- HP 230 Nutrition and Health Units: 4
+- HP 430 Obesity and Health Units: 4
+- HP 431 Behavior and Education Strategies for Nutrition and Fitness Units: 4
+
+### Two of the following:
+
+---
+
+- HP 365gmw Culture, Lifestyle, and Health Units: 4
+- HP 370g Introduction to Epidemiology: Methods and Applications Units: 4
+- HP 401 Cultural Competence in Medicine Units: 4
+- HP 402 Maternal and Child Health Units: 4
+- HP 420m Gender and Minority Health Issues Units: 4
+- HP 432 Clinical Nutrition Units: 4
+- HP 460 Adolescent Health Units: 4
+- HP 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 , max 12
+
+---

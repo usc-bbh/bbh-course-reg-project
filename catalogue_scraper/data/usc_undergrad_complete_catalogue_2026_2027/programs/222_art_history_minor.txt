@@ -1,0 +1,51 @@
+Program Name: Art History Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31711
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31711&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31711
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:29Z
+Content SHA-256: 5d4ad2af683ab45670e5f7274c0d216bfcd4e39e38aad9087d78ed7e577dda9c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Art History Minor
+
+---
+
+Art history combines the study of art with the study of culture broadly conceived. The art history minor offers a concentrated course of study that includes a variety of objects from different historical periods and cultures in relation to their makers, patrons, viewers and critics. Students in the minor are trained to analyze visual images and information through a process of intensive looking, reading, research and writing.
+
+## Lower-division Curriculum (8 units)
+
+---
+
+### Choose Two Lower-Division Courses; Only One May Be At The 200 Level
+
+---
+
+- AHIS 120gp Foundations of Western Art: Prehistoric to Renaissance Units: 4
+- AHIS 121gp Foundations of Western Art: Renaissance to Contemporary Units: 4
+- AHIS 125gp Arts of Asia I: Antiquity to 1300 Units: 4
+- AHIS 126g Arts of Asia II: 1300 to the Present Units: 4
+- AHIS 127g Arts of the Ancient Americas Units: 4
+- AHIS 128gp The Arts and Society in Latin America, Colonial to Contemporary Units: 4
+- AHIS 201g Digging into the Past Units: 4
+- AHIS 220g Medieval Visual Culture Units: 4
+- AHIS 230 Art and Culture in Early Modern Europe Units: 4
+- AHIS 250gm Art, Modernity and Difference Units: 4
+- AHIS 255g Culture Wars: Art and Social Conflict in the Modern World Units: 4
+- AHIS 270 L.A. Now: Contemporary Art in Los Angeles Units: 4
+- AHIS 282 Korean Art Units: 4
+
+## Upper-division Requirement (16 units)
+
+---
+
+Choose from 300- and 400-level AHIS courses. At least one course must be at the 400 level.
+
+---

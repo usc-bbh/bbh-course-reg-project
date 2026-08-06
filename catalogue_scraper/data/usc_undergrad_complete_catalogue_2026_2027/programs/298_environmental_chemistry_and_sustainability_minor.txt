@@ -1,0 +1,59 @@
+Program Name: Environmental Chemistry and Sustainability Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31741
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31741&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31741
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:20Z
+Content SHA-256: 84f11132dcfd6b39fbd90a211ae01c35ba2f871b0c4770a13fc0fa4c76996c77
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Environmental Chemistry and Sustainability Minor
+
+---
+
+The environmental chemistry and sustainability minor is designed for students majoring in business, engineering, law, communications and other professional fields to give them the knowledge of chemistry needed to understand, formulate and manage scientific issues related to natural environmental processes as well as technologies involving the environment.
+
+## Required Courses, Lower-Division
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4
+- CHEM 105bL General Chemistry Units: 4 or
+-
+- CHEM 115aLg Advanced General Chemistry Units: 4
+- CHEM 115bL Advanced General Chemistry Units: 4
+
+## Required Courses, Upper-Division
+
+---
+
+- CHEM 300L Analytical Chemistry Units: 4
+- ENST 320a Water and Soil Sustainability; Energy and Air Sustainability Units: 4
+- ENST 320b Water and Soil Sustainability; Energy and Air Sustainability Units: 4
+
+## One Elective Course Chosen From:
+
+---
+
+- CHEM 322aL Organic Chemistry Units: 4
+- BISC 315L Introduction to Ecology Units: 4 *
+- BISC 419L Microbiology for a Sustainable Future Units: 4 *
+- BISC 427 The Global Environment Units: 4 *
+- GEOL 412 Oceans, Climate, and the Environment Units: 4 **
+
+### Note:
+
+---
+
+*Prerequisite required
+
+**Corequisite required
+
+---

@@ -1,0 +1,33 @@
+Program Name: Psychology Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31910
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31910&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31910
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:31Z
+Content SHA-256: c8f0095065513ecff1943295636dbd73580d2c1f8228c00397263e175bd6952f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Psychology Minor
+
+---
+
+The minor requires six courses: PSYC 100 and five additional courses:
+
+One course is required in each of three of the five topic areas listed under Major Requirements. PSYC 314L may be used to fulfill one of these topic areas.
+
+Two elective PSYC courses. One must be upper-division, 300-level or higher.
+
+Limitations:
+
+1. Students must complete at least 16 upper-division PSYC units.
+2. No more than four units of PSYC 490x is applicable to the minor.
+3. Each of the six courses must be at least 2.67 units.
+
+---

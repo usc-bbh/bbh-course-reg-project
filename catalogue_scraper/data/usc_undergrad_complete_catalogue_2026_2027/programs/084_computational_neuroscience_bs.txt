@@ -1,0 +1,189 @@
+Program Name: Computational Neuroscience (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31871
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31871&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31871
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:21Z
+Content SHA-256: ce74326602832f5eb75ffd6c8ff0d28082ac917a1b6e62b0b2c36e81bb159ca2
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Computational Neuroscience (BS)
+
+---
+
+Coordinator: David McKemy, PhD
+
+Undergraduate Advisers: Pablo Lopez, pablol@usc.edu, Mia Kirsten Santos, mnsantos@usc.edu
+
+The computational neuroscience major is designed for those students with an interest in applying mathematical and computational methodologies toward understanding the structure and functioning of the nervous system. The major will provide progressive training in interdisciplinary and inter-faculty aspects of neuroscience, and serve as a foundation for students interested in pursuing post-graduate education in graduate or professional schools or career opportunities in technically advanced occupations. Research is integral to this major and students are encouraged to engage in research with neuroscience faculty as early as possible in their undergraduate years.
+
+#### Grade Requirements:
+
+A grade of C- or higher is required to count toward major requirements.
+
+#### Program Requirements:
+
+The major requires twelve core courses (45 units) and six or seven electives (minimum 22 units) for a minimum total of 67 units.
+
+The degree requires a minimum of 128 units.
+
+## Core Requirements (45 units)
+
+---
+
+- General Science Requirements (24 units)
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+-
+- CHEM 103Lgx General Chemistry for the Environment and Life Units: 4 or
+- CHEM 105aLg General Chemistry Units: 4
+-
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+-
+- PHYS 135aLg Physics for the Life Sciences Units: 4 or
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+-
+- PHYS 135bL Physics for the Life Sciences Units: 4 or
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+- Statistics Requirement, Choose One (4 units)
+- HP 340Lg Health Behavior Statistical Methods Units: 4
+- MATH 208x Elementary Probability and Statistics Units: 4
+- MATH 307 Statistical Inference and Data Analysis I Units: 4
+- PSYC 274Lg Statistics Units: 4
+- QBIO 305g Statistics for Biological Sciences Units: 4
+- Neuroscience Requirements (9 units)
+- BISC 421 Neurobiology Units: 4
+- NEUR 199 Neuroscience Colloquium Units: 1
+- PSYC 100Lg Introduction to Psychology Units: 4
+- Upper-division Core Courses (8 units)
+- BISC 407 Cellular and Molecular Neuroscience Units: 4
+- NEUR 408 Systems Neuroscience: From Synapses to Perception Units: 4
+
+## Computational Area
+
+---
+
+Students are to take a total of three courses. The courses are listed in the table according to the programming language of the courses. It is not obligatory that all courses be from the same programming language, but the student should be aware that knowledge of a different language will likely be assumed in the advanced courses. Only one introductory programming course will be counted toward the major.
+
+### Basic Computational Skills (2-4 units)
+
+---
+
+Choose one course from the options listed below.
+
+- BISC 444 Practical Analysis of Biological Data in R Units: 2
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 455x Introduction to Programming Systems Design Units: 4
+- EE 155L Introduction to Computer Programming for Electrical Engineers Units: 4
+- TAC 115 Programming in Python Units: 2
+- TAC 116 Accelerated Programming in Python Units: 2
+- TAC 168 Introduction to MATLAB Units: 2
+- TAC 249 Introduction to Data Analytics Units: 4
+
+### Computational Courses (8 units)
+
+---
+
+Choose two courses from the options listed below.
+
+- BISC 406L Biotechnology Units: 4
+- BME 202 Control and Communication in the Nervous System Units: 4
+- BME 210 Biomedical Computer Simulation Methods Units: 4
+- BISC 461 Seminar in Molecular and Computational Biology Units: 2
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4
+- CSCI 445L Foundations of Robotics Units: 4
+- CSCI 467 Foundations of Machine Learning Units: 4
+- DSCI 352 Applied Machine Learning and Data Mining Units: 4
+- TAC 310 Design for User Experience Units: 4
+- TAC 365 Data Structures in C++ Units: 4
+- TAC 449 Applications of Machine Learning Units: 4
+- MATH 308 Statistical Inference and Data Analysis II Units: 4
+- PSYC 434 Intelligence, Problem Solving and Creativity Units: 4
+- PSYC 450 Neural Network Models of Social and Cognitive Processes Units: 4
+- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4
+- QBIO 478 Computational Genome Analysis Units: 4
+- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4
+
+## Biological Area (4 units)
+
+---
+
+Choose one to two courses from the options listed below.
+
+- BISC 423 Epilepsy to Ecstasy: Biological Basis of Neurological Disorders Units: 4
+- BISC 424 Brain Architecture Units: 4
+- BISC 461 Seminar in Molecular and Computational Biology Units: 2
+- BISC 462 Seminar in Neurobiology Units: 2
+- BISC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- GERO 414 Neurobiology of Aging Units: 4
+- HBIO 435 Neurobiology of Feeding Behavior and Obesity Units: 4
+- HP 409 Environmental Impacts on the Brain Units: 4
+- MEDS 330 Bionics: Solutions to Enable the Disabled Units: 2
+- MEDS 340 The Brain in Health and Disease Units: 2
+- QBIO 481 Structural Bioinformatics: From Atoms to Cells Units: 4
+- RXRS 403 Neuropharmacology in Health and Disease Units: 4
+- RXRS 405 Breaking Brains: The Pharmacology of Addiction Units: 4
+
+## Behavioral Area (4 units)
+
+---
+
+- ECON 405 Neuroeconomics Units: 4
+- LING 385Lg Human Language as Computation Units: 4
+- MEDS 330 Bionics: Solutions to Enable the Disabled Units: 2
+- MEDS 340 The Brain in Health and Disease Units: 2
+- PSYC 301L Cognitive Processes Units: 4
+- PSYC 304L Sensation and Perception Units: 4
+- PSYC 326 Behavioral Neuroscience Units: 4
+- PSYC 420 Animal Behavior Units: 4
+- PSYC 424 Neuropsychology Units: 4
+- PSYC 425 Functional Imaging of the Human Brain Units: 4
+- PSYC 426 Motivated Behaviors and Addiction Units: 4
+- PSYC 437 Adolescent Development Units: 4
+- PSYC 438 Behavioral Genetics Units: 4
+- PSYC 440 Foundations of Cognitive Neuroscience Units: 4
+- RXRS 405 Breaking Brains: The Pharmacology of Addiction Units: 4
+
+## Other Electives (4 units)
+
+---
+
+Take one additional course from the Computational, Biological or Behavioral area, or complete 4 units of Neuroscience research (NEUR 490x ).
+
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4
+- MATH 226g Calculus III Units: 4
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+- NEUR 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+
+## Graduate Courses
+
+---
+
+A graduate class from the following list may be substituted for an undergraduate computational course with the permission of the co-directors and instructor and with a minimum GPA of 3.3.
+
+- BME 502 Advanced Studies of the Nervous System Units: 4
+- BME 575 Computational Neural Engineering Units: 4
+- CSCI 561 Foundations of Artificial Intelligence Units: 4
+- CSCI 662 Advanced Natural Language Processing Units: 4
+- EE 559 Machine Learning I: Supervised Methods Units: 4
+- NSCI 524 Advanced Overview of Neurosciences Units: 4
+- NSCI 531 Molecular and Cellular Neurobiology Units: 4
+- NSCI 532 Systems and Behavioral Neurobiology Units: 3
+- PSYC 506 Learning and Cognition Units: 4
+- PSYC 540 Cognitive Neuroscience Units: 4
+- PSYC 544 Psychophysiology Units: 4
+- PSYC 545 Neuropsychology Units: 4
+- PSYC 547 Functional Neuroanatomy Units: 4
+- PSYC 551 Decision Neuroscience Units: 4
+- PSYC 555 Introduction to Functional Magnetic Resonance Imaging Units: 4
+
+---

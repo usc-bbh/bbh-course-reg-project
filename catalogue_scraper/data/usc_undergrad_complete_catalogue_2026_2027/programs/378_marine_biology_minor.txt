@@ -1,0 +1,62 @@
+Program Name: Marine Biology Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32470
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32470&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32470
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:32Z
+Content SHA-256: 628ebc909cd0a82a8b2f1a84dc706b204b526564a7dd679ecce246397fa6245f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Marine Biology Minor
+
+---
+
+Studies of the marine environment are relevant to many contemporary environmental issues and problems central to understanding earth-system evolution, dynamics, climate and sustainability. The minor in Marine Biology combines courses related specifically to marine science from several Dornsife College departments or programs. USC’s location along the Pacific Ocean and the unique facilities at the USC Wrigley Marine Science Center on Catalina Island provide superb access for students to learn outside of traditional classroom venues. Students will learn about the biology, evolution and ecology of organisms that inhabit marine environments and the ecological and physical processes linking them. This program is an appropriate start for students who are seeking a focus in marine science or who are interested in broadening their base of knowledge about marine biology, earth sciences or environmental science.
+
+The minor consists of 24 units of course work. At least 16 must be upper-division and unique to the minor. Courses required by the student’s major or general education (GE) requirements may not be applied toward the minor. Prior to declaring the minor, students must have completed the requirement for BISC 120Lg or BISC 121Lg or BISC 103Lgx . Basic chemistry, such as CHEM 103Lgx or CHEM 105aLg and CHEM 105bL , is strongly recommended. Students are encouraged enroll in at least one field-based course. Courses may be substituted with approval of the minor in Marine Biology program director, and this approval must be filed with the Office of Academic Records and Registrar.
+
+## Required Courses (8 units)
+
+---
+
+- BISC 469L Marine Biology Units: 4 *
+- BISC 473L Biological Oceanography Units: 4 *
+
+## Field Courses and Other Electives (12 units)
+
+---
+
+Note: No more than one lower-division course may count toward the minor.
+
+- Field-based Courses
+- BISC 431L Aquatic Microbiology Units: 4 *
+- BISC 457L Methods in Marine Biology and Biological Oceanography Units: 4 *
+- ENST 298aL Introduction to Scientific Diving Units: 2
+- ENST 483L Coastal Zone Sustainability Units: 4
+- Non-field-based Courses
+- BISC 140g Our Blue Planet in a Changing Climate Units: 4
+- BISC 313L Evolution and Population Genetics Units: 4 *
+- BISC 315L Introduction to Ecology Units: 4 *
+- BISC 419L Microbiology for a Sustainable Future Units: 4
+- BISC 427 The Global Environment Units: 4 *
+- BISC 483 Geobiology and Astrobiology Units: 4 *
+- BISC 485 Advanced Seminar in Bacterial Survival and Evolution Units: 4 *
+- BISC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 **
+- ENST 310 Sustainable Fisheries Management Units: 4 *
+- ENST 370 Marine and Coastal Environmental Policy Units: 4
+- ENST 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 **
+- GEOL 107Lg Oceanography Units: 4
+- GEOL 412 Oceans, Climate, and the Environment Units: 4 *
+- GEOL 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 **
+- SSCI 265Lg The Water Planet Units: 4
+- * Course requires prerequisite/corequisite
+  ** Research or special topic must be related to the marine environment. With permission from minor adviser.
+
+---

@@ -1,0 +1,145 @@
+Program Name: Artificial Intelligence for Business (BS)
+Credential: BS
+School or Academic Unit: Marshall School of Business and the Viterbi School of Engineering
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32795
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32795&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32795
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:46Z
+Content SHA-256: c880580c9450fc2c0ec32d39c2c78498c0ead1d5a175e40417df27d79ab03112
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Artificial Intelligence for Business (BS)
+
+---
+
+The Bachelor of Science degree program in Artificial Intelligence for Business is offered jointly by the Marshall School of Business and the Viterbi School of Engineering.
+
+This program aims to develop future business leaders who will have a deep understanding of Artificial Intelligence technologies. Specifically,
+
+- Students will have expertise in leveraging AI within organizations with a goal of enhancing societal value and understanding the ethical issues and risks in AI technologies.
+- Students will be able to conceptualize new products and services that leverage AI, with a sophisticated understanding of the state-of-the-art capabilities and practical limitations of what AI technologies can realistically achieve in a business context.
+- Students will be capable of forming effective teams with the expertise required to implement and scale AI technology solutions and formulating realistic timelines for AI products.
+- Students will have expertise in analytics-driven decision making and strategy, able to discern the value of data assets in an organization and the effort required to realize the full potential of analytics in a business context.
+- Students will understand and situate advanced AI technologies, make realistic assumptions about potential and risks for business ventures, and envision new markets through AI innovation.
+
+The degree cannot be combined as an additional major in either Business Administration or Engineering. The degree is administered by the Marshall School of Business.
+
+This degree requires at least 128 units including USC’s General Education requirements.
+
+A grade of C (2.0) or better is required for each of the Artificial Intelligence Introductory courses CSCI 113x , CSCI 114x and CSCI 170 . Courses with a grade of C- or below must be repeated; courses may be retaken only once. (Departmental approval is required in order to retake a course.)
+
+Students who do not satisfy the degree requirement after repeating a class will be disqualified from the Artificial Intelligence in Business degree program and transferred to the Bachelor of Science in Business Administration.
+
+A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken
+
+## Composition/Writing Requirements (8 units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *
+- * Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BUAI majors.
+
+## Math Requirement (4 units)
+
+---
+
+- MATH 125g Calculus I Units: 4 *
+- * Note: A-level mathematics examination scores of A or B may receive subject credit for MATH 125g. Eligible students should speak with their academic advisers for additional information.
+  MATH 125g satisfies GE category F: Quantitative Reasoning.
+
+## Major Requirements (88 units)
+
+---
+
+### Business Requirements (42 units)
+
+---
+
+- BUAD 280 Introduction to Financial Accounting Units: 3
+- BUAD 281 Introduction to Managerial Accounting Units: 3
+- BUAD 302 Communication Strategy in Business Units: 4
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+-
+- BUAD 306 Business Finance Units: 4
+- or
+- BUAD 308 Advanced Business Finance Units: 4
+-
+- BUAD 307 Marketing Fundamentals Units: 4
+-
+- BUAD 310g Applied Business Statistics Units: 4
+- or
+- BUAD 312g Statistics and Data Science for Business Units: 4
+- (BUAD 312 is preferred)
+-
+- BUAD 311 Operations Management Units: 4
+- or
+- BUAD 313 Advanced Operations Management and Analytics Units: 4
+- (BUAD 313 is preferred)
+-
+- BUAD 497 Strategic Management Units: 4
+- ECON 351x Microeconomics for Business Units: 4
+- ECON 352x Macroeconomics for Business Units: 4
+
+### Artificial Intelligence Requirements (36 units)
+
+---
+
+#### Introductory Courses (12 units)
+
+---
+
+- CSCI 113x Programming Fundamentals for Computing Units: 4
+- CSCI 114x Programming for Applications of Computing Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+
+#### AI Foundational Courses (20 units)
+
+---
+
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4
+- EE 141L Applied Linear Algebra for Engineering Units: 4
+
+##### Choose at least three courses from the following:
+
+---
+
+- CSCI 444 Language Models in Natural Language Processing Units: 4
+- CSCI 445L Foundations of Robotics Units: 4
+- CSCI 467 Foundations of Machine Learning Units: 4
+- CSCI 468 Trustworthy Artificial Intelligence Units: 4
+- CSCI 469 Computer Vision Units: 4
+- TAC 259 Basics of Artificial Intelligence Units: 4
+- TAC 359 Applied Neural Networks Units: 4
+- TAC 449 Applications of Machine Learning Units: 4
+- TAC 459 Applied Natural Language Processing and Generative AI Units: 4
+
+#### Ethics Course (4 units)
+
+---
+
+- EIS 370 Ethical Issues in Artificial Intelligence Units: 4
+
+### Integrative Requirements (10 units)
+
+---
+
+- BUAD 112 AI for Business Freshman Academy Units: 2
+- DSO 429 Digital Transformation of Business: AI and Smart Contracts Units: 4
+- DSO 488 Hands-on AI for Business Units: 2
+- MOR 458 AI Technology Strategic Management Units: 2, 4
+- (2 units required for this program)
+
+## Total units: 128
+
+---
+
+Return to: USC Marshall School of Business
+
+---

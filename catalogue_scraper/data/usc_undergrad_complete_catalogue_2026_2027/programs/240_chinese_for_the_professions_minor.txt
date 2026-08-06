@@ -1,0 +1,58 @@
+Program Name: Chinese for the Professions Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32382
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32382&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32382
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:13Z
+Content SHA-256: 8b1b57482778f9e1405b4db0d1db0f7e57ba12356d2d06e390f2a779763c19bf
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Chinese for the Professions Minor
+
+---
+
+The Department of East Asian Languages and Cultures offers a minor for undergraduate students who wish to pursue a future career in the greater China region or communities requiring advanced Chinese linguistic and cultural competence. The minor provides opportunities for students to gain real world experiences in work environments and explore career opportunities from various perspectives. The language prerequisite for admission to the program is the completion of EALC 206 at USC or its equivalent.
+
+Four EALC upper-division courses (16 units) and 4 units of EALC 366 are required to complete the minor. The four upper-division courses must include at least two from EALC 404 , EALC 406 , EALC 407 , or the equivalent. Course selections must be approved by the faculty adviser for the minor.
+
+## Required Courses (12 Units)
+
+---
+
+### Internship (4 units)
+
+---
+
+- EALC 366 Chinese Professional Internship: Communication and Culture Units: 2
+
+### Choose two of the following (8 units)
+
+---
+
+- EALC 404 Advanced Modern Chinese III Units: 4
+- EALC 406 Advanced Modern Chinese IV Units: 4
+- EALC 407 News and Web Chinese Units: 4
+- EALC 409 Chinese Through Literary Works and Texts Units: 4
+
+## Electives (8 units)
+
+---
+
+Choose two of the following:
+
+- EALC 304 Advanced Modern Chinese I Units: 4
+- EALC 306 Advanced Modern Chinese II Units: 4
+- EALC 334 Chinese Language Through Films and Television Units: 4
+- EALC 336 Chinese Language through Films and Television II Units: 4
+- EALC 350gp Chinese Civilization Units: 4
+- EALC 355 Studies in Chinese Thought Units: 4
+- EALC 374 Language and Society in East Asia Units: 4
+
+---

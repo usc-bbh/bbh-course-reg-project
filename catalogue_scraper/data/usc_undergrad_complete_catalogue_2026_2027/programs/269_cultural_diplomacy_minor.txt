@@ -1,0 +1,70 @@
+Program Name: Cultural Diplomacy Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32534
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32534&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32534
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:16Z
+Content SHA-256: 9864bad92de1328e8b1adb0ea46eec84c98c75c7df18757882339e75135ef857
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Cultural Diplomacy Minor
+
+---
+
+This 20-unit minor focuses on cultural diplomacy and the ways in which consideration of cultural issues and engagement in the cultural sphere can enhance foreign affairs and international interactions. It links existing classes and faculty expertise to expose students to a range of international issues while introducing culturally focused approaches to addressing and rectifying such issues. This minor builds a coherent picture of the power of culture as an essential dimension of foreign policy either as a barrier or a medium for engagement and a common ground. Requirements for admission are a minimum 3.0 GPA and completion of a minimum of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission.
+
+## Required Core Course (4 units)
+
+---
+
+- PUBD 369w Public Diplomacy and Global Citizenship Units: 4
+
+## Required Course (4 units)
+
+---
+
+Choose one of the following courses:
+
+- PUBD 417 Global Engagement: Designing Public Diplomacy Strategies Units: 4
+- PUBD 418 International Exchanges and Public Diplomacy Units: 4
+- PUBD 419 Public Diplomacy in Los Angeles Units: 4
+- PUBD 420 Regional Studies in Public Diplomacy Units: 4
+
+## Electives (12 units)
+
+---
+
+Choose 12 units from the following:
+
+- AHIS 486 Introduction to Museums: Past, Present, and Future Units: 4
+- ANTH 205g Introduction to Global Studies and Cross-cultural Research Units: 4
+- COMM 206 Communication and Culture Units: 4
+- COMM 308 Communication and Conflict Units: 4
+- COMM 310 Media and Society Units: 4
+- COMM 324mw Intercultural Communication Units: 4
+- COMM 366 Designing Media for Social Change Units: 4
+- COMM 392 Media and Migration in Times of European Crisis Units: 4
+- COMM 405 From the Ground Up: Communicating About Food Units: 4
+- COMM 412 Communication and Social Movements Units: 4
+- COMM 413 Propaganda, Ideology and Public Controversy Units: 4
+- COMM 430 Global Entertainment Units: 4
+- COMM 445 Global Networks of Sport Units: 4
+- COMM 475 Environmental Communication Units: 4
+- CRIT 350gw Global Art, Design and Visual Culture since 1960 Units: 4
+- CTCS 367 Global Media Units: 4
+- DANC 342gp International and Historical Perspectives on Dance Units: 4
+- IR 101gxw International Relations Units: 4
+- JOUR 484 American Religion, Foreign Policy and the News Media Units: 4
+- MUSC 372g Music and Politics Units: 4
+- PUBD 418 International Exchanges and Public Diplomacy Units: 4
+- PUBD 419 Public Diplomacy in Los Angeles Units: 4
+- PUBD 420 Regional Studies in Public Diplomacy Units: 4
+
+---

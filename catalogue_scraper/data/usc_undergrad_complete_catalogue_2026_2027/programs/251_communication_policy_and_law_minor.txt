@@ -1,0 +1,44 @@
+Program Name: Communication Policy and Law Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32416
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32416&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32416
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:38Z
+Content SHA-256: 17c2d2a14ade13ec8b0df6994c06baf49abdcfb3f5709e8b1f17a52a110e3aac
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Communication Policy and Law Minor
+
+---
+
+Information and communication practices and technologies have an increasingly powerful impact on nearly every aspect of our lives. From the level of privacy in our personal lives to the way we govern our communities or manage our businesses, the legal and policy issues in the communication field are ever-changing and increasingly complex. To prepare students to navigate this dynamic and complicated world, the minor in communication policy and law combines courses in communication, law, ethics, and the business of communication taught at both the School of Communication and the School of Journalism at USC Annenberg. Students can choose to focus on policy or legal issues that affect communication technologies, strategies, and uses. This minor will not only enable students to understand the revolution in media and telecommunications technology and practice, it will ground them in the fundamentals of free speech, intellectual property and the local, state and federal role in the regulation of communication platforms ranging from emerging social media to the legacy media of broadcasting and newspapers. This is an ideal minor for students interested in law or advanced communication scholarship. Admission requirements are a minimum 3.0 grade point average and completion of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission.
+
+## Required Core Courses (8 units)
+
+---
+
+- ASCJ 210 Contours of Change in Media and Communication Units: 4
+- COMM 322 Argumentation and Advocacy Units: 4
+
+## Choose three electives (12 units)
+
+---
+
+- COMM 345 Social and Economic Implications of Communication Technologies Units: 4
+- COMM 371 Media Censorship and the Law Units: 4
+- COMM 402 Public Communication Campaigns Units: 4
+- COMM 412 Communication and Social Movements Units: 4
+- COMM 421 Legal Communication Units: 4
+- COMM 422 Legal Issues and New Media Units: 4
+- COMM 427 Topics in Media Economics, Law and Policy Units: 4
+- COMM 489 Campaign Communication Units: 4
+- JOUR 462 Law of Mass Communication Units: 4
+
+---

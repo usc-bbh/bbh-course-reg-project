@@ -1,0 +1,141 @@
+Program Name: Data Science (BA)*
+Credential: BA
+School or Academic Unit: USC Dornsife College of Letters, Arts and Sciences
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32615
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32615&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32615
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:37Z
+Content SHA-256: 32b3bdf35605a8d8643ad5cfbbd8b014a718332561ab5d937f398000f40852b6
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Data Science (BA)*
+
+---
+
+datascience.usc.edu
+
+Computer-based information systems facilitate, enable and often define the relationships between corporations and consumers, buyers and suppliers, businesses of all sizes, social networks and citizens and their governments. Understanding these relationships and effectively addressing the collection, flow and distribution of information is vital to the effectiveness of any modern organization, enterprise or government agency.
+
+The Bachelor of Arts in Data Science is a cooperative degree program involving the USC Dornsife College of Letters, Arts and Sciences and the USC Viterbi School of Engineering. Students complete 128 units, including at least 70 units of courses in Dornsife College and at least 38 units of courses in Viterbi School of Engineering. Units completed in Viterbi include the basic programming and data science requirements while units completed in Dornsife College include the general education and writing requirements, the Dornsife College foreign language requirement and an adviser-approved disciplinary specialization of at least 24 units, (including at least 16 units of upper-division course work).
+
+The specialization must form a coherent focus on a discipline that provides students with insight into a domain in which data science can be usefully applied; this is normally another departmental or interdepartmental major for the BA degree, permitting students to satisfy most or all of the requirements for a double major (see Undergraduate Degree Programs for rules governing the overlap of courses allowed for a double major).
+
+The program teaches students to understand, design and implement effective solutions to meet organizational, societal and management needs for information and decision support.
+
+All students undertaking this degree program must have knowledge of the following areas (the core):
+
+- Information systems and technology fundamentals
+- Programming basics
+- Statistics
+- Data management
+- Machine learning
+- Data visualization
+
+### Admission
+
+Admissions are made by the USC Dornsife College of Letters, Arts and Sciences. Students normally apply to the program in the spring of the freshman year.
+
+*The program falls under the jurisdiction of the Dornsife College of Letters, Arts and Sciences.
+
+## Required courses (32-34 units)
+
+---
+
+A grade of C (2.0) or better is required in all of the courses taken for the core requirements: programming fundamentals, the data science core, statistics/probability, and basic mathematics.
+
+### Programming Fundamentals (8-10 units)
+
+---
+
+#### Option One: (8 units)
+
+---
+
+- TAC 115 Programming in Python Units: 2
+- or
+- TAC 116 Accelerated Programming in Python Units: 2
+-
+- TAC 216 Applied Python Units: 2
+- TAC 265 Software Design with Object-Oriented Programming Units: 4
+
+#### Option Two: (8 units)
+
+---
+
+- CSCI 113x Programming Fundamentals for Computing Units: 4
+- CSCI 114x Programming for Applications of Computing Units: 4
+
+#### Option Three: (10 units)
+
+---
+
+- CSCI 102L Introduction to Programming Units: 2
+- CSCI 103L Object Oriented Programming Units: 4
+- TAC 116 Accelerated Programming in Python Units: 2
+- TAC 216 Applied Python Units: 2
+
+### Data Science Core (16 units)
+
+---
+
+- DSCI 250 Introduction to Data Science Units: 4
+- DSCI 351 Foundations of Data Management Units: 4
+- DSCI 352 Applied Machine Learning and Data Mining Units: 4
+- DSCI 454 Visualization for Data-driven Decision Making Units: 4
+
+### Statistics/Probability (4 units)
+
+---
+
+Choose one course from the following:
+
+- BUAD 310g Applied Business Statistics Units: 4 or
+- EE 364 Probability and Statistics for Engineers and Computer Scientists Units: 4 or
+- MATH 208x Elementary Probability and Statistics Units: 4 or
+- MATH 407 Probability Theory Units: 4 or
+- MATH 408 Mathematical Statistics Units: 4
+
+### Basic Math (4 units)
+
+---
+
+Choose one from the following:
+
+- MATH 118gx Calculus for Business and Economics Units: 4 or
+- MATH 125g Calculus I Units: 4
+
+## Data Science Electives – Choose Four Courses (16 units)
+
+---
+
+- DSCI 429 Security and Privacy Units: 4
+- EIS 370 Ethical Issues in Artificial Intelligence Units: 4
+-
+- TAC 301 Front-End Web Development Units: 4
+- and
+- TAC 304 Back-End Web Development Units: 4
+- or
+- TAC 303 Full-Stack Web Development Units: 4
+-
+- TAC 310 Design for User Experience Units: 4
+- TAC 342 iOS App Development Units: 4
+- TAC 349 Enterprise Data Analytics Units: 4
+- TAC 365 Data Structures in C++ Units: 4
+- TAC 368 Cross-Platform App Development with Flutter Units: 4
+- TAC 419 Advanced Cloud Analytics Units: 4
+- TAC 459 Applied Natural Language Processing and Generative AI Units: 4
+- TAC 479 Cyber Law and Privacy Units: 4
+
+## Disciplinary Specialization (24 units)
+
+---
+
+Complete at least 24 units of courses in an adviser-approved area of disciplinary specialization relying on coursework in the USC Dornsife College of Letters, Arts, and Sciences. At least 16 units must be at the upper-division level. The disciplinary specialization must form a coherent focus on a discipline that provides students with insight into a domain in which data science can be usefully applied.
+
+---

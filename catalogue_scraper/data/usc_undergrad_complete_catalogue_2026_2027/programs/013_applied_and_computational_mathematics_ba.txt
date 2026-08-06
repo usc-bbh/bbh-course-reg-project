@@ -1,0 +1,162 @@
+Program Name: Applied and Computational Mathematics (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31854
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31854&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31854
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:25Z
+Content SHA-256: f6a8ab4756f685bd1abd9cd9ec39f909face8dfb253bf631b22057c59cd79a8d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Applied and Computational Mathematics (BA)
+
+---
+
+## Pre-major Requirements
+
+---
+
+- MATH 125g Calculus I Units: 4
+-
+- MATH 126g Calculus II Units: 4 or
+- MATH 127 Enhanced Calculus II Units: 4 or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+-
+- MATH 226g Calculus III Units: 4 or
+- MATH 227 Enhanced Calculus III Units: 4 or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+
+## Upper-Division Math Requirements
+
+---
+
+The following two courses are required with a grade of C or better:
+
+- MATH 407 Probability Theory Units: 4
+- MATH 458 Numerical Methods Units: 4
+
+### Upper-Division Math Electives
+
+---
+
+Four MATH courses at the 400-level or above are required, chosen from the following list:
+
+- MATH 408 Mathematical Statistics Units: 4
+- MATH 410 Fundamental Concepts of Modern Algebra Units: 4
+- MATH 425a Fundamental Concepts of Analysis Units: 4
+- MATH 425b Fundamental Concepts of Analysis Units: 4
+- MATH 430 Theory of Numbers Units: 4
+- MATH 432 Applied Combinatorics Units: 4
+- MATH 435 Introduction to Differential Geometry Units: 4
+- MATH 445 Mathematics of Physics and Engineering II Units: 4
+- MATH 446 Data Science with Python Units: 4
+- MATH 447 Mathematics of Machine Learning Units: 4
+- MATH 466 Dynamic Modeling Units: 4
+- MATH 467 Theory and Computational Methods for Optimization Units: 4
+- MATH 471 Topics in Linear Algebra Units: 4
+- MATH 475 Introduction to Theory of Complex Variables Units: 4
+
+## In Computing
+
+---
+
+At least one dedicated programming course. Students may choose from a variety of languages. Other programming courses may be approved, contact your academic advisor for requests.
+
+- CSCI 102L Introduction to Programming Units: 2
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 113x Programming Fundamentals for Computing Units: 4
+- CSCI 114x Programming for Applications of Computing Units: 4
+- TAC 115 Programming in Python Units: 2
+- TAC 116 Accelerated Programming in Python Units: 2
+- TAC 165 Introduction to C++ Programming Units: 2
+- TAC 168 Introduction to MATLAB Units: 2
+
+## Three Electives with Significant Quantitative Content
+
+---
+
+At least three additional courses with significant quantitative content, in mathematics, natural sciences, computer science, engineering, economics or other fields approved by the department. At least two of these must be outside the mathematics department; one of which must be an upper-division course. Courses to be chosen from following lists:
+
+### List A - upper division
+
+---
+
+- AME 301 Dynamics Units: 4
+- AME 404 Computational Solutions to Engineering Problems Units: 4
+- ASTE 331a Spacecraft Systems Engineering Units: 3
+- ASTE 331b Spacecraft Systems Engineering Units: 3
+- ASTR 400 The Solar System Units: 4, 2 years
+- ASTR 422 Galaxies and Large-Scale Structures in the Universe Units: 4, 2 years
+- ASTR 424 Cosmology Units: 4
+- BUAD 311 Operations Management Units: 4
+- BUAD 313 Advanced Operations Management and Analytics Units: 4
+- CHE 330 Chemical Engineering Thermodynamics Units: 4
+- CHEM 430 Physical Chemistry: Thermodynamics and Kinetics Units: 4
+- CHEM 431 Physical Chemistry: Quantum Mechanics Units: 4
+- CHEM 432 Physical Chemistry for the Life Sciences Units: 4
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4
+- CSCI 467 Foundations of Machine Learning Units: 4
+- CSCI 475 Theory of Computation Units: 4
+- DSO 424 Business Forecasting Units: 4
+- DSO 428 Essentials and Digital Frontiers of Big Data Units: 4
+- ECON 303 Intermediate Microeconomic Theory Units: 4
+- ECON 305 Intermediate Macroeconomic Theory Units: 4
+- ECON 318 Introduction to Econometrics Units: 4
+- ECON 401 Mathematical Methods in Economics Units: 4
+- ECON 404 Games and Economics Units: 4
+- ECON 419 Advanced Econometrics Units: 4
+- ECON 457 Financial Markets Units: 4
+- FBE 435 Applied Finance in Fixed Income Securities Units: 4 *
+- FBE 441 Investments Units: 4 *
+- FBE 459 Financial Derivatives Units: 4 *
+- GEOL 425L Data Analysis in the Earth and Environmental Sciences Units: 4
+- GEOL 440L Geophysics and Geoengineering Units: 4
+- GEOL 450L Geosystems Units: 4
+- ISE 330 Optimization Units: 4
+- ISE 331 Introduction to Operations Research: Stochastic Models Units: 3
+- PHYS 304 Mechanics Units: 4
+- PHYS 316 Thermodynamics and Statistical Mechanics Units: 4
+- PHYS 408a Electricity and Magnetism Units: 4
+- PHYS 408b Electricity and Magnetism Units: 4
+- PSYC 421L Data Analysis for Psychological Research Units: 4
+- QBIO 401 Introduction to Computational Analysis of Biological Data Units: 4
+- QBIO 478 Computational Genome Analysis Units: 4
+
+#### Note:
+
+---
+
+*FBE courses have prerequisites that must be satisfied in order to enroll, or a waiver must be granted by the FBE departmental administration.
+
+### List B - lower division
+
+---
+
+- AME 201 Statics Units: 4.0
+- AME 204 Mechanics of Materials and Structures Units: 4
+- ASTE 101L Introduction to Astronautics Units: 4
+- ASTE 280 Foundations of Astronautical Engineering Units: 4
+- BME 210 Biomedical Computer Simulation Methods Units: 4
+- CE 215 Statics and Dynamics Units: 4
+- CE 225 Mechanics of Deformable Bodies Units: 4
+- CHE 120 Introduction to Chemical Engineering Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4
+- EE 202L Linear Circuits Units: 4
+- ISE 220 Foundations of Probability Modeling Units: 4
+- ISE 225 Foundations of Data Analysis Units: 4
+- MATH 290 Mathematical Reasoning and Problem Solving Units: 4
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+- PHYS 153L Fundamentals of Physics III: Optics, Thermo, Modern Physics Units: 4
+
+---

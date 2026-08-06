@@ -1,0 +1,57 @@
+Program Name: Law and Technology Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32793
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32793&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32793
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:12Z
+Content SHA-256: 1544a2971b156b27c94d0c3e73e824feba59979a3221c2ae68d3df76b1f8b75c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Law and Technology Minor
+
+---
+
+The Law and Technology minor studies the intersection of technological developments and the legal system through examining contemporary issues raised by developing technology, including internet privacy, patent law, intellectual property and cybercrime.
+
+The Law and Technology minor requires a minimum of 18 units.
+
+## Required Core
+
+---
+
+Take 2 units.
+
+- TAC 125L Hackers to CEOs: Intro to Cyber Security in the AI Era Units: 2
+
+## Law Electives
+
+---
+
+Take 8 units from the following:
+
+- LAW 206 Responsible Use of Artificial Intelligence: Ethics and Law Units: 4
+- LAW 207 Personal Data in the 21st Century Units: 4
+- LAW 211 Intellectual Property and Technology Units: 4
+- LAW 350 Law and Entrepreneurship Units: 4
+- LAW 401 Cybersecurity and Cybercrime Units: 4
+
+## Other Electives
+
+---
+
+Take 8 units from the following:
+
+- MKT 333 Innovation Economics and Business: Beer, AI and Video Games Units: 4
+- TAC 325 Ethical Hacking Units: 4
+- TAC 370 Cybersecurity Management and Operations Units: 4
+- TAC 375 Digital Forensics and Cybersecurity Investigations Units: 4
+- TAC 479 Cyber Law and Privacy Units: 4
+
+---

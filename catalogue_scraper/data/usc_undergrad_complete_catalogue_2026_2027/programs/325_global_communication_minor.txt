@@ -1,0 +1,83 @@
+Program Name: Global Communication Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31834
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31834&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31834
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:06:44Z
+Content SHA-256: 94d7b2e8c6659d6f2db354df826f1fdc2d8d21725c2d1815f71f6c55bc7f5a98
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Global Communication Minor
+
+---
+
+The rise of global firms and international changes that followed the end of the cold war raise new opportunities and challenges. This minor provides students from fields such as business, journalism, engineering and political science an understanding of the dynamic nature of global relations, communications and technology. The global communication minor consists of six 4-unit courses, three from International Relations and three from Communication.
+
+## Required International Relations Course
+
+---
+
+- IR 305w Managing New Global Problems Units: 4
+
+## International Relations Regional Courses (Select One)
+
+---
+
+- IR 303 Leadership and Diplomacy Units: 4
+- IR 325 North-South Relations in the Global Economy Units: 4 (departmental approval)
+- IR 326 U.S. Foreign Economic Policy Units: 4
+- IR 330 Politics of the World Economy Units: 4
+- IR 333 China in International Affairs Units: 4
+- IR 345 Russian and Post-Soviet Foreign Policy Units: 4
+- IR 360 International Relations of the Pacific Rim Units: 4
+- IR 361 South and Southeast Asia in International Affairs Units: 4
+- IR 362 The International Relations of the Contemporary Middle East Units: 4
+- IR 363 Middle East Political Economy Units: 4
+- IR 365 Politics and Democracy in Latin America Units: 4
+- IR 367 Africa in International Affairs Units: 4
+- IR 368 French Foreign Policy: 1945 to the Present Units: 4 (offered in Paris only)
+- IR 369 Post-War European Relations Units: 4
+- IR 383 Conflict Mediation & Negotiation Units: 4
+- IR 384 Asian Security Issues Units: 4
+- IR 385 European Foreign Policy and Security Issues Units: 4
+- IR 439 Political Economy of Russia and Eurasia Units: 4
+- IR 442 Japanese Foreign Policy Units: 4
+- IR 468 European Integration Units: 4
+
+## IR Elective
+
+---
+
+Select one 300- or 400-level IR course
+
+## Required Communication Course
+
+---
+
+- COMM 487 Communication and Global Organizations Units: 4
+
+## Communication Electives (Select Two)
+
+---
+
+- COMM 324mw Intercultural Communication Units: 4
+- COMM 339 Communication Technology and Culture Units: 4
+- COMM 345 Social and Economic Implications of Communication Technologies Units: 4
+- COMM 371 Media Censorship and the Law Units: 4
+- COMM 385 Organizational Communication Units: 4
+- COMM 414 Communication and Social Change in China Units: 4
+- COMM 430 Global Entertainment Units: 4 (Prerequisite: COMM 300 )
+- COMM 431 Global Strategy for the Communications Industry Units: 4
+
+## Total units: 24
+
+---
+
+---

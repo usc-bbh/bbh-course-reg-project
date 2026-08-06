@@ -1,0 +1,67 @@
+Program Name: Human Security and Geospatial Intelligence Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32459
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32459&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32459
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:19Z
+Content SHA-256: 00c24eb1baaf7bcaa26e9b56d7a0df348cb51d1b4fe9511354e6d90bacbf0211
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Human Security and Geospatial Intelligence Minor
+
+---
+
+Allen Hancock Foundation Building B55
+(213) 740-5910
+FAX: (213) 740-9687
+Email: spatialsciences@dornsife.usc.edu
+
+Director: John P. Wilson, PhD
+
+The interdisciplinary minor in Human Security and Geospatial Intelligence aims to educate future leaders in location-based analytics to gather, interpret, and implement actionable intelligence to promote human security and serves to connect many collaborative and interrelated disciplines to provide a framework for students interested in learning how to develop and deliver analytical and spatial solutions.
+
+The minor requires at least 20 units.
+
+## Lower-Division Elective (4 units)
+
+---
+
+- ENST 100g Introduction to Environmental Studies Units: 4
+- ENST 150gx Environmental Issues in Society Units: 4
+- ENST 250 Climate Change: Science, History and Solutions Units: 4
+- GEOL 108Lg Natural Disasters and Their Global Impact Units: 4
+- IR 101gxw International Relations Units: 4
+- IR 150 Environmental Issues in Society Units: 4
+- IR 210gw International Relations: Introductory Analysis Units: 4
+- IR 211g International Relations: Approaches to Research Units: 4
+- NSC 201 Leadership and Management Units: 3
+- POSC 100g Theory and Practice of American Democracy Units: 4
+- POSC 110g Ideology and Political Conflict Units: 4
+- POSC 120g Comparative Politics Units: 4
+- POSC 130g Law, Politics and Public Policy Units: 4
+- POSC 201w Law and Politics Units: 4
+- POSC 248gw Human Rights Units: 4
+- POSC 265gw Environmental Challenges Units: 4
+- SSCI 135g Maps in the Digital World Units: 4
+- SSCI 165Lgw Sustainability Science in the City Units: 4
+- SSCI 214g Human Populations and Natural Hazards Units: 4
+
+## Required Core (16 units)
+
+---
+
+- IR 304 National Intelligence and the Shaping of Policy Units: 4 or
+- IR 319 Human Security and Humanitarian Intervention Units: 4
+-
+- SSCI 202 Principles of Geospatial Intelligence Units: 4
+- SSCI 301L Maps and Spatial Reasoning Units: 4
+- SSCI 420 Human Security and Geospatial Intelligence Practicum Units: 4
+
+---

@@ -1,0 +1,159 @@
+Program Name: Biopharmaceutical Sciences (BS)
+Credential: BS
+School or Academic Unit: USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32706
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32706&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32706
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:50:26Z
+Content SHA-256: ef2f9d60a33ec2762637b80f4991c102876724d572d3d13a7e241c2d1ae80c32
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Biopharmaceutical Sciences (BS)
+
+---
+
+The Bachelor of Science in Biopharmaceutical Sciences (BPS) offers a unique interdisciplinary approach designed to provide in-depth training in the discovery, development and commercialization of pharmaceutical products and their role in health care industries. Courses will focus on subdisciplines of pharmaceutical sciences including the study of the chemical and physical properties of drugs and their biological effects, and will link these systems to the discovery, development and commercialization of pharmaceuticals for the advancement of human health. Courses will also focus on the business and marketing aspects of the pharmaceutical industry.
+
+The Bachelor of Science in Biopharmaceutical Sciences will train students for diverse positions in industrial, academic or other research environments within the areas of drug discovery, development and commercialization. It will also prepare students for professional or graduate studies in graduate education in pharmaceutical, health care delivery, medical and basic sciences and post-baccalaureate professional education in medicine, pharmacy, business, regulatory and quality science, finance and law.
+
+The Bachelor of Science in Biopharmaceutical Sciences will be a springboard to diverse careers in industrial, academic or other research environments within the areas of drug discovery, development and commercialization. It also will prepare students for professional or graduate studies in graduate education in pharmaceutical, medical and basic sciences and post-baccalaureate professional education in biomedical engineering, business, finance and law.
+
+The Bachelor of Science in Biopharmaceutical Sciences requires the completion of a minimum of 128 units that include:
+
+1. General Education and Writing Requirements
+2. Foundational courses designed to prepare students for the major
+3. An introductory 4-unit lower-division (200 level) course in Pharmaceutical and Regulatory Science (RXRS)
+4. A minimum number of 32 units of upper-division (300 level and above) courses in Biopharmaceutical Sciences (BPSI) and Pharmaceutical and Regulatory Science (RXRS)
+5. A minimum of 8 units of upper-division (300 level and above) courses in Biological Sciences (BISC) unique to the major
+
+Students interested in pursuing advanced degrees in pharmacy, medicine, chemistry or dentistry are encouraged to take organic chemistry and/or physics.
+
+The Bachelor of Science in Biopharmaceutical Sciences is conferred by the USC Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences.
+
+## Calculus
+
+---
+
+Select one course.
+
+- MATH 108g Contemporary Precalculus Units: 4
+- MATH 118gx Calculus for Business and Economics Units: 4
+- MATH 125g Calculus I Units: 4
+
+## Statistics
+
+---
+
+Select one course.
+
+- BME 423 Statistical and Data Science Methods in Biomedical Engineering Units: 4
+- ECON 317 Introduction to Statistics for Economists Units: 4
+- HP 340Lg Health Behavior Statistical Methods Units: 4
+- MATH 208x Elementary Probability and Statistics Units: 4
+- PSYC 274Lg Statistics Units: 4
+- SOCI 314Lg Analyzing Social Statistics Units: 4
+- QBIO 305g Statistics for Biological Sciences Units: 4
+
+## Chemistry
+
+---
+
+Select two courses from either the general chemistry or the advanced general chemistry series.
+
+- CHEM 105aLg General Chemistry Units: 4
+- CHEM 105bL General Chemistry Units: 4
+- CHEM 115aLg Advanced General Chemistry Units: 4
+- CHEM 115bL Advanced General Chemistry Units: 4
+
+## Biology
+
+---
+
+Select two courses from either the general biology or the advanced general biology series.
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+
+## Biopharmaceutical Sciences (BPSI) and Pharmaceutical and Regulatory Science (RXRS) Unit Requirement
+
+---
+
+Students must complete a minimum of 36 units of BPSI or RXRS course work, including one 4-unit lower-division RXRS course and a minimum of 32 units of upper-division (300 level and above) BPSI or RXRS course work. A maximum of 4 units can be met by taking Directed Research (BPSI 490x ).
+
+## Pharmaceutical and Regulatory Science (RXRS) Requirement (Part 1)
+
+---
+
+Two courses
+
+- RXRS 200 Approaches to Pharmacology and Drug Development Units: 4
+- BPSI 402 Biopharmaceutics I Units: 4
+
+## Biopharmaceutical Sciences (BPSI) Requirement (Part 2)
+
+---
+
+Select one course
+
+- BPSI 407 Pharmaceutical and Health Economics Units: 4
+- BPSI 410 Biopharmaceutical Product Development and Brand Planning Units: 4
+- BPSI 411 Biopharmaceutical Marketing Analysis and Strategy Units: 4
+
+## Biopharmaceutical Sciences (BPSI) Requirement (Part 3)
+
+---
+
+Select a minimum of four courses
+
+- BPSI 403 Biopharmaceutics II Units: 4
+- BPSI 405 Organ Systems Physiology, Drug Delivery and Drug Action Units: 4
+- BPSI 406 Drug Safety Pharmacology and Toxicology Units: 4
+- BPSI 408 Biologics and Vaccines Units: 4
+- BPSI 412 Targeted and Precision Medicines Units: 4
+
+## Biopharmaceutical Sciences (BPSI) and Pharmaceutical and Regulatory Science (RXRS) Requirement (Part 4)
+
+---
+
+The remaining units may be selected from the following BPSI and RXRS courses, including, but not limited to:
+
+- BPSI 413 Rigor, Resources and Reproducibility Units: 2
+- BPSI 414 Pharmacoethics Units: 2
+- BPSI 415 Science Talk Units: 2
+- BPSI 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- RXRS 407 The Discovery, Development and Marketing of Medicines Units: 4
+- RXRS 413w Globalization of the Biomedical Industry Units: 4
+- RXRS 422 Regulation, Guidance and Control of Medical Products Units: 2
+- RXRS 424 From Poisons to Toxicology and Forensic Applications Units: 4
+- RXRS 430 Principles of Pharmacy Compounding and Calculations Units: 2
+- RXRS 431 Introduction to Patient Care and Clinical Therapeutics Units: 2
+
+## Biological Sciences (BISC) Requirement
+
+---
+
+Select two courses
+
+- BISC 300L Microbiology Units: 4
+- BISC 307L General Physiology Units: 4
+- BISC 320Lg Molecular Biology Units: 4
+- BISC 330L Biochemistry Units: 4
+
+## Undergraduate Honors Program (optional)
+
+---
+
+The undergraduate honors in Biopharmaceutical Sciences is awarded through successful completion of the senior capstone project. The project is a demonstration of knowledge in the student’s chosen area of interest which results in a product/project, research data, research paper, or portfolio of work, and a presentation. This experience encourages students to use a variety of skills in the areas of writing, speaking, research and documentation, which distinguishes them as scholars and future leaders in pharmacy.
+
+- BPSI 493 Senior Honors Seminar I Units: 2
+- BPSI 494 Senior Honors Seminar II Units: 2
+
+---

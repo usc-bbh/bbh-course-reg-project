@@ -1,0 +1,67 @@
+Program Name: Social Entrepreneurship Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31611
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31611&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31611
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:06Z
+Content SHA-256: 1b08675851f448ae32a137d7f3693e080633d67c94b5c7b0b4f0cc8d0a476a04
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Social Entrepreneurship Minor
+
+---
+
+The minor in social entrepreneurship provides students from all undergraduate majors with a foundation in the context and practice of social entrepreneurship, nationally and internationally. The minor provides an understanding of social entrepreneurship and its relationship to government and public policy as well as an understanding of management skills specific to starting and maintaining a social enterprise. The curriculum includes options allowing the student to tailor course work to his or her individual academic interests and professional aspirations.
+
+To enroll in this minor, students must have completed 48 units of college level courses with a cumulative USC GPA of at least 2.75.
+
+## Required Courses (14 Units)
+
+---
+
+- BAEP 450 Fundamentals of Entrepreneurship Units: 4 or
+- BAEP 451 The Management of New Enterprises Units: 4
+-
+- BAEP 491 Introduction to Social Entrepreneurship Units: 4
+-
+- BAEP 460 Seminar in Entrepreneurship Units: 2 or
+- BAEP 470 The Entrepreneurial Mindset — Taking the Leap Units: 2 or
+- BAEP 497 Field Project in Entrepreneurship Units: 2
+-
+- PPD 371 The Nonprofit Sector and the Public Interest Units: 4
+
+## Electives (6 Units)
+
+---
+
+Complete at least 6 units from the following:
+
+- BAEP 452 Feasibility Analysis Units: 4 [*]
+- BAEP 471 Social Innovation Design Lab Units: 4
+- BAEP 476 Green Entrepreneurship Units: 2
+- BUCO 485 Business Communication Management for Nonprofits Units: 4
+- CE 469 Sustainable Design and Construction Units: 2
+- COMM 402 Public Communication Campaigns Units: 4
+- IR 305w Managing New Global Problems Units: 4
+- IR 308gw Economic Globalization Units: 4
+- PPD 478 Social Innovation Units: 4
+- PSYC 456 Conservation Psychology Units: 4 [**]
+- SOCI 360m Social Inequality: Class, Status and Power Units: 4
+
+### Notes:
+
+---
+
+[*]Prerequisite: the former BAEP 310 or BAEP 423 or BAEP 450 or BAEP 451 or BUAD 301
+[**]Prerequisite: PSYC 100
+
+Return to: USC Marshall School of Business
+
+---

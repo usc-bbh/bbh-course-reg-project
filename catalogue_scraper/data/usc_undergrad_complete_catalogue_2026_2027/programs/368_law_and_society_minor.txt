@@ -1,0 +1,94 @@
+Program Name: Law and Society Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31900
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31900&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31900
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:10Z
+Content SHA-256: 46acc1abea3a25415e3e514664e88a8529976d7ee6dad1a8464fabb4818386b2
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Law and Society Minor
+
+---
+
+This interdisciplinary program focuses on the effect of law on society as well as the ways in which social forces influence the legal system. The idea is that students will understand the law if they look beyond “law on the books” to “law in action.” Thus, it is important to study key legal institutions such as the legal profession, the judiciary, juries, the police, legislatures and administrative agencies. In addition, the minor introduces students to legal policies like plea bargaining and the death penalty, and the constitutional principles that underlie political debates about them, e.g., equal protection, due process and privacy.
+
+The requirements for the minor include seven courses (28 units), including at least four upper-division courses (16 units). All students are required to take POSC 130 Law, Politics, and Public Policy .
+
+## Requirements
+
+---
+
+The Law and Society Minor requires seven courses (28 units), including at least four upper-division courses (16 units). All students must take the Core class. In addition, three political science upper-division courses are required, one each from categories 2, 3 and 4. Three elective courses are required: choose one course from category 5 and choose two courses from category 6.
+
+### 1. Core
+
+---
+
+- POSC 130g Law, Politics and Public Policy Units: 4
+
+### 2. Constitutional Law
+
+---
+
+- POSC 340 Constitutional Law Units: 4
+- POSC 426 The United States Supreme Court Units: 4
+- POSC 444 Civil and Political Rights and Liberties Units: 4
+
+### 3. International Law
+
+---
+
+- POSC 345 International Law Units: 4
+- POSC 448a The Politics of Peace Units: 4
+
+### 4. Policy Analysis
+
+---
+
+- POSC 347 Environmental Law Units: 4
+- POSC 395 Directed Governmental and Political Leadership Internship Units: 2, 3, 4, 5, 6, 7, 8
+- POSC 432 Politics of Local Criminal Justice Units: 4
+- POSC 435 Politics and the Economy Units: 4
+- POSC 436 Environmental Politics Units: 4
+- POSC 441m Cultural Diversity and the Law Units: 4
+- POSC 442m The Politics of Human Differences: Diversity and Discrimination Units: 4
+- POSC 443 Law in Film Units: 4
+- POSC 448b The Politics of Peace Units: 4
+- POSC 452 Critical Issues in Law and Public Policy Units: 4
+
+### 5. Humanistic/Historical
+
+---
+
+- PHIL 340 Ethics Units: 4
+- PHIL 430 Philosophy of Law Units: 4
+- PHIL 440 Contemporary Ethical Theory Units: 4
+
+### 6. Society
+
+---
+
+- ANTH 345 Law, Power and Culture Units: 4
+- COMM 421 Legal Communication Units: 4
+- ECON 434 Economic Analysis of Law Units: 4
+- LAW 200w Law and Society Units: 4
+- LAW 320p Law, Enslavement and Race Units: 4
+- LAW 402 Psychology and Law Units: 4
+- PHIL 431 Law, Society, and Politics Units: 4
+- PHIL 437 Social and Political Philosophy Units: 4
+
+## Additional Requirements
+
+---
+
+At least four classes must be unique to the minor.
+
+---

@@ -1,0 +1,86 @@
+Program Name: Justice, Voice, and Advocacy Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32496
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32496&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32496
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:48Z
+Content SHA-256: 9c3d93d1e2e19d413e9bd53989e35427b3a3141cf20896ed661ba2bb8c4b8d9f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Justice, Voice, and Advocacy Minor
+
+---
+
+The 20-unit minor offers courses that prompt students to explore the central role communication, media, news and public relations play in a multicultural society. As a cross-school minor, students will examine questions and perspectives on identity and community through an interdisciplinary lens that centers on theory and praxis, impact and change. The courses in this minor are grouped in order to give students a foundational understanding of the cultural roots and representations of identity, the practice of storytelling in the context of local and disenfranchised communities, as well as various institutional structures and policies that create barriers or avenues of social justice. Familiarity with these important issues serves students on a practical level by improving their ability to understand, anticipate and appreciate diverse viewpoints and audiences. The minor also helps students develop as more engaged, informed and empathetic citizens who are empowered to bring resolution and shared understanding to areas of conflict and difference in their own lives, the broader community and the workplace. Requirements for admission are a minimum 3.0 GPA and completion of a minimum of 32 units (sophomore standing). The 3.0 GPA is a minimum standard and does not guarantee admission.
+
+## Required Core Courses (8 units)
+
+---
+
+- ASCJ 210 Contours of Change in Media and Communication Units: 4
+- COMM 366 Designing Media for Social Change Units: 4
+
+## Culture and Identity (4 units)
+
+---
+
+Choose 4 units from the following:
+
+- COMM 307 Sound Clash: Popular Music and American Culture Units: 4
+- COMM 322 Argumentation and Advocacy Units: 4
+- COMM 324mw Intercultural Communication Units: 4
+- COMM 326 Latinx Media Studies Units: 4
+- COMM 360 Los Angeles: Communication and Culture Units: 4
+- COMM 392 Media and Migration in Times of European Crisis Units: 4
+- COMM 395m Gender, Media and Communication Units: 4
+- COMM 412 Communication and Social Movements Units: 4
+- COMM 414 Communication and Social Change in China Units: 4
+- COMM 415m African American Rhetoric and Image Units: 4
+- COMM 426 Religion, Media and Hollywood: Faith in TV Units: 4
+- COMM 450 Visual Culture and Communication Units: 4
+- COMM 451 Visual Communication and Social Change Units: 4
+- COMM 458m Race and Ethnicity in Entertainment and the Arts Units: 4
+- COMM 479 Trauma and Communication Units: 4
+- JOUR 465m Latino News Media in the United States Units: 4
+- JOUR 466m People of Color and the News Media Units: 4
+- JOUR 467 Gender and the News Media Units: 4
+- JOUR 468 LBGTQ+ Reporting Units: 4
+- JOUR 484 American Religion, Foreign Policy and the News Media Units: 4
+
+## Community Storytelling and Engagement (4 units)
+
+---
+
+Choose 4 units from the following:
+
+- COMM 367 Community Engagement and Service Learning Units: 4
+- JOUR 372 Engaging Diverse Communities Units: 2
+- JOUR 406 Social Media Storytelling for Latinx Audiences Units: 2
+- JOUR 470 Community Journalism Units: 2
+- PR 455 Public Relations for Non-Profit Organizations Units: 4
+
+## Institutions and Policy (4 units)
+
+---
+
+Choose 4 units from the following:
+
+- COMM 308 Communication and Conflict Units: 4
+- COMM 310 Media and Society Units: 4
+- COMM 385 Organizational Communication Units: 4
+- COMM 421 Legal Communication Units: 4
+- COMM 465m Gender in Media Industries and Products Units: 4
+- JOUR 460 Social Responsibility of the News Media Units: 4
+- JOUR 469 Money, Markets and Media Units: 4
+- LAW 320p Law, Enslavement and Race Units: 4
+- SOCI 408 Volunteers, Non-Governmental Organizations, and Everyday Politics Units: 4
+- SOCI 445 Political and Social Theory Units: 4
+
+---

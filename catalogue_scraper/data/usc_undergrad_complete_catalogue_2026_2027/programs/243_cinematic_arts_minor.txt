@@ -1,0 +1,96 @@
+Program Name: Cinematic Arts Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31678
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31678&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31678
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:20Z
+Content SHA-256: 27d98400134993227b7bcbcd69dfc62aeba14000440f55c60ef9726c87ff893b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Cinematic Arts Minor
+
+---
+
+The minor in cinematic arts combines an introduction to this exciting and influential field with a diversified set of classes in critical studies, production, screenwriting, the entertainment industry, animation and interactive media. The curriculum is purposely flexible; students may choose to sample different areas in their upper-division courses or emphasize a single primary interest, such as production.
+
+To be eligible for the cinematic arts minor, a student must be in good academic standing and have a declared major. To declare the cinematic arts minor a student must submit a Change of Major/Minor form to Cinematic Arts Office of Student Services, SCB 105.
+
+#### Course Requirements for the Minor
+
+A total of 20 units is required for the minor in cinematic arts, one 4-unit lower-division course and 16 upper-division units.
+
+## Lower-division Requirement
+
+---
+
+- CTCS 190g Introduction to Cinema Units: 4 * or
+- CTCS 191 Introduction to Television and Video Units: 4
+
+### Note:
+
+---
+
+*Gateway course
+
+## Upper-division Requirement
+
+---
+
+### 8 units from the following:
+
+---
+
+- CTAN 432 The World of Visual Effects Units: 2
+- CTAN 451 History of Animation Units: 2
+- CTAN 452 Introduction to 3-D Computer Animation Units: 2
+- CTAN 462 Visual Effects Units: 2
+- CTCS 303 Japanese Anime Units: 2
+- CTCS 400 Documentary Film and Media Units: 4
+- CTCS 407 African American Cinema Units: 4
+- CTCS 411 Film, Television and Cultural Studies Units: 4
+- CTCS 412 Gender, Sexuality and Media Units: 4
+- CTCS 414 Latina/o Screen Cultures Units: 4
+- CTCS 464 Film and/or Television Genres Units: 4
+- CTCS 466 Theatrical Film Symposium Units: 4
+- CTCS 467 Television Symposium Units: 4
+- CTCS 469 Film and/or Television Style Analysis Units: 4
+- CTIN 482 Designing Social Games Units: 2
+- CTPR 327 Motion Picture Cinematography Units: 3
+- CTPR 335 Motion Picture Editing Units: 3
+- CTPR 385 Colloquium: Motion Picture Production Techniques Units: 4
+- CTPR 409 Trojan Vision, Live Television Production Units: 1, 2, 4
+- CTPR 460 Film Business Procedures and Distribution Units: 2 or 4
+- CTPR 461 Managing Television Stations and Internet Media Units: 2
+- CTPR 484 Comedy Television Production Units: 4
+- CTWR 409 Fundamentals of Screenwriting: Character, Conflict and Story Units: 4
+- CTWR 411 Television Script Analysis Units: 2
+- CTWR 416 Motion Picture Script Analysis Units: 2
+- CTWR 431 Screenwriters and Their Work Units: 2
+- CTWR 432 Television Writers and Their Work Units: 2
+- IML 420m New Media for Social Change Units: 4
+- IML 421 Designing and Writing for Transmedia Narratives Units: 4
+- IML 423 Remixing the Archive Units: 4
+- IML 455 Future Cinema Units: 4
+- IML 456 Nature, Design and Media Units: 2
+- IML 458 The Embedded Story: Designing Digital Landscapes and Languages Units: 2
+
+### Plus 8 additional upper-division units of Cinematic Arts electives
+
+---
+
+## Additional Requirements
+
+---
+
+#### Grade Point Average Requirement
+
+A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.
+
+---

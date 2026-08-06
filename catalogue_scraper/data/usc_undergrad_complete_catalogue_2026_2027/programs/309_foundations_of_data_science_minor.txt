@@ -1,0 +1,66 @@
+Program Name: Foundations of Data Science Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32613
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32613&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32613
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:46Z
+Content SHA-256: 9e6c713a5f786cbc473cea78ca00078027613fb324031049151e1bb49aeeef99
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Foundations of Data Science Minor
+
+---
+
+The Foundations of Data Science minor teaches students the skills to apply techniques in data science to problems in their own discipline. Students will learn the basics of programming, how to apply statistics to evaluate data and techniques in data management, machine learning and visualization. Choosing from a variety of electives, students will be able to tailor this minor to learn the techniques most relevant to their needs.
+
+## Required Introductory Courses (6 units)
+
+---
+
+- DSCI 250 Introduction to Data Science Units: 4
+- TAC 115 Programming in Python Units: 2
+
+## Statistics/Probability Requirement (4 units)
+
+---
+
+Choose one course:
+
+- BUAD 310g Applied Business Statistics Units: 4
+- EE 364 Probability and Statistics for Engineers and Computer Scientists Units: 4 *
+- MATH 208x Elementary Probability and Statistics Units: 4 *
+- MATH 407 Probability Theory Units: 4 *
+- MATH 408 Mathematical Statistics Units: 4 *
+
+### Note:
+
+---
+
+*Requires prerequisite.
+
+## Data Science Electives (12 units)
+
+---
+
+Choose three courses:
+
+- DSCI 351 Foundations of Data Management Units: 4
+- DSCI 352 Applied Machine Learning and Data Mining Units: 4
+- DSCI 429 Security and Privacy Units: 4
+- DSCI 454 Visualization for Data-driven Decision Making Units: 4
+- TAC 249 Introduction to Data Analytics Units: 4
+- TAC 265 Software Design with Object-Oriented Programming Units: 4
+- TAC 489 In-Memory Data Modeling and Analytics Units: 4
+
+## Total Units: 22
+
+---
+
+---

@@ -1,0 +1,72 @@
+Program Name: Game Audio Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31683
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31683&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31683
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:54Z
+Content SHA-256: 16cff222fea6f128b975b7487be75900e727072a2123debe86ac2edbd5e3b277
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Game Audio Minor
+
+---
+
+To implement audio into a game requires an understanding that audio forms one part of a game system or algorithm, and even composition must often be thought of in terms of programming-like logic. Game audio professionals must not only be competent in one area (e.g., expressly in music composing, or in audio recording), but in other areas of audio as well. This minor provides a grounding in game design and systems thinking, while providing a theoretical backing and skills in audio design and composition to prepare students to design successful audio for the games industry.
+
+To be eligible for the Game Audio minor, a student must be in good academic standing and have a declared major. To declare the Game Audio minor a student must get permission from the Interactive Media Division (SCA 222) and submit a Change of Major/Minor form to Cinematic Arts Student Services (SCB 105).
+
+#### Course Requirements for the Minor
+
+A minimum of 24 units is required for the Game Audio minor, 6 lower-division units and a minimum of 16 upper-division units.
+
+## Lower-division Core Units (6 Units)
+
+---
+
+- CTIN 101 Fundamentals of Procedural Media Units: 2
+- MTEC 277x Introduction to Music Technology Units: 4
+
+## Upper-division Core Units (12 Units)
+
+---
+
+- CTIN 406L Sound Design for Games Units: 2
+- CTIN 444 Audio Expression Units: 2
+- CTIN 488 Game Design Workshop Units: 4
+- CTIN 491L Advanced Game Project I Units: 4
+
+## Electives (Minimum 6 Additional Units, At Least 4 Upper-division)
+
+---
+
+- CTIN 289 Game Development Fundamentals Units: 4 4 Units: 4
+- CTIN 486 Alternative Control Workshop Units: 2
+- CTIN 492L Experimental Game Topics Units: 4
+- CTIN 493L Advanced Game Project II Units: 2 *
+- CTPR 473 Spotting Music for Cinema Units: 2
+- MTEC 245 Introduction to MIDI Sequencing Units: 1
+- MTEC 246 Introduction to Audio Recording and Editing Units: 1
+- MTEC 446a Computer Assisted Recording and Editing Units: 2
+- MTEC 474a Electronic Synthesizer Techniques Units: 2, 3, 4
+- MTEC 478 Advanced Multichannel Remix Units: 2 *
+- MUCO 221ax Composition for Non-Majors Units: 2
+- THTR 336 Sound Design I Units: 3
+
+## Note:
+
+---
+
+*Prerequisite required.
+
+#### Grade Point Average Requirement
+
+A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.
+
+---

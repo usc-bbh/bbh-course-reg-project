@@ -1,0 +1,130 @@
+Program Name: Dramatic Arts, Musical Theatre Emphasis (BA)*
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32840
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32840&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32840
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:54Z
+Content SHA-256: 1f94bad0021c5d0f497e6d571e4a669ca42da0209f1c2352809849fa72055462
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Dramatic Arts, Musical Theatre Emphasis (BA)*
+
+---
+
+The BA Dramatic Arts, Emphasis in Musical Theatre is designed specifically to increase the versatility of its students so they are better educated, prepared and equipped to enter the professional arena of Musical Theatre.
+
+General Education Requirements
+
+The university’s General Education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above.
+
+Note that courses within the major may also satisfy certain Core Literacy requirements. Please work with your major adviser to determine those courses.
+
+## Required Musical Theatre Emphasis Courses (65 units)
+
+---
+
+Required Courses
+
+- THTR 101 Introduction to Acting Units: 4
+- THTR 130 Introduction to Theatrical Production Units: 2
+- THTR 342a Basic Voice Units: 2
+- THTE 107 Foundations of Vocal Performance Units: 2
+- THTE 201aL Acting for Musical Theatre Units: 4
+- THTE 201b Acting for Musical Theatre Units: 4
+- THTE 206aL Movement for Musical Theatre Units: 4
+- THTE 206bL Movement for Musical Theatre Units: 4
+- THTE 300L Script and Score Units: 2
+- THTE 306L Movement for Musical Theatre II Units: 4
+- THTE 403L Contemporary Scene Into Song Units: 2
+
+## One course in Design and Production (3 units) from:
+
+---
+
+- THTR 230 Theatrical Design as Poetic Realism Units: 3
+- THTR 231 Costume Construction Units: 3
+- THTR 232 Introduction to Theatrical Lighting Units: 3
+- THTR 233 Historic Costumes for the Theatre Units: 3
+- THTR 333 Stage Management I Units: 3
+- THTR 335 Scenic Construction Units: 3
+- THTR 437 Scene Painting Units: 3
+- THTR 439 Stage Properties Units: 3
+
+## Select 12 units from:
+
+---
+
+- THTR 305a Directing Units: 4
+- THTR 343 Musical Theatre Audition Units: 3
+- THTR 365 Playwriting I Units: 4
+- THTR 366 Playwriting II Units: 4
+- THTR 410 The Digital Actor Units: 2
+- THTR 411 The Business of Acting Units: 4
+- THTR 416 Creating Content for the Actor Units: 2.0
+- THTR 424 Creator as Entrepreneur Units: 2
+- THTR 459 Songwriting for the Musical Theatre Units: 2
+- THTR 480a Performance for Camera Units: 2
+- THTR 489 Theatre Internship Units: 2, 3, 4, 5, 6
+- THTR 492 Producing Theatre Units: 4
+- THTR 495 Experimental Theatre Workshop I Units: 4
+- THTE 408L Movie Musical Development Units: 2
+
+## Complete 4 units of THTR 397
+
+---
+
+THTR 397 Practicum Assignment: One Stage, One Screen. Assignment must be approved by Faculty Mentor.
+
+- THTR 397 Theatre Practicum Units: 1, 2, 3, 4
+
+## Critical Studies Core (16.0 units)
+
+---
+
+Complete the two required courses below. In addition, take one course from List A and one course from either List A or B.
+
+- THTR 125 Text Studies for Production Units: 4
+- THTR 225g Theatre Across History and Cultures Units: 4
+
+### List A
+
+---
+
+- THTR 310 Comedy and Diversity Units: 4
+- THTR 312 LGBTQ Theatre Units: 4
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 405m Performing Identities Units: 4
+- THTR 406 Theatre on the Edge Units: 4
+- THTR 456 Latinx Theatre Units: 4
+- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4
+- THTR 476mw African American Theatre, Dance, and Performance Units: 4
+
+### List B
+
+---
+
+- THTR 301 Greek and Roman Theatre Units: 4
+- THTR 302 Shakespeare in His World Units: 4
+- THTR 313 Comedy of Manners Units: 4
+- THTR 314 Advanced Topics in Modern Drama Units: 4
+- THTR 400 Eco-Theatre: Art and Science in Contemporary Plays Units: 4
+- THTR 401 Contemporary Theatre in a Changing World Units: 4
+- THTR 403 The Performing Arts Units: 4
+- THTR 404 Acting Theory Units: 4
+
+## Required General Education Units: 36
+
+---
+
+## Total Units: 128
+
+---
+
+---

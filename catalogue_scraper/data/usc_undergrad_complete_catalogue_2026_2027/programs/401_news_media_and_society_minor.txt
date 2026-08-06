@@ -1,0 +1,52 @@
+Program Name: News Media and Society Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31969
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31969&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31969
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:25Z
+Content SHA-256: f30e51cfb4f6dbec64c8c7b7ed392c98a73f383c8ac2ce350f637bad248735cd
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# News Media and Society Minor
+
+---
+
+News media and society is a journalism minor that explores the responsibilities, the influence, the ethics and the diversity of the news media. It explores the myths about news media in the United States and explains what the news media are, how they work, what they do wrong and what they do right, and why they are important to a society whose citizens depend on the free and unfettered flow of information. This minor will help all students in all majors to understand one of the most important and misunderstood forces in American society: the news media.
+
+News media and society benefits every student at the university because it gives students a new appreciation and understanding of the news media that so much influence their lives on a daily basis.
+
+## Required Core Courses
+
+---
+
+- JOUR 200w The Power and Responsibility of the Press Units: 4
+- JOUR 201 Culture of Journalism: Past, Present and Future Units: 4
+
+## Electives
+
+---
+
+Choose 12 units from the following:
+
+- COMM 371 Media Censorship and the Law Units: 4
+- JOUR 300 Journalism and Society Units: 4
+- JOUR 381 Entertainment, Business and Media in Today’s Society Units: 4
+- JOUR 460 Social Responsibility of the News Media Units: 4
+- JOUR 463 Evolution of Asian Americans and the Media Units: 4
+- JOUR 466m People of Color and the News Media Units: 4
+- JOUR 467 Gender and the News Media Units: 4
+- JOUR 484 American Religion, Foreign Policy and the News Media Units: 4
+- JOUR 488 Data-Driven Storytelling About Los Angeles Units: 4
+
+## Total units: 20
+
+---
+
+---

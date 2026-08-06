@@ -1,0 +1,64 @@
+Program Name: Engineering Management Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32115
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32115&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32115
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:08Z
+Content SHA-256: 3909dde5a30e67f633ed18629ae381f7e9ca7e50a8625b39d9ac021200afd34c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Engineering Management Minor
+
+---
+
+This minor is designed to provide students who have a sound foundation in mathematics and the sciences with tools and skills for managerial analysis and problem solving.
+
+Science and technology are driving significant portions of American and global economies. Individuals, companies and governments are demanding products, services and systems, which grow more complicated every day. Suppliers are forced by competition to provide goods and services efficiently and economically.
+
+Scientists and engineers are trained in scientific and technical subjects which form an excellent base for building complex, technical products, services and systems. But more and more, scientists and engineers are managing the financial, material and human resources required to turn abstract ideas into physical and virtual reality, often without any formal management training. This minor provides that training, a complement to any science or technology degree.
+
+#### Application Procedures
+
+Applicants must be upper division students in good standing and complete the Change/Addition of Major, Minor or Degree Objective form. The minor is not open to industrial and systems engineering majors.
+
+## Prerequisite (complete any one of the following)
+
+---
+
+- BME 423 Statistical and Data Science Methods in Biomedical Engineering Units: 4
+- BUAD 310g Applied Business Statistics Units: 4
+- BUAD 312g Statistics and Data Science for Business Units: 4
+- EE 364 Probability and Statistics for Engineers and Computer Scientists Units: 4
+- MATH 208x Elementary Probability and Statistics Units: 4
+
+## Required Courses
+
+---
+
+- ISE 315L Engineering Project Management Units: 4
+- ISE 440 Socio-Technical Systems and Work Organizations Units: 4
+
+## Electives (select two from the following)
+
+---
+
+- DSO 459 Business Analytics with Python Units: 4
+- ISE 330 Optimization Units: 4
+- ISE 344 Engineering Management and Teamwork Units: 4
+- ISE 350 Principles and Practices of Systems Engineering Units: 4
+- ISE 370L Human Factors in Work and Systems Design Units: 4
+- ISE 410 Planning and Scheduling for Production and Supply Chains Units: 4
+- ISE 460 Engineering Decisions, Economics and Ethics Units: 4
+
+## Minimum Units: 16
+
+---
+
+---

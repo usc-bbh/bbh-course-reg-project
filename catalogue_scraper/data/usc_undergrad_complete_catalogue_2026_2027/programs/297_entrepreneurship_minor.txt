@@ -1,0 +1,66 @@
+Program Name: Entrepreneurship Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31603
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31603&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31603
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:17Z
+Content SHA-256: 6e9e53f3d087ab6a4016c61c193b2d7b27cdb5adfc4edde84bccaad9be2e132e
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Entrepreneurship Minor
+
+---
+
+The minor in entrepreneurship provides an understanding of entrepreneurship and the entrepreneurial mindset. To enroll in this minor, students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of 2.75.
+
+The minor requires a minimum of 16 units to complete.
+
+## Core Requirements
+
+---
+
+- BAEP 450 Fundamentals of Entrepreneurship Units: 4
+- or
+- BAEP 451 The Management of New Enterprises Units: 4
+-
+- BAEP 452 Feasibility Analysis Units: 4
+-
+- BAEP 453 Venture Management Units: 4
+- or
+- BAEP 454 Venture Initiation: Launching and Scaling Your Startup Units: 4
+
+## Electives
+
+---
+
+Choose from the following to achieve a total of at least 16 units for the minor:
+
+- BAEP 423 Management of Small Businesses Units: 4
+- BAEP 455 Founder’s Dilemmas Units: 4
+- BAEP 460 Seminar in Entrepreneurship Units: 2
+- BAEP 465 Digital Playbook for Entrepreneurs: Creating a Tech Startup Units: 2
+- BAEP 469 Growth Hacking: Scaling Startups Units: 2
+- BAEP 470 The Entrepreneurial Mindset — Taking the Leap Units: 2
+- BAEP 474 The Entrepreneur’s Guide to Intellectual Property Units: 2
+- BAEP 475 Entertainment Entrepreneurship Units: 2
+- BAEP 491 Introduction to Social Entrepreneurship Units: 4
+- BAEP 495 Practicum in Business Issues (Internship) Units: 1
+- BAEP 499 Special Topics Units: 2, 3, 4
+- BUAD 301 Technology Entrepreneurship Units: 3, 4
+- BUAD 302 Communication Strategy in Business Units: 4
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+- BUAD 307 Marketing Fundamentals Units: 4
+- BUAD 315x Basics of Project and Operations Management for Non-Majors Units: 2
+- FBE 400x Introduction to Real Estate Finance and Development Units: 4
+- FBE 403 Introduction to the Legal Environment of Business Units: 4
+- FBE 437 Entrepreneurial Finance: Financial Management for Developing Firms Units: 4
+- Return to: USC Marshall School of Business
+
+---

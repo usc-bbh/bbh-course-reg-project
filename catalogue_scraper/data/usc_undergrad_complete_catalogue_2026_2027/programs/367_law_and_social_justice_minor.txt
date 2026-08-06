@@ -1,0 +1,88 @@
+Program Name: Law and Social Justice Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32702
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32702&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32702
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:08Z
+Content SHA-256: 371b0bf10adac3134488716336d2d6dfabbe10b572d35a7097d32cbbd0997401
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Law and Social Justice Minor
+
+---
+
+The Law and Social Justice minor provides foundational knowledge of current legal systems of justice and encourages critical-analysis skills to recognize where and how changes can be made.
+
+The Law and Social Justice minor totals 20 units; 8 required units and 12 elective units, as detailed below.
+
+## Law and Social Justice Minor (20 units)
+
+---
+
+### Required Core Courses (8 units)
+
+---
+
+Students must enroll in 8 units from the following courses:
+
+- LAW 101w Law and the U.S. Constitution in Global History Units: 4
+- LAW 210p Fundamentals of the U.S. Legal System Units: 4
+- LAW 300 Concepts in American Law Units: 4
+
+### Law Electives (4 units)
+
+---
+
+Students must enroll in 4 units of law elective courses:
+
+- LAW 150w Stereotypes, Prejudice and the Rule of Law Units: 4
+- LAW 200w Law and Society Units: 4
+- LAW 202 Wrongful Convictions Units: 4
+- LAW 203 Criminal Punishment in the Age of Mass Incarceration Units: 4
+- LAW 205 Introduction to Criminal Law Units: 4
+- LAW 250w Children and the Law Units: 4
+- LAW 275p Equal by Law: The History of Civil Rights Law in the United States Units: 4
+- LAW 310w Global Justice for Mass Atrocities and Genocide Units: 4
+- LAW 320p Law, Enslavement and Race Units: 4
+- LAW 355 Law and Homelessness Units: 4
+- LAW 403 Mental Health Law Units: 4
+- LAW 404 Psychology of the Criminal Justice Process Units: 4
+- LAW 406 Individual Rights in U.S. Constitutional Law Units: 4
+- LAW 498 Law Internship Units: 1, 2, 3, 4
+
+### Other Electives (8 units)
+
+---
+
+Students must enroll in 8 units of social justice elective courses:
+
+- COMM 366 Designing Media for Social Change Units: 4
+- COMM 367 Community Engagement and Service Learning Units: 4
+- COMM 412 Communication and Social Movements Units: 4
+- LAW 222 Interdisciplinary Perspectives on the Law Units: 2
+- LAW 223 Exploring Courthouses in Los Angeles Units: 2
+- LAW 225 Current Court Cases Units: 2
+- LAW 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- LAW 492 Undergraduate Law Review Units: 2
+- LAW 498 Law Internship Units: 1, 2, 3, 4
+- MDA 300 The Dornsife Toolkit Units: 2
+- PHIL 174gw Freedom, Equality, and Social Justice Units: 4
+- POSC 248gw Human Rights Units: 4
+- POSC 441m Cultural Diversity and the Law Units: 4
+- POSC 444 Civil and Political Rights and Liberties Units: 4
+- SOCI 150gm Social Problems Units: 4 *
+- SOCI 250gmw Grassroots Participation in Global Perspective Units: 4 *
+- SOCI 425 Social Movements: Power, Resistance and Political Dynamics Units: 4 *
+- SOWK 324 Juvenile Justice in America Units: 4
+- SOWK 424 Community Experience in Juvenile Justice Environments Units: 4
+- SWMS 349 Women and the Law Units: 4
+- * Sociology courses taken as part of this minor will have prerequisites waived by the Sociology Department.
+
+---

@@ -1,0 +1,143 @@
+Program Name: Civil Engineering, Environmental Engineering Emphasis (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32435
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32435&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32435
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:51:54Z
+Content SHA-256: 6f176a718e8a649c525ae8a0fb1146cb9b17f76937e1fef14b898542ccfdc304
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Civil Engineering, Environmental Engineering Emphasis (BS)
+
+---
+
+The requirement for the degree with an emphasis in environmental engineering is 134 units. A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken. In addition, a minimum grade of C must be earned in each of the following courses: CE 215 , CE 225 and CE 309 . See also common requirements for undergraduate degrees .
+
+## Composition/Writing Requirement
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+## General Education
+
+---
+
+- General Education Units: 20
+
+## Pre-Major Requirements
+
+---
+
+### Chemistry Requirement
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4 * or
+- CHEM 115aLg Advanced General Chemistry Units: 4 *
+
+### Math Requirement
+
+---
+
+- MATH 126g Calculus II Units: 4 * or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 226g Calculus III Units: 4 * or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+-
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+
+### Physics Requirement
+
+---
+
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 *
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+
+### Biology Requirement
+
+---
+
+The following course will satisfy both the BS CE basic science requirement and the General Education GE-D requirement.
+
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 *
+
+## Major Requirements
+
+---
+
+### Engineering
+
+---
+
+- ENGR 102 Viterbi First-Year Academy Units: 2
+
+### Civil and Environmental Engineering
+
+---
+
+- CE 108 Programming for Civil and Environmental Engineers Units: 2
+- CE 119 Statistical Data Analysis in Engineering Units: 2
+- CE 215 Statics and Dynamics Units: 4
+- CE 225 Mechanics of Deformable Bodies Units: 4
+- CE 309 Fluid Mechanics Units: 4
+- CE 330 Computational Methods in Engineering Units: 2
+- CE 358L Elementary Theory of Structures Units: 4
+- CE 408 Risk and Decision Analysis in Civil Engineering Units: 2
+- CE 451 Water Resources and Coastal Engineering Units: 4
+- CE 456 Structural Design I Units: 4
+- CE 467L Geotechnical Engineering Units: 4
+- CE 483 Engineering Economics in Civil Engineering Units: 2
+
+### Environmental Engineering Emphasis Courses
+
+---
+
+- CE 110 Introduction to Environmental Engineering Units: 2
+- CE 363L Environmental Chemistry and Analysis Units: 4
+- CE 410L Environmental Engineering Microbiology Units: 4
+- CE 485 Water and Wastewater Treatment Design Units: 4
+- ENE 200 Environmental Engineering Principles Units: 4
+- ENE 215 Energy Systems and Environmental Tradeoffs Units: 4
+- ENE 428 Air Pollution Fundamentals Units: 4
+
+### Courses from Other Departments
+
+---
+
+- CHE 330 Chemical Engineering Thermodynamics Units: 4
+
+### Advanced Computing
+
+---
+
+Students who must take MATH 125g Calculus I will be waived from the required Advanced Computing course. Select one course from the following list:
+
+- CE 423 Principles of Autonomy in Civil Engineering Units: 4 Or
+- ENE 440 Machine Learning for Climate Change and Sustainability Units: 4 Or
+- CE 427 Machine Learning for Civil and Environmental Engineers Units: 4
+
+### Capstone Course
+
+---
+
+- CE 480 Civil and Environmental Engineering Capstone Design Units: 4
+
+## Total units: 134
+
+---
+
+*Satisfies GE requirement.
+
+All curricula leading to a degree must be approved by the Astani Department of Civil and Environmental Engineering; please note this includes transfer credit and units for courses waived for subject credit only, which have been approved through the Degree Progress department.
+
+---

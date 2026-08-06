@@ -1,0 +1,81 @@
+Program Name: Journalism (BA)*
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32448
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32448&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32448
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:25Z
+Content SHA-256: be75c3b6970575555916aaf216c23c61c5c5477a66d4bd0566747161d71541fb
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Journalism (BA)*
+
+---
+
+The undergraduate journalism degree at USC Annenberg School of Journalism teaches students to think critically and innovatively, to research, write and investigate, to create meaningful journalism across multiple platforms, and to understand the role of news and information in a democratic society. Students participate in multiple experiential learning opportunities through a modern Media Center newsroom, led by students and supported by faculty.
+
+Students are required to complete 46 units for the major, including 32 units of required core courses.
+
+## Required Courses, Lower Division
+
+---
+
+- JOUR 201 Culture of Journalism: Past, Present and Future Units: 4
+- JOUR 206 Reporting and Writing Practicum Units: 1 (2 units required)
+- JOUR 207 Reporting and Writing I Units: 4
+
+## Required Courses, Upper Division
+
+---
+
+- JOUR 301 The Business of News Units: 2
+- JOUR 307 Reporting and Writing II Units: 3
+- JOUR 321 Visual Journalism Units: 3
+- JOUR 322 Introduction to Investigative and Data Journalism Units: 2
+- JOUR 372 Engaging Diverse Communities Units: 2
+- JOUR 414 Advanced Digital Media Storytelling Units: 2
+- JOUR 462 Law of Mass Communication Units: 4
+
+## Annenberg Experience
+
+---
+
+Choose one of the following required core courses (4 units total):
+
+- ASCJ 200 Navigating Media and News in the Digital Age Units: 4
+- JOUR 300 Journalism and Society Units: 4
+
+## Advanced Reporting Elective
+
+---
+
+Choose one course:
+
+- JOUR 310 Investigative Reporting Units: 4
+- JOUR 320 Introduction to Coding for Storytelling Units: 2
+- JOUR 402 Advanced Video Reporting Units: 6
+- JOUR 403 Television News and Sports Production Units: 6
+- JOUR 405 Non-Fiction Television Units: 4
+- JOUR 409 Audio Storytelling for Radio and Podcast Units: 4
+- JOUR 435 Writing Magazine Non-Fiction Units: 4
+- JOUR 441 Sports Reporting Units: 4
+- JOUR 445 Reporting on Race Units: 4
+- JOUR 446 Entertainment Reporting Units: 4
+- JOUR 447 Arts Reporting Units: 4
+- JOUR 448 Government and Public Affairs Reporting Units: 4
+- JOUR 458 Media, Food and Culture Units: 4
+- JOUR 488 Data-Driven Storytelling About Los Angeles Units: 4
+
+## Upper-Division Electives
+
+---
+
+Consult with an advisor to determine your remaining units required to complete the degree.
+
+---

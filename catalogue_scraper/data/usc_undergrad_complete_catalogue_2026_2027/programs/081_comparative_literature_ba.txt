@@ -1,0 +1,171 @@
+Program Name: Comparative Literature (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31748
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31748&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31748
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:12Z
+Content SHA-256: 974fe1f01de5135e967927a4ed37956946678ae42ff39f2dc327f0fcd200326b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Comparative Literature (BA)
+
+---
+
+Students may earn the BA in Comparative Literature by satisfying the requirements for either of two tracks.
+
+The Literature/Media/Critical Thought Track allows students to focus their study in one of three concentrations while also taking courses in the other two. Together, these three concentrations represent the broad range of interests in the discipline: (1) literature considered comparatively and transnationally; (2) the media of other arts and modes of communication (photography, film, music, painting and digital media); (3) modes of critical thought that inform and shape theoretical reflection on the arts and society.
+
+This track offers the opportunity to pursue a major that is broadly based in the liberal arts. Students on this track might consider extending their concentration with a double major or minor. For example, the literature concentration could be extended with a second major or minor in a national literature (French, Spanish, Italian, Russian, English, classics or an East Asian literature); the media concentration by another major or minor in cinematic arts, art history or communication; and the critical thought concentration by a second major or minor in philosophy, religion, history, sociology or anthropology.
+
+The Foreign Language Track incorporates the study of at least one literature in a foreign language into the comparative perspective of the comparative literature major.
+
+Students who intend to pursue a graduate degree in either comparative literature or a foreign literature are strongly advised to choose this track, as are students who already possess advanced skills in a language other than English. Majors in comparative literature with foreign language emphasis might consider a double major or a minor in a department of foreign language or in a non-literary field such as international relations or journalism.
+
+The requirements for both tracks of the major accommodate very well semesters of study abroad. Students are helped and encouraged to plan their programs in advance to allow for that experience.
+
+## Requirements for the Major
+
+---
+
+### Literature/Media/Critical Thought Track
+
+---
+
+Students earn a BA in Comparative Literature and are required to complete at least 40 units (10 courses) as follows:
+
+#### Requirements
+
+---
+
+##### (1)
+
+---
+
+- COLT 302 Introduction to Literary Theory Units: 4
+- COLT 303 Globalization: Culture, Change, Resistance Units: 4
+
+##### (2)
+
+---
+
+At least four additional COLT courses in one of the three concentrations.
+
+###### Literature Concentration:
+
+---
+
+- AMST 331gw The Black Atlantic: Narratives of Migration and Travel Units: 4
+- COLT 101gp Masterpieces and Masterminds: Literature and Thought Units: 4
+- COLT 102g On Location: The Place of Literature in Global Cultures Units: 4
+- COLT 250g Cultures of Latin America Units: 4
+- COLT 251g Literature and Thought of the West Since 1800 Units: 4
+- COLT 264gp Asian Aesthetic and Literary Traditions Units: 4
+- COLT 311 Epic Units: 4
+- COLT 312 Heroes, Myths and Legends in Literature and the Arts Units: 4
+- COLT 324 Women in Medieval and Renaissance Europe Units: 4
+- COLT 335 Decadence and Modernity Units: 4
+- COLT 345 Realist Fiction Units: 4
+- COLT 346 Fictions of the First Person Units: 4
+- COLT 348 Modernist Fiction Units: 4
+- COLT 360gp Fictions of Africa Units: 4
+- COLT 374gm Women Writers in Europe and America Units: 4
+- COLT 382gw Zen and Daoism in Asian Literature Units: 4
+- COLT 420 The Fantastic Units: 4
+- COLT 426 Utopias Units: 4
+- COLT 445 Europe and the Writing of Others Units: 4
+- COLT 448 Multilingual Encounters Units: 4
+- COLT 472 Los Angeles Crime Fiction Units: 4
+- COLT 475 Politics and the Novel Units: 4
+- COLT 476 Narrative and the Law Units: 4
+- COLT 485 The Shoah (Holocaust) in Literature and the Arts Units: 4
+- EALC 454 Bildungsroman in Modern East Asia Units: 4
+- EALC 460 Love, Self and Gender in Japanese Literature Units: 4
+- FREN 272gp Medicine, Health and the Body in Literature and Culture Units: 4
+- ITAL 382g Dante Units: 4
+
+###### Media Concentration:
+
+---
+
+- COLT 357 The Avant-Garde Units: 4
+- COLT 365 Literature and Popular Culture Units: 4
+- COLT 373 Literature and Film Units: 4
+- COLT 379 Nationalism and Postcolonialism in Southeast Asian Cinema Units: 4
+- COLT 395w Urban Crossroads: Budapest Units: 4
+- COLT 415 Queer Cinema, Literature and the Visual Arts Units: 4
+- COLT 462 Soundtracks of Our Lives Units: 4
+- COLT 470 Literature and Media in Latin America Units: 4
+- COLT 480 Dada and Surrealism Units: 4
+- EALC 255gw Southeast Asian Literature and Film Units: 4
+
+###### Critical Thought Concentration:
+
+---
+
+- CLAS 370 Leaders and Communities: Classical Models Units: 4
+- COLT 375 Latin American Cultural and Literary Theory Units: 4
+- COLT 377 Gender and Sexuality in Literary Theory Units: 4
+- COLT 381 Psychoanalysis and the Arts Units: 4
+- COLT 385 Literature and Justice Units: 4
+- COLT 391 Literary Criticism from Plato to Postmodernism Units: 4
+- COLT 454 Aesthetic Philosophy and Theory Units: 4
+- COLT 471 Literature, Theory, History Units: 4
+- COLT 474 Desire, Literature, Technology Units: 4
+- COLT 476 Narrative and the Law Units: 4
+- COLT 478 Family in Theory and Literature Units: 4
+- COLT 487 Critical Image Units: 4
+- FREN 393 Theories and Theorists Units: 4
+
+##### (3)
+
+---
+
+At least four additional COLT courses. No more than two of the 10 courses required for the major may be at the 100 or 200 level.
+
+### Foreign Language Track
+
+---
+
+Students earn a BA in Comparative Literature and are required to complete 40 units (10 courses) as follows:
+
+#### Requirements
+
+---
+
+##### (1)
+
+---
+
+- COLT 302 Introduction to Literary Theory Units: 4
+- COLT 303 Globalization: Culture, Change, Resistance Units: 4
+
+##### (2)
+
+---
+
+At least five additional COLT courses, of which no more than two may be at the 100 or 200 level.
+
+##### (3)
+
+---
+
+At least three upper-division courses in the literature or culture of one or more foreign languages (other than English), with all readings in that language.
+
+## Honors Program
+
+---
+
+Students who satisfy the following requirements of the honors program receive the BA in Comparative Literature with Honors. To be admissible to the honors program, an overall GPA of at least 3.0 and at least 3.5 in courses counted for major credit is required. The decision to enter the Honors Program should be made and discussed with the departmental undergraduate adviser at least one year (two semesters) before graduation.
+
+To be awarded honors, majors in comparative literature must complete 4 units of COLT 494 and 4 units of COLT 495 . These courses replace two of the COLT courses required for the major.
+
+The director of the senior honors thesis must be a member of the comparative literature faculty. The second reader may be any regular USC faculty. To qualify for the award of honors, the director and second reader must both approve the thesis.
+
+---

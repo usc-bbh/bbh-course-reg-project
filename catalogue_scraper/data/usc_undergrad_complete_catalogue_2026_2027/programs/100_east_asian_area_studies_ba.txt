@@ -1,0 +1,23 @@
+Program Name: East Asian Area Studies (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31765
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31765&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31765
+Acquisition Mode: browser_rendered_dom
+Retrieved At: 2026-07-31T00:53:01Z
+Content SHA-256: 70d86007bddaab3fcd7a217a732b87ad14bf1000f90096941af4ada8dc9a37ca
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# East Asian Area Studies (BA)
+
+---
+
+Requirements for the lower division are: EALC 110 and EASC 150 or the equivalent; a minimum of four courses in one East Asian language (or the proficiency equivalent); and seven upper-division courses approved for the major in addition to the language courses used to meet the requirements. One lower-division course other than EALC 110 and EASC 150 may be substituted for one of the seven upper-division courses. Upper-division courses must include those from at least three departments, one of which must be History. At least one course must be taken on two of the following: China, Japan or Korea.
+
+---

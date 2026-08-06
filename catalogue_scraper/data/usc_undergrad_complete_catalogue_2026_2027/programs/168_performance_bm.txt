@@ -1,0 +1,286 @@
+Program Name: Performance (Studio Guitar) (BM)
+Credential: BM
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32232
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32232&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32232
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:27Z
+Content SHA-256: 91c4da1391f180b8a9fb67363369031865b6e823f6668263602964a5a3a52a1d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Performance (Studio Guitar) (BM)
+
+---
+
+#### Overview
+
+The Bachelor of Music in Studio Guitar consists of course work in the major, core music studies (theory, aural skills, music history, conducting, large ensemble) and USC’s general education and writing program.
+
+#### Entrance Requirements
+
+Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees. Specific entrance requirements are reviewed on an annual basis and published online at music.usc.edu.
+
+#### General Education Requirements
+
+The university’s General Education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above.
+
+Note that courses within the major will also satisfy certain Core Literacy requirements. Please work with your major adviser to determine those courses.
+
+#### Capstone Projects
+
+A junior and senior recital must be completed under approved faculty supervision and guidance. The faculty of the department of the student’s major program determines the detailed requirements of the recitals, including content, length, format and other specifications. In cases in which a performance venue is required in order to present the recitals, reservations must be made according to the current guidelines of the Music Operations office.
+
+## Curriculum Requirements for Traditional Emphasis
+
+---
+
+### General Education *
+
+---
+
+#### Core Literacies
+
+---
+
+GE-A: The Arts (one course)
+
+GE-B: Humanistic Inquiry (two courses)
+
+GE-C: Social Analysis (two courses)
+
+GE-D: Life Sciences (one course)
+
+GE-E: Physical Sciences (one course)
+
+GE-F: Quantitative Reasoning (one course)
+
+#### Global Perspectives
+
+---
+
+GE-G: Global Perspectives I (one course)
+
+GE-H: Global Perspectives II (one course)
+
+#### Writing
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+### Lessons (16 units)
+
+---
+
+- MPGU 153 Individual Instruction Units: 1 or 2
+- 4 units total of MPGU 153 (Studio Guitar)
+- MPGU 253 Individual Instruction Units: 1 or 2
+- 4 units total of MPGU 253 (Studio Guitar)
+- MPGU 353 Individual Instruction Units: 1 or 2
+- 4 units total of MPGU 353 (Studio Guitar)
+- MPGU 453 Individual Instruction Units: 1 or 2
+- 4 units total of MPGU 453 (Studio Guitar)
+
+### Music Ensembles (10 units)
+
+---
+
+- MUEN 326 Guitar Ensemble Units: 1
+- 6 units total of MUEN 326
+- Ensemble electives: four 1-unit courses
+
+### Program Intensive Courses (27 units)
+
+---
+
+- MPGU 158 Guitarists in the U.S. Units: 2
+- MPGU 159 Functional Skills for Studio Guitarists I Units: 2
+- MPGU 258 Functional Skills for Studio Guitarists I Units: 2
+- 4 units total of MPGU 258
+- MPGU 358 Performance Practices for Studio Guitarists Units: 2
+- 4 units total of MPGU 358
+- MPGU 415 Studio Guitar Pedagogy Units: 2
+- MPGU 416 Evolution of the Guitar in the United States Units: 3
+- MPGU 426 Classical Guitar History and Literature Units: 2
+- MPGU 428a Improvisation and Arranging for Guitarists Units: 3
+- MPGU 428b Improvisation and Arranging for Guitarists Units: 3
+- MPGU 458 Current Electric Guitar Styles Units: 2
+
+### Core Thornton Academic Courses (40 units)
+
+---
+
+- MPKS 250a Keyboard Instruction I Units: 2
+- MPKS 250b Keyboard Instruction I Units: 2
+- MUCD 343 Instrumental Conducting I Units: 2
+- MUCO 132a Aural Skills I Units: 2
+- MUCO 132b Aural Skills I Units: 2
+- MUCO 133a Theory I Units: 3
+- MUCO 133b Theory I Units: 3
+- MUCO 232a Aural Skills II Units: 2
+- MUCO 232b Aural Skills II Units: 2
+- MUCO 233a Theory II Units: 3
+- MUCO 233b Theory II Units: 3
+- MUCO 338x Elementary Orchestration Units: 2
+- MUHL 250g Music and Ideas Units: 4
+- MUHL 350g Western Art Music History I Units: 4
+- MUHL 351 Western Art Music History II Units: 4
+
+### Electives (7 units)
+
+---
+
+### Capstone Projects
+
+---
+
+Junior Recital: 0 units
+
+Senior Recital: 0 units
+
+### Total required for degree: 132
+
+---
+
+* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.
+
+## Curriculum Requirements for Jazz Emphasis
+
+---
+
+### General Education *
+
+---
+
+#### Core Literacies
+
+---
+
+GE-A: The Arts (one course)
+
+GE-B: Humanistic Inquiry (two courses)
+
+GE-C: Social Analysis (two courses)
+
+GE-D: Life Sciences (one course)
+
+GE-E: Physical Sciences (one course)
+
+GE-F: Quantitative Reasoning (one course)
+
+#### Global Perspectives
+
+---
+
+GE-G: Global Perspectives I (one course)
+
+GE-H: Global Perspectives II (one course)
+
+#### Writing
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+### Lessons (18 units)
+
+---
+
+- MPGU 153 Individual Instruction Units: 1 or 2
+- 4 units total of MPGU 153 (Studio Guitar)
+- MPGU 253 Individual Instruction Units: 1 or 2
+- 4 units total of MPGU 253 (Studio Guitar)
+- MPGU 301 Individual Instruction Units: 1, 2
+- 2 units total of MPGU 301 (Classical Guitar)
+- MPGU 353 Individual Instruction Units: 1 or 2
+- 4 units total of MPGU 353 (Studio Guitar)
+- MPGU 453 Individual Instruction Units: 1 or 2
+- 4 units total of MPGU 453 (Studio Guitar)
+
+### Music Ensembles (10 units)
+
+---
+
+- MUEN 326 Guitar Ensemble Units: 1
+- 6 units total of MUEN 326
+- Ensemble electives: four 1-unit courses
+
+### Program Intensive Courses (27 units)
+
+---
+
+- MPGU 158 Guitarists in the U.S. Units: 2
+- MPGU 159 Functional Skills for Studio Guitarists I Units: 2
+- MPGU 258 Functional Skills for Studio Guitarists I Units: 2
+- 4 units total of MPGU 258
+- MPGU 358 Performance Practices for Studio Guitarists Units: 2
+- 4 units total of MPGU 358
+- MPGU 415 Studio Guitar Pedagogy Units: 2
+- MPGU 416 Evolution of the Guitar in the United States Units: 3
+- MPGU 426 Classical Guitar History and Literature Units: 2
+- MPGU 428a Improvisation and Arranging for Guitarists Units: 3
+- MPGU 428b Improvisation and Arranging for Guitarists Units: 3
+- MPGU 458 Current Electric Guitar Styles Units: 2
+
+### Core Thornton Academic Courses (34 units)
+
+---
+
+- MUCD 343 Instrumental Conducting I Units: 2
+- MUCO 132a Aural Skills I Units: 2
+- MUCO 132b Aural Skills I Units: 2
+- MUCO 133a Theory I Units: 3
+- MUCO 133b Theory I Units: 3
+- MUHL 250g Music and Ideas Units: 4
+- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2
+- MUJZ 141b Basic Keyboard Skills for the Improviser Units: 2
+- MUJZ 305a Advanced Jazz Theory Units: 2
+- MUJZ 305b Advanced Jazz Theory Units: 2
+- MUJZ 350g A History of Jazz Music Units: 4
+- ​One course from the following:
+- MPPM 350g A History of Popular Music Units: 4
+- MUHL 350g Western Art Music History I Units: 4
+- MUHL 351 Western Art Music History II Units: 4
+- MUSC 102gw World Music Units: 4
+- MUSC 115gp Western Music as Sounding History Units: 4
+- MUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4
+- MUSC 210g Electronic Music and Dance Culture Units: 4
+- MUSC 250gmw The Music of Black Americans Units: 4
+- MUSC 320gmw Hip-hop Music and Culture Units: 4
+- MUSC 371g Musical Genre Bending Units: 4
+- MUSC 372g Music and Politics Units: 4
+- MUSC 373g Writing About Popular Music Units: 4
+- MUSC 460 Film Music: History and Function from 1930 to the Present Units: 4
+- MUSC 465 Music, Television and American Culture Units: 4
+- Select 2 units from the following:
+- MTEC 245 Introduction to MIDI Sequencing Units: 1
+- MTEC 246 Introduction to Audio Recording and Editing Units: 1
+- MUCO 338x Elementary Orchestration Units: 2
+
+### Electives (11 units)
+
+---
+
+### Capstone Projects
+
+---
+
+Junior Recital: 0 units
+
+Senior Recital: 0 units
+
+### Total required for degree: 132
+
+---
+
+* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.
+
+---

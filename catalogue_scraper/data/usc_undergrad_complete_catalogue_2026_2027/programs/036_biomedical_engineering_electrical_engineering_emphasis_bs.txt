@@ -1,0 +1,151 @@
+Program Name: Biomedical Engineering, Electrical Engineering Emphasis (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32051
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32051&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32051
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:50:16Z
+Content SHA-256: 1751922c936e3027844fa97389dd1445595daef030324a463c56f839c695c0f1
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Biomedical Engineering, Electrical Engineering Emphasis (BS)
+
+---
+
+The minimum requirement for the degree with an emphasis in electrical engineering is 133 units. A cumulative grade point average of C (2.0) is required in all upper-division courses applied toward the major, regardless of the department in which the courses are taken. See common requirements for undergraduate degrees .
+
+Technical electives are to be selected from an approved list available in the department office.
+
+## Composition/Writing Requirement
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+## General Education
+
+---
+
+- General education Units: 20
+
+## Pre-Major Requirements
+
+---
+
+### Math Requirement
+
+---
+
+- MATH 125g Calculus I Units: 4
+-
+- MATH 126g Calculus II Units: 4 or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 226g Calculus III Units: 4 or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+-
+- MATH 245 Mathematics of Physics and Engineering I Units: 4
+
+### Physics Requirement
+
+---
+
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+
+### Chemistry Requirement
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4 or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+-
+- CHEM 105bL General Chemistry Units: 4 or
+- CHEM 115bL Advanced General Chemistry Units: 4
+
+## Major Requirements
+
+---
+
+### Biology
+
+---
+
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+-
+- BISC 312x Molecular Biochemistry Units: 4 or
+- BISC 320Lg Molecular Biology Units: 4 or
+- HBIO 301L Human Anatomy Units: 4
+
+### Organic Chemistry
+
+---
+
+- CHEM 322aL Organic Chemistry Units: 4
+- Note: CHEM 322aL may be replaced by 4 units of additional upper-division BME course work with adviser approval.
+
+### Biomedical Engineering
+
+---
+
+- BME 101 Introduction to Biomedical Engineering Units: 4
+- BME 202 Control and Communication in the Nervous System Units: 4
+- BME 210 Biomedical Computer Simulation Methods Units: 4
+- BME 403L Physiological Systems Units: 4
+- BME 413 Bioengineering Signals and Systems Units: 4
+- BME 415 Regulation of Medical Products Units: 2
+- BME 423 Statistical and Data Science Methods in Biomedical Engineering Units: 4
+- BME 445aL Senior Design Project Units: 2
+- BME 445bL Senior Design Project Units: 2
+
+### Electrical and Computer Engineering
+
+---
+
+- EE 109L Introduction to Embedded Systems Units: 4
+- EE 202L Linear Circuits Units: 4
+- TAC 165 Introduction to C++ Programming Units: 2
+
+## Complete one track from the following lists:
+
+---
+
+### Analog Track
+
+---
+
+- EE 338 Physical Electronics Units: 4
+- EE 348L Electronic Circuits Units: 4
+-
+- EE 447Lx Mixed Signal Electronic Circuits Units: 4 or
+- BME 302L Medical Electronics Units: 4
+
+### Digital Track
+
+---
+
+- EE 250L Distributed Systems for the Internet of Things Units: 4
+- EE 354L Digital Circuits Units: 4
+-
+- EE 454L System-on-Chip Units: 4 or
+- EE 459Lx Embedded Systems Design Laboratory Units: 4 or
+- EE 477L MOS VLSI Circuit Design Units: 4
+
+## Electives
+
+---
+
+Technical Electives: Complete 9 units as needed to complete 133 approved program units. Technical electives are to be selected from an approved list available in the department office.
+
+## Total Units: 133
+
+---
+
+---

@@ -1,0 +1,120 @@
+Program Name: Linguistics and East Asian Languages and Cultures (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31844
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31844&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31844
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:50Z
+Content SHA-256: 479e20812e4a8387ac3297e48ddecc4b550ca1f75f5f842fb063ae1101cafb60
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Linguistics and East Asian Languages and Cultures (BA)
+
+---
+
+## For the lower division
+
+---
+
+- LING 210g Introduction to Linguistics Units: 4 is required
+
+## For the upper division, the following courses are required:
+
+---
+
+### Two courses from
+
+---
+
+- LING 301 Introduction to Phonology and Morphology Units: 4
+- LING 302 Introduction to Syntax Units: 4
+- LING 303 Introduction to Semantics and Pragmatics Units: 4
+- LING 415 Phonetics Units: 4
+
+### Two courses from
+
+---
+
+- LING 380 Languages of the World Units: 4
+- LING 401 Advanced Phonology Units: 4
+- LING 402 Advanced Syntax Units: 4
+- LING 403 Advanced Semantics Units: 4
+- LING 405 Child Language Acquisition Units: 4
+- LING 406 Psycholinguistics Units: 4
+- LING 407 Atypical Language Units: 4
+- LING 410 Second Language Acquisition Units: 4
+- LING 466 Word and Phrase Origins Units: 4 and
+- LING 485 Field Methodology Units: 4
+
+### Two courses selected from
+
+---
+
+- EALC 304 Advanced Modern Chinese I Units: 4
+- EALC 306 Advanced Modern Chinese II Units: 4
+- EALC 315 Advanced Korean I Units: 4
+- EALC 317 Advanced Korean II Units: 4
+- EALC 320 Advanced Japanese I Units: 4
+- EALC 322 Advanced Japanese II Units: 4
+- EALC 400 Classical Chinese I Units: 4
+- EALC 402 Classical Chinese II Units: 4
+- EALC 406 Advanced Modern Chinese IV Units: 4
+- EALC 407 News and Web Chinese Units: 4
+- EALC 413 Business Japanese Units: 4
+- EALC 415 Advanced Korean III Units: 4
+- EALC 417 Advanced Korean IV Units: 4
+- EALC 422 Advanced Japanese III Units: 4
+- EALC 424 Advanced Japanese IV Units: 4 and
+- EALC 426 Classical Japanese Units: 4
+
+### One EALC literature, civilization or thought course from
+
+---
+
+- EALC 332 Modern Korean Literature in Translation Units: 4
+- EALC 335m Korean American Literature Units: 4
+- EALC 340gp Japanese Civilization Units: 4
+- EALC 342gp Japanese Literature and Culture Units: 4
+- EALC 345 Korean Civilization Units: 4
+- EALC 350gp Chinese Civilization Units: 4
+- EALC 352g Chinese Literature and Culture Units: 4
+- EALC 354g Modern Chinese Literature in Translation Units: 4
+- EALC 355 Studies in Chinese Thought Units: 4
+- EALC 365 Studies in Japanese Thought Units: 4
+- EALC 380 Cultural Topics in East Asian Literature Units: 4
+- EALC 386 Readings in Modern Korean Literature Units: 4
+- EALC 452 Chinese Fiction Units: 4
+- EALC 455 Japanese Fiction Units: 4 and
+- EALC 460 Love, Self and Gender in Japanese Literature Units: 4
+
+## Two additional EALC courses
+
+---
+
+Two additional EALC courses from category IV or V. (After consultation with a department adviser, students may petition to use EALC courses not listed toward this requirement.)
+
+## Capstone Experience
+
+---
+
+The Linguistics and East Asian Languages and Cultures major requires a capstone experience, which can be fulfilled in one of the following ways:
+
+(A) A research paper completed as Honors Thesis LING 497 , or as Directed Research LING 490x or as a Linguistic 400-level course research paper.
+
+(B) A poster presented at the USC UG symposium [https://ahf.usc.edu/signature-events/symposium/] or at a conference.
+
+(C) A summer internship related to the degree.
+
+## Linguistics and East Asian Languages and Cultures Major with Honors
+
+---
+
+The Linguistics and East Asian Languages and Cultures major with honors requires the student to complete the requirements for the major with a GPA of 3.5 or above and to complete LING 497 Honors Thesis with a grade of B+ or better. Intent to complete the major with honors should be registered with the undergraduate adviser no later than the second semester of the junior year.
+
+---

@@ -1,0 +1,147 @@
+Program Name: Business Administration (International Relations) (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31593
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31593&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31593
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:50:44Z
+Content SHA-256: 1db1a37441cda3a175098bb82970afaa93640971a04caf07b007ad8c03f74882
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Business Administration (International Relations) (BS)
+
+---
+
+This program consists of courses offered by both the Marshall School of Business and the School of International Relations. Students completing the program receive a Bachelor of Science in Business Administration with an emphasis in International Relations.
+
+Students may earn only one emphasis within the BS in Business Administration degree.
+
+### Requirements for Completion
+
+To complete the program, students must satisfy all requirements for the Bachelor of Science degree in business including USC’s General Education requirements and an additional 24 units in international relations.
+
+## Composition/Writing Requirements (8 units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4 *
+- * Note: A section of WRIT 340 titled “Advanced Writing for Business” is recommended for BAIR majors.
+
+## Business Requirements
+
+---
+
+- BUAD 280 Introduction to Financial Accounting Units: 3
+- BUAD 281 Introduction to Managerial Accounting Units: 3
+- BUAD 302 Communication Strategy in Business Units: 4
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+-
+- BUAD 306 Business Finance Units: 4 or
+- BUAD 308 Advanced Business Finance Units: 4
+-
+- BUAD 307 Marketing Fundamentals Units: 4
+-
+- BUAD 310g Applied Business Statistics Units: 4 or
+- BUAD 312g Statistics and Data Science for Business Units: 4
+-
+- BUAD 311 Operations Management Units: 4 or
+- BUAD 313 Advanced Operations Management and Analytics Units: 4
+-
+- BUAD 425 Introduction to Business Analytics Units: 2
+- or
+- BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2
+-
+- BUAD 497 Strategic Management Units: 4
+- ECON 351x Microeconomics for Business Units: 4
+- ECON 352x Macroeconomics for Business Units: 4
+-
+- MATH 118gx Calculus for Business and Economics Units: 4 [*] or
+- MATH 125g Calculus I Units: 4 [**]
+-
+- Electives: 300- or 400-level ACCT, BAEP, BUCO, FBE, DSO, MKT, MOR or RISK Units: 12
+
+### Total business units: 60
+
+---
+
+### Note:
+
+---
+
+* Placement into MATH 118 is contingent on successful completion of MATH 117 or obtaining an acceptable score on the math placement exam. The MATH 118 requirement may be waived with an AP Calculus AB or BC score of 4 or higher, or an IB math score of 5 or higher.
+** A-level mathematics examination scores of A or B may receive subject credit for MATH 125 . Eligible students should speak with their academic adviser for additional information.
+
+## International Relations Requirements
+
+---
+
+- IR 210gw International Relations: Introductory Analysis Units: 4
+
+### International Political Economy Courses (4 units)
+
+---
+
+- IR 324 Multinational Enterprises and World Politics Units: 4
+- IR 325 North-South Relations in the Global Economy Units: 4
+- IR 326 U.S. Foreign Economic Policy Units: 4
+- IR 330 Politics of the World Economy Units: 4
+
+### International Relations Regional Courses (8 units)
+
+---
+
+- IR 333 China in International Affairs Units: 4
+- IR 345 Russian and Post-Soviet Foreign Policy Units: 4
+- IR 360 International Relations of the Pacific Rim Units: 4
+- IR 361 South and Southeast Asia in International Affairs Units: 4
+- IR 362 The International Relations of the Contemporary Middle East Units: 4
+- IR 363 Middle East Political Economy Units: 4
+- IR 364 The Political Economy of Latin American Development Units: 4
+- IR 365 Politics and Democracy in Latin America Units: 4
+- IR 367 Africa in International Affairs Units: 4
+- IR 369 Post-War European Relations Units: 4
+- IR 383 Conflict Mediation & Negotiation Units: 4
+- IR 385 European Foreign Policy and Security Issues Units: 4
+- IR 439 Political Economy of Russia and Eurasia Units: 4
+- IR 442 Japanese Foreign Policy Units: 4
+- IR 465 Contemporary Issues in United States-Latin America Relations Units: 4
+- IR 468 European Integration Units: 4
+
+### International Relations Electives (8 units)
+
+---
+
+Choose two from the list below or the two lists immediately above:
+
+- IR 305w Managing New Global Problems Units: 4
+- IR 306 International Organizations Units: 4
+- IR 310 Peace and Conflict Studies Units: 4
+- IR 315 Ethnicity and Nationalism in World Politics Units: 4
+- IR 316 Gender and Global Issues Units: 4
+- IR 323 Politics of Global Environment Units: 4
+- IR 341 Foreign Policy Analysis Units: 4
+- IR 344 The Global South in World Politics Units: 4
+- IR 381 Introduction to International Security Units: 4
+- IR 382w Order and Disorder in Global Affairs Units: 4
+- IR 402 Theories of War Units: 4
+- IR 427 Seminar on Economics and Security Units: 4
+- IR 444w Theories of Global Society Units: 4
+
+### Total international relations units: 24
+
+---
+
+## Total program units: 84
+
+---
+
+Return to: USC Marshall School of Business
+
+---

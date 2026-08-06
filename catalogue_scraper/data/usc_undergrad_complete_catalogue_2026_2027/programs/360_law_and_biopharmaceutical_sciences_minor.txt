@@ -1,0 +1,64 @@
+Program Name: Law and Biopharmaceutical Sciences Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32880
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32880&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32880
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:08:02Z
+Content SHA-256: 81acbd209ad69330dfe29a2a1ae875675c54861d6ea0f71bbb5a84ef746de798
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Law and Biopharmaceutical Sciences Minor
+
+---
+
+The minor in Law and Biopharmaceutical Sciences studies the intersection of pharmaceutical and regulatory science and the legal system through examining contemporary issues related to the oversight, management, production and management of legal content from the perspective of science and pharmacy.
+
+The minor consists of a minimum of 20 units of course work from USC Gould and USC Mann. At least 16 units must be unique to this minor and do not overlap with the major, another minor or general education requirements.
+
+Only students with a declared major are eligible to apply.
+
+## Required Courses
+
+---
+
+8 units
+
+- LAW 210p Fundamentals of the U.S. Legal System Units: 4
+- RXRS 412 Ethics, Drugs and Society Units: 4
+
+## Law Electives
+
+---
+
+Minimum of 4 units or a maximum of 8 units
+
+- LAW 211 Intellectual Property and Technology Units: 4
+- LAW 306 Issues in the Use of AI in Law and Regulation Units: 4
+- LAW 350 Law and Entrepreneurship Units: 4
+- LAW 407 Regulatory Law Units: 4
+
+## Biopharmaceutical Sciences Electives
+
+---
+
+Minimum of 4 units or a maximum of 8 units
+
+- BPSI 406 Drug Safety Pharmacology and Toxicology Units: 4
+- BPSI 407 Pharmaceutical and Health Economics Units: 4
+- BPSI 410 Biopharmaceutical Product Development and Brand Planning Units: 4
+- BPSI 414 Pharmacoethics Units: 2
+- RXRS 407 The Discovery, Development and Marketing of Medicines Units: 4
+- RXRS 413w Globalization of the Biomedical Industry Units: 4
+- RXRS 414 Buzzed: Modern Substances of Abuse and Addiction Units: 4
+- RXRS 416 Medical Products: From Idea to Market Units: 4
+- RXRS 421 Management and Operation of Clinical Trials Units: 4
+- RXRS 422 Regulation, Guidance and Control of Medical Products Units: 2
+
+---

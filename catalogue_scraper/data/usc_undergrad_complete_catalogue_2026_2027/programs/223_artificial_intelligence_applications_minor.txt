@@ -1,0 +1,69 @@
+Program Name: Artificial Intelligence Applications Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32792
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32792&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32792
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:31Z
+Content SHA-256: 0621ec42b37906d69c4c086febb7eae9cb3810228b2d595d2ba260e789f5f451
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Artificial Intelligence Applications Minor
+
+---
+
+AI is a rapidly advancing discipline at the intersection of computer science, technology, cognitive science, and data science. AI has great promise to change the world in ways we cannot foresee. Society, industry, business, commerce, entertainment, medicine, finance and many other aspects of our lives could be transformed by advances in AI.
+
+Students in the minor will learn the foundations of AI and core concepts as well as tools and frameworks to solve real world problems. Applications such as computer vision and natural language processing will be discussed in core courses. Students will have the option to take an elective in topics such as the use of AI in autonomous driving and cybersecurity. Additionally, ethical issues will be explored in the core as well as in specialized elective courses.
+
+The minor requires a minimum of 18-20 units.
+
+## Core Requirements (12 units)
+
+---
+
+- TAC 259 Basics of Artificial Intelligence Units: 4
+- TAC 359 Applied Neural Networks Units: 4
+- TAC 459 Applied Natural Language Processing and Generative AI Units: 4
+
+## Programming Fundamentals (2-4 units)
+
+---
+
+Choose either the CSCI course or the TAC sequence:
+
+### CSCI course:
+
+---
+
+- CSCI 113x Programming Fundamentals for Computing Units: 4
+
+### TAC sequence:
+
+---
+
+TAC 115 or TAC 116 may be waived with demonstrated prior Python programming experience.
+
+- TAC 115 Programming in Python Units: 2
+- or
+- TAC 116 Accelerated Programming in Python Units: 2
+-
+- TAC 216 Applied Python Units: 2
+
+## Electives (4 units)
+
+---
+
+Choose one of the following:
+
+- EIS 370 Ethical Issues in Artificial Intelligence Units: 4
+- TAC 429 Embodied Artificial Intelligence Units: 4
+- PHIL 265g Ethics, Technology and Value Units: 4
+
+---

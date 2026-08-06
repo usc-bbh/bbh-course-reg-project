@@ -1,0 +1,43 @@
+Program Name: Evolutionary Health and Medicine Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32950
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32950&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32950
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:26Z
+Content SHA-256: 29c1de824dedc6fc0099f84aa6c95a1913a90fca11f439a7a95bec4ea26bcb9e
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Evolutionary Health and Medicine Minor
+
+---
+
+The minor in Evolutionary Health and Medicine offers a rigorous exploration of human health through an evolutionary lens. It critically examines the historical constraints and evolutionary compromises inherent in the human body, utilizing these insights to elucidate vulnerabilities to disease. Through hands-on, project-based learning and potential collaborations with research professionals, students engage directly with the challenges of applying evolutionary thinking to modern health problems.
+
+The minor requires at least 24 units.
+
+## Lower-division courses (8 units)
+
+---
+
+- HBIO 200Lg The Human Animal Units: 4
+-
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+
+## Upper-division courses (16 units)
+
+---
+
+- HBIO 309 The Human Machine Units: 4
+- HBIO 314 Foundations of Human Evolution Units: 4
+- HBIO 405 Evolutionary Medicine Units: 4
+- HBIO 406 Theory and Method in Human Evolutionary Biology Units: 4
+
+---

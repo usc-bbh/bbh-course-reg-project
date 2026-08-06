@@ -1,0 +1,81 @@
+Program Name: Design (BFA)
+Credential: BFA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32522
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32522&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32522
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:40Z
+Content SHA-256: dded646d8a4a6c5ac04c4f8c1b3284be8038614a447d9f84ea875d98efa583fd
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Design (BFA)
+
+---
+
+The Bachelor of Fine Arts (BFA) in Design requires a total of 128 units, including 74 units of DES and CRIT requirements.
+
+In addition to the required courses, BFA Design students are encouraged to explore in greater depth an area of design in which they have an interest. Students should select electives based on their personal and professional goals and in consultation with academic advisers. Electives are typically clustered in a particular field, but may be spread across different areas
+
+## Required Lower-Division Courses
+
+---
+
+28 units of lower-division Roski DES courses are required as follows:
+
+- ART 105 Art and Design Studio I Units: 4
+- ART 106 Art and Design Studio II Units: 4
+- ART 110 Drawing for Art and Design Units: 4
+- DES 102 Design Fundamentals Units: 4
+- DES 202 Design II Units: 4
+- DES 203 Digital Design Fundamentals Units: 2
+- DES 213 Digital 3D Design Units: 2
+- DES 230 3D Design: Materials and Tools Units: 4
+
+## Required Upper-Division Courses
+
+---
+
+34 units of upper-division Roski DES courses are required as follows:
+
+- DES 302 Design III Units: 4
+- DES 303 Advanced Digital Design Units: 2
+- DES 322 Publication Design Units: 4
+- DES 323g Design Theory Units: 4
+- DES 332a Typography Units: 2
+- DES 332b Typography Units: 2
+- DES 402 Advanced Design Projects Units: 4
+- DES 413 Professional Practice in Design Units: 4
+- DES 419 Professional Internship in the Arts Units: 2
+- DES 432 Special Projects in Design Units: 2
+- DES 494a Senior Thesis Units: 2
+- DES 494b Senior Thesis Units: 2
+
+## Required Critical Studies Courses
+
+---
+
+The following Critical Studies courses are required for the BFA major that also satisfy up to five categories of General Education requirements:
+
+- CRIT 150gp Histories of Art, Design and Visual Culture Units: 4
+- CRIT 160g Critical Theory in Art, Design and Visual Culture Units: 4
+- CRIT 350gw Global Art, Design and Visual Culture since 1960 Units: 4
+
+## Electives
+
+---
+
+26 units of electives are required, to be chosen from either Roski courses or non-Roski courses from across the university, allowing for a minor to complement the design course work.
+
+## General Education Requirements
+
+---
+
+The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. See the General Education page for more information.
+
+---

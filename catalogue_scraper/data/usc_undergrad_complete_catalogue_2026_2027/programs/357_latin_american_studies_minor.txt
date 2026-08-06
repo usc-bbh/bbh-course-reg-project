@@ -1,0 +1,86 @@
+Program Name: Latin American Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31938
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31938&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31938
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:07:55Z
+Content SHA-256: d86c1737c1da7b371f8333165206657b9dc4b6fa1e7b636ded57b5bcb0bdd539
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Latin American Studies Minor
+
+---
+
+The Latin American Studies minor recognizes the lasting importance of U.S.-Latin American relations. The overriding goal is to encourage students to learn more about Latin America by combining conceptual, area and language studies during their time at USC. The purpose of this 20-unit minor is to deepen students’ knowledge of Latin America by offering courses from multiple disciplines within a context of close faculty guidance. The gateway requirement of one 4-unit course provides the student with options in both humanities and the social sciences, and the designated electives are similarly meant to allow students to blend these specialties.
+
+For fulfillment of the requirements for the minor a student must choose four classes outside of his or her major department dedicated exclusively to the minor (which may be the same four classes). After the gateway course, these elective courses must be spread across at least two disciplines and/or departments.
+
+## Required Courses
+
+---
+
+### One of the following 4-unit gateway introductory courses:
+
+---
+
+- COLT 250g Cultures of Latin America Units: 4
+- HIST 273g Colonial Latin America Units: 4
+- HIST 372 Modern Latin America Units: 4
+- IR 364 The Political Economy of Latin American Development Units: 4
+- IR 365 Politics and Democracy in Latin America Units: 4
+- POSC 350 Politics of Latin America Units: 4
+
+#### Note:
+
+---
+
+If the student has chosen a lower-division (100- or 200-level) course among the introductory choices, all area electives must be at the upper-division (300- or 400-) level.
+
+## Elective Requirements
+
+---
+
+### Four courses (16 units) from the following list:
+
+---
+
+- AHIS 127g Arts of the Ancient Americas Units: 4
+- AHIS 128gp The Arts and Society in Latin America, Colonial to Contemporary Units: 4
+- AHIS 318 Arts of the Ancient Andes Units: 4
+- AHIS 319 Mesoamerican Art and Culture Units: 4
+- AMST 448m Chicano and Latino Literature Units: 4
+- ANTH 425 Peoples and Cultures of Latin America Units: 4
+- COLT 250g Cultures of Latin America Units: 4
+- ECON 340 Economics of Less Developed Countries Units: 4
+- HIST 370 Colonial Latin America Units: 4
+- HIST 371 Culture in Diaspora: The Jews of Spain Units: 4
+- HIST 372 Modern Latin America Units: 4
+- HIST 374 History of Mexico Units: 4
+- HIST 451 The Mexican Revolution Units: 4
+- HIST 456 Race, Slavery, and the Making of the Atlantic World Units: 4
+- HIST 470 The Spanish Inquisition in the Early Modern Hispanic World Units: 4, 2 years
+- HIST 473 Colonial Latin America Seminar Units: 4
+- IR 364 The Political Economy of Latin American Development Units: 4
+- IR 365 Politics and Democracy in Latin America Units: 4
+- IR 408 Global Democratization Units: 4
+- IR 454 The International Political Economy of Development Units: 4
+- IR 465 Contemporary Issues in United States-Latin America Relations Units: 4
+- IR 466 Contemporary Issues in Latin American Politics Units: 4
+- PORT 250g Visions of Brazil Units: 4
+- POSC 350 Politics of Latin America Units: 4
+- POSC 430 Political Economy of Mexico Units: 4
+- POSC 431 Political Economy of Central America Units: 4
+- SPAN 320 Politics, Thought, Society Units: 4
+- SPAN 321 Sounds, Images, Objects Units: 4
+- SPAN 372 Modern and Contemporary Latin American Fiction Units: 4
+- SPAN 462 Literary Cartographies of Latin America and Spain, 1810–1898 Units: 4
+- SPAN 495 Seminar for Majors and Minors Units: 4
+
+---

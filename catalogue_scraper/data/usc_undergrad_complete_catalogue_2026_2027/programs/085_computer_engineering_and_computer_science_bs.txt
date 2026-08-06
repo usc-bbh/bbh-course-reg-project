@@ -1,0 +1,168 @@
+Program Name: Computer Engineering and Computer Science (BS)
+Credential: BS
+School or Academic Unit: Viterbi First-Year Academy
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32083
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32083&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32083
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:23Z
+Content SHA-256: 9cd3de5c4a56c50d53da5b185ab7adfcae1e7efe51add324133f0ace545bc832
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Computer Engineering and Computer Science (BS)
+
+---
+
+The Bachelor of Science in Computer Engineering and Computer Science provides students with the scientific and engineering skills and knowledge that enable them to design and implement computer systems that effectively and efficiently integrate developing hardware and software technologies. This degree is administered jointly by the Department of Computer Science and the Department of Electrical and Computer Engineering.
+
+A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken.
+
+The requirement for the degree is 128 units.
+
+A grade of C (2.0) or better is required for each of the core courses CSCI 102L , CSCI 103 , CSCI 170 , CSCI 104 and CSCI 201 .
+
+Courses with a grade of C- or below must be repeated; courses may only be retaken once.
+
+Departmental approval is required in order to retake a course.
+
+Students who do not satisfy the degree requirement after repeating a class will be disqualified from the program.
+
+## Composition/Writing Requirements (8 Units)
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4 [*]
+
+## General Education (24 Units)
+
+---
+
+- General Education Units: 24
+
+## Pre-Major Requirements (30 Units)
+
+---
+
+### Engineering (2 units)
+
+---
+
+- ENGR 102 Viterbi First-Year Academy Units: 2
+
+### Mathematics (16 units)
+
+---
+
+- MATH 125g Calculus I Units: 4 **
+-
+- MATH 126g Calculus II Units: 4 ** or
+- MATH 129 Calculus II for Engineers and Scientists Units: 4
+-
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or
+- EE 141L Applied Linear Algebra for Engineering Units: 4 or
+- MATH 235 Linear Algebra and Applications Units: 4
+-
+- MATH 226g Calculus III Units: 4 ** or
+- MATH 229 Calculus III for Engineers and Scientists Units: 4
+
+### Statistics and Probability (4 units)
+
+---
+
+- EE 364 Probability and Statistics for Engineers and Computer Scientists Units: 4
+
+### Physics (8 units)
+
+---
+
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 ** and
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+- or
+- PHYS 161Lg Advanced Principles of Physics I Units: 4 ** and
+- PHYS 162L Advanced Principles of Physics II Units: 4
+
+## Core (42 units)
+
+---
+
+- CSCI 102L Introduction to Programming Units: 2
+- CSCI 103L Object Oriented Programming Units: 4
+- CSCI 104L Data Structures Units: 4
+- CSCI 170 Discrete Methods in Computer Science Units: 4
+- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4
+- CSCI 350 Fundamentals of Operating Systems Units: 4
+- EE 109L Introduction to Embedded Systems Units: 4
+- EE 250L Distributed Systems for the Internet of Things Units: 4
+- EE 354L Digital Circuits Units: 4
+- EE 457 Computer Systems Organization Units: 4
+- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4
+- or
+- CSCI 467 Foundations of Machine Learning Units: 4
+- or
+- EE 460 Machine Learning for Engineers Units: 4
+
+## Computing Systems Track (20 units)
+
+---
+
+- CSCI 201 Principles of Software Development Units: 4
+- CSCI 353 Internetworking Units: 4
+- EE 451 Parallel and Distributed Computation Units: 4
+- EE 454L System-on-Chip Units: 4
+
+### Senior Design Project
+
+---
+
+Select one from the following:
+
+- CSCI 401 Capstone: Design and Construction of Large Software Systems Units: 4 or
+- EE 459Lx Embedded Systems Design Laboratory Units: 4 or
+- EE 496 Capstone Design Units: 4
+
+## Embedded Systems Track (20 units)
+
+---
+
+- EE 202L Linear Circuits Units: 4
+- EE 301 Linear Systems Units: 4
+- Choose one from:
+- EE 454L System-on-Chip Units: 4 or
+- EE 477L MOS VLSI Circuit Design Units: 4
+
+### Senior Design Project
+
+---
+
+Select one from:
+
+- EE 459Lx Embedded Systems Design Laboratory Units: 4 or
+- EE 496 Capstone Design Units: 4
+
+### Technical Electives
+
+---
+
+A minimum of 4 units of technical electives must be chosen from 4-unit 300 - or 400-level CSCI or EE courses.
+
+## Free Electives (4 units)
+
+---
+
+4 units of free electives are available to count toward the degree.
+
+## Total units: 128
+
+---
+
+[*]WRIT 340 Advanced Writing (Communication for Engineers) is strongly recommended for CECS majors.
+
+[**]Satisfies GE requirement.
+
+---

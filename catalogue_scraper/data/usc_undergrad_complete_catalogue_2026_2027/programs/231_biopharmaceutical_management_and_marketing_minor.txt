@@ -1,0 +1,60 @@
+Program Name: Biopharmaceutical Management and Marketing Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32932
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32932&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32932
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:50Z
+Content SHA-256: b5d8520f85de46871ef8537794393b1366aa4fce1c70c589042409d2f8cf8019
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Biopharmaceutical Management and Marketing Minor
+
+---
+
+The minor in Biopharmaceutical Management and Marketing studies the intersection of biomedical product discovery, development and marketing through examining contemporary issues related to the complex interactions of the biopharmaceutical industry from the perspective of science, pharmacy and healthcare commercialization.
+
+The minor in Biopharmaceutical Management and Marketing consists of a minimum of 24 units of course work from USC Mann and Marshall School of Business. Courses must be unique to this minor and may not overlap with the major, another minor or general education requirements of the undergraduate students.
+
+Only students with a declared major are eligible to apply. Students will select course work in consultation with an academic adviser.
+
+## Required Courses (8 units)
+
+---
+
+- BPSI 410 Biopharmaceutical Product Development and Brand Planning Units: 4
+- BUAD 307 Marketing Fundamentals Units: 4
+
+## Biopharmaceutical Sciences Electives (minimum 8 units)
+
+---
+
+- BPSI 406 Drug Safety Pharmacology and Toxicology Units: 4
+- BPSI 407 Pharmaceutical and Health Economics Units: 4
+- BPSI 414 Pharmacoethics Units: 2
+- BPSI 415 Science Talk Units: 2
+- RXRS 407 The Discovery, Development and Marketing of Medicines Units: 4
+- RXRS 413w Globalization of the Biomedical Industry Units: 4
+- RXRS 416 Medical Products: From Idea to Market Units: 4
+- RXRS 421 Management and Operation of Clinical Trials Units: 4
+
+## Marshall Electives (minimum 8 units)
+
+---
+
+- MKT 401 Marketing Research for Consumer Insights Units: 4
+- MKT 402 Introduction to Marketing Analytics Units: 4
+- MKT 405 Marketing Communication and Promotion Strategy Units: 4
+- MKT 410 Professional Selling Units: 4
+- MKT 425 Digital Marketing Fundamentals Units: 4
+- MKT 428 Social Media Strategy for Business Units: 4
+- MKT 445 New Product Development and Branding Units: 4
+- MKT 450 Consumer Behavior and Marketing Units: 4
+
+---

@@ -1,0 +1,58 @@
+Program Name: 3-Dimensional Design Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31582
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31582&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31582
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:58Z
+Content SHA-256: 07e51ce2d8f65147185190995862adbcf0efdbe3ed761682b02a277767f61ea3
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# 3-Dimensional Design Minor
+
+---
+
+A minor in 3-Dimensional Design offers USC students in all fields of studies the opportunity to gain knowledge and skills in 3-D thinking, imaging and production. Course work will focus on the process behind creating well-designed, expressive functional objects and spaces (both actual and virtual). The minor would be of particular interest to students wishing to further develop specializations such as package design, product design, and environmental design (way-finding, signage, display).
+
+## Required lower-division courses (10 units)
+
+---
+
+- DES 102 Design Fundamentals Units: 4
+- DES 213 Digital 3D Design Units: 2
+- DES 230 3D Design: Materials and Tools Units: 4
+
+## Upper-division courses (12 units) chosen from the following:
+
+---
+
+- ART 444 Modeling and Mold Making Units: 2
+- DES 302 Design III Units: 4
+- DES 303 Advanced Digital Design Units: 2
+- DES 313 Graphic Design in Fashion Units: 4
+- DES 323g Design Theory Units: 4
+- DES 330 3D Design: Objects and Space Units: 4
+- DES 332a Typography Units: 2
+- DES 332b Typography Units: 2
+- DES 402 Advanced Design Projects Units: 4
+
+## Total Minimum Units: 22
+
+---
+
+## Optional lower-division course(s) chosen from the following:
+
+---
+
+- ART 140 Sculpture I Units: 4
+- DES 202 Design II Units: 4
+- DES 203 Digital Design Fundamentals Units: 2
+- TAC 215L Introduction to 3D Modeling, Animation and Visual Effects Units: 2
+
+---

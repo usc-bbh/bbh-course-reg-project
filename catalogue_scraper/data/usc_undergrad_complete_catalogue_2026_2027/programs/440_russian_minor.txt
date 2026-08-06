@@ -1,0 +1,25 @@
+Program Name: Russian Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31925
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31925&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31925
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:55Z
+Content SHA-256: dd8173fc8175b1a6602e7466d3b5e06599873e146e2fd3d38ef4b1cc41550a4d
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Russian Minor
+
+---
+
+Lower-division requirements for the major (RUSS 120 , RUSS 150 , RUSS 220 and choice of RUSS 250 or RUSS 255 ) plus three elective courses chosen from the following (at least two of the areas must be represented): Russian language (RUSS 310 , RUSS 340 ); Russian literature and culture taught in Russian (SLL 321 , RUSS 465 ); Russian literature, art and culture taught in translation (SLL 110g , SLL 330gp , SLL 344g , SLL 345g , SLL 348g , SLL 378 ); and translation (MDA 305 ).
+
+Minimum units required: 28
+
+---

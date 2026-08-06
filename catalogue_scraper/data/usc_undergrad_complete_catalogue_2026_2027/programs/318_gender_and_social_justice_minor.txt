@@ -1,0 +1,58 @@
+Program Name: Gender and Social Justice Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32423
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32423&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32423
+Acquisition Mode: browser_rendered_dom
+Retrieved At: 2026-07-31T01:03:11Z
+Content SHA-256: b4e4ef29a6995582ba78a13a3f102c71dfe18e02eb6a8b18795d2dffe22918c5
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Gender and Social Justice Minor
+
+---
+
+The minor in gender and social justice provides students with the intellectual foundation and practical skills necessary to tackle inequality and injustice as they relate to gender and sexuality in today's increasingly global world. This minor prepares students for employment in nonprofit organizations, politics, government agencies, cultural reporting and socially conscious niches within the entertainment industry.
+
+Twenty units of course work are required to complete the minor in gender and social justice:
+
+## Required Course - Lower Division (4 Units)
+
+---
+
+Choose one:
+
+- SWMS 210gmw Social Analysis of Gender
+- SWMS 212gp Introduction to Gender and Sexuality: American Perspectives
+- SWMS 215gw Introduction to Gender and Sexuality: International Perspectives
+- SWMS 219gp Introduction to Feminist Theory
+- SWMS 221g Introduction to Queer Theory
+
+## Required Course - Upper Division (4 Units)
+
+---
+
+- SWMS 310 Gender and Social Justice
+
+## Electives - Upper Division (12 Units)
+
+---
+
+Choose three:
+
+- IR 316 Gender and Global Issues
+- POSC 381 Sex, Power, and Politics
+- SOCI 402 Human Trafficking
+- SWMS 308 Advanced Gender Theory
+- SWMS 311 Gender and Sexuality Studies: Internship
+- SWMS 336 Health, Gender and Ethnicity
+- SWMS 349 Women and the Law
+- SWMS 385m Men and Masculinity
+
+---

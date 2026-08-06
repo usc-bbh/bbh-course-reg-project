@@ -1,0 +1,71 @@
+Program Name: Music Production Minor
+Credential: 
+School or Academic Unit: Thornton School of Music to assure that the student has sufficient musical backg
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32384
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32384&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32384
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:04Z
+Content SHA-256: 30f59e8a70951c4b989763b162c7f115aad12fcdaae62fe8d58e51144c070f37
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Music Production Minor
+
+---
+
+A successful career in the 21st century music industry often requires that musicians be the songwriter, performer, producer and/or audio engineer on any given project. The minor in Music Production allows students to develop the creative, collaborative and technical skills required to compose, arrange and produce for contemporary music projects.
+
+## Prerequisite
+
+---
+
+Acceptance into the program might require a personal interview by the Thornton School of Music to assure that the student has sufficient musical background and skill.
+
+Students admitted to this minor will be expected to have a minimum GPA of 2.0 and to maintain that average with no grade lower than a “C” for all courses taken in the minor.
+
+## Required Courses
+
+---
+
+- MTEC 245 Introduction to MIDI Sequencing Units: 1
+- MTEC 246 Introduction to Audio Recording and Editing Units: 1
+- MTEC 277x Introduction to Music Technology Units: 4 [*]
+- MUCO 130ax Basics of Music Theory Units: 3
+- MUSC 255 Songwriting I Units: 2
+
+## Select 8 units from the following:
+
+---
+
+- MTEC 378 Introduction to Mixing and Mastering Units: 2
+- MTEC 443 Desktop Music Production Units: 2
+- MTEC 444 Non-Linear MIDI Sequencing Units: 2
+- MTEC 445 Advanced Desktop Music Production Units: 2
+- MTEC 446a Computer Assisted Recording and Editing Units: 2
+- MTEC 446b Computer Assisted Recording and Editing Units: 2
+- MTEC 474a Electronic Synthesizer Techniques Units: 2, 3, 4 (2 units total)
+- MTEC 474b Electronic Synthesizer Techniques Units: 2, 3, 4 (2 units total)
+- MTEC 478 Advanced Multichannel Remix Units: 2
+- MUSC 355 Songwriting II Units: 2
+- MUCO 338x Elementary Orchestration Units: 2
+- SCOR 403 Introduction to Scoring Movies and Television Units: 2 [**]
+- SCOR 405 Introduction to Scoring Video Games Units: 2 [**]
+
+## Note:
+
+---
+
+*Music Industry majors can substitute MTEC 175 and MTEC 176 for MTEC 277 .
+
+**Courses have prerequisites
+
+## Total Units: 19
+
+---
+
+---

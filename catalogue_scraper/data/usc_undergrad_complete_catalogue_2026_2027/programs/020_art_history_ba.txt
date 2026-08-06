@@ -1,0 +1,140 @@
+Program Name: Art History (BA)
+Credential: BA
+School or Academic Unit: USC Dornsife College of Letters, Arts and Sciences
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31710
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31710&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31710
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:40Z
+Content SHA-256: 7b5ebb46023839dd5187eb77472811b9395dadebc8a0cee07b653ff16e3aab20
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Art History (BA)
+
+---
+
+In art history, undergraduates are provided with a sound, broad foundation in art from a variety of offerings. On this basis, exploration of the art of many eras and cultures proceeds in a program designed to develop an awareness of the integral role played by art as an expression of the human condition and society throughout history. A grade of C or higher is required in departmental courses for all undergraduate majors.
+
+#### Curriculum Requirements
+
+The Bachelor of Arts in Art History requires 128 units.
+
+#### General Education and Diversity Requirements
+
+Candidates for the Bachelor of Arts in Art History must complete the general education and diversity requirements of the USC Dornsife College of Letters, Arts and Sciences.
+
+#### Major Requirements
+
+The major requires 40 units as follows.
+
+## Lower-Division Requirements (8 Units)
+
+---
+
+- AHIS 120gp Foundations of Western Art: Prehistoric to Renaissance Units: 4 or
+- AHIS 121gp Foundations of Western Art: Renaissance to Contemporary Units: 4
+
+### Choose one course from:
+
+---
+
+- AHIS 125gp Arts of Asia I: Antiquity to 1300 Units: 4
+- AHIS 126g Arts of Asia II: 1300 to the Present Units: 4
+- AHIS 127g Arts of the Ancient Americas Units: 4
+- AHIS 128gp The Arts and Society in Latin America, Colonial to Contemporary Units: 4
+
+## Total units: 8
+
+---
+
+## Additional Requirements (32 units)
+
+---
+
+- AHIS 494 Undergraduate Proseminar in Art History Units: 4 is required
+
+### Seven additional ​courses
+
+---
+
+Seven additional ​courses to include five courses with a minimum of one in each of four out of the following five areas of study, only one of which may be at the 200 level.
+
+#### Greek and Roman art and archaeology
+
+---
+
+- AHIS 201g Digging into the Past Units: 4
+- AHIS 321 Greek Art and Archaeology Units: 4
+- AHIS 322 Roman Art and Archaeology Units: 4
+
+#### Medieval art
+
+---
+
+- AHIS 220g Medieval Visual Culture Units: 4
+- AHIS 330 Medieval Aesthetics Units: 4
+- AHIS 331 Art in the Time of Chaucer Units: 4
+
+#### Renaissance and Baroque art
+
+---
+
+- AHIS 230 Art and Culture in Early Modern Europe Units: 4
+- AHIS 304gm Art, Power and Identity in Renaissance Italy Units: 4
+- AHIS 342 Northern Renaissance Art Units: 4
+- AHIS 343 Renaissance Art Units: 4
+- AHIS 344 Baroque Art Units: 4
+- AHIS 345g Northern Baroque Art Units: 4
+
+#### Modern and contemporary art
+
+---
+
+- AHIS 215g Studies in Architecture and Urbanism Units: 4
+- AHIS 250gm Art, Modernity and Difference Units: 4
+- AHIS 255g Culture Wars: Art and Social Conflict in the Modern World Units: 4
+- AHIS 270 L.A. Now: Contemporary Art in Los Angeles Units: 4
+- AHIS 361g British Modernism, 1780-1918 Units: 4
+- AHIS 363m Contemporary Art and the Culture Wars Units: 4
+- AHIS 364 Myths, Arts, Realities: Visual Culture in California, 1849 to the Present Units: 4
+- AHIS 365m African American Art Units: 4
+- AHIS 366g Picturing Democracy: American Art and Visual Culture, 1750-1900 Units: 4
+- AHIS 367g Early American Modernism: American Art and Visual Culture, 1876-1939 Units: 4
+- AHIS 368 Modern Art I: 1700–1850 Units: 4
+- AHIS 369 Modern Art II: 1851–1940 Units: 4
+- AHIS 370g Modern Art III: 1940 to the Present Units: 4
+- AHIS 373g History and Theory of Photography Units: 4
+
+#### Non-​European traditions
+
+---
+
+- AHIS 282 Korean Art Units: 4
+- AHIS 319 Mesoamerican Art and Culture Units: 4
+- AHIS 376 Introduction to African Art Units: 4
+- AHIS 381g Visual Cultures of Asia Units: 4
+- AHIS 384 Early Chinese Art Units: 4
+- AHIS 385 Later Chinese Art Units: 4
+- AHIS 386 Early Japanese Art Units: 4
+- AHIS 387 Later Japanese Art Units: 4
+- AHIS 388g Islam in the Making: An Art and Architectural History Units: 4
+- and two that must be at the 400-level
+- AHIS 400x Undergraduate Apprenticeship Units: 2 counts for elective credit only and may not be applied to the major.
+- AHIS 494 Undergraduate Proseminar in Art History Units: 4 (the capstone course) may be taken in either the junior or senior year.
+
+### Note:
+
+---
+
+The following courses require the written permission of a faculty adviser and the Director of Undergraduate Studies. Directed Research is limited to fulfilling 4 units of a student’s major requirements.
+
+- AHIS 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- AHIS 495a Undergraduate Honors Thesis Units: 2
+- AHIS 495b Undergraduate Honors Thesis Units: 2
+
+---

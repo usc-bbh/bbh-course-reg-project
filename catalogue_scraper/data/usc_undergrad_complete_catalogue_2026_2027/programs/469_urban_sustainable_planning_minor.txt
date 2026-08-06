@@ -1,0 +1,44 @@
+Program Name: Urban Sustainable Planning Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32419
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32419&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32419
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:21Z
+Content SHA-256: 1ca8613aae79050f5b9d5614200afd83d197361713aef339ea12e0ec6e8545ae
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Urban Sustainable Planning Minor
+
+---
+
+The 20-unit minor in urban sustainable planning focuses on the application of public policy, urban planning and public management to the analysis and solution of urban problems. It draws upon the interdisciplinary faculty and programs of the Price School of Public Policy and includes foundational courses that introduce students to the nature of urban phenomena and the analysis and solution of urban problems. The minor also introduces students to the professional and academic fields of either urban planning and development or public policy and public management. In addition, based on their specific interests, students have the opportunity to explore in greater depth three areas and approaches of urban problem-solving. This minor is appropriate for students interested in expanding their understanding of the fields of urban planning and public policy and management as potential professional careers as well as increasing their comprehension of the analysis and solution of urban problems.
+
+## Required Core Courses (12 units)
+
+---
+
+- PPD 245g The Urban Context Units: 4
+- PPD 427L Geographic Information Systems and Planning Applications Units: 4
+- RED 425 Designing Livable Communities Units: 4
+
+## Electives (8 units)
+
+---
+
+- PPD 227 Planning for the Future City Units: 4
+- PPD 358 Urban and Regional Economics Units: 4
+- PPD 360 Urban Transportation Planning and Policy Units: 4
+- PPD 361 Sustainable Communities, Policy and Planning Units: 4
+- PPD 414 Community Health Policy and Planning Units: 4
+- PPD 438 Local Economic Development Units: 4
+- PPD 439 Housing and Community Development Units: 4
+- RED 417 History of Planning and Development Units: 4
+
+---

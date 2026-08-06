@@ -1,0 +1,27 @@
+Program Name: English (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31788
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31788&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31788
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:07Z
+Content SHA-256: 2d83f07d6c64570c8f8ed25e3578866439acbf111f7decc6a8ce0d9d23fed30b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# English (BA)
+
+---
+
+All English majors must take an introductory course (ENGL 240 ), senior seminar (ENGL 491 ) and complete a minimum of 40 units in the major, of which 24 units must be upper-division. Students should take ENGL 240 before enrolling in upper-division literature courses or creative writing workshops.
+
+In addition to ENGL 240 , majors emphasizing English literature must take: one lower-division course and one upper-division course in early literatures; one lower-division and one upper-division course in later literatures; two courses in interpretive lenses (categories include race, gender, and/or sexuality, and genre and media studies); and two upper-division electives with at least one in the 400–499 range.
+
+In addition to ENGL 240 , majors emphasizing creative writing must take: one lower-division course in early literatures; one lower-division course in later literatures; one course in interpretive lenses; two introductory creative writing workshops in poetry and prose; one creative writing workshop at the 400-level; one course in contemporary/modern literature; and one upper-division elective in the 400–499 range.
+
+---

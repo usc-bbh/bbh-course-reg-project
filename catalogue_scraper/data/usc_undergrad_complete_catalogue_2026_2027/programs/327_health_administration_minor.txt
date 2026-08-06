@@ -1,0 +1,46 @@
+Program Name: Health Administration Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32307
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32307&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32307
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:06:48Z
+Content SHA-256: 4b156ed3cc60449bb4d772857ef60cc7a777052408d0627c961673ba1a771fe6
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Health Administration Minor
+
+---
+
+This 16-unit minor in health administration provides students with a background in administration and management issues in the field of health care and the skills necessary to pursue health-related management opportunities in the for-profit, nonprofit and governmental sectors.
+
+## Required Courses (12 Units)
+
+---
+
+- PPD 202 Health and Health Care in America Today Units: 2 and
+- PPD 205 Introduction to Health Policy and Law Units: 2
+- or
+- PPD 330 Introduction to Health Care Systems Units: 4
+-
+- PPD 325 Fundamentals of Health Policy and Management Units: 4
+- PPD 413 Management of Health Care Organizations Units: 4
+
+## Electives (4 units)
+
+---
+
+- ACAD 260 Introduction to Healthcare Innovation Units: 4
+- MEDS 220 Healthcare Foundations: Core Concepts and Terminology Units: 2
+- MEDS 405 Health Care Systems: A Doctor’s Perspective Units: 2
+- PPD 320 Organizational Behavior for Public Leadership Units: 4
+- PPD 407 Financial Management of Public and Nonprofit Organizations Units: 4
+- PPD 414 Community Health Policy and Planning Units: 4
+
+---

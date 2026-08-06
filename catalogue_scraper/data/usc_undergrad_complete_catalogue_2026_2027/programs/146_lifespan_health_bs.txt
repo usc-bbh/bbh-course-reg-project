@@ -1,0 +1,74 @@
+Program Name: Lifespan Health (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32145
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32145&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32145
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:36Z
+Content SHA-256: 2014bcf244ea841f4c72c95a99329977bd183782ec6db4df5c7c3d25d5274fbf
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Lifespan Health (BS)
+
+---
+
+The Bachelor of Science in Lifespan Health prepares students for admission to a graduate or professional school with an emphasis on the biomedical aspects of health including disease prevention, detection and treatment. This program is designed for students wishing to pursue graduate studies in a health field such as medicine, pharmacy, occupational/physical therapy, psychology and other related fields.
+
+Admission to this program is granted through USC’s admission process, described in the admission section of this catalogue. The same foreign language or programming skills requirement for the Bachelor of Science in Human Development and Aging default Social Science track (12 units total) is required as well as the USC General Education program.
+
+Honors Program
+USC Davis offers an honors program to outstanding students pursuing the bachelor’s degree. The program includes mentored research, training in research methods and statistics in aging, and the completion of an honors thesis.
+
+Honors students complete GERO 497a , GERO 497b , and GERO 497c for a total of 6 units. They also complete GERO 593 and must earn a minimum grade of B.
+
+Honors Program Requirements (10 units):
+GERO 497a , GERO 497b , GERO 497c , and GERO 593 .
+All 10 units may be applied toward the required upper-division gerontology elective units.
+
+Students begin in the fall or spring of junior year with 2 units of GERO 497a as they start developing their honors thesis. In the second semester, they take 2 units of GERO 497b as they finalize their research design and begin the project. Students complete GERO 593 (minimum grade of B) during the first or second semester in the program. In the third semester, students take 2–4 units of GERO 497c with the goal of completing the research and writing the thesis.
+
+Eligibility: Students must have a minimum cumulative GPA of 3.3 and a minimum 3.5 GPA in GERO courses. To graduate with Honors, students must also finish the program with at least a 3.3 cumulative GPA and a 3.5 GERO GPA.
+
+## Gerontology Required Courses (28 units)
+
+---
+
+- GERO 200 Gerontology: The Science of Adult Development Units: 4
+- GERO 310 Physiology of Aging Units: 4
+- GERO 320g Psychology of Adult Development Units: 4
+- GERO 416 Health Issues in Adulthood Units: 4
+- GERO 483 Global Health and Aging Units: 4
+- GERO 492 Senior Seminar Units: 4
+- GERO 495 Practicum in Geriatric Care Units: 4
+
+## Choose Three from the Following Five Courses (12 units)
+
+---
+
+- GERO 414 Neurobiology of Aging Units: 4
+- GERO 437 Social and Psychological Aspects of Death and Dying Units: 2 or 4 *
+- GERO 440 Biodemography of Aging Units: 4
+- GERO 470 Aging and Business Units: 4
+- GERO 475 Ethical Issues in Geriatric Health Care Units: 4
+
+## Gerontology Electives (12 units)
+
+---
+
+## Electives (32 units)
+
+---
+
+## Notes:
+
+---
+
+[*]GERO 437 must be taken for 4 units of credit
+
+---

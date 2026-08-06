@@ -1,0 +1,23 @@
+Program Name: Social Sciences, with an Emphasis in Economics (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31778
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31778&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31778
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:13Z
+Content SHA-256: 026b539c5c8ce54245279c8ccc24aa1c3df8588bdaddb66c7225bc3b86368317
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Social Sciences, with an Emphasis in Economics (BA)
+
+---
+
+Students are required to take ECON 203 , ECON 205 , ECON 303 , ECON 305 and three economics elective courses numbered 300 or 400. A grade of C (2.0) or better is required for each of the core courses ECON 303 and ECON 305 . MATH 118gx or MATH 125 is required and an additional 12 units of upper-division courses from departments in the social sciences (anthropology, geography, international relations, history, political science, psychology, sociology).
+
+---

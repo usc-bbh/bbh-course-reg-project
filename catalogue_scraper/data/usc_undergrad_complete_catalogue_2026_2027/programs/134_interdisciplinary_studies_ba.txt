@@ -1,0 +1,39 @@
+Program Name: Interdisciplinary Studies (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32737
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32737&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32737
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:23:02Z
+Content SHA-256: d36a9a92e48bc3ff2a1519a3b1501b583fc658918442907ff4cb6138eb67da39
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Interdisciplinary Studies (BA)
+
+---
+
+#### Interdisciplinary Major
+
+The interdisciplinary major allows students to create an individual, original major. It is a flexible option available when a combination of existing majors and academic minors does not adequately fulfill a student’s educational goals. With close advisement, students can build their own programs of study.
+
+The interdisciplinary major is an intensive research program for students with a focused interest in a topic that requires study from more than one disciplinary perspective. Interdisciplinary majors are usually self-motivated students with good writing skills and an intellectual passion for a particular area of inquiry. Course work is selected to lead to a thesis project integrating the areas of research comprising the interdisciplinary major.
+
+#### Admission
+
+Admission to the interdisciplinary major is by application. Applications, which may be obtained from the program office, are considered by a special admissions committee. Interested students must have a GPA of 3.0 (A = 4.0) or above; those with less than a 3.3 are the exception.
+
+#### Program Requirements
+
+Students in the program must meet all graduation requirements of USC Dornsife College. When admitted, students establish an academic “contract,” which outlines each student’s course of study through graduation. The contract includes a minimum of nine (4-unit) upper-division courses, distributed in at least two fields. The primary focus of the major should be in the USC Dornsife College of Letters, Arts and Sciences. These areas of concentration must then be combined in a senior thesis, written under the supervision of the student’s Guidance Committee.
+
+#### Restrictions
+
+Course prerequisites cannot be waived; admission to courses restricted to majors is subject to availability and direct negotiations; admission to departments and/or schools that have their own admission requirements must be processed separately.
+
+---

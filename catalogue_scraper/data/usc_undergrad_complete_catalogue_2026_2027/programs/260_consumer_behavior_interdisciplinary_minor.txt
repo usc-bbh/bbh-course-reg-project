@@ -1,0 +1,23 @@
+Program Name: Consumer Behavior Interdisciplinary Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31912
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31912&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31912
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:26:34Z
+Content SHA-256: c7e71d6f7eebee7406e904bd82d01c0330ba549a77cf1b7231fba6cd5e0f6d69
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Consumer Behavior Interdisciplinary Minor
+
+---
+
+This interdisciplinary minor explores consumer thinking from the perspective of psychology, marketing, economics, anthropology, sociology and other departments interested in popular culture. Why do people form the attitudes and impressions they do? How do individual factors, culture, mass media, economics and social trends influence people’s decisions? See USC Marshall School of Business .
+
+---

@@ -1,0 +1,75 @@
+Program Name: Geobiology Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31761
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31761&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31761
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:06:30Z
+Content SHA-256: 34c1e430207d9d19518f1d678830802dd356725220428ad395e0a833fe3d884b
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Geobiology Minor
+
+---
+
+The minor in geobiology is designed to allow students majoring in biology to incorporate interdisciplinary courses in earth sciences into their program or to allow students majoring in geology to incorporate interdisciplinary courses in biology into their program. This field represents the intersection of what have been traditional disciplines and is valuable for understanding evolution, environmental contaminant behavior and ocean sciences. Students with majors offered by biological or earth or geological sciences will be able to complete this minor with 16 to 24 units of course work beyond their major requirements. Other students may need to complete up to 48 units of course work beyond their major requirements. For example, students majoring in biological sciences might take an introductory GEOL course; GEOL 315L ; GEOL 433L or BISC 483 ; and two additional upper-division elective courses from the list below. Students majoring in earth or geological sciences must take BISC 120Lg and BISC 220Lg ; GEOL 433L or BISC 483 ; and three additional elective courses. Courses selected must include at least 16 units unique to the minor and at least 16 units in a department outside the major.
+
+## Required Courses
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+- CHEM 105aLg General Chemistry Units: 4
+- CHEM 105bL General Chemistry Units: 4
+- GEOL 315L Minerals and Earth Systems Units: 4
+
+## Elective Courses
+
+---
+
+- BISC 483 Geobiology and Astrobiology Units: 4 * or
+- GEOL 433L Paleontology and Evolution in Deep Time Units: 4
+-
+- Three upper-division BISC courses ** Units: 12
+
+### One introductory GEOL course:
+
+---
+
+- GEOL 105Lg Planet Earth Units: 4
+- GEOL 107Lg Oceanography Units: 4
+- GEOL 108Lg Natural Disasters and Their Global Impact Units: 4
+- GEOL 125Lg Earth History: A Planet and Its Evolution Units: 4
+- GEOL 130Lg The Nature of Scientific Inquiry Units: 4
+- GEOL 150Lg Climate Change Units: 4
+- GEOL 240Lg Earthquakes Units: 4
+
+### Two courses from the following (8 units):
+
+---
+
+- BISC 474L Ecosystem Function and Earth Systems Units: 4 *
+- BISC 483 Geobiology and Astrobiology Units: 4 *
+- GEOL 320L Surficial Processes and Stratigraphic Systems Units: 4
+- GEOL 412 Oceans, Climate, and the Environment Units: 4
+- GEOL 433L Paleontology and Evolution in Deep Time Units: 4
+- GEOL 450L Geosystems Units: 4
+- GEOL 460L Geochemistry Units: 4
+- GEOL 470L Environmental Hydrogeology Units: 4
+
+## Note:
+
+---
+
+*Indicates BISC course that is also cross-listed under GEOL
+
+**Must carry credit for a biology major
+
+---

@@ -1,0 +1,86 @@
+Program Name: Middle East Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31868
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31868&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31868
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:54Z
+Content SHA-256: 1e97e498608233799e31202e38493ea680b8f16afe339e324711d7ef1d295fc3
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Middle East Studies Minor
+
+---
+
+This interdisciplinary minor offers students interested in exploring the richness and complexity of the Middle East, broadly defined as extending from Morocco through Iran, a framework for developing a basic but solid understanding of the region. Students may select courses that provide a broad introduction across disciplines, or they may choose courses that address a particular historical period or theme.
+
+Twenty units (five courses) are required. All students must take MDES 201w and MDES 301g . To complete the minor a student must also take three upper-division courses from the list below. Students who are also studying a language may substitute ARAB 252 , HEBR 315 or IRAN 250 for one of the three upper-division courses. However there is no language requirement for the minor.
+
+A special accommodation is in place for majors in the School of International Relations who minor in Middle East Studies. Courses that are cross-listed between MDES and IR can satisfy the four unique courses (at least 16 units) that must be completed outside of their major department for this interdisciplinary minor. Students will still be required, however, to complete at least four courses (16 units) that are unique to the minor (not required to meet major course requirements).
+
+## Required Course - Lower Division
+
+---
+
+All students must take the following course.
+
+- MDES 201w The Middle East Units: 4
+
+## Required Course - Upper Division
+
+---
+
+- MDES 301g The Global Middle East Units: 4
+
+## Elective Courses
+
+---
+
+Three courses from the list below, only two of which may be language courses.
+
+- ARAB 252 Arabic IV Units: 4
+- ARAB 300 Introduction to Translation Units: 4
+- ARAB 322 Advanced Arabic I Units: 4
+- ARAB 333 Colloquial Arabic: Regional Dialects Units: 4
+- ARAB 334 Media Arabic Units: 4
+- ARAB 352 Advanced Arabic II Units: 4
+- CLAS 349gp Ancient Empires Units: 4
+- CLAS 371 From Alexander to Cleopatra: The Mediterranean in an Age of Expansion Units: 4
+- CLAS 378 Ptolemaic Egypt Units: 4
+- CLAS 420 Science and Empire from Baghdad to Byzantium Units: 4
+- ECON 342 Economic Development of the Middle East Units: 4
+- HEBR 315 Modern Hebrew Language (Hebrew IV) Units: 4
+- HIST 480 Seminar in Middle East History Units: 4
+- IR 362 The International Relations of the Contemporary Middle East Units: 4
+- IR 363 Middle East Political Economy Units: 4
+- IR 464 US-Middle East Foreign Policy Issues Units: 4
+- IRAN 250 Persian IV Units: 4
+- IRAN 320 Advanced Persian I Units: 4
+- IRAN 325 Business Persian Units: 4
+- IRAN 350 Advanced Persian II Units: 4
+- MDES 312 Premodern Iran Units: 4
+- MDES 313p Modern Iran Units: 4
+- MDES 314p Politics, Ideologies, Cultures of the Global South Units: 4
+- MDES 316p The Great Muslim Empires of the Near East and India Units: 4
+- MDES 320g Arabic Literature: Classical to Contemporary Units: 4
+- MDES 324 Persian Literature Units: 4
+- MDES 325g Politics of Film and Literature in Modern Iran Units: 4
+- MDES 335 Nation and State in Modern Turkey Units: 4
+- MDES 340g The United States and the Middle East Units: 4
+- MDES 342g Arab Intellectuals in Question Units: 4
+- MDES 343g Modern Arab Culture and Literature Units: 4
+- MDES 345p Power and Authority in the Middle East Units: 4
+- MDES 375 Politics and Society in the Contemporary Middle East Units: 4
+- MDES 401 Environment and Politics in the Global South Units: 4
+- MDES 403 Infrastructures of Dominance: Technology, Development and the Struggle for Power Units: 4
+- MDES 441w Cities of the Middle East Units: 4
+- MDES 475 Seminar in Middle East Studies Units: 4
+- POSC 351 Middle East Politics Units: 4
+
+---

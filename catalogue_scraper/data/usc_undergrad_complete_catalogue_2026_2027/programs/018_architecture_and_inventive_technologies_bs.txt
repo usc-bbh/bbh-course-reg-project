@@ -1,0 +1,77 @@
+Program Name: Architecture and Inventive Technologies (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32770
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32770&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32770
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:35Z
+Content SHA-256: 0db4f353ec8740ee4c579c9ec1d89bd02363d2ec133b912a158e706f8d21a9d3
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Architecture and Inventive Technologies (BS)
+
+---
+
+Technology and innovation are becoming increasingly important in the field of architecture and new technological developments have the potential to enable a built environment that is much more sustainable, socially responsible and resilient than it is today. Rather than training students to follow the traditional model of client-based professional services, students will learn to be leaders who develop innovative architectural products, an architecture-related field that is underrepresented but growing. This program will look at architecture and the architectural market through a lens of entrepreneurship as students develop critical thinking skills to address the wicked problems of the 21st century, such as climate change, social justice, health and wellness, and our increasingly virtual world. Students will be taught to think about the problems related to architecture and the built environment in more product-oriented or service-related (i.e. construction/assembly methods, manufacturing, delivery, life-cycle, digital apps) ways.
+
+## Required Courses
+
+---
+
+The degree requires a total of 128 units, including 74 units of core seminars, workshops and major electives; 48 units from the university’s General Education and Writing programs and 6 units of free electives.
+
+- Lower Division (43 units)
+- ARCH 102a Architectural Design I Units: 4
+- ARCH 102bL Architectural Design I Units: 4
+- ARCH 104 History and Theory of Architecture, Technology, Innovation Units: 3
+- ARCH 105aL Fundamentals of Design Communication Units: 2
+- ARCH 105bL Fundamentals of Design Communication Units: 2
+- ARCH 108 Idea to Reality Units: 3
+- ARCH 211 Materials and Methods of Building Construction Units: 3
+- ARCH 218 Resilient Design Units: 3
+- ARCH 219 Design at the Scale of the Human Body Workshop Units: 4
+- ARCH 228 Social Environments Units: 3
+- ARCH 229 Shelter Design Workshop Units: 4
+- MATH 125g Calculus I Units: 4
+- PHYS 125Lg Physics for Architects Units: 4
+- Upper Division (30 units)
+- ARCH 318 Experimental Futures Units: 3
+- ARCH 319 Architectural Product Design Workshop Units: 4
+- ARCH 328 Entrepreneurial Practices for Architecture Units: 3
+- ARCH 329 Professional Practicum Workshop Units: 4
+- ARCH 431 Nonconventional Materials for the Built Environment Units: 3
+- ARCH 470a Architectural Studies Capstone Units: 1
+- ARCH 470b Architectural Studies Capstone Units: 3
+- ARCH 521 Health and the Designed Environment: Landscape, Place, and Architecture Units: 4
+- ARCH 581 Techniques in Digital Fabrication Units: 3
+- ARCH 588 Physical Computing: Linking Architectural Computing with the Physical World Units: 3
+
+## Electives
+
+---
+
+Nine units of electives are required, to be chosen from the School of Architecture; Iovine and Young Academy, Dornsife College of Letters, Arts and Science, Roski School of Art and Design, or the Price School of Public Policy. Elective classes must be approved by the School of Architecture Academic Adviser.
+
+## Free Electives
+
+---
+
+Six units of free electives are required, which may be chosen from across the university, excluding MATH 125g , PHYS 125Lg or PHYS 135aLg , PHYS 135bL .
+
+## General Education Requirements
+
+---
+
+The university’s general education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. See the General Education page for more information.
+
+For Category E: Physical Sciences, students must select PHYS 125Lg . The PHYS 125Lg requirement may also be fulfilled by PHYS 135aLg , PHYS 135bL ; 4 units will be applied toward the BS AIT and 4 will count as electives.
+
+For Category F: Quantitative Reasoning, students must select MATH 125g .
+
+---

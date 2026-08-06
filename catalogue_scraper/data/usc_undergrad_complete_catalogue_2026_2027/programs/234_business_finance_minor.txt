@@ -1,0 +1,101 @@
+Program Name: Business Finance Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31599
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31599&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31599
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:58Z
+Content SHA-256: e6fec9ffc2657d48861fdb445accaa2c28819c02e4ddfceccc47234aefbcb0f0
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Business Finance Minor
+
+---
+
+The minor in business finance offers students an opportunity to expand their career opportunities by gaining a background in financial concepts, valuation and financial strategy. It provides students with the necessary tools to measure benefits and related costs that will enable them to make better business decisions. Problem-solving and quantitative skills that are widely used in business will enable students to work on special projects or management teams — opportunities that might not have been available had it not been for this minor. Eighteen units are required.
+
+To enroll students must have completed a minimum of 32 units of college-level course work and have a minimum overall GPA of at least 2.75. Completion of this minor requires a minimum of 18 units.
+
+## Required Courses
+
+---
+
+### Economics *
+
+---
+
+Choose one of the following six options (units 2-8):
+
+- BUAD 200x Economic Foundations for Business Units: 2
+- or
+-
+- BUAD 201x Introduction to Business for Non-Majors Units: 4
+- or
+-
+- BUAD 351 Economic Analysis for Business Decisions Units: 4 ** and
+- BUAD 352 Macroeconomic Analysis for Business Decisions Units: 4 **
+- or
+-
+- ECON 203g Principles of Microeconomics Units: 4 and
+- ECON 205g Principles of Macroeconomics Units: 4
+- or
+-
+- ECON 303 Intermediate Microeconomic Theory Units: 4 ** and
+- ECON 305 Intermediate Macroeconomic Theory Units: 4 **
+- or
+-
+- ECON 351x Microeconomics for Business Units: 4 ** and
+- ECON 352x Macroeconomics for Business Units: 4 **
+
+### Accounting
+
+---
+
+- ACCT 410x Foundations of Accounting Units: 4 or
+- BUAD 280 Introduction to Financial Accounting Units: 3 or
+- BUAD 305 Abridged Core Concepts of Accounting Information Units: 4
+
+### Finance
+
+---
+
+- BUAD 306 Business Finance Units: 4 or
+- BUAD 308 Advanced Business Finance Units: 4
+
+## Electives **
+
+---
+
+Choose two from the list below:
+
+- FBE 405 Behavioral Finance Units: 4
+- FBE 421 Financial Analysis and Valuation Units: 4
+- FBE 423 Introduction to Venture Capital and Private Equity Units: 4
+- FBE 424 Financial Institutions and Capital Markets Units: 4
+- FBE 432 Corporate Financial Strategy Units: 4
+- FBE 435 Applied Finance in Fixed Income Securities Units: 4
+- FBE 436 Financial Management of Multinational Corporations Units: 4
+- FBE 437 Entrepreneurial Finance: Financial Management for Developing Firms Units: 4
+- FBE 440 Trading and Exchanges Units: 4
+- FBE 441 Investments Units: 4
+- FBE 458 Law of Forming, Financing and Managing Businesses Units: 4
+- FBE 459 Financial Derivatives Units: 4
+- FBE 460 Mergers, Acquisitions and Restructuring Units: 4
+- FBE 462 International Trade, Finance and Commercial Policy Units: 4
+
+## Notes:
+
+---
+
+[*]Students who have earned scores of 4 or 5 on both the AP Microeconomics and the AP Macroeconomics exams will be waived out of the first (Economics) requirement (BUAD 200 , BUAD 201 , 351/352 or ECON).
+[**]Prerequisite or corequisite required. Almost all FBE courses require a prerequisite.
+
+Return to: USC Marshall School of Business
+
+---

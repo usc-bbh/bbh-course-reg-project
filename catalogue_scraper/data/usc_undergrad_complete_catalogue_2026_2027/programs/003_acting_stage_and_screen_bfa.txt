@@ -1,0 +1,120 @@
+Program Name: Acting, Stage and Screen (BFA)
+Credential: BFA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32769
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32769&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32769
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:03Z
+Content SHA-256: a2c067512edb523784a098da640eb430d86e624adcbf074ea2df322a1113a0f1
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Acting, Stage and Screen (BFA)
+
+---
+
+The BFA degree is a four-year, 132-unit, professional training program offering a vital and contemporary approach to the study of acting. The program comprises an integrated sequence of training in acting, voice, movement, camera, the web, voice-over, games, and includes multiple opportunities for performance on stage, and screen. The curriculum is based on the belief that an actor’s emotional, imaginative, vocal and physical resources must be developed and prepared with maximum experience and flexibility for a fast-changing and challenging modern workplace. This training is combined with course work in critical and historical studies and technical theatre. An audition is required for admission. The BFA in Acting for Stage and Screen program is unique and highly competitive.
+
+All BFA Theatre majors are required to earn a grade point average of 2.75 (A = 4.0) in their theatre courses each semester. BFA students who fail to earn a GPA of 2.75 in their theatre courses will be placed on probation the following semester. Students who remain on probation for a consecutive second semester will be disqualified from the BFA program.
+
+A student disqualified from continued study in the BFA program for failing to meet the GPA standards outlined above will be given the option of transferring into the BA program.
+
+### General Education Requirements
+
+The university’s General Education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above.
+
+Note that courses within the major will also satisfy certain Core Literacy requirements. Please work with your major adviser to determine those courses.
+
+## Required Acting Courses for Emphasis (76 units)
+
+---
+
+- THTR 115a Movement I Units: 4
+- THTR 120aL Acting I Units: 4
+- THTR 120b Acting I Units: 4
+- THTR 130 Introduction to Theatrical Production Units: 2
+- THTR 140a Voice I Units: 2
+- THTR 214a The Actor’s Instrument: Voice and Body Units: 4
+- THTR 214b The Actor’s Instrument: Voice and Body Units: 4
+- THTR 220a Intermediate Acting I Units: 4
+- THTR 220b Intermediate Acting I Units: 4
+- THTR 320a Intermediate Acting II Units: 4
+- THTR 320b Intermediate Acting II Units: 4
+- THTR 339a The Actor’s Instrument: Voice and Body II Units: 4
+- THTR 339b The Actor’s Instrument: Voice and Body II Units: 4
+- THTR 397 Theatre Practicum Units: 1, 2, 3, 4
+- (6.0 units required)
+- THTR 411 The Business of Acting Units: 4
+- THTR 420 Senior Project Units: 4
+- THTR 427 Audition Technique for Film, Television and New Media Units: 2
+- THTR 457 Film Acting Practicum Units: 4.0
+- THTR 471 Industry Landscape Units: 4
+- THTR 480a Performance for Camera Units: 2
+- THTR 497 Advanced Theatre Practicum Units: 2
+- (2.0 units required)
+
+## Elective Options: 4 units
+
+---
+
+Select 4 units from the following list:
+
+- THTR 105 Introduction to Screen Acting Units: 2
+- THTR 250 Camera and Improvisation Units: 2
+- THTR 305a Directing Units: 4
+- THTR 309 Dramaturgy Units: 4
+- THTR 343 Musical Theatre Audition Units: 3
+- THTR 365 Playwriting I Units: 4
+- THTR 416 Creating Content for the Actor Units: 2.0
+- THTR 440 Advanced Voice: Voice-Over Acting Units: 2
+- THTR 464 An Actor’s Reel Units: 2
+
+## Critical Studies Core (16 units)
+
+---
+
+Complete the two required courses below. In addition, take one course from List A and one course from either List A or B.
+
+- THTR 125 Text Studies for Production Units: 4
+- THTR 225g Theatre Across History and Cultures Units: 4
+
+### List A Courses
+
+---
+
+- THTR 310 Comedy and Diversity Units: 4
+- THTR 312 LGBTQ Theatre Units: 4
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 405m Performing Identities Units: 4
+- THTR 406 Theatre on the Edge Units: 4
+- THTR 456 Latinx Theatre Units: 4
+- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4
+- THTR 476mw African American Theatre, Dance, and Performance Units: 4
+
+### List B Courses
+
+---
+
+- THTR 301 Greek and Roman Theatre Units: 4
+- THTR 302 Shakespeare in His World Units: 4
+- THTR 313 Comedy of Manners Units: 4
+- THTR 314 Advanced Topics in Modern Drama Units: 4
+- THTR 400 Eco-Theatre: Art and Science in Contemporary Plays Units: 4
+- THTR 401 Contemporary Theatre in a Changing World Units: 4
+- THTR 403 The Performing Arts Units: 4
+- THTR 404 Acting Theory Units: 4
+
+## General Education Units: 36
+
+---
+
+## Total Units: 132
+
+---
+
+---

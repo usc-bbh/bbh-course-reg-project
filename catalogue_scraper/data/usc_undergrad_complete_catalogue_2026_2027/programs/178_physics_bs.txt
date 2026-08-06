@@ -1,0 +1,61 @@
+Program Name: Physics (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31885
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31885&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31885
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:48Z
+Content SHA-256: d8d9b95c6e118f623a9a7164d384caba45aadfde94baffb69b014fc8f4b7a8f7
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Physics (BS)
+
+---
+
+This program is intended primarily for students who are interested in a career in physics.
+
+## Required Lower-Division Courses
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4 *
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4
+- MATH 226g Calculus III Units: 4
+- PHYS 161Lg Advanced Principles of Physics I Units: 4
+- PHYS 162L Advanced Principles of Physics II Units: 4
+- PHYS 163L Advanced Principles of Physics III Units: 4
+- PHYS 190 Physics Discovery Series Units: 4
+
+## Required Upper-Division Courses
+
+---
+
+- MATH 445 Mathematics of Physics and Engineering II Units: 4
+- PHYS 304 Mechanics Units: 4
+- PHYS 316 Thermodynamics and Statistical Mechanics Units: 4
+- PHYS 408a Electricity and Magnetism Units: 4
+- PHYS 408b Electricity and Magnetism Units: 4
+- PHYS 438a Introduction to Quantum Mechanics and its Applications Units: 4
+- PHYS 438b Introduction to Quantum Mechanics and its Applications Units: 4
+- PHYS 440 Introduction to Condensed Matter Physics Units: 4 **
+- PHYS 492L Senior Lab Units: 4
+- PHYS 493L Advanced Experimental Techniques Units: 4
+
+## Total units: 76
+
+---
+
+*CHEM 115aLg , CHEM 105bL , MATH 114xg , MATH 208x , or other 4-unit quantitative STEM course not already required may be substituted for CHEM 105aLg .
+**Any 4-unit 400-level Physics course not already listed in the requirements may be substituted for PHYS 440 , with the exception of seminar and directed research courses.
+
+For those wishing to pursue an honors degree, a senior thesis with at least 2 units of PHYS 490x is also required. Students who maintain a GPA of at least 3.5 in physics courses are eligible for graduation with honors, or high honors with a GPA of at least 3.8.
+
+---

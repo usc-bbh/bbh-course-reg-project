@@ -1,0 +1,25 @@
+Program Name: Social Sciences, with an Emphasis in Psychology (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31907
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31907&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31907
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:15Z
+Content SHA-256: aa58191c61c175d91233e714da05ef93dc5df04618db9750261e9ee3613be9b5
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Social Sciences, with an Emphasis in Psychology (BA)
+
+---
+
+The required courses are: PSYC 100 , MATH 114 *, PSYC 274L and eight upper-division courses in departments in the social sciences, including five in the Department of Psychology and three outside the department but within the division. These may be any 300- or 400-numbered courses.
+
+*MATH 208 , MATH 218 or MATH 265 may substitute for MATH 114 .
+
+---

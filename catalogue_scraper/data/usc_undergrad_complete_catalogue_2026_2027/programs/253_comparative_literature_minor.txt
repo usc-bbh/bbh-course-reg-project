@@ -1,0 +1,45 @@
+Program Name: Comparative Literature Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31749
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31749&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31749
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:00:42Z
+Content SHA-256: 6c15bb4bb490ce8da99b4b470c957ae72ca97729e9a72652589859d0db98fbc4
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Comparative Literature Minor
+
+---
+
+Students can minor in one of two tracks: the literature/media/critical thought track or the foreign language track.
+
+## Literature/Media/Critical Thought Track
+
+---
+
+Students are required to complete at least 24 units (six courses) as follows:
+
+1. COLT 302 and COLT 303
+2. At least three additional COLT courses in one of the three concentrations.
+3. At least one additional COLT course in any of the three concentrations.
+
+No more than one of the six courses required for the minor may be at the 100 or 200 level.
+
+## Foreign Language Track
+
+---
+
+Students are required to complete at least 24 units (six courses) as follows:
+
+1. COLT 302 and COLT 303
+2. At least three additional COLT courses, of which no more than one may be at the 100 or 200 level.
+3. At least one upper-division course in the literature or culture of a foreign language (other than English), with all readings in that language.
+
+---

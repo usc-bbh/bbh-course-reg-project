@@ -1,0 +1,55 @@
+Program Name: GIS and Sustainability Science Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32536
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32536&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32536
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:06:42Z
+Content SHA-256: a76b93f5c3ff87525af6144438b06c2ce1380eeecc469d53d4f892e866f36237
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# GIS and Sustainability Science Minor
+
+---
+
+The innovative minor in GIS and Sustainability Science provides an interdisciplinary foundation for individuals to address environmental sustainability, among the most pressing challenges of our time. With an understanding of concepts of spatial sciences, including geographic information science, cartographic principles, spatial data acquisition and analysis, and techniques of programming and customization, students will be capable of analyzing and utilizing geospatial information linked with human and natural systems to understand how humans create stress on ecosystems and make informed decisions about how to alleviate stress or restore damaged ecosystems.
+
+In the capstone course, students have the opportunity to explore their specific interests in greater depth as they design a geospatial technology project that contributes to one or more sustainable development goals at various scales and in locations around the globe.
+
+Geospatial careers are among the fastest-growing in the United States and world today, and geospatial jobs are currently available in every industry and discipline in consulting firms, non-profit organizations, government agencies, and private-sector companies.
+
+## Lower-Division Elective
+
+---
+
+Choose one of the following courses:
+
+- SSCI 165Lgw Sustainability Science in the City Units: 4
+- SSCI 175gw Food, Health and Place Units: 4
+- SSCI 265Lg The Water Planet Units: 4
+
+## Core Requirements
+
+---
+
+Complete all of the following courses:
+
+- SSCI 301L Maps and Spatial Reasoning Units: 4
+- SSCI 382L Geographic Information Science: Spatial Analytics Units: 4
+- SSCI 383L Geographic Information Science: Geospatial Modeling and Customization Units: 4
+
+## Capstone Course
+
+---
+
+Complete the following course after finishing core requirements:
+
+- SSCI 402 GIS and Sustainable Development Units: 4
+
+---

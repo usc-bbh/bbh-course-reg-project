@@ -1,0 +1,37 @@
+Program Name: Economics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31780
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31780&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31780
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:00Z
+Content SHA-256: c22e32bbdfe8125f00053dd7c6174a86b041053d729bccd4716a01d22890d078
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Economics Minor
+
+---
+
+Students from all disciplines will benefit from an economics minor. The economics minor is offered in three tracks. Each track is designed to help the student explore a coherent area of economic thought and methodology. Students minoring in economics must maintain at least a 2.0 GPA (cumulative) in courses taken for the minor.
+
+The minor includes the core courses ECON 203 , ECON 205 , ECON 303 or ECON 305 , MATH 118gx or MATH 125 plus three courses chosen from one of the following tracks:
+
+#### Law and Political Economy
+
+This track introduces students to the economic theory that underlies the economic choices made by individuals and the ways in which law and policy combine to regulate such behavior. Economic models of individual choice, contracts, and law are analyzed in courses in this track. Choose three courses from: ECON 317 , ECON 330 , ECON 332 , ECON 434 .
+
+#### Finance and Money
+
+This track guides students through the economic thought and theory that underlie the importance of money. Courses cover topics that shed light on the ways in which institutions, individual preferences and financial markets affect the allocation and investment of money. Choose three courses from: ECON 317 , ECON 350 , ECON 357 , ECON 360 , ECON 450 , ECON 452 , ECON 457 .
+
+#### International Economics
+
+This track concentrates on the foundations, complexities and importance of the global economy as well as the role of economics and political economy in societies outside of the United States. Choose three courses from: ECON 317 , ECON 330 , ECON 340 , ECON 342 , ECON 343 , ECON 346 , ECON 350 .
+
+---

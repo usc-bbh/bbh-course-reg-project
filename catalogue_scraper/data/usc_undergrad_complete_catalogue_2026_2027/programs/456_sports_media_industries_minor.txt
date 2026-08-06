@@ -1,0 +1,55 @@
+Program Name: Sports Media Industries Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32493
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32493&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32493
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:52Z
+Content SHA-256: 22717e4a2de19de1b382f1a766097a20f652619e2809b82aaf7d4e1c4982e936
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Sports Media Industries Minor
+
+---
+
+Organized sports are one of the most popular forms of live and participatory entertainment, and produce vast quantities of mediated content. Virtually all professional sport, and increasingly much of amateur competition, is influenced by the importance of having the competitions shared with a wide range of audiences and utilizing diverse platforms to engage these fans. This content rich environment highlights how leagues, teams, players and coaches are each independent and interdependent brands, as well as creators and distributors of multimedia content. This volume of sports content creates new challenges for journalistic norms and storytelling techniques as well as new opportunities for the business of sports media management. The Sports Media Industries minor introduces students to a range of professional settings, activities and challenges related to the growth of sports media.
+
+This 20-unit minor requires that students be introduced both to sports journalism as content production and also to the notion of sports media as a unique setting for publicity, advertising, and public relations. Students will develop the skills required to create sports media content, and increase their ability to critically examine sports media’s influence on contemporary culture, particularly issues related to race, gender, class and sexual orientation. The minor will also establish an introductory knowledge of the business of sports and sports media. Elective courses allow students greater opportunity to explore these fields as well as take courses dedicated to specific aspects of sports media.
+
+## Required Core Course
+
+---
+
+- JOUR 350 Introduction to Sports Media Units: 4
+
+## Electives
+
+---
+
+Choose at least 16 units from the following:
+
+- COMM 387 Sports and Social Change Units: 4
+- JOUR 380 Sports, Business and Media in Today’s Society Units: 4
+- JOUR 404 Produce and Host Sports Content in Studio A Units: 2
+- JOUR 432 Sports Commentary Units: 4
+- JOUR 441 Sports Reporting Units: 4
+- JOUR 478 Politics of Sports Writing Units: 4
+- JOUR 479 Storytelling for Action Sports Units: 4
+- JOUR 480 Sports and Media Technology Units: 4
+- JOUR 481 The Athlete, Sports Media and Popular Culture Units: 4
+- JOUR 485 Sports Investigative Reporting Units: 4
+- JOUR 486 Multiplatform Olympic and Paralympic Storytelling Units: 2
+- PR 453 Public Relations Strategies for Working with Athletes Units: 4
+- PR 454 Sports Public Relations Units: 2
+
+## Total units: 20
+
+---
+
+---

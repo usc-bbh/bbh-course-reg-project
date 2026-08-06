@@ -1,0 +1,63 @@
+Program Name: Linguistics (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31842
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31842&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31842
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:38Z
+Content SHA-256: 509dab973012d0c5962a2a790956c3ab16df0bcdb1fe2ab9221a44fce2e3da6f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Linguistics (BA)
+
+---
+
+## Required Courses, Lower Division
+
+---
+
+- LING 210g Introduction to Linguistics Units: 4
+
+## Required Courses, Upper Division
+
+---
+
+Select three courses (12 units).
+
+- LING 301 Introduction to Phonology and Morphology Units: 4
+- LING 302 Introduction to Syntax Units: 4
+- LING 303 Introduction to Semantics and Pragmatics Units: 4
+- LING 415 Phonetics Units: 4
+
+## Elective Courses, Upper Division
+
+---
+
+- Three upper-division LING courses. At least one course (4 units) must be at the 400 level Units: 12
+- One additional upper-division course in linguistics or a related field Units: 4​
+
+## Capstone Experience
+
+---
+
+The major requires a capstone experience, which can be fulfilled in one of the following ways:
+
+(A) A research paper completed as Honors Thesis LING 497 , or as Directed Research LING 490 or as a Linguistic 400-level course research paper.
+
+(B) A poster presented at the USC UG Symposium [https://ahf.usc.edu/signature-events/symposium/] or at a conference.
+
+(C) A summer internship related to the degree.
+
+## Linguistics Major with Honors
+
+---
+
+The linguistics major with honors requires the student to complete the requirements for the major with a GPA of 3.5 or above and, among those requirements, to complete LING 497 Honors Thesis with a grade of B+ or better. Intent to complete the linguistics major with honors should be registered with the undergraduate adviser no later than the second semester of the junior year.
+
+---

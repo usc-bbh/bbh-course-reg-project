@@ -1,0 +1,80 @@
+Program Name: Sociology Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31930
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31930&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31930
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:12Z
+Content SHA-256: a955f8a467cd5159873ad1f9e3bbfefd3b399604a024cb5be48a4de7fbc8c32f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Sociology Minor
+
+---
+
+Five courses (20 units) are required to complete the minor in sociology.
+
+All minors are required to take at least two of the core courses in sociology:
+
+## Core Courses
+
+---
+
+- SOCI 200gm Introduction to Sociology Units: 4
+- or
+- SOCI 270g Sociological Theory Units: 4
+- SOCI 313L Sociological Research Methods Units: 4
+- or
+- SOCI 314Lg Analyzing Social Statistics Units: 4
+
+## Note:
+
+---
+
+The remaining three courses may be chosen from among the upper-division elective courses offered by the department, or as follows:
+
+- AMST 357m Latino Social Movements Units: 4
+- JS 379gm Mixing and Matching: Intermarriage in the 21st Century Units: 4
+- JS 382g Judaism as an American Religion Units: 4
+- REL 468 Sociology of Religion Units: 4
+- SOCI 305m Sociology of Childhood Units: 4
+- SOCI 335 Society and Population Units: 4
+- SOCI 340 Organizations: Bureaucracy and Alternatives to Bureaucracy Units: 4
+- SOCI 342m Race Relations Units: 4
+- SOCI 345 Social Institutions Units: 4
+- SOCI 350 Social Exclusion, Social Power and Deviance Units: 4
+- SOCI 351 Youth, Social Control and Public Policy Units: 4
+- SOCI 353 Crime, Punishment and Society Units: 4
+- SOCI 355m Immigrants in the United States Units: 4
+- SOCI 356m Mexican Immigrants in Sociological Perspective Units: 4
+- SOCI 360m Social Inequality: Class, Status and Power Units: 4
+- SOCI 362 Global and Transnational Sociology Units: 4
+- SOCI 369 The Family in a Changing Society Units: 4
+- SOCI 376m Contemporary Issues in Asian American Communities Units: 4
+- SOCI 402 Human Trafficking Units: 4
+- SOCI 408 Volunteers, Non-Governmental Organizations, and Everyday Politics Units: 4
+- SOCI 410 The Sociology of Popular Culture Units: 4
+- SOCI 415 Sociology of Law Units: 4
+- SOCI 425 Social Movements: Power, Resistance and Political Dynamics Units: 4
+- SOCI 429 Immigration, Work and Labor Units: 4
+- SOCI 430m Work and the Workplace Units: 4
+- SOCI 431 Cities Units: 4
+- SOCI 432m Racial and Ethnic Relations in a Global Society Units: 4
+- SOCI 435m Women in Society Units: 4
+- SOCI 440 Environmental Sociology Units: 4
+- SOCI 445 Political and Social Theory Units: 4
+- SOCI 460 Key Issues in Contemporary International Migration Units: 4
+- SOCI 464 Sociology of Gender and Work Units: 4
+- SOCI 465 Visual Sociology of the City and Its Residents Units: 4
+- SOCI 470 Social Change in Low-Income Countries Units: 4
+- SOCI 475 Medical Sociology Units: 4
+- SOCI 480 The Sociology of Risk and Disaster Units: 4
+- SWMS 385m Men and Masculinity Units: 4
+
+---

@@ -1,0 +1,190 @@
+Program Name: Performance (Flute), (Oboe), (Clarinet), (Bassoon), (Saxophone), (French Horn), (Trumpet), (Trombone), (Tuba) or (Percussion) (BM)
+Credential: BM
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32238
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32238&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32238
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:56:18Z
+Content SHA-256: c87a073fab707ead7f706b88e541e715827f852e383874b63c582722532c4aab
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Performance (Flute), (Oboe), (Clarinet), (Bassoon), (Saxophone), (French Horn), (Trumpet), (Trombone), (Tuba) or (Percussion) (BM)
+
+---
+
+### Overview
+
+All USC Thornton undergraduate programs in classical performance and composition combine a rigorous foundation of the finest conservatory training with curricular flexibility for students to chart their own artistic pathways. All curricular components are designed to support students in creating a distinctive musical voice and preparing for a fulfilling musical career.
+
+### Entrance Requirements
+
+Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees. Specific entrance requirements are reviewed on an annual basis and published online at music.usc.edu.
+
+### General Education Requirements
+
+USC’s General Education program, revised in fall 2015, provides a coherent, integrated approach to the study of the liberal arts, with the goal of nurturing habits of thought that are essential for professional success, personal development, and meaningful lifelong learning. Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC. With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements. Academic advisers in the Thornton School carefully guide Thornton students in making their course choices. This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements.
+
+### Capstone Projects
+
+#### Young Artist Project
+
+During the junior and senior years of the program, students develop and fully realize unique individualized, mentored projects related to their work as classical musicians. This could involve developing a hybrid performance, conducting original research, exploring new creative technologies, or applying creative expression to a pressing social issue.
+
+#### Recital
+
+A senior recital must be completed under approved faculty supervision and guidance. The faculty of the department of the student’s major program determines the detailed requirements of the recital, including content, length, format and other specifications. In cases in which a performance venue is required in order to present the recital, reservations must be made according to the current guidelines of the Music Operations office.
+
+## Curriculum Requirements
+
+---
+
+### General Education *
+
+---
+
+#### Core Literacies
+
+---
+
+GE-A: The Arts (one course)
+
+GE-B: Humanistic Inquiry (two courses)
+
+GE-C: Social Analysis (two courses)
+
+GE-D: Life Sciences (one course)
+
+GE-E: Physical Sciences (one course)
+
+GE-F: Quantitative Reasoning (one course)
+
+#### Global Perspectives
+
+---
+
+GE-G: Global Perspectives I (one course)
+
+GE-H: Global Perspectives II (one course)
+
+#### Writing
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+### Core Thornton Academic Courses (36 units)
+
+---
+
+- MUCD 348 Instrumental Conducting and Orchestration Units: 2
+- MUCO 132a Aural Skills I Units: 2
+- MUCO 132b Aural Skills I Units: 2
+- MUCO 133a Theory I Units: 3
+- MUCO 133b Theory I Units: 3
+- MUCO 232a Aural Skills II Units: 2
+- MUCO 232b Aural Skills II Units: 2
+- MUCO 233a Theory II Units: 3
+- MUCO 233b Theory II Units: 3
+- MUHL 250g Music and Ideas Units: 4
+- MUHL 350g Western Art Music History I Units: 4
+- MUHL 351 Western Art Music History II Units: 4
+- MUSC 496 Careers in Music Units: 2
+
+### Program Specific Courses (38 units)
+
+---
+
+#### Individual Instruction (16 units)
+
+---
+
+- MPWP 153 Individual Instruction Units: 1 or 2
+- 4 units total of MPWP 153 in your primary instrument
+- MPWP 253 Individual Instruction Units: 1 or 2
+- 4 units total of MPWP 253 in your primary instrument
+- MPWP 353 Individual Instruction Units: 1 or 2
+- 4 units total of MPWP 353 in your primary instrument
+- MPWP 453 Individual Instruction Units: 1 or 2
+- 4 units total of MPWP 453 in your primary instrument
+
+#### Ensembles (16 units)
+
+---
+
+- MUEN 323 University Wind Ensemble Units: 1 [**]
+- 8 units total of MUEN 323
+- MUEN 325 Wind and Percussion Chamber Music Units: 1 [**]
+- 8 units total of MUEN 325
+
+#### Program Intensive (6 units)
+
+---
+
+- MPKS 250a Keyboard Instruction I Units: 2
+- Select two units from the following:
+- MPKS 250b Keyboard Instruction I Units: 2
+- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2
+- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2
+- Select two units from the following:
+- MUCD 340 Choral Conducting I Units: 2
+- MUCD 443 Instrumental Conducting II Units: 2
+
+### Electives (22 units)
+
+---
+
+#### Contemporary Division Electives (4 units)
+
+---
+
+Select 4 units from the Contemporary Division
+
+Courses include those listed below or others, in consultation with your chair and the Contemporary Division:
+
+- MPGU 145 Guitar Proficiency for the Pop Guitarist Units: 2
+- MPGU 150 Functional Skills for the Popular Guitarist Units: 2
+- MPPM 120 Popular Music Performance I Units: 2
+- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2
+- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2
+- MPPM 370 The Vocal Edge: Contemporary Vocal Performance Techniques Units: 2
+- MTEC 245 Introduction to MIDI Sequencing Units: 1
+- MTEC 246 Introduction to Audio Recording and Editing Units: 1
+- MTEC 248 Introduction to Music Notation Units: 1
+- MTEC 249 Introduction to Web Design for Musicians Units: 1
+- MTEC 277x Introduction to Music Technology Units: 4
+- MUIN 272x Basics of the Music Industry Units: 4
+- MUIN 425 Live Music Production and Promotion Units: 4
+- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2
+- MUJZ 150 Beginning Jazz Improvisation Units: 2
+- MUJZ 218a Afro-Latin Percussion Instruments Units: 2
+- MUJZ 450 Intermediate Jazz Improvisation Units: 2
+- MUSC 255 Songwriting I Units: 2
+
+#### General Electives (18 units)
+
+---
+
+### Capstone Projects (4 units)
+
+---
+
+- MUSC 480 Young Artist Project I Units: 2
+- MUSC 481 Young Artist Project II Units: 2
+- Senior Recital: 0 units
+
+## Total Required For Degree: 132
+
+---
+
+* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.
+
+**Required each semester in residence.​
+
+---

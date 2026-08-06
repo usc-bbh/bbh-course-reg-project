@@ -1,0 +1,131 @@
+Program Name: Latin American and Iberian Cultures, Media and Politics (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32519
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32519&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32519
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:27Z
+Content SHA-256: 652dc297515686f6373a8f0c845222cab0bf4fb29ee4700cf3d5ae970a53f9ab
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Latin American and Iberian Cultures, Media and Politics (BA)
+
+---
+
+The major in Latin American and Iberian Cultures, Media and Politics underscores the global reach and import of the nations in the Americas, Europe and Africa in which Spanish and Portuguese are spoken. By focusing on the study of language, literature and cinema as well other disciplines in the humanities and social sciences, students learn to think critically about the cultural, political, and historical questions involved in the study of Latin American and Iberian societies.
+
+## Lower Division Courses
+
+---
+
+Majors and minors may request a waiver of SPAN 260 if they meet one of the following prerequisites: a) a score of 5 on the Spanish language or literature advanced placement (AP) exam; b) a score of 6 or 7 on the Spanish International Baccalaureate Higher-Level exam (IBHL); c) a score of 800 in the Spanish SAT subject exam; or d) they can demonstrate advanced proficiency in spoken and written Spanish. Departmental approval is required in every case. Majors and minors to whom a waiver of SPAN 260 has been granted take five upper division courses (see below).
+
+- SPAN 260 Advanced Spanish: Arts and Sciences Units: 4
+- SPAN 290gp Introduction to Latin American and Iberian Studies Units: 4
+
+## Upper Division Spanish and Portuguese Courses
+
+---
+
+Choose four of the following courses, including at least one 400-level course. Majors and minors to whom a waiver of SPAN 260 has been granted (see above) must take five upper division courses.
+
+- PORT 300 Introduction to Social and Literary Studies Units: 4
+- PORT 302 Introduction to Brazilian Literature Units: 4
+- PORT 342 Brazilian Cinema Units: 4
+- PORT 390 Special Problems Units: 1, 2, 3, 4 *
+- SPAN 301 Introduction to Literature and Film Units: 4
+- SPAN 302 Screen Cultures: From Film to the Internet Units: 4
+- SPAN 304 The Art of Fiction Units: 4
+- SPAN 306 Performance from Street to Stage Units: 4
+- SPAN 308 The Art of Poetry Units: 4
+- SPAN 311 Advanced Spanish Through Contemporary Issues: Oral Emphasis Units: 4
+- SPAN 320 Politics, Thought, Society Units: 4
+- SPAN 321 Sounds, Images, Objects Units: 4
+- SPAN 341 Advanced Conversation and Culture Units: 4
+- SPAN 350 Cultural Cross-Currents of the Iberian Middle Ages Units: 4
+- SPAN 352 The Transatlantic Golden Age: New Worlds Real and Imagined Units: 4
+- SPAN 372 Modern and Contemporary Latin American Fiction Units: 4
+- SPAN 373 Modern and Postmodern Spanish Fiction Units: 4
+- SPAN 375 Latin American Cultural and Literary Theory Units: 4
+- SPAN 380g Literature of Mexico Units: 4
+- SPAN 381 Narco-World Units: 4
+- SPAN 382 The Aesthetics of Violence in Latin America Units: 4
+- SPAN 385 The Culture of Food in Hispanic Los Angeles Units: 4
+- SPAN 390 Special Problems Units: 1, 2, 3, 4 *
+- SPAN 391 Introduction to Contemporary Spanish Literature (USC Madrid Center) Units: 4
+- SPAN 405 History of the Spanish and Portuguese Languages Units: 4
+- SPAN 413m Social and Geographic Varieties of Spanish Units: 4
+- SPAN 455 Picaresque Itineraries: Empire and Its Discontents Units: 4
+- SPAN 460 Don Quijote: Text and Film Units: 4
+- SPAN 462 Literary Cartographies of Latin America and Spain, 1810–1898 Units: 4
+- SPAN 464 Introduction to Contemporary Spanish Theatre Units: 4
+- SPAN 465 Cultural Perspectives of the Iberian Peninsula Units: 4
+- SPAN 466 Argentina, Society and the Arts Units: 4
+- SPAN 469 Immigration in Spain Units: 4
+- SPAN 470 Literature and Media in Latin America Units: 4
+- SPAN 471 Postdictatorship Spanish and Latin American Cinema Units: 4
+- SPAN 472 The Sixties in Latin America Units: 4
+- SPAN 481 Literature and Popular Culture Units: 4
+- SPAN 482 Literature and the City Units: 4
+- SPAN 483 Gender and Sexuality Units: 4
+- SPAN 484 Studies in Visual and Material Culture Units: 4
+- SPAN 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 *
+- SPAN 495 Seminar for Majors and Minors Units: 4
+- SPAN 499 Special Topics Units: 2, 3, 4 *
+
+### Note:
+
+---
+
+*Four units required.
+
+## Elective Courses
+
+---
+
+Choose three of the following courses, including at least two 300- or 400-level courses. Other courses, including courses in other departments, may be chosen in consultation with faculty adviser.
+
+- AHIS 127g Arts of the Ancient Americas Units: 4
+- AHIS 128gp The Arts and Society in Latin America, Colonial to Contemporary Units: 4
+- AHIS 318 Arts of the Ancient Andes Units: 4
+- AHIS 319 Mesoamerican Art and Culture Units: 4
+- AHIS 328 Colonial Latin American Art Units: 4
+- AHIS 428 Studies in Colonial Latin American Art Units: 4
+- AHIS 496 Paintings in the Prado Museum Units: 4
+- AMST 135gmw Peoples and Cultures of the Americas Units: 4
+- AMST 305 Art and Performance in the Americas Units: 4
+- ANTH 124g Archaeology of the Americas Units: 4
+- ANTH 140g Mesoamerican Cosmovision and Culture Units: 4
+- ANTH 314g The Nature of Maya Civilization Units: 4
+- ANTH 400 Maya Resilience: Constructing Past and Present Identities Units: 4
+- ANTH 425 Peoples and Cultures of Latin America Units: 4
+- ANTH 450 Field Research in Maya Archaeology Units: 4
+- COLT 250g Cultures of Latin America Units: 4
+- HIST 273g Colonial Latin America Units: 4
+- HIST 353m Race and Racism in the Americas Units: 4
+- HIST 369 History of the Indigenous Peoples in the Americas Units: 4
+- HIST 370 Colonial Latin America Units: 4
+- HIST 371 Culture in Diaspora: The Jews of Spain Units: 4
+- HIST 372 Modern Latin America Units: 4
+- HIST 374 History of Mexico Units: 4
+- HIST 451 The Mexican Revolution Units: 4
+- HIST 473 Colonial Latin America Seminar Units: 4
+- IR 364 The Political Economy of Latin American Development Units: 4
+- IR 365 Politics and Democracy in Latin America Units: 4
+- IR 366 Mexico and its Relations with the United States Units: 4
+- IR 425 The New Triangle: China, the U.S. and Latin America Units: 4
+- IR 465 Contemporary Issues in United States-Latin America Relations Units: 4
+- IR 466 Contemporary Issues in Latin American Politics Units: 4
+- PORT 250g Visions of Brazil Units: 4
+- POSC 350 Politics of Latin America Units: 4
+- POSC 430 Political Economy of Mexico Units: 4
+- POSC 431 Political Economy of Central America Units: 4
+- REL 334g Religion and Colonial Encounter Units: 4
+
+---

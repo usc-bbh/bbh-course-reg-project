@@ -1,0 +1,96 @@
+Program Name: Global Studies (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31701
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31701&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31701
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:42Z
+Content SHA-256: 4e619198a094875d604c03be811abff5be783f47adb6c66350fda1f134709b69
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Global Studies (BA)
+
+---
+
+The Global Studies Major offers an interdisciplinary perspective on global issues and problems, while also providing opportunities for cross-cultural engagement and real-world learning.
+
+Based in the Department of Anthropology, a BA in Global Studies prepares students for careers that require cross-cultural proficiency and grounded social analysis, such as international aid and advocacy, policy, law, media and journalism, business, global health, design or engineering. Along with the required core courses, the elective units allow sufficient flexibility to complete course prerequisites for regional and area studies programs, law school and business school.
+
+More information about majoring in Global Studies can be found on the Anthropology Department website: dornsife.usc.edu/anth/global-studies.
+
+## Global Studies Major
+
+---
+
+The Global Studies Major requires 8 courses (32 units), which includes 16 units of elective course work chosen within the student’s thematic or regional focus.
+
+### Experiential Learning
+
+---
+
+In addition to specific coursework, students in the Global Studies major are expected to engage in curricular experiential learning, such as by completing a semester of study abroad, an intensive internship or equivalent.
+
+### Language Requirement
+
+---
+
+Satisfy level IV, or the equivalent, of at least one foreign language.
+
+## Course Requirements
+
+---
+
+### Introduction (4 Units)
+
+---
+
+- ANTH 205g Introduction to Global Studies and Cross-cultural Research Units: 4
+
+### Research Methods (4 units)
+
+---
+
+The following is the research methods course for the Global Studies Major:
+
+- ANTH 325 Mixed Methods Research for Global and Cross-Cultural Studies Units: 4
+- May also fulfill the research methods requirement, with prior adviser or faculty approval:
+- ANTH 375 Anthropology for Consulting and Design Units: 4
+- ANTH 410 Ethnographic Research Methods Units: 4
+
+### Global Issues Seminar (4 Units)
+
+---
+
+- ANTH 415 Global Issues Seminar Units: 4
+
+### Electives (16 Units)
+
+---
+
+Global Studies Majors must complete at least 16 units of elective coursework in the humanities and social sciences, chosen within the student’s thematic or regional focus.
+
+Since Global Studies is an interdisciplinary major, coursework completed in other departments, as well as coursework completed during study abroad, may be applied toward this requirement as approved by adviser or faculty.
+
+Your academic adviser, or the Anthropology Director of Undergraduate Studies anth-dus@dornsife.usc.edu, can provide further guidance.
+
+### Capstone Seminar (4 units)
+
+---
+
+The capstone project is the final requirement for the Global Studies major. See the Global Studies program webpage for more information on the capstone.
+
+The following is the capstone seminar course for the Global Studies Major:
+
+- ANTH 485 Global Studies Capstone Seminar Units: 4
+- May also fulfill the capstone requirement, with prior adviser or faculty approval:
+- ANTH 411 Thesis Seminar in Ethnographic Analysis Units: 4
+- ANTH 470 Multimodal Methods in Visual Anthropology Units: 4
+- ANTH 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+
+---

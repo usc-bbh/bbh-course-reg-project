@@ -1,0 +1,83 @@
+Program Name: Game Art (BFA)
+Credential: BFA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32728
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32728&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32728
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:27Z
+Content SHA-256: fab59bb2383895d8511f3e1804bbf501667581bcdc35073a0fcde2a8c1d63529
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Game Art (BFA)
+
+---
+
+The Bachelor of Fine Arts in Game Art is a unique four-year program offered by the School of Cinematic Arts. Students study within the framework that combines a broad liberal arts background with specialization in a profession. Areas of concentration might include character animation, environmental design, visual effects, 3-D pipelines and interactive animation.
+
+Undergraduate students take their pre-professional courses in the USC Dornsife College of Letters, Arts and Sciences, including the general education requirements. Major courses are selected from the curriculum of the School of Cinematic Arts. The degree requires 128 units, including 58 units in the major.
+
+Applicants must submit a supplemental application and materials to the Interactive Media and Games Division in Slideroom via the Common Application. For specific instructions, contact the Cinematic Arts Office of Admission, University Park, Los Angeles, CA 90089-2211, (213) 740-8358 or online at cinema.usc.edu.​
+
+The Bachelor of Fine Arts in Game Art requires a minimum of 128 units, with 58 units required for the major.
+
+## Required Courses
+
+---
+
+- ART 207a Two-Dimensional Art Workshop Units: 2
+- ART 207b Two-Dimensional Art Workshop Units: 2
+- CNTV 101 Reality Starts Here Units: 2
+- CTCS 150gw The Cinematic Arts in Society Units: 4
+- CTAN 452 Introduction to 3-D Computer Animation Units: 2
+- CTIN 290 Digital Media Workshop Units: 4
+- CTIN 488 Game Design Workshop Units: 4
+- CTIN 489L Intermediate Game Design and Production Units: 4
+- Capstone Requirements
+- CTIN 491L Advanced Game Project I Units: 4
+- CTIN 493L Advanced Game Project II Units: 2
+- CTIN 498 Game Art Capstone Units: 2
+
+## Electives
+
+---
+
+At least 26 units must be taken from the following list:
+
+- CTAN 280 Intermediate Character Animation for Games Units: 4
+- CTAN 420 Concept Design for Animation Units: 2
+- CTAN 455L Organic Modeling for Animation Units: 2 *
+- CTAN 460 Character Design Workshop Units: 2
+- CTAN 464L Digital Lighting and Rendering Units: 2 *
+- CTAN 465L Digital Effects Animation Units: 2 *
+- CTAN 480 Advanced Character Animation for Games Units: 2
+- CTAN 485 Character Modeling Units: 2
+- CTAN 497L Procedural Animation Units: 2 *
+- CTAN 564L Motion Capture Fundamentals Units: 2 **
+- CTIN 190 Introduction to Interactive Entertainment Units: 4
+- CTIN 191 Survey of Themed Entertainment Units: 4
+- CTIN 289 Game Development Fundamentals Units: 4
+- CTIN 401L Interface Design for Games Units: 2
+- CTIN 403L Advanced Visual Design for Games Units: 2
+- CTIN 410L Narrative Design Workshop Units: 4
+- CTIN 415 Undergraduate Advanced Games Project Pre-Production Units: 2
+- CTIN 422 Games as Live Service Operations (GLO) Units: 2, 4
+- CTIN 433 Visual Development for Games Units: 2
+- CTIN 478 Level Design Workshop Units: 2
+- CTIN 481 Introduction to World Building for Games Units: 2
+- CTPR 524 Virtual Production Units: 2 **
+- CTPR 544 Virtual Production in LED Volumes Units: 4 **
+- CTWR 410L Character Development and Storytelling for Games Units: 4
+- TAC 115 Programming in Python Units: 2
+- TAC 351 3D Character Modeling for Games Units: 4
+- TAC 361 Character Rigging for Games Units: 4
+- TAC 371 Technical Character Animation for Games Units: 4
+- *Prerequisite required.
+  **Prerequisite required. Enrollment in graduate courses requires special permission.
+
+---

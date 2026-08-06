@@ -1,0 +1,158 @@
+Program Name: American Studies and Ethnicity (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31691
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31691&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31691
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:14Z
+Content SHA-256: f137f11e75084b0aefabe66909e82d1abdb924e42e11d815f26d94276ebd1aef
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# American Studies and Ethnicity (BA)
+
+---
+
+#### Program Major Requirements
+
+Ten courses in American Studies and Ethnicity or courses certified for American Studies and Ethnicity credit are required. The 10 courses must be distributed as follows: the three core requirement courses of AMST 200; AMST 350; and AMST 492 or AMST 493 or AMST 498 ; one course from each of the following three lists: History, Literature and Culture, and Social and Political Issues; and additional elective courses for a total of 16 units chosen from the courses certified in American Studies and Ethnicity at the 300 level or above.
+
+## Core Requirements
+
+---
+
+Complete the following two courses (8 units).
+
+- AMST 200gm Introduction to American Studies and Ethnicity Units: 4
+- AMST 350 Junior Seminar in American Studies and Ethnicity: Theories and Methods Units: 4
+
+## Senior Core Requirement
+
+---
+
+Choose one senior course, based on departmental offerings (4 units).
+
+- AMST 492 Research Methods in American Studies and Ethnicity Units: 4
+- AMST 493 Senior Capstone Experience in American Studies and Ethnicity Units: 4
+- AMST 498 Senior Seminar in American Studies and Ethnicity Units: 4
+
+### Note:
+
+---
+
+Honors students will complete an Honors Thesis in their Senior Core Course.
+
+## General Elective Courses
+
+---
+
+### One course from each of the following categories:
+
+---
+
+#### History
+
+---
+
+- AMST 250gmw The African Diaspora Units: 4
+- AMST 285gm African American Popular Culture Units: 4
+- AMST 373m History of the Mexican American Units: 4
+- AMST 378m Introduction to Asian American History Units: 4
+- AMST 379 Arabs in America Units: 4
+- HIST 100mg Rethinking the American Experience Units: 4
+- HIST 354 Mexican Migration to the United States Units: 4
+- HIST 355 The African-American Experience Units: 4
+- HIST 380 American Popular Culture Units: 4
+- HIST 457 Seminar in the American West Units: 4
+- HIST 458 History of California Units: 4
+
+#### Literature and Culture
+
+---
+
+- AHIS 365m African American Art Units: 4
+- AHIS 465 Studies in American Art Units: 4
+- AHIS 475m Blackness in American Visual Culture Units: 4
+- AMST 205g Introduction to American Popular Culture Units: 4
+- AMST 285gm African American Popular Culture Units: 4
+- AMST 305 Art and Performance in the Americas Units: 4
+- AMST 385 African American Culture and Society Units: 4
+- AMST 448m Chicano and Latino Literature Units: 4
+- AMST 449m Asian American Literature Units: 4
+- COMM 458m Race and Ethnicity in Entertainment and the Arts Units: 4
+- ENGL 263g American Literature Units: 4
+- ENGL 392 Visual and Popular Culture Units: 4
+- ENGL 442 American Literature, 1920 to the Present Units: 4
+- ENGL 445m The Literatures of America: Cross-Cultural Perspectives Units: 4
+- ENGL 446 Contemporary African American Literature Units: 4
+- GESM 120g Seminar in Humanistic Inquiry Units: 4
+- REL 336w Re-Viewing Religion in Asian America Units: 4
+- REL 483 Religion and Popular Culture in the United States Units: 4
+
+#### Social and Political Issues
+
+---
+
+- AMST 101gmw Race and Class in Los Angeles Units: 4
+- AMST 140gw Borderlands in a Global Context Units: 4
+- AMST 150gw The American War in Viet Nam Units: 4
+- AMST 201g LGBTQ America Units: 4
+- AMST 202m Interethnic Diversity in the West Units: 4
+- AMST 204g Introduction to Native Studies Units: 4
+- AMST 206gm The Politics and Culture of the 1960s Units: 4
+- AMST 220gmw The Making of Asian America Units: 4
+- AMST 274mw Exploring Ethnicity through Film Units: 4
+- AMST 285gm African American Popular Culture Units: 4
+- AMST 301gp America, the Frontier, and the New West Units: 4
+- AMST 320 Social Construction of Race and Citizenship Units: 4
+- AMST 325gw The Middle East in Hollywood Units: 4
+- AMST 330m Black Music and the Political Imagination Units: 4
+- AMST 332m Post-Civil Rights Black America Units: 4
+- AMST 337m Islam in Black America: From Slavery to Hip Hop Units: 4
+- AMST 340m Latina/o LA Units: 4
+- AMST 344m Islamic Law and American Society Units: 4
+- AMST 345 Law and American Indian Studies Units: 4
+- AMST 348m Race and Environmentalism Units: 4
+- AMST 353m Race and Racism in the Americas Units: 4
+- AMST 357m Latino Social Movements Units: 4
+- AMST 365 Leadership in the Community — Internship Units: 4
+- AMST 389m Carceral Geographies Units: 4
+- AMST 395m African American Humor and Culture Units: 4
+- AMST 446 Latinx Music in the Americas Units: 4
+- AMST 452m Race, Gender and Sexuality Units: 4
+- AMST 466m Psychological Dynamics of the African American Experience Units: 4
+- ANTH 240gm Representing 9/11 and Hurricane Katrina Units: 4
+- GESM 130g Seminar in Social Analysis Units: 4
+- JOUR 466m People of Color and the News Media Units: 4
+- POSC 320 Urban Politics Units: 4
+- POSC 328 Asian American Politics Units: 4
+- POSC 421 Ethnic Politics Units: 4
+- POSC 424m Political Participation and American Diversity Units: 4
+- POSC 427 Black Politics in the American Political System Units: 4
+- POSC 428 Latino Politics Units: 4
+- PSYC 462m Culture and Mental Health Units: 4
+- REL 333 Religion in the Borderlands Units: 4
+- SOCI 100gmw Los Angeles and the American Dream Units: 4
+- SOCI 342m Race Relations Units: 4
+- SOCI 355m Immigrants in the United States Units: 4
+- SOCI 356m Mexican Immigrants in Sociological Perspective Units: 4
+- SOCI 376m Contemporary Issues in Asian American Communities Units: 4
+- SOCI 432m Racial and Ethnic Relations in a Global Society Units: 4
+
+## Upper-Division Elective Courses
+
+---
+
+Additional courses for a total of 16 units from the lists above or below, or other American Studies and Ethnicity courses with the approval of the department, 300-level or higher. No more than two total courses in the major may be taken outside the college.
+
+- AMST 345 Law and American Indian Studies Units: 4
+- AMST 392 Undergraduate Research Methods Units: 2
+- AMST 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 max 12
+- AMST 499 Special Topics Units: 2, 3, 4 max 8
+
+---

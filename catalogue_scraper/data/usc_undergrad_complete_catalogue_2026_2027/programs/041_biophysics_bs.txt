@@ -1,0 +1,66 @@
+Program Name: Biophysics (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31890
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31890&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31890
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:50:28Z
+Content SHA-256: 69976ada3dd697e3334b7499f95aa08c5a0bd0685fd8f70f3bb72c00d28107d4
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Biophysics (BS)
+
+---
+
+This program is intended for students with an interest in the interdisciplinary field of biophysics. The degree program provides the physics and biology background necessary for the field while simultaneously fulfilling medical school entrance requirements.
+
+## Required Lower-Division Courses
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+- CHEM 115aLg Advanced General Chemistry Units: 4 *
+- CHEM 115bL Advanced General Chemistry Units: 4 *
+- MATH 125g Calculus I Units: 4
+- MATH 225 Linear Algebra and Linear Differential Equations Units: 4
+- MATH 226g Calculus III Units: 4
+- PHYS 161Lg Advanced Principles of Physics I Units: 4
+- PHYS 162L Advanced Principles of Physics II Units: 4
+- PHYS 163L Advanced Principles of Physics III Units: 4
+- PHYS 190 Physics Discovery Series Units: 4
+
+## Required Upper-Division Courses
+
+---
+
+- BISC 320Lg Molecular Biology Units: 4
+- BISC 330L Biochemistry Units: 4
+- CHEM 322aL Organic Chemistry Units: 4
+- CHEM 322bL Organic Chemistry Units: 4
+- MATH 445 Mathematics of Physics and Engineering II Units: 4
+- PHYS 304 Mechanics Units: 4
+- PHYS 316 Thermodynamics and Statistical Mechanics Units: 4
+- PHYS 408a Electricity and Magnetism Units: 4
+- PHYS 438a Introduction to Quantum Mechanics and its Applications Units: 4
+- PHYS 444 Physical Biology: From Molecules to Cells Units: 4
+
+## Departmental Honors
+
+---
+
+For those wishing to pursue an honors degree, a senior thesis with at least 2 units of PHYS 490x is also required. Students who maintain a GPA of at least 3.5 in physics courses are eligible for graduation with honors, or high honors with a GPA of at least 3.8.
+
+## Total units: 84
+
+---
+
+*CHEM 105aLg and CHEM 105bL may be substituted for the sequence CHEM 115aLg and CHEM 115bL
+
+---

@@ -1,0 +1,48 @@
+Program Name: Photography Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31578
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31578&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31578
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:12:04Z
+Content SHA-256: 5b0aa6dda323c673026a560ed6499d4d1ab059561eacacf6ea61bee94679238c
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Photography Minor
+
+---
+
+The Photography minor provides an in-depth experience in all aspects of photography. The well-equipped darkrooms allow individual hands-on exploration of black and white and color processes, camera types, historical and traditional printing methods, lighting and film processing as well as digital technologies and issues. It also includes a foundation in photo theory and criticism. This minor is appropriate for students interested in an intense experiential exploration of the medium of photography. The total number of units required for the minor is 20.
+
+## Two lower-division courses (8 units):
+
+---
+
+- ART 149 Black and White Film and Darkroom Photography Units: 4
+- ART 150 Introduction to Photography: Process and Concept Units: 4
+
+## Required upper-division course (8 units):
+
+---
+
+- ART 350 Intermediate Photography: Studio, Field, Independent Projects Units: 4
+- ART 450 Topics in Advanced Photography Units: 4
+
+## One upper-division course (4 units) chosen from the following:
+
+---
+
+- AHIS 373g History and Theory of Photography Units: 4
+- AHIS 469 Critical Approaches to Photography Units: 4
+- ART 362 Ideas in Intermedia Units: 4
+- ART 450 Topics in Advanced Photography Units: 4 max 12
+- ART 460 Post-Material Studio Units: 4
+- CRIT 350gw Global Art, Design and Visual Culture since 1960 Units: 4
+
+---

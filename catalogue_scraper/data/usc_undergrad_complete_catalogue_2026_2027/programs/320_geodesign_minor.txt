@@ -1,0 +1,53 @@
+Program Name: Geodesign Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32948
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32948&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32948
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:06:33Z
+Content SHA-256: 4f242557b5d6767b2cf80b108644c75d31555f32e17007767c827c34633ba464
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Geodesign Minor
+
+---
+
+The Minor in Geodesign expands students’ perspectives as they prepare for careers in architecture, communications, environmental studies, health promotion, public policy, real estate, social sciences, and urban planning. Emphasizing the value of interdisciplinary collaboration within urban spaces, the program is grounded in the spatial sciences and includes one lower-division elective, four core courses, and a capstone course. Together, these interconnected courses train future leaders in sustainability to apply spatial principles that foster connected and resilient communities. Students gain both conceptual and practical skills, ranging from spatial data analysis to stakeholder engagement, that help them understand local and global phenomena. The program equips students to address pressing environmental and social challenges with data-driven solutions and cultivates an appreciation for how urban structures develop across space and time.
+
+The minor requires at least 20 units.
+
+## Lower Division Elective (4 units)
+
+---
+
+Choose one of the following courses:
+
+- SSCI 165Lgw Sustainability Science in the City Units: 4
+- SSCI 175gw Food, Health and Place Units: 4
+
+## Core Courses (12 units)
+
+---
+
+Complete all of the following courses:
+
+- SSCI 201g Principles of Geodesign Units: 4
+- SSCI 301L Maps and Spatial Reasoning Units: 4
+- SSCI 313 Global Geodesign and Stakeholder Engagement Units: 2
+- SSCI 314 Comparative Sustainability Theory and Practice for Geodesign Units: 2
+
+## Capstone Course (4 units)
+
+---
+
+Complete the following course after finishing core requirements:
+
+- SSCI 402 GIS and Sustainable Development Units: 4
+
+---

@@ -1,0 +1,309 @@
+Program Name: Jazz Studies (BM)
+Credential: BM
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32230
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32230&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32230
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:21Z
+Content SHA-256: 4f553fed7084ca1784b788c0e2b573011ae964705bf703de26411bc260ebe3e7
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Jazz Studies (BM)
+
+---
+
+## Overview
+
+The Bachelor of Music in Jazz Studies consists of course work in the major, core music studies (theory, aural skills, music history, ensemble) and USC's general education and writing program.
+
+## Entrance Requirements
+
+Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees. Specific entrance requirements are reviewed on an annual basis and published online at music.usc.edu.
+
+## General Education Requirements
+
+USC's General Education program, revised in fall 2015, provides a coherent, integrated approach to the study of the liberal arts, with the goal of nurturing habits of thought that are essential for professional success, personal development, and meaningful lifelong learning. Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC. With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements. Academic advisers in the Thornton School carefully guide Thornton students in making their course choices. This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements.
+
+## Capstone Project
+
+A senior recital or senior project must be completed under approved faculty supervision and guidance. The faculty of the department of the student's major program determines the detailed requirements of the recital or project, including content, length, format and/or other specifications. Note that senior projects must first be approved by the Jazz faculty. In cases in which a performance venue is required in order to present the recital, reservations must be made according to the current guidelines of the Music Operations office.
+
+## Curriculum Requirements for Non-Guitar
+
+---
+
+### General Education *
+
+---
+
+#### Core Literacies
+
+---
+
+GE-A: The Arts (one course)
+
+GE-B: Humanistic Inquiry (two courses)
+
+GE-C: Social Analysis (two courses)
+
+GE-D: Life Sciences (one course)
+
+GE-E: Physical Sciences (one course)
+
+GE-F: Quantitative Reasoning (one course)
+
+#### Global Perspectives
+
+---
+
+GE-G: Global Perspectives I (one course)
+
+GE-H: Global Perspectives II (one course)
+
+#### Writing
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+### Core Thornton Academic Courses (24 units)
+
+---
+
+- MUCO 132a Aural Skills I Units: 2
+- MUCO 132b Aural Skills I Units: 2
+- MUCO 133a Theory I Units: 3
+- MUCO 133b Theory I Units: 3
+- MUSC 496 Careers in Music Units: 2
+- MUHL 250g Music and Ideas Units: 4
+- MUJZ 350g A History of Jazz Music Units: 4
+- MUSC 250gmw The Music of Black Americans Units: 4
+
+### Program Specific Courses (58 units)
+
+---
+
+#### Individual Instruction (16 units)
+
+---
+
+- MUJZ 153 Individual Instruction Units: 1, 2
+- 4 units total of MUJZ 153 in your primary instrument
+- MUJZ 253 Individual Instruction Units: 1, 2
+- 4 units total of MUJZ 253 in your primary instrument
+- MUJZ 353 Individual Instruction Units: 1, 2
+- 4 units total of MUJZ 353 in your primary instrument
+- MUJZ 453 Individual Instruction Units: 1, 2
+- 4 units total of MUJZ 453 in your primary instrument
+
+#### Ensembles (14 units)**
+
+---
+
+Select 14 units from the following as directed by the department:
+
+- MUEN 305 Vocal Jazz Ensemble Units: 1
+- MUEN 326 Guitar Ensemble Units: 1
+- MUEN 329 Jazz Ensemble Units: 1
+- MUEN 332 Jazz Chamber Music Units: 1
+- MUJZ 311 Vocal Jazz Techniques Units: 2 **
+- ** Vocal Jazz students will only be required to completed 12-units of ensemble and will be required to take MUJZ 311 Vocal Jazz Techniques as the remaining 2-units. All other jazz instrumentalists must complete 14-units of ensemble to complete the ensemble requirement.
+
+#### Program Intensive Courses (28 units)
+
+---
+
+- Complete 4 units of MUJZ 195 or MUJZ 197ab, as listed for your primary instrument:
+- MUJZ 195L Jazz Elements I Units: 2
+- 4 units total of MUJZ 195 required for all jazz instrumentalists (non-vocal jazz)
+- or
+- MUJZ 197a Vocal Jazz Elements I Units: 2
+- MUJZ 197b Vocal Jazz Elements I Units: 2
+- 4 units total of MUJZ 197ab required for all vocal jazz (non-jazz instrumentalists)
+-
+- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2
+- MUIN 270 Introduction to the Music Industry Units: 4
+- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2
+- MUJZ 305a Advanced Jazz Theory Units: 2
+- MUJZ 305b Advanced Jazz Theory Units: 2
+- MUJZ 395 Jazz Elements II Units: 2
+- 4 units total of MUJZ 395
+- MUJZ 400 Arranging for Jazz Ensemble Units: 2
+- Select 2 units from the following as directed by the department:
+- MPGU 415 Studio Guitar Pedagogy Units: 2
+- MUJZ 443 Jazz Pedagogy Units: 2
+- ​Select 4 units from the following:
+- MTEC 245 Introduction to MIDI Sequencing Units: 1
+- MTEC 246 Introduction to Audio Recording and Editing Units: 1
+- MTEC 248 Introduction to Music Notation Units: 1
+- MTEC 249 Introduction to Web Design for Musicians Units: 1
+- MTEC 443 Desktop Music Production Units: 2
+- MTEC 444 Non-Linear MIDI Sequencing Units: 2
+- MTEC 445 Advanced Desktop Music Production Units: 2
+- MTEC 446a Computer Assisted Recording and Editing Units: 2
+- MTEC 446b Computer Assisted Recording and Editing Units: 2
+- MTEC 474a Electronic Synthesizer Techniques Units: 2, 3, 4
+
+### Electives (18 units)
+
+---
+
+### Capstone Project
+
+---
+
+Senior Recital or Senior Project: 0 units
+
+## Total required for degree: 132
+
+---
+
+* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.
+
+## Curriculum Requirements for Guitar
+
+---
+
+### General Education *
+
+---
+
+​​​​​​​​
+
+#### Core Literacies
+
+---
+
+GE-A: The Arts (one course)
+
+GE-B: Humanistic Inquiry (two courses)
+
+GE-C: Social Analysis (two courses)
+
+GE-D: Life Sciences (one course)
+
+GE-E: Physical Sciences (one course)
+
+GE-F: Quantitative Reasoning (one course)
+
+#### Global Perspectives
+
+---
+
+GE-G: Citizenship in a Global Era (one course)
+
+GE-H: Traditions and Historical Foundations (one course)
+
+#### Writing
+
+---
+
+- WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4
+- WRIT 340 Advanced Writing and Critical Engagement Units: 4
+
+### Core Thornton Academic Courses (24 units)
+
+---
+
+- MUCO 132a Aural Skills I Units: 2
+- MUCO 132b Aural Skills I Units: 2
+- MUCO 133a Theory I Units: 3
+- MUCO 133b Theory I Units: 3
+- MUSC 496 Careers in Music Units: 2
+- MUHL 250g Music and Ideas Units: 4
+- MUJZ 350g A History of Jazz Music Units: 4
+- MUSC 250gmw The Music of Black Americans Units: 4
+
+### Program Specific Courses (58 units)
+
+---
+
+#### Individual Instruction (16 units)
+
+---
+
+- MUJZ 153 Individual Instruction Units: 1, 2
+- 4 units total of MUJZ 153 (Guitar)
+- MUJZ 253 Individual Instruction Units: 1, 2
+- 4 units total of MUJZ 253 (Guitar)
+- MUJZ 353 Individual Instruction Units: 1, 2
+- 4 units total of MUJZ 353 (Guitar)
+- MUJZ 453 Individual Instruction Units: 1, 2
+- 4 units total of MUJZ 453 (Guitar)
+
+#### Ensembles (6 units)
+
+---
+
+- MUEN 326 Guitar Ensemble Units: 1
+- 2 units total of MUEN 326
+- Select 4 units from the following as directed by the department:
+- MUEN 305 Vocal Jazz Ensemble Units: 1
+- MUEN 326 Guitar Ensemble
+- MUEN 329 Jazz Ensemble Units: 1
+- MUEN 332 Jazz Chamber Music Units: 1
+
+#### Program Intensive Courses (26 units)
+
+---
+
+- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2
+- MUIN 270 Introduction to the Music Industry Units: 4
+- MUJZ 195L Jazz Elements I Units: 2
+- 4 units total of MUJZ 195
+- MUJZ 305a Advanced Jazz Theory Units: 2
+- MUJZ 305b Advanced Jazz Theory Units: 2
+- MUJZ 395 Jazz Elements II Units: 2
+- 4 units total of MUJZ 395
+- MUJZ 400 Arranging for Jazz Ensemble Units: 2
+- Select 2 units from the following as directed by the department:
+- MPGU 415 Studio Guitar Pedagogy Units: 2
+- MUJZ 443 Jazz Pedagogy Units: 2
+- Select 4 units from the following:
+- MTEC 245 Introduction to MIDI Sequencing Units: 1
+- MTEC 246 Introduction to Audio Recording and Editing Units: 1
+- MTEC 248 Introduction to Music Notation Units: 1
+- MTEC 249 Introduction to Web Design for Musicians Units: 1
+- MTEC 443 Desktop Music Production Units: 2
+- MTEC 444 Non-Linear MIDI Sequencing Units: 2
+- MTEC 445 Advanced Desktop Music Production Units: 2
+- MTEC 446a Computer Assisted Recording and Editing Units: 2
+- MTEC 446b Computer Assisted Recording and Editing Units: 2
+- MTEC 474a Electronic Synthesizer Techniques Units: 2, 3, 4
+
+#### Guitar Intensive Courses (10 units)
+
+---
+
+- MPGU 160a Functional Skills for the Jazz Guitarist Units: 2
+- MPGU 160b Functional Skills for the Jazz Guitarist Units: 2
+- MPGU 260 Improvising and Arranging for Jazz Guitar Units: 2
+- Select 4 units from the following as directed by the department:
+- MPGU 420 Guitar Styles Units: 2
+- MPGU 460 Advanced Improvising and Arranging for Jazz Guitar Units: 2
+- MPGU 462 Recording and Producing Techniques for the Guitarist Units: 2
+
+### Electives (18 units)
+
+---
+
+### Capstone Project
+
+---
+
+Senior Recital or Senior Project: 0 units
+
+## Total required for degree: 132
+
+---
+
+* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.
+
+---

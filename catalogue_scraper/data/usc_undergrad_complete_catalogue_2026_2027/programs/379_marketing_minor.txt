@@ -1,0 +1,29 @@
+Program Name: Marketing Minor
+Credential: 
+School or Academic Unit: USC Marshall School of Business
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31607
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31607&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31607
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:10:34Z
+Content SHA-256: 3fd9abadee726cdb3b18ec74b999a529b0bf7eecc6fded9561486a3379c01539
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Marketing Minor
+
+---
+
+Marketing studies processes that organizations use to identify and serve the needs of customers.
+
+The marketing minor provides a business-related education that will supplement many undergraduate majors, and enhance the career prospects for students whose majors could incorporate a marketing dimension or application. This minor should appeal to any student interested in an early marketing career, which includes, but is not limited to, professional sales, retailing, marketing research, product management and advertising.
+
+Eligible students must have completed a minimum of 32 units of college-level course work and have a minimum GPA of 2.75. BUAD 307 Marketing Fundamentals must be completed as a required prerequisite. Students must successfully complete 16 units of MKT electives to satisfy this minor.
+
+Return to: USC Marshall School of Business
+
+---

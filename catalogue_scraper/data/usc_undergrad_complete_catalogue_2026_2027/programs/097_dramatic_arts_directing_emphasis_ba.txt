@@ -1,0 +1,101 @@
+Program Name: Dramatic Arts, Directing Emphasis (BA)*
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32918
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32918&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32918
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:52Z
+Content SHA-256: 945e72f0f227c31a4a7ba6b28369da14186f640763a3dd096a9ee1a0b8810bdb
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Dramatic Arts, Directing Emphasis (BA)*
+
+---
+
+The BA in Dramatic Arts with an Emphasis in Directing provides students with the artistic, technical and leadership skills necessary to helm theatrical productions and collaborative creative projects. Combining rigorous training in script analysis, staging and actor direction with an exploration of dramatic literature and storytelling techniques, this program prepares students for careers in theater, film and emerging media. With hands-on experience in directing, project creation and interdisciplinary collaboration, graduates will be equipped to navigate the evolving landscape of the performing arts as innovative and versatile directors.
+
+## Required Directing Courses for the Emphasis
+
+---
+
+- THTR 101 Introduction to Acting Units: 4
+- THTR 130 Introduction to Theatrical Production Units: 2
+- THTR 152 Introduction to Scene Study: Contemporary Plays Units: 4
+- THTR 230 Theatrical Design as Poetic Realism Units: 3
+- THTR 232 Introduction to Theatrical Lighting Units: 3
+- THTR 305a Directing Units: 4
+- THTR 305b Directing Units: 4
+- THTR 397 Theatre Practicum Units: 1, 2, 3, 4
+- THTR 451 Leadership Tools for the Director Units: 4
+- THTR 495 Experimental Theatre Workshop I Units: 4
+- THTR 496 Experimental Theatre Workshop II Units: 4
+
+## Worldview Elective
+
+---
+
+Select one course from the following: (4 units)
+
+- THTR 309 Dramaturgy Units: 4
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 401 Contemporary Theatre in a Changing World Units: 4
+- THTR 403 The Performing Arts Units: 4
+
+## Design Elective
+
+---
+
+Select one course from the following: (3 - 4units)
+
+- THTR 303 Projection Design I Units: 3
+- THTR 331 Costume Design I Units: 4
+- THTR 336 Sound Design I Units: 3
+
+## Required Critical Studies Core (16 units)
+
+---
+
+Complete the two required courses below. In addition, take one course from List A and one course from either list A or B.
+
+- THTR 125 Text Studies for Production Units: 4
+- THTR 225g Theatre Across History and Cultures Units: 4
+
+### List A
+
+---
+
+- THTR 310 Comedy and Diversity Units: 4
+- THTR 312 LGBTQ Theatre Units: 4
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 405m Performing Identities Units: 4
+- THTR 406 Theatre on the Edge Units: 4
+- THTR 456 Latinx Theatre Units: 4
+- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4
+- THTR 476mw African American Theatre, Dance, and Performance Units: 4
+
+### List B
+
+---
+
+- THTR 301 Greek and Roman Theatre Units: 4
+- THTR 302 Shakespeare in His World Units: 4
+- THTR 313 Comedy of Manners Units: 4
+- THTR 314 Advanced Topics in Modern Drama Units: 4
+- THTR 400 Eco-Theatre: Art and Science in Contemporary Plays Units: 4
+- THTR 403 The Performing Arts Units: 4
+
+## Required General Education Units: 36
+
+---
+
+## Total Units: 128
+
+---
+
+---

@@ -1,0 +1,105 @@
+Program Name: Human Development and Aging, Health Science Track (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32143
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32143&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32143
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:54:58Z
+Content SHA-256: 51f6448a5e066dbf6bc7ecb9e4e60c37830876053ee42fcbce040c68ef1e5064
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Human Development and Aging, Health Science Track (BS)
+
+---
+
+The Bachelor of Science in Human Development and Aging is an undergraduate degree offered at the USC Leonard Davis School of Gerontology in the social sciences. Students in this program often pursue careers related to older adults in business, law, the nonprofit sector or government agencies.
+
+The health science track combines the core gerontology curriculum with the prerequisites for admission to medical school and other health-related fields including: dentistry, pharmacy, occupational/physical therapy, physician assistant programs and others. In addition, students will participate in a supervised practicum experience in which they will become directly involved with aging clients in a health care setting.
+
+#### Requirements for Admission
+
+The listed requirements for admission to the health science track in human development and aging will not differ from existing requirements for admission to the Bachelor of Science in Human Development and Aging. However, because health professional schools are very competitive, USC students interested in this program will be expected to have achieved at least a 3.0 grade point average (A = 4.0). Students entering the program from high schools or transferring from community colleges will also be expected to meet the minimum admission standards.
+
+## Degree Requirements
+
+---
+
+### Science and Mathematics
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+- CHEM 105aLg General Chemistry Units: 4 [*]
+- CHEM 105bL General Chemistry Units: 4 [*]
+- CHEM 322aL Organic Chemistry Units: 4 [*]
+- CHEM 322bL Organic Chemistry Units: 4 [*]
+- MATH 125g Calculus I Units: 4 [*]
+- PHYS 135aLg Physics for the Life Sciences Units: 4 [*]
+- PHYS 135bL Physics for the Life Sciences Units: 4 [*]
+
+### Total units: 36
+
+---
+
+### Gerontology Upper Division Core Courses
+
+---
+
+- GERO 310 Physiology of Aging Units: 4
+-
+- GERO 320g Psychology of Adult Development Units: 4 or
+- GERO 330 Society and Adult Development Units: 4
+-
+- GERO 340 Policy, Values, and Power in an Aging Society Units: 4
+- GERO 414 Neurobiology of Aging Units: 4
+- GERO 495 Practicum in Geriatric Care Units: 4
+
+### Total units: 20
+
+---
+
+### Additional Requirements
+
+---
+
+- General Education Units: 24
+- Writing Requirement Units: 8
+- Gerontology upper division electives Units: 12
+- General electives in gerontology or related disciplines (8 units upper division) Units: 28
+
+### Total units: 72
+
+---
+
+## Total units: 128
+
+---
+
+## Recommended General Electives
+
+---
+
+- ANTH 305 Childhood, Birth and Reproduction Units: 4
+- BISC 480L Developmental Biology Units: 4 [*]
+- HP 402 Maternal and Child Health Units: 4
+- LING 405 Child Language Acquisition Units: 4
+- PSYC 100Lg Introduction to Psychology Units: 4
+- PSYC 336L Developmental Psychology Units: 4 [*]
+- PSYC 437 Adolescent Development Units: 4 [*]
+- SOCI 305m Sociology of Childhood Units: 4
+- SOCI 369 The Family in a Changing Society Units: 4
+
+### Note:
+
+---
+
+[*]Prerequisite required.
+
+---

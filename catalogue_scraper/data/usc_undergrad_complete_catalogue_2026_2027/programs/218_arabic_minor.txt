@@ -1,0 +1,45 @@
+Program Name: Arabic Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32413
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32413&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32413
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:21Z
+Content SHA-256: 38474582e5be9752483b46337632f97db641bc66fbf4c2207e1c6d188390fc3f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Arabic Minor
+
+---
+
+The Arabic minor provides students with advanced competency in speaking, reading, writing and understanding the Arabic language. Advanced ability in Arabic can open many doors. Course work for this minor prepares students for various careers and graduate-level study.
+
+Five courses (20 units) are required for the minor. All students must take ARAB 252 , ARAB 322 and ARAB 352 . For those students who do not already have ARAB 252 equivalent proficiency, ARAB 122 , ARAB 152 and ARAB 222 or their equivalent (which do not count toward the minor) must be completed before enrolling in ARAB 252 . For those with prior study of Arabic, a placement exam is offered by the USC Language Center to determine language level. If student proficiency surpasses the third-semester college level, the USC Language Center should be consulted about a higher-level proficiency exam. The remaining two courses (8 units) must be selected from the list of elective courses below.
+
+Students are encouraged to study abroad. Prior approval by the department is required of all courses that are to be counted toward the minor. Equivalent courses from other universities will be assessed by the MDES Curriculum Committee.
+
+## Required Courses
+
+---
+
+- ARAB 252 Arabic IV Units: 4
+- ARAB 322 Advanced Arabic I Units: 4
+- ARAB 352 Advanced Arabic II Units: 4
+
+## Upper-Division Arabic Elective Courses
+
+---
+
+Two courses (8 units) from the following list must also be selected (or substitutes that are pre-approved by the MDES Curriculum Committee). The prerequisite for ARAB 300 is either ARAB 252 or ARAB 334 .
+
+- ARAB 300 Introduction to Translation Units: 4
+- ARAB 333 Colloquial Arabic: Regional Dialects Units: 4
+- ARAB 334 Media Arabic Units: 4
+
+---

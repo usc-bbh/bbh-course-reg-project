@@ -1,0 +1,97 @@
+Program Name: Biochemistry (BS)
+Credential: BS
+School or Academic Unit: USC Dornsife College of Letters, Arts and Sciences are applicable
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31721
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31721&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31721
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:49:58Z
+Content SHA-256: 58e596860f01a9dc0b48687fe382eb856c15c72b9d86a4b91169d87351d835cd
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Biochemistry (BS)
+
+---
+
+This degree is offered jointly by the Departments of Biological Sciences and Chemistry.
+
+The general education, writing, foreign language and diversity requirements for a degree in the USC Dornsife College of Letters, Arts and Sciences are applicable.
+
+Students must complete each required course in the Departments of Biological Sciences and Chemistry with a grade of C- or better, and maintain an overall GPA of 2.0 or better in all attempted courses in the two departments in the regular degree program.
+
+## Required Courses
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4
+- or
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+-
+- BISC 320Lg Molecular Biology Units: 4
+- BISC 330L Biochemistry Units: 4
+- BISC 403 Advanced Molecular Biology Units: 4
+- BISC 435 Advanced Biochemistry Units: 4
+-
+- CHEM 105aLg General Chemistry Units: 4
+- CHEM 105bL General Chemistry Units: 4
+- or
+- CHEM 107Lg General Chemistry for Chemistry Majors Units: 4
+- CHEM 108L General Chemistry for Chemistry Majors: Kinetics and Equilibrium Units: 4
+- or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+- CHEM 115bL Advanced General Chemistry Units: 4
+-
+- CHEM 300L Analytical Chemistry Units: 4
+-
+- CHEM 322aL Organic Chemistry Units: 4
+- CHEM 322bL Organic Chemistry Units: 4
+- or
+- CHEM 325aL Organic Chemistry Units: 4
+- CHEM 325bL Organic Chemistry Units: 4
+-
+- CHEM 430 Physical Chemistry: Thermodynamics and Kinetics Units: 4 or
+- CHEM 432 Physical Chemistry for the Life Sciences Units: 4
+-
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+-
+- MATH 208x Elementary Probability and Statistics Units: 4 or
+- MATH 226g Calculus III Units: 4 or
+- QBIO 305g Statistics for Biological Sciences Units: 4
+-
+- PHYS 135aLg Physics for the Life Sciences Units: 4
+- PHYS 135bL Physics for the Life Sciences Units: 4
+- or
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+
+## Additional Requirements
+
+---
+
+Eight units of upper-division, non-core course work available for major credit in biological sciences or chemistry are required. Students enrolled in BISC 490 are limited to 4 units, while students enrolled in CHEM 490 may complete up to 8 units. No more than two seminars (BISC 460 to BISC 462 ), totaling 4 units, may be applied to the upper-division elective requirement.
+
+## Honors Program in Biochemistry
+
+---
+
+A BS degree with honors in biochemistry is available for eligible students. In meeting program requirements students must submit an application and satisfy the objectives of one of the program options noted below.
+
+#### Option One: Biochemistry Honors with Chemistry Research
+
+Students seeking admission into option one must have at least junior standing (64 units) with an overall USC GPA of 3.5 or better in at least 32 units at USC, and have a 3.5 or better in at least 16 units in biological sciences and chemistry. Students in this option must complete 8 units of research (CHEM 490 ) under the supervision of chemistry faculty with the results of research being described in an undergraduate thesis reviewed and approved by a faculty committee. To graduate with honors under this option students must earn a GPA of 3.5 in all biological sciences and chemistry courses required for the major.
+
+#### Option Two: Biochemistry Honors with Biology Research
+
+Students seeking admission into option two must have at least sophomore standing (32 units) with an overall USC GPA of 3.5 or better both cumulatively and in 16 units in biological sciences and chemistry. Students in this option must complete 4 units of research (BISC 490 ) under faculty in biological sciences or under faculty in any other department approved by biological sciences. In addition, students must complete two semesters of Honors Seminar (BISC 493 ), 1 unit each, and one semester of Honors Thesis (BISC 494 ), 2 units. To graduate with honors under this option students must earn a GPA of 3.5 in all sciences and mathematics courses required for the major.
+
+Upon graduation, transcripts of students following either option will be noted, “Bachelor of Science with Departmental Honors.”
+
+---

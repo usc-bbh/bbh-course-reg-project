@@ -1,0 +1,47 @@
+Program Name: Astronomy Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31893
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31893&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31893
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:59:38Z
+Content SHA-256: 0ee2964df4bf1e95001131c7fcdbdb1976c17c84f5b35fb8026cbc88a4e60b28
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Astronomy Minor
+
+---
+
+The astronomy minor is open to all students. A minimum of three courses taken toward the minor must be unique to the minor.
+
+## Required Courses (24 Units)
+
+---
+
+- MATH 125g Calculus I Units: 4
+- MATH 126g Calculus II Units: 4
+- MATH 226g Calculus III Units: 4
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+- PHYS 153L Fundamentals of Physics III: Optics, Thermo, Modern Physics Units: 4
+
+## Elective - Choose 3 (12 Units)
+
+---
+
+- ASTR 400 The Solar System Units: 4, 2 years
+- ASTR 422 Galaxies and Large-Scale Structures in the Universe Units: 4, 2 years
+- ASTR 424 Cosmology Units: 4
+- ASTR 450 Astroparticle Physics Units: 4
+
+## Total units: 36
+
+---
+
+---

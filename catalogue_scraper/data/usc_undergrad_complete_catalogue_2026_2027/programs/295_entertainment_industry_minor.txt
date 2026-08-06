@@ -1,0 +1,99 @@
+Program Name: Entertainment Industry Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31681
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31681&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31681
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:13Z
+Content SHA-256: 4891d34ae9e9c145ff6834ff6d3a816ee6058b472b5445cfe4415e6ab7b117a1
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Entertainment Industry Minor
+
+---
+
+The minor in the entertainment industry provides students interested in media content creation with a focused curriculum that will give them insight into the economic factors and professional practices that influence the creative process, and how they interact with social, historical, technical, and aesthetic elements. To be eligible for the entertainment industry minor, a student must be in good academic standing, have a declared major, and have completed CTCS 190g Introduction to Cinema or CTCS 191 Introduction to Television and Video with a C or better. To declare the minor, a student must submit a Change of Major/Minor form to Cinematic Arts Student Services, SCB 105.
+
+#### Course Requirements for the Minor
+
+A total of 20 upper-division units is required for the minor in the Entertainment Industry.
+
+## Courses
+
+---
+
+- CNTV 375 Breaking Into the Entertainment Industry Units: 2
+- CNTV 475 How to Make “It”: Mapping Your Way to Success in Showbiz Units: 2
+- CNTV 495 Internship in Cinematic Arts Units: 1, 2, 4 *
+- CTPR 458 Organizing Creativity: Entertainment Industry Decision Making Units: 2
+- *Note: CNTV 495 must be taken for two (2) units.
+
+### One of the following:
+
+---
+
+- CNTV 440 The Business of the Entertainment Industry: Motion Pictures, Television, Animation, Video Games, and Interactive Entertainment Units: 2
+- CNTV 473 Digital Media Techniques of Entertainment and Fake News Units: 2
+
+### One of the following:
+
+---
+
+- CTCS 466 Theatrical Film Symposium Units: 4
+- CTCS 467 Television Symposium Units: 4
+
+### One of the following:
+
+---
+
+- CTWR 411 Television Script Analysis Units: 2
+- CTWR 416 Motion Picture Script Analysis Units: 2
+
+### Four units from:
+
+---
+
+- CNTV 457 The Entertainment Entrepreneur: Getting Your First Project Made Units: 2
+- CNTV 474 Digital DNA: Media Redefined Units: 2
+- CNTV 522 Television in the Digital Age: Networks and the Rise of Streaming Units: 4 *
+- CNTV 523 Feature Film Financing and the Studio System Units: 4 *
+- CNTV 524 Digital Technologies and the Entertainment Industry Units: 4 *
+- CNTV 525 Entertainment Marketing in Today’s Digital Environment Units: 4 *
+- CNTV 562 Seminar in Motion Picture Business Units: 4 *
+- CNTV 563 The Business of Representation Units: 4 *
+- CTAN 432 The World of Visual Effects Units: 2
+- CTAN 451 History of Animation Units: 2
+- CTIN 412 Interactive Systems Design Units: 2
+- CTIN 458 Business and Management of Games Units: 2
+- CTIN 463 Anatomy of a Game Units: 4
+- CTPR 386 Film and Television Case Study Units: 4
+- CTPR 410 The Entertainment Industry: From Idea to Audience Units: 2
+- CTPR 425 Production Planning Units: 2
+- CTPR 438 Practicum in Producing Units: 2 +
+- CTPR 460 Film Business Procedures and Distribution Units: 2 or 4
+- CTPR 461 Managing Television Stations and Internet Media Units: 2
+- CTPR 491 Viral Comedy Units: 2
+- CTPR 496 Women in the Entertainment Industry Units: 2
+- CTWR 430 Comedy Writers and Their Work Units: 2
+- CTWR 417 Script Coverage and Story Analysis Units: 2
+- CTWR 431 Screenwriters and Their Work Units: 2
+- CTWR 432 Television Writers and Their Work Units: 2
+- IML 466 Digital Studies Symposium Units: 2
+- *Taking graduate-level courses requires special permission.
+- + Prerequisite required.
+
+## Note:
+
+---
+
+#### Grade Point Average Requirement
+
+A minimum grade of C (2.0) in each course is required. A grade of C- (1.7) or lower does not fulfill a minor requirement.
+
+---

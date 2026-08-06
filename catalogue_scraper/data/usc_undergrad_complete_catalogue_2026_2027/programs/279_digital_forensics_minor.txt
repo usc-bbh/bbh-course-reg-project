@@ -1,0 +1,45 @@
+Program Name: Digital Forensics Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32745
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32745&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32745
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:01:39Z
+Content SHA-256: a39b179d09ea55baedde2a06d08eba712aa74c8463614a21c6bd5046e7d0ebfb
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Digital Forensics Minor
+
+---
+
+The Digital Forensics Minor combines both theoretical concepts and practical skills to prepare students for a career in digital forensics and incident response (DFIR). Students will study various areas of cyber forensics, including forensic methodologies and processes, digital evidence gathering and preservation, investigations and examinations, threat hunting and court presentation. Electives are available depending on the students' academic and professional goals.
+
+The minor requires a minimum of 18 units.
+
+## Core Requirements (6 units)
+
+---
+
+- TAC 125L Hackers to CEOs: Intro to Cyber Security in the AI Era Units: 2
+- TAC 375 Digital Forensics and Cybersecurity Investigations Units: 4
+
+## Electives (12 units)
+
+---
+
+Choose 12 units from the following:
+
+- TAC 443 Malware Analysis and Reverse Engineering Units: 4
+- TAC 445 Apple Forensics and Security (macOS and iOS) Units: 4
+- TAC 447 Mobile Device Forensics and Security Units: 4
+- TAC 458 Defending and Investigating Compromised Networks Units: 4
+- TAC 475 Advanced Digital Forensics and Incident Response Units: 4
+- TAC 479 Cyber Law and Privacy Units: 4
+
+---

@@ -1,0 +1,53 @@
+Program Name: Performing Social Change Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32614
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32614&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32614
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:11:51Z
+Content SHA-256: d3ff6dad1abe84c8d25e2af6b5fdad2954b960b616596eb5298e4aea36698ebe
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Performing Social Change Minor
+
+---
+
+Performing social change brings the language and practice of Dramatic Arts into communities and events that seek to redress power imbalances, create healing and dialogue and develop new systems of interaction, communication, well-being and governance. This minor creates opportunities for exploration of social change through performance and theatrical practice.
+
+## Required Courses (12 Units)
+
+---
+
+- THTR 122 Improvisation and Theatre Games Units: 2
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 488mw Theatre in the Community Units: 4
+- THTR 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- (2 units of Directed Research is required)
+
+## Elective Units (8 units from the following):
+
+---
+
+- THTR 290 Introduction to Medical Clowning Units: 2
+- THTR 310 Comedy and Diversity Units: 4
+- THTR 312 LGBTQ Theatre Units: 4
+- THTR 322 Improv 2: Advanced Improv Units: 2
+- THTR 401 Contemporary Theatre in a Changing World Units: 4
+- THTR 405m Performing Identities Units: 4
+- THTR 406 Theatre on the Edge Units: 4
+- THTR 421 Public Speaking as Performance: A Course for Non-Actors Units: 2
+- THTR 456 Latinx Theatre Units: 4
+- THTR 476mw African American Theatre, Dance, and Performance Units: 4
+- THTR 479 Solo Performance Units: 4
+
+## Total Units: 20
+
+---
+
+---

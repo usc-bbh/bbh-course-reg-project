@@ -1,0 +1,49 @@
+Program Name: Technology Entrepreneurship Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32952
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32952&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32952
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:14:10Z
+Content SHA-256: 0ec7f88c6ef6c660bae27debd5198179912f9407a8eeb08d321bce6b78eff202
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Technology Entrepreneurship Minor
+
+---
+
+The Technology Entrepreneurship minor prepares students to design, prototype, and launch technology-driven products and ventures. Unlike traditional entrepreneurship programs that emphasize management or commercialization, this minor focuses on the hands-on technical skills, tools, and development processes used by modern startups. Students progress through a structured pathway that guides them from ideation to product design, validation, and venture creation.
+
+Along the way, they gain experience with the tools and practices used in today’s tech ecosystem—including productivity platforms, wireframing and prototyping software, iterative design methods, and evidence-based venture testing. The minor supports a wide range of venture types and equips students with the technological foundation necessary to build and scale new technology-based startups. The minor requires at least 17 units for completion.
+
+## Required core (11 units)
+
+---
+
+- BUAD 301 Technology Entrepreneurship Units: 3, 4
+- TAC 466 Building the High Tech Startup Units: 4
+- TAC 476 Technologies for Interactive Marketing Units: 4
+
+## Electives
+
+---
+
+A minimum of 6 units is required from the following:
+
+- TAC 100g Enhanced Productivity with AI Units: 4
+- TAC 125L Hackers to CEOs: Intro to Cyber Security in the AI Era Units: 2
+- TAC 216 Applied Python Units: 2
+- TAC 228 Computer-Aided Modeling and Rapid Fabrication Units: 2
+- TAC 249 Introduction to Data Analytics Units: 4
+- TAC 259 Basics of Artificial Intelligence Units: 4
+- TAC 308 Computer-Aided Design for Bio-Mechanical Systems Units: 3
+- TAC 310 Design for User Experience Units: 4
+- TAC 348 Making Smart Devices: Introduction to Electronics/Wearables Units: 4
+
+---

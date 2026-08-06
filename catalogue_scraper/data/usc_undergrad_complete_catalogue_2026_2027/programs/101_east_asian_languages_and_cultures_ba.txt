@@ -1,0 +1,119 @@
+Program Name: East Asian Languages and Cultures (BA)
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31771
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31771&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31771
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:53:58Z
+Content SHA-256: 1b3b37f70ef9547166f6fdfaebbd1673a1364dc215e9ed9832dfcae64ca61014
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# East Asian Languages and Cultures (BA)
+
+---
+
+The core requirements for the EALC major (24 units plus language requirement) allow students flexibility in designing their own course of study. Majors typically select one language and cultural area (Chinese, Japanese or Korean) in which they do most of their course work. For this reason, one frequently hears students on campus speaking about “majoring” in Japanese, Chinese or Korean, though strictly speaking all these students are actually majoring in EALC. Majors are encouraged to explore beyond their individual language focus by enrolling in the full range of EALC courses available in literature, film, history, media and other aspects of East Asian cultures.
+
+Core requirements for EALC majors consist of a cross-cultural survey course, a cultural studies course and a language requirement that may be waived by placement test. Students then also take four upper-division elective courses (16 units), two of which can be replaced by fourth-year language courses. Additional information can be found on the EALC website: dornsife.usc.edu/ealc.
+
+## Cross-Cultural Survey Course (Choose One)
+
+---
+
+Cross-Cultural Survey courses offer students a broad, interregional introduction to East Asian philosophy, literature, film, and culture. All EALC majors are required to take at least one of these courses within the first two years of their study.
+
+- EALC 110gp East Asian Humanities: The Great Tradition Units: 4
+- EALC 125g Introduction to Contemporary East Asian Cinema and Culture Units: 4
+- EALC 130gp Introduction to East Asian Ethical Thought Units: 4
+- EALC 150gw Global Chinese Cinema and Cultural Studies Units: 4
+- EALC 250g Nation, Culture and Power in East Asia Units: 4
+- EALC 255gw Southeast Asian Literature and Film Units: 4
+- EALC 266 Science Fiction in East Asia Units: 4
+
+## Cultural Studies Course (Choose One)
+
+---
+
+Cultural Studies courses provide students with an in-depth introduction to a cultural tradition within its regional context. Students are required to take one of these courses preferably before advancing to more specialized, theme-specific courses.
+
+- EALC 324gw Contemporary China: Cultural Politics and Social Realities Units: 4
+- EALC 340gp Japanese Civilization Units: 4
+- EALC 342gp Japanese Literature and Culture Units: 4
+- EALC 344gp Korean Culture from Ancient to Modern Times Units: 4
+- EALC 350gp Chinese Civilization Units: 4
+- EALC 382 Art and Cultural Heritage in East Asia Units: 4
+
+## Language Requirement
+
+---
+
+Majors must complete six semesters (three years) of one East Asian Language or equivalent through diagnostic exam.
+
+- EALC 306 Advanced Modern Chinese II Units: 4
+- or
+- EALC 317 Advanced Korean II Units: 4
+- or
+- EALC 322 Advanced Japanese II Units: 4
+
+## Upper-Division Electives (Choose Four)
+
+---
+
+Our faculty teach new courses every year. Please check the department’s Schedule of Classes to see the full range of courses. At least 16 units (four courses) are required. Additional 300- and 400-level cultural studies courses not listed here (including cross-listed courses taught by EALC-affiliated faculty) may fulfill this requirement with approval of the EALC Director of Undergraduate Studies. A maximum of 8 units of fourth-year language courses may be used to satisfy the 16 units of required upper-division electives. Courses EALC 324gw , EALC 340gp , EALC 342gp , EALC 344gp , EALC 350gp and EALC 382 can only be counted as an elective if not taken to satisfy the Cultural Studies Course requirement.
+
+- EALC 324gw Contemporary China: Cultural Politics and Social Realities Units: 4
+- EALC 332 Modern Korean Literature in Translation Units: 4
+- EALC 333g Introduction to Korean Film Units: 4
+- EALC 340gp Japanese Civilization Units: 4
+- EALC 342gp Japanese Literature and Culture Units: 4
+- EALC 344gp Korean Culture from Ancient to Modern Times Units: 4
+- EALC 346g Hallyu, the Korean Wave Units: 4
+- EALC 350gp Chinese Civilization Units: 4
+- EALC 358g Transnational Chinese Literature and Culture Units: 4
+- EALC 374 Language and Society in East Asia Units: 4
+- EALC 375 Women and Gender in China: Past and Present Units: 4
+- EALC 380 Cultural Topics in East Asian Literature Units: 4
+- EALC 382 Art and Cultural Heritage in East Asia Units: 4
+- EALC 385 Myth, Folklore, and Fantasy in Japanese Literature and Film Units: 4
+- EALC 387 Early Japanese Art Units: 4
+- KSI 399 Korean Studies Research Seminar Units: 4
+- EALC 400 Classical Chinese I Units: 4
+- EALC 402 Classical Chinese II Units: 4
+- EALC 426 Classical Japanese Units: 4
+- EALC 428 Nature and the Ecological Imagination in Japanese Literature Units: 4
+- EALC 430 Gender and Sexuality in Korean Literature and Culture Units: 4
+- EALC 435 Ethnic Identity and Minority Politics in China Units: 4
+- EALC 438 The Tale of Genji and its Worlds Units: 4
+- EALC 450 Contemporary Japanese Literature and Global Modernity Units: 4
+- EALC 452 Chinese Fiction Units: 4
+- EALC 455 Japanese Fiction Units: 4
+- EALC 460 Love, Self and Gender in Japanese Literature Units: 4
+- EALC 465 Topics in Korean Visual and Cultural Studies Units: 4
+- EALC 475 Topics in Chinese Photography Units: 4
+- EALC 485 Material Culture of the Silk Road Units: 4
+- EALC 489 The Mongol Era in China: Genghis Khan, Khubilai, Marco Polo Units: 4
+- EALC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- EALC 494a Honors Thesis Units: 4
+- EALC 494b Honors Thesis Units: 4
+- EALC 499 Special Topics Units: 2, 3, 4
+- Language CoursesUp to 8 units of fourth year language courses may be used to satisfy the 16 units of required Upper-Division Electives.
+- EALC 404 Advanced Modern Chinese III Units: 4
+- EALC 406 Advanced Modern Chinese IV Units: 4
+- EALC 407 News and Web Chinese Units: 4
+- EALC 409 Chinese Through Literary Works and Texts Units: 4
+- EALC 413 Business Japanese Units: 4
+- EALC 415 Advanced Korean III Units: 4
+- EALC 417 Advanced Korean IV Units: 4
+- EALC 418 Korean Multiliteracy in Contemporary Contexts Units: 4
+- EALC 419 Korean Language Through Modern Media Units: 4
+- EALC 422 Advanced Japanese III Units: 4
+- EALC 424 Advanced Japanese IV Units: 4
+- EALC 440 Current Topics in Japanese Units: 4
+
+---

@@ -1,0 +1,71 @@
+Program Name: Spatial Studies Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31940
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31940&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31940
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:13:43Z
+Content SHA-256: 6e023fb9843ba6027e2e3af84f2df6ddd0405bf9afb7ce1f411c856185277b87
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Spatial Studies Minor
+
+---
+
+The Spatial Studies minor requires a minimum of 20 units, consisting of one lower-division elective, three required courses and an upper-division elective. The minor offers students an opportunity to examine some of the major challenges of the 21st century (climate change, human health and sustainability, urbanization and cultural homogenization, among others) through a spatial lens.
+
+## Required Courses (12 Units)
+
+---
+
+- SSCI 301L Maps and Spatial Reasoning Units: 4
+- SSCI 382L Geographic Information Science: Spatial Analytics Units: 4
+- SSCI 383L Geographic Information Science: Geospatial Modeling and Customization Units: 4
+
+## Lower-Division Electives (4 Units)
+
+---
+
+- ANTH 201g Introduction to Social and Cultural Anthropology Units: 4
+- ANTH 202g Archaeology: Our Human Past Units: 4
+- ARCH 105aL Fundamentals of Design Communication Units: 2
+- ARCH 105bL Fundamentals of Design Communication Units: 2
+- ARCH 114 Architecture: Culture and Community Units: 2
+- ARCH 220 The Architect’s Sketchbook Units: 2
+- BISC 102Lgx Humans and Their Environment Units: 4
+- BISC 140g Our Blue Planet in a Changing Climate Units: 4
+- CLAS 212 Archaeology: Interpreting the Past Units: 4
+- GEOL 108Lg Natural Disasters and Their Global Impact Units: 4
+- GEOL 150Lg Climate Change Units: 4
+- HIST 240gp The History of California Units: 4
+- POSC 265gw Environmental Challenges Units: 4
+- PPD 245g The Urban Context Units: 4
+- SOCI 100gmw Los Angeles and the American Dream Units: 4
+- SOCI 200gm Introduction to Sociology Units: 4
+- SSCI 135g Maps in the Digital World Units: 4
+- SSCI 165Lgw Sustainability Science in the City Units: 4
+- SSCI 175gw Food, Health and Place Units: 4
+- SSCI 214g Human Populations and Natural Hazards Units: 4
+- SSCI 220L Spatial Data Collection Using Drones Units: 4
+- SSCI 265Lg The Water Planet Units: 4
+
+## Upper-Division Electives (4 Units)
+
+---
+
+- ANTH 481L GIS for Investigating the Past Units: 4
+- ARCH 432 People, Places and Culture: Architecture of the Public Realm Units: 4
+- IR 319 Human Security and Humanitarian Intervention Units: 4
+- JOUR 422 Visual Journalism for Non-Majors Units: 4
+- PPD 306 Visual Methods in Policy, Management, Planning and Development Units: 4
+- PPD 427L Geographic Information Systems and Planning Applications Units: 4
+- SOCI 314Lg Analyzing Social Statistics Units: 4
+- SSCI 397 Spatial Sciences Internship Units: 2, 3, 4
+
+---

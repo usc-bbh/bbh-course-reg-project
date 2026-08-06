@@ -1,0 +1,133 @@
+Program Name: International Relations (Global Business) (BA)
+Credential: BA
+School or Academic Unit: School of International Relations
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=31831
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31831&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31831
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:55:15Z
+Content SHA-256: a0d805bd7b1ea8444a4d21886a76a911cefe2cced86f99057ed5915426aa668f
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# International Relations (Global Business) (BA)
+
+---
+
+The BA in International Relations with an emphasis in Global Business will give students the opportunity to pursue a degree in international relations and acquire specific skills in one of three concentrations in international business: international finance, global marketing or global management. Students who have earned a GPA of 3.0 or above and a “B” average in IR 210 International Relations: Introductory Analysis and a second 300-level or above IR course are eligible to apply during their sophomore year.
+
+The degree cannot also be combined as an additional major in any business administration degree. The degree is administered by the School of International Relations.
+
+## In addition to the IR requirements, students need to complete the following prerequisite courses:
+
+---
+
+before they can begin this program.
+
+- ECON 203g Principles of Microeconomics Units: 4 or
+- ECON 351x Microeconomics for Business Units: 4
+-
+- ECON 205g Principles of Macroeconomics Units: 4 or
+- ECON 352x Macroeconomics for Business Units: 4
+-
+- MATH 118gx Calculus for Business and Economics Units: 4 or
+- MATH 125g Calculus I Units: 4
+
+## The international relations course work consists of 28 units:
+
+---
+
+- IR 210gw International Relations: Introductory Analysis Units: 4
+- a regional course
+- a 400-level course
+- an international political economy course
+- and three upper-division electives
+
+### International Political Economy Course
+
+---
+
+- IR 324 Multinational Enterprises and World Politics Units: 4
+- IR 325 North-South Relations in the Global Economy Units: 4
+- IR 326 U.S. Foreign Economic Policy Units: 4
+- IR 328 The Evolving Global Economic Architecture-Capital Mobility Units: 4
+- IR 329 The Global Finance and Monetary Regime Units: 4
+- IR 330 Politics of the World Economy Units: 4
+- IR 331 The Global Economy 2040 Units: 4
+- IR 332 Money, Guns and Oil Units: 4
+- IR 420 Political Economy of Corruption Units: 4
+
+## Course work at the USC Marshall School of Business consists of
+
+---
+
+- ACCT 410x Foundations of Accounting Units: 4
+- BUAD 310g Applied Business Statistics Units: 4
+- or
+- BUAD 312g Statistics and Data Science for Business Units: 4
+- or
+- ECON 317 Introduction to Statistics for Economists Units: 4
+- and
+- 16 units in the respective areas of concentration
+
+### International Finance:
+
+---
+
+- BUAD 306 Business Finance Units: 4
+- or
+- BUAD 308 Advanced Business Finance Units: 4
+- and 3 of the following options:
+- FBE 402 Government and Business Units: 4
+- FBE 403 Introduction to the Legal Environment of Business Units: 4
+- FBE 421 Financial Analysis and Valuation Units: 4
+- FBE 423 Introduction to Venture Capital and Private Equity Units: 4
+- FBE 429 International Business Law Units: 4
+- FBE 432 Corporate Financial Strategy Units: 4
+- FBE 436 Financial Management of Multinational Corporations Units: 4
+- FBE 437 Entrepreneurial Finance: Financial Management for Developing Firms Units: 4
+- FBE 440 Trading and Exchanges Units: 4
+- FBE 441 Investments Units: 4
+- FBE 443 Introduction to Forecasting and Risk Analysis Units: 4
+- FBE 458 Law of Forming, Financing and Managing Businesses Units: 4
+- FBE 459 Financial Derivatives Units: 4
+- FBE 460 Mergers, Acquisitions and Restructuring Units: 4
+- FBE 462 International Trade, Finance and Commercial Policy Units: 4
+
+### Global Marketing:
+
+---
+
+- BUAD 307 Marketing Fundamentals Units: 4
+- and 3 of the following options
+- MKT 402 Introduction to Marketing Analytics Units: 4
+- MKT 405 Marketing Communication and Promotion Strategy Units: 4
+- MKT 410 Professional Selling Units: 4
+- MKT 425 Digital Marketing Fundamentals Units: 4
+- MKT 445 New Product Development and Branding Units: 4
+- MKT 450 Consumer Behavior and Marketing Units: 4
+- MKT 465 Multicultural Marketing Units: 4
+
+### Global Management:
+
+---
+
+- BUAD 304 Organizational Behavior and Leadership Units: 4
+- and 3 of the following options
+- MOR 421 Social and Ethical Issues in Business Units: 4
+- MOR 451 Mastering Decision Making Units: 4
+- MOR 462 Management Consulting Units: 4
+- MOR 466 Business and Environmental Sustainability Units: 4
+- MOR 467 Innovation in Business: How Companies Win Units: 4
+- MOR 469 Negotiation and Persuasion Units: 4
+- MOR 470 Global Leadership Units: 4
+- MOR 471 Managing and Developing People Units: 4
+- MOR 472 Power, Politics and Influence Units: 4
+- MOR 473 Designing and Leading Teams Units: 4
+- MOR 492 Global Strategy Units: 4
+
+---

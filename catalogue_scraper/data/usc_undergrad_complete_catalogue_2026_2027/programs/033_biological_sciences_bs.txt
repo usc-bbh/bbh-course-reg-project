@@ -1,0 +1,180 @@
+Program Name: Biological Sciences (Marine Biology) (BS)
+Credential: BS
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32749
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32749&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32749
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:50:09Z
+Content SHA-256: bb6b79a53016e1321663ef4169a53b6afb29f99c03a1eeb28da920467760664a
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Biological Sciences (Marine Biology) (BS)
+
+---
+
+The general education, writing, foreign language and diversity requirements for a degree in the USC Dornsife College of Letters, Arts and Sciences apply. All students take foundational courses in biological sciences, chemistry, math, statistics and physics. Marine biology is the study of life in oceans and other saltwater environments. The marine biology emphasis focuses on the biology of marine organisms, their interactions with the environment and emergent properties of the ecosystems that arise from these interactions. The program addresses this field across multiple levels of organization, from the ecology of microbial populations and their role in the cycling of nutrients and energy in the ocean, through to the physiological and genetic mechanisms that enable marine organisms to adapt to the dynamic and often extreme environments in the ocean. The conditions in the oceans are also changing at an unprecedented rate because oceans play a critical role in climate change, absorbing much of the anthropogenic carbon dioxide and associated heat from global warming. The emphasis enables students to understand the biological effects that warming, ocean acidification and deoxygenation will have on marine biodiversity and the ecosystem services that the oceans provide the planet.
+
+## Lower-Division BISC Core Courses (8 units)
+
+---
+
+- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or
+- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4
+-
+- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or
+- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4
+
+## Collateral Sciences Courses (32 units)
+
+---
+
+### General Chemistry Requirement: 8 units
+
+---
+
+- CHEM 105aLg General Chemistry Units: 4 or
+- CHEM 107Lg General Chemistry for Chemistry Majors Units: 4 or
+- CHEM 115aLg Advanced General Chemistry Units: 4
+-
+- CHEM 105bL General Chemistry Units: 4 or
+- CHEM 108L General Chemistry for Chemistry Majors: Kinetics and Equilibrium Units: 4 or
+- CHEM 115bL Advanced General Chemistry Units: 4
+
+### Organic Chemistry Requirement: 8 units
+
+---
+
+- CHEM 322aL Organic Chemistry Units: 4 or
+- CHEM 325aL Organic Chemistry Units: 4
+-
+- CHEM 322bL Organic Chemistry Units: 4 or
+- CHEM 325bL Organic Chemistry Units: 4
+
+### Calculus Requirement: 4 units
+
+---
+
+- MATH 125g Calculus I Units: 4
+
+### Statistics Requirement: 4 units
+
+---
+
+- MATH 208x Elementary Probability and Statistics Units: 4 or
+- QBIO 305g Statistics for Biological Sciences Units: 4 or
+- QBIO 310 Statistical Thinking for Quantitative Biology Units: 4
+
+### Physics Requirement: 8 units
+
+---
+
+- PHYS 135aLg Physics for the Life Sciences Units: 4 or
+- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4
+-
+- PHYS 135bL Physics for the Life Sciences Units: 4 or
+- PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4
+
+## Introduction to Research-Active Faculty (1 to 2 units)
+
+---
+
+Enroll in one or two of the courses below.
+
+- BISC 193 Introduction to Research I Units: 1
+- BISC 194 Introduction to Research II Units: 1
+- BISC 199 Neuroscience Colloquium Units: 1
+
+## Upper-Division Core Courses (16 units)
+
+---
+
+- BISC 320Lg Molecular Biology Units: 4
+- BISC 325 Genetics Units: 4
+- BISC 330L Biochemistry Units: 4
+- BISC 469L Marine Biology Units: 4
+
+## Research-Based Learning Requirement (2 to 8 units)
+
+---
+
+Select at least one course from the course options listed below. Courses cannot count for more than one degree requirement.
+
+- BISC 419L Microbiology for a Sustainable Future Units: 4
+- BISC 431L Aquatic Microbiology Units: 4
+- BISC 457L Methods in Marine Biology and Biological Oceanography Units: 4
+- BISC 473L Biological Oceanography Units: 4
+- ENST 298aL Introduction to Scientific Diving Units: 2
+- ENST 298bL Introduction to Scientific Diving Units: 2
+
+## Marine Biology Seminar Requirement (2 units)
+
+---
+
+Enroll in a marine biology emphasis-relevant section of the seminar course.
+
+- BISC 460 Seminar in Ecology, Evolution and Environment Units: 2
+
+## Marine Biology Capstone Course Requirement (4 units)
+
+---
+
+Select one capstone course from the options listed below. Courses cannot count toward more than one degree requirement.
+
+- BISC 427 The Global Environment Units: 4
+- BISC 473L Biological Oceanography Units: 4
+- BISC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+
+## Upper-Division Electives (4 to 8 units)
+
+---
+
+Select two to three electives from the course options listed below. Courses cannot count toward more than one degree requirement.
+
+- BISC 315L Introduction to Ecology Units: 4
+- BISC 326L Urban Conservation Biology Units: 4
+- BISC 369L Ecology and the Natural History of California Units: 4
+- BISC 379L Our Future Changing Ocean Units: 4
+- BISC 404L Biodiversity Data Analytics Units: 4
+- BISC 419L Microbiology for a Sustainable Future Units: 4
+- BISC 427 The Global Environment Units: 4
+- BISC 431L Aquatic Microbiology Units: 4
+- BISC 444 Practical Analysis of Biological Data in R Units: 2
+- BISC 457L Methods in Marine Biology and Biological Oceanography Units: 4
+- BISC 483 Geobiology and Astrobiology Units: 4
+- BISC 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+- BISC 491L Practical Aquaculture Units: 4
+- BISC 493x Honors Seminar Units: 1
+- BISC 494x Honors Thesis Units: 2
+- ENST 310 Sustainable Fisheries Management Units: 4
+- ENST 413 Sustainable Aquaculture and Food Security Units: 4
+- ENST 483L Coastal Zone Sustainability Units: 4
+- GEOL 412 Oceans, Climate, and the Environment Units: 4
+- HBIO 301L Human Anatomy Units: 4
+
+## Scholarship in Major Subject
+
+---
+
+The department requires that students receive a grade no lower than C- in the five lower- and upper-division core courses. Students must maintain a 2.0 GPA in the upper-division course work required for the major, as well as an overall 2.0 GPA. All major core courses must be taken on a letter grade basis
+
+## Honors Program in Biological Sciences
+
+---
+
+The department offers an honors program to outstanding students already pursuing studies for the BA or BS degree in Biological Sciences. This program offers students an opportunity to participate in undergraduate research, experience in writing an honors thesis summarizing the completed research, and experience in an honors seminar. Honors students are required to take two semesters of BISC 493x Honors Seminar (1 unit/ - semester) and one semester of BISC 494x Honors Thesis (2 units) in addition to fulfilling all requirements of the BA or BS degree. Honors students must also choose BISC 490x as one of their upper division electives. This program leads to the designation on the transcript of Bachelor of Arts or Bachelor of Science in Biological Sciences with Honors.
+
+#### Honors Admission Requirements
+
+Students may apply to the department for admission to the honors program after having completed at least one year of work at USC with a minimum GPA of 3.5 in all science and math courses required for the major.
+
+#### Honors Scholarship Requirements
+
+For continuation in the honors programs, students must maintain a minimum GPA of 3.5 in the sciences and mathematics courses required for the major.
+
+---

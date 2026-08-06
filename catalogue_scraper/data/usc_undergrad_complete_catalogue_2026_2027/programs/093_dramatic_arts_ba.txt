@@ -1,0 +1,104 @@
+Program Name: Dramatic Arts (BA)*
+Credential: BA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32838
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32838&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32838
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:52:42Z
+Content SHA-256: 741907ee51fffe45976d5394f4c86ed7d83f262454375ee30d0648c3c532b1a8
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Dramatic Arts (BA)*
+
+---
+
+The Bachelor of Arts with a major in Dramatic Arts is a comprehensive degree offered in cooperation with the USC Dornsife College of Letters, Arts and Sciences. Candidates for the degree must complete the university general education requirements in addition to the courses in the major prescribed by the School of Dramatic Arts. A total of 128 units is required for completion of the degree.
+
+General Education Requirements
+
+The university’s General Education program provides a coherent, integrated introduction to the breadth of knowledge you will need to consider yourself (and to be considered by other people) a generally well-educated person. This program is effective for all students entering USC in fall 2015 or later, or transfer students beginning college elsewhere at that time and subsequently transferring to USC. It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing. In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above.
+
+Note that courses within the major will also satisfy certain Core Literacy requirements. Please work with your major adviser to determine those courses.
+
+## Required Courses (13 units)
+
+---
+
+- THTR 101 Introduction to Acting Units: 4
+- THTR 130 Introduction to Theatrical Production Units: 2
+
+### One course (4 units) from:
+
+---
+
+- THTR 305a Directing Units: 4
+- THTR 309 Dramaturgy Units: 4
+
+### Once course (3 units) from:
+
+---
+
+- THTR 230 Theatrical Design as Poetic Realism Units: 3
+- THTR 231 Costume Construction Units: 3
+- THTR 232 Introduction to Theatrical Lighting Units: 3
+- THTR 233 Historic Costumes for the Theatre Units: 3
+- THTR 335 Scenic Construction Units: 3
+
+## Critical Studies Core (16 units)
+
+---
+
+Complete the two required courses below. In addition, take one course from List A and one course from either List A or B.
+
+- THTR 125 Text Studies for Production Units: 4
+- THTR 225g Theatre Across History and Cultures Units: 4
+
+## List A
+
+---
+
+- THTR 310 Comedy and Diversity Units: 4
+- THTR 312 LGBTQ Theatre Units: 4
+- THTR 395m Drama as Human Relations Units: 4
+- THTR 405m Performing Identities Units: 4
+- THTR 406 Theatre on the Edge Units: 4
+- THTR 456 Latinx Theatre Units: 4
+- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4
+- THTR 476mw African American Theatre, Dance, and Performance Units: 4
+
+## List B
+
+---
+
+- THTR 301 Greek and Roman Theatre Units: 4
+- THTR 302 Shakespeare in His World Units: 4
+- THTR 313 Comedy of Manners Units: 4
+- THTR 314 Advanced Topics in Modern Drama Units: 4
+- THTR 400 Eco-Theatre: Art and Science in Contemporary Plays Units: 4
+- THTR 401 Contemporary Theatre in a Changing World Units: 4
+- THTR 403 The Performing Arts Units: 4
+- THTR 404 Acting Theory Units: 4
+
+## Required Upper-Division Dramatic Arts Electives: 30
+
+---
+
+## General Education Units: 36
+
+---
+
+## Elective Units: 33
+
+---
+
+## Total Units: 128
+
+---
+
+---

@@ -1,0 +1,107 @@
+Program Name: Themed Entertainment (BFA)
+Credential: BFA
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32788
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32788&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32788
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T00:57:35Z
+Content SHA-256: ffd77d79fe8117171126594dd2b6213492b0e238c075c69682ed800517c9225a
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Themed Entertainment (BFA)
+
+---
+
+The Bachelor of Fine Arts in Themed Entertainment is a unique four-year program offered by the School of Cinematic Arts. Students study within the framework that combines a broad liberal arts background with a specialization track within the Themed Entertainment Industry. Areas of concentration might include show design, interactive arts, production, project management.
+
+Undergraduate students take their pre-professional courses in the USC Dornsife College of Letters, Arts and Sciences, including the general education requirements. Major courses are selected from the curriculum of the School of Cinematic Arts. The degree requires 128 units, including 62 units in the major.
+
+## Required Core
+
+---
+
+Required Core Sequence of Themed Entertainment Design and Production
+
+- CNTV 101 Reality Starts Here Units: 2
+- CTCS 150gw The Cinematic Arts in Society Units: 4
+- CTIN 191 Survey of Themed Entertainment Units: 4
+- CTIN 252 Themed Concept Development: Creativity, Research, Ideation Units: 2
+- CTIN 295 Themed Entertainment Project Crew Units: 2
+- CTIN 395 Miniature Golf Design Units: 4
+- CTIN 396 Miniature Golf Production Units: 4
+- CTIN 452L Themed Entertainment Design Units: 4
+- CTIN 457 Themed Entertainment Business Operations Units: 2
+- CTIN 488 Game Design Workshop Units: 4
+- CTIN 495 Advanced Themed Entertainment Design Units: 4
+- CTIN 496 Advanced Themed Entertainment Production Units: 4
+
+## Introductory Elective Core
+
+---
+
+At least 8 units from the following courses:
+
+- ACAD 187 Digital Toolbox: 3D Design Units: 2
+- ACAD 188 Modeling Products with Solidworks Units: 2
+- ACAD 189 3D Tools for Product Design Units: 2
+- AME 101L Introduction to Mechanical Engineering Units: 4
+- ARCH 106x Workshop in Architecture Units: 2
+- ART 207a Two-Dimensional Art Workshop Units: 2
+- ART 207b Two-Dimensional Art Workshop Units: 2
+- ART 260 Introduction to Video: Projection and Virtual Worlds in Art Units: 4
+- CE 106 Introduction to Civil Engineering Units: 2
+- CTIN 101 Fundamentals of Procedural Media Units: 2
+- CTIN 289 Game Development Fundamentals Units: 4
+- DES 123xg The Design Challenge: Exploring the Design Process Units: 4
+- EE 105 Introduction to Electrical Engineering Units: 4
+- ISE 105 Introduction to Industrial and Systems Engineering Units: 2
+- TAC 165 Introduction to C++ Programming Units: 2
+- TAC 215L Introduction to 3D Modeling, Animation and Visual Effects Units: 2
+- THTR 130 Introduction to Theatrical Production Units: 2
+- THTR 241 Methods and Materials Units: 2
+
+## Intermediate Elective Core
+
+---
+
+At least 8 units of the following courses:
+
+- ACAD 245 Fundamentals of Product Design Units: 4
+- ARCH 207 Computer Applications in Architecture Units: 2
+- BUCO 450 Communication for Organizations: Exploring Creativity Units: 2
+- CTAN 420 Concept Design for Animation Units: 2
+- CTIN 409 Producing Interactive Projects Units: 2
+- CTIN 444 Audio Expression Units: 2
+- CTPR 425 Production Planning Units: 2
+- CTWR 410L Character Development and Storytelling for Games Units: 4
+- EE 109L Introduction to Embedded Systems Units: 4
+- THTR 232 Introduction to Theatrical Lighting Units: 3
+- THTR 236 Stage Sound Units: 3
+- THTR 303 Projection Design I Units: 3
+- THTR 335 Scenic Construction Units: 3
+
+## Advanced Elective Core
+
+---
+
+At least 6 units of the following courses:
+
+- ARCH 423 Light, Color and the Character of Material Units: 2
+- BUCO 445 Communicating to Lead and Persuade Units: 4
+- CTAN 432 The World of Visual Effects Units: 2
+- CTIN 480 Directing for Games and Interactive Media Units: 2
+- CTIN 486 Alternative Control Workshop Units: 2
+- CTIN 489L Intermediate Game Design and Production Units: 4
+- CTPR 406 Visual Story and Communication Units: 2
+- CTPR 465 Practicum in Production Design Units: 2
+- CTWR 541 Dreams, the Brain, and Storytelling Units: 2
+- THTR 308 Lighting Programming for Live Events Units: 3
+- THTR 438 Technical Theatre Units: 3
+
+---

@@ -1,0 +1,67 @@
+Program Name: Foundation in Regulatory Sciences Minor
+Credential: 
+School or Academic Unit: 
+Catalogue Year: 2026-2027
+Catalogue Identifier: catoid=22
+Program Identifier: poid=32642
+Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32642&returnto=9396
+Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32642
+Acquisition Mode: direct_html
+Retrieved At: 2026-07-31T01:02:43Z
+Content SHA-256: 97f7731e4e275b4b977841686695b3b52f7f705852e898f9bb283a344e6e63bb
+Extraction Status: complete
+Breadcrumbs: Return to: > Programs, Minors and Certificates
+
+OFFICIAL CATALOGUE CONTENT
+
+# Foundation in Regulatory Sciences Minor
+
+---
+
+The Foundation in Regulatory Sciences minor will deepen students’ understanding of current regulations and quality practices with practical application in the development and commercialization of drugs, biologics and medical device products. This minor will broaden perspectives and integrate knowledge to allow students to effectively understand the regulatory process.
+
+Students who minor in Foundation in Regulatory Sciences must take a minimum of five RXRS or BPSI courses, totaling at least 20 units. Courses must be unique to the minor and not overlap with the major or another minor. A maximum of 4 units of lower-division course work permitted. A maximum of 4 units can be met by taking Directed Research (RXRS 490x ).
+
+Only students with a declared major are eligible to apply. Students must be in sophomore standing and have completed a minimum of 32 USC units as an entering freshman or 16 units as an entering transfer student.
+
+## Required Courses (12 units)
+
+---
+
+- RXRS 402 Human Pharmacology: Challenge of Therapeutics in Society Units: 4
+- RXRS 413w Globalization of the Biomedical Industry Units: 4
+- RXRS 416 Medical Products: From Idea to Market Units: 4
+
+## Electives (minimum of 8 units)
+
+---
+
+Select a minimum of two RXRS or BPSI courses totaling a minimum of 8 units. A maximum of 4 units of lower-division course work permitted. A maximum of 4 units can be met by taking Directed Research (RXRS 490x ).
+
+- BPSI 406 Drug Safety Pharmacology and Toxicology Units: 4
+- BPSI 410 Biopharmaceutical Product Development and Brand Planning Units: 4
+- BPSI 411 Biopharmaceutical Marketing Analysis and Strategy Units: 4
+- BPSI 412 Targeted and Precision Medicines Units: 4
+- BPSI 413 Rigor, Resources and Reproducibility Units: 2
+- BPSI 414 Pharmacoethics Units: 2
+- BPSI 415 Science Talk Units: 2
+- RXRS 200 Approaches to Pharmacology and Drug Development Units: 4
+- RXRS 201p The History and Geography of Drugs Units: 4
+- RXRS 202w Comparative Neuropharmacology: A Kaleidoscope of Experiences Units: 4
+- RXRS 403 Neuropharmacology in Health and Disease Units: 4
+- RXRS 405 Breaking Brains: The Pharmacology of Addiction Units: 4
+- RXRS 406 Clinical Pharmacology and Medication Management Units: 4
+- RXRS 407 The Discovery, Development and Marketing of Medicines Units: 4
+- RXRS 408 Arming the Immune System for Novel Therapies Units: 4
+- RXRS 410 Cancer Biology and Pharmacotherapy Units: 4
+- RXRS 411 Innovations in Medical Product Development Units: 4
+- RXRS 412 Ethics, Drugs and Society Units: 4
+- RXRS 414 Buzzed: Modern Substances of Abuse and Addiction Units: 4
+- RXRS 417 Food Safety: The Good, The Bad and The Deadly Units: 4
+- RXRS 418 More than Prescriptions: An Integrative Approach to Modern Healthcare Units: 4
+- RXRS 421 Management and Operation of Clinical Trials Units: 4
+- RXRS 422 Regulation, Guidance and Control of Medical Products Units: 2
+- RXRS 424 From Poisons to Toxicology and Forensic Applications Units: 4
+- RXRS 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
+
+---
