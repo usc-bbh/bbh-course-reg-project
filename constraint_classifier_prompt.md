@@ -1,37 +1,6 @@
 # USC Degree-Requirement Constraint Classifier
 
-Taxonomy version: 2026-07-23 (includes `EXTERNAL_UNIT_FLOOR`, added after the original rubric
-draft).
-
-**Changelog (single prompt, single API call — no change to call count):**
-- Output is now one JSON *object* with two ordered keys, `segments` and `classifications`,
-  instead of one flat array. Segmentation and classification are still produced in a single
-  generation / single API call — they're just two sequential sections of the same response
-  instead of interleaved per-clause. See 1b.
-- Output enforcement moved from prose instruction to a bound JSON Schema (Appendix A), with the
-  prose instruction kept only as a fallback for APIs that can't bind a schema. See Output.
-- Added a `decision_path` field, positioned *before* `classification_tag` in the object, so the
-  model's walk through 2a happens in tokens generated before it commits to a tag — not after.
-  See 4 and the explanation below the schema rules.
-- `qualifiers` keys are now constrained per exact `classification_tag`/`subtype` pair, both in
-  prose (4 table) and structurally in the schema (Appendix A, `additionalProperties: false` per
-  branch). Also removed `gate_type` from the possible-keys list — it was listed in the earlier field
-  rules but never actually used by any type in 6; `NOT_CNS_GATE` uses `checkable`, not
-  `gate_type`. That was a leftover/bug, not a real key.
-
-**Changelog (this revision — two fixes, nothing else changed):**
-- Appendix A: `NOT_CNS_XREQ` subtype was only enum-constrained inside branches also keyed on a
-  specific subtype value, so a misspelled or hallucinated subtype (e.g. matching no real branch)
-  validated with zero errors — silently. Added one unconditional `if classification_tag ==
-  "NOT_CNS_XREQ"` block enforcing the full 12-value subtype enum, same pattern already used for
-  `NOT_CNS_SPLIT` / `DISC_COURSE` / `DISC_CATEGORY` / `PROCEDURAL`. Verified by fuzzing: before
-  the fix, `subtype: "TOTALLY_MADE_UP_SUBTYPE"` on a `NOT_CNS_XREQ` record passed validation;
-  after the fix, it correctly fails with `'TOTALLY_MADE_UP_SUBTYPE' is not one of [...]`.
-- 4 `reasoning` field note said "Required for every non-CNS, non-`OUT_OF_SCOPE_*` record," which
-  directly contradicted the 6 `CNS` worked example (which includes a non-null `reasoning`
-  string). Changed the sentence to "Required for every record except `OUT_OF_SCOPE_*`" to match
-  the example rather than the other way around, since the reasoning is genuinely useful on `CNS`
-  records too and no example anywhere shows a `CNS` record without one.
+Taxonomy version: 2026-07-23
 
 ## Role
 Classify raw USC degree-requirement text for one major into a fixed taxonomy. This is step 1 of
