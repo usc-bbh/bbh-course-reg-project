@@ -3,7 +3,7 @@
 Documents what's in [`dept_clearance.json`](dept_clearance.json): a 46-department dataset of undergraduate D-clearance information for PlanSC Module 4B, and where each entry's information came from.
 
 - **Schema version:** 1.4
-- **Last updated:** 2026-06-3
+- **Last updated:** 2026-08-10
 - **Scope:** Undergraduate D-clearance only (graduate processes out of scope)
 - **Lookup logic:** Match on `dept_code` (course prefix) first; if no match, fall back to `type: "school_fallback"` entries where `school` matches the course's school
 
@@ -15,7 +15,7 @@ A department-level enrollment restriction on certain USC course sections (denote
 
 Per the file's `_notes` field: **all entries were sourced from official USC department/school advising pages.** Each entry carries its own `source_url` (the page the entry was scraped/compiled from) and a `verified` boolean indicating whether contact details and process steps were manually confirmed against the live page at compile time. The file explicitly warns that advising processes change every semester and should be cross-checked before production use.
 
-Of the 46 entries, **40 are marked `verified: true`** and **6 are marked `verified: false`** (unverified): `PORT`, `GERO`, `HP`, `BKPH`, `OT`, `IYA` — see the "Unverified entries" section below for details.
+Of the 46 entries, **42 are marked `verified: true`** and **4 are marked `verified: false`** (unverified): `PORT`, `HP`, `BKPH`, `OT` — see the "Unverified entries" section below for details.
 
 ## Entries by school
 
@@ -117,22 +117,22 @@ The `DORN` entry is a `type: "school_fallback"` record — it applies when a Dor
 | THTR | Dramatic Arts (SDA) | dramaticarts.usc.edu/get-to-know-admissions-and-student-services/ | ✅ |
 | ARLT (+RADS, FINE) | Art (Roski) | roski.usc.edu/d-clearance-for-spring-2026-2/ | ✅ |
 | SOWK | Social Work | dworakpeck.usc.edu/student-life/enrollment-advisement-services/registration-information | ✅ |
-| GERO | Gerontology (Leonard Davis) | gero.usc.edu | ❌ unverified |
+| GERO | Gerontology (Leonard Davis) | gero.usc.edu | ✅ |
 | HP (+GHTH, PREV) | Health Promotion and Disease Prevention (Keck) | keck.usc.edu/pphs/education/bachelor-of-science/ | ❌ unverified |
 | BKPH (+BKN, PT) | Biokinesiology and Physical Therapy (Chan) | chan.usc.edu | ❌ unverified |
 | OT (+OCTH) | Occupational Science and Occupational Therapy (Chan) | chan.usc.edu | ❌ unverified |
-| IYA | Iovine and Young Academy | departmentsdirectory.usc.edu/usc-iovine-and-young-academy/ | ❌ unverified |
+| IYA | Iovine and Young Academy | iovine-young.usc.edu/learn/undergraduate/academy-non-major-course-offerings | ✅ |
 
 ## Unverified entries (`verified: false`) — treat with extra caution
 
-6 of 46 entries lack manual confirmation against a live page:
+4 of 46 entries lack manual confirmation against a live page:
 
 1. **PORT** (Portuguese) — source: dornsife.usc.edu/dash/d-clearance-info/
-2. **GERO** (Gerontology) — source: gero.usc.edu (no dedicated D-clearance page found; generic school URL)
-3. **HP** (Health Promotion, Keck) — source: keck.usc.edu/pphs/education/bachelor-of-science/
-4. **BKPH** (Biokinesiology/PT, Chan) — source: chan.usc.edu (no dedicated undergrad D-clearance page)
-5. **OT** (Occupational Science/Therapy, Chan) — source: chan.usc.edu (contact changes every term)
-6. **IYA** (Iovine and Young Academy) — source: departmentsdirectory.usc.edu/usc-iovine-and-young-academy/ (no formal public process)
+2. **HP** (Health Promotion, Keck) — source: keck.usc.edu/pphs/education/bachelor-of-science/
+3. **BKPH** (Biokinesiology/PT, Chan) — source: chan.usc.edu (no dedicated undergrad D-clearance page)
+4. **OT** (Occupational Science/Therapy, Chan) — source: chan.usc.edu (contact changes every term)
+
+`GERO` and `IYA` were confirmed on 2026-08-10 directly against their live department pages (see below) and moved to `verified: true`.
 
 ## Cross-cutting notes captured in the data
 

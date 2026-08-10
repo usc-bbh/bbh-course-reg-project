@@ -2,7 +2,7 @@
   "_schema_version": "1.4",
   "_lookup_logic": "Match on dept_code (course prefix) first. If no match, fall back to entries where type='school_fallback' and school matches the course's school. dept_code entries have no 'type' field; fallback entries have type='school_fallback' and a covers_prefixes array for reference.",
   "_description": "USC Department Clearance dataset for PlanSC Module 4B. Surfaces plain-language instructions to undergraduate students when a course requires departmental clearance (D-clearance) to enroll. Graduate D-clearance processes are out of scope.",
-  "_last_updated": "2026-06-3",
+  "_last_updated": "2026-08-10",
   "_notes": "All entries sourced from official USC department/school advising pages. 'verified' field indicates whether contact details and process steps have been manually confirmed against the live page. Always cross-check before production use — advising processes change each semester.",
 
   "departments": [
@@ -1042,15 +1042,15 @@
       "school": "Gerontology",
       "priority_note": "No explicit priority tiers documented publicly — contact the school directly.",
       "clearance_required_for": "GERO courses with a 'D' suffix on the section number. GERO 490x and 491/495 (directed research and practicum) always require advisor and faculty approval.",
-      "how_to_get_clearance": "Contact the Leonard Davis School undergraduate advising office at ldsgero@usc.edu or call (213) 740-5156. For GERO 490x and 491/495 directed research/practicum courses, arrange with a faculty member and your advisor first before requesting D-clearance.",
+      "how_to_get_clearance": "Email the Leonard Davis School Student Advisor (ldsgero@usc.edu) to request clearance. Include your name, USC ID number, course number (e.g. GERO 500), and section number (e.g. 36300) for each course you want clearance for. For GERO 490x and 491/495 directed research/practicum courses, arrange with a faculty member and your advisor first before requesting D-clearance.",
       "form_link": "https://gero.usc.edu",
       "contact_email": "ldsgero@usc.edu",
       "contact_office": "USC Leonard Davis School of Gerontology",
       "contact_phone": "(213) 740-5156",
       "typical_turnaround": "Not specified; allow at least 2–3 business days",
-      "tips": "No standalone D-clearance process page is publicly documented for Gerontology — always check the current Schedule of Classes note for the specific section, which may name a contact person. For directed research courses, start conversations with faculty well before registration opens.",
+      "tips": "Include your name, USC ID, course number, AND section number in your email — incomplete requests will likely be delayed. For directed research courses, start conversations with faculty well before registration opens.",
       "source_url": "https://gero.usc.edu",
-      "verified": false
+      "verified": true
     },
 
     {
@@ -1210,16 +1210,16 @@
       "dept_code": "IYA",
       "dept_name": "Iovine and Young Academy",
       "school": "Iovine and Young Academy",
-      "priority_note": "Restricted to enrolled IYA students. Non-IYA enrollment is extremely rare and case-by-case.",
-      "clearance_required_for": "All IYA courses. The academy admits a small cohort (~30 undergraduates/year) and courses are primarily restricted to enrolled IYA students.",
-      "how_to_get_clearance": "Contact the IYA program office directly at iovine-young@usc.edu. Explain your interest and how the course fits your academic goals. There is no formal public D-clearance process for non-IYA undergraduates — enrollment is rare and case-by-case.",
-      "form_link": "https://iovine-young.usc.edu/",
-      "contact_email": "iovine-young@usc.edu",
+      "priority_note": "Most ACAD courses are restricted to enrolled IYA students, but the Academy opens a set of its most popular courses to non-majors each semester.",
+      "clearance_required_for": "ACAD sections with a 'D' designation require departmental D-clearance before registering. For Fall 2026, non-majors can request the following ACAD courses: ACAD 176 (Rapid Visualization — section 10203 only), ACAD 177 (Digital Toolbox: Design), ACAD 182 (Disruptive Validation), ACAD 189 (3D Tools for Product Design), ACAD 190 (Making with Materials), ACAD 191 (Python for Machine Intelligence), ACAD 217 (Extended Reality Design), ACAD 230 (Introduction to Interactive Physical Computing), ACAD 245 (Fundamentals of Product Design), ACAD 261 (Human Health and Technology), ACAD 274 (Designing Interactive Data Systems), ACAD 276 (Dev II), ACAD 309 (Dreams and Madness: The Art of Japan's Golden Age of Animation), ACAD 325 (Human Technology Interaction and the User Experience), ACAD 406 (Purpose-Driven Innovation Incubator), ACAD 444 (Designing Products for Industry), ACAD 499 (Designing Human Technology Interaction Systems and Applications), ACAD 499 (Understanding AI). The list of non-major offerings changes each semester.",
+      "how_to_get_clearance": "Email iyadvise@usc.edu to ask about course availability for non-majors and to request D-clearance for a specific section. Include your name, USC ID, course number, and section number.",
+      "form_link": "https://iovine-young.usc.edu/learn/undergraduate/academy-non-major-course-offerings",
+      "contact_email": "iyadvise@usc.edu",
       "contact_office": "Iovine and Young Hall (IYH), HSH 101",
-      "typical_turnaround": "Not formally defined; contact office directly",
-      "tips": "Non-IYA enrollment is extremely limited. A compelling interdisciplinary project rationale or a direct connection to an IYA faculty member improves your chances. Generic requests are unlikely to succeed.",
-      "source_url": "https://departmentsdirectory.usc.edu/usc-iovine-and-young-academy/",
-      "verified": false
+      "typical_turnaround": "Not specified; contact office directly",
+      "tips": "Some listed courses have prerequisites or recommended preparation — e.g. ACAD 245 requires ACAD 176 or DES 102; ACAD 444 requires ACAD 245 or IDSN 524; ACAD 217 recommends ACAD 207; ACAD 189 recommends ACAD 188 or equivalent 3D modeling experience. ACAD 176 is open to non-majors in section 10203 only for Fall 2026. Always check the current semester's non-major course offerings page before requesting, since the list changes each term.",
+      "source_url": "https://iovine-young.usc.edu/learn/undergraduate/academy-non-major-course-offerings",
+      "verified": true
     }
 
   ]
