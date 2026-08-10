@@ -1137,6 +1137,22 @@
     },
 
     {
+      "dept_code": "MEDS",
+      "dept_name": "Minor in Health Care Studies (Keck — MEDS)",
+      "school": "Keck",
+      "priority_note": "No explicit priority tiers listed — any student can submit the D-Clearance Request Form.",
+      "clearance_required_for": "MEDS 320, MEDS 490, and MEDS 495 require D-clearance.",
+      "how_to_get_clearance": "Fill out the Health Care Studies D-Clearance Request Form at forms.gle/USKeugYMSBNV67Gc8. D-clearances are processed by the end of each week; students are notified via their USC email.",
+      "form_link": "https://forms.gle/USKeugYMSBNV67Gc8",
+      "contact_email": "See mhcs-forms page for department contact",
+      "contact_office": "USC Keck — Minor in Health Care Studies",
+      "typical_turnaround": "Processed by the end of each week; confirmation sent via USC email",
+      "tips": "The same forms page also has separate Add Minor and Drop Minor forms — D-clearance alone does not add you to the minor.",
+      "source_url": "https://keck.usc.edu/medical-education/mhcs-forms/",
+      "verified": true
+    },
+
+    {
       "dept_code": "BKPH",
       "dept_name": "Biokinesiology and Physical Therapy (USC Chan — BKPH, BKN, PT)",
       "also_covers_prefixes": ["BKN", "PT"],

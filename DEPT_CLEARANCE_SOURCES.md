@@ -1,6 +1,6 @@
 # USC Department (D-)Clearance Dataset — Documentation
 
-Documents what's in [`dept_clearance.json`](dept_clearance.json): a 46-department dataset of undergraduate D-clearance information for PlanSC Module 4B, and where each entry's information came from.
+Documents what's in [`dept_clearance.json`](dept_clearance.json): a 74-department dataset of undergraduate D-clearance information for PlanSC Module 4B, and where each entry's information came from.
 
 - **Schema version:** 1.4
 - **Last updated:** 2026-08-10
@@ -15,7 +15,7 @@ A department-level enrollment restriction on certain USC course sections (denote
 
 Per the file's `_notes` field: **all entries were sourced from official USC department/school advising pages.** Each entry carries its own `source_url` (the page the entry was scraped/compiled from) and a `verified` boolean indicating whether contact details and process steps were manually confirmed against the live page at compile time. The file explicitly warns that advising processes change every semester and should be cross-checked before production use.
 
-Of the 46 entries, **42 are marked `verified: true`** and **4 are marked `verified: false`** (unverified): `PORT`, `HP`, `BKPH`, `OT` — see the "Unverified entries" section below for details.
+Of the 74 entries, **70 are marked `verified: true`** and **4 are marked `verified: false`** (unverified): `PORT`, `HP`, `BKPH`, `OT` — see the "Unverified entries" section below for details.
 
 ## Entries by school
 
@@ -119,13 +119,16 @@ The `DORN` entry is a `type: "school_fallback"` record — it applies when a Dor
 | SOWK | Social Work | dworakpeck.usc.edu/student-life/enrollment-advisement-services/registration-information | ✅ |
 | GERO | Gerontology (Leonard Davis) | gero.usc.edu | ✅ |
 | HP (+GHTH, PREV) | Health Promotion and Disease Prevention (Keck) | keck.usc.edu/pphs/education/bachelor-of-science/ | ❌ unverified |
+| MEDS | Minor in Health Care Studies (Keck) | keck.usc.edu/medical-education/mhcs-forms/ | ✅ |
 | BKPH (+BKN, PT) | Biokinesiology and Physical Therapy (Chan) | chan.usc.edu | ❌ unverified |
 | OT (+OCTH) | Occupational Science and Occupational Therapy (Chan) | chan.usc.edu | ❌ unverified |
 | IYA | Iovine and Young Academy | iovine-young.usc.edu/learn/undergraduate/academy-non-major-course-offerings | ✅ |
 
+`HP` and `MEDS` are distinct Keck programs, not variants of the same entry: `HP` is the Health Promotion and Disease Prevention Studies major/BS, while `MEDS` is the standalone Minor in Health Care Studies, with its own D-clearance form and process.
+
 ## Unverified entries (`verified: false`) — treat with extra caution
 
-4 of 46 entries lack manual confirmation against a live page:
+4 of 74 entries lack manual confirmation against a live page:
 
 1. **PORT** (Portuguese) — source: dornsife.usc.edu/dash/d-clearance-info/
 2. **HP** (Health Promotion, Keck) — source: keck.usc.edu/pphs/education/bachelor-of-science/
