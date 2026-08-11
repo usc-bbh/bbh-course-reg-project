@@ -248,44 +248,46 @@ const DAYS = ["Mon", "Tue", "Wed", "Thu", "Fri"];
 const DAY_START = 8 * 60;
 const DAY_END = 21 * 60;
 const SPAN = DAY_END - DAY_START;
-const PALETTE = ["#58a6ff", "#3fb950", "#f59e0b", "#a371f7", "#ec4899", "#22d3ee", "#fb923c"];
+// Course accent colors — chosen to stay legible on a white background,
+// anchored by USC cardinal for the first course.
+const PALETTE = ["#990000", "#1a7f37", "#1d4ed8", "#9a6a00", "#6f42c1", "#0e7490", "#b3006b"];
 
 function Calendar({ blocks }) {
   const hours = [];
   for (let h = 8; h <= 21; h++) hours.push(h);
 
   return (
-    <div style={{ border: "1px solid #21262d", borderRadius: 12, overflow: "hidden", background: "#0f141a" }}>
-      <div style={{ display: "grid", gridTemplateColumns: "44px repeat(5, 1fr)" }}>
-        <div style={{ borderBottom: "1px solid #21262d" }} />
+    <div style={{ border: "1px solid #dcdce0", borderRadius: 14, overflow: "hidden", background: "#fff", boxShadow: "0 1px 2px rgba(0,0,0,0.05), 0 10px 28px rgba(0,0,0,0.06)" }}>
+      <div style={{ display: "grid", gridTemplateColumns: "46px repeat(5, 1fr)", background: "linear-gradient(180deg, #990000, #7d0000)" }}>
+        <div style={{ borderBottom: "1px solid rgba(255,255,255,0.15)" }} />
         {DAYS.map((d) => (
-          <div key={d} style={{ padding: "8px 0", textAlign: "center", fontSize: 12, fontWeight: 600, color: "#adbac7", borderBottom: "1px solid #21262d", borderLeft: "1px solid #21262d" }}>{d}</div>
+          <div key={d} style={{ padding: "11px 0", textAlign: "center", fontSize: 11, fontWeight: 700, letterSpacing: "0.06em", textTransform: "uppercase", color: "#ffcc00", borderBottom: "1px solid rgba(255,255,255,0.15)", borderLeft: "1px solid rgba(255,255,255,0.12)" }}>{d}</div>
         ))}
       </div>
-      <div style={{ display: "grid", gridTemplateColumns: "44px repeat(5, 1fr)", position: "relative", height: 460 }}>
+      <div style={{ display: "grid", gridTemplateColumns: "46px repeat(5, 1fr)", position: "relative", height: 470 }}>
         {/* hour gutter */}
         <div style={{ position: "relative" }}>
           {hours.map((h) => (
-            <div key={h} style={{ position: "absolute", top: `${((h * 60 - DAY_START) / SPAN) * 100}%`, right: 6, transform: "translateY(-50%)", fontSize: 10, color: "#6e7681", fontFamily: "'DM Mono', monospace" }}>
+            <div key={h} style={{ position: "absolute", top: `${((h * 60 - DAY_START) / SPAN) * 100}%`, right: 8, transform: "translateY(-50%)", fontSize: 9.5, color: "#9a9aa0", fontFamily: "'DM Mono', monospace" }}>
               {h % 12 || 12}{h < 12 ? "a" : "p"}
             </div>
           ))}
         </div>
         {DAYS.map((day) => (
-          <div key={day} style={{ position: "relative", borderLeft: "1px solid #21262d" }}>
+          <div key={day} style={{ position: "relative", borderLeft: "1px solid #ededf0" }}>
             {hours.map((h) => (
-              <div key={h} style={{ position: "absolute", top: `${((h * 60 - DAY_START) / SPAN) * 100}%`, left: 0, right: 0, borderTop: "1px solid #161b22" }} />
+              <div key={h} style={{ position: "absolute", top: `${((h * 60 - DAY_START) / SPAN) * 100}%`, left: 0, right: 0, borderTop: "1px solid #f2f2f4" }} />
             ))}
             {blocks.filter((b) => b.days.includes(day)).map((b) => {
               const top = ((toMin(b.start_time) - DAY_START) / SPAN) * 100;
               const height = ((toMin(b.end_time) - toMin(b.start_time)) / SPAN) * 100;
               return (
                 <div key={`${b.section_id}-${day}`} title={`${b.course_name} ${b.section_id}`}
-                  style={{ position: "absolute", top: `${top}%`, height: `${height}%`, left: 2, right: 2,
-                    background: `${b.color}26`, borderLeft: `3px solid ${b.color}`, borderRadius: 4,
-                    padding: "3px 5px", overflow: "hidden", fontSize: 10, lineHeight: 1.25 }}>
-                  <div style={{ fontWeight: 600, color: b.color, whiteSpace: "nowrap" }}>{b.course_name}</div>
-                  <div style={{ color: "#8b949e", whiteSpace: "nowrap" }}>{b.section_type.replace(/s$/, "")} · {b.section_id}</div>
+                  style={{ position: "absolute", top: `${top}%`, height: `${height}%`, left: 3, right: 3,
+                    background: `${b.color}14`, borderLeft: `3px solid ${b.color}`, borderRadius: 7,
+                    padding: "4px 7px", overflow: "hidden", fontSize: 10, lineHeight: 1.3, boxShadow: `0 2px 6px ${b.color}1f` }}>
+                  <div style={{ fontWeight: 700, color: b.color, whiteSpace: "nowrap" }}>{b.course_name}</div>
+                  <div style={{ color: "#6b6b72", whiteSpace: "nowrap" }}>{b.section_type.replace(/s$/, "")} · {b.section_id}</div>
                 </div>
               );
             })}
@@ -300,9 +302,9 @@ function Calendar({ blocks }) {
 // App
 // ─────────────────────────────────────────────────────────────
 const STATUS = {
-  fail: { bg: "#3a1518", border: "#7f1d1d", dot: "#ef4444", label: "Blocker", icon: "!" },
-  warning: { bg: "#3a2f12", border: "#854d0e", dot: "#f59e0b", label: "Heads-up", icon: "!" },
-  pass: { bg: "#0d2818", border: "#166534", dot: "#22c55e", label: "OK", icon: "\u2713" },
+  fail: { bg: "#fdecea", border: "#f2b8b3", dot: "#c1121f", label: "Blocker", icon: "!" },
+  warning: { bg: "#fff8e1", border: "#ffd54f", dot: "#a06a00", label: "Heads-up", icon: "!" },
+  pass: { bg: "#eaf7ef", border: "#a7dcb8", dot: "#1a7f37", label: "OK", icon: "\u2713" },
 };
 
 // ─────────────────────────────────────────────────────────────
@@ -545,58 +547,77 @@ export default function App() {
   };
 
   return (
-    <div style={{ fontFamily: "'DM Sans', system-ui, sans-serif", background: "#0d1117", color: "#e6edf3", minHeight: "100vh" }}>
-      <style>{`@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Mono:wght@400;500&display=swap');
+    <div style={{ fontFamily: "'DM Sans', system-ui, sans-serif", background: "#f4f4f5", color: "#1a1a1a", minHeight: "100vh" }}>
+      <style>{`@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Mono:wght@400;500&family=Playfair+Display:wght@600;700&display=swap');
         * { box-sizing: border-box; }
         .mono { font-family: 'DM Mono', monospace; }
-        button:focus-visible { outline: 2px solid #58a6ff; outline-offset: 2px; }
+        .serif { font-family: 'Playfair Display', Georgia, serif; }
+        button { transition: background .15s ease, border-color .15s ease, color .15s ease, box-shadow .18s ease, transform .1s ease; }
+        button:focus-visible { outline: 2px solid #990000; outline-offset: 2px; }
+        input:focus { outline: none; border-color: #990000; box-shadow: 0 0 0 3px rgba(153,0,0,0.14); }
+        .chip:hover { background: rgba(255,255,255,0.28) !important; }
+        .course-card { transition: border-color .18s ease, box-shadow .18s ease; }
+        .course-card:hover { border-color: #cfcfd4; box-shadow: 0 8px 22px rgba(0,0,0,0.09); }
+        .suggestion:hover { background: rgba(153,0,0,0.06) !important; }
+        .section-row:hover { background: #f7f7f8 !important; border-color: #e2e2e6 !important; }
+        .remove-btn:hover { color: #c1121f !important; background: rgba(193,18,31,0.1) !important; }
+        .validate-btn:not(:disabled):hover { box-shadow: 0 8px 22px rgba(153,0,0,0.32); transform: translateY(-1px); }
+        .validate-btn:not(:disabled):active { transform: translateY(0); box-shadow: 0 3px 10px rgba(153,0,0,0.28); }
+        ::-webkit-scrollbar { width: 10px; height: 10px; }
+        ::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.18); border-radius: 8px; border: 2px solid transparent; background-clip: padding-box; }
+        ::-webkit-scrollbar-thumb:hover { background: rgba(0,0,0,0.3); background-clip: padding-box; }
+        ::-webkit-scrollbar-track { background: transparent; }
       `}</style>
 
-      <div style={{ borderBottom: "1px solid #21262d", padding: "18px 24px", display: "flex", justifyContent: "space-between", alignItems: "baseline", flexWrap: "wrap", gap: 8 }}>
-        <div>
-          <div style={{ fontSize: 19, fontWeight: 700, letterSpacing: "-0.02em" }}>Next semester validator</div>
-          <div style={{ fontSize: 12.5, color: "#7d8590", marginTop: 2 }}>Pick your sections for Fall 2026, then check the schedule before you register.</div>
+      <div style={{ borderBottom: "3px solid #ffcc00", background: "linear-gradient(180deg, #990000, #7d0000)", padding: "20px 28px", display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 12, boxShadow: "0 2px 10px rgba(0,0,0,0.15)" }}>
+        <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
+          <div style={{ width: 42, height: 42, borderRadius: 10, flexShrink: 0, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 21, fontWeight: 700, color: "#990000", background: "#ffcc00", boxShadow: "0 3px 10px rgba(0,0,0,0.25)" }}>{"✓"}</div>
+          <div>
+            <div className="serif" style={{ fontSize: 23, fontWeight: 700, letterSpacing: "-0.01em", color: "#fff", lineHeight: 1.1 }}>Next Semester Validator</div>
+            <div style={{ fontSize: 12.5, color: "rgba(255,255,255,0.82)", marginTop: 3 }}>Pick your sections for Fall 2026, then check the schedule before you register.</div>
+          </div>
         </div>
-        <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
+        <div style={{ display: "flex", gap: 9, alignItems: "center" }}>
           <input ref={fileInputRef} type="file" accept="application/pdf" onChange={handleStarsUpload} style={{ display: "none" }} />
           <button onClick={() => fileInputRef.current?.click()}
-            className="mono"
-            style={{ fontSize: 11.5, color: starsSource === "parsed" ? "#3fb950" : starsSource === "failed" ? "#f85149" : "#7d8590",
-              background: "#161b22", border: "1px solid #21262d", borderRadius: 6, padding: "4px 10px", cursor: "pointer", fontFamily: "inherit" }}>
+            className="mono chip"
+            style={{ fontSize: 11.5, color: starsSource === "parsed" ? "#eafaef" : starsSource === "failed" ? "#ffdede" : "#fff",
+              background: "rgba(255,255,255,0.16)", border: "1px solid rgba(255,255,255,0.35)", borderRadius: 8, padding: "6px 12px", cursor: "pointer", fontFamily: "inherit" }}>
             {starsSource === "parsing" ? (starsStatusMsg || "Parsing…")
               : starsSource === "parsed" ? `✓ STARS uploaded · ${starsReport.classLevel} · ${starsReport.completedCourses.length} completed`
               : starsSource === "failed" ? "⚠ Parse failed — click to retry"
               : `STARS · ${starsReport.classLevel} (demo) · ${starsReport.completedCourses.length} completed · click to upload real PDF`}
           </button>
-          <div className="mono" style={{ fontSize: 10, color: pyodideStatus === "ready" ? "#3fb950" : pyodideStatus === "loading" ? "#f59e0b" : "#7d8590",
-            background: "#161b22", border: "1px solid #21262d", borderRadius: 6, padding: "4px 8px" }}>
-            {pyodideStatus === "ready" ? "✓ Python" : pyodideStatus === "loading" ? "⏳ Loading Pyodide…" : "JS mock"}
+          <div className="mono" style={{ fontSize: 10, display: "flex", alignItems: "center", gap: 5, color: "#fff",
+            background: "rgba(255,255,255,0.16)", border: "1px solid rgba(255,255,255,0.35)", borderRadius: 8, padding: "6px 10px" }}>
+            <span style={{ width: 6, height: 6, borderRadius: "50%", background: pyodideStatus === "ready" ? "#6ee7a0" : pyodideStatus === "loading" ? "#ffcc00" : "#ffcc00", boxShadow: "0 0 6px currentColor" }} />
+            {pyodideStatus === "ready" ? "Python" : pyodideStatus === "loading" ? "Loading Pyodide…" : "JS mock"}
           </div>
         </div>
       </div>
 
       {starsSource === "failed" && (
-        <div style={{ margin: "0 24px", padding: "10px 14px", background: "#3a1518", border: "1px solid #7f1d1d", borderRadius: 8, fontSize: 12.5, color: "#e6edf3" }}>
+        <div style={{ margin: "16px 28px 0", padding: "12px 16px", background: "#fdecea", border: "1px solid #f2b8b3", borderLeft: "4px solid #c1121f", borderRadius: 8, fontSize: 12.5, color: "#4a1210" }}>
           Couldn't read that STARS PDF automatically (tried direct text extraction and OCR). Per Avi's parser, this means manual entry is needed —
           that flow isn't built in this GUI yet, so demo data is being used for now. Try a different PDF, or continue with the click above.
         </div>
       )}
 
-      <div style={{ display: "grid", gridTemplateColumns: "minmax(340px, 420px) 1fr", gap: 20, padding: 24, alignItems: "start" }}>
+      <div style={{ display: "grid", gridTemplateColumns: "minmax(340px, 430px) 1fr", gap: 24, padding: 28, alignItems: "start" }}>
 
         {/* LEFT — pick courses + sections */}
         <div>
-          <div style={{ position: "relative", marginBottom: 16 }}>
+          <div style={{ position: "relative", marginBottom: 18 }}>
             <input value={query} onChange={(e) => setQuery(e.target.value)}
               placeholder="Add a course — try CSCI 104, ACCT 370, BUAD 494…"
-              style={{ width: "100%", background: "#161b22", border: "1px solid #30363d", borderRadius: 8, padding: "10px 13px", color: "#e6edf3", fontSize: 13.5, fontFamily: "inherit" }} />
+              style={{ width: "100%", background: "#fff", border: "1px solid #d3d3d8", borderRadius: 10, padding: "12px 15px", color: "#1a1a1a", fontSize: 13.5, fontFamily: "inherit", transition: "border-color .15s ease, box-shadow .15s ease" }} />
             {suggestions.length > 0 && (
-              <div style={{ position: "absolute", top: "100%", left: 0, right: 0, background: "#161b22", border: "1px solid #30363d", borderRadius: 8, marginTop: 4, zIndex: 20, overflow: "hidden" }}>
+              <div style={{ position: "absolute", top: "100%", left: 0, right: 0, background: "#fff", border: "1px solid #d3d3d8", borderRadius: 10, marginTop: 6, zIndex: 20, overflow: "hidden", boxShadow: "0 14px 34px rgba(0,0,0,0.16)" }}>
                 {suggestions.map((c) => (
-                  <button key={c} onClick={() => addCourse(c)}
-                    style={{ display: "flex", justifyContent: "space-between", width: "100%", textAlign: "left", padding: "9px 13px", border: "none", borderBottom: "1px solid #21262d", background: "transparent", color: "#e6edf3", cursor: "pointer", fontFamily: "inherit", fontSize: 13 }}>
-                    <span><b>{c}</b> <span style={{ color: "#7d8590" }}>{MOCK_CATALOG[c].units} units</span></span>
-                    <span style={{ color: "#3fb950" }}>+</span>
+                  <button key={c} onClick={() => addCourse(c)} className="suggestion"
+                    style={{ display: "flex", justifyContent: "space-between", width: "100%", textAlign: "left", padding: "10px 14px", border: "none", borderBottom: "1px solid #eeeef0", background: "transparent", color: "#1a1a1a", cursor: "pointer", fontFamily: "inherit", fontSize: 13 }}>
+                    <span><b>{c}</b> <span style={{ color: "#7a7a80" }}>{MOCK_CATALOG[c].units} units</span></span>
+                    <span style={{ color: "#990000", fontWeight: 700 }}>+</span>
                   </button>
                 ))}
               </div>
@@ -604,7 +625,8 @@ export default function App() {
           </div>
 
           {expanded.length === 0 && (
-            <div style={{ color: "#7d8590", fontSize: 13, padding: "20px 0", textAlign: "center", border: "1px dashed #21262d", borderRadius: 10 }}>
+            <div style={{ color: "#7a7a80", fontSize: 13, padding: "32px 20px", textAlign: "center", border: "1px dashed #cfcfd4", borderRadius: 12, background: "#fafafb" }}>
+              <div style={{ fontSize: 22, marginBottom: 6, opacity: 0.55 }}>🔍</div>
               No courses yet. Search above to start building.
             </div>
           )}
@@ -613,41 +635,42 @@ export default function App() {
             const entry = MOCK_CATALOG[courseName];
             const color = colorFor(courseName);
             return (
-              <div key={courseName} style={{ border: "1px solid #21262d", borderRadius: 10, marginBottom: 12, overflow: "hidden", background: "#0f141a" }}>
-                <div style={{ padding: "10px 13px", background: "#161b22", display: "flex", justifyContent: "space-between", alignItems: "center", gap: 8, borderLeft: `3px solid ${color}` }}>
+              <div key={courseName} className="course-card" style={{ border: "1px solid #e2e2e6", borderRadius: 12, marginBottom: 13, overflow: "hidden", background: "#fff", boxShadow: "0 1px 2px rgba(0,0,0,0.05)" }}>
+                <div style={{ padding: "12px 15px", background: "#f6f6f7", borderBottom: "1px solid #eaeaee", display: "flex", justifyContent: "space-between", alignItems: "center", gap: 8, borderLeft: `4px solid ${color}` }}>
                   <div>
-                    <span style={{ fontWeight: 600, fontSize: 14 }}>{courseName}</span>
-                    <span style={{ color: "#7d8590", fontSize: 12, marginLeft: 7 }}>{entry.units} units</span>
+                    <span style={{ fontWeight: 700, fontSize: 14, color: "#1a1a1a" }}>{courseName}</span>
+                    <span style={{ color: "#7a7a80", fontSize: 12, marginLeft: 8 }}>{entry.units} units</span>
                   </div>
                   <div style={{ display: "flex", gap: 5, alignItems: "center" }}>
-                    {entry.has_d_clearance && <Tag c="#f59e0b">D-clear</Tag>}
-                    {entry.has_restrictions && <Tag c="#a371f7">Restricted</Tag>}
-                    {entry.has_lab && <Tag c="#3fb950">Lab req</Tag>}
-                    {entry.has_discussion && <Tag c="#3fb950">Disc req</Tag>}
-                    <button onClick={() => removeCourse(courseName)} style={{ background: "none", border: "none", color: "#6e7681", cursor: "pointer", fontSize: 16, padding: "0 2px" }}>×</button>
+                    {entry.has_d_clearance && <Tag c="#a06a00">D-clear</Tag>}
+                    {entry.has_restrictions && <Tag c="#6f42c1">Restricted</Tag>}
+                    {entry.has_lab && <Tag c="#1a7f37">Lab req</Tag>}
+                    {entry.has_discussion && <Tag c="#1a7f37">Disc req</Tag>}
+                    <button onClick={() => removeCourse(courseName)} className="remove-btn" style={{ background: "none", border: "none", color: "#9a9aa0", cursor: "pointer", fontSize: 16, padding: "1px 5px", borderRadius: 6, lineHeight: 1 }}>×</button>
                   </div>
                 </div>
-                <div style={{ padding: "5px 8px" }}>
+                <div style={{ padding: "6px 9px 9px" }}>
                   {Object.entries(entry.sections).map(([group, secs]) => (
                     <div key={group}>
-                      <div style={{ fontSize: 10, textTransform: "uppercase", letterSpacing: "0.06em", color: "#6e7681", padding: "6px 5px 3px", fontWeight: 600 }}>{group}</div>
+                      <div style={{ fontSize: 9.5, textTransform: "uppercase", letterSpacing: "0.08em", color: "#9a9aa0", padding: "8px 5px 4px", fontWeight: 700 }}>{group}</div>
                       {secs.map((s) => {
                         const on = !!picked[s.section_id];
                         return (
                           <button key={s.section_id} onClick={() => toggleSection(courseName, s)}
+                            className={on ? undefined : "section-row"}
                             style={{ width: "100%", textAlign: "left", cursor: "pointer", display: "flex", justifyContent: "space-between", alignItems: "center", gap: 8,
-                              background: on ? `${color}1f` : "transparent", border: `1px solid ${on ? color + "66" : "transparent"}`,
-                              borderRadius: 7, padding: "7px 9px", margin: "2px 0", color: "#e6edf3", fontFamily: "inherit" }}>
-                            <span style={{ display: "flex", alignItems: "center", gap: 9, minWidth: 0 }}>
-                              <span className="mono" style={{ fontSize: 11, color: on ? color : "#6e7681", width: 44, flexShrink: 0 }}>{s.section_id}</span>
-                              <span className="mono" style={{ fontSize: 11.5, color: "#8b949e", whiteSpace: "nowrap" }}>
+                              background: on ? `${color}14` : "transparent", border: `1px solid ${on ? color + "80" : "#ededf0"}`,
+                              borderRadius: 9, padding: "8px 10px", margin: "3px 0", color: "#1a1a1a", fontFamily: "inherit" }}>
+                            <span style={{ display: "flex", alignItems: "center", gap: 10, minWidth: 0 }}>
+                              <span className="mono" style={{ fontSize: 11, color: on ? color : "#9a9aa0", width: 44, flexShrink: 0, fontWeight: 500 }}>{s.section_id}</span>
+                              <span className="mono" style={{ fontSize: 11.5, color: "#6b6b72", whiteSpace: "nowrap" }}>
                                 {s.days.join("/")} {fmt(s.start_time)}–{fmt(s.end_time)}
                               </span>
                             </span>
-                            <span style={{ display: "flex", alignItems: "center", gap: 8, flexShrink: 0 }}>
-                              {s.has_d_clearance && <span style={{ fontSize: 10, color: "#f59e0b" }}>D</span>}
-                              <span style={{ fontSize: 11, color: s.is_full ? "#f85149" : "#3fb950" }}>{s.is_full ? "Full" : `${s.open_seats} open`}</span>
-                              <span style={{ fontSize: 14, color: on ? color : "#484f58", lineHeight: 1 }}>{on ? "✓" : "+"}</span>
+                            <span style={{ display: "flex", alignItems: "center", gap: 9, flexShrink: 0 }}>
+                              {s.has_d_clearance && <span style={{ fontSize: 9.5, color: "#a06a00", fontWeight: 700, border: "1px solid #ffd54f", background: "#fff8e1", borderRadius: 4, padding: "1px 4px" }}>D</span>}
+                              <span style={{ fontSize: 11, fontWeight: 600, color: s.is_full ? "#c1121f" : "#1a7f37" }}>{s.is_full ? "Full" : `${s.open_seats} open`}</span>
+                              <span style={{ fontSize: 14, color: on ? color : "#c2c2c8", lineHeight: 1 }}>{on ? "✓" : "+"}</span>
                             </span>
                           </button>
                         );
@@ -662,40 +685,43 @@ export default function App() {
 
         {/* RIGHT — calendar + validate + results */}
         <div style={{ position: "sticky", top: 20 }}>
-          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 10 }}>
-            <span style={{ fontSize: 14, fontWeight: 600 }}>Your week</span>
-            <span className="mono" style={{ fontSize: 12, color: totalUnits > 18 ? "#f85149" : "#7d8590" }}>{totalUnits} units · {pickedList.length} sections</span>
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 12 }}>
+            <span className="serif" style={{ fontSize: 18, fontWeight: 700, color: "#990000" }}>Your week</span>
+            <span className="mono" style={{ fontSize: 12, color: totalUnits > 18 ? "#c1121f" : "#5a5a60", background: "#fff", border: "1px solid #e2e2e6", borderRadius: 20, padding: "4px 11px" }}>{totalUnits} units · {pickedList.length} sections</span>
           </div>
 
           <Calendar blocks={blocks} />
 
-          <button onClick={runValidate} disabled={!canValidate}
-            style={{ width: "100%", marginTop: 14, padding: "11px", borderRadius: 8, border: "none",
+          <button onClick={runValidate} disabled={!canValidate} className="validate-btn"
+            style={{ width: "100%", marginTop: 16, padding: "13px", borderRadius: 10, border: "none",
               cursor: canValidate ? "pointer" : "not-allowed",
-              background: canValidate ? "#238636" : "#21262d",
-              color: canValidate ? "#fff" : "#484f58", fontWeight: 600, fontSize: 14, fontFamily: "inherit" }}>
+              background: canValidate ? "linear-gradient(135deg, #b3131a, #990000)" : "#e6e6e9",
+              color: canValidate ? "#fff" : "#a0a0a6", fontWeight: 700, fontSize: 14, fontFamily: "inherit",
+              boxShadow: canValidate ? "0 4px 14px rgba(153,0,0,0.26)" : "none", letterSpacing: "0.01em" }}>
             {validating ? "Validating…" : "Validate schedule"}
           </button>
           {needSections.length > 0 && (
-            <div style={{ marginTop: 7, fontSize: 12, color: "#7d8590", textAlign: "center" }}>
+            <div style={{ marginTop: 9, fontSize: 12, color: "#7a7a80", textAlign: "center" }}>
               Pick at least one section for {needSections.join(", ")} to validate.
             </div>
           )}
 
           {result && (
-            <div style={{ marginTop: 14 }}>
-              <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 12, padding: "11px 13px", borderRadius: 10,
-                background: result.overall_status === "valid" ? "#0d2818" : result.overall_status === "warning" ? "#3a2f12" : "#3a1518",
-                border: `1px solid ${result.overall_status === "valid" ? "#166534" : result.overall_status === "warning" ? "#854d0e" : "#7f1d1d"}` }}>
-                <span style={{ width: 26, height: 26, borderRadius: "50%", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 15, fontWeight: 700, color: "#fff", flexShrink: 0,
-                  background: result.overall_status === "valid" ? "#22c55e" : result.overall_status === "warning" ? "#f59e0b" : "#ef4444" }}>
+            <div style={{ marginTop: 16 }}>
+              <div style={{ display: "flex", alignItems: "center", gap: 12, marginBottom: 14, padding: "13px 15px", borderRadius: 12,
+                background: result.overall_status === "valid" ? "#eaf7ef" : result.overall_status === "warning" ? "#fff8e1" : "#fdecea",
+                border: `1px solid ${result.overall_status === "valid" ? "#a7dcb8" : result.overall_status === "warning" ? "#ffd54f" : "#f2b8b3"}`,
+                boxShadow: "0 1px 3px rgba(0,0,0,0.06)" }}>
+                <span style={{ width: 30, height: 30, borderRadius: "50%", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 16, fontWeight: 700, color: "#fff", flexShrink: 0,
+                  background: result.overall_status === "valid" ? "#1a7f37" : result.overall_status === "warning" ? "#a06a00" : "#c1121f",
+                  boxShadow: `0 2px 8px ${result.overall_status === "valid" ? "rgba(26,127,55,0.4)" : result.overall_status === "warning" ? "rgba(160,106,0,0.4)" : "rgba(193,18,31,0.4)"}` }}>
                   {result.overall_status === "valid" ? "\u2713" : "!"}
                 </span>
                 <div>
-                  <div style={{ fontWeight: 600, fontSize: 14 }}>
+                  <div style={{ fontWeight: 700, fontSize: 14.5, color: "#1a1a1a" }}>
                     {result.overall_status === "valid" ? "Schedule looks good" : result.overall_status === "warning" ? "Worth reviewing" : "Schedule has problems"}
                   </div>
-                  <div className="mono" style={{ fontSize: 11.5, color: "#7d8590", marginTop: 1 }}>
+                  <div className="mono" style={{ fontSize: 11.5, color: "#5a5a60", marginTop: 2 }}>
                     {result.summary.total_units} units{result.summary.warnings.map((w, i) => <span key={i}> · {w}</span>)}
                   </div>
                 </div>
@@ -704,14 +730,14 @@ export default function App() {
               {result.course_results.map((cr, i) => {
                 const s = STATUS[cr.status];
                 return (
-                  <div key={i} style={{ background: s.bg, border: `1px solid ${s.border}`, borderRadius: 9, padding: "10px 12px", marginBottom: 7 }}>
-                    <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
-                      <span style={{ width: 17, height: 17, borderRadius: "50%", background: s.dot, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 10, fontWeight: 700, color: "#fff", flexShrink: 0 }}>{s.icon}</span>
-                      <span style={{ fontWeight: 600, fontSize: 13.5 }}>{cr.course}</span>
-                      <span style={{ fontSize: 11, color: s.dot, marginLeft: "auto" }}>{s.label}</span>
+                  <div key={i} style={{ background: s.bg, border: `1px solid ${s.border}`, borderRadius: 10, padding: "11px 13px", marginBottom: 8 }}>
+                    <div style={{ display: "flex", alignItems: "center", gap: 9 }}>
+                      <span style={{ width: 18, height: 18, borderRadius: "50%", background: s.dot, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 10, fontWeight: 700, color: "#fff", flexShrink: 0 }}>{s.icon}</span>
+                      <span style={{ fontWeight: 700, fontSize: 13.5, color: "#1a1a1a" }}>{cr.course}</span>
+                      <span style={{ fontSize: 10.5, fontWeight: 700, color: s.dot, marginLeft: "auto", textTransform: "uppercase", letterSpacing: "0.04em" }}>{s.label}</span>
                     </div>
                     {cr.reasons.map((r, j) => (
-                      <div key={j} style={{ fontSize: 12.5, color: "#b1bac4", lineHeight: 1.45, paddingLeft: 25, marginTop: 3 }}>{r}</div>
+                      <div key={j} style={{ fontSize: 12.5, color: "#44444a", lineHeight: 1.5, paddingLeft: 27, marginTop: 4 }}>{r}</div>
                     ))}
                   </div>
                 );
@@ -725,5 +751,5 @@ export default function App() {
 }
 
 function Tag({ children, c }) {
-  return <span style={{ fontSize: 10, color: c, border: `1px solid ${c}44`, background: `${c}18`, borderRadius: 4, padding: "2px 6px", fontWeight: 500, whiteSpace: "nowrap" }}>{children}</span>;
+  return <span style={{ fontSize: 9.5, color: c, border: `1px solid ${c}4d`, background: `${c}1f`, borderRadius: 6, padding: "2px 7px", fontWeight: 600, letterSpacing: "0.01em", whiteSpace: "nowrap" }}>{children}</span>;
 }
