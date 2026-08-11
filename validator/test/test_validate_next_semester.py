@@ -152,14 +152,14 @@ def test_d_clearance_warns_generically_for_unknown_department(dept_clearance):
 
 
 def test_d_clearance_warns_with_department_text_for_also_covers_prefix(dept_clearance):
-    """BKN and PT aren't their own dept_code entries -- they're listed under BKPH's
-    also_covers_prefixes -- so this covers the case that used to fall through to the
-    generic warning even though department contact info exists for them."""
+    """ECE isn't its own dept_code entry -- it's listed under EE's also_covers_prefixes --
+    so this covers the case that used to fall through to the generic warning even though
+    department contact info exists for it."""
     by_prefix = _dept_clearance_by_prefix(dept_clearance)
     entry = {"has_d_clearance": True}
-    result = _check_d_clearance("BKN 450", entry, by_prefix)
+    result = _check_d_clearance("ECE 201", entry, by_prefix)
     assert result.status == "warning"
-    assert any("bknpt@usc.edu" in r for r in result.reasons)
+    assert any("myviterbi" in r.lower() for r in result.reasons)
 
 
 def test_d_clearance_schema_version_guard_raises(dept_clearance):

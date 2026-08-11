@@ -135,6 +135,8 @@ The `DORN` entry is a `type: "school_fallback"` record — it applies when a Dor
 3. **BKPH** (Biokinesiology/PT, Chan) — source: chan.usc.edu (no dedicated undergrad D-clearance page)
 4. **OT** (Occupational Science/Therapy, Chan) — source: chan.usc.edu (contact changes every term)
 
+For `HP`, `BKPH`, and `OT`, no department contact was confirmed as current or public, so `how_to_get_clearance` now just points the student to their academic advisor instead of naming a specific office/email — this avoids surfacing a contact we can't stand behind. `MEDS` (also Keck) does have a confirmed process — its own D-clearance form — and is excluded from this list.
+
 `GERO` and `IYA` were confirmed on 2026-08-10 directly against their live department pages (see below) and moved to `verified: true`.
 
 ## Cross-cutting notes captured in the data
