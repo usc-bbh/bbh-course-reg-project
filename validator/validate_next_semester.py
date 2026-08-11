@@ -121,6 +121,8 @@ def _dept_clearance_by_prefix(dept_clearance: dict) -> dict:
                 by_prefix.setdefault(prefix, entry)
         else:
             by_prefix[entry["dept_code"]] = entry
+            for prefix in entry.get("also_covers_prefixes", []):
+                by_prefix.setdefault(prefix, entry)
     return by_prefix
 
 

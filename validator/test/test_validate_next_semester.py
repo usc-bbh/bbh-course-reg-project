@@ -151,6 +151,17 @@ def test_d_clearance_warns_generically_for_unknown_department(dept_clearance):
     assert len(result.reasons) == 1  # only the generic reason, no dept-specific text found
 
 
+def test_d_clearance_warns_with_department_text_for_also_covers_prefix(dept_clearance):
+    """BKN and PT aren't their own dept_code entries -- they're listed under BKPH's
+    also_covers_prefixes -- so this covers the case that used to fall through to the
+    generic warning even though department contact info exists for them."""
+    by_prefix = _dept_clearance_by_prefix(dept_clearance)
+    entry = {"has_d_clearance": True}
+    result = _check_d_clearance("BKN 450", entry, by_prefix)
+    assert result.status == "warning"
+    assert any("bknpt@usc.edu" in r for r in result.reasons)
+
+
 def test_d_clearance_schema_version_guard_raises(dept_clearance):
     bad = {**dept_clearance, "_schema_version": "999.0"}
     with pytest.raises(ValueError):
