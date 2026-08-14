@@ -12,8 +12,10 @@
 │   ├── test/                    Fixtures + tests (PII scrubbed)
 │   └── README.md
 │
-├── validator/                 Module 4B — next-semester validator (Python)
+├── validator/                 Module 4B — next-semester validator (Python) + its GUI
 │   ├── validate_next_semester.py   Pure function: (planned, stars, catalog) -> result
+│   ├── validator_gui.jsx           Front end — schedule builder + validator UI (React)
+│   ├── pyodide_bridge.js           Runs validate_next_semester in the browser via Pyodide
 │   ├── test/                       Fixtures + tests
 │   ├── requirements-dev.txt
 │   └── README.md                   Input/output schema contract
@@ -29,17 +31,34 @@
 │   └── README.md                    Requirements schema contract
 │
 ├── catalog/                   Module 3 — Schedule of Classes scrape (Python)
-│   ├── scrape_schedule.py          Scrapes classes.usc.edu; requires USC VPN
+│   ├── scrape_schedule.py.py       Scrapes classes.usc.edu; requires USC VPN
 │   ├── README.md                   Catalog schema contract + known limitations
 │   └── test/
 │
-├── validator-gui/             Front end — schedule builder + validator UI (React)
-│   └── validator_gui.jsx           Calls validate_next_semester via Pyodide
+├── docs/                      Cross-module documentation
+│   └── TESTING_GUIDE.md            Intro to test suites and pytest, for the team
 │
+├── constraint_classifier_prompt.md   Taxonomy + LLM prompt that classifies raw USC
+│                                     degree-requirement text into constraint types
 ├── dept_clearance.json        D-clearance requirements + instructions, keyed by dept prefix
+├── DEPT_CLEARANCE_SOURCES.md  Where the D-clearance data came from, and how to refresh it
 ├── .gitignore
 └── README.md                  You are here
 ```
+
+### Schema contracts — read these before wiring modules together
+
+Each module owns and documents the shape of the data it produces. A consumer should
+read the producer's own README rather than infer the shape from its code:
+
+| Data | Documented in |
+|---|---|
+| Parsed STARS output | `validator/README.md` — documents the `stars_summary` slice the next-semester validator consumes (explicitly *not* the full parser output) |
+| Degree/major/minor requirements | `catalogue_scraper/README.md` |
+| Schedule of Classes / course catalog | `catalog/README.md` |
+| D-clearance | `dept_clearance.json` (`_schema_version`); provenance in `DEPT_CLEARANCE_SOURCES.md` |
+| Requirement constraint types | `constraint_classifier_prompt.md` §6, Taxonomy reference |
+
 ## ⚠️ Note: the STARS redactor is a separate internal tool — NOT in this repo
 
 The tool that de-identifies real STARS report PDFs (removes student PII and
