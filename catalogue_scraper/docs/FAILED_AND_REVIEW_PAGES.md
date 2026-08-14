@@ -1,5 +1,10 @@
 # Pages not processed, and files needing a human look
 
+> **Historical — measured 2026-07-31.** Per-page outcomes from the corrected
+> run of that date. Since then the 5 browser-rendered programmes were
+> re-acquired (2026-08-13) and the audit tool's advisory rules were tightened.
+> Current status is **470 PASS / 0 REVIEW / 0 FAIL**; see the README.
+
 ## 1. Extractions refused by the new validation gate
 
 - **Still outstanding (no file written): 0**
