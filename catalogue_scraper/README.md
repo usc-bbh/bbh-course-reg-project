@@ -9,11 +9,17 @@ This document is the contract for the degree-requirements data consumed by the
 prerequisite logic. If you change the scraper output, update this file in the
 same PR.
 
-`_schema_version`: **1.0**
+`_schema_version`: **1.1**
 
-> **Status.** Complete and verified for 2026-2027: 470 programme text files,
-> all passing the module's output validator, 0 contamination markers, two
-> independent runs byte-identical for unchanged pages.
+> **Status.** Complete for 2026-2027: 470 programme text files, all passing the
+> module's output validator, 0 contamination markers. Repeatability was
+> measured on a 60-programme sample (60/60 byte-identical substantive content,
+> see `docs/REPEATABILITY.md`) plus the 5 programmes re-acquired on 2026-08-13
+> (5/5 byte-identical on an independent second fetch) — **not** across all 470.
+>
+> **Corrected 2026-08-13:** unit counts had been silently dropped from 58
+> course lines across the 4 browser-rendered programmes. Fixed, re-scraped and
+> verified — see *Known limitations* and `docs/ENGINEERING_REPORT.md`.
 >
 > **Scope:** this module's deliverable is the **faithfully scraped text** plus
 > the CSVs accounting for every decision. Turning that text into whatever
@@ -89,12 +95,30 @@ A metadata header, the line `OFFICIAL CATALOGUE CONTENT`, then rendered content.
 | `Program Identifier` | string | `poid=NNNNN`. **Stable join key.** |
 | `Source URL` | string | Exact page scraped. |
 | `Acquisition Mode` | string | `direct_html` \| `browser_rendered_dom` \| `alternate_first_party_html`. |
-| `Content SHA-256` | string | Hash of the rendered content **only** (not the header). |
+| `Content SHA-256` | string | Hash of the rendered content **only** (not the header). Published as `content_sha256` in `index.csv`. |
 | `Extraction Status` | string | Always `complete` — a failed extraction is never written. |
 | `Breadcrumbs` | string | Optional 13th line; `Return to:` context. |
 
 Content is deterministic plain text: `#`/`##` headings, `-` course lines,
 `Units: N`, `TABLE:`/`Columns:`/`Row N:` for genuine data tables, `[1]` footnotes.
+
+## Two hashes, and which one you want
+
+`index.csv` publishes both, and they answer different questions:
+
+| Column | Hashes | Changes when |
+|---|---|---|
+| `content_sha256` | the rendered content only — identical to the file's `Content SHA-256` header | USC's programme text changes |
+| `file_sha256` | the whole `.txt`, header included | **every run** — the header carries `Retrieved At` |
+
+**To detect that a programme's requirements changed, compare `content_sha256`.**
+`file_sha256` exists for integrity/resume ("is this file the one I wrote?") and
+will differ between two runs even when USC changed nothing.
+
+Before `_schema_version` 1.1, `index.csv` published the *file* hash under the
+name `content_sha256`, so a consumer following the advice above saw a spurious
+change on every scrape. If you pinned 1.0 and joined on that column, re-read
+it: the column name now means what it says.
 
 ## Known limitations
 
@@ -105,7 +129,7 @@ Content is deterministic plain text: `#`/`##` headings, `-` course lines,
   Accounting (BS) says *"may complete a maximum of 12 units from the Marshall
   School"* — a restriction, **not** the degree total. Roughly 330 of 470 pages
   have no unambiguous programme total.
-- **23 programmes have no course list at all**, and this is correct: some are
+- **24 programmes have no course list at all**, and this is correct: some are
   self-designed majors (`Interdisciplinary Studies (BA)` has no fixed courses by
   design) and some are cross-reference stubs (`Nonprofits… Interdisciplinary
   Minor` is ~286 characters ending *"See complete description in the USC Price
@@ -119,6 +143,12 @@ Content is deterministic plain text: `#`/`##` headings, `-` course lines,
   A consumer must parse or human-review these for complex programmes.
 - **Prerequisites are inside requirement prose**, not a separate field yet. If
   the validator wants them structured, that is a follow-up.
+- **13 course lines carry no unit count, and this is correct.** Course *ranges*
+  (`DANC 180-189c`, `DANC 181–189`), prose recommendations (`MATH 129 and MATH
+  229 are the recommended…`), the five `EDUC 4xx –` descriptions in
+  `461_sustainability…`, and `AHIS 320 Aegean Archaeology Units:` — where USC's
+  own page publishes the label with no value. Verified against the live pages
+  2026-08-13. Everything else has units; the validator now enforces that.
 - **Catalogue text belongs to USC.** This is public-page retrieval for academic
   use. `robots.txt` disallowed paths are never requested, requests are paced on
   a single connection, and CAPTCHAs are never defeated — the scraper hands off
@@ -132,7 +162,12 @@ these files should pin this version and **fail fast** — raise, don't silently
 misread — matching the convention used by `catalog/` and `dept_clearance.json`.
 
 Bump the minor version for additive header fields; bump major if a header field
-is renamed/removed or the content rendering changes shape. Each file's
+is renamed/removed or the content rendering changes shape.
+
+**1.1 (2026-08-13)** — additive: `index.csv` gains `file_sha256`, and
+`content_sha256` now holds the content-only hash it was always named for (it
+previously held the whole-file hash). The `.txt` format itself is unchanged, so
+this is a minor bump; a consumer that only reads the text files is unaffected. Each file's
 `Content SHA-256` lets a consumer detect that a programme's text changed even
 when the format did not.
 
@@ -156,7 +191,7 @@ python -m usc_catalog_scraper run --all-undergrad --resume \
 
 ```bash
 python tools/audit_corpus.py <report-dir> data/usc_undergrad_complete_catalogue_2026_2027
-python -m pytest -q      # 211 tests, incl. 4 real-browser integration tests
+python -m pytest -q      # 225 tests, incl. 4 real-browser integration tests
 ruff check src tests && mypy
 ```
 
@@ -174,5 +209,13 @@ region a *structural* requirement and validates the final text before writing.
 
 The lesson generalises to the other scrapers here: **a passing hash proves
 integrity, not correctness.**
+
+The 2026-08-13 incident is the same lesson one level down. The browser layer
+fetched the right page, picked the right container and wrote clean text — but
+`_expand_collapsed` had clicked every acalog course toggle on the way, and an
+expanded course line no longer carries its `Units: N`. 58 course lines lost
+their unit counts across 4 files while every gate passed, because no gate
+asserted that units *survived* extraction. **Validate the fields a consumer
+actually reads, not just the shape of the text.**
 
 `docs/HOW_IT_WORKS_AND_HOW_TO_BUILD_IT.md` — design reasoning and a rebuild guide.

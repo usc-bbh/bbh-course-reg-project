@@ -553,7 +553,10 @@ def _process_program(
         catalogue_year=catalogue_year,
         acquisition_mode=result.mode.value,
         retrieved_at=result.retrieved_at,
-        content_sha256=file_hash,
+        # content_sha256 = rendered content only (matches the .txt header and
+        # tracks USC's text); file_sha256 = whole file, used by resume.
+        content_sha256=meta.content_sha256,
+        file_sha256=file_hash,
         source_html_sha256=result.raw_html_sha256,
         rendered_dom_sha256=result.rendered_dom_sha256,
         char_count=len(content_body),

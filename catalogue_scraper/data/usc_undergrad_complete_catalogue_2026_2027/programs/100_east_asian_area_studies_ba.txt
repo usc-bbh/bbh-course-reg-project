@@ -7,7 +7,7 @@ Program Identifier: poid=31765
 Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31765&returnto=9396
 Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31765
 Acquisition Mode: browser_rendered_dom
-Retrieved At: 2026-07-31T00:53:01Z
+Retrieved At: 2026-08-14T02:16:27Z
 Content SHA-256: 70d86007bddaab3fcd7a217a732b87ad14bf1000f90096941af4ada8dc9a37ca
 Extraction Status: complete
 Breadcrumbs: Return to: > Programs, Minors and Certificates

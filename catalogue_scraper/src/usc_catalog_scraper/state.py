@@ -73,7 +73,16 @@ CREATE TABLE IF NOT EXISTS programs (
     catalogue_year TEXT,
     acquisition_mode TEXT,
     retrieved_at TEXT,
+    -- content_sha256 hashes the RENDERED CONTENT only (what the .txt header
+    -- reports). file_sha256 hashes the whole .txt including its metadata
+    -- header, and is what resume uses to prove a file is unmodified. They are
+    -- deliberately different: the header carries Retrieved At, so file_sha256
+    -- changes on every run while content_sha256 changes only when USC's text
+    -- does. Before 2026-08-13 this column held the file hash under the content
+    -- name, and index.csv published it as content_sha256 — a consumer using it
+    -- to detect changed programme text saw a false change on every run.
     content_sha256 TEXT,
+    file_sha256 TEXT,
     source_html_sha256 TEXT,
     rendered_dom_sha256 TEXT,
     char_count INTEGER,
@@ -157,7 +166,25 @@ class StateDB:
         self.conn.execute("PRAGMA journal_mode=WAL")
         self.conn.execute("PRAGMA foreign_keys=ON")
         self.conn.executescript(_SCHEMA)
+        self._migrate()
         self.conn.commit()
+
+    def _migrate(self) -> None:
+        """Additive column migrations for databases created by older versions.
+
+        CREATE TABLE IF NOT EXISTS never adds a column to an existing table, so
+        a resume against a pre-2026-08-13 workdir would otherwise fail on
+        file_sha256.
+        """
+        existing = {r["name"] for r in self.conn.execute("PRAGMA table_info(programs)")}
+        if "file_sha256" not in existing:
+            self.conn.execute("ALTER TABLE programs ADD COLUMN file_sha256 TEXT")
+            # In a legacy DB content_sha256 holds the FILE hash. Move it, so
+            # resume keeps working, and leave content_sha256 NULL rather than
+            # asserting a content hash that was never computed: the next run
+            # re-derives it.
+            self.conn.execute("UPDATE programs SET file_sha256 = content_sha256")
+            self.conn.execute("UPDATE programs SET content_sha256 = NULL")
 
     def close(self) -> None:
         self.conn.commit()
@@ -335,6 +362,7 @@ class StateDB:
             "acquisition_mode",
             "retrieved_at",
             "content_sha256",
+            "file_sha256",
             "source_html_sha256",
             "rendered_dom_sha256",
             "char_count",
@@ -472,7 +500,7 @@ class StateDB:
         whose extraction is not complete. Completed+verified rows are skipped."""
         pending: list[sqlite3.Row] = []
         rows = self.conn.execute(
-            """SELECT l.*, p.filename, p.content_sha256, p.extraction_status
+            """SELECT l.*, p.filename, p.file_sha256, p.extraction_status
                FROM links l LEFT JOIN programs p
                  ON l.catoid=p.catoid AND l.poid=p.poid
                WHERE l.classification=? ORDER BY l.seq""",
@@ -490,7 +518,7 @@ class StateDB:
                 # skip. (Cheap: a read + regex scan per file.)
                 if (
                     path.exists()
-                    and sha256_file(path) == row["content_sha256"]
+                    and sha256_file(path) == row["file_sha256"]
                     and _existing_output_is_valid(path)
                 ):
                     continue
@@ -515,13 +543,13 @@ class StateDB:
                 )
                 continue
             actual = sha256_file(path)
-            if actual != row["content_sha256"]:
+            if actual != row["file_sha256"]:
                 problems.append(
                     {
                         "poid": row["poid"],
                         "filename": filename,
                         "problem": "hash mismatch",
-                        "expected": row["content_sha256"],
+                        "expected": row["file_sha256"],
                         "actual": actual,
                     }
                 )

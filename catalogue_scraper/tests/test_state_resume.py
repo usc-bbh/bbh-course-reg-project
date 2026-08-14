@@ -99,7 +99,7 @@ def test_needs_extraction_skips_verified_complete(tmp_path):
         "22",
         "101",
         ExtractionStatus.COMPLETE,
-        content_sha256=sha256_file(path),
+        file_sha256=sha256_file(path),
         char_count=4,
         line_count=1,
     )
@@ -116,7 +116,7 @@ def test_modified_output_detected_and_repending(tmp_path):
     fname = db.reserve_filename("22", "101", "001_philosophy_ba.txt")
     path = programs_dir / fname
     atomic_write_text(path, "original content\n")
-    db.mark_program("22", "101", ExtractionStatus.COMPLETE, content_sha256=sha256_file(path))
+    db.mark_program("22", "101", ExtractionStatus.COMPLETE, file_sha256=sha256_file(path))
 
     path.write_text("tampered content\n", encoding="utf-8")
     problems = db.verify_outputs(programs_dir)
@@ -132,7 +132,7 @@ def test_missing_output_detected(tmp_path):
     db.record_classification("22", "101", ClassificationResult(Classification.INCLUDED, "ok", {}))
     db.ensure_program_row("22", "101")
     db.reserve_filename("22", "101", "001_philosophy_ba.txt")
-    db.mark_program("22", "101", ExtractionStatus.COMPLETE, content_sha256="0" * 64)
+    db.mark_program("22", "101", ExtractionStatus.COMPLETE, file_sha256="0" * 64)
     problems = db.verify_outputs(programs_dir)
     assert problems and problems[0]["problem"] == "missing file"
     assert len(db.needs_extraction(programs_dir)) == 1
@@ -195,7 +195,7 @@ def test_interrupted_run_recovery(tmp_path):
     fname = db.reserve_filename("22", "101", "001_a.txt")
     path = programs_dir / fname
     atomic_write_text(path, _valid_output_text())
-    db.mark_program("22", "101", ExtractionStatus.COMPLETE, content_sha256=sha256_file(path))
+    db.mark_program("22", "101", ExtractionStatus.COMPLETE, file_sha256=sha256_file(path))
     # 102 was mid-flight when the run died: still pending.
     pending = db.needs_extraction(programs_dir)
     assert [str(r["poid"]) for r in pending] == ["102"]
@@ -221,7 +221,7 @@ def test_contaminated_but_unmodified_output_is_repended(tmp_path):
         * 100,
     )
     # hash matches perfectly: the file is unmodified, just wrong
-    db.mark_program("22", "101", ExtractionStatus.COMPLETE, content_sha256=sha256_file(path))
+    db.mark_program("22", "101", ExtractionStatus.COMPLETE, file_sha256=sha256_file(path))
     assert db.verify_outputs(programs_dir) == []  # no hash problem
     pending = db.needs_extraction(programs_dir)
     assert [str(r["poid"]) for r in pending] == ["101"], "contaminated file must be repaired"

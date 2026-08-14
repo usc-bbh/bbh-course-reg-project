@@ -56,6 +56,65 @@ FATAL_TEXT_PATTERNS: tuple[tuple[str, str], ...] = (
 
 COURSE_CODE_RE = re.compile(r"\b[A-Z]{2,5}\s\d{3}[A-Za-z]{0,3}\b")
 UNITS_RE = re.compile(r"\bUnits?:\s*\d|\bTotal units\b", re.I)
+
+# Unit-annotation loss (incident 2026-08-13)
+# -----------------------------------------
+# A rendered course bullet normally carries its unit count:
+#     - PPD 225 Solving Public Policy Units: 4
+# When the browser path snapshots acalog mid-enhancement, the anchor text
+# survives and the trailing " Units: N" text node does not, producing:
+#     - PPD 225 Solving Public Policy
+# Every previous gate passed such a file: it has a title heading, plenty of
+# course codes, no contamination, ample length. Only the units are gone — and
+# units are what the degree-audit engine consumes.
+#
+# Thresholds are corpus-derived (470 files, 2026-2027). Among the 466 healthy
+# files the worst unit-less share on any page with >=3 course bullets is 50%
+# (461_sustainability…, whose unit-less lines are genuine prose descriptions
+# "EDUC 477 – Explores…"), and the typical figure is one line in sixty — course
+# RANGES like "DANC 180-189c" that legitimately carry no single unit value. All
+# four defective files sit at 80% or 100%. A 60% floor plus a 3-bullet minimum
+# separates them cleanly with no false positive anywhere in the corpus.
+COURSE_BULLET_RE = re.compile(r"^\s*-\s+([A-Z]{2,5}\s?\d{3}[A-Za-z]{0,3})\b(.*)$", re.M)
+# USC states units on a course line in more than one notation, and this check
+# must recognise every one of them or it will reject valid pages. Counts in the
+# 2026-2027 corpus: "Units: 4" 15068, "(4 units)" 865, bare "4 units" 1874.
+# Ranges ("Units: 2-8", "(4-8 units)") and decimals both occur.
+COURSE_LINE_UNITS_RE = re.compile(
+    r"\bUnits?:\s*[\d.]"  # Units: 4    Units: 2-8
+    r"|\(\s*[\d.]+(?:\s*[-–]\s*[\d.]+)?\s*units?\s*\)"  # (4 units)   (4-8 units)
+    r"|\b[\d.]+(?:\s*[-–]\s*[\d.]+)?\s+units?\b",  # 4 units
+    re.I,
+)
+UNIT_LOSS_MIN_BULLETS = 3
+UNIT_LOSS_WITHOUT_RATIO = 0.6
+
+
+def course_bullet_unit_coverage(text: str) -> tuple[int, int]:
+    """Return (bullets_with_units, bullets_without_units) for course lines."""
+    with_units = without_units = 0
+    for _code, rest in COURSE_BULLET_RE.findall(text or ""):
+        if COURSE_LINE_UNITS_RE.search(rest):
+            with_units += 1
+        else:
+            without_units += 1
+    return with_units, without_units
+
+
+def unit_annotation_loss(text: str) -> bool:
+    """True when a course list looks like it was captured before units rendered.
+
+    Fails closed: a genuinely unit-less course list from some future catalogue
+    year is rejected and routed to errors.csv for a human, rather than written
+    out as a silently incomplete result.
+    """
+    with_units, without_units = course_bullet_unit_coverage(text)
+    total = with_units + without_units
+    if total < UNIT_LOSS_MIN_BULLETS or without_units < UNIT_LOSS_MIN_BULLETS:
+        return False
+    if with_units == 0:
+        return True
+    return (without_units / total) > UNIT_LOSS_WITHOUT_RATIO
 # Catalogue section headings / vocabulary. A few legitimate programmes are
 # prose-only and list no courses at all — e.g. "Interdisciplinary Studies (BA)",
 # a self-designed major whose page describes admission, an academic contract and
@@ -191,10 +250,15 @@ def validate_extracted_text(
     ends_cleanly = last.endswith((".", "!", "?", "---", ":")) or last.startswith("#")
     is_stub = bool(CROSS_REFERENCE_RE.search(body)) and len(body) >= min_chars and ends_cleanly
     repeats, repeat_txt = max_repeated_sentence(body)
+    bullets_with_units, bullets_without_units = course_bullet_unit_coverage(body)
+    units_lost = unit_annotation_loss(body)
     evidence.update(
         {
             "course_code_count": course_codes,
             "units_mentions": units,
+            "course_bullets_with_units": bullets_with_units,
+            "course_bullets_without_units": bullets_without_units,
+            "unit_annotation_loss": units_lost,
             "title_heading_present": has_title,
             "section_heading_count": section_headings,
             "programme_section_words": section_words,
@@ -227,6 +291,12 @@ def validate_extracted_text(
     evidence["has_semantic_evidence"] = has_semantics
     if repeats >= MAX_REPEATED_SENTENCE:
         reasons.append(f"duplicated_sentence_x{repeats}")
+    if units_lost:
+        reasons.append(
+            "course_units_missing:"
+            f"{bullets_without_units}_of_{bullets_with_units + bullets_without_units}"
+            "_course_bullets_have_no_units"
+        )
 
     evidence["reasons"] = reasons
     evidence["ok_reason"] = (

@@ -7,8 +7,8 @@ Program Identifier: poid=31705
 Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31705&returnto=9396
 Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=31705
 Acquisition Mode: browser_rendered_dom
-Retrieved At: 2026-07-31T01:13:22Z
-Content SHA-256: 4bfa83c4cf263098857c6ebe53c13eb8f56fdb3a4d061a620cb8cd8f1712b965
+Retrieved At: 2026-08-14T02:15:30Z
+Content SHA-256: ada9fde8e8f887999cda3002054c31998589a59cdcae9af321b82bd728f79446
 Extraction Status: complete
 Breadcrumbs: Return to: > Programs, Minors and Certificates
 
@@ -28,11 +28,11 @@ This minor allows students to supplement more narrowly defined departmental majo
 
 ---
 
-- AMST 220gmw The Making of Asian America
-- ANTH 250g Race and Sexual Politics in Southeast Asia
-- ANTH 273g Shamans, Spirits and Ancestors: Non-Western Religious Traditions
-- POSC 120g Comparative Politics
-- HIST 265gw Racism, Sexism, and the Law
+- AMST 220gmw The Making of Asian America Units: 4
+- ANTH 250g Race and Sexual Politics in Southeast Asia Units: 4
+- ANTH 273g Shamans, Spirits and Ancestors: Non-Western Religious Traditions Units: 4
+- POSC 120g Comparative Politics Units: 4
+- HIST 265gw Racism, Sexism, and the Law Units: 4
 
 ## Upper Division
 
@@ -46,22 +46,22 @@ This minor allows students to supplement more narrowly defined departmental majo
 
 ---
 
-- ANTH 322 Anthropology of Bali
-- ANTH 373 Magic, Witchcraft and Healing
-- COLT 379 Nationalism and Postcolonialism in Southeast Asian Cinema
-- IR 315 Ethnicity and Nationalism in World Politics
-- POSC 352 Politics of Southeast Asia
-- REL 330 Introduction to the Religions of India
-- REL 334g Religion and Colonial Encounter
+- ANTH 322 Anthropology of Bali Units: 4
+- ANTH 373 Magic, Witchcraft and Healing Units: 4
+- COLT 379 Nationalism and Postcolonialism in Southeast Asian Cinema Units: 4
+- IR 315 Ethnicity and Nationalism in World Politics Units: 4
+- POSC 352 Politics of Southeast Asia Units: 4
+- REL 330 Introduction to the Religions of India Units: 4
+- REL 334g Religion and Colonial Encounter Units: 4
 
 #### Southeast Asia and the United States
 
 ---
 
-- HIST 344 The Vietnam War, 1945–1975
-- IR 424w Citizenship and Migration in International Politics
-- POSC 328 Asian American Politics
-- REL 336w Re-Viewing Religion in Asian America
+- HIST 344 The Vietnam War, 1945–1975 Units: 4
+- IR 424w Citizenship and Migration in International Politics Units: 4
+- POSC 328 Asian American Politics Units: 4
+- REL 336w Re-Viewing Religion in Asian America Units: 4
 
 ## Note:
 
