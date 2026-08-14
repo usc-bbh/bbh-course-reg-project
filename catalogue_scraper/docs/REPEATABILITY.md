@@ -1,5 +1,10 @@
 # Repeatability check
 
+> **Sample size, stated plainly:** this compares **60** of the 470 programmes,
+> not the whole corpus. A separate 5-programme check on 2026-08-13 (the
+> browser-rendered set, re-acquired after the unit-loss fix) also returned
+> byte-identical content, 5/5. Determinism across all 470 has not been measured.
+
 - Run A: `catalogue_scraper/data/usc_undergrad_complete_catalogue_2026_2027/programs` (470 files)
 - Run B: a second, independent live run of the same 60 programmes (separate output folder)
 - Files compared (present in both): **60**

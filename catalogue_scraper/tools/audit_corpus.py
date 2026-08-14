@@ -114,6 +114,11 @@ SIGNATURES: list[tuple[str, str, str, str]] = [
     ),
 ]
 
+# Below this, a body is only worth a second look if it ALSO lacks completeness
+# evidence. Corpus-derived: the smallest verified-complete programme is the
+# Latin Minor at 230 characters.
+SHORT_BODY_CHARS = 400
+
 METADATA_KEYS = (
     "Program Name",
     "Credential",
@@ -256,6 +261,7 @@ def audit_corpus(corpus: Path) -> list[dict]:
         )
 
         failure_reasons: list[str] = []
+        ev: dict = {}
         if validate_extracted_text is not None:
             # Authoritative verdict: identical rules to the scraper's write gate.
             ok, ev = validate_extracted_text(body, prog_name)
@@ -273,13 +279,56 @@ def audit_corpus(corpus: Path) -> list[dict]:
                 failure_reasons.append("no_title_heading_in_body")
             status = "PASS" if ok else "FAIL"
         # Advisory flags: never change a PASS into a FAIL, but surface for review.
+        #
+        # These must flag GENUINE uncertainty, not proxies for it. Until
+        # 2026-08-14 two of them fired on proxies and produced standing false
+        # positives that trained the reader to ignore the REVIEW column:
+        #
+        #   "http_status == 202"  fired whenever the WAF issued a challenge,
+        #       even though the accepted attempt was the browser render that
+        #       SOLVED it (result=ok, challenge_detected=0). A resolved
+        #       challenge is the escalation ladder working as designed.
+        #
+        #   "chars < 400"  fired on programmes USC genuinely publishes in three
+        #       sentences (Latin Minor, 230 chars: "Four courses in Latin …
+        #       TOTAL: five courses"). Length alone cannot distinguish a terse
+        #       programme from a truncated one — the completeness evidence
+        #       already computed by the validator can.
+        #
+        # Both now key on the evidence itself. A truncated body still flags:
+        # it fails has_semantic_evidence or does not end cleanly.
         advisory: list[str] = []
+        notes: list[str] = []
         if title_mismatch:
             advisory.append("title_mismatch_vs_index")
-        if fetch.get("http_status") == "202":
-            advisory.append("accepted_on_http_202_waf_challenge")
-        if chars < 400:
-            advisory.append("very_short_body_check_source_page")
+        # Unresolved challenge in the ACCEPTED attempt — not merely a 202 seen
+        # somewhere on the ladder.
+        if fetch and (
+            fetch.get("result") != "ok" or str(fetch.get("challenge_detected", "0")) == "1"
+        ):
+            advisory.append("accepted_fetch_did_not_clear_challenge")
+        # Short AND unproven. A short body that carries its own title heading,
+        # course/unit content or a cross-reference, and ends on a complete
+        # sentence, is a terse programme — not a truncation.
+        if chars < SHORT_BODY_CHARS:
+            proven = bool(ev.get("has_semantic_evidence")) and bool(ev.get("body_ends_cleanly"))
+            if not proven:
+                advisory.append("short_body_without_completeness_evidence")
+        # Informational, never a REVIEW: USC publishes a handful of
+        # interdisciplinary minors as a pointer to the school that owns them.
+        # The catalogue text is complete as scraped; the course detail lives on
+        # that school's own site.
+        #
+        # The test is that the page defers ENTIRELY — a cross-reference plus no
+        # course requirements of its own. A programme that states its
+        # requirements and merely adds "see the advisers in DMC 301"
+        # (345_international_relations_minor) is not deferring and is not noted.
+        if (
+            ev.get("cross_reference_stub")
+            and not ev.get("course_code_count")
+            and not ev.get("units_mentions")
+        ):
+            notes.append("defers_to_owning_school_no_course_list_on_catalogue")
         failure_reasons.extend(advisory)
         if status == "PASS" and advisory:
             status = "REVIEW"
@@ -320,6 +369,7 @@ def audit_corpus(corpus: Path) -> list[dict]:
                 "repeated_sentence_excerpt": rep_txt,
                 "validation_status": status,
                 "failure_reasons": ";".join(failure_reasons),
+                "notes": ";".join(notes),
                 "suspicious_excerpts": " || ".join(excerpts[:4]),
             }
         )
@@ -483,6 +533,17 @@ def main() -> int:
             }
             for r in sorted(reviews, key=lambda x: x["file_name"])
         ],
+        "noted_files": [
+            {
+                "corpus": r["corpus"],
+                "file_name": r["file_name"],
+                "program_name": r["program_name"],
+                "char_count": r["char_count"],
+                "notes": r["notes"],
+            }
+            for r in sorted(records, key=lambda x: x["file_name"])
+            if r.get("notes")
+        ],
         "records": records,
     }
     (out_dir / "scraper_output_audit.json").write_text(
@@ -524,6 +585,23 @@ def main() -> int:
     )
     md += ["", "## Contamination signatures (files affected)", ""]
     md.append(md_table([[k, v] for k, v in sig_totals.most_common()], ["signature", "files"]))
+    noted = [r for r in sorted(records, key=lambda x: x["file_name"]) if r.get("notes")]
+    if noted:
+        md += [
+            "",
+            "## Notes (informational — these files are complete)",
+            "",
+            "USC publishes a few interdisciplinary minors as a short pointer to the",
+            "school that owns the programme. The catalogue text is complete as scraped;",
+            "the full course detail lives on that school's own site.",
+            "",
+        ]
+        md.append(
+            md_table(
+                [[r["file_name"], r["char_count"], r["notes"]] for r in noted],
+                ["file", "chars", "note"],
+            )
+        )
     md += ["", "## FAIL files", ""]
     if fails:
         md.append(

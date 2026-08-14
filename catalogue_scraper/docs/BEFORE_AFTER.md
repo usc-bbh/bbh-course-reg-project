@@ -1,5 +1,14 @@
 # Before / after comparison
 
+> **Historical — measured 2026-07-31.** This document records the corpus either
+> side of the 2026-07-30 contamination fix. Its PASS/REVIEW/FAIL figures are a
+> snapshot of that moment and are **not** the current status.
+>
+> Two things changed afterwards: the 2026-08-13 unit-loss fix (see the README),
+> and the audit tool's advisory rules, which stopped flagging resolved WAF
+> challenges and short-but-complete programmes as REVIEW. Current status is
+> **470 PASS / 0 REVIEW / 0 FAIL** — reproduce it with `tools/audit_corpus.py`.
+
 | Metric | Before (delivered) | After (corrected) | Change |
 |---|---|---|---|
 | Files produced | 470 | 470 | +0 |
