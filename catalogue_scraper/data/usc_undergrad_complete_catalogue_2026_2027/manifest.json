@@ -1,6 +1,6 @@
 {
   "application_name": "usc-catalog-scraper",
-  "application_version": "1.2.0",
+  "application_version": "1.3.0",
   "run_id": "run-20260731T012632Z-dc7bc5",
   "run_started_at": "2026-07-31T01:26:32Z",
   "run_completed_at": "2026-07-31T01:26:37Z",
@@ -23,7 +23,7 @@
   "configuration": {
     "start_url": "https://catalogue.usc.edu/content.php?catoid=22&navoid=9396",
     "output_dir": "None",
-    "workdir": "05_corrected_output/full",
+    "workdir": "catalogue_scraper",
     "latest_resolution": "True",
     "collect_minors": "False",
     "collect_all_undergrad": "False",
@@ -552,5 +552,20 @@
     "473_visual_culture_minor.txt": "444feaf6991884abfb84d38c7d5ec8b62b2496597919c8a6e146ab77dc494331",
     "474_visual_narrative_art_minor.txt": "bcf66a8ff766a77c776479013d5d90fa2b17fd9b9ec95e105718095dbbe68b4a",
     "475_web_development_minor.txt": "4017a166c9c591d0800ce83006e0f605c637687bbd53af734c6e2e6bca2e08ac"
+  },
+  "corrections": {
+    "2026-08-13": {
+      "summary": "Re-acquired the 5 browser_rendered_dom programmes after fixing unit-annotation loss.",
+      "cause": "_expand_collapsed clicked acalog course-detail toggles ([aria-expanded='false']), replacing each compact 'Course ... Units: N' line with an expanded detail panel; the unit text node was lost.",
+      "affected_program_identifiers": [
+        "poid=31705",
+        "poid=31765",
+        "poid=32309",
+        "poid=32423",
+        "poid=32658"
+      ],
+      "course_lines_repaired": 58,
+      "verification": "Independent second fetch of all 5: content byte-identical, 0 course bullets without units, validator clean."
+    }
   }
 }

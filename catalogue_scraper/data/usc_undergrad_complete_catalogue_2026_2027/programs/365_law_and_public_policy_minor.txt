@@ -7,8 +7,8 @@ Program Identifier: poid=32309
 Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32309&returnto=9396
 Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32309
 Acquisition Mode: browser_rendered_dom
-Retrieved At: 2026-07-31T01:08:17Z
-Content SHA-256: 2d8a1a51f929edbe3c3aee224260f2b29bb2da475ff29fbb039abd4543145cf2
+Retrieved At: 2026-08-14T02:17:25Z
+Content SHA-256: 0b7f065f5e9e84555a7f5584b78e32a1a8f19a8f5475aa798f5b665b430e6635
 Extraction Status: complete
 Breadcrumbs: Return to: > Programs, Minors and Certificates
 
@@ -26,28 +26,26 @@ Students minoring in law and public policy take 20 units, including the gateway 
 
 ---
 
-- PPD 225 Solving Public Problems
-- PPD 314 Public Policy and Law
-- PPD 315 Analytic Foundations for Public Policy
-- POSC 340 Constitutional Law
-  or
-- LAW 300 Concepts in American Law
-  or
-- PPD 357 Government and Business
+- PPD 225 Solving Public Problems Units: 4
+- PPD 314 Public Policy and Law Units: 4
+- PPD 315 Analytic Foundations for Public Policy Units: 4
+- POSC 340 Constitutional Law Units: 4 or
+- LAW 300 Concepts in American Law Units: 4 or
+- PPD 357 Government and Business Units: 4
 
 ### And one of the following:
 
 ---
 
-- FBE 403 Introduction to the Legal Environment of Business
-- LAW 200w Law and Society
-- LAW 403 Mental Health Law
-- POSC 345 International Law
-- POSC 347 Environmental Law
-- POSC 432 Politics of Local Criminal Justice
-- POSC 441m Cultural Diversity and the Law
-- POSC 444 Civil and Political Rights and Liberties
-- POSC 452 Critical Issues in Law and Public Policy
-- PPD 342 Crime and Public Policy
+- FBE 403 Introduction to the Legal Environment of Business Units: 4
+- LAW 200w Law and Society Units: 4
+- LAW 403 Mental Health Law Units: 4
+- POSC 345 International Law Units: 4
+- POSC 347 Environmental Law Units: 4
+- POSC 432 Politics of Local Criminal Justice Units: 4
+- POSC 441m Cultural Diversity and the Law Units: 4
+- POSC 444 Civil and Political Rights and Liberties Units: 4
+- POSC 452 Critical Issues in Law and Public Policy Units: 4
+- PPD 342 Crime and Public Policy Units: 4
 
 ---

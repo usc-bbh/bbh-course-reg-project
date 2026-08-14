@@ -7,8 +7,8 @@ Program Identifier: poid=32423
 Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32423&returnto=9396
 Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32423
 Acquisition Mode: browser_rendered_dom
-Retrieved At: 2026-07-31T01:03:11Z
-Content SHA-256: b4e4ef29a6995582ba78a13a3f102c71dfe18e02eb6a8b18795d2dffe22918c5
+Retrieved At: 2026-08-14T02:18:22Z
+Content SHA-256: 86bad1bed9448d243d16237613a3680be745441a84795f5d03aff6d25e3eab03
 Extraction Status: complete
 Breadcrumbs: Return to: > Programs, Minors and Certificates
 
@@ -28,17 +28,17 @@ Twenty units of course work are required to complete the minor in gender and soc
 
 Choose one:
 
-- SWMS 210gmw Social Analysis of Gender
-- SWMS 212gp Introduction to Gender and Sexuality: American Perspectives
-- SWMS 215gw Introduction to Gender and Sexuality: International Perspectives
-- SWMS 219gp Introduction to Feminist Theory
-- SWMS 221g Introduction to Queer Theory
+- SWMS 210gmw Social Analysis of Gender Units: 4
+- SWMS 212gp Introduction to Gender and Sexuality: American Perspectives Units: 4
+- SWMS 215gw Introduction to Gender and Sexuality: International Perspectives Units: 4
+- SWMS 219gp Introduction to Feminist Theory Units: 4
+- SWMS 221g Introduction to Queer Theory Units: 4
 
 ## Required Course - Upper Division (4 Units)
 
 ---
 
-- SWMS 310 Gender and Social Justice
+- SWMS 310 Gender and Social Justice Units: 4
 
 ## Electives - Upper Division (12 Units)
 
@@ -46,13 +46,13 @@ Choose one:
 
 Choose three:
 
-- IR 316 Gender and Global Issues
-- POSC 381 Sex, Power, and Politics
-- SOCI 402 Human Trafficking
-- SWMS 308 Advanced Gender Theory
-- SWMS 311 Gender and Sexuality Studies: Internship
-- SWMS 336 Health, Gender and Ethnicity
-- SWMS 349 Women and the Law
-- SWMS 385m Men and Masculinity
+- IR 316 Gender and Global Issues Units: 4
+- POSC 381 Sex, Power, and Politics Units: 4
+- SOCI 402 Human Trafficking Units: 4
+- SWMS 308 Advanced Gender Theory Units: 4
+- SWMS 311 Gender and Sexuality Studies: Internship Units: 2, 4, 8
+- SWMS 336 Health, Gender and Ethnicity Units: 4
+- SWMS 349 Women and the Law Units: 4
+- SWMS 385m Men and Masculinity Units: 4
 
 ---

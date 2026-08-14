@@ -38,6 +38,63 @@ from usc_catalog_scraper.state import StateDB, sha256_text
 log = get_logger("acquisition")
 
 
+# Unit-annotation loss (incident 2026-08-13)
+# ------------------------------------------
+# acalog serves a course line in its COLLAPSED form as:
+#     <li class="acalog-course"><span><a aria-expanded="false"
+#         onclick="showCourse(...)">PPD 225 Solving Public Problems</a>
+#         Units: 4</span></li>
+# The unit count is a text node sitting directly after the anchor.
+#
+# `_expand_collapsed` selected on `[aria-expanded='false']` to open accordions
+# holding hidden requirement content. That selector also matches every course
+# anchor above. Clicking one swaps the compact line for an expanded detail
+# panel (`li.acalog-course-open`, an inner `table.td_dark` carrying the course
+# description and its own share toolbar) and the "Units: 4" text node is gone.
+#
+# So the browser path destroyed the unit counts itself, after a correct fetch.
+# The direct-HTML path was never affected because it clicks nothing. Result:
+# 4 of the 5 browser-rendered files in the 2026-2027 corpus lost the units on
+# 58 course lines while passing every gate — and units are exactly what the
+# degree-audit engine consumes.
+#
+# Fix: never click a course-detail toggle (below). The readiness gate further
+# down is a second, independent guard.
+IS_COURSE_DETAIL_TOGGLE_JS = """
+e => {
+  if (e.closest('li.acalog-course')) return true;
+  const on = (e.getAttribute && e.getAttribute('onclick')) || '';
+  if (on.includes('showCourse') || on.includes('hideCatalogData')) return true;
+  const cls = (e.className && e.className.toString()) || '';
+  return cls.includes('preview_td');
+}
+"""
+
+# Programme-page readiness.
+#
+# The old test was `h1 present && body.innerText.length > 400`, which says
+# nothing about whether the course list finished rendering. This one also
+# requires that, IF the page lists courses at all, at least one unit
+# annotation is present. Prose-only programmes list no courses and are
+# unaffected. Defence in depth for the incident above: the primary fix is not
+# clicking course toggles, and `validate_extracted_text` refuses to write a
+# body whose course bullets lost their units.
+PROGRAM_PAGE_READY_JS = """
+() => {
+  if (!document.querySelector('h1')) return false;
+  const block = document.querySelector('td.block_content') || document.body;
+  if (!block) return false;
+  const text = block.innerText || '';
+  if (text.length <= 400) return false;
+  const courseLinks = block.querySelectorAll(
+    'a[onclick*="showCourse"], a[href*="preview_course"], li.acalog-course'
+  ).length;
+  if (courseLinks > 0 && !/Units?:\\s*\\d/.test(text)) return false;
+  return true;
+}
+"""
+
+
 class RobotsDisallowedError(RuntimeError):
     pass
 
@@ -319,15 +376,18 @@ class BrowserFetcher:
 
     # ------------------------------------------------------------ readiness
     def _semantic_marker_present(self, kind: PageKind) -> bool:
+        """Is the page rendered enough to extract from?
+
+        See PROGRAM_PAGE_READY_JS for why the programme-page test is not just
+        "an h1 and some text".
+        """
         js = {
             PageKind.PROGRAMS_INDEX: (
                 "() => document.querySelectorAll('a[href*=\"preview_program.php\"]').length >= 5"
                 " || /undergraduate\\s+programs/i.test(document.body ? document.body.innerText : '')"
                 " || /programs,\\s*minors\\s*and\\s*certificates/i.test(document.body ? document.body.innerText : '')"
             ),
-            PageKind.PROGRAM_PAGE: (
-                "() => !!document.querySelector('h1') && (document.body ? document.body.innerText.length > 400 : false)"
-            ),
+            PageKind.PROGRAM_PAGE: PROGRAM_PAGE_READY_JS,
         }.get(
             kind,
             "() => document.body ? document.body.innerText.length > 300 : false",
@@ -373,7 +433,11 @@ class BrowserFetcher:
     # ------------------------------------------------------------ expansion
     def _expand_collapsed(self, kind: PageKind) -> int:
         """Activate legitimate expand controls (expand-all, accordions,
-        aria-expanded=false toggles). Bounded; returns number of clicks."""
+        aria-expanded=false toggles). Bounded; returns number of clicks.
+
+        Course-detail toggles are deliberately NOT clicked — see
+        `_is_course_detail_toggle` and the 2026-08-13 incident note.
+        """
         clicks = 0
         scripts_clicked: set[str] = set()
         try:
@@ -402,6 +466,8 @@ class BrowserFetcher:
                         if key in scripts_clicked:
                             continue
                         scripts_clicked.add(key)
+                        if el.evaluate(IS_COURSE_DETAIL_TOGGLE_JS):
+                            continue
                         el.scroll_into_view_if_needed(timeout=1500)
                         el.click(timeout=1500)
                         clicks += 1

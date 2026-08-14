@@ -7,8 +7,8 @@ Program Identifier: poid=32658
 Source URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32658&returnto=9396
 Canonical URL: https://catalogue.usc.edu/preview_program.php?catoid=22&poid=32658
 Acquisition Mode: browser_rendered_dom
-Retrieved At: 2026-07-31T00:58:05Z
-Content SHA-256: a3ce1fce26f4026de0d65affb5cfcce56342e5e03480c7973ce4e843d4694521
+Retrieved At: 2026-08-14T02:19:20Z
+Content SHA-256: 4ff6fcee63427cbac5d770391e0adde143f0f23a8b9069231621a628434f2e55
 Extraction Status: complete
 Breadcrumbs: Return to: > Programs, Minors and Certificates
 
@@ -30,13 +30,13 @@ The minor is 20 units in total (12 units are assigned, and 8 units are required 
 
 Required Courses (12 units total)
 
-- ADSC 250 Fundamentals of Addiction Science
-- HP 410 Issues in Prevention and Cessation of Drug Abuse
+- ADSC 250 Fundamentals of Addiction Science Units: 4
+- HP 410 Issues in Prevention and Cessation of Drug Abuse Units: 4
 -
 - Choose one of the following:
-- RXRS 302 Introduction to Pharmacology and Therapeutics
-- RXRS 405 Breaking Brains: The Pharmacology of Addiction
-- RXRS 414 Buzzed: Modern Substances of Abuse and Addiction
+- RXRS 302 Introduction to Pharmacology and Therapeutics Units: 4
+- RXRS 405 Breaking Brains: The Pharmacology of Addiction Units: 4
+- RXRS 414 Buzzed: Modern Substances of Abuse and Addiction Units: 4
 
 ## Research Track
 
@@ -46,10 +46,10 @@ Students enrolled in the minor in Addiction Science may elect to complete this m
 
 Additional Required Courses (4 units)
 
-- RXRS 490x Directed Research
+- RXRS 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
 - (4 units over two semesters; 2 units per semester)
 - or
-- HP 490x Directed Research
+- HP 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8
 - (4 units over two semesters; 2 units per semester)
 
 ## Electives
@@ -58,14 +58,14 @@ Additional Required Courses (4 units)
 
 (4-8 units) Any of the above Research Track courses, OR
 
-- HP 340Lg Health Behavior Statistical Methods
-- PSYC 426 Motivated Behaviors and Addiction
-- RXRS 201p The History and Geography of Drugs
-- RXRS 202w Comparative Neuropharmacology: A Kaleidoscope of Experiences
+- HP 340Lg Health Behavior Statistical Methods Units: 4
+- PSYC 426 Motivated Behaviors and Addiction Units: 4
+- RXRS 201p The History and Geography of Drugs Units: 4
+- RXRS 202w Comparative Neuropharmacology: A Kaleidoscope of Experiences Units: 4
 - RXRS 302 Introduction to Pharmacology and Therapeutics Units: 4
 - RXRS 405 Breaking Brains: The Pharmacology of Addiction Units: 4
 - RXRS 414 Buzzed: Modern Substances of Abuse and Addiction Units: 4
-- SOWK 417 Introduction to Substance Use Disorders and Recovery
+- SOWK 417 Introduction to Substance Use Disorders and Recovery Units: 4
 
 ### Note
 
