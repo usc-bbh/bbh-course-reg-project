@@ -36,6 +36,8 @@
 │   └── test/
 │
 ├── docs/                      Cross-module documentation
+│   ├── reference/                  Background on USC degree requirements and the
+│   │                               STARS report — start here if you're new
 │   └── TESTING_GUIDE.md            Intro to test suites and pytest, for the team
 │
 ├── constraint_classifier_prompt.md   Taxonomy + LLM prompt that classifies raw USC
@@ -45,6 +47,13 @@
 ├── .gitignore
 └── README.md                  You are here
 ```
+
+### New to the project? Start with the reference docs
+
+[`docs/reference/`](docs/reference/) explains USC's degree requirements and how to read a STARS
+report — the domain knowledge the code assumes. It describes USC rather than this repository, so
+it stays useful as the modules change. Claims carry provenance tags (`[verified]`, `[inferred]`,
+`[confirm]`); the open questions at the end of each document are real, not decoration.
 
 ### Schema contracts — read these before wiring modules together
 

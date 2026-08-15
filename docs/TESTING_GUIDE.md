@@ -1,5 +1,7 @@
 # A Short Intro to Test Suites
 
+*Vishal Gupta, with Claude support.*
+
 > **TL;DR** — Crash-course on what unit tests are, why every software firm uses them, and an intro to pytest in Python.
 
 If you've mostly coded solo — class projects or hobby stuff — you may never have needed tests. Your code either worked or it didn't, and you were the only person touching it. On a **team** where several people push to the same repo, that doesn't work:
