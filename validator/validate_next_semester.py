@@ -35,8 +35,6 @@ import re
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-
 MAX_RECOMMENDED_UNITS = 18
 CLASS_LEVEL_ORDER = {"Freshman": 1, "Sophomore": 2, "Junior": 3, "Senior": 4}
 EXPECTED_DEPT_CLEARANCE_SCHEMA_VERSION = "1.4"
@@ -466,7 +464,7 @@ if __name__ == "__main__":
     stars_summary = json.loads((fixtures / "mock_stars_report.json").read_text())
     planned = json.loads((fixtures / "mock_planned_courses.json").read_text())
     catalog = json.loads((fixtures / "mock_course_catalog.json").read_text())
-    dept_clearance = json.loads((REPO_ROOT / "data" / "dept_clearance.json").read_text())
+    dept_clearance = json.loads((Path(__file__).parent / "data" / "dept_clearance.json").read_text())
 
     result = validate_next_semester(planned["planned_courses"], stars_summary, catalog, dept_clearance)
     print(json.dumps(asdict(result), indent=2))
