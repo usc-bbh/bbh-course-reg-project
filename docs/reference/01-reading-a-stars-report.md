@@ -118,7 +118,9 @@ An in-progress row looks like `20263 ENST450 4.0 RG >IP Sustainability in Practi
 
 **`R` and `(R)` mark what is mandatory.** `R` marks a required sub-requirement, as opposed to a choose-from group. `(R)` marks a specific required course, as opposed to one option in a list. An unmet `R` is a hard gap; an unmet non-`R` group can usually be satisfied several ways.
 
-**The trailing label on a tally tells you what kind of number it is** — `UNITS` a unit count, `AVE` a grade point average, `SUB-GROUP(S)` a count of satisfied sub-requirements, `COURSE(S) TAKEN` a count of courses applied.
+**The trailing label on a tally tells you what kind of number it is** — `UNITS` a unit count, `SUB-GROUP(S)` a count of satisfied sub-requirements, `COURSES` a count of courses applied, and `GPA` a grade point average.
+
+**The label for an average is not consistent across report sources** `[verified by inspection]`. The `experience.usc.edu` exports this project targets use `GPA`, as in `EARNED: 3.521 GPA` — confirmed across four separate exports. A legacy single-column variant supplied directly by the registrar uses `AVE` instead, as in `EARNED: 3.166 AVE`. *For the code:* anchor on `GPA`, since that is what the supported export contains. Accepting `AVE` as an alternative costs nothing if you want the safety margin, but do not build out legacy-report support beyond that.
 
 **`NEEDS`, `EARNED`, and `IN-PROCESS`** state what is outstanding versus done. **`SELECT FROM`** lists what would satisfy an unmet item — explicit courses for a major requirement, but for general education only a *category* pointer such as `CATEGORY GE-C`. Turning a category into an actual list of courses needs the Catalogue; the report does not contain it.
 
