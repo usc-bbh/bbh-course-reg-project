@@ -461,7 +461,8 @@ def validate_next_semester(
 
 if __name__ == "__main__":
     fixtures = Path(__file__).parent / "test" / "fixtures"
-    stars_summary = json.loads((fixtures / "mock_stars_report.json").read_text())
+    shared_stars = Path(__file__).resolve().parents[1] / "fixtures" / "stars"
+    stars_summary = json.loads((shared_stars / "mock_stars_report.json").read_text())
     planned = json.loads((fixtures / "mock_planned_courses.json").read_text())
     catalog = json.loads((fixtures / "mock_course_catalog.json").read_text())
     dept_clearance = json.loads((Path(__file__).parent / "data" / "dept_clearance.json").read_text())

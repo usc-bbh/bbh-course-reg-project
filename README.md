@@ -43,6 +43,8 @@
 │   │                               STARS report — start here if you're new
 │   └── TESTING_GUIDE.md            Intro to test suites and pytest, for the team
 │
+├── fixtures/stars/            Shared STARS fixtures — each <name>.json is the parser's
+│                              expected output AND the validator's stars_summary input
 ├── constraint_classifier_prompt.md   Taxonomy + LLM prompt that classifies raw USC
 │                                     degree-requirement text into constraint types
 ├── .gitignore
