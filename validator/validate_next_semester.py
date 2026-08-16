@@ -466,7 +466,7 @@ if __name__ == "__main__":
     stars_summary = json.loads((fixtures / "mock_stars_report.json").read_text())
     planned = json.loads((fixtures / "mock_planned_courses.json").read_text())
     catalog = json.loads((fixtures / "mock_course_catalog.json").read_text())
-    dept_clearance = json.loads((REPO_ROOT / "dept_clearance.json").read_text())
+    dept_clearance = json.loads((REPO_ROOT / "data" / "dept_clearance.json").read_text())
 
     result = validate_next_semester(planned["planned_courses"], stars_summary, catalog, dept_clearance)
     print(json.dumps(asdict(result), indent=2))

@@ -112,7 +112,7 @@ table below is only what the validator reads from it today.
 
 ### `dept_clearance`
 
-The exact shape of `dept_clearance.json` at the repo root — passed in
+The exact shape of `data/dept_clearance.json` at the repo root — passed in
 explicitly rather than read from a hardcoded path. The validator requires
 `_schema_version == "1.4"` and raises `ValueError` immediately if it doesn't
 match, rather than silently misreading an unfamiliar shape.

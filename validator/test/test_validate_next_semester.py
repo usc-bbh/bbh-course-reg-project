@@ -75,7 +75,7 @@ def course_catalog():
 
 @pytest.fixture
 def dept_clearance():
-    return load_fixture("../../../dept_clearance.json")
+    return load_fixture("../../../data/dept_clearance.json")
 
 
 # ---- normalize_code ---------------------------------------------------------
