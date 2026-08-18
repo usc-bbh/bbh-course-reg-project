@@ -1,7 +1,6 @@
 # Four-Year Degree Planner — UI Brief (Francis)
 
-_Written 2026-08-17. Vishal is away until 2026-08-24 and will be slow to respond.
-Everything you need to start is in this file. Where a decision is yours, it says so._
+_Written 2026-08-17. Everything you need to start is in this file. Where a decision is yours, it says so._
 
 ---
 
@@ -12,13 +11,16 @@ The **Four-Year Degree Planner**.
 A student gives it their situation and a proposed multi-year plan; it tells them whether
 that plan gets them to a degree, and if not, what's missing.
 
-**This is NOT the Next-Semester Validator.** That's Agastya's tool — it takes one proposed
+**This is NOT the Next-Semester Validator.** That's Agastya and Tanzil's workflow right now. — it takes one proposed
 semester and checks whether the student can register for it. Different tool, different
-person, don't build it. If you find yourself building a "can I register for these classes
+person, don't build it. 
+
+If you find yourself building a "can I register for these classes
 next term" screen, stop, you've drifted into Agastya's project.
 
+
 Tanzil's wireframe (below) contains **both** tools. You only want the four-year planner
-half. Cut the other half out.
+half. Cut the other half out. Also cut the placeholder she created for an AI chatbot.
 
 ---
 
@@ -28,24 +30,25 @@ Tanzil built a wireframe in v0/Vercel that is already good:
 
 **https://v0-plansc-course-planner.vercel.app/**
 
-Use it for layout and flow. You are not married to it — improve it where you see something
-better — but don't start from a blank page when a decent design already exists.
+Use it for layout and flow. You are not married to it — improve it where you see something better — but don't start from a blank page when a decent design already exists.
 
 Two other things already exist, use them:
 
-| What | Use it for |
-|---|---|
-| Tanzil's validator GUI (in this repo, `validator/`) | Look and feel. It's already styled in USC cardinal-and-gold. Match it. |
+| What                                                | Use it for                                                                 |
+| --------------------------------------------------- | -------------------------------------------------------------------------- |
+| Tanzil's validator GUI (in this repo, `validator/`) | Look and feel. It's already styled in USC cardinal-and-gold. Match it.     |
 | Agastya's running Next-Semester Validator prototype | Ask him questions about what worked and what didn't. Don't copy its scope. |
 
 ---
 
 ## Decision you own: Vercel or Netlify
 
-The team nominally picked Netlify, but that was Agastya's choice and there was no strong
-reason behind it. Tanzil's wireframe is on Vercel. Both are defensible.
+The team nominally picked Netlify, but that was Agastya's choice and there was no strong reason behind it. Tanzil's wireframe is on Vercel. Both are defensible.
 
-**You decide, and decide by Wednesday.** Spend an hour, not a day:
+**You decide which to use, and decide before Thursday night's all-hands.** Spend an hour on it, not a
+day — and don't wait for the decision to start building. Get something running on whichever one you
+are leaning toward today; if you switch, you'll switch a small app, which is cheap. Here's how to spend
+that hour:
 
 - Talk to **Agastya** — he's the Netlify person on the team.
 - Talk to **Tanzil** — she's the Vercel person, and she built the thing you're starting from.
@@ -53,29 +56,18 @@ reason behind it. Tanzil's wireframe is on Vercel. Both are defensible.
 
 Then stop thinking about it and build.
 
-**The thing that makes this choice cheap:** whichever you pick, use **no platform-specific
-features**. No serverless functions, no platform-specific auth, no edge middleware. If
-everything runs in the browser, moving between the two later is about twenty minutes of work
-instead of a rewrite.
+**The thing that makes this choice cheap:** whichever you pick, use **no platform-specific features**. No serverless functions, no platform-specific auth, no edge middleware. If everything runs in the browser, moving between the two later is about twenty minutes of work instead of a rewrite.
 
 If you pick Vercel and start from Tanzil's wireframe: no porting at all. If you pick Netlify:
-be aware that a Next.js app built for Vercel needs the `@netlify/plugin-nextjs` adapter, and
-the parts that usually break are middleware, image optimization, and server components. The
-way around all of it is to not use any of them — a plain front end that does its work in the
-browser deploys anywhere. Claude can help you with this; tell it which of the two you chose
-and paste any build error you hit.
+be aware that a Next.js app built for Vercel needs the `@netlify/plugin-nextjs` adapter, and the parts that usually break are middleware, image optimization, and server components. The way around all of it is to not use any of them — a plain front end that does its work in the browser deploys anywhere. Claude can help you with this; tell it which of the two you chose and paste any build error you hit.
 
 ---
 
 ## Hard constraint: the student's data never leaves their browser
 
-The team decided this in July and it is not negotiable. A STARS report contains a real
-student's academic record. It gets read and processed **client-side only**. Nothing derived
-from it goes to a server.
+We really really want to avoid handling PII if we can. A STARS report contains a real student's academic record. It gets read and processed **client-side only**. Nothing derived from it goes to a server.
 
-Practically: all the checking logic runs in the browser. The only thing that may come from a
-server is public catalogue data (degree requirements, course lists). Design accordingly from
-day one — retrofitting this is painful.
+Practically: all the checking logic runs in the browser. The only thing that may come from a server is public catalogue data (degree requirements, course lists). Design accordingly from day one — retrofitting this is painful.
 
 ---
 
@@ -114,7 +106,20 @@ things they haven't planned for. That's the point. Find the mismatch now, while 
 
 ---
 
-## Definition of done (end of next week)
+## Thursday night's all-hands
+
+We want to talk about your progress there, so come with something to show — even a rough page with
+the stub data in it. Two things to be ready to say:
+
+1. Which platform you picked and why (one sentence).
+2. What you needed from the STARS parser or the analysis layer that doesn't exist yet. That's the
+   most useful thing you can bring, because it's what the rest of the team has to react to.
+
+Working and ugly beats polished and unfinished. Nobody is expecting a finished tool two days in.
+
+---
+
+## Definition of done (by 2026-08-24)
 
 1. **A running, deployed four-year degree planner** on whichever platform you picked. A
    student can enter their situation and a proposed plan and get a (fake but plausible)
