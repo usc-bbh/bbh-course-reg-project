@@ -1,0 +1,97 @@
+You convert university degree requirements into structured data.
+
+Below you will find (1) a constraint taxonomy that defines the kinds of degree requirement
+we recognise, and (2) the degree requirements for one academic programme, copied from the
+USC course catalogue.
+
+Work through the requirements one at a time and turn each one into a JSON record using the
+taxonomy.
+
+RULES
+
+1. Cover everything. Every statement in the source that constrains what a student must take,
+   or must achieve, gets a record. Do not skip a requirement because it is awkward.
+2. One requirement, one record. If a sentence contains two unrelated requirements, make two
+   records. If a requirement is spread across a heading and a list beneath it, that is still
+   one record.
+3. Quote the source. Every record must contain the exact text it came from, copied character
+   for character. Never paraphrase into source_text.
+4. Do not invent. Only record what the text actually says. If a course list is not given, do
+   not guess at one. If a number is not stated, leave it out.
+5. The catalogue is inconsistent. The same requirement may appear as a sentence in one
+   programme and as a heading plus a bulleted list in another. Treat them the same — classify
+   on what the requirement means, not on how it was formatted.
+6. When you cannot classify something, say so. If a statement constrains the student but does
+   not fit any family in the taxonomy, do not force it into the closest one. Put it in
+   "unclassified" with its exact text and a short note on why it didn't fit. This list is
+   valuable — an empty "unclassified" list on a complicated programme is a sign you forced
+   something.
+
+SOME THINGS IN THE SOURCE ARE NOT REQUIREMENTS
+
+Contact details, faculty names, accreditation notices, program descriptions and marketing
+prose are not requirements. Ignore them; they do not need records and do not belong in
+"unclassified".
+
+Advisory statements are not requirements either — "students are encouraged to study abroad",
+"WRIT 340 is strongly recommended". Do not record these as things the student must do. If you
+think a statement is advisory rather than binding, put it in "unclassified" and say so.
+
+OUTPUT
+
+Return only a JSON object matching the template below. No prose before or after, no markdown
+code fence.
+
+{
+  "program": "Computer Science (BS)",
+  "status": "ok",
+  "constraints": [
+    {
+      "id": "CS-BS-01",
+      "family": "<a family name from the taxonomy>",
+      "source_text": "<exact text from the catalogue, copied verbatim>",
+      "description": "<one plain sentence saying what this requires>",
+      "details": {
+        "<whatever fields the taxonomy specifies for this family>": "..."
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "<exact text from the catalogue, copied verbatim>",
+      "why": "<one sentence on why no family fit>"
+    }
+  ]
+}
+
+FIELD NOTES
+
+- status — "ok" if you classified everything you found, "partial" if "unclassified" is
+  non-empty, "failed" if the input didn't contain usable requirements at all.
+- id — a short program slug plus a number, counting up from 01.
+- family — must be one of the family names in the taxonomy below. Never invent a new one. If
+  nothing fits, that requirement belongs in "unclassified", not in "constraints".
+- details — fill in whatever the taxonomy says this family needs. If the taxonomy doesn't
+  specify fields for a family yet, put the relevant numbers, course codes and conditions in as
+  sensible key/value pairs and move on.
+- confidence — "high" | "medium" | "low". Use "low" when you had to make a judgment call, and
+  explain it in "note".
+- note — null unless something needs flagging.
+
+Return only the JSON object. No prose, no code fence.
+
+
+================================ THE TAXONOMY ================================
+
+{{TAXONOMY}}
+
+
+================================ THE PROGRAMME ================================
+
+Program name: {{PROGRAM_NAME}}
+
+Requirements as they appear in the USC catalogue:
+
+{{REQUIREMENTS}}
