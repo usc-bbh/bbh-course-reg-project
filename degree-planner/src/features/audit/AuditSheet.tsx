@@ -67,12 +67,12 @@ export function AuditSheet({ state, selection, onSelect, onRetry }: AuditSheetPr
             <SummaryIcon size={16} />
           </span>
           <span className="min-w-0 flex-1">
-            <span className="block text-[13.5px] font-semibold text-ink">{summary.label}</span>
+            <span className="block text-body font-semibold text-ink">{summary.label}</span>
             {summary.detail ? (
-              <span className="tnum block truncate text-[12px] text-ink-3">{summary.detail}</span>
+              <span className="tnum block truncate text-micro text-ink-3">{summary.detail}</span>
             ) : null}
           </span>
-          <span className="shrink-0 rounded-control border border-line-strong px-2.5 py-1 text-[12.5px] text-ink-2">
+          <span className="shrink-0 rounded-control border border-line-strong px-2.5 py-1 text-small text-ink-2">
             Show details
           </span>
         </button>
@@ -94,7 +94,7 @@ export function AuditSheet({ state, selection, onSelect, onRetry }: AuditSheetPr
             className="anim-rise max-h-[86vh] w-full overflow-y-auto rounded-t-panel border-t border-line bg-surface shadow-overlay outline-none"
           >
             <div className="sticky top-0 z-10 flex items-center justify-between gap-3 border-b border-line-soft bg-surface px-4 py-3">
-              <h2 id={titleId} className="text-[15px] font-semibold text-ink">
+              <h2 id={titleId} className="wordmark text-lead text-ink">
                 Your plan, checked
               </h2>
               <IconButton label="Close the check" size="sm" onClick={() => setOpen(false)}>

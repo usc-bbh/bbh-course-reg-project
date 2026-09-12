@@ -27,9 +27,9 @@ export function AuditPanel({ state, selection, onSelect, onRetry }: AuditPanelPr
 
   if (state.status === 'failed') {
     return (
-      <div role="alert" className="px-4 py-5">
-        <p className="text-[14px] font-semibold text-ink">We could not check this plan.</p>
-        <p className="mt-1 text-[13px] leading-relaxed text-ink-2">
+      <div role="alert" className="px-5 py-6">
+        <p className="text-body font-semibold text-ink">We could not check this plan.</p>
+        <p className="mt-1 text-small leading-relaxed text-ink-2">
           {state.message} Your plan is untouched and you can keep editing it.
         </p>
         <Button className="mt-3" onClick={onRetry}>
@@ -41,8 +41,8 @@ export function AuditPanel({ state, selection, onSelect, onRetry }: AuditPanelPr
 
   if (!result) {
     return (
-      <div className="px-4 py-5">
-        <p className="text-[13.5px] text-ink-3" role="status">
+      <div className="px-5 py-6">
+        <p className="text-body text-ink-3" role="status">
           {state.status === 'pending' ? 'Checking your plan…' : 'Add your details to see a check.'}
         </p>
       </div>
@@ -54,14 +54,14 @@ export function AuditPanel({ state, selection, onSelect, onRetry }: AuditPanelPr
       {result.isSample ? <SampleBadge /> : null}
 
       {state.status === 'pending' ? (
-        <p className="px-4 pt-3 text-[12px] text-ink-4" role="status">
+        <p className="px-5 pt-4 text-micro text-ink-4" role="status">
           Checking your plan…
         </p>
       ) : null}
 
       <VerdictCard result={result} unmetCount={unmetCount(result)} />
 
-      <div className="border-t border-line-soft pt-3">
+      <div className="border-t border-line-soft pt-5">
         <RequirementList
           requirements={result.requirements}
           selection={selection}
@@ -81,7 +81,7 @@ export function AuditPanel({ state, selection, onSelect, onRetry }: AuditPanelPr
 export function SampleBadge({ className = '' }: { className?: string }) {
   return (
     <p
-      className={`print-block flex items-start gap-2 border-b border-warning-line bg-warning-wash px-4 py-2.5 text-[12.5px] leading-relaxed text-ink-2 ${className}`}
+      className={`print-block flex items-start gap-2.5 border-b border-warning-line bg-warning-wash px-5 py-3.5 text-small leading-relaxed text-ink-2 ${className}`}
     >
       <span className="mt-0.5 shrink-0 text-warning">
         <InfoIcon size={14} />

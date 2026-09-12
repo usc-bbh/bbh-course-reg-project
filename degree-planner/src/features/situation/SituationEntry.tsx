@@ -52,17 +52,17 @@ export function SituationEntry({ onStart }: SituationEntryProps) {
   };
 
   return (
-    <div className="mx-auto w-full max-w-3xl px-4 py-10 sm:py-16">
-      <h1 className="text-[26px] leading-tight font-semibold text-ink sm:text-[30px]">
+    <div className="mx-auto w-full max-w-3xl px-5 py-12 sm:px-8 sm:py-20">
+      <h1 className="wordmark text-display leading-tight text-ink sm:text-hero">
         Plan your next four years
       </h1>
-      <p className="mt-2 max-w-xl text-[15px] leading-relaxed text-ink-2">
+      <p className="mt-2 max-w-xl text-base leading-relaxed text-ink-2">
         Lay out the terms ahead and see whether the plan reaches your degree — and what is still
         missing if it does not.
       </p>
 
-      <section aria-labelledby="entry-upload" className="mt-8">
-        <h2 id="entry-upload" className="text-[15px] font-semibold text-ink">
+      <section aria-labelledby="entry-upload" className="mt-10">
+        <h2 id="entry-upload" className="text-base font-semibold text-ink">
           Start from your STARS report
         </h2>
         <div
@@ -72,19 +72,19 @@ export function SituationEntry({ onStart }: SituationEntryProps) {
           }}
           onDragLeave={() => setDragging(false)}
           onDrop={onDrop}
-          className={`mt-3 rounded-panel border-2 border-dashed p-6 transition-colors duration-150 sm:p-8 ${
+          className={`mt-4 rounded-panel border-2 border-dashed p-7 transition-colors duration-150 sm:p-9 ${
             dragging ? 'border-cardinal bg-gold-wash' : 'border-line-strong bg-surface'
           }`}
         >
-          <div className="flex flex-col items-start gap-4 sm:flex-row sm:items-center">
+          <div className="flex flex-col items-start gap-5 sm:flex-row sm:items-center">
             <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-field bg-surface-sunk text-ink-3">
               <UploadIcon size={20} />
             </span>
             <div className="min-w-0 flex-1">
-              <p className="text-[14px] font-medium text-ink">
+              <p className="text-body font-medium text-ink">
                 Drop your report here, or choose the file yourself.
               </p>
-              <p className="mt-1 text-[13px] text-ink-3">
+              <p className="mt-1 text-small text-ink-3">
                 PDF, HTML or text. Your report is read on this device and never sent anywhere.
               </p>
             </div>
@@ -114,7 +114,7 @@ export function SituationEntry({ onStart }: SituationEntryProps) {
         {phase.kind === 'failed' ? (
           <div
             role="alert"
-            className="anim-expand mt-3 rounded-card border border-warning-line bg-warning-wash px-4 py-3 text-[13.5px] text-ink-2"
+            className="anim-expand mt-3 rounded-card border border-warning-line bg-warning-wash px-4 py-3 text-body text-ink-2"
           >
             <p className="font-medium text-ink">{phase.message}</p>
             <p className="mt-1">
@@ -132,16 +132,16 @@ export function SituationEntry({ onStart }: SituationEntryProps) {
         ) : null}
       </section>
 
-      <div className="mt-8 grid gap-3 sm:grid-cols-2">
+      <div className="mt-6 grid gap-4 sm:grid-cols-2">
         <button
           type="button"
           onClick={() => onStart(sampleSituation, 'sample')}
-          className="group rounded-card border border-line bg-surface p-4 text-left transition-[border-color,box-shadow] duration-150 hover:border-ink-5 hover:shadow-raise"
+          className="group rounded-card border border-line bg-surface p-5 text-left transition-[border-color,box-shadow] duration-150 hover:border-ink-5 hover:shadow-raise"
         >
-          <span className="flex items-center gap-2 text-[14px] font-semibold text-ink">
+          <span className="flex items-center gap-2 text-body font-semibold text-ink">
             Try it with a sample student
           </span>
-          <span className="mt-1 block text-[13px] text-ink-3">
+          <span className="mt-1 block text-small text-ink-3">
             A made-up computer science junior with a half-finished plan. Nothing is saved as yours.
           </span>
         </button>
@@ -149,12 +149,12 @@ export function SituationEntry({ onStart }: SituationEntryProps) {
         <button
           type="button"
           onClick={() => onStart(blankSituation(), 'manual')}
-          className="group rounded-card border border-line bg-surface p-4 text-left transition-[border-color,box-shadow] duration-150 hover:border-ink-5 hover:shadow-raise"
+          className="group rounded-card border border-line bg-surface p-5 text-left transition-[border-color,box-shadow] duration-150 hover:border-ink-5 hover:shadow-raise"
         >
-          <span className="flex items-center gap-2 text-[14px] font-semibold text-ink">
+          <span className="flex items-center gap-2 text-body font-semibold text-ink">
             Enter it myself
           </span>
-          <span className="mt-1 block text-[13px] text-ink-3">
+          <span className="mt-1 block text-small text-ink-3">
             Type your major, catalogue year and the courses you have already taken.
           </span>
         </button>

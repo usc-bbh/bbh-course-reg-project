@@ -21,8 +21,8 @@ const VARIANTS: Record<Variant, string> = {
 };
 
 const SIZES: Record<Size, string> = {
-  sm: 'h-8 px-2.5 text-[12.5px]',
-  md: 'h-9.5 px-3.5 text-[13.5px]',
+  sm: 'h-8.5 px-3 text-small',
+  md: 'h-10 px-4 text-body',
 };
 
 export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {

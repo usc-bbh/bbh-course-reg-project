@@ -100,9 +100,9 @@ export function PlanTimeline({
         {/* The rail the year markers sit on. Years are a sequence, not a set. */}
         <div
           aria-hidden="true"
-          className="pointer-events-none absolute inset-x-0 top-[11px] hidden h-px bg-line-strong xl:block"
+          className="pointer-events-none absolute inset-x-0 top-[0.7rem] hidden h-px bg-line-strong xl:block"
         />
-        <div data-print-grid className="relative grid gap-x-6 gap-y-9 md:grid-cols-2 xl:grid-cols-4">
+        <div data-print-grid className="relative grid gap-x-7 gap-y-12 md:grid-cols-2 xl:grid-cols-4">
           {years.map((year, index) => (
             <YearColumn
               key={year.startYear}
@@ -121,7 +121,7 @@ export function PlanTimeline({
         </div>
       </div>
 
-      <div className="mt-8" data-print="hide">
+      <div className="mt-10" data-print="hide">
         <Button size="sm" onClick={onAddYear}>
           <PlusIcon size={14} />
           Add another year
@@ -130,7 +130,7 @@ export function PlanTimeline({
 
       <DragOverlay dropAnimation={null}>
         {draggingCourse ? (
-          <div className="rounded-chip border border-cardinal bg-surface px-2 py-1.5 text-[12.5px] shadow-overlay">
+          <div className="rounded-chip border border-cardinal bg-surface px-2 py-1.5 text-small shadow-overlay">
             <span className="course-code text-ink">{draggingCourse.code}</span>
           </div>
         ) : null}

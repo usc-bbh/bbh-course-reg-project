@@ -115,6 +115,9 @@ export function defaultPlannedTerms(situation: StudentSituation): PlanTerm[] {
       { season: 'spring', year: startYear + 1 },
     ];
     for (const candidate of candidates) {
+      // Nothing before the student arrived. A spring entrant does not get an
+      // empty Fall term for the year they were not here.
+      if (compareTerms(candidate, situation.entryTerm) < 0) continue;
       const id = makeTermId(candidate.season, candidate.year);
       if (taken.has(id)) continue;
       terms.push({ id, season: candidate.season, year: candidate.year, status: 'planned', courses: [] });

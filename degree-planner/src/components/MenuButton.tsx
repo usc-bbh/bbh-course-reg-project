@@ -60,7 +60,9 @@ export function MenuButton({
 
   useEffect(() => {
     if (!open) return;
-    const target = menuRef.current?.querySelectorAll<HTMLElement>('[role="menuitem"]')[activeIndex];
+    const entries = menuRef.current?.querySelectorAll<HTMLElement>('[role="menuitem"]');
+    if (!entries || entries.length === 0) return;
+    const target = entries[Math.min(activeIndex, entries.length - 1)];
     target?.focus();
   }, [open, activeIndex]);
 
@@ -113,14 +115,14 @@ export function MenuButton({
             }
           }}
         >
-          {emptyMessage ? <p className="px-3 py-2 text-[12.5px] text-ink-4">{emptyMessage}</p> : null}
+          {emptyMessage ? <p className="px-4 py-2.5 text-small text-ink-4">{emptyMessage}</p> : null}
           {items.map((item) => (
             <button
               key={item.key}
               type="button"
               role="menuitem"
               tabIndex={-1}
-              className={`block w-full px-3 py-1.5 text-left text-[13px] hover:bg-surface-sunk ${
+              className={`block w-full px-4 py-2.5 text-left text-body hover:bg-surface-sunk ${
                 item.danger ? 'border-t border-line-soft text-danger' : 'text-ink'
               }`}
               onClick={() => {

@@ -10,7 +10,7 @@ export function StatusTag({
 }) {
   return (
     <span
-      className={`inline-flex shrink-0 items-center gap-1.5 text-[12px] ${presentation.tone} ${
+      className={`inline-flex shrink-0 items-center gap-1.5 text-micro ${presentation.tone} ${
         presentation.emphatic ? 'font-semibold' : 'font-medium'
       } ${className}`}
     >

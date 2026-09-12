@@ -24,15 +24,15 @@ export function RequirementList({ requirements, selection, onSelect }: Requireme
 
   return (
     <section aria-labelledby="requirements-heading" className="print-block">
-      <h3 id="requirements-heading" className="px-4 text-[13px] font-semibold text-ink">
+      <h3 id="requirements-heading" className="px-5 text-small font-semibold text-ink">
         Missing before you are done
       </h3>
-      <p className="px-4 pt-0.5 pb-2 text-[11.5px] text-ink-4" data-print="hide">
+      <p className="px-5 pt-1 pb-3 text-micro text-ink-5" data-print="hide">
         Select any requirement or warning to highlight it in the plan. Escape clears it.
       </p>
 
       {unmet.length === 0 ? (
-        <p className="px-4 pb-3 text-[13px] text-ink-3">Nothing is outstanding in this check.</p>
+        <p className="px-5 pb-4 text-small text-ink-3">Nothing is outstanding in this check.</p>
       ) : (
         <ul className="flex flex-col">
           {unmet.map((requirement) => (
@@ -49,7 +49,7 @@ export function RequirementList({ requirements, selection, onSelect }: Requireme
 
       {inProgress.length > 0 ? (
         <>
-          <h3 className="px-4 pt-4 pb-2 text-[13px] font-semibold text-ink">Under way</h3>
+          <h3 className="px-5 pt-6 pb-3 text-small font-semibold text-ink">Under way</h3>
           <ul className="flex flex-col">
             {inProgress.map((requirement) => (
               <RequirementRow
@@ -65,10 +65,10 @@ export function RequirementList({ requirements, selection, onSelect }: Requireme
       ) : null}
 
       {satisfied.length > 0 ? (
-        <div className="mt-3 border-t border-line-soft">
+        <div className="mt-5 border-t border-line-soft">
           <button
             type="button"
-            className="flex w-full items-center gap-2 px-4 py-2.5 text-left text-[13px] text-ink-2 hover:bg-surface-2"
+            className="flex w-full items-center gap-2 px-5 py-3.5 text-left text-small text-ink-2 hover:bg-surface-2"
             aria-expanded={showSatisfied}
             onClick={() => setShowSatisfied((value) => !value)}
             data-print="hide"
@@ -118,21 +118,21 @@ function RequirementRow({
       <button
         type="button"
         aria-pressed={selected}
-        className={`w-full border-l-[3px] px-4 py-2.5 text-left transition-colors duration-150 hover:bg-surface-2 ${
+        className={`w-full border-l-[3px] px-5 py-3.5 text-left transition-colors duration-150 hover:bg-surface-2 ${
           selected ? 'border-l-cardinal bg-gold-wash' : 'border-l-transparent'
         }`}
         onClick={() => onSelect(selected ? null : { kind: 'requirement', id: requirement.id })}
       >
         <span className="flex items-baseline justify-between gap-3">
           <span
-            className={`text-[13.5px] text-ink ${presentation.emphatic ? 'font-semibold' : 'font-medium'}`}
+            className={`text-body text-ink ${presentation.emphatic ? 'font-semibold' : 'font-medium'}`}
           >
             {requirement.name}
           </span>
           <StatusTag presentation={presentation} className="self-center" />
         </span>
 
-        <span className="mt-0.5 flex flex-wrap items-baseline gap-x-3 text-[12px] text-ink-4">
+        <span className="mt-0.5 flex flex-wrap items-baseline gap-x-3 text-micro text-ink-4">
           <span>{requirement.category}</span>
           {requirement.unitsRequired !== undefined && requirement.unitsCounted !== undefined ? (
             <span className="tnum">
@@ -143,13 +143,13 @@ function RequirementRow({
         </span>
 
         {expanded && requirement.reason ? (
-          <span className="mt-1.5 block text-[13px] leading-relaxed text-ink-2">
+          <span className="mt-1.5 block text-small leading-relaxed text-ink-2">
             {requirement.reason}
           </span>
         ) : null}
 
         {hasRefs && selected ? (
-          <span className="mt-1.5 block text-[11.5px] text-ink-4" data-print="hide">
+          <span className="mt-1.5 block text-micro text-ink-4" data-print="hide">
             Highlighted in the plan.
           </span>
         ) : null}

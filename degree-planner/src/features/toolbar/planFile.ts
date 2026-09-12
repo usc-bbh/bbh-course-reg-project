@@ -32,24 +32,27 @@ export function buildExport(
 }
 
 /**
- * Hands the file to the browser's download machinery and immediately revokes
- * the object URL, so nothing derived from the student's data outlives the
- * click.
+ * Hands the file to the browser's download machinery and revokes the object
+ * URL as soon as the browser has taken it, so nothing derived from the
+ * student's data outlives the click.
  */
 export function downloadExport(situation: StudentSituation, plan: Plan, now: Date): void {
   const payload = JSON.stringify(buildExport(situation, plan, now), null, 2);
   const blob = new Blob([payload], { type: 'application/json' });
   const url = URL.createObjectURL(blob);
+  const anchor = document.createElement('a');
+  anchor.href = url;
+  anchor.download = exportFileName(now);
+  anchor.rel = 'noopener';
+  document.body.appendChild(anchor);
   try {
-    const anchor = document.createElement('a');
-    anchor.href = url;
-    anchor.download = exportFileName(now);
-    anchor.rel = 'noopener';
-    document.body.appendChild(anchor);
     anchor.click();
-    anchor.remove();
   } finally {
-    URL.revokeObjectURL(url);
+    anchor.remove();
+    // Revoked on the next tick rather than in this one: some browsers cancel
+    // a download whose blob URL disappears inside the same task. Nothing
+    // derived from the student's data outlives that tick.
+    window.setTimeout(() => URL.revokeObjectURL(url), 0);
   }
 }
 

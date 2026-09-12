@@ -139,10 +139,26 @@ export function buildTimeline(situation: StudentSituation, plan: Plan): PlanTerm
   situation.completedCourses.forEach((course) => place(course, 'completed'));
   situation.inProgressCourses.forEach((course) => place(course, 'in-progress'));
 
-  const plannedIds = new Set(plan.terms.map((term) => term.id));
-  const history = [...historical.values()].filter((term) => !plannedIds.has(term.id));
+  // A student can record coursework in a term they were also planning — say
+  // they finish Spring 2027 and type it into the review form. History wins the
+  // status, because the term is behind them now, but nothing is thrown away:
+  // whatever they had planned there is folded into the same term. Removing the
+  // completed course in the review form puts the planned term back.
+  const planned: PlanTerm[] = [];
+  for (const term of plan.terms) {
+    const past = historical.get(term.id);
+    if (!past) {
+      planned.push(term);
+      continue;
+    }
+    for (const course of term.courses) {
+      if (!past.courses.some((existing) => existing.code === course.code)) {
+        past.courses.push(course);
+      }
+    }
+  }
 
-  return [...history, ...plan.terms].sort(compareTerms);
+  return [...historical.values(), ...planned].sort(compareTerms);
 }
 
 export interface AcademicYear {

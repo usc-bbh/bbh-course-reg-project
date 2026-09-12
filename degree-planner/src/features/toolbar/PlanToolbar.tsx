@@ -18,8 +18,8 @@ export interface PlanToolbarProps {
 }
 
 const MORE_TRIGGER =
-  'inline-flex h-9.5 items-center gap-1.5 rounded-control border border-line-strong bg-surface ' +
-  'px-3 text-[13.5px] font-medium text-ink transition-colors duration-150 hover:border-ink-5 hover:bg-surface-2';
+  'inline-flex h-10 items-center gap-1.5 rounded-control border border-line-strong bg-surface ' +
+  'px-4 text-body font-medium text-ink transition-colors duration-150 hover:border-ink-5 hover:bg-surface-2';
 
 /**
  * Save, export, import, print, reset.
@@ -75,7 +75,7 @@ export function PlanToolbar({
   return (
     <div className="flex flex-wrap items-center gap-2" data-print="hide">
       <p
-        className="mr-1 text-[12px] text-ink-4"
+        className="mr-1 text-micro text-ink-4"
         role="status"
         aria-live="polite"
         data-testid="save-status"
@@ -117,7 +117,7 @@ export function PlanToolbar({
       />
 
       {importProblem ? (
-        <p role="alert" className="w-full text-[12.5px] text-blocking">
+        <p role="alert" className="w-full text-small text-blocking">
           {importProblem}
         </p>
       ) : null}

@@ -45,23 +45,23 @@ export function Dialog({ open, title, description, children, footer, onClose }: 
         tabIndex={-1}
         className="anim-rise w-full max-w-lg rounded-t-panel border border-line bg-surface shadow-overlay outline-none sm:rounded-panel"
       >
-        <div className="flex items-start justify-between gap-3 border-b border-line-soft px-5 py-4">
-          <h2 id={titleId} className="text-[16px] font-semibold text-ink">
+        <div className="flex items-start justify-between gap-3 border-b border-line-soft px-6 py-5">
+          <h2 id={titleId} className="wordmark text-lead text-ink">
             {title}
           </h2>
           <IconButton label="Close" size="sm" onClick={onClose}>
             <CloseIcon />
           </IconButton>
         </div>
-        <div className="px-5 py-4">
+        <div className="px-6 py-5">
           {description ? (
-            <p id={descriptionId} className="text-[13.5px] leading-relaxed text-ink-2">
+            <p id={descriptionId} className="text-body leading-relaxed text-ink-2">
               {description}
             </p>
           ) : null}
           {children}
         </div>
-        <div className="flex flex-wrap justify-end gap-2 border-t border-line-soft px-5 py-3.5">
+        <div className="flex flex-wrap justify-end gap-2.5 border-t border-line-soft px-6 py-4">
           {footer}
         </div>
       </div>

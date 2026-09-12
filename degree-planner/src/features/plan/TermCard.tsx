@@ -93,19 +93,17 @@ export function TermCard({
         validTarget && !isOver ? 'border-dashed border-line-strong' : ''
       }`}
     >
-      <header className="flex items-baseline gap-2 border-b border-line-soft px-3 py-2">
-        <h4 id={headingId} className="text-[13.5px] font-semibold text-ink">
-          {termLabel(term)}
-        </h4>
-        {locked ? (
-          <span className="inline-flex items-center gap-1 text-[11px] text-ink-4">
-            <LockIcon size={12} />
-            {STATUS_LABEL[term.status]}
-          </span>
-        ) : (
-          <span className="text-[11px] text-ink-4">{STATUS_LABEL[term.status]}</span>
-        )}
-        <span className="tnum ml-auto text-[11.5px] text-ink-3">{formatUnits(units)} units</span>
+      <header className="border-b border-line-soft px-4 py-3">
+        <div className="flex items-baseline justify-between gap-3">
+          <h4 id={headingId} className="truncate text-body font-semibold text-ink">
+            {termLabel(term)}
+          </h4>
+          <span className="tnum shrink-0 text-micro text-ink-3">{formatUnits(units)} units</span>
+        </div>
+        <p className="mt-0.5 flex items-center gap-1 text-micro text-ink-5">
+          {locked ? <LockIcon size={12} /> : null}
+          {STATUS_LABEL[term.status]}
+        </p>
       </header>
 
       {warnedSeverity && !termHighlighted ? (
@@ -113,11 +111,11 @@ export function TermCard({
       ) : null}
 
       {term.courses.length === 0 ? (
-        <p className="px-3 py-3 text-[12.5px] text-ink-4">
+        <p className="px-4 py-6 text-small text-ink-5">
           {locked ? 'No coursework recorded.' : 'Nothing planned yet.'}
         </p>
       ) : (
-        <ul className="flex flex-col gap-0.5 px-1.5 py-1.5">
+        <ul className="flex flex-col gap-1 px-2 py-2.5">
           {term.courses.map((course) => (
             <CourseRow
               key={course.id}
@@ -135,7 +133,7 @@ export function TermCard({
       )}
 
       {locked ? null : (
-        <div className="px-2.5 pt-0.5 pb-2.5" data-print="hide">
+        <div className="px-3 pt-1 pb-3" data-print="hide">
           {picking ? (
             <CoursePicker
               termId={term.id}

@@ -268,6 +268,7 @@ speculative wish list.
 | What the UI needs | Why | What is faked meanwhile |
 | --- | --- | --- |
 | What a **manual-entry** student should see before typing anything | Every field needs a starting value, and a wrong default is worse than an empty one. | Entry term seeded from `PLAN_BASE_YEAR` and catalogue year from the sample. Both editable, both guesses. |
+| The **official USC lockup artwork** | The header carries the university mark, and the app may not fetch it from another origin. | The shield and torch are drawn as inline SVG from the lockup on USC's registration pages. Someone with brand-portal access should drop the real file in and replace `<UscShield>`. |
 
 ---
 

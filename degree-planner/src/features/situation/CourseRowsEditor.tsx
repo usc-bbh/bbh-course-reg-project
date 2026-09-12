@@ -2,11 +2,13 @@ import { useId, useState } from 'react';
 import type { Season, TakenCourse } from '../../domain/types';
 import { SEASONS, makeTermId, parseTermId, seasonLabel } from '../../domain/terms';
 import { Button, IconButton } from '../../components/Button';
+import { NumberInput } from '../../components/NumberInput';
+import { UNITS_MAX, YEAR_MAX, YEAR_MIN } from '../../domain/limits';
 import { PlusIcon, TrashIcon } from '../../components/icons';
 import { PLAN_BASE_YEAR } from '../../data/sampleStudent';
 
 const CELL =
-  'w-full rounded-chip border border-line-strong bg-surface px-2 py-1.5 text-[13px] text-ink ' +
+  'w-full rounded-chip border border-line-strong bg-surface px-2.5 py-2 text-small text-ink ' +
   'transition-[border-color] duration-150 hover:border-ink-5';
 
 export interface CourseRowsEditorProps {
@@ -56,22 +58,22 @@ export function CourseRowsEditor({
 
   return (
     <fieldset className="min-w-0">
-      <legend className="text-[14px] font-semibold text-ink">{legend}</legend>
-      <p className="mt-0.5 mb-3 text-[12.5px] text-ink-3">{hint}</p>
+      <legend className="text-body font-semibold text-ink">{legend}</legend>
+      <p className="mt-1 mb-4 text-small text-ink-3">{hint}</p>
 
       {courses.length === 0 ? (
-        <p className="rounded-card border border-dashed border-line-strong bg-surface-2 px-3 py-4 text-[13px] text-ink-4">
+        <p className="rounded-card border border-dashed border-line-strong bg-surface-2 px-3 py-4 text-small text-ink-4">
           Nothing here yet.
         </p>
       ) : (
-        <ul className="flex flex-col gap-2">
+        <ul className="flex flex-col gap-2.5">
           {courses.map((course, index) => {
             const parsed = parseTermId(course.termId) ?? { season: 'fall' as Season, year: PLAN_BASE_YEAR };
             const rowLabel = course.code || `row ${index + 1}`;
             return (
               <li
                 key={`${groupId}-${index}`}
-                className="grid grid-cols-2 gap-2 rounded-card border border-line bg-surface p-2.5 sm:grid-cols-[7rem_1fr_4rem_5.5rem_5rem_auto]"
+                className="grid grid-cols-2 gap-2.5 rounded-card border border-line bg-surface p-3 sm:grid-cols-[7.5rem_1fr_4.5rem_6rem_5.5rem_auto]"
               >
                 <input
                   className={`${CELL} course-code`}
@@ -88,15 +90,13 @@ export function CourseRowsEditor({
                   placeholder="Data Structures"
                   onChange={(event) => update(index, { title: event.target.value })}
                 />
-                <input
+                <NumberInput
                   className={`${CELL} tnum`}
-                  value={String(course.units)}
-                  inputMode="decimal"
+                  value={course.units}
+                  min={0}
+                  max={UNITS_MAX}
                   aria-label={`Units, ${rowLabel}`}
-                  onChange={(event) => {
-                    const next = Number(event.target.value);
-                    update(index, { units: Number.isFinite(next) ? next : 0 });
-                  }}
+                  onCommit={(units) => update(index, { units })}
                 />
                 <select
                   className={CELL}
@@ -110,15 +110,14 @@ export function CourseRowsEditor({
                     </option>
                   ))}
                 </select>
-                <input
+                <NumberInput
                   className={`${CELL} tnum`}
-                  value={String(parsed.year)}
-                  inputMode="numeric"
+                  value={parsed.year}
+                  integer
+                  min={YEAR_MIN}
+                  max={YEAR_MAX}
                   aria-label={`Term year, ${rowLabel}`}
-                  onChange={(event) => {
-                    const next = Number(event.target.value);
-                    updateTerm(index, parsed.season, Number.isFinite(next) ? next : parsed.year);
-                  }}
+                  onCommit={(year) => updateTerm(index, parsed.season, year)}
                 />
                 <div className="flex items-center justify-end gap-2">
                   {withGrade ? (
@@ -152,7 +151,7 @@ export function CourseRowsEditor({
         </ul>
       )}
 
-      <Button size="sm" className="mt-3" onClick={addRow}>
+      <Button size="sm" className="mt-4" onClick={addRow}>
         <PlusIcon />
         Add a course
       </Button>

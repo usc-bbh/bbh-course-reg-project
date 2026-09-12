@@ -45,16 +45,22 @@ export function SituationSummary({
       aria-labelledby="situation-heading"
       className="print-block border-b border-line bg-surface"
     >
-      <div className="mx-auto flex w-full max-w-[1600px] flex-wrap items-start gap-x-8 gap-y-3 px-4 py-3.5 sm:px-6">
+      <div className="mx-auto flex w-full max-w-[1600px] flex-wrap items-start gap-x-8 gap-y-4 px-5 py-5 sm:px-8">
         <div className="min-w-0 flex-1">
-          <h1 id="situation-heading" className="text-[17px] font-semibold text-ink">
+          <h1 id="situation-heading" className="wordmark text-title text-ink">
             {situation.studentName || 'Your degree plan'}
           </h1>
-          <dl className="mt-1.5 grid grid-cols-2 gap-x-6 gap-y-1.5 sm:flex sm:flex-wrap">
+          {/* On a phone each fact is one row, label left and value right, so the
+              summary stays a few lines instead of pushing the plan off screen.
+              From tablet up it spreads out as a row of labelled values. */}
+          <dl className="mt-3 flex flex-col sm:flex-row sm:flex-wrap sm:gap-x-8 sm:gap-y-3">
             {facts.map((fact) => (
-              <div key={fact.label} className="min-w-0">
-                <dt className="text-[11.5px] text-ink-4">{fact.label}</dt>
-                <dd className="text-[13px] text-ink tnum">{fact.value}</dd>
+              <div
+                key={fact.label}
+                className="flex items-baseline justify-between gap-4 border-b border-line-soft py-1.5 last:border-0 sm:block sm:min-w-0 sm:border-0 sm:py-0"
+              >
+                <dt className="shrink-0 text-micro text-ink-4">{fact.label}</dt>
+                <dd className="tnum text-right text-small text-ink sm:text-left">{fact.value}</dd>
               </div>
             ))}
           </dl>

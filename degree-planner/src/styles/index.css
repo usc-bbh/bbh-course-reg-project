@@ -3,11 +3,16 @@
 /* ──────────────────────────────────────────────────────────────────────────
    Tokens.
 
-   Colours, type, radii and shadows are lifted from Tanzil's validator GUI
-   (validator/validator_gui.jsx) so the two tools read as one product. The
-   exact source value is noted beside each one.
+   Type follows USC's own registration pages: a Caslon for the wordmark and the
+   university lockup, a humanist sans for everything a student reads or types.
+   Libre Caslon Text and Source Sans 3 are the open faces that match them, and
+   both are vendored into the bundle rather than loaded from a CDN.
 
-   Two systems, kept apart on purpose:
+   Colour, radii and shadows are lifted from Tanzil's validator GUI
+   (validator/validator_gui.jsx) so the two tools read as one product. The exact
+   source value is noted beside each one.
+
+   Two colour systems, kept apart on purpose:
      brand   — cardinal and gold. Identity and primary actions only.
      status  — satisfied / in progress / unsatisfied / warning / blocking.
    Cardinal therefore never means "unsatisfied", and gold never means "warning".
@@ -25,8 +30,8 @@
   --color-ink: #1a1a1a;
   --color-ink-2: #44444a;
   --color-ink-3: #5a5a60;
-  --color-ink-4: #7a7a80;
-  --color-ink-5: #9a9aa0;
+  --color-ink-4: #6b6b72;
+  --color-ink-5: #7a7a80;
 
   /* Surfaces and hairlines — validator app background, cards and borders */
   --color-canvas: #f4f4f5;
@@ -38,9 +43,9 @@
   --color-line-soft: #eeeef0;
 
   /* Status. Satisfied / warning / info hues are the validator's own.
-     Unsatisfied deliberately carries no hue of its own — see STATUS.md note
-     in the tokens section of the README: cardinal already owns red here, so a
-     second red would read as brand chrome rather than as a result. */
+     Unsatisfied deliberately carries no hue of its own: cardinal already owns
+     red here, so a second red would read as brand chrome rather than a result.
+     It carries its weight through ink, a filled icon and a bold label. */
   --color-satisfied: #1a7f37;
   --color-satisfied-wash: #eaf7ef;
   --color-satisfied-line: #a7dcb8;
@@ -58,9 +63,28 @@
   --color-danger-wash: #fdecea;
   --color-danger-line: #f2b8b3;
 
-  /* Type */
-  --font-sans: 'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
-  --font-mono: 'DM Mono', ui-monospace, 'SFMono-Regular', monospace;
+  /* Type families */
+  --font-serif: 'Libre Caslon Text', 'Adobe Caslon Pro', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Source Sans 3', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: 'Source Code Pro', ui-monospace, 'SFMono-Regular', monospace;
+
+  /* One tight scale, used everywhere. No arbitrary sizes in components. */
+  --text-micro: 0.75rem;
+  --text-micro--line-height: 1.45;
+  --text-small: 0.8125rem;
+  --text-small--line-height: 1.5;
+  --text-body: 0.875rem;
+  --text-body--line-height: 1.55;
+  --text-base: 0.9375rem;
+  --text-base--line-height: 1.6;
+  --text-lead: 1.0625rem;
+  --text-lead--line-height: 1.35;
+  --text-title: 1.375rem;
+  --text-title--line-height: 1.25;
+  --text-display: 1.75rem;
+  --text-display--line-height: 1.2;
+  --text-hero: 2.125rem;
+  --text-hero--line-height: 1.15;
 
   /* Radii — validator uses 6 / 8 / 10 / 12 / 14 and a 20 pill */
   --radius-chip: 6px;
@@ -90,8 +114,8 @@
     background: var(--color-canvas);
     color: var(--color-ink);
     font-family: var(--font-sans);
-    font-size: 14px;
-    line-height: 1.55;
+    font-size: var(--text-base);
+    line-height: 1.6;
     -webkit-font-smoothing: antialiased;
   }
 
@@ -104,15 +128,11 @@
 
   h1,
   h2,
-  h3 {
+  h3,
+  h4 {
     font-weight: 600;
-    line-height: 1.2;
+    line-height: 1.25;
     margin: 0;
-  }
-
-  /* Print-only blocks stay out of the way on screen. */
-  [data-print='only'] {
-    display: none;
   }
 
   button,
@@ -121,6 +141,11 @@
   textarea {
     font: inherit;
     color: inherit;
+  }
+
+  /* Print-only blocks stay out of the way on screen. */
+  [data-print='only'] {
+    display: none;
   }
 
   /* Focus: 3:1 against whatever it sits on. Cardinal ring with a gold offset
@@ -145,6 +170,13 @@
   font-weight: 500;
   font-variant-numeric: tabular-nums;
   letter-spacing: -0.01em;
+}
+
+/* The wordmark and the university lockup, in USC's Caslon. */
+@utility wordmark {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  letter-spacing: 0.005em;
 }
 
 /* Screen-reader-only, but focusable (the skip link uses it). */
@@ -266,13 +298,6 @@
     page-break-inside: avoid;
   }
 
-  .print-plain {
-    background: transparent !important;
-    border-color: #999999 !important;
-    box-shadow: none !important;
-    color: #000000 !important;
-  }
-
   a[href]::after {
     content: '';
   }
@@ -280,7 +305,7 @@
   /* Black on white. Status still reads, because every status in this app is an
      icon plus a text label and never a colour on its own. */
   * {
-    color: #000 !important;
+    color: #000000 !important;
     background-color: transparent !important;
     box-shadow: none !important;
     border-color: #9a9a9a !important;
@@ -305,7 +330,7 @@
   }
 
   /* The drag handle's gutter goes with the drag handle. */
-  [data-course-key] p {
+  [data-course-key] {
     padding-left: 0 !important;
   }
 }

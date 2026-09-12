@@ -49,18 +49,18 @@ export function YearColumn({
 
   return (
     <div className="print-block min-w-0">
-      <header className="mb-3 flex items-center gap-2">
+      <header className="mb-4 flex items-center gap-2.5">
         <span
           aria-hidden="true"
           className={`h-[9px] w-[9px] shrink-0 rounded-full border-2 ${
             allLocked ? 'border-cardinal bg-cardinal' : 'border-cardinal bg-canvas'
           }`}
         />
-        <h3 id={headingId} className="bg-canvas pr-2 text-[13px] font-semibold text-ink">
+        <h3 id={headingId} className="bg-canvas pr-2 text-small font-semibold text-ink">
           Year {index + 1}
           <span className="ml-1.5 font-normal text-ink-4 tnum">{year.label}</span>
         </h3>
-        <span className="tnum ml-auto bg-canvas pl-2 text-[11.5px] text-ink-4">
+        <span className="tnum ml-auto bg-canvas pl-2 text-micro text-ink-4">
           {formatUnits(units)} units
         </span>
         <button
@@ -80,7 +80,7 @@ export function YearColumn({
 
       <div
         id={bodyId}
-        className={`${collapsed ? 'hidden md:flex' : 'flex'} flex-col gap-3`}
+        className={`${collapsed ? 'hidden md:flex' : 'flex'} flex-col gap-5`}
       >
         {year.terms.map((term) => (
           <TermCard

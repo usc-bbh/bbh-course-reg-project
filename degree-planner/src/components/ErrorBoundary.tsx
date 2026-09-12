@@ -38,7 +38,7 @@ export class ErrorBoundary extends Component<Props, State> {
     return (
       <div
         role="alert"
-        className="rounded-card border border-line bg-surface p-5 text-[13.5px] text-ink-2"
+        className="rounded-card border border-line bg-surface p-5 text-body text-ink-2"
       >
         <p className="mb-1 font-semibold text-ink">{this.props.area} could not be shown.</p>
         <p className="mb-3">

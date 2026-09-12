@@ -74,7 +74,7 @@ export function CoursePicker({ termId, termName, allTerms, onAdd, onClose }: Cou
   };
 
   return (
-    <div className="anim-expand rounded-card border border-line-strong bg-surface p-2.5 shadow-raise">
+    <div className="anim-expand rounded-card border border-line-strong bg-surface p-3 shadow-raise">
       <div className="flex items-center gap-2 rounded-field border border-line-strong bg-surface px-2.5 focus-within:border-cardinal">
         <SearchIcon className="shrink-0 text-ink-4" />
         <input
@@ -90,7 +90,7 @@ export function CoursePicker({ termId, termName, allTerms, onAdd, onClose }: Cou
           aria-label={`Search for a course to add to ${termName}`}
           placeholder="Search by code or title"
           autoComplete="off"
-          className="w-full bg-transparent py-2 text-[13.5px] text-ink outline-none placeholder:text-ink-5"
+          className="w-full bg-transparent py-2 text-body text-ink outline-none placeholder:text-ink-5"
           value={query}
           onChange={(event) => {
             setQuery(event.target.value);
@@ -124,11 +124,11 @@ export function CoursePicker({ termId, termName, allTerms, onAdd, onClose }: Cou
       </div>
 
       {state.status === 'pending' ? (
-        <p className="px-1 py-3 text-[13px] text-ink-4">Loading the course list…</p>
+        <p className="px-1 py-3 text-small text-ink-4">Loading the course list…</p>
       ) : null}
 
       {state.status === 'failed' ? (
-        <div role="alert" className="px-1 py-3 text-[13px] text-ink-2">
+        <div role="alert" className="px-1 py-3 text-small text-ink-2">
           <p className="font-medium text-ink">The course list did not load.</p>
           <p className="mt-0.5">{state.message}</p>
           <Button size="sm" className="mt-2" onClick={retry}>
@@ -143,10 +143,10 @@ export function CoursePicker({ termId, termName, allTerms, onAdd, onClose }: Cou
           id={listboxId}
           role="listbox"
           aria-label={`Courses you can add to ${termName}`}
-          className="mt-2 max-h-64 overflow-y-auto"
+          className="mt-3 max-h-72 overflow-y-auto"
         >
           {options.length === 0 ? (
-            <li className="px-2 py-3 text-[13px] text-ink-4">
+            <li className="px-2 py-3 text-small text-ink-4">
               No course in the sample list matches “{query}”.
             </li>
           ) : (
@@ -159,7 +159,7 @@ export function CoursePicker({ termId, termName, allTerms, onAdd, onClose }: Cou
                   role="option"
                   aria-selected={index === activeIndex}
                   data-active={index === activeIndex}
-                  className={`cursor-pointer rounded-chip px-2 py-1.5 ${
+                  className={`cursor-pointer rounded-chip px-2.5 py-2 ${
                     index === activeIndex ? 'bg-gold-wash' : ''
                   }`}
                   onMouseEnter={() => setActiveIndex(index)}
@@ -169,16 +169,16 @@ export function CoursePicker({ termId, termName, allTerms, onAdd, onClose }: Cou
                   }}
                 >
                   <span className="flex items-baseline gap-2">
-                    <span className="course-code text-[12.5px] text-ink">{course.code}</span>
-                    <span className="tnum ml-auto shrink-0 text-[11.5px] text-ink-3">
+                    <span className="course-code text-small text-ink">{course.code}</span>
+                    <span className="tnum ml-auto shrink-0 text-micro text-ink-3">
                       {formatUnits(course.units)} units
                     </span>
                   </span>
-                  <span className="block truncate text-[12px] leading-snug text-ink-3">
+                  <span className="block truncate text-micro leading-snug text-ink-3">
                     {course.title}
                   </span>
                   {already ? (
-                    <span className="block truncate text-[11px] text-ink-4">
+                    <span className="block truncate text-micro text-ink-4">
                       Already in {already.join(', ')}
                     </span>
                   ) : null}
@@ -190,7 +190,7 @@ export function CoursePicker({ termId, termName, allTerms, onAdd, onClose }: Cou
       ) : null}
 
       <div className="mt-2 flex items-center justify-between gap-2 border-t border-line-soft pt-2">
-        <p className="text-[11.5px] text-ink-4">
+        <p className="text-micro text-ink-4">
           Adding to {termName}. Enter adds, Escape closes.
         </p>
         <Button size="sm" onClick={onClose}>

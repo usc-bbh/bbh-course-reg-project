@@ -112,7 +112,7 @@ export function App() {
     return (
       <div className="min-h-screen">
         <AppHeader />
-        <p className="mx-auto max-w-3xl px-4 py-16 text-[14px] text-ink-4" role="status">
+        <p className="mx-auto max-w-3xl px-4 py-16 text-body text-ink-4" role="status">
           Opening your plan…
         </p>
       </div>
@@ -156,7 +156,7 @@ export function App() {
 
   return (
     <div className="min-h-screen pb-24 xl:pb-0">
-      <a href="#plan" className="sr-only-focusable absolute z-50 m-2 rounded-control bg-surface px-3 py-2 text-[13px] font-medium text-ink shadow-overlay">
+      <a href="#plan" className="sr-only-focusable absolute z-50 m-2 rounded-control bg-surface px-3 py-2 text-small font-medium text-ink shadow-overlay">
         Skip to the plan
       </a>
 
@@ -165,10 +165,10 @@ export function App() {
       {/* Print-only header: no app chrome on paper, but the plan still needs
           to say whose it is and when it was printed. */}
       <div data-print="only" className="print-block px-1 pb-2">
-        <p className="text-[15px] font-semibold">
+        <p className="text-base font-semibold">
           Four-year degree plan — {situation.studentName || 'Unnamed student'}
         </p>
-        <p className="text-[11px]">Printed {printedOn}</p>
+        <p className="text-micro">Printed {printedOn}</p>
       </div>
       {result?.isSample ? <SampleBadge className="hidden print:flex" /> : null}
 
@@ -187,13 +187,13 @@ export function App() {
 
       <main
         id="plan"
-        className="mx-auto w-full max-w-[1600px] px-4 py-6 sm:px-6"
+        className="mx-auto w-full max-w-[1600px] px-5 py-9 sm:px-8 sm:py-11"
         tabIndex={-1}
       >
-        <div data-print-layout className="grid gap-6 xl:grid-cols-[minmax(0,1fr)_22rem]">
+        <div data-print-layout className="grid gap-7 xl:grid-cols-[minmax(0,1fr)_21.5rem]">
           <section aria-labelledby="plan-heading" className="min-w-0">
-            <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
-              <h2 id="plan-heading" className="text-[17px] font-semibold text-ink">
+            <div className="mb-7 flex flex-wrap items-center justify-between gap-4">
+              <h2 id="plan-heading" className="wordmark text-title text-ink">
                 Four-year plan
               </h2>
               <PlanToolbar
@@ -239,7 +239,7 @@ export function App() {
             <div className="sticky top-5 rounded-panel border border-line bg-surface print:static print:border-0">
               <h2
                 id="audit-heading"
-                className="border-b border-line-soft px-4 py-3 text-[15px] font-semibold text-ink"
+                className="wordmark border-b border-line-soft px-5 py-4 text-lead text-ink"
               >
                 Your plan, checked
               </h2>
@@ -284,13 +284,13 @@ function Notice({ notice, onDismiss }: { notice: string | null; onDismiss: () =>
     <div
       role="status"
       data-print="hide"
-      className="border-b border-warning-line bg-warning-wash px-4 py-2.5 text-[13px] text-ink-2 sm:px-6"
+      className="border-b border-warning-line bg-warning-wash px-4 py-2.5 text-small text-ink-2 sm:px-6"
     >
       <div className="mx-auto flex w-full max-w-[1600px] items-center gap-3">
         <span className="min-w-0 flex-1">{notice}</span>
         <button
           type="button"
-          className="shrink-0 rounded-chip px-2 py-1 text-[12.5px] font-medium text-ink hover:bg-gold-dim/40"
+          className="shrink-0 rounded-chip px-2 py-1 text-small font-medium text-ink hover:bg-gold-dim/40"
           onClick={onDismiss}
         >
           Dismiss

@@ -53,28 +53,29 @@ export function CourseRow({
       ref={setNodeRef}
       style={style}
       data-course-key={`${termId}::${course.code}`}
-      className={`print-plain group relative rounded-chip px-1.5 py-1 ${
+      className={`print-plain group relative rounded-chip py-2 pr-2.5 pl-6 ${
         isDragging ? 'z-20 opacity-90 shadow-raise' : ''
       } ${highlighted ? 'is-highlighted' : 'bg-transparent'} ${
         locked ? '' : 'hover:bg-surface-sunk'
       }`}
     >
-      <div className="flex items-center gap-2">
-        {locked ? (
-          <span className="w-4 shrink-0" aria-hidden="true" data-print="hide" />
-        ) : (
-          <span
-            {...listeners}
-            tabIndex={-1}
-            aria-hidden="true"
-            data-print="hide"
-            className="w-4 shrink-0 cursor-grab text-line-strong group-hover:text-ink-4 active:cursor-grabbing"
-          >
-            <DragHandleIcon size={14} />
-          </span>
-        )}
+      {/* The handle sits in the row's left gutter so the code and the title
+          share one left edge, and codes line up across every term. */}
+      {locked ? null : (
+        <span
+          {...listeners}
+          tabIndex={-1}
+          aria-hidden="true"
+          data-drag-handle
+          data-print="hide"
+          className="absolute top-2.5 left-1 cursor-grab text-line-strong group-hover:text-ink-4 active:cursor-grabbing"
+        >
+          <DragHandleIcon size={14} />
+        </span>
+      )}
 
-        <span className="course-code shrink-0 text-[12.5px] text-ink">{course.code}</span>
+      <div className="flex items-center gap-2.5">
+        <span className="course-code shrink-0 text-small text-ink">{course.code}</span>
 
         {warned ? (
           <span className={warned === 'blocking' ? 'shrink-0 text-blocking' : 'shrink-0 text-warning'}>
@@ -85,9 +86,9 @@ export function CourseRow({
 
         <span className="ml-auto flex shrink-0 items-center gap-2">
           {course.grade ? (
-            <span className="tnum text-[11.5px] font-medium text-ink-3">{course.grade}</span>
+            <span className="tnum text-micro font-medium text-ink-3">{course.grade}</span>
           ) : null}
-          <span className="tnum text-[11.5px] text-ink-4">{formatUnits(course.units)}</span>
+          <span className="tnum text-micro text-ink-4">{formatUnits(course.units)}</span>
           {locked ? null : (
             <span data-print="hide">
               <MoveToMenu
@@ -102,7 +103,7 @@ export function CourseRow({
         </span>
       </div>
 
-      <p className="truncate pl-6 text-[11.5px] leading-snug text-ink-4" title={course.title}>
+      <p className="mt-0.5 truncate text-micro leading-snug text-ink-5" title={course.title}>
         {course.title}
       </p>
     </li>

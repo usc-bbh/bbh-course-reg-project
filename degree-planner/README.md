@@ -30,7 +30,9 @@ npm run preview    # serve the built dist/ locally
 ## The two rules that shape everything
 
 **1. Student data never leaves the browser.** There is no backend, no analytics,
-no third-party script and no runtime font CDN. Exactly one module,
+no third-party script and no runtime font CDN — the three typefaces are
+vendored into the bundle by `@fontsource` and the university lockup is inline
+SVG, so the page fetches nothing from anywhere. Exactly one module,
 `src/data/catalogue.ts`, is allowed to make a network request, and the only
 thing it requests is public course data shipped with the build.
 `npm run check:privacy` fails if anything else in `src/` gains a `fetch(`, an
@@ -54,6 +56,22 @@ Anything invented because nobody had specified it carries a one-line
 `GAP(stars|analysis|catalogue|other)` comment at the spot where the invention
 happens. `grep -rn "GAP(" src` finds all of them, and
 `docs/degree-planner-ui-notes.md` is written from that list.
+
+## Type and brand
+
+The header is built to sit beside USC's own registration pages: the wordmark and
+the university lockup in a Caslon, the interface in a humanist sans.
+
+| Role | Face | Used for |
+| --- | --- | --- |
+| Serif | Libre Caslon Text | The wordmark, the lockup, page and panel headings, the verdict |
+| Sans | Source Sans 3 | Everything a student reads or types |
+| Mono | Source Code Pro | Course codes, units and counts, so columns line up |
+
+All three are self-hosted. Colour, radii and shadows come from
+`validator/validator_gui.jsx` — the exact source value is noted beside each
+token in `src/styles/index.css`. There are no arbitrary font sizes in
+components: everything uses the named scale in that file.
 
 ## Layout
 

@@ -1,7 +1,7 @@
 import { useId, type InputHTMLAttributes, type ReactNode, type SelectHTMLAttributes } from 'react';
 
-const CONTROL =
-  'w-full rounded-field border border-line-strong bg-surface px-3 py-2 text-[13.5px] text-ink ' +
+export const CONTROL =
+  'w-full rounded-field border border-line-strong bg-surface px-3.5 py-2.5 text-body text-ink ' +
   'transition-[border-color,box-shadow] duration-150 placeholder:text-ink-5 ' +
   'hover:border-ink-5 disabled:bg-surface-sunk disabled:text-ink-4';
 
@@ -20,12 +20,12 @@ export function Field({
   const hintId = `${id}-hint`;
   return (
     <div className={className}>
-      <label htmlFor={id} className="mb-1 block text-[12.5px] font-medium text-ink-2">
+      <label htmlFor={id} className="mb-1 block text-small font-medium text-ink-2">
         {label}
       </label>
       {children({ id, describedBy: hint ? hintId : undefined })}
       {hint ? (
-        <p id={hintId} className="mt-1 text-[12px] text-ink-4">
+        <p id={hintId} className="mt-1 text-micro text-ink-4">
           {hint}
         </p>
       ) : null}

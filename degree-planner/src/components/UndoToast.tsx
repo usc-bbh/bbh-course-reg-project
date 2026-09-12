@@ -31,7 +31,7 @@ export function UndoToast({ courseCode, termName, onUndo, onDismiss }: UndoToast
       data-print="hide"
       className="anim-rise fixed inset-x-3 bottom-20 z-40 mx-auto flex max-w-md items-center gap-3 rounded-card border border-line bg-ink px-3 py-2.5 text-surface shadow-overlay sm:inset-x-auto sm:left-1/2 sm:w-md sm:-translate-x-1/2 xl:bottom-5"
     >
-      <p className="min-w-0 flex-1 text-[13px]">
+      <p className="min-w-0 flex-1 text-small">
         Removed <span className="course-code">{courseCode}</span> from {termName}.
       </p>
       <Button

@@ -27,28 +27,28 @@ export function VerdictCard({ result, unmetCount }: { result: AnalysisResult; un
       : 0;
 
   return (
-    <div className="print-block border-l-[3px] border-l-cardinal bg-surface px-4 py-4">
-      <p className={`flex items-center gap-2 text-[12.5px] font-semibold ${verdict.tone}`}>
+    <div className="print-block border-l-[3px] border-l-cardinal bg-surface px-5 py-5">
+      <p className={`flex items-center gap-2 text-small font-semibold ${verdict.tone}`}>
         <Icon size={15} />
         {verdict.label}
       </p>
-      <p className="mt-1.5 text-[19px] leading-snug font-semibold text-ink">{result.headline}</p>
+      <p className="wordmark mt-2 text-title leading-snug text-ink">{result.headline}</p>
 
-      <dl className="mt-3 flex flex-wrap gap-x-6 gap-y-1">
+      <dl className="mt-4 flex flex-wrap gap-x-7 gap-y-2">
         {[
           { label: 'Not met', value: unmetCount },
           { label: 'Under way', value: underway },
           { label: 'Satisfied', value: done },
         ].map((count) => (
           <div key={count.label}>
-            <dt className="text-[11.5px] text-ink-4">{count.label}</dt>
-            <dd className="tnum text-[13px] font-medium text-ink">{count.value}</dd>
+            <dt className="text-micro text-ink-4">{count.label}</dt>
+            <dd className="tnum text-small font-medium text-ink">{count.value}</dd>
           </div>
         ))}
       </dl>
 
-      <div className="mt-3">
-        <div className="flex items-baseline justify-between text-[12.5px]">
+      <div className="mt-5">
+        <div className="flex items-baseline justify-between text-small">
           <span className="text-ink-3">Units counted</span>
           <span className="tnum font-medium text-ink">
             {formatUnits(result.unitsCounted)} of {formatUnits(result.unitsRequired)}

@@ -3,7 +3,9 @@ import type { ClassStanding, Season, StudentSituation } from '../../domain/types
 import { SEASONS, seasonLabel } from '../../domain/terms';
 import { useCatalogue } from '../../data/useCatalogue';
 import { Button, IconButton } from '../../components/Button';
-import { Field, Select, TextInput } from '../../components/Field';
+import { CONTROL, Field, Select, TextInput } from '../../components/Field';
+import { NumberInput } from '../../components/NumberInput';
+import { TRANSFER_UNITS_MAX, YEAR_MAX, YEAR_MIN } from '../../domain/limits';
 import { CloseIcon, PlusIcon } from '../../components/icons';
 import { CourseRowsEditor } from './CourseRowsEditor';
 
@@ -48,16 +50,16 @@ export function SituationReview({ situation, mode, onSave, onCancel }: Situation
 
   return (
     <form
-      className="mx-auto w-full max-w-4xl px-4 py-8"
+      className="mx-auto w-full max-w-4xl px-5 py-10 sm:px-8 sm:py-12"
       onSubmit={(event) => {
         event.preventDefault();
         onSave(draft);
       }}
     >
-      <h1 className="text-[24px] leading-tight font-semibold text-ink">
+      <h1 className="wordmark text-title leading-tight text-ink">
         {mode === 'first' ? 'Check your details' : 'Edit your details'}
       </h1>
-      <p className="mt-2 max-w-2xl text-[14px] leading-relaxed text-ink-2">
+      <p className="mt-2 max-w-2xl text-body leading-relaxed text-ink-2">
         {mode === 'first'
           ? 'Nothing here is read from a server, and nothing is sent to one. Correct anything that is wrong before you go on — the plan and the check both build on it.'
           : 'Changes apply straight away and the check re-runs.'}
@@ -66,7 +68,7 @@ export function SituationReview({ situation, mode, onSave, onCancel }: Situation
       {catalogueState.status === 'failed' ? (
         <div
           role="status"
-          className="mt-5 flex flex-wrap items-center gap-3 rounded-card border border-warning-line bg-warning-wash px-4 py-3 text-[13px] text-ink-2"
+          className="mt-5 flex flex-wrap items-center gap-3 rounded-card border border-warning-line bg-warning-wash px-4 py-3 text-small text-ink-2"
         >
           <span>
             The course list did not load, so majors and catalogue years are free text for now.
@@ -77,7 +79,7 @@ export function SituationReview({ situation, mode, onSave, onCancel }: Situation
         </div>
       ) : null}
 
-      <section className="mt-6 grid gap-4 sm:grid-cols-2">
+      <section className="mt-8 grid gap-5 sm:grid-cols-2">
         <Field label="Your name" hint="Shown on the printed plan. It stays on this device.">
           {({ id }) => (
             <TextInput
@@ -176,20 +178,14 @@ export function SituationReview({ situation, mode, onSave, onCancel }: Situation
           </Field>
           <Field label="Year">
             {({ id }) => (
-              <TextInput
+              <NumberInput
                 id={id}
-                className="tnum"
-                inputMode="numeric"
-                value={String(draft.entryTerm.year)}
-                onChange={(event) => {
-                  const year = Number(event.target.value);
-                  patch({
-                    entryTerm: {
-                      ...draft.entryTerm,
-                      year: Number.isFinite(year) ? year : draft.entryTerm.year,
-                    },
-                  });
-                }}
+                className={`${CONTROL} tnum`}
+                value={draft.entryTerm.year}
+                integer
+                min={YEAR_MIN}
+                max={YEAR_MAX}
+                onCommit={(year) => patch({ entryTerm: { ...draft.entryTerm, year } })}
               />
             )}
           </Field>
@@ -197,29 +193,27 @@ export function SituationReview({ situation, mode, onSave, onCancel }: Situation
 
         <Field label="Transfer units" hint="Units brought in from elsewhere, as one total.">
           {({ id, describedBy }) => (
-            <TextInput
+            <NumberInput
               id={id}
-              className="tnum"
-              inputMode="decimal"
+              className={`${CONTROL} tnum`}
               aria-describedby={describedBy}
-              value={String(draft.transferUnits)}
-              onChange={(event) => {
-                const units = Number(event.target.value);
-                patch({ transferUnits: Number.isFinite(units) ? units : 0 });
-              }}
+              value={draft.transferUnits}
+              min={0}
+              max={TRANSFER_UNITS_MAX}
+              onCommit={(transferUnits) => patch({ transferUnits })}
             />
           )}
         </Field>
       </section>
 
-      <section className="mt-6">
-        <h2 className="text-[14px] font-semibold text-ink">Minors</h2>
+      <section className="mt-10">
+        <h2 className="text-body font-semibold text-ink">Minors</h2>
         {draft.minors.length > 0 ? (
           <ul className="mt-2 flex flex-wrap gap-2">
             {draft.minors.map((minor) => (
               <li
                 key={minor}
-                className="inline-flex items-center gap-1 rounded-pill border border-line bg-surface py-1 pr-1 pl-3 text-[13px] text-ink"
+                className="inline-flex items-center gap-1 rounded-pill border border-line bg-surface py-1 pr-1 pl-3 text-small text-ink"
               >
                 {minor}
                 <IconButton
@@ -233,7 +227,7 @@ export function SituationReview({ situation, mode, onSave, onCancel }: Situation
             ))}
           </ul>
         ) : (
-          <p className="mt-2 text-[13px] text-ink-4">None declared.</p>
+          <p className="mt-2 text-small text-ink-4">None declared.</p>
         )}
 
         <div className="mt-3 flex flex-wrap items-end gap-2">
@@ -277,7 +271,7 @@ export function SituationReview({ situation, mode, onSave, onCancel }: Situation
         </div>
       </section>
 
-      <div className="mt-8 flex flex-col gap-8">
+      <div className="mt-10 flex flex-col gap-10">
         <CourseRowsEditor
           legend="Courses you have completed"
           hint="Code, title, units, the term you took it, and the grade."
@@ -294,7 +288,7 @@ export function SituationReview({ situation, mode, onSave, onCancel }: Situation
         />
       </div>
 
-      <div className="sticky bottom-0 -mx-4 mt-8 flex flex-wrap justify-end gap-2 border-t border-line bg-canvas/95 px-4 py-3 backdrop-blur-sm">
+      <div className="sticky bottom-0 -mx-5 mt-10 flex flex-wrap justify-end gap-2.5 border-t border-line bg-canvas/95 px-5 py-4 backdrop-blur-sm sm:-mx-8 sm:px-8">
         <Button onClick={onCancel}>{mode === 'first' ? 'Start over' : 'Cancel'}</Button>
         <Button variant="primary" type="submit">
           {mode === 'first' ? 'Continue to my plan' : 'Save details'}

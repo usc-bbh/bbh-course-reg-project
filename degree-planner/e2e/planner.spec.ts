@@ -126,6 +126,10 @@ test.describe('the built planner', () => {
 });
 
 test.describe('the parts only a browser can check', () => {
+  // Dragging between year columns needs all four columns on screen, which is
+  // the 1440x900 layout the design targets.
+  test.use({ viewport: { width: 1440, height: 1000 } });
+
   test('moves a course by dragging it into another term', async ({ page }) => {
     await page.goto('/');
     await page.getByRole('button', { name: /try it with a sample student/i }).click();
@@ -133,9 +137,10 @@ test.describe('the parts only a browser can check', () => {
     await page.getByRole('heading', { name: /four-year plan/i }).waitFor();
 
     const row = page.locator('[data-course-key="spring-2027::CSCI 360"]');
-    const handle = row.locator('span').first();
+    const handle = row.locator('[data-drag-handle]');
     const target = page.locator('[data-term-id="fall-2027"]');
 
+    await row.scrollIntoViewIfNeeded();
     const from = await handle.boundingBox();
     const to = await target.boundingBox();
     if (!from || !to) throw new Error('Could not find the drag handle or the drop target.');
@@ -156,8 +161,11 @@ test.describe('the parts only a browser can check', () => {
     await page.getByRole('button', { name: /continue to my plan/i }).click();
     await page.getByRole('heading', { name: /four-year plan/i }).waitFor();
 
-    const handle = page.locator('[data-course-key="spring-2027::CSCI 353"]').locator('span').first();
+    const row = page.locator('[data-course-key="spring-2027::CSCI 353"]');
+    const handle = row.locator('[data-drag-handle]');
     const locked = page.locator('[data-term-id="fall-2024"]');
+
+    await row.scrollIntoViewIfNeeded();
     const from = await handle.boundingBox();
     const to = await locked.boundingBox();
     if (!from || !to) throw new Error('Could not find the drag handle or the locked term.');
