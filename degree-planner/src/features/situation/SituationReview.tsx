@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react';
 import type { ParsedStarsReport, Season, StudentSituation } from '../../domain/types';
 import { SEASONS, seasonLabel } from '../../domain/terms';
-import { useCatalogue } from '../../data/useCatalogue';
+import { PROGRAMMES } from '../../data/catalogue/programmes';
 import { Button } from '../../components/Button';
 import { CONTROL, Field, Select, TextInput } from '../../components/Field';
 import { NumberInput } from '../../components/NumberInput';
@@ -29,16 +29,16 @@ export interface SituationReviewProps {
  */
 export function SituationReview({ situation, mode, onSave, onCancel }: SituationReviewProps) {
   const [draft, setDraft] = useState<StudentSituation>(situation);
-  const { state: catalogueState, retry } = useCatalogue();
 
-  const catalogue = catalogueState.status === 'ready' ? catalogueState.catalogue : null;
-
-  const majorOptions = useMemo(() => withCurrent(catalogue?.majors, draft.major), [catalogue, draft.major]);
+  // The programme lists are bundled, not fetched: nothing produced them but
+  // src/data/catalogue/programmes.ts, so they are always here and a failed
+  // course-list request cannot turn these three fields into free text.
+  const majorOptions = useMemo(() => withCurrent(PROGRAMMES.majors, draft.major), [draft.major]);
   const yearOptions = useMemo(
-    () => withCurrent(catalogue?.catalogYears, draft.catalogYear),
-    [catalogue, draft.catalogYear],
+    () => withCurrent(PROGRAMMES.catalogYears, draft.catalogYear),
+    [draft.catalogYear],
   );
-  const minorOptions = catalogue?.minors ?? [];
+  const minorOptions = PROGRAMMES.minors;
 
   const patch = (changes: Partial<StudentSituation>) => setDraft((current) => ({ ...current, ...changes }));
 
@@ -58,20 +58,6 @@ export function SituationReview({ situation, mode, onSave, onCancel }: Situation
           ? 'Nothing here is read from a server, and nothing is sent to one. Correct anything that is wrong before you go on — the plan and the check both build on it.'
           : 'Changes apply straight away and the check re-runs.'}
       </p>
-
-      {catalogueState.status === 'failed' ? (
-        <div
-          role="status"
-          className="mt-5 flex flex-wrap items-center gap-3 rounded-card border border-warning-line bg-warning-wash px-4 py-3 text-small text-ink-2"
-        >
-          <span>
-            The course list did not load, so majors and catalogue years are free text for now.
-          </span>
-          <Button size="sm" onClick={retry}>
-            Try again
-          </Button>
-        </div>
-      ) : null}
 
       <section className="mt-8 grid gap-5 sm:grid-cols-2">
         <Field label="Your name" hint="Shown on the printed plan. It stays on this device.">
@@ -271,8 +257,13 @@ export function SituationReview({ situation, mode, onSave, onCancel }: Situation
 }
 
 /** Keeps a value that is not in the catalogue list selectable. */
-function withCurrent(options: string[] | undefined, current: string): string[] {
-  if (!options) return [];
-  if (!current || options.includes(current)) return options;
+/**
+ * The student's own value always appears, even when the list has never heard of
+ * it — a 2023-2024 catalogue year is not in `catalogue_scraper/`'s 2026-2027
+ * corpus, and a dropdown that silently drops what their report said would be
+ * worse than no dropdown.
+ */
+function withCurrent(options: readonly string[], current: string): string[] {
+  if (!current || options.includes(current)) return [...options];
   return [...options, current];
 }

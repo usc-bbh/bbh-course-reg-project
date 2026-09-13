@@ -28,7 +28,7 @@ quiet drift.
 | Which tier is reused and which is computed | Natalie (degree-audit engine) | [`docs/reference/03-degree-planner-architecture.md`](reference/03-degree-planner-architecture.md) | `Requirement.tier` + `Requirement.source`, `AnalysisResult.reusedFromReportDated` |
 | Block statuses `ok` / `no` / `ip` | shared | [`docs/reference/01-reading-a-stars-report.md`](reference/01-reading-a-stars-report.md) | `StarsBlockStatus`, `src/components/status.tsx` |
 | Per-course `source` (`usc` / `transfer_specific` / `transfer_generic`) | Abhi | [`docs/parser-brief.md`](parser-brief.md) §6–7 | `CreditSource`, shown on every history row |
-| Course titles, units, offering frequency | Agastya (`catalog/`) | [`catalog/README.md`](../catalog/README.md) course object + offering-frequency object | `src/data/catalogue/courses.json`, guarded in `src/data/catalogue.ts` |
+| Course titles, units, offering frequency | Agastya (`catalog/`) | [`catalog/README.md`](../catalog/README.md) v6 file: `terms_data` keyed by term code plus `offering_frequency` | `src/data/catalogue/courses.json` in that exact shape, guarded field-for-field in `src/data/catalogue.ts`, pinned by `test/catalogue.test.ts` |
 | The `stars_summary` slice | Tanzil (`validator/`) | [`validator/README.md`](../validator/README.md) — exactly five fields | `toStarsSummary()` in `src/domain/situation.ts` |
 
 Three consequences of those contracts that are easy to get wrong, and that the
@@ -88,7 +88,31 @@ requirement, and it must not start to.
 
 ---
 
-## 3. Still open — Abhi (`stars-parser/`)
+## 3. Still open — Abhi (`stars-parser/`), and Tanzil for P0
+
+### P0 — the shared fixture disagrees with itself, and both of you read it
+
+`fixtures/stars/mock_stars_report.json` states `"classLevel": "Junior"`. Its own
+coursework is **36 units** with `"transferUnits": 0`.
+[`docs/reference/01`](reference/01-reading-a-stars-report.md) has this as
+`[verified]`: *"Class level comes from units earned, not time enrolled. Freshman
+is under 32 units, sophomore 32 to 63.9, junior 64 to 95.9, senior 96 and
+above."* 36 units is a **sophomore**.
+
+This is not cosmetic. `classLevel` is one of the five fields
+`validator/README.md` documents as the `stars_summary` slice, and the validator
+gates class-level-restricted courses on it — so the parser test and the
+validator test are both asserting against a student who cannot exist. The
+planner shows what the report says and computes nothing, so it inherits the
+contradiction whichever way it is resolved.
+
+Two ways to fix it, and it is yours to pick: add ~28 units of coursework so the
+fixture is really a junior, or change `classLevel` to `"Sophomore"`. The second
+is one character of work and changes what the validator's own tests mean, which
+is why this needs both of you rather than a quiet edit.
+
+`test/contracts.test.ts` pins all three numbers, so the day the fixture is
+fixed that test fails and this section gets deleted.
 
 | # | Question | Why the planner cares | What it does meanwhile |
 | --- | --- | --- | --- |
@@ -116,16 +140,21 @@ requirement, and it must not start to.
 | --- | --- | --- | --- |
 | C1 | **A searchable index.** `catalog/README.md` plans per-course-per-term hosting for V1 (`/catalog/20263/CSCI-104.json`) so React fetches only the courses a student picked. The planner's course picker is a search box: it needs a list *before* the student has picked anything. | Without an index the picker can only offer courses it already knows, which is the sample file it ships with. | A hand-made ~40-course file in the documented v6 shape, fetched in one request. |
 | C2 | **Terms outside the scrape window.** The scrape covers Spring 2024 – Fall 2026. The sample student's history starts Fall 2022 and their plan ends Spring 2027; a four-year plan made today runs past the window by construction. | `offering_frequency` is the source for "CSCI 401 has only ever run in fall terms". For a term outside the window there is no answer, and "no data" must not read as "not offered". | The frequency labels in the sample file are invented, and the UI renders the warning without checking it. |
-| C3 | **v5/v6 data.** The v6 scrape "has not yet completed a full successful run"; v5 is missing ~30 departments and is not committed. Running it needs USC VPN. | A picker that silently lacks FBE or GERO looks broken to the student in those departments, not incomplete. | Sample data only. Swapping in the real file is a URL change in `src/data/catalogue.ts` and nothing else. |
+| C3 | **v5/v6 data.** The v6 scrape "has not yet completed a full successful run"; v5 is missing ~30 departments and is not committed. Running it needs USC VPN. | A picker that silently lacks FBE or GERO looks broken to the student in those departments, not incomplete. | Sample data only, in the documented v6 shape. Swapping in the real file is a URL change in `src/data/catalogue.ts` and nothing else — `test/catalogue.test.ts` checks the sample against the README rather than against what the UI happens to read. |
+| C4 | **What counts as `every_semester`?** The README names the four `frequency_label` values but not the counts that map to them. | Only if the label is ever shown as words to a student. Right now nothing is. | The sample's thresholds are ours: 6 → `every_semester`, 4–5 → `most_semesters`, 2–3 → `occasionally`, 1 → `rarely`. |
+| C5 | **The label cannot express seasonality.** A fall-only course and a course that ran three scattered terms both come out `occasionally`. | The planner's only blocking warning is "CSCI 401 has only ever run in fall terms". That fact is in `terms_offered`, not in the label — worth confirming that is intentional before anyone builds on the label. | Reads `terms_offered`. |
 
 ## 6. Still open — mine (`catalogue_scraper/`, Module 2)
 
 Not a question for anyone else; recorded here because the planner depends on it.
 
-- **Programme lists.** The degree, major, minor and catalog-year dropdowns have
-  no source. `catalogue_scraper/` has 470 programme files for **2026-2027 only**,
+- **Programme lists.** The major, minor and catalog-year dropdowns have no
+  source. `catalogue_scraper/` has 470 programme files for **2026-2027 only**,
   so a student on the fixture's own `2023-2024` catalog year has nothing to pick
-  from. The lists in `src/data/catalogue/courses.json` are invented.
+  from. The lists live in `src/data/catalogue/programmes.ts`, bundled rather
+  than fetched — they are not scrape data, so they should not ride along in the
+  course file or vanish when that request fails. Every one of those fields keeps
+  the student's own value even when the list has never heard of it.
 - **The requirements corpus** behind `source: 'computed'` requirements is the
   same scrape. Until Natalie's engine consumes it, the computed half of the
   audit is three hand-written entries.
@@ -137,25 +166,32 @@ One seam, no dependency. The planner does not call the validator and should not:
 `toStarsSummary()` produces the exact five fields `validator/README.md`
 documents so the same student can be handed across without a translation step.
 
-- **GPA.** The slice requires `gpa`, and the planner keeps no GPA because
-  nothing on screen uses one. If that slice is ever built from a planner
-  situation rather than from a report, the GPA has to be carried for you. Today
-  it should come from the report.
+`toStarsSummary()` takes the **parsed report**, not the planner's situation, on
+purpose: the slice needs a real `gpa` for GPA-threshold prerequisites and the
+planner keeps no GPA, because nothing on screen uses one. Building the slice
+from a situation would have meant inventing that number. Nothing here is open —
+it is recorded so nobody "simplifies" the signature later.
+
+See P0 above, which is as much yours as Abhi's.
 
 ---
 
-## The five to raise first
+## The six to raise first
 
-1. **Abhi — P1/P2, course codes.** Everything joins on them, and a mismatch is
+1. **Abhi and Tanzil — P0, the fixture's class level.** Two committed test
+   suites assert against a student whose units and class level contradict each
+   other. Cheapest possible fix, and it is wrong in the shared file, not in any
+   one module.
+2. **Abhi — P1/P2, course codes.** Everything joins on them, and a mismatch is
    silent. One decision unblocks three modules.
-2. **Abhi — P3, per-course `source`.** Already specified in the brief; without
+3. **Abhi — P3, per-course `source`.** Already specified in the brief; without
    it the planner cannot tell credit that fills a requirement from credit that
    only adds units.
-3. **Agastya — C1, a searchable index.** Per-course-per-term files serve the
+4. **Agastya — C1, a searchable index.** Per-course-per-term files serve the
    validator's shape well and leave the planner's picker with nothing to search.
    Worth settling before V1 hosting is built rather than after.
-4. **Natalie — A1, tiering of reused blocks.** `docs/reference/03` is the design
+5. **Natalie — A1, tiering of reused blocks.** `docs/reference/03` is the design
    the planner is built to; the one thing it does not say is who assigns a tier.
-5. **Natalie — A2, category-gap nominations.** The graceful degradation the doc
+6. **Natalie — A2, category-gap nominations.** The graceful degradation the doc
    asks for is a UI feature with no field to put it in. It is cheap to add to
    the result shape now and expensive to retrofit.

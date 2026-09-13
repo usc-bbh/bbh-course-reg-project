@@ -109,12 +109,16 @@ describe('course codes', () => {
 
 describe('the validator’s stars_summary slice', () => {
   it('produces exactly the five fields validator/README.md documents', () => {
-    const slice = toStarsSummary(situationFromReport(sampleStarsReport));
+    const slice = toStarsSummary(sampleStarsReport);
     expect(Object.keys(slice).sort()).toEqual(
       ['classLevel', 'completedCourses', 'gpa', 'inProgressCourses', 'major'].sort(),
     );
     expect(slice.major).toBe('Computer Science');
     expect(slice.classLevel).toBe('Junior');
+    // The GPA is the report's own, never a placeholder. The validator uses it
+    // for GPA-threshold prerequisites, so a zero here would fail every one.
+    expect(slice.gpa).toBe(sampleStarsReport.gpa);
+    expect(slice.gpa).toBeGreaterThan(0);
     // It reads only `.code` off completed courses, plus `.grade`.
     for (const course of slice.completedCourses) {
       expect(Object.keys(course).every((key) => key === 'code' || key === 'grade')).toBe(true);
@@ -122,6 +126,32 @@ describe('the validator’s stars_summary slice', () => {
     for (const course of slice.inProgressCourses) {
       expect(Object.keys(course)).toEqual(['code']);
     }
+  });
+});
+
+describe('the shared fixture disagrees with itself about class level', () => {
+  it('records the contradiction so it cannot be quietly inherited', () => {
+    // docs/reference/01-reading-a-stars-report.md, "Class level comes from units
+    // earned, not time enrolled [verified]": freshman under 32, sophomore 32 to
+    // 63.9, junior 64 to 95.9, senior 96 and above.
+    //
+    // fixtures/stars/mock_stars_report.json earns 36 units and no transfer
+    // credit, which is a SOPHOMORE, and states "Junior". The planner shows what
+    // the report says and computes nothing, so it inherits the contradiction
+    // either way. It matters beyond cosmetics: `classLevel` is one of the five
+    // fields the next-semester validator reads, and it gates class-level
+    // restricted courses.
+    //
+    // When this test fails, someone has fixed the fixture. Delete the test, the
+    // GAP in sampleStudent.ts, and question P0 in
+    // docs/degree-planner-ui-notes.md.
+    const earned = (COMMITTED_FIXTURE.completedCourses as Array<{ units: number }>).reduce(
+      (total, row) => total + row.units,
+      0,
+    );
+    expect(earned).toBe(36);
+    expect(COMMITTED_FIXTURE.transferUnits).toBe(0);
+    expect(COMMITTED_FIXTURE.classLevel).toBe('Junior');
   });
 });
 

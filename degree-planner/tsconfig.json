@@ -1,11 +1,14 @@
 {
+  // The app. `types` deliberately omits "node": nothing in src/ runs outside a
+  // browser, so Node's globals must not even be in scope there. The test config
+  // below adds them for test/ and e2e/, which do run in Node.
   "compilerOptions": {
     "target": "ES2022",
     "lib": ["ES2022", "DOM", "DOM.Iterable"],
     "module": "ESNext",
     "moduleResolution": "bundler",
     "jsx": "react-jsx",
-    "types": ["vite/client", "vitest/globals", "node"],
+    "types": ["vite/client"],
     "resolveJsonModule": true,
     "allowImportingTsExtensions": true,
     "verbatimModuleSyntax": true,
@@ -23,5 +26,5 @@
     "noImplicitOverride": true,
     "noUncheckedIndexedAccess": true
   },
-  "include": ["src", "test", "vite.config.ts", "vitest.config.ts"]
+  "include": ["src"]
 }

@@ -68,6 +68,12 @@ export const sampleStarsReport: ParsedStarsReport = {
   majorCode: 'CSCI',
   programCode: '1832',
   catalogYear: '2023-2024',
+  // GAP(stars): the fixture says Junior, but its own coursework is 36 units
+  // with no transfer credit, and docs/reference/01 puts junior at 64-95.9 units
+  // earned — 36 is a sophomore. Copied as-is rather than corrected here,
+  // because the fixture is the shared one and correcting it locally would hide
+  // the disagreement from the parser and validator suites that also read it.
+  // See test/contracts.test.ts and question P0 in the notes.
   classLevel: 'Junior',
   expectedGraduation: '16 May 2027',
   gpa: 3.42,

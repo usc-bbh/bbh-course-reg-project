@@ -21,7 +21,7 @@ npm run preview    # serve the built dist/ locally
 | Script | What it does |
 | --- | --- |
 | `npm run build` | Typecheck, then build the static site into `dist/` |
-| `npm run typecheck` | `tsc --noEmit` |
+| `npm run typecheck` | Two passes: `src/` with browser types only, then `test/` and `e2e/` with Node's |
 | `npm run lint` | ESLint over the app |
 | `npm test` | Unit and component tests (Vitest + Testing Library) |
 | `npm run test:e2e` | End-to-end tests against the production build (Playwright) |
@@ -38,7 +38,10 @@ thing it requests is public course data shipped with the build.
 `npm run check:privacy` fails if anything else in `src/` gains a `fetch(`, an
 `XMLHttpRequest`, a `sendBeacon`, a WebSocket, a `<script src=`, a
 `process.env`, a `node:` import or a Node global, or a server or platform entry
-point — and it fails if an analytics package appears in `package.json`.
+point — and it fails if an analytics package appears in `package.json`. The type
+system backs it up: `tsconfig.json` gives `src/` browser types only, so Node's
+globals are not even in scope there, and `tsconfig.test.json` adds them for the
+test and e2e directories, which really do run in Node.
 
 **2. The two data layers are stubs, and they stay stubs.**
 
@@ -81,12 +84,25 @@ All three are self-hosted. Colour, radii and shadows come from
 token in `src/styles/index.css`. There are no arbitrary font sizes in
 components: everything uses the named scale in that file.
 
+## Checks that would otherwise be opinions
+
+| Check | What it pins |
+| --- | --- |
+| `test/contracts.test.ts` | The sample student against `fixtures/stars/mock_stars_report.json`, read off disk. It also records the fixture's own class-level contradiction so nobody inherits it silently — see P0 in `docs/degree-planner-ui-notes.md`. |
+| `test/catalogue.test.ts` | The course file against `catalog/README.md`: all ten documented fields on every course, `term_code` matching its key, `offering_frequency` agreeing with the terms each course actually appears in. |
+| `test/contrast.test.ts` | Every text colour token against every surface token at WCAG AA, in milliseconds, without a browser. |
+| `e2e/accessibility.spec.ts` | axe over six screens at WCAG 2.1 A and AA — the real page, the authority the token test only approximates. |
+| `test/stubs.test.ts` | That two materially different plans still produce a deeply equal result, so the stubs stay stubs. |
+| `scripts/check-privacy.mjs` | The privacy and platform rules, including the two deploy configs. |
+
 ## Layout
 
 ```
 src/
   domain/        types.ts is the contract; terms.ts is display arithmetic only
   data/          the two stubs, the catalogue module, the sample student
+                 catalogue/courses.json is the v6 scrape shape; programmes.ts
+                 holds the invented lists, bundled rather than fetched
   state/         one store for situation + plan, versioned persistence, useAnalysis
   features/
     situation/   upload, sample, manual entry, the review form, the summary bar

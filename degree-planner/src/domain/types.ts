@@ -266,8 +266,9 @@ export interface StarsSummarySlice {
 }
 
 /* ── Catalogue ─────────────────────────────────────────────────────────────
-   Field names follow catalog/README.md's course object so swapping the sample
-   for `/catalog/20263/CSCI-104.json` is a URL change. */
+   Every field below is `catalog/README.md`'s, spelling included, so the sample
+   file and a real `bbh_schedule_data_v6.json` are the same shape and swapping
+   one for the other is a URL change in catalogue.ts. */
 
 export type FrequencyLabel = 'every_semester' | 'most_semesters' | 'occasionally' | 'rarely';
 
@@ -278,24 +279,72 @@ export interface OfferingFrequency {
   frequency_label: FrequencyLabel;
 }
 
+export type SectionType = 'lectures' | 'labs' | 'discussions' | 'quizzes' | 'other';
+
+/**
+ * One section. The planner reads none of these fields — it plans terms, not
+ * timetables, and choosing sections is the next-semester validator's job. The
+ * type exists so the sample file can carry the documented shape without the
+ * guard having to pretend the fields are absent.
+ */
+export interface CatalogueSection {
+  section_id: string;
+  section_type: SectionType;
+  mode: string;
+  has_d_clearance: boolean;
+  /** "Not reliable for lecture/lab pairing", per catalog/README.md. */
+  link_code: string | null;
+  notes: string | null;
+  instructor: string;
+  days: string[];
+  start_time: string;
+  end_time: string;
+  total_seats: number;
+  registered_seats: number;
+  /** Best-effort: USC's public API does not expose reserved seats. */
+  open_seats: number;
+  is_full: boolean;
+  is_cancelled: boolean;
+}
+
 export interface CatalogueCourse {
   /** Always `"PREFIX NNN"`, space-separated, per catalog/README.md. */
   course_name: string;
   units: number;
   description: string;
+  /** The term this entry was scraped for, matching its key in `terms_data`. */
+  term_code: string;
+  has_lab: boolean;
+  has_discussion: boolean;
   has_d_clearance: boolean;
   has_restrictions: boolean;
+  section_counts: Partial<Record<SectionType, number>>;
+  sections: Partial<Record<SectionType, CatalogueSection[]>>;
 }
 
+/** The raw scrape file, top level, exactly as catalog/README.md documents v6. */
+export interface ScrapeFile {
+  schema_version: string;
+  generated_at: string;
+  /** Term code to human label: `{ "20263": "Fall 2026" }`. */
+  terms: Record<string, string>;
+  /** Term code to that term's courses. An array, not a dict. */
+  terms_data: Record<string, CatalogueCourse[]>;
+  offering_frequency: Record<string, OfferingFrequency>;
+}
+
+/**
+ * What the app holds after the transform `catalog/README.md` says every
+ * consumer needs: the term-nested arrays flattened to one entry per course.
+ */
 export interface Catalogue {
   /** Human-readable label for where this data came from. */
   sourceLabel: string;
+  /** One entry per unique course, newest scraped term kept. */
   courses: CatalogueCourse[];
   offering_frequency: Record<string, OfferingFrequency>;
-  degrees: string[];
-  majors: string[];
-  minors: string[];
-  catalogYears: string[];
+  /** Term codes the scrape covers, newest first. Nothing outside it is known. */
+  scrapedTerms: string[];
 }
 
 /* ── Cross-highlighting ────────────────────────────────────────────────────

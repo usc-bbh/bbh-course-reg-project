@@ -85,24 +85,28 @@ export function situationFromReport(
  * Tanzil's next-semester validator reads, and it states it assumes no others
  * are present.
  *
+ * It takes the **report**, not the planner's situation, and that is the whole
+ * point of the signature. The slice needs a GPA for GPA-threshold
+ * prerequisites; the planner keeps no GPA, because nothing on screen uses one.
+ * Building the slice from a situation would mean inventing that number, so this
+ * reads it from the one object that actually has it.
+ *
  * The planner does not call the validator — that is a different tool and out of
  * scope here. This exists so the same student can be handed to it without a
  * translation step, and so the two modules stay honest about the seam.
  */
-export function toStarsSummary(situation: StudentSituation): StarsSummarySlice {
+export function toStarsSummary(report: ParsedStarsReport): StarsSummarySlice {
+  const codes = (rows: StarsCourseRow[]) => rows.map((row) => normalizeCourseCode(row.code));
   return {
-    major: situation.major,
-    classLevel: situation.classLevel,
-    // GAP(stars): the planner does not keep the GPA, because nothing on screen
-    // uses it. The validator needs it for GPA-threshold prerequisites, so it
-    // has to come from the report rather than from here.
-    gpa: 0,
-    completedCourses: situation.completedCourses.map((course) => {
-      const entry: { code: string; grade?: string } = { code: course.code };
-      if (course.grade) entry.grade = course.grade;
+    major: report.major,
+    classLevel: report.classLevel,
+    gpa: report.gpa,
+    completedCourses: report.completedCourses.map((row) => {
+      const entry: { code: string; grade?: string } = { code: normalizeCourseCode(row.code) };
+      if (row.grade) entry.grade = row.grade;
       return entry;
     }),
-    inProgressCourses: situation.inProgressCourses.map((course) => ({ code: course.code })),
+    inProgressCourses: codes(report.inProgressCourses).map((code) => ({ code })),
   };
 }
 

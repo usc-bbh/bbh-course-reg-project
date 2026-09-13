@@ -26,12 +26,17 @@
   --color-gold-dim: #ffd54f;
   --color-gold-wash: #fff8e1;
 
-  /* Ink — validator body and meta text */
+  /* Ink — validator body and meta text.
+     Every one of these is a foreground, and test/contrast.test.ts checks each
+     against every background token below at WCAG AA (4.5:1). The scale is
+     deliberately compressed at the quiet end: the original ink-5 (#7a7a80) read
+     as a nice soft grey and failed at 3.82 on surface-sunk, which is where
+     course titles live — the single most repeated piece of text in the app. */
   --color-ink: #1a1a1a;
   --color-ink-2: #44444a;
-  --color-ink-3: #5a5a60;
-  --color-ink-4: #6b6b72;
-  --color-ink-5: #7a7a80;
+  --color-ink-3: #55555b;
+  --color-ink-4: #616167;
+  --color-ink-5: #6a6a70;
 
   /* Surfaces and hairlines — validator app background, cards and borders */
   --color-canvas: #f4f4f5;
@@ -46,7 +51,7 @@
      Unsatisfied deliberately carries no hue of its own: cardinal already owns
      red here, so a second red would read as brand chrome rather than a result.
      It carries its weight through ink, a filled icon and a bold label. */
-  --color-satisfied: #1a7f37;
+  --color-satisfied: #16722f;
   --color-satisfied-wash: #eaf7ef;
   --color-satisfied-line: #a7dcb8;
   --color-inprogress: #1d4ed8;
@@ -54,7 +59,7 @@
   --color-inprogress-line: #c3d0f8;
   --color-unsatisfied: #1a1a1a;
   --color-unsatisfied-wash: #f2f2f4;
-  --color-warning: #a06a00;
+  --color-warning: #8a5a00;
   --color-warning-wash: #fff8e1;
   --color-warning-line: #ffd54f;
   --color-blocking: #7a4400;

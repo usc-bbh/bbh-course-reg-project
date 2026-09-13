@@ -111,6 +111,10 @@ test.describe('the built planner', () => {
     await expect(combobox).toBeFocused();
     // CSCI 435 is in the sample catalogue and in no term of the sample plan.
     await page.keyboard.type('435');
+    // Wait for the option rather than racing the course-list request: the file
+    // is the size of a real scrape, so "it was instant locally" is not a fact
+    // the test may rely on.
+    await page.getByRole('option', { name: /CSCI 435/ }).waitFor();
     await page.keyboard.press('Enter');
     await page.keyboard.press('Escape');
     await expect(page.getByRole('button', { name: 'Add a course to Spring 2027' })).toBeFocused();
