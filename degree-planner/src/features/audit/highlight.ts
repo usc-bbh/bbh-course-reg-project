@@ -45,6 +45,10 @@ export function buildHighlight(result: AnalysisResult | null, selection: Selecti
   const warnedCourses = new Map<string, WarningSeverity>();
   const warnedTerms = new Map<TermId, WarningSeverity>();
   for (const warning of result.warnings) {
+    // An info note is not a warning. It still gets a row in the panel and it
+    // still highlights when selected, but it does not put a warning marker on
+    // a course the student has already completed.
+    if (warning.severity === 'info') continue;
     if (warning.course?.termId) {
       keepStronger(warnedCourses, courseKey(warning.course.termId, warning.course.code), warning.severity);
     }
