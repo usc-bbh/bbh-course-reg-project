@@ -38,14 +38,14 @@ export function AuditSheet({ state, selection, onSelect, onRetry }: AuditSheetPr
     if (result.verdict === 'on-track') {
       return {
         label: 'On track',
-        detail: `${result.unitsCounted} of ${result.unitsRequired} units counted`,
+        detail: `${result.units.counted} of ${result.units.required} units counted`,
         tone: 'text-satisfied',
         Icon: CheckCircleIcon,
       };
     }
     return {
       label: result.verdict === 'not-yet' ? 'Not yet' : 'Not enough information',
-      detail: `${unmet} not met, ${result.unitsCounted} of ${result.unitsRequired} units counted`,
+      detail: `${unmet} not met, ${result.units.counted} of ${result.units.required} units counted`,
       tone: 'text-unsatisfied',
       Icon: result.verdict === 'not-yet' ? FilledSquareIcon : InfoIcon,
     };

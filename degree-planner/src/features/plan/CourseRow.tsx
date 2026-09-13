@@ -1,8 +1,26 @@
 import { useDraggable } from '@dnd-kit/core';
-import type { PlanCourse, PlanTerm, TermId, WarningSeverity } from '../../domain/types';
+import type { CreditSource, PlanCourse, PlanTerm, TermId, WarningSeverity } from '../../domain/types';
 import { formatUnits } from '../../domain/terms';
 import { DragHandleIcon, OctagonIcon, TriangleIcon } from '../../components/icons';
 import { MoveToMenu } from './MoveToMenu';
+
+/**
+ * Transfer credit, split the way `docs/parser-brief.md` §7 splits it: credit
+ * matched to a named USC course can fill a requirement, generic credit cannot.
+ * The planner shows the difference and says nothing about which requirement
+ * either one fills — that is the audit engine's call.
+ */
+const TRANSFER: Record<Exclude<CreditSource, 'usc'>, { short: string; explanation: string }> = {
+  transfer_specific: {
+    short: 'Transfer',
+    explanation: 'Transfer credit matched to a USC course',
+  },
+  transfer_generic: {
+    short: 'Transfer, unassigned',
+    explanation:
+      'Generic transfer credit. It counts toward your total units but cannot fill a named requirement.',
+  },
+};
 
 export interface CourseRowProps {
   course: PlanCourse;
@@ -47,6 +65,8 @@ export function CourseRow({
     warned === 'blocking'
       ? 'A blocking warning mentions this course'
       : 'A warning mentions this course';
+
+  const transfer = course.source && course.source !== 'usc' ? TRANSFER[course.source] : null;
 
   return (
     <li
@@ -103,8 +123,22 @@ export function CourseRow({
         </span>
       </div>
 
-      <p className="mt-0.5 truncate text-micro leading-snug text-ink-5" title={course.title}>
-        {course.title}
+      {/* Transfer credit sits beside the title rather than beside the code, so
+          a long label truncates the title instead of pushing the units off the
+          row in a 240px year column. */}
+      <p className="mt-0.5 flex items-baseline gap-1.5 text-micro leading-snug text-ink-5">
+        {transfer ? (
+          <span
+            className="shrink-0 rounded-chip border border-line-strong px-1.5 font-medium text-ink-4"
+            title={transfer.explanation}
+          >
+            {transfer.short}
+            <span className="sr-only">. {transfer.explanation}</span>
+          </span>
+        ) : null}
+        <span className="truncate" title={course.title}>
+          {course.title}
+        </span>
       </p>
     </li>
   );

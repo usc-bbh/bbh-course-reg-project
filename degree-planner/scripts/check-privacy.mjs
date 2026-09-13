@@ -8,6 +8,10 @@
  *
  * Exactly one file is allowed to make a network request — src/data/catalogue.ts,
  * which fetches public course data and nothing else.
+ *
+ * The deploy configs are checked too. A serverless function added through
+ * vercel.json or netlify.toml would never show up in a scan of src/, so the
+ * blocks that could introduce one are rejected here.
  */
 import { readFileSync, readdirSync, statSync } from 'node:fs';
 import { join, relative, sep } from 'node:path';
@@ -30,6 +34,12 @@ const FORBIDDEN = [
   { pattern: /from\s+['"]next\/headers['"]/, label: 'next/headers', network: false },
   { pattern: /\bprocess\.env\b/, label: 'process.env', network: false },
   { pattern: /\bimport\.meta\.env\b/, label: 'import.meta.env', network: false },
+  // The test suite runs in Node and needs @types/node, which is declared once
+  // in tsconfig and therefore also visible to src/. These three keep that from
+  // becoming a way for Node to leak into the browser half of the app.
+  { pattern: /from\s+['"]node:/, label: 'an import from node:', network: false },
+  { pattern: /\bprocess\s*\./, label: 'the Node process global', network: false },
+  { pattern: /\b__dirname\b|\b__filename\b/, label: 'a Node path global', network: false },
 ];
 
 /** Server-side or platform-specific files that must not exist at all. */
@@ -142,7 +152,61 @@ for (const name of Object.keys(declared)) {
   }
 }
 
-/* ── 4. Report ──────────────────────────────────────────────────────────── */
+/* ── 4. Deploy configs ──────────────────────────────────────────────────── */
+
+/**
+ * Both files may describe a static build and its headers. Neither may describe
+ * a server: no functions, no cron jobs, no build plugins, no build-time
+ * environment. A deploy config is the one place those could be added without
+ * touching a single line of src/.
+ */
+const DEPLOY_CONFIGS = [
+  {
+    file: 'vercel.json',
+    forbidden: [
+      { pattern: /"functions"\s*:/, label: 'a "functions" block' },
+      { pattern: /"crons"\s*:/, label: 'a "crons" block' },
+      { pattern: /"env"\s*:/, label: 'an "env" block' },
+      { pattern: /"middleware"/, label: 'middleware' },
+      { pattern: /@vercel\//, label: 'a @vercel/* package' },
+      { pattern: /\/api\//, label: 'an /api/ route' },
+    ],
+  },
+  {
+    file: 'netlify.toml',
+    forbidden: [
+      { pattern: /^\s*\[functions/m, label: 'a [functions] block' },
+      { pattern: /^\s*\[\[edge_functions/m, label: 'an [[edge_functions]] block' },
+      { pattern: /^\s*\[\[plugins/m, label: 'a [[plugins]] block' },
+      { pattern: /^\s*\[build\.environment/m, label: 'a [build.environment] block' },
+      { pattern: /\/\.netlify\/functions\//, label: 'a function endpoint' },
+    ],
+  },
+];
+
+let deployConfigsSeen = 0;
+
+for (const config of DEPLOY_CONFIGS) {
+  let contents;
+  try {
+    contents = readFileSync(join(appRoot, config.file), 'utf8');
+  } catch {
+    // Neither file has to exist. Only its contents are constrained.
+    continue;
+  }
+  deployConfigsSeen += 1;
+  const lines = contents.split('\n');
+  lines.forEach((line, index) => {
+    const code = stripComment(line.replace(/^\s*#.*$/, ''));
+    for (const rule of config.forbidden) {
+      if (rule.pattern.test(code)) {
+        problems.push(`${config.file}:${index + 1}: found ${rule.label}, which would give this app a server half.`);
+      }
+    }
+  });
+}
+
+/* ── 5. Report ──────────────────────────────────────────────────────────── */
 
 if (problems.length > 0) {
   console.error('Privacy and platform check FAILED:\n');
@@ -154,5 +218,7 @@ if (problems.length > 0) {
   process.exit(1);
 }
 
-console.log(`Privacy and platform check passed (${sourceFiles.length} files scanned).`);
+console.log(
+  `Privacy and platform check passed (${sourceFiles.length} source files, ${deployConfigsSeen} deploy configs scanned).`,
+);
 console.log(`Network access is limited to: ${NETWORK_ALLOWLIST.join(', ')}`);

@@ -1,10 +1,14 @@
 import { useRef, useState, type DragEvent } from 'react';
 import type { StudentSituation } from '../../domain/types';
 import { parseStarsReport } from '../../data/parseStarsReport';
-import { sampleSituation } from '../../data/sampleStudent';
+import { SAMPLE_STUDENT_NAME, sampleStarsReport } from '../../data/sampleStudent';
+import { situationFromReport } from '../../domain/situation';
 import { Button } from '../../components/Button';
 import { FileIcon, UploadIcon } from '../../components/icons';
 import { blankSituation } from './blankSituation';
+
+const UNREADABLE =
+  'We could not read that report. It may be a scan, or a format we do not handle yet.';
 
 type Phase =
   | { kind: 'idle' }
@@ -30,18 +34,24 @@ export function SituationEntry({ onStart }: SituationEntryProps) {
   const readFile = (file: File | undefined) => {
     if (!file) return;
     setPhase({ kind: 'reading' });
-    parseStarsReport(file)
-      .then((parsed) => {
+    // stars-parser/README.md: the parser resolves with null when both the text
+    // and OCR paths fail, "so the UI can prompt the student to fill in their
+    // info manually". A rejection is an unexpected error; null is the ordinary
+    // could-not-read path. Both land the student in the same place.
+    parseStarsReport(file, {
+      onStatus: () => setPhase({ kind: 'reading' }),
+    })
+      .then((report) => {
+        if (!report) {
+          setPhase({ kind: 'failed', message: UNREADABLE });
+          return;
+        }
         setPhase({ kind: 'idle' });
-        onStart(parsed.situation, 'stars');
+        onStart(situationFromReport(report), 'stars');
       })
       .catch(() => {
         // No detail from the file itself reaches this message or the console.
-        setPhase({
-          kind: 'failed',
-          message:
-            'We could not read that report. It may be a scan, or a format we do not handle yet.',
-        });
+        setPhase({ kind: 'failed', message: UNREADABLE });
       });
   };
 
@@ -124,7 +134,7 @@ export function SituationEntry({ onStart }: SituationEntryProps) {
               <Button size="sm" onClick={() => onStart(blankSituation(), 'manual')}>
                 Enter my details
               </Button>
-              <Button size="sm" onClick={() => onStart(sampleSituation, 'sample')}>
+              <Button size="sm" onClick={() => onStart(situationFromReport(sampleStarsReport, SAMPLE_STUDENT_NAME), 'sample')}>
                 Use the sample student
               </Button>
             </div>
@@ -135,7 +145,7 @@ export function SituationEntry({ onStart }: SituationEntryProps) {
       <div className="mt-6 grid gap-4 sm:grid-cols-2">
         <button
           type="button"
-          onClick={() => onStart(sampleSituation, 'sample')}
+          onClick={() => onStart(situationFromReport(sampleStarsReport, SAMPLE_STUDENT_NAME), 'sample')}
           className="group rounded-card border border-line bg-surface p-5 text-left transition-[border-color,box-shadow] duration-150 hover:border-ink-5 hover:shadow-raise"
         >
           <span className="flex items-center gap-2 text-body font-semibold text-ink">

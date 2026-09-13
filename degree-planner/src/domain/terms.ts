@@ -97,6 +97,7 @@ function toPlanCourse(course: TakenCourse): PlanCourse {
     code: course.code,
     title: course.title,
     units: course.units,
+    source: course.source,
   };
   if (course.grade) planCourse.grade = course.grade;
   return planCourse;

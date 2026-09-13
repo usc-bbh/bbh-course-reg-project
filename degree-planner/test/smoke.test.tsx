@@ -23,6 +23,10 @@ function term(id: string): HTMLElement {
  * plan renders with the past locked, move a course with the Move to… menu, the
  * audit shows the verdict with its reasons, the plan survives a reload, and
  * Clear all data returns the empty state.
+ *
+ * Terms here are the sample student's real ones: the report in
+ * `fixtures/stars/mock_stars_report.json` runs Fall 2022 → Spring 2025, and the
+ * plan runs Fall 2025 → Spring 2027, its stated graduation term.
  */
 describe('the whole flow', () => {
   it('goes from the sample student to a checked, saved, clearable plan', async () => {
@@ -47,35 +51,40 @@ describe('the whole flow', () => {
     // ── Plan, with the past locked ───────────────────────────────────────
     expect(await screen.findByRole('heading', { name: /four-year plan/i })).toBeInTheDocument();
 
-    const completedTerm = term('fall-2024');
+    const completedTerm = term('fall-2022');
     expect(within(completedTerm).getByText('Completed')).toBeInTheDocument();
-    expect(within(completedTerm).getByText('CSCI 103L')).toBeInTheDocument();
+    expect(within(completedTerm).getByText('CSCI 103')).toBeInTheDocument();
+    // Transfer credit is on the record and marked for what it is.
+    expect(within(completedTerm).getByText('Transfer, unassigned')).toBeInTheDocument();
     // Locked coursework offers no move, no remove and no drag handle.
     expect(within(completedTerm).queryByRole('button', { name: /move or remove/i })).toBeNull();
 
-    const inProgressTerm = term('fall-2026');
+    // The report's in-progress term is Spring 2025, not whatever term today is.
+    const inProgressTerm = term('spring-2025');
     expect(within(inProgressTerm).getByText('In progress')).toBeInTheDocument();
+    expect(within(inProgressTerm).getByText('WRIT 340')).toBeInTheDocument();
 
-    expect(within(term('spring-2027')).getByText('CSCI 353')).toBeInTheDocument();
+    expect(within(term('fall-2025')).getByText('CSCI 353')).toBeInTheDocument();
 
     // ── Move a course with the Move to… menu ─────────────────────────────
     await user.click(screen.getByRole('button', { name: 'Move or remove CSCI 353' }));
-    await user.click(await screen.findByRole('menuitem', { name: 'Move to Fall 2027' }));
+    await user.click(await screen.findByRole('menuitem', { name: 'Move to Fall 2026' }));
 
     await waitFor(() => {
-      expect(within(term('fall-2027')).getByText('CSCI 353')).toBeInTheDocument();
+      expect(within(term('fall-2026')).getByText('CSCI 353')).toBeInTheDocument();
     });
-    expect(within(term('spring-2027')).queryByText('CSCI 353')).toBeNull();
+    expect(within(term('fall-2025')).queryByText('CSCI 353')).toBeNull();
 
     // ── The audit ────────────────────────────────────────────────────────
     const audit = screen.getByRole('complementary', { name: /your plan, checked/i });
     expect(within(audit).getByText('Not yet')).toBeInTheDocument();
     expect(within(audit).getByText(/does not reach the degree yet/i)).toBeInTheDocument();
-    expect(within(audit).getByText('Core electives')).toBeInTheDocument();
-    expect(
-      within(audit).getByText(/Four 300- or 400-level CSCI courses are required/i),
-    ).toBeInTheDocument();
-    expect(within(audit).getByText(/CSCI 401 is offered in the fall only/i)).toBeInTheDocument();
+    // A requirement read straight off the report, with its own verdict.
+    expect(within(audit).getByText('128-Unit Minimum')).toBeInTheDocument();
+    expect(within(audit).getByText(/8 more are needed before May 2027/i)).toBeInTheDocument();
+    expect(within(audit).getByText(/CSCI 401 has only ever run in fall terms/i)).toBeInTheDocument();
+    // The reused verdicts say how old they are, per docs/reference/03.
+    expect(audit).toHaveTextContent(/read from your STARS report of 14 February 2025/i);
     expect(within(audit).getByText(/Sample results\./i)).toBeInTheDocument();
 
     // ── Reload: the plan is still there ──────────────────────────────────
@@ -87,7 +96,7 @@ describe('the whole flow', () => {
         const saved = JSON.parse(raw ?? '{}') as {
           plan: { terms: Array<{ id: string; courses: Array<{ code: string }> }> };
         };
-        const moved = saved.plan.terms.find((entry) => entry.id === 'fall-2027');
+        const moved = saved.plan.terms.find((entry) => entry.id === 'fall-2026');
         expect(moved?.courses.some((course) => course.code === 'CSCI 353')).toBe(true);
       },
       { timeout: 3000 },
@@ -98,7 +107,7 @@ describe('the whole flow', () => {
     renderApp();
 
     await waitFor(() => {
-      expect(within(term('fall-2027')).getByText('CSCI 353')).toBeInTheDocument();
+      expect(within(term('fall-2026')).getByText('CSCI 353')).toBeInTheDocument();
     });
 
     // ── Clear all data ───────────────────────────────────────────────────
@@ -110,7 +119,7 @@ describe('the whole flow', () => {
     expect(
       await screen.findByRole('heading', { level: 1, name: /plan your next four years/i }),
     ).toBeInTheDocument();
-    expect(document.querySelector('[data-term-id="fall-2027"]')).toBeNull();
+    expect(document.querySelector('[data-term-id="fall-2026"]')).toBeNull();
   });
 
   it('removes a course with an undo that the keyboard can reach', async () => {
@@ -124,7 +133,7 @@ describe('the whole flow', () => {
     await user.click(screen.getByRole('button', { name: 'Move or remove CSCI 420' }));
     await user.click(await screen.findByRole('menuitem', { name: 'Remove from plan' }));
 
-    expect(within(term('spring-2028')).queryByText('CSCI 420')).toBeNull();
+    expect(within(term('fall-2026')).queryByText('CSCI 420')).toBeNull();
 
     const undo = await screen.findByRole('button', { name: /undo/i });
     // Focus lands on Undo, so it is reachable without a mouse.
@@ -132,7 +141,7 @@ describe('the whole flow', () => {
 
     await user.keyboard('{Enter}');
     await waitFor(() => {
-      expect(within(term('spring-2028')).getByText('CSCI 420')).toBeInTheDocument();
+      expect(within(term('fall-2026')).getByText('CSCI 420')).toBeInTheDocument();
     });
   });
 
@@ -151,9 +160,10 @@ describe('the whole flow', () => {
     });
     expect(combobox).toHaveFocus();
 
-    await user.type(combobox, 'CSCI 485');
+    // CSCI 435 is in the sample catalogue and in no term of the sample plan.
+    await user.type(combobox, 'CSCI 435');
     await waitFor(() => {
-      expect(screen.getByRole('option', { name: /CSCI 485/i })).toBeInTheDocument();
+      expect(screen.getByRole('option', { name: /CSCI 435/i })).toBeInTheDocument();
     });
     await user.keyboard('{Enter}');
 
@@ -163,7 +173,7 @@ describe('the whole flow', () => {
       expect(screen.getByRole('button', { name: 'Add a course to Spring 2027' })).toHaveFocus();
     });
 
-    expect(within(term('spring-2027')).getByText('CSCI 485')).toBeInTheDocument();
+    expect(within(term('spring-2027')).getByText('CSCI 435')).toBeInTheDocument();
   });
 
   it('clears the cross-highlight with Escape', async () => {
@@ -175,12 +185,12 @@ describe('the whole flow', () => {
     await screen.findByRole('heading', { name: /four-year plan/i });
 
     const audit = screen.getByRole('complementary', { name: /your plan, checked/i });
-    const requirement = within(audit).getByRole('button', { name: /core electives/i });
+    const requirement = within(audit).getByRole('button', { name: /computer science core/i });
     await user.click(requirement);
     expect(requirement).toHaveAttribute('aria-pressed', 'true');
 
     await waitFor(() => {
-      expect(document.querySelector('[data-course-key="fall-2027::CSCI 402"]')).toHaveClass(
+      expect(document.querySelector('[data-course-key="fall-2025::CSCI 310"]')).toHaveClass(
         'is-highlighted',
       );
     });
@@ -190,7 +200,7 @@ describe('the whole flow', () => {
       expect(
         within(screen.getByRole('complementary', { name: /your plan, checked/i })).getByRole(
           'button',
-          { name: /core electives/i },
+          { name: /computer science core/i },
         ),
       ).toHaveAttribute('aria-pressed', 'false');
     });

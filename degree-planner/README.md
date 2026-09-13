@@ -37,20 +37,28 @@ SVG, so the page fetches nothing from anywhere. Exactly one module,
 thing it requests is public course data shipped with the build.
 `npm run check:privacy` fails if anything else in `src/` gains a `fetch(`, an
 `XMLHttpRequest`, a `sendBeacon`, a WebSocket, a `<script src=`, a
-`process.env`, or a server or platform entry point — and it fails if an
-analytics package appears in `package.json`.
+`process.env`, a `node:` import or a Node global, or a server or platform entry
+point — and it fails if an analytics package appears in `package.json`.
 
 **2. The two data layers are stubs, and they stay stubs.**
 
-- `src/data/parseStarsReport.ts` — the real parser is `stars-parser/`, which
-  Abhi and Agastya own.
-- `src/data/analyzePlan.ts` — the real analysis layer does not exist yet.
+- `src/data/parseStarsReport.ts` — the real parser is `stars-parser/`. Abhi
+  owns it and Agastya reviews it (`docs/parser-brief.md` §2).
+- `src/data/analyzePlan.ts` — the real degree-audit engine is Natalie's
+  (`catalogue_scraper/README.md` names her as its owner) and does not exist yet.
 
 Both ignore their arguments and return the same object every time. No
 requirement checking, prerequisite rules, offering-term rules, unit-load rules
 or report parsing live in this app, in the stubs or anywhere else.
 `test/stubs.test.ts` asserts that two materially different plans produce a
 deeply equal result, so this is machine-checked rather than a promise.
+
+What the stubs return is not invented either. `test/contracts.test.ts` reads
+`fixtures/stars/mock_stars_report.json` off disk and fails if the sample student
+drifts from the repo's shared fixture, and the result shape follows
+`docs/reference/03-degree-planner-architecture.md`: university and college
+verdicts are **reused** from the report and carry its prepared date, major and
+minor requirements are **computed**.
 
 Anything invented because nobody had specified it carries a one-line
 `GAP(stars|analysis|catalogue|other)` comment at the spot where the invention
@@ -95,12 +103,24 @@ internals, so swapping in a real implementation is an import change in
 ## Deploying
 
 The build is a plain static site. Nothing in it needs a server, so the same
-`dist/` works on either platform.
+`dist/` works on either platform, and both configs are committed so an import
+needs no fields typed in by hand.
 
-**Vercel** — Root directory `degree-planner`, framework preset **Vite**, build
-command `npm run build`, output directory `dist`, install command `npm install`.
-No environment variables.
+**Vercel** — set the project's **Root Directory** to `degree-planner` and
+import. [`vercel.json`](vercel.json) supplies the framework preset, the build
+and install commands, the output directory and the response headers. No
+environment variables.
 
-**Netlify** — Base directory `degree-planner`, build command `npm run build`,
-publish directory `degree-planner/dist`. No environment variables, and no
+**Netlify** — set the site's **Base directory** to `degree-planner` and deploy.
+[`netlify.toml`](netlify.toml) supplies the build command, the publish
+directory and the same headers. No environment variables, and no
 `@netlify/plugin-nextjs` — this is not a Next.js app and needs no adapter.
+
+Both configs send a `Content-Security-Policy` that allows scripts, styles,
+fonts, images and data from the app's own origin and nothing else, with
+`form-action 'none'` and `frame-ancestors 'none'`. That is the privacy rule
+above restated in a form the browser enforces rather than a promise in a
+README. `npm run check:privacy` reads both files and fails if either grows a
+`functions`, `edge_functions`, `plugins`, `crons` or build-environment block —
+the one way this app could gain a server half without a line of `src/`
+changing.

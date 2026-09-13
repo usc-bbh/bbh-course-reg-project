@@ -1,14 +1,15 @@
 import { describe, expect, it } from 'vitest';
 import { STORAGE_KEY, STORAGE_PREFIX, clearSaved, readSaved, writeSaved } from '../src/state/persistence';
-import { samplePlan, sampleSituation } from '../src/data/sampleStudent';
+import { samplePlan } from '../src/data/sampleStudent';
+import { sampleSituation } from './sample';
 
 describe('persistence', () => {
   it('round-trips the situation and the plan', () => {
-    writeSaved(sampleSituation, samplePlan);
+    writeSaved(sampleSituation(), samplePlan);
     const read = readSaved();
     expect(read.kind).toBe('loaded');
     if (read.kind !== 'loaded') return;
-    expect(read.situation).toEqual(sampleSituation);
+    expect(read.situation).toEqual(sampleSituation());
     expect(read.plan).toEqual(samplePlan);
   });
 
@@ -25,7 +26,7 @@ describe('persistence', () => {
   it('discards a copy written by an earlier version', () => {
     window.localStorage.setItem(
       STORAGE_KEY,
-      JSON.stringify({ schemaVersion: 0, situation: sampleSituation, plan: samplePlan }),
+      JSON.stringify({ schemaVersion: 0, situation: sampleSituation(), plan: samplePlan }),
     );
     const read = readSaved();
     expect(read.kind).toBe('discarded');
@@ -33,7 +34,7 @@ describe('persistence', () => {
   });
 
   it('clearing removes only this app’s keys', () => {
-    writeSaved(sampleSituation, samplePlan);
+    writeSaved(sampleSituation(), samplePlan);
     window.localStorage.setItem(`${STORAGE_PREFIX}scratch`, 'ours');
     window.localStorage.setItem('someoneElse.key', 'theirs');
 

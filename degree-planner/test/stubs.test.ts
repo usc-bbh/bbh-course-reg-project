@@ -3,7 +3,8 @@ import { analyzePlan } from '../src/data/analyzePlan';
 import { parseStarsReport } from '../src/data/parseStarsReport';
 import type { AnalysisInput, Plan, StudentSituation } from '../src/domain/types';
 import { buildTimeline } from '../src/domain/terms';
-import { emptyPlan, samplePlan, sampleSituation } from '../src/data/sampleStudent';
+import { emptyPlan, samplePlan } from '../src/data/sampleStudent';
+import { sampleSituation } from './sample';
 
 /**
  * Non-negotiable 3, made machine-checkable.
@@ -13,14 +14,14 @@ import { emptyPlan, samplePlan, sampleSituation } from '../src/data/sampleStuden
  */
 describe('the stubs stay dumb', () => {
   it('analyzePlan returns the same result for two materially different plans', async () => {
-    const denseSituation: StudentSituation = sampleSituation;
+    const denseSituation: StudentSituation = sampleSituation();
     const emptySituation: StudentSituation = {
-      ...sampleSituation,
+      ...sampleSituation(),
       studentName: 'Someone Else',
       major: 'Economics (BA)',
-      minors: [],
-      catalogueYear: '2026-2027',
-      classStanding: 'freshman',
+      minor: null,
+      catalogYear: '2026-2027',
+      classLevel: 'Freshman',
       entryTerm: { season: 'spring', year: 2030 },
       transferUnits: 64,
       completedCourses: [],
@@ -54,8 +55,8 @@ describe('the stubs stay dumb', () => {
 
   it('hands back a fresh object each time, so a caller cannot corrupt the fixture', async () => {
     const input: AnalysisInput = {
-      situation: sampleSituation,
-      terms: buildTimeline(sampleSituation, samplePlan),
+      situation: sampleSituation(),
+      terms: buildTimeline(sampleSituation(), samplePlan),
     };
     const first = await analyzePlan(input);
     const firstRequirement = first.requirements[0];

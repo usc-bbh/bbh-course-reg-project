@@ -1,288 +1,161 @@
 # Four-Year Degree Planner — UI notes
 
-_Written after the code, from the code. Where this document and
-`degree-planner/` disagree, the code is right and this document is wrong._
+_Francis Ruan, Module 2. Written after the code, from the code._
 
 The app lives in [`degree-planner/`](../degree-planner/). It is a browser-only
 static site: no backend, no analytics, no third-party scripts, and exactly one
-network request in the whole app — `src/data/catalogue.ts` fetching a public
-course list that ships with the build.
+module allowed to make a network request — `src/data/catalogue.ts`, fetching
+public course data that ships with the build.
+
+**This document holds only questions that are still open.** Anything already
+answered by a committed contract has been built against that contract instead
+of being written up here. The current inventory of inventions is
+`grep -rn "GAP(" degree-planner/src`; every entry below traces to one of those
+markers, and every marker is a line of code a reviewer can stand next to.
 
 ---
 
-## 1. What the page captures from the student
+## 1. What this app is built on, and where each piece comes from
 
-These are the facts, not the controls. How each one is collected — dropdown,
-text field, editable row — is an implementation detail and has already changed
-once.
+The planner owns no facts of its own. Each seam below names the file that
+defines it, so a change on either side shows up as a failing test rather than a
+quiet drift.
 
-| Fact | Notes |
-| --- | --- |
-| Name | Only so the printed plan says whose it is. Never leaves the device, and never appears in an exported filename. |
-| Major | One, chosen from the catalogue sample or typed if the list has not loaded. |
-| Minors | A list, not a single value. The sample student has one; the shape allows several. |
-| Catalogue year | `2024-2025`. Determines which requirements apply. |
-| Class standing | First / second / third / fourth year. |
-| Entry term | A season **and** a year. The season matters: it decides where the four year columns start. |
-| Transfer units | One total. Not mapped to specific courses. |
-| Completed coursework | Per course: code, title, units, **the term it was taken in**, and the grade. |
-| In-progress coursework | Same, minus the grade. Kept separate from completed work rather than inferred from a missing grade. |
-| The proposed plan | Per planned term: the courses in it. Terms carry a season, a year and a status. |
+| Seam | Owner | Contract | Where the planner reads it |
+| --- | --- | --- | --- |
+| The parsed report | Abhi (`stars-parser/`) | [`stars-parser/README.md`](../stars-parser/README.md) output block; signature `parseStarsReport(file, { onStatus, onProgress })`, resolving to `null` when it cannot read the file | `src/domain/types.ts` → `ParsedStarsReport`, `src/data/parseStarsReport.ts` |
+| The sample student | shared | [`fixtures/stars/mock_stars_report.json`](../fixtures/stars/mock_stars_report.json) | `src/data/sampleStudent.ts`, asserted field-for-field against the committed file in `test/contracts.test.ts` |
+| Which tier is reused and which is computed | Natalie (degree-audit engine) | [`docs/reference/03-degree-planner-architecture.md`](reference/03-degree-planner-architecture.md) | `Requirement.tier` + `Requirement.source`, `AnalysisResult.reusedFromReportDated` |
+| Block statuses `ok` / `no` / `ip` | shared | [`docs/reference/01-reading-a-stars-report.md`](reference/01-reading-a-stars-report.md) | `StarsBlockStatus`, `src/components/status.tsx` |
+| Per-course `source` (`usc` / `transfer_specific` / `transfer_generic`) | Abhi | [`docs/parser-brief.md`](parser-brief.md) §6–7 | `CreditSource`, shown on every history row |
+| Course titles, units, offering frequency | Agastya (`catalog/`) | [`catalog/README.md`](../catalog/README.md) course object + offering-frequency object | `src/data/catalogue/courses.json`, guarded in `src/data/catalogue.ts` |
+| The `stars_summary` slice | Tanzil (`validator/`) | [`validator/README.md`](../validator/README.md) — exactly five fields | `toStarsSummary()` in `src/domain/situation.ts` |
 
-Two of these are load-bearing in a way that is easy to miss:
+Three consequences of those contracts that are easy to get wrong, and that the
+tests now pin:
 
-- **The term on each completed course.** Without it the timeline cannot place
-  history, and the app would have to guess which terms to lock. It never guesses
-  — a term is locked because its `status` says so, never because of today's
-  date.
-- **The entry term's season.** A spring entrant's four academic years are not
-  the same four as a fall entrant's.
+- **`minor` is singular and nullable**, because that is what the parser emits.
+  Not a list.
+- **`classLevel` is USC's own vocabulary** — `Freshman` / `Sophomore` /
+  `Junior` / `Senior` — not a spelling of our own.
+- **The parser resolves with `null` on failure; it does not reject.** The UI
+  treats `null` as "prompt for manual entry" and a rejection as an unexpected
+  error, which are different screens.
 
-Everything the student enters is stored under the `plansc.degreePlanner.`
-prefix in `localStorage` and nowhere else. "Clear all data" removes keys with
-that prefix and leaves every other app on the origin alone.
+## 2. What `analyzePlan` hands back
 
----
-
-## 2. The fixed object `analyzePlan` returns
-
-Copied verbatim from
-[`degree-planner/src/data/analyzePlan.ts`](../degree-planner/src/data/analyzePlan.ts).
-This is the statement of what the real analysis layer has to hand back. Every
-`GAP(analysis)` comment in that file is a question for whoever builds it.
-
-```ts
-const REQUIREMENTS: Requirement[] = [
-  {
-    id: 'req-units-128',
-    name: '128-unit minimum',
-    category: 'University',
-    status: 'unsatisfied',
-    reason:
-      'This plan reaches 120 units counted toward the degree. USC requires 128, so 8 more are needed before Spring ' +
-      yearOf(TERM.spring4) +
-      '.',
-    satisfiedBy: [],
-    unitsCounted: 120,
-    unitsRequired: 128,
-  },
-  {
-    id: 'req-core-electives',
-    name: 'Core electives',
-    category: 'Major',
-    status: 'unsatisfied',
-    reason:
-      'Four 300- or 400-level CSCI courses are required, for at least 16 units. The plan has two: CSCI 402 and CSCI 420.',
-    satisfiedBy: [
-      { code: 'CSCI 402', termId: TERM.fall4 },
-      { code: 'CSCI 420', termId: TERM.spring4 },
-    ],
-    unitsCounted: 8,
-    unitsRequired: 16,
-  },
-  {
-    id: 'req-general-education',
-    name: 'General education',
-    category: 'University',
-    status: 'unsatisfied',
-    reason:
-      'Three general education categories are still open. The plan has one GE course, GESM 120g, and two more are needed.',
-    satisfiedBy: [{ code: 'GESM 120g', termId: TERM.spring3 }],
-    unitsCounted: 4,
-    unitsRequired: 20,
-  },
-  {
-    id: 'req-composition',
-    name: 'Composition and writing',
-    category: 'University',
-    status: 'in-progress',
-    satisfiedBy: [
-      { code: 'WRIT 150', termId: TERM.fall1 },
-      { code: 'WRIT 340', termId: TERM.fall3 },
-    ],
-    unitsCounted: 4,
-    unitsRequired: 8,
-  },
-  {
-    id: 'req-cs-core',
-    name: 'Computer science core',
-    category: 'Major',
-    status: 'in-progress',
-    satisfiedBy: [
-      { code: 'CSCI 102L', termId: TERM.fall1 },
-      { code: 'CSCI 103L', termId: TERM.fall1 },
-      { code: 'CSCI 104L', termId: TERM.spring1 },
-      { code: 'CSCI 170', termId: TERM.spring1 },
-      { code: 'CSCI 201', termId: TERM.fall2 },
-      { code: 'CSCI 270', termId: TERM.spring2 },
-      { code: 'CSCI 310', termId: TERM.spring2 },
-      { code: 'CSCI 350', termId: TERM.fall3 },
-      { code: 'CSCI 356', termId: TERM.fall3 },
-      { code: 'CSCI 353', termId: TERM.spring3 },
-      { code: 'CSCI 360', termId: TERM.spring3 },
-      { code: 'CSCI 401', termId: TERM.spring4 },
-    ],
-    unitsCounted: 38,
-    unitsRequired: 46,
-  },
-  {
-    id: 'req-mathematics',
-    name: 'Mathematics',
-    category: 'Pre-major',
-    status: 'satisfied',
-    satisfiedBy: [
-      { code: 'MATH 125g', termId: TERM.fall1 },
-      { code: 'MATH 126g', termId: TERM.spring1 },
-      { code: 'MATH 226g', termId: TERM.fall2 },
-      { code: 'MATH 225', termId: TERM.spring2 },
-    ],
-    unitsCounted: 16,
-    unitsRequired: 16,
-  },
-  {
-    id: 'req-sciences',
-    name: 'Life and physical sciences',
-    category: 'Pre-major',
-    status: 'satisfied',
-    satisfiedBy: [
-      { code: 'PHYS 151Lg', termId: TERM.spring1 },
-      { code: 'BISC 120Lg', termId: TERM.fall2 },
-    ],
-    unitsCounted: 8,
-    unitsRequired: 8,
-  },
-  {
-    id: 'req-statistics',
-    name: 'Statistics and probability',
-    category: 'Pre-major',
-    status: 'satisfied',
-    satisfiedBy: [{ code: 'EE 364', termId: TERM.spring2 }],
-    unitsCounted: 4,
-    unitsRequired: 4,
-  },
-];
-
-const WARNINGS: PlanWarning[] = [
-  {
-    id: 'warn-capstone-term',
-    severity: 'blocking',
-    message:
-      'CSCI 401 is offered in the fall only, and this plan places it in Spring ' +
-      yearOf(TERM.spring4) +
-      '. The capstone will not be available that term.',
-    course: { code: 'CSCI 401', termId: TERM.spring4 },
-    termId: TERM.spring4,
-  },
-  {
-    id: 'warn-seminar-late',
-    severity: 'warning',
-    message:
-      'GESM 120g is a first-year seminar. Taking it in your third year is allowed, but seats go to first-year students first.',
-    course: { code: 'GESM 120g', termId: TERM.spring3 },
-    termId: TERM.spring3,
-  },
-  {
-    id: 'warn-final-term-load',
-    severity: 'warning',
-    message:
-      'The last three terms each carry 12 units. At that pace the plan finishes 8 units short of the 128-unit minimum.',
-    termId: TERM.spring4,
-  },
-  {
-    id: 'warn-transfer-units',
-    severity: 'info',
-    message:
-      'Your 8 transfer units count toward the 128-unit minimum. They have not been matched to a specific requirement.',
-  },
-];
-
-const FIXED_RESULT: AnalysisResult = {
-  verdict: 'not-yet',
-  headline:
-    'This plan does not reach the degree yet: three requirements are unmet and one course is scheduled in a term it is not offered.',
-  unitsCounted: 120,
-  unitsRequired: 128,
-  // The plan echoed back, per the brief. The UI does not render this.
-  terms: buildTimeline(sampleSituation, samplePlan),
-  requirements: REQUIREMENTS,
-  warnings: WARNINGS,
-  isSample: true,
-};
-```
-
-The shapes these fill in are in
+The live contract is
+[`degree-planner/src/data/analyzePlan.ts`](../degree-planner/src/data/analyzePlan.ts)
+and the shapes are in
 [`degree-planner/src/domain/types.ts`](../degree-planner/src/domain/types.ts).
-Two choices in there are deliberate and worth keeping:
+It is deliberately not copied here: the last version of this document held a
+paste of that file and went stale within a day.
 
-- **`isSample` drives the sample badge.** The badge — *"Sample results. These do
-  not reflect your edits yet."* — is rendered from this field alone, on screen
-  and on the printed page. When the real layer lands and returns `false`, the
-  badge disappears with no change to any component.
-- **The timeline is drawn from the store, not from `result.terms`.** The result
-  echoes the plan back, per the brief, and the UI ignores it. Two sources of
-  truth for one plan is how a UI starts lying. Whether that echo should exist at
-  all is an open question below.
+The shape follows `docs/reference/03` rather than anything invented:
+
+- Every `Requirement` carries a **`tier`** (`university` / `college` / `major` /
+  `minor`) and a **`source`** (`stars` for a reused verdict, `computed` for one
+  worked out from catalogue requirements). The five `source: 'stars'` entries
+  are the five requirement blocks in the committed fixture, with their `OK` /
+  `NO` verdicts carried through unchanged; `test/fixtures.test.ts` fails if a
+  block is dropped or if a reused entry claims a tier the doc says we compute.
+- `Requirement.tally` uses **STARS' own tally vocabulary** from
+  `docs/reference/01` — `UNITS`, `SUB-GROUPS`, `COURSES`, `GPA` — rather than
+  assuming every requirement is counted in units. A GPA requirement is not.
+- `AnalysisResult.reusedFromReportDated` carries the report's prepared date.
+  Reuse means inheriting that date, and `docs/reference/03` says to "carry that
+  date through and surface it rather than presenting an old verdict as
+  current", so the verdict card prints it and the audit names it.
+- `isSample` drives the sample badge, on screen and on paper, and nothing else
+  does. When the real engine returns `false` the badge disappears with no change
+  to any component.
+
+`test/stubs.test.ts` asserts that two materially different plans produce a
+deeply equal result, so the stub cannot quietly grow degree logic.
+
+### The one thing the UI does with the report on its own
+
+`docs/reference/03` closes with the conditions that invalidate reusing a tier.
+Two of them are one text edit away in the review form — a change of major that
+may cross schools, and a change of catalog year, where "the reused verdict would
+be for the wrong year". So the situation keeps `reportBasis`: the major and
+catalog year the reused verdicts were read under, and the planner says so when
+the student edits away from them
+([`reportDrift.ts`](../degree-planner/src/features/situation/reportDrift.ts)).
+
+That comparison is two string equality checks. It decides nothing about any
+requirement, and it must not start to.
 
 ---
 
-## 3. What I needed and couldn't get
+## 3. Still open — Abhi (`stars-parser/`)
 
-Built from `grep -rn "GAP(" degree-planner/src`, grouped by who can answer it.
-Every item is something the UI actually hit while being built, not a
-speculative wish list.
+| # | Question | Why the planner cares | What it does meanwhile |
+| --- | --- | --- | --- |
+| P1 | **Course-code spacing.** The README's example shows `"BUAD304"`; the committed fixture shows `"CSCI 103"`; `validator/README.md` says codes are normalised to `"DEPT ###"` with one space "everywhere in this module"; `catalog/README.md` says `course_name` is "always `PREFIX NNN` format (space-separated)". Three of four say spaced. Can the parser settle on it? | Every join in this project is on a course code. A mismatch does not throw — it silently fails to match, and a student sees a requirement as unmet when it is met. | Normalises on the way in (`src/domain/uscTerms.ts`), which is a workaround, not a fix. |
+| P2 | **Course-code suffixes.** Does the parser keep USC's trailing `L` and `g` (`CSCI 103L`, `MATH 125g`)? The fixture has neither; the Schedule of Classes has `CSCI 102L`, `BISC 120L`. | Same failure as P1, but harder to spot, because most codes match and a handful do not. | Codes are used as given. |
+| P3 | **Per-course `source`.** `docs/parser-brief.md` §6 asks for `usc` / `transfer_specific` / `transfer_generic` on every row; the README's output block and the committed fixture do not have it yet. | §7's own words: treating generic credit as able to fill requirements "would understate how much a student has left to do". The planner marks the two kinds differently on every history row and cannot without this field. | The sample student carries two transfer rows with `source` set by hand. |
+| P4 | **Entry term.** `docs/reference/01` lists "term of USC entrance" among the report's pertinent data, but the parser's output has no field for it. | It decides where the year columns start. A spring entrant's four academic years are not a fall entrant's. | Reads an optional `entryTerm` if present, otherwise takes the earliest term on the report. |
+| P5 | **The report's prepared date.** Not in the output shape. | `docs/reference/03` requires surfacing it whenever a verdict is reused. The UI has the slot and prints it. | Hard-coded in `analyzePlan.ts` as `SAMPLE_REPORT_PREPARED`. |
+| P6 | **A stable id per requirement block.** `requirements[].label` is free text off the report. | Cross-highlighting, saved preferences and any "this one is my problem" affordance need identity that survives re-parsing. Two reports for the same student may word a block differently. | Ids assigned by hand in `analyzePlan.ts`. |
+| P7 | **Student name.** The output has no name field, and `fixtures/stars/` holds redacted reports. Is that permanent? | Only so a printed plan says whose it is. It is never exported in a filename and never leaves the device. | Blank after an upload; the *sample* student gets a made-up name. |
 
-### For the STARS parser — Abhi and Agastya
+## 4. Still open — Natalie (degree-audit engine)
 
-| What the UI needs | Why | What is faked meanwhile |
-| --- | --- | --- |
-| The **term** each completed course was taken in | It is the only way to lay history out on a timeline and lock it. Without it the app would have to infer the past from today's date, which it refuses to do. | Every fixture course carries a `termId` like `fall-2025`. |
-| In-progress coursework **as a separate list** from completed coursework | In-progress terms render locked but ungraded. "No grade" and "grade not parsed" are different facts and must not collapse into one. | Two arrays on the parsed situation. |
-| **Entry term** — season and year | It decides where the four year columns start. Nothing in the sample reports we have states it directly. | Hard-coded on the sample student; defaulted from a constant for manual entry. |
-| **Transfer units** as a single number | Shown in the situation summary and mentioned by the analysis result. | `8` on the sample student. |
-| **Minors as a list** | The UI supports several; every sample we have carries at most one, and `null` when there is none. | `['Mathematics']`. |
-| What happens when a completed course's term **cannot be read** | The timeline has nowhere to put it. | It is dropped from the timeline and still shown in the review form, so the student can correct it. This is a guess about what students expect. |
-| Whether a report ever implies a **proposed plan** | It does not, as far as we can tell — a report says what a student has done. So an upload lands on an empty four-year scaffold, and only the sample student arrives with a plan already in it. | Empty fall and spring terms for four years from the entry term. |
+| # | Question | Why the planner cares | What it does meanwhile |
+| --- | --- | --- | --- |
+| A1 | **Which tier does a reused block belong to?** The report states a verdict per block, not whether the block is a university, college, major or minor rule. | `docs/reference/03` splits the work by tier, so something has to make that call before the engine knows what to recompute. | Tagged by hand from the five fixture labels. |
+| A2 | **Category gaps.** `docs/reference/03` says these should "degrade gracefully — let the student nominate which planned course they believe satisfies it, and mark the result unverified". No field in the result carries a nomination. | It is a UI affordance the UI cannot build against nothing: it needs somewhere to send the nomination and somewhere to read back `unverified`. | Not built. Requirements are shown as outstanding with their stated gap. |
+| A3 | **`IP`.** It is not in the STARS legend; `docs/reference/01` records it as inferred and unconfirmed — "appears to mean satisfied only if in-progress courses are counted". | It is one of three statuses the panel renders, and the difference between "done" and "done if this term goes well" is the whole point of a planner. | Rendered as in-progress, on that reading. |
+| A4 | **Cross-school scope.** `docs/reference/03` says a cross-school what-if invalidates reuse and "should warn and route the student to an advisor". Nothing in the data says which school a major belongs to. | The planner already detects that the student edited their major away from the report; it cannot tell whether that crossed a school boundary, which is the part that matters. | Warns on any change of major, and says an advisor has to confirm it. |
+| A5 | **Are transfer units inside the headline unit count?** | It is the one progress number on screen, and this app is not allowed to work it out itself. | Shown as the engine returns it: `120 of 128`. |
 
-### For the analysis layer
+## 5. Still open — Agastya (`catalog/`)
 
-| What the UI needs | Why | What is faked meanwhile |
-| --- | --- | --- |
-| Every warning carries a **course code and a term id** | Without them the timeline cannot highlight what a warning is about, and the warning is just a sentence. | Four fixed warnings, three of which carry references. |
-| Every unsatisfied requirement carries a **student-readable `reason`** | "Unsatisfied" alone gives a student nothing to act on. The reason is the most-read text in the panel. | A written sentence per unmet requirement. |
-| A fixed **`category` vocabulary** for requirements | The panel groups by it, and inconsistent categories would make the grouping nonsense. | We invented `University` / `Pre-major` / `Major` / `Minor`. The real layer should own this list. |
-| `satisfiedBy` referencing courses **by code and term** | The same course code can legitimately appear in two terms of a draft plan, and highlighting the wrong one is worse than highlighting neither. | `{ code, termId }` pairs throughout. |
-| Whether **transfer units are inside `unitsCounted`** | It is the one progress figure a student sees, and the app is not allowed to work the number out itself. | `120 of 128`, with a note warning that transfer units are not matched to a requirement. |
-| `isSample` **set to `false`** by the real implementation | It is the only thing driving the sample badge. | `true`. |
-| Whether the echoed **`terms`** array is authoritative | If the real layer may reorder or annotate the plan it was given, the UI needs to know. If it may not, we would rather drop the field than keep two sources of truth. | The field exists, is populated, and is ignored. |
+| # | Question | Why the planner cares | What it does meanwhile |
+| --- | --- | --- | --- |
+| C1 | **A searchable index.** `catalog/README.md` plans per-course-per-term hosting for V1 (`/catalog/20263/CSCI-104.json`) so React fetches only the courses a student picked. The planner's course picker is a search box: it needs a list *before* the student has picked anything. | Without an index the picker can only offer courses it already knows, which is the sample file it ships with. | A hand-made ~40-course file in the documented v6 shape, fetched in one request. |
+| C2 | **Terms outside the scrape window.** The scrape covers Spring 2024 – Fall 2026. The sample student's history starts Fall 2022 and their plan ends Spring 2027; a four-year plan made today runs past the window by construction. | `offering_frequency` is the source for "CSCI 401 has only ever run in fall terms". For a term outside the window there is no answer, and "no data" must not read as "not offered". | The frequency labels in the sample file are invented, and the UI renders the warning without checking it. |
+| C3 | **v5/v6 data.** The v6 scrape "has not yet completed a full successful run"; v5 is missing ~30 departments and is not committed. Running it needs USC VPN. | A picker that silently lacks FBE or GERO looks broken to the student in those departments, not incomplete. | Sample data only. Swapping in the real file is a URL change in `src/data/catalogue.ts` and nothing else. |
 
-### For catalogue data
+## 6. Still open — mine (`catalogue_scraper/`, Module 2)
 
-| What the UI needs | Why | What is faked meanwhile |
-| --- | --- | --- |
-| A real source of **course titles and unit counts** | The picker can only offer what it knows about. | About forty USC courses typed by hand into `src/data/catalogue/courses.json`. |
-| **Which terms a course is offered in** | The analysis layer already warns about a course placed in a term it is not offered. The two need to agree on where that fact comes from. | Nothing. The UI renders the warning and does not check it. |
-| The lists of **majors, minors and catalogue years** a student can pick from | They are the first three fields of the review form. | Invented lists in the same JSON file. |
+Not a question for anyone else; recorded here because the planner depends on it.
 
-### Other
+- **Programme lists.** The degree, major, minor and catalog-year dropdowns have
+  no source. `catalogue_scraper/` has 470 programme files for **2026-2027 only**,
+  so a student on the fixture's own `2023-2024` catalog year has nothing to pick
+  from. The lists in `src/data/catalogue/courses.json` are invented.
+- **The requirements corpus** behind `source: 'computed'` requirements is the
+  same scrape. Until Natalie's engine consumes it, the computed half of the
+  audit is three hand-written entries.
 
-| What the UI needs | Why | What is faked meanwhile |
-| --- | --- | --- |
-| What a **manual-entry** student should see before typing anything | Every field needs a starting value, and a wrong default is worse than an empty one. | Entry term seeded from `PLAN_BASE_YEAR` and catalogue year from the sample. Both editable, both guesses. |
-| The **official USC lockup artwork** | The header carries the university mark, and the app may not fetch it from another origin. | The shield and torch are drawn as inline SVG from the lockup on USC's registration pages. Someone with brand-portal access should drop the real file in and replace `<UscShield>`. |
+## 7. Still open — Tanzil (`validator/`)
+
+One seam, no dependency. The planner does not call the validator and should not:
+"can I register for these classes next term" is a different tool.
+`toStarsSummary()` produces the exact five fields `validator/README.md`
+documents so the same student can be handed across without a translation step.
+
+- **GPA.** The slice requires `gpa`, and the planner keeps no GPA because
+  nothing on screen uses one. If that slice is ever built from a planner
+  situation rather than from a report, the GPA has to be carried for you. Today
+  it should come from the report.
 
 ---
 
 ## The five to raise first
 
-1. **Abhi and Agastya:** does the parser emit the term for every completed
-   course, and in-progress work as its own list? Everything else here is
-   cosmetic next to these two.
-2. **Abhi and Agastya:** does a STARS report state the entry term, or does the
-   student have to tell us?
-3. **Analysis layer:** warnings and requirements need course-plus-term
-   references, or the cross-highlighting that makes the audit useful cannot
-   exist.
-4. **Analysis layer:** is `unitsCounted` inclusive of transfer units, and does
-   the echoed `terms` array mean anything?
-5. **Catalogue:** where do offered terms come from? It is the fact behind the
-   only blocking warning we currently show.
+1. **Abhi — P1/P2, course codes.** Everything joins on them, and a mismatch is
+   silent. One decision unblocks three modules.
+2. **Abhi — P3, per-course `source`.** Already specified in the brief; without
+   it the planner cannot tell credit that fills a requirement from credit that
+   only adds units.
+3. **Agastya — C1, a searchable index.** Per-course-per-term files serve the
+   validator's shape well and leave the planner's picker with nothing to search.
+   Worth settling before V1 hosting is built rather than after.
+4. **Natalie — A1, tiering of reused blocks.** `docs/reference/03` is the design
+   the planner is built to; the one thing it does not say is who assigns a tier.
+5. **Natalie — A2, category-gap nominations.** The graceful degradation the doc
+   asks for is a UI feature with no field to put it in. It is cheap to add to
+   the result shape now and expensive to retrofit.

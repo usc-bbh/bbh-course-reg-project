@@ -23,7 +23,7 @@ export function buildExport(
   now: Date,
 ): PlanExportFile {
   return {
-    schemaVersion: 1,
+    schemaVersion: 2,
     kind: 'plansc.degree-planner.export',
     exportedOn: isoDate(now),
     situation,

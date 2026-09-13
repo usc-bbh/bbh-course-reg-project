@@ -45,33 +45,35 @@ test.describe('the built planner', () => {
 
     await expect(page.getByRole('heading', { name: /four-year plan/i })).toBeVisible();
     await expect(page.locator('[data-term-id="fall-2024"]').getByText('Completed')).toBeVisible();
-    await expect(page.locator('[data-term-id="spring-2027"]').getByText('CSCI 353')).toBeVisible();
+    await expect(page.locator('[data-term-id="fall-2025"]').getByText('CSCI 353')).toBeVisible();
 
     // Move a course with the menu, which is the keyboard and touch path.
     await page.getByRole('button', { name: 'Move or remove CSCI 353' }).click();
-    await page.getByRole('menuitem', { name: 'Move to Fall 2027' }).click();
-    await expect(page.locator('[data-term-id="fall-2027"]').getByText('CSCI 353')).toBeVisible();
+    await page.getByRole('menuitem', { name: 'Move to Fall 2026' }).click();
+    await expect(page.locator('[data-term-id="fall-2026"]').getByText('CSCI 353')).toBeVisible();
 
     const audit = page.getByRole('complementary', { name: /your plan, checked/i });
     await expect(audit.getByText('Not yet')).toBeVisible();
-    await expect(audit.getByText('Core electives')).toBeVisible();
-    await expect(audit.getByText(/Four 300- or 400-level CSCI courses are required/i)).toBeVisible();
-    await expect(audit.getByText(/CSCI 401 is offered in the fall only/i)).toBeVisible();
+    // A block read off the report, with STARS' own verdict and its date.
+    await expect(audit.getByRole('button', { name: /^128-Unit Minimum/ })).toBeVisible();
+    await expect(audit.getByText(/8 more are needed before May 2027/i)).toBeVisible();
+    await expect(audit.getByText(/CSCI 401 has only ever run in fall terms/i)).toBeVisible();
+    await expect(audit).toContainText(/read from your STARS report of 14 February 2025/i);
 
     // Cross-highlighting.
-    await audit.getByRole('button', { name: /core electives/i }).click();
-    await expect(page.locator('[data-course-key="fall-2027::CSCI 402"]')).toHaveClass(
+    await audit.getByRole('button', { name: /computer science core/i }).click();
+    await expect(page.locator('[data-course-key="fall-2025::CSCI 310"]')).toHaveClass(
       /is-highlighted/,
     );
     await page.keyboard.press('Escape');
-    await expect(page.locator('[data-course-key="fall-2027::CSCI 402"]')).not.toHaveClass(
+    await expect(page.locator('[data-course-key="fall-2025::CSCI 310"]')).not.toHaveClass(
       /is-highlighted/,
     );
 
     // The plan survives a real reload.
     await expect(page.getByTestId('save-status')).toHaveText('Saved on this device.');
     await page.reload();
-    await expect(page.locator('[data-term-id="fall-2027"]').getByText('CSCI 353')).toBeVisible();
+    await expect(page.locator('[data-term-id="fall-2026"]').getByText('CSCI 353')).toBeVisible();
 
     // Clear all data returns the empty state.
     await page.getByRole('button', { name: /more plan actions/i }).click();
@@ -107,27 +109,28 @@ test.describe('the built planner', () => {
     await page.keyboard.press('Enter');
     const combobox = page.getByRole('combobox', { name: /search for a course to add to spring 2027/i });
     await expect(combobox).toBeFocused();
-    await page.keyboard.type('485');
+    // CSCI 435 is in the sample catalogue and in no term of the sample plan.
+    await page.keyboard.type('435');
     await page.keyboard.press('Enter');
     await page.keyboard.press('Escape');
     await expect(page.getByRole('button', { name: 'Add a course to Spring 2027' })).toBeFocused();
-    await expect(page.locator('[data-term-id="spring-2027"]').getByText('CSCI 485')).toBeVisible();
+    await expect(page.locator('[data-term-id="spring-2027"]').getByText('CSCI 435')).toBeVisible();
 
     // Remove it, and undo from where focus lands.
-    await page.getByRole('button', { name: 'Move or remove CSCI 485' }).focus();
+    await page.getByRole('button', { name: 'Move or remove CSCI 435' }).focus();
     await page.keyboard.press('Enter');
     await page.getByRole('menuitem', { name: 'Remove from plan' }).click();
     await expect(page.getByRole('button', { name: /undo/i })).toBeFocused();
     await page.keyboard.press('Enter');
-    await expect(page.locator('[data-term-id="spring-2027"]').getByText('CSCI 485')).toBeVisible();
+    await expect(page.locator('[data-term-id="spring-2027"]').getByText('CSCI 435')).toBeVisible();
 
     expect(noise, `console was not clean: ${noise.join(' | ')}`).toEqual([]);
   });
 });
 
 test.describe('the parts only a browser can check', () => {
-  // Dragging between year columns needs all four columns on screen, which is
-  // the 1440x900 layout the design targets.
+  // Dragging needs the year columns laid out side by side, which is the
+  // 1440-wide layout the design targets rather than the stacked phone one.
   test.use({ viewport: { width: 1440, height: 1000 } });
 
   test('moves a course by dragging it into another term', async ({ page }) => {
@@ -136,9 +139,9 @@ test.describe('the parts only a browser can check', () => {
     await page.getByRole('button', { name: /continue to my plan/i }).click();
     await page.getByRole('heading', { name: /four-year plan/i }).waitFor();
 
-    const row = page.locator('[data-course-key="spring-2027::CSCI 360"]');
+    const row = page.locator('[data-course-key="fall-2025::CSCI 310"]');
     const handle = row.locator('[data-drag-handle]');
-    const target = page.locator('[data-term-id="fall-2027"]');
+    const target = page.locator('[data-term-id="spring-2026"]');
 
     await row.scrollIntoViewIfNeeded();
     const from = await handle.boundingBox();
@@ -151,8 +154,8 @@ test.describe('the parts only a browser can check', () => {
     await page.mouse.move(to.x + to.width / 2, to.y + 40, { steps: 12 });
     await page.mouse.up();
 
-    await expect(page.locator('[data-term-id="fall-2027"]').getByText('CSCI 360')).toBeVisible();
-    await expect(page.locator('[data-term-id="spring-2027"]').getByText('CSCI 360')).toHaveCount(0);
+    await expect(page.locator('[data-term-id="spring-2026"]').getByText('CSCI 310')).toBeVisible();
+    await expect(page.locator('[data-term-id="fall-2025"]').getByText('CSCI 310')).toHaveCount(0);
   });
 
   test('refuses to drop a course into a locked term', async ({ page }) => {
@@ -161,7 +164,7 @@ test.describe('the parts only a browser can check', () => {
     await page.getByRole('button', { name: /continue to my plan/i }).click();
     await page.getByRole('heading', { name: /four-year plan/i }).waitFor();
 
-    const row = page.locator('[data-course-key="spring-2027::CSCI 353"]');
+    const row = page.locator('[data-course-key="fall-2025::CSCI 353"]');
     const handle = row.locator('[data-drag-handle]');
     const locked = page.locator('[data-term-id="fall-2024"]');
 
@@ -175,7 +178,7 @@ test.describe('the parts only a browser can check', () => {
     await page.mouse.move(to.x + to.width / 2, to.y + 60, { steps: 12 });
     await page.mouse.up();
 
-    await expect(page.locator('[data-term-id="spring-2027"]').getByText('CSCI 353')).toBeVisible();
+    await expect(page.locator('[data-term-id="fall-2025"]').getByText('CSCI 353')).toBeVisible();
     await expect(page.locator('[data-term-id="fall-2024"]').getByText('CSCI 353')).toHaveCount(0);
   });
 
@@ -211,7 +214,7 @@ test.describe('the parts only a browser can check', () => {
     // Change the plan, then import the file back over it.
     await page.getByRole('button', { name: 'Move or remove CSCI 420' }).click();
     await page.getByRole('menuitem', { name: 'Remove from plan' }).click();
-    await expect(page.locator('[data-term-id="spring-2028"]').getByText('CSCI 420')).toHaveCount(0);
+    await expect(page.locator('[data-term-id="fall-2026"]').getByText('CSCI 420')).toHaveCount(0);
 
     await page.getByRole('button', { name: /more plan actions/i }).click();
     await page.getByRole('menuitem', { name: /import plan/i }).click();
@@ -220,6 +223,6 @@ test.describe('the parts only a browser can check', () => {
     const dialog = page.getByRole('dialog', { name: /import plan/i });
     await dialog.getByRole('button', { name: /import plan/i }).click();
 
-    await expect(page.locator('[data-term-id="spring-2028"]').getByText('CSCI 420')).toBeVisible();
+    await expect(page.locator('[data-term-id="fall-2026"]').getByText('CSCI 420')).toBeVisible();
   });
 });

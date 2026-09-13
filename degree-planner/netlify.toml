@@ -1,0 +1,27 @@
+# Netlify deploy config for the degree planner.
+#
+# Set the site's base directory to `degree-planner` in the Netlify UI; this file
+# is then read from inside it and every path below is relative to it.
+#
+# There is deliberately no [functions], no [[edge_functions]] and no [[plugins]]
+# block. This app has no server half and never should — `npm run check:privacy`
+# fails if one of those blocks appears here, so the guardrail covers the deploy
+# config and not just the source.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# The Content-Security-Policy is the privacy promise stated in a form a browser
+# enforces: the page may load scripts, styles, fonts and data from its own
+# origin and nowhere else, and it may not submit a form anywhere at all.
+[[headers]]
+  for = "/*"
+
+  [headers.values]
+    Content-Security-Policy = "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; form-action 'none'; frame-ancestors 'none'; base-uri 'none'; object-src 'none'"
+    Referrer-Policy = "no-referrer"
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Permissions-Policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), microphone=(), payment=(), usb=()"
+    Cross-Origin-Opener-Policy = "same-origin"

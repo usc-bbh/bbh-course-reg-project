@@ -1,21 +1,16 @@
 import { useMemo, useState } from 'react';
-import type { ClassStanding, Season, StudentSituation } from '../../domain/types';
+import type { ParsedStarsReport, Season, StudentSituation } from '../../domain/types';
 import { SEASONS, seasonLabel } from '../../domain/terms';
 import { useCatalogue } from '../../data/useCatalogue';
-import { Button, IconButton } from '../../components/Button';
+import { Button } from '../../components/Button';
 import { CONTROL, Field, Select, TextInput } from '../../components/Field';
 import { NumberInput } from '../../components/NumberInput';
 import { TRANSFER_UNITS_MAX, YEAR_MAX, YEAR_MIN } from '../../domain/limits';
-import { CloseIcon, PlusIcon } from '../../components/icons';
 import { CourseRowsEditor } from './CourseRowsEditor';
 
-const STANDINGS: ClassStanding[] = ['freshman', 'sophomore', 'junior', 'senior'];
-const STANDING_LABEL: Record<ClassStanding, string> = {
-  freshman: 'First year',
-  sophomore: 'Second year',
-  junior: 'Third year',
-  senior: 'Fourth year or beyond',
-};
+/** USC's own vocabulary, as the parser and the validator both use it. */
+type ClassLevel = ParsedStarsReport['classLevel'];
+const CLASS_LEVELS: ClassLevel[] = ['Freshman', 'Sophomore', 'Junior', 'Senior'];
 
 export interface SituationReviewProps {
   situation: StudentSituation;
@@ -35,16 +30,15 @@ export interface SituationReviewProps {
 export function SituationReview({ situation, mode, onSave, onCancel }: SituationReviewProps) {
   const [draft, setDraft] = useState<StudentSituation>(situation);
   const { state: catalogueState, retry } = useCatalogue();
-  const [minorToAdd, setMinorToAdd] = useState('');
 
   const catalogue = catalogueState.status === 'ready' ? catalogueState.catalogue : null;
 
   const majorOptions = useMemo(() => withCurrent(catalogue?.majors, draft.major), [catalogue, draft.major]);
   const yearOptions = useMemo(
-    () => withCurrent(catalogue?.catalogueYears, draft.catalogueYear),
-    [catalogue, draft.catalogueYear],
+    () => withCurrent(catalogue?.catalogYears, draft.catalogYear),
+    [catalogue, draft.catalogYear],
   );
-  const minorOptions = (catalogue?.minors ?? []).filter((minor) => !draft.minors.includes(minor));
+  const minorOptions = catalogue?.minors ?? [];
 
   const patch = (changes: Partial<StudentSituation>) => setDraft((current) => ({ ...current, ...changes }));
 
@@ -122,8 +116,8 @@ export function SituationReview({ situation, mode, onSave, onCancel }: Situation
               <Select
                 id={id}
                 aria-describedby={describedBy}
-                value={draft.catalogueYear}
-                onChange={(event) => patch({ catalogueYear: event.target.value })}
+                value={draft.catalogYear}
+                onChange={(event) => patch({ catalogYear: event.target.value })}
               >
                 {yearOptions.map((year) => (
                   <option key={year} value={year}>
@@ -135,23 +129,23 @@ export function SituationReview({ situation, mode, onSave, onCancel }: Situation
               <TextInput
                 id={id}
                 aria-describedby={describedBy}
-                value={draft.catalogueYear}
-                onChange={(event) => patch({ catalogueYear: event.target.value })}
+                value={draft.catalogYear}
+                onChange={(event) => patch({ catalogYear: event.target.value })}
               />
             )
           }
         </Field>
 
-        <Field label="Class standing">
+        <Field label="Class level">
           {({ id }) => (
             <Select
               id={id}
-              value={draft.classStanding}
-              onChange={(event) => patch({ classStanding: event.target.value as ClassStanding })}
+              value={draft.classLevel}
+              onChange={(event) => patch({ classLevel: event.target.value as ClassLevel })}
             >
-              {STANDINGS.map((standing) => (
-                <option key={standing} value={standing}>
-                  {STANDING_LABEL[standing]}
+              {CLASS_LEVELS.map((level) => (
+                <option key={level} value={level}>
+                  {level}
                 </option>
               ))}
             </Select>
@@ -206,69 +200,47 @@ export function SituationReview({ situation, mode, onSave, onCancel }: Situation
         </Field>
       </section>
 
-      <section className="mt-10">
-        <h2 className="text-body font-semibold text-ink">Minors</h2>
-        {draft.minors.length > 0 ? (
-          <ul className="mt-2 flex flex-wrap gap-2">
-            {draft.minors.map((minor) => (
-              <li
-                key={minor}
-                className="inline-flex items-center gap-1 rounded-pill border border-line bg-surface py-1 pr-1 pl-3 text-small text-ink"
+      <section className="mt-10 grid gap-5 sm:grid-cols-2">
+        <Field
+          label="Minor"
+          hint="One, or none. Your report records a single minor."
+        >
+          {({ id, describedBy }) =>
+            minorOptions.length > 0 ? (
+              <Select
+                id={id}
+                aria-describedby={describedBy}
+                value={draft.minor ?? ''}
+                onChange={(event) => patch({ minor: event.target.value || null })}
               >
-                {minor}
-                <IconButton
-                  label={`Remove the ${minor} minor`}
-                  size="sm"
-                  onClick={() => patch({ minors: draft.minors.filter((entry) => entry !== minor) })}
-                >
-                  <CloseIcon size={13} />
-                </IconButton>
-              </li>
-            ))}
-          </ul>
-        ) : (
-          <p className="mt-2 text-small text-ink-4">None declared.</p>
-        )}
+                <option value="">No minor</option>
+                {withCurrent(minorOptions, draft.minor ?? '').map((minor) => (
+                  <option key={minor} value={minor}>
+                    {minor}
+                  </option>
+                ))}
+              </Select>
+            ) : (
+              <TextInput
+                id={id}
+                aria-describedby={describedBy}
+                value={draft.minor ?? ''}
+                onChange={(event) => patch({ minor: event.target.value || null })}
+              />
+            )
+          }
+        </Field>
 
-        <div className="mt-3 flex flex-wrap items-end gap-2">
-          <Field label="Add a minor" className="min-w-56 flex-1">
-            {({ id }) =>
-              minorOptions.length > 0 ? (
-                <Select
-                  id={id}
-                  value={minorToAdd}
-                  onChange={(event) => setMinorToAdd(event.target.value)}
-                >
-                  <option value="">Choose a minor</option>
-                  {minorOptions.map((minor) => (
-                    <option key={minor} value={minor}>
-                      {minor}
-                    </option>
-                  ))}
-                </Select>
-              ) : (
-                <TextInput
-                  id={id}
-                  value={minorToAdd}
-                  onChange={(event) => setMinorToAdd(event.target.value)}
-                />
-              )
-            }
-          </Field>
-          <Button
-            className="mb-0.5"
-            disabled={!minorToAdd.trim()}
-            onClick={() => {
-              const minor = minorToAdd.trim();
-              if (!minor || draft.minors.includes(minor)) return;
-              patch({ minors: [...draft.minors, minor] });
-              setMinorToAdd('');
-            }}
-          >
-            <PlusIcon />
-            Add minor
-          </Button>
-        </div>
+        <Field label="Concentration" hint="Leave blank if your major has none.">
+          {({ id, describedBy }) => (
+            <TextInput
+              id={id}
+              aria-describedby={describedBy}
+              value={draft.concentration ?? ''}
+              onChange={(event) => patch({ concentration: event.target.value || null })}
+            />
+          )}
+        </Field>
       </section>
 
       <div className="mt-10 flex flex-col gap-10">

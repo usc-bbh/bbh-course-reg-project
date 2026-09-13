@@ -36,7 +36,7 @@ export interface PlannerState {
 export const initialState: PlannerState = {
   hydrated: false,
   situation: null,
-  plan: { schemaVersion: 1, terms: [] },
+  plan: { schemaVersion: 2, terms: [] },
   selection: null,
   notice: null,
   undoable: null,

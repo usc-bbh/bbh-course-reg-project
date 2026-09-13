@@ -1,11 +1,15 @@
 import type {
-  ClassStanding,
+  CreditSource,
+  ReportBasis,
+  ParsedStarsReport,
   Plan,
   PlanCourse,
   PlanExportFile,
   PlanTerm,
   Season,
   SituationSource,
+  StarsBlockStatus,
+  StarsRequirementBlock,
   StudentSituation,
   TakenCourse,
   TermStatus,
@@ -24,8 +28,18 @@ export type Checked<T> = { ok: true; value: T } | { ok: false; problem: string }
 
 const SEASONS: Season[] = ['fall', 'spring', 'summer'];
 const TERM_STATUSES: TermStatus[] = ['completed', 'in-progress', 'planned'];
-const STANDINGS: ClassStanding[] = ['freshman', 'sophomore', 'junior', 'senior'];
+const CLASS_LEVELS: ParsedStarsReport['classLevel'][] = [
+  'Freshman',
+  'Sophomore',
+  'Junior',
+  'Senior',
+];
 const SOURCES: SituationSource[] = ['stars', 'manual', 'sample'];
+const CREDIT_SOURCES: CreditSource[] = ['usc', 'transfer_specific', 'transfer_generic'];
+const BLOCK_STATUSES: StarsBlockStatus[] = ['ok', 'no', 'ip'];
+
+/** Bumped when a stored shape changes in a way older data cannot satisfy. */
+export const SCHEMA_VERSION = 2;
 
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === 'object' && value !== null && !Array.isArray(value);
@@ -47,6 +61,10 @@ function checkTakenCourse(value: unknown): TakenCourse | null {
     title: value.title,
     units: value.units,
     termId: value.termId,
+    source:
+      str(value.source) && CREDIT_SOURCES.includes(value.source as CreditSource)
+        ? (value.source as CreditSource)
+        : 'usc',
   };
   if (str(value.grade) && value.grade.length > 0) course.grade = value.grade;
   return course;
@@ -62,6 +80,9 @@ function checkPlanCourse(value: unknown): PlanCourse | null {
     units: value.units,
   };
   if (str(value.grade) && value.grade.length > 0) course.grade = value.grade;
+  if (str(value.source) && CREDIT_SOURCES.includes(value.source as CreditSource)) {
+    course.source = value.source as CreditSource;
+  }
   return course;
 }
 
@@ -86,16 +107,30 @@ function checkPlanTerm(value: unknown): PlanTerm | null {
   };
 }
 
+function checkStarsRequirements(value: unknown): StarsRequirementBlock[] {
+  if (!Array.isArray(value)) return [];
+  const blocks: StarsRequirementBlock[] = [];
+  for (const raw of value) {
+    if (!isRecord(raw) || !str(raw.label)) continue;
+    if (!str(raw.status) || !BLOCK_STATUSES.includes(raw.status as StarsBlockStatus)) continue;
+    blocks.push({ label: raw.label, status: raw.status as StarsBlockStatus });
+  }
+  return blocks;
+}
+
+function checkReportBasis(value: unknown): ReportBasis | null {
+  if (!isRecord(value)) return null;
+  if (!str(value.major) || !str(value.catalogYear)) return null;
+  return { major: value.major, catalogYear: value.catalogYear };
+}
+
 export function checkSituation(value: unknown): Checked<StudentSituation> {
   if (!isRecord(value)) return { ok: false, problem: 'the situation is missing' };
-  if (!str(value.studentName) || !str(value.major) || !str(value.catalogueYear)) {
+  if (!str(value.studentName) || !str(value.major) || !str(value.catalogYear)) {
     return { ok: false, problem: 'the situation is missing a name, major or catalogue year' };
   }
-  if (!Array.isArray(value.minors) || !value.minors.every(str)) {
-    return { ok: false, problem: 'the list of minors is not readable' };
-  }
-  if (!str(value.classStanding) || !STANDINGS.includes(value.classStanding as ClassStanding)) {
-    return { ok: false, problem: 'the class standing is not one we recognise' };
+  if (!str(value.classLevel) || !CLASS_LEVELS.includes(value.classLevel as 'Junior')) {
+    return { ok: false, problem: 'the class level is not one USC uses' };
   }
   if (
     !isRecord(value.entryTerm) ||
@@ -132,10 +167,12 @@ export function checkSituation(value: unknown): Checked<StudentSituation> {
     ok: true,
     value: {
       studentName: value.studentName,
+      degree: str(value.degree) ? value.degree : '',
       major: value.major,
-      minors: value.minors,
-      catalogueYear: value.catalogueYear,
-      classStanding: value.classStanding as ClassStanding,
+      concentration: str(value.concentration) ? value.concentration : null,
+      minor: str(value.minor) && value.minor.length > 0 ? value.minor : null,
+      catalogYear: value.catalogYear,
+      classLevel: value.classLevel as ParsedStarsReport['classLevel'],
       entryTerm: {
         season: value.entryTerm.season as Season,
         year: value.entryTerm.year,
@@ -143,6 +180,8 @@ export function checkSituation(value: unknown): Checked<StudentSituation> {
       transferUnits: value.transferUnits,
       completedCourses,
       inProgressCourses,
+      starsRequirements: checkStarsRequirements(value.starsRequirements),
+      reportBasis: checkReportBasis(value.reportBasis),
       source,
     },
   };
@@ -150,7 +189,7 @@ export function checkSituation(value: unknown): Checked<StudentSituation> {
 
 export function checkPlan(value: unknown): Checked<Plan> {
   if (!isRecord(value)) return { ok: false, problem: 'the plan is missing' };
-  if (value.schemaVersion !== 1) {
+  if (value.schemaVersion !== SCHEMA_VERSION) {
     return { ok: false, problem: 'the plan was written by a different version of this planner' };
   }
   if (!Array.isArray(value.terms)) return { ok: false, problem: 'the plan has no terms' };
@@ -160,7 +199,7 @@ export function checkPlan(value: unknown): Checked<Plan> {
     if (!term) return { ok: false, problem: 'one of the terms in the plan is unreadable' };
     terms.push(term);
   }
-  return { ok: true, value: { schemaVersion: 1, terms } };
+  return { ok: true, value: { schemaVersion: SCHEMA_VERSION, terms } };
 }
 
 /** Validates a file the student picked with "Import plan". */
@@ -171,7 +210,7 @@ export function checkExportFile(value: unknown): Checked<PlanExportFile> {
   if (value.kind !== 'plansc.degree-planner.export') {
     return { ok: false, problem: 'this file was not exported by the degree planner' };
   }
-  if (value.schemaVersion !== 1) {
+  if (value.schemaVersion !== SCHEMA_VERSION) {
     return { ok: false, problem: 'this file was written by a different version of the planner' };
   }
   const situation = checkSituation(value.situation);
@@ -181,7 +220,7 @@ export function checkExportFile(value: unknown): Checked<PlanExportFile> {
   return {
     ok: true,
     value: {
-      schemaVersion: 1,
+      schemaVersion: SCHEMA_VERSION,
       kind: 'plansc.degree-planner.export',
       exportedOn: str(value.exportedOn) ? value.exportedOn : '',
       situation: situation.value,

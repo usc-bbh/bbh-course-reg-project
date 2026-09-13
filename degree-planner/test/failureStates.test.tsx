@@ -42,7 +42,7 @@ describe('failure states', () => {
     // The page is not blank: the plan is still there and still editable.
     expect(await screen.findByRole('heading', { name: /four-year plan/i })).toBeInTheDocument();
     expect(document.querySelector('[data-term-id="spring-2027"]')).not.toBeNull();
-    expect(screen.getByRole('button', { name: 'Move or remove CSCI 353' })).toBeInTheDocument();
+    expect(screen.getByRole('button', { name: 'Move or remove CSCI 485' })).toBeInTheDocument();
 
     const audit = screen.getByRole('complementary', { name: /your plan, checked/i });
     expect(within(audit).getByText(/we could not check this plan/i)).toBeInTheDocument();
@@ -74,9 +74,8 @@ describe('failure states', () => {
     analyze.mockResolvedValue({
       verdict: 'unknown',
       headline: 'Nothing to check yet.',
-      unitsCounted: 0,
-      unitsRequired: 128,
-      terms: [],
+      units: { counted: 0, required: 128, unit: 'UNITS' },
+      reusedFromReportDated: null,
       requirements: [],
       warnings: [],
       isSample: true,
@@ -98,9 +97,8 @@ describe('failure states', () => {
     analyze.mockResolvedValue({
       verdict: 'unknown',
       headline: 'Nothing to check yet.',
-      unitsCounted: 0,
-      unitsRequired: 128,
-      terms: [],
+      units: { counted: 0, required: 128, unit: 'UNITS' },
+      reusedFromReportDated: null,
       requirements: [],
       warnings: [],
       isSample: true,

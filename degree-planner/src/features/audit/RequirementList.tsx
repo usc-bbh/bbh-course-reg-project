@@ -1,9 +1,17 @@
 import { useState } from 'react';
-import type { Requirement, Selection } from '../../domain/types';
+import type { Requirement, TallyUnit } from '../../domain/types';
+import type { Selection } from '../../domain/types';
 import { formatUnits } from '../../domain/terms';
 import { ChevronDownIcon, ChevronRightIcon } from '../../components/icons';
 import { StatusTag } from '../../components/StatusTag';
 import { requirementPresentation } from '../../components/status';
+
+const TALLY_LABEL: Record<TallyUnit, string> = {
+  UNITS: 'units',
+  COURSES: 'courses',
+  'SUB-GROUP(S)': 'sub-requirements',
+  GPA: 'grade points',
+};
 
 export interface RequirementListProps {
   requirements: Requirement[];
@@ -112,7 +120,6 @@ function RequirementRow({
   const presentation = requirementPresentation(requirement.status);
   const hasRefs = requirement.satisfiedBy.some((ref) => ref.termId);
 
-
   return (
     <li className="print-block">
       <button
@@ -133,13 +140,14 @@ function RequirementRow({
         </span>
 
         <span className="mt-0.5 flex flex-wrap items-baseline gap-x-3 text-micro text-ink-4">
-          <span>{requirement.category}</span>
-          {requirement.unitsRequired !== undefined && requirement.unitsCounted !== undefined ? (
+          <span className="capitalize">{requirement.tier}</span>
+          {requirement.tally ? (
             <span className="tnum">
-              {formatUnits(requirement.unitsCounted)} of {formatUnits(requirement.unitsRequired)}{' '}
-              units
+              {formatUnits(requirement.tally.counted)} of {formatUnits(requirement.tally.required)}{' '}
+              {TALLY_LABEL[requirement.tally.unit]}
             </span>
           ) : null}
+          {requirement.source === 'stars' ? <span>read from your report</span> : null}
         </span>
 
         {expanded && requirement.reason ? (

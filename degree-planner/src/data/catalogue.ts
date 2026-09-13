@@ -1,4 +1,4 @@
-import type { Catalogue, CatalogueCourse } from '../domain/types';
+import type { Catalogue, CatalogueCourse, OfferingFrequency } from '../domain/types';
 import catalogueUrl from './catalogue/courses.json?url';
 
 /**
@@ -16,15 +16,19 @@ import catalogueUrl from './catalogue/courses.json?url';
  * states a real request has.
  */
 
-// GAP(catalogue): there is no source yet for course titles and unit counts, so
-// src/data/catalogue/courses.json is a hand-made sample of about forty USC
-// courses. The picker cannot offer anything outside it.
-// GAP(catalogue): the picker has no way to know which terms a course is offered
-// in. The analysis layer already warns about a course placed in a term it is
-// not offered, so the two need to agree on where that fact comes from.
-// GAP(catalogue): the review form needs the list of majors, minors and
-// catalogue years a student can choose from. Those three lists are invented
-// here and should come from the same place the requirements do.
+// GAP(catalogue): catalog/README.md says the v6 scrape "has not yet completed a
+// full successful run" and that the last complete dataset is v5, which is
+// "missing courses from ~30 real departments". Neither file is committed, and
+// the scrape needs USC VPN. So src/data/catalogue/courses.json is a hand-made
+// sample in the documented v6 shape — the picker cannot offer anything outside
+// it, and swapping in the real data is a URL change here.
+// GAP(catalogue): the sample carries `offering_frequency` because that is where
+// "CSCI 401 only runs in the fall" has to come from — but with no real scrape
+// the terms_offered lists below are made up. The analysis layer warns on
+// offering terms today, so it and this module need the same source.
+// GAP(catalogue): degrees, majors, minors and catalogue years are invented
+// here. catalogue_scraper/ has 470 real programme files for 2026-2027 only,
+// and a student on an older catalogue year has no list to pick from.
 
 let inflight: Promise<Catalogue> | null = null;
 
@@ -32,10 +36,25 @@ function isCourse(value: unknown): value is CatalogueCourse {
   if (typeof value !== 'object' || value === null) return false;
   const candidate = value as Record<string, unknown>;
   return (
-    typeof candidate.code === 'string' &&
-    typeof candidate.title === 'string' &&
-    typeof candidate.units === 'number'
+    typeof candidate.course_name === 'string' &&
+    typeof candidate.units === 'number' &&
+    typeof candidate.description === 'string' &&
+    typeof candidate.has_d_clearance === 'boolean' &&
+    typeof candidate.has_restrictions === 'boolean'
   );
+}
+
+function isOfferingMap(value: unknown): value is Record<string, OfferingFrequency> {
+  if (typeof value !== 'object' || value === null) return false;
+  return Object.values(value as Record<string, unknown>).every((entry) => {
+    if (typeof entry !== 'object' || entry === null) return false;
+    const candidate = entry as Record<string, unknown>;
+    return (
+      Array.isArray(candidate.terms_offered) &&
+      typeof candidate.count === 'number' &&
+      typeof candidate.frequency_label === 'string'
+    );
+  });
 }
 
 function isStringArray(value: unknown): value is string[] {
@@ -51,19 +70,25 @@ function toCatalogue(raw: unknown): Catalogue {
     throw new Error('Catalogue data has no usable course list.');
   }
   if (
+    !isStringArray(candidate.degrees) ||
     !isStringArray(candidate.majors) ||
     !isStringArray(candidate.minors) ||
-    !isStringArray(candidate.catalogueYears)
+    !isStringArray(candidate.catalogYears)
   ) {
-    throw new Error('Catalogue data is missing its majors, minors or catalogue years.');
+    throw new Error('Catalogue data is missing its degrees, majors, minors or catalogue years.');
+  }
+  if (!isOfferingMap(candidate.offering_frequency)) {
+    throw new Error('Catalogue data has no usable offering frequencies.');
   }
   return {
     sourceLabel:
       typeof candidate.sourceLabel === 'string' ? candidate.sourceLabel : 'Sample course data',
-    courses: [...candidate.courses].sort((a, b) => a.code.localeCompare(b.code)),
+    courses: [...candidate.courses].sort((a, b) => a.course_name.localeCompare(b.course_name)),
+    offering_frequency: candidate.offering_frequency,
+    degrees: candidate.degrees,
     majors: candidate.majors,
     minors: candidate.minors,
-    catalogueYears: candidate.catalogueYears,
+    catalogYears: candidate.catalogYears,
   };
 }
 
@@ -92,12 +117,23 @@ export function resetCatalogueCache(): void {
   inflight = null;
 }
 
-/** Filters on code and title. Display filtering, not eligibility. */
+/** Filters on code and description. Display filtering, not eligibility. */
 export function searchCourses(courses: CatalogueCourse[], query: string): CatalogueCourse[] {
   const needle = query.trim().toLowerCase();
   if (!needle) return courses;
   return courses.filter(
     (course) =>
-      course.code.toLowerCase().includes(needle) || course.title.toLowerCase().includes(needle),
+      course.course_name.toLowerCase().includes(needle) ||
+      course.description.toLowerCase().includes(needle),
   );
+}
+
+/**
+ * The catalogue object has no course title field — `catalog/README.md` gives a
+ * `description`, not a title. We show its first sentence, which is what the
+ * scrape's description opens with.
+ */
+export function courseTitle(course: CatalogueCourse): string {
+  const firstSentence = course.description.split('.')[0] ?? '';
+  return firstSentence.trim() || course.course_name;
 }

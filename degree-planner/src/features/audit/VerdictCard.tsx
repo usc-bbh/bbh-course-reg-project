@@ -1,6 +1,7 @@
 import type { AnalysisResult, Verdict } from '../../domain/types';
 import { formatUnits } from '../../domain/terms';
 import { CheckCircleIcon, FilledSquareIcon, InfoIcon } from '../../components/icons';
+import { formatReportDate } from './reportDate';
 
 const VERDICT: Record<Verdict, { label: string; tone: string; icon: typeof InfoIcon }> = {
   'on-track': { label: 'On track', tone: 'text-satisfied', icon: CheckCircleIcon },
@@ -22,8 +23,8 @@ export function VerdictCard({ result, unmetCount }: { result: AnalysisResult; un
   const underway = result.requirements.filter((entry) => entry.status === 'in-progress').length;
   const done = result.requirements.filter((entry) => entry.status === 'satisfied').length;
   const percent =
-    result.unitsRequired > 0
-      ? Math.min(100, Math.round((result.unitsCounted / result.unitsRequired) * 100))
+    result.units.required > 0
+      ? Math.min(100, Math.round((result.units.counted / result.units.required) * 100))
       : 0;
 
   return (
@@ -51,20 +52,34 @@ export function VerdictCard({ result, unmetCount }: { result: AnalysisResult; un
         <div className="flex items-baseline justify-between text-small">
           <span className="text-ink-3">Units counted</span>
           <span className="tnum font-medium text-ink">
-            {formatUnits(result.unitsCounted)} of {formatUnits(result.unitsRequired)}
+            {formatUnits(result.units.counted)} of {formatUnits(result.units.required)}
           </span>
         </div>
         <div
           data-print="hide"
           className="mt-1.5 h-2 w-full overflow-hidden rounded-pill bg-line"
           role="img"
-          aria-label={`${formatUnits(result.unitsCounted)} of ${formatUnits(
-            result.unitsRequired,
+          aria-label={`${formatUnits(result.units.counted)} of ${formatUnits(
+            result.units.required,
           )} units counted toward the degree`}
         >
           <div className="h-full rounded-pill bg-cardinal" style={{ width: `${percent}%` }} />
         </div>
       </div>
+
+      {/* docs/reference/03: "Reusing a tier means inheriting the report's
+          prepared date. Carry that date through and surface it rather than
+          presenting an old verdict as current." It prints, because a plan taken
+          to an advisor on paper has to say how old its verdicts are. */}
+      {result.reusedFromReportDated ? (
+        <p className="mt-5 border-t border-line-soft pt-3.5 text-micro leading-relaxed text-ink-4">
+          University and school verdicts are USC&rsquo;s own, read from your STARS report of{' '}
+          <span className="font-medium text-ink-3">
+            {formatReportDate(result.reusedFromReportDated)}
+          </span>
+          . They do not account for anything you have finished since that date.
+        </p>
+      ) : null}
     </div>
   );
 }

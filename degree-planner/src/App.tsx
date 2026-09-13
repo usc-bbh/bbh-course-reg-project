@@ -3,6 +3,7 @@ import type { CatalogueCourse, Plan, Selection, StudentSituation, TermId } from 
 import { buildTimeline, termLabel } from './domain/terms';
 import { defaultPlannedTerms, newCourseId, usePlanner } from './state/plannerStore';
 import { clearSaved } from './state/persistence';
+import { courseTitle } from './data/catalogue';
 import { useAnalysis } from './state/useAnalysis';
 import { samplePlan } from './data/sampleStudent';
 import { AppHeader } from './components/AppHeader';
@@ -11,6 +12,7 @@ import { UndoToast } from './components/UndoToast';
 import { SituationEntry } from './features/situation/SituationEntry';
 import { SituationReview } from './features/situation/SituationReview';
 import { SituationSummary } from './features/situation/SituationSummary';
+import { ReportDriftNotice } from './features/situation/ReportDriftNotice';
 import { PlanTimeline } from './features/plan/PlanTimeline';
 import { AuditPanel, SampleBadge } from './features/audit/AuditPanel';
 import { unmetCount } from './features/audit/unmetCount';
@@ -85,7 +87,7 @@ export function App() {
       const plan: Plan =
         review.origin === 'sample'
           ? structuredClone(samplePlan)
-          : { schemaVersion: 1, terms: defaultPlannedTerms(situation) };
+          : { schemaVersion: 2, terms: defaultPlannedTerms(situation) };
       dispatch({ type: 'start', situation, plan });
     }
     setReview(null);
@@ -100,7 +102,12 @@ export function App() {
     dispatch({
       type: 'add-course',
       termId,
-      course: { id: newCourseId(), code: course.code, title: course.title, units: course.units },
+      course: {
+        id: newCourseId(),
+        code: course.course_name,
+        title: courseTitle(course),
+        units: course.units,
+      },
     });
   };
 
@@ -179,6 +186,7 @@ export function App() {
           situation={situation}
           onEdit={() => setReview({ situation, mode: 'edit', origin: situation.source })}
         />
+        <ReportDriftNotice situation={situation} />
       </ErrorBoundary>
 
       <p aria-live="polite" className="sr-only">

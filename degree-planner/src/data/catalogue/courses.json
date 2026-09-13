@@ -1,15 +1,25 @@
 {
-  "sourceLabel": "Sample drawn by hand from the USC Catalogue. Not the full course list.",
-  "catalogueYears": ["2022-2023", "2023-2024", "2024-2025", "2025-2026", "2026-2027"],
+  "sourceLabel": "Sample shaped like catalog/README.md v6.0. Not a real scrape \u2014 see the GAP in catalogue.ts.",
+  "degrees": [
+    "BA",
+    "BS"
+  ],
+  "catalogYears": [
+    "2022-2023",
+    "2023-2024",
+    "2024-2025",
+    "2025-2026",
+    "2026-2027"
+  ],
   "majors": [
-    "Computer Science (BS)",
-    "Computer Science (Games) (BS)",
-    "Computer Engineering and Computer Science (BS)",
-    "Electrical Engineering (BS)",
-    "Applied and Computational Mathematics (BS)",
-    "Business Administration (BS)",
-    "Economics (BA)",
-    "Cognitive Science (BA)"
+    "Computer Science",
+    "Computer Science (Games)",
+    "Computer Engineering and Computer Science",
+    "Electrical Engineering",
+    "Applied and Computational Mathematics",
+    "Business Administration",
+    "Economics",
+    "Cognitive Science"
   ],
   "minors": [
     "Mathematics",
@@ -22,47 +32,740 @@
     "Technology Commercialization"
   ],
   "courses": [
-    { "code": "AMST 101g", "title": "Race and Class in Los Angeles", "units": 4 },
-    { "code": "BISC 120Lg", "title": "General Biology: Organismal Biology and Evolution", "units": 4 },
-    { "code": "BISC 220Lg", "title": "General Biology: Cell Biology and Physiology", "units": 4 },
-    { "code": "BUAD 304", "title": "Leading Organizations", "units": 4 },
-    { "code": "CHEM 105aLg", "title": "General Chemistry", "units": 4 },
-    { "code": "CSCI 102L", "title": "Fundamentals of Computation", "units": 2 },
-    { "code": "CSCI 103L", "title": "Introduction to Programming", "units": 4 },
-    { "code": "CSCI 104L", "title": "Data Structures and Object-Oriented Design", "units": 4 },
-    { "code": "CSCI 170", "title": "Discrete Methods in Computer Science", "units": 4 },
-    { "code": "CSCI 201", "title": "Principles of Software Development", "units": 4 },
-    { "code": "CSCI 270", "title": "Introduction to Algorithms", "units": 4 },
-    { "code": "CSCI 310", "title": "Software Engineering", "units": 4 },
-    { "code": "CSCI 350", "title": "Introduction to Operating Systems", "units": 4 },
-    { "code": "CSCI 353", "title": "Introduction to Internetworking", "units": 4 },
-    { "code": "CSCI 356", "title": "Introduction to Computer Systems", "units": 4 },
-    { "code": "CSCI 360", "title": "Introduction to Artificial Intelligence", "units": 4 },
-    { "code": "CSCI 401", "title": "Capstone: Design and Construction of Large Software Systems", "units": 4 },
-    { "code": "CSCI 402", "title": "Operating Systems", "units": 4 },
-    { "code": "CSCI 420", "title": "Computer Graphics", "units": 4 },
-    { "code": "CSCI 435", "title": "Introduction to Digital Forensics", "units": 4 },
-    { "code": "CSCI 445L", "title": "Introduction to Robotics", "units": 4 },
-    { "code": "CSCI 455x", "title": "Introduction to Programming Systems Design", "units": 4 },
-    { "code": "CSCI 485", "title": "File and Database Management", "units": 4 },
-    { "code": "EE 109L", "title": "Introduction to Embedded Systems", "units": 4 },
-    { "code": "EE 250", "title": "Distributed Systems for the Internet of Things", "units": 4 },
-    { "code": "EE 364", "title": "Probability and Statistics for Engineers", "units": 4 },
-    { "code": "ENGR 102", "title": "Viterbi First-Year Academy", "units": 2 },
-    { "code": "ECON 203", "title": "Principles of Microeconomics", "units": 4 },
-    { "code": "GESM 120g", "title": "Seminar in Humanistic Inquiry", "units": 4 },
-    { "code": "HIST 200g", "title": "The Modern World", "units": 4 },
-    { "code": "ITP 342", "title": "Mobile Application Development", "units": 4 },
-    { "code": "MATH 125g", "title": "Calculus I", "units": 4 },
-    { "code": "MATH 126g", "title": "Calculus II", "units": 4 },
-    { "code": "MATH 225", "title": "Linear Algebra and Linear Differential Equations", "units": 4 },
-    { "code": "MATH 226g", "title": "Calculus III", "units": 4 },
-    { "code": "MATH 407", "title": "Probability Theory", "units": 4 },
-    { "code": "MATH 458", "title": "Numerical Methods", "units": 4 },
-    { "code": "PHIL 140g", "title": "Contemporary Moral and Social Issues", "units": 4 },
-    { "code": "PHYS 151Lg", "title": "Fundamentals of Physics I: Mechanics", "units": 4 },
-    { "code": "PHYS 152L", "title": "Fundamentals of Physics II: Electricity and Magnetism", "units": 4 },
-    { "code": "WRIT 150", "title": "Writing and Critical Reasoning", "units": 4 },
-    { "code": "WRIT 340", "title": "Advanced Writing", "units": 4 }
-  ]
+    {
+      "course_name": "AMST 101",
+      "units": 4,
+      "description": "Race and Class in Los Angeles.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "BISC 120L",
+      "units": 4,
+      "description": "General Biology: Organismal Biology and Evolution.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "BISC 220L",
+      "units": 4,
+      "description": "General Biology: Cell Biology and Physiology.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CHEM 105aL",
+      "units": 4,
+      "description": "General Chemistry.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 102L",
+      "units": 2,
+      "description": "Fundamentals of Computation.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 103",
+      "units": 4,
+      "description": "Intro to programming in C/C++. Prerequisite: none.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 104",
+      "units": 4,
+      "description": "Data structures and OOP. Prerequisite: CSCI 103.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 170",
+      "units": 4,
+      "description": "Discrete methods. Prerequisite: CSCI 103.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 201",
+      "units": 4,
+      "description": "Principles of software development. Prerequisite: CSCI 104.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 270",
+      "units": 4,
+      "description": "Algorithms and theory of computing. Prerequisite: CSCI 170.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 310",
+      "units": 4,
+      "description": "Software engineering. Prerequisite: CSCI 201.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 350",
+      "units": 4,
+      "description": "Operating system fundamentals. Prerequisite: CSCI 201.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 353",
+      "units": 4,
+      "description": "Networking. Prerequisite: CSCI 201.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 356",
+      "units": 4,
+      "description": "Computer systems. Prerequisite: CSCI 201.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 360",
+      "units": 4,
+      "description": "AI principles. Prerequisite: CSCI 270.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 401",
+      "units": 4,
+      "description": "Senior capstone. Departmental clearance required. Offered in fall terms.",
+      "has_d_clearance": true,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 402",
+      "units": 4,
+      "description": "Operating systems. Prerequisite: CSCI 350.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 420",
+      "units": 4,
+      "description": "Computer graphics. Prerequisite: CSCI 270.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 435",
+      "units": 4,
+      "description": "Introduction to Digital Forensics.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 445L",
+      "units": 4,
+      "description": "Robotics. Prerequisite: CSCI 270.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "CSCI 485",
+      "units": 4,
+      "description": "Databases. Prerequisite: CSCI 270.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "EE 109L",
+      "units": 4,
+      "description": "Introduction to Embedded Systems.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "EE 250",
+      "units": 4,
+      "description": "Distributed Systems for the Internet of Things.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "EE 364",
+      "units": 4,
+      "description": "Probability and Statistics for Engineers.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "ENGR 102",
+      "units": 2,
+      "description": "Viterbi First-Year Academy.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "ESRM 150",
+      "units": 4,
+      "description": "Introduction to Statistics.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "GESM 120",
+      "units": 4,
+      "description": "General education seminar. Reserved for first-year students in early registration.",
+      "has_d_clearance": false,
+      "has_restrictions": true
+    },
+    {
+      "course_name": "HIST 200",
+      "units": 4,
+      "description": "The Modern World.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "ITP 342",
+      "units": 4,
+      "description": "Mobile Application Development.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "MATH 125",
+      "units": 4,
+      "description": "Calculus I.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "MATH 126",
+      "units": 4,
+      "description": "Calculus II.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "MATH 225",
+      "units": 4,
+      "description": "Linear Algebra and Linear Differential Equations.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "MATH 226",
+      "units": 4,
+      "description": "Calculus III.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "MATH 407",
+      "units": 4,
+      "description": "Probability Theory.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "MATH 458",
+      "units": 4,
+      "description": "Numerical Methods.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "PHIL 140",
+      "units": 4,
+      "description": "Contemporary Moral and Social Issues.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "PHYS 151L",
+      "units": 4,
+      "description": "Fundamentals of Physics I: Mechanics.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "PHYS 152L",
+      "units": 4,
+      "description": "Fundamentals of Physics II: Electricity and Magnetism.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "WRIT 150",
+      "units": 4,
+      "description": "Writing and Critical Reasoning.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    },
+    {
+      "course_name": "WRIT 340",
+      "units": 4,
+      "description": "Advanced Writing.",
+      "has_d_clearance": false,
+      "has_restrictions": false
+    }
+  ],
+  "offering_frequency": {
+    "AMST 101": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "BISC 120L": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "BISC 220L": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CHEM 105aL": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CSCI 102L": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CSCI 103": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CSCI 104": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CSCI 170": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CSCI 201": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CSCI 270": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CSCI 310": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CSCI 350": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CSCI 353": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CSCI 356": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CSCI 360": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CSCI 401": {
+      "terms_offered": [
+        "20263",
+        "20253",
+        "20243"
+      ],
+      "count": 3,
+      "frequency_label": "occasionally"
+    },
+    "CSCI 402": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "CSCI 420": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20243",
+        "20241"
+      ],
+      "count": 4,
+      "frequency_label": "most_semesters"
+    },
+    "CSCI 435": {
+      "terms_offered": [
+        "20263",
+        "20243"
+      ],
+      "count": 2,
+      "frequency_label": "occasionally"
+    },
+    "CSCI 445L": {
+      "terms_offered": [
+        "20263",
+        "20243"
+      ],
+      "count": 2,
+      "frequency_label": "occasionally"
+    },
+    "CSCI 485": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20243",
+        "20241"
+      ],
+      "count": 4,
+      "frequency_label": "most_semesters"
+    },
+    "EE 109L": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "EE 250": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "EE 364": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "ENGR 102": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "ESRM 150": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "GESM 120": {
+      "terms_offered": [
+        "20263",
+        "20243"
+      ],
+      "count": 2,
+      "frequency_label": "occasionally"
+    },
+    "HIST 200": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "ITP 342": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20243",
+        "20241"
+      ],
+      "count": 4,
+      "frequency_label": "most_semesters"
+    },
+    "MATH 125": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "MATH 126": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "MATH 225": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "MATH 226": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "MATH 407": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20243",
+        "20241"
+      ],
+      "count": 4,
+      "frequency_label": "most_semesters"
+    },
+    "MATH 458": {
+      "terms_offered": [
+        "20263",
+        "20243"
+      ],
+      "count": 2,
+      "frequency_label": "occasionally"
+    },
+    "PHIL 140": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "PHYS 151L": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "PHYS 152L": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "WRIT 150": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    },
+    "WRIT 340": {
+      "terms_offered": [
+        "20263",
+        "20261",
+        "20253",
+        "20251",
+        "20243",
+        "20241"
+      ],
+      "count": 6,
+      "frequency_label": "every_semester"
+    }
+  }
 }

@@ -1,5 +1,5 @@
 import type { Plan, StudentSituation } from '../domain/types';
-import { checkPlan, checkSituation } from '../domain/validate';
+import { SCHEMA_VERSION, checkPlan, checkSituation } from '../domain/validate';
 
 /**
  * Persistence.
@@ -19,7 +19,7 @@ export const STORAGE_PREFIX = 'plansc.degreePlanner.';
 export const STORAGE_KEY = `${STORAGE_PREFIX}v1`;
 
 interface SavedShape {
-  schemaVersion: 1;
+  schemaVersion: 2;
   situation: StudentSituation | null;
   plan: Plan;
 }
@@ -61,7 +61,7 @@ export function readSaved(): ReadResult {
     return { kind: 'discarded', reason: 'the saved copy could not be read' };
   }
   const candidate = parsed as Record<string, unknown>;
-  if (candidate.schemaVersion !== 1) {
+  if (candidate.schemaVersion !== SCHEMA_VERSION) {
     return { kind: 'discarded', reason: 'it was saved by an earlier version of this planner' };
   }
 
@@ -80,7 +80,7 @@ export function readSaved(): ReadResult {
 export function writeSaved(situation: StudentSituation | null, plan: Plan): void {
   const store = storage();
   if (!store) return;
-  const payload: SavedShape = { schemaVersion: 1, situation, plan };
+  const payload: SavedShape = { schemaVersion: 2, situation, plan };
   try {
     store.setItem(STORAGE_KEY, JSON.stringify(payload));
   } catch {

@@ -3,16 +3,12 @@ import { formatUnits, seasonLabel } from '../../domain/terms';
 import { Button } from '../../components/Button';
 import { PencilIcon } from '../../components/icons';
 
-const STANDING_LABEL: Record<StudentSituation['classStanding'], string> = {
-  freshman: 'First year',
-  sophomore: 'Second year',
-  junior: 'Third year',
-  senior: 'Fourth year',
-};
-
 /**
  * The compact, editable summary across the top of the workspace. Editing it
  * re-runs the check, because the check takes the situation as an input.
+ *
+ * Field names follow the STARS parser's output: a single `minor`, USC's own
+ * class levels, `catalogYear` rather than a spelling of our own.
  */
 export function SituationSummary({
   situation,
@@ -21,19 +17,28 @@ export function SituationSummary({
   situation: StudentSituation;
   onEdit: () => void;
 }) {
+  const transferUnits = situation.completedCourses
+    .filter((course) => course.source !== 'usc')
+    .reduce((total, course) => total + course.units, 0);
+
+  const programme = [situation.major, situation.degree ? `(${situation.degree})` : '']
+    .filter(Boolean)
+    .join(' ');
+
   const facts: Array<{ label: string; value: string }> = [
-    { label: 'Major', value: situation.major || 'Not set' },
+    { label: 'Major', value: programme || 'Not set' },
+    { label: 'Concentration', value: situation.concentration ?? 'None' },
+    { label: 'Minor', value: situation.minor ?? 'None' },
+    { label: 'Catalogue year', value: situation.catalogYear },
+    { label: 'Class level', value: situation.classLevel },
     {
-      label: situation.minors.length === 1 ? 'Minor' : 'Minors',
-      value: situation.minors.length > 0 ? situation.minors.join(', ') : 'None',
-    },
-    { label: 'Catalogue year', value: situation.catalogueYear },
-    { label: 'Standing', value: STANDING_LABEL[situation.classStanding] },
-    {
-      label: 'Started',
+      label: 'Entered',
       value: `${seasonLabel(situation.entryTerm.season)} ${situation.entryTerm.year}`,
     },
-    { label: 'Transfer units', value: formatUnits(situation.transferUnits) },
+    {
+      label: 'Transfer units',
+      value: transferUnits > 0 ? formatUnits(transferUnits) : formatUnits(situation.transferUnits),
+    },
     {
       label: 'Coursework on file',
       value: `${situation.completedCourses.length} completed, ${situation.inProgressCourses.length} in progress`,

@@ -2,10 +2,11 @@ import { describe, expect, it } from 'vitest';
 import type { Plan, StudentSituation, TakenCourse } from '../src/domain/types';
 import { buildTimeline, groupByAcademicYear, termUnits } from '../src/domain/terms';
 import { defaultPlannedTerms } from '../src/state/plannerStore';
-import { samplePlan, sampleSituation } from '../src/data/sampleStudent';
+import { samplePlan } from '../src/data/sampleStudent';
+import { sampleSituation } from './sample';
 
 function situationWith(overrides: Partial<StudentSituation>): StudentSituation {
-  return { ...sampleSituation, ...overrides };
+  return sampleSituation(overrides);
 }
 
 const completed = (code: string, termId: string): TakenCourse => ({
@@ -14,11 +15,12 @@ const completed = (code: string, termId: string): TakenCourse => ({
   units: 4,
   termId,
   grade: 'A',
+  source: 'usc',
 });
 
 describe('buildTimeline', () => {
   it('puts history before the planned terms, in order', () => {
-    const timeline = buildTimeline(sampleSituation, samplePlan);
+    const timeline = buildTimeline(sampleSituation(), samplePlan);
     const ids = timeline.map((term) => term.id);
     expect(ids).toEqual([...ids].sort((a, b) => ids.indexOf(a) - ids.indexOf(b)));
     expect(timeline[0]?.status).toBe('completed');
@@ -29,7 +31,7 @@ describe('buildTimeline', () => {
     // The student finishes Spring 2027 and records it, while that term still
     // holds the courses they had planned. Nothing may be dropped.
     const situation = situationWith({
-      completedCourses: [...sampleSituation.completedCourses, completed('CSCI 353', 'spring-2027')],
+      completedCourses: [...sampleSituation().completedCourses, completed('CSCI 353', 'spring-2027')],
     });
     const timeline = buildTimeline(situation, samplePlan);
 
@@ -40,8 +42,8 @@ describe('buildTimeline', () => {
     const codes = spring?.courses.map((course) => course.code) ?? [];
     // The completed course and everything that was planned in that term.
     expect(codes).toContain('CSCI 353');
-    expect(codes).toContain('CSCI 360');
-    expect(codes).toContain('GESM 120g');
+    expect(codes).toContain('CSCI 485');
+    expect(codes).toContain('PHIL 140');
     // And it appears once, not twice.
     expect(codes.filter((code) => code === 'CSCI 353')).toHaveLength(1);
 
@@ -54,7 +56,7 @@ describe('buildTimeline', () => {
       completedCourses: [completed('CSCI 103L', 'not-a-term')],
       inProgressCourses: [],
     });
-    const timeline = buildTimeline(situation, { schemaVersion: 1, terms: [] });
+    const timeline = buildTimeline(situation, { schemaVersion: 2, terms: [] });
     expect(timeline).toEqual([]);
   });
 
@@ -74,7 +76,7 @@ describe('buildTimeline', () => {
 
   it('groups summer with the spring before it', () => {
     const plan: Plan = {
-      schemaVersion: 1,
+      schemaVersion: 2,
       terms: [
         { id: 'fall-2026', season: 'fall', year: 2026, status: 'planned', courses: [] },
         { id: 'spring-2027', season: 'spring', year: 2027, status: 'planned', courses: [] },

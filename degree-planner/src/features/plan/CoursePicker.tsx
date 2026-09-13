@@ -1,7 +1,7 @@
 import { useEffect, useId, useMemo, useRef, useState } from 'react';
 import type { CatalogueCourse, PlanTerm, TermId } from '../../domain/types';
 import { formatUnits, termLabel } from '../../domain/terms';
-import { searchCourses } from '../../data/catalogue';
+import { courseTitle, searchCourses } from '../../data/catalogue';
 import { useCatalogue } from '../../data/useCatalogue';
 import { Button } from '../../components/Button';
 import { SearchIcon } from '../../components/icons';
@@ -151,10 +151,10 @@ export function CoursePicker({ termId, termName, allTerms, onAdd, onClose }: Cou
             </li>
           ) : (
             options.map((course, index) => {
-              const already = placements.get(course.code);
+              const already = placements.get(course.course_name);
               return (
                 <li
-                  key={course.code}
+                  key={course.course_name}
                   id={`${listboxId}-option-${index}`}
                   role="option"
                   aria-selected={index === activeIndex}
@@ -169,13 +169,13 @@ export function CoursePicker({ termId, termName, allTerms, onAdd, onClose }: Cou
                   }}
                 >
                   <span className="flex items-baseline gap-2">
-                    <span className="course-code text-small text-ink">{course.code}</span>
+                    <span className="course-code text-small text-ink">{course.course_name}</span>
                     <span className="tnum ml-auto shrink-0 text-micro text-ink-3">
                       {formatUnits(course.units)} units
                     </span>
                   </span>
                   <span className="block truncate text-micro leading-snug text-ink-3">
-                    {course.title}
+                    {courseTitle(course)}
                   </span>
                   {already ? (
                     <span className="block truncate text-micro text-ink-4">

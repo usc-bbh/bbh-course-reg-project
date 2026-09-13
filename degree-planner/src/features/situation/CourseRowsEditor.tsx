@@ -51,6 +51,7 @@ export function CourseRowsEditor({
       title: '',
       units: 4,
       termId: previous?.termId ?? makeTermId('fall', PLAN_BASE_YEAR),
+      source: 'usc',
     };
     onChange([...courses, template]);
     setLastAdded(courses.length);
