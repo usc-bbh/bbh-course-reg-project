@@ -41,18 +41,33 @@ PROGRAMS_DIR = (
 )
 PROMPT_PATH = REPO / "docs" / "prompt_v1.txt"
 TAXONOMY_PATH = Path(__file__).resolve().parent / "constraint_taxonomy.md"
-OUT_DIR = Path(__file__).resolve().parent / "out"
+HERE = Path(__file__).resolve().parent
 
 # --- Model and budget --------------------------------------------------------
 # Confirm the model id against your console before a real run:
 #   python run_classifier.py --list-models
-DEFAULT_MODEL = "claude-sonnet-4-5"
+DEFAULT_MODEL = "claude-sonnet-5"
 MAX_OUTPUT_TOKENS = 8000
 
-# Dollars per million tokens. Check current pricing and correct if needed; this
-# only drives the local spend guard, not billing.
-PRICE_IN_PER_MTOK = 3.00
-PRICE_OUT_PER_MTOK = 15.00
+# Dollars per million tokens, (input, output), per model. This only drives the
+# local cost printout and the --budget guard, not billing. Source:
+# https://platform.claude.com/docs/en/models/overview (checked 2026-09-15).
+# A model not listed here needs --price-in and --price-out on the command line.
+MODEL_PRICES = {
+    "claude-fable-5-1": (10.00, 50.00),
+    "claude-opus-5": (5.00, 25.00),
+    "claude-sonnet-5": (2.00, 10.00),
+    "claude-haiku-4-5": (1.00, 5.00),
+    "claude-sonnet-4-5": (3.00, 15.00),
+}
+
+
+def model_prices(model: str) -> tuple[float, float] | None:
+    """Exact id first, then the longest listed id that prefixes it (dated ids)."""
+    if model in MODEL_PRICES:
+        return MODEL_PRICES[model]
+    matches = [k for k in MODEL_PRICES if model.startswith(k)]
+    return MODEL_PRICES[max(matches, key=len)] if matches else None
 
 # The 15 programmes named in docs/catalogue-classifier-brief.md.
 TEST_SET = [
@@ -154,6 +169,10 @@ def main() -> int:
     ap.add_argument("--model", default=DEFAULT_MODEL)
     ap.add_argument("--budget", type=float, default=50.0, help="stop before exceeding this many dollars")
     ap.add_argument("--list-models", action="store_true", help="print available model ids and exit")
+    ap.add_argument("--out-dir", default="out",
+                    help="output folder inside deg_requirement_parser, e.g. out_sonnet5 (default: out)")
+    ap.add_argument("--price-in", type=float, help="input $/million tokens, for a model not in MODEL_PRICES")
+    ap.add_argument("--price-out", type=float, help="output $/million tokens, for a model not in MODEL_PRICES")
     args = ap.parse_args()
 
     if args.list_models:
@@ -172,6 +191,21 @@ def main() -> int:
         print("Has catalogue_scraper been renamed? Update PROGRAMS_DIR.", file=sys.stderr)
         return 1
 
+    out_dir = HERE / args.out_dir
+    out_label = args.out_dir.rstrip("/")
+
+    prices = model_prices(args.model)
+    if args.price_in is not None and args.price_out is not None:
+        prices = (args.price_in, args.price_out)
+    if prices is None and not args.dry_run:
+        print(f"No price known for model '{args.model}'.", file=sys.stderr)
+        print("Add it to MODEL_PRICES or pass --price-in and --price-out.", file=sys.stderr)
+        return 1
+    price_in, price_out = prices or (0.0, 0.0)
+    if not args.dry_run:
+        print(f"Model {args.model} at ${price_in:g} in / ${price_out:g} out per million tokens. "
+              f"Output folder: {out_label}/\n")
+
     template = PROMPT_PATH.read_text(encoding="utf-8")
     taxonomy = TAXONOMY_PATH.read_text(encoding="utf-8")
 
@@ -184,7 +218,7 @@ def main() -> int:
     if args.limit:
         stems = stems[: args.limit]
 
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_dir.mkdir(parents=True, exist_ok=True)
 
     client = None
     if not args.dry_run:
@@ -206,7 +240,7 @@ def main() -> int:
             failures += 1
             continue
 
-        json_path = OUT_DIR / f"{stem}.json"
+        json_path = out_dir / f"{stem}.json"
         if json_path.exists() and not args.force and not args.dry_run:
             print(f"[{i}/{len(stems)}] {stem}: already done, use --force to redo")
             continue
@@ -216,9 +250,9 @@ def main() -> int:
         prompt = build_prompt(template, taxonomy, name, requirements)
 
         if args.dry_run:
-            (OUT_DIR / f"{stem}.prompt.txt").write_text(prompt, encoding="utf-8")
+            (out_dir / f"{stem}.prompt.txt").write_text(prompt, encoding="utf-8")
             approx = len(prompt) // 4
-            print(f"[{i}/{len(stems)}] {stem}: prompt {len(prompt):,} chars (~{approx:,} tokens) -> out/{stem}.prompt.txt")
+            print(f"[{i}/{len(stems)}] {stem}: prompt {len(prompt):,} chars (~{approx:,} tokens) -> {out_label}/{stem}.prompt.txt")
             continue
 
         print(f"[{i}/{len(stems)}] {stem} ({name}) ...", flush=True)
@@ -230,18 +264,18 @@ def main() -> int:
             continue
 
         text = "".join(block.text for block in resp.content if block.type == "text")
-        (OUT_DIR / f"{stem}.response.txt").write_text(text, encoding="utf-8")
+        (out_dir / f"{stem}.response.txt").write_text(text, encoding="utf-8")
 
         cost = (
-            resp.usage.input_tokens / 1e6 * PRICE_IN_PER_MTOK
-            + resp.usage.output_tokens / 1e6 * PRICE_OUT_PER_MTOK
+            resp.usage.input_tokens / 1e6 * price_in
+            + resp.usage.output_tokens / 1e6 * price_out
         )
         spent += cost
 
         try:
             data = extract_json(text)
         except Exception as exc:  # noqa: BLE001
-            print(f"    UNPARSEABLE: {exc}. Raw response kept at out/{stem}.response.txt")
+            print(f"    UNPARSEABLE: {exc}. Raw response kept at {out_label}/{stem}.response.txt")
             failures += 1
         else:
             json_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -252,6 +286,7 @@ def main() -> int:
         rows.append(
             {
                 "stem": stem,
+                "model": args.model,
                 "in_tokens": resp.usage.input_tokens,
                 "out_tokens": resp.usage.output_tokens,
                 "cost_usd": round(cost, 4),
@@ -263,11 +298,11 @@ def main() -> int:
             break
 
     if rows:
-        with (OUT_DIR / "run_log.csv").open("w", newline="", encoding="utf-8") as fh:
+        with (out_dir / "run_log.csv").open("w", newline="", encoding="utf-8") as fh:
             w = csv.DictWriter(fh, fieldnames=list(rows[0]))
             w.writeheader()
             w.writerows(rows)
-        print(f"\nSpent ${spent:.2f} across {len(rows)} call(s). Log: out/run_log.csv")
+        print(f"\nSpent ${spent:.2f} across {len(rows)} call(s). Log: {out_label}/run_log.csv")
     if failures:
         print(f"{failures} programme(s) failed.")
     return 1 if failures else 0

@@ -143,7 +143,9 @@ def check_file(path: Path, families: set[str], sources: dict[str, str]) -> tuple
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--verbose", action="store_true", help="print every problem")
+    ap.add_argument("--out-dir", default="out", help="output folder to read (default: out)")
     args = ap.parse_args()
+    OUT_DIR = HERE / args.out_dir
 
     if not TAXONOMY_PATH.exists():
         print(f"missing {TAXONOMY_PATH}", file=sys.stderr)
