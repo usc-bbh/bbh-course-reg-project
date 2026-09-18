@@ -1,0 +1,341 @@
+@import 'tailwindcss';
+
+/* ──────────────────────────────────────────────────────────────────────────
+   Tokens.
+
+   Type follows USC's own registration pages: a Caslon for the wordmark and the
+   university lockup, a humanist sans for everything a student reads or types.
+   Libre Caslon Text and Source Sans 3 are the open faces that match them, and
+   both are vendored into the bundle rather than loaded from a CDN.
+
+   Colour, radii and shadows are lifted from Tanzil's validator GUI
+   (validator/validator_gui.jsx) so the two tools read as one product. The exact
+   source value is noted beside each one.
+
+   Two colour systems, kept apart on purpose:
+     brand   — cardinal and gold. Identity and primary actions only.
+     status  — satisfied / in progress / unsatisfied / warning / blocking.
+   Cardinal therefore never means "unsatisfied", and gold never means "warning".
+   ────────────────────────────────────────────────────────────────────────── */
+@theme {
+  /* Brand — validator header gradient + rule */
+  --color-cardinal: #990000;
+  --color-cardinal-deep: #7d0000;
+  --color-cardinal-ink: #4a1210;
+  --color-gold: #ffcc00;
+  --color-gold-dim: #ffd54f;
+  --color-gold-wash: #fff8e1;
+
+  /* Ink — validator body and meta text.
+     Every one of these is a foreground, and test/contrast.test.ts checks each
+     against every background token below at WCAG AA (4.5:1). The scale is
+     deliberately compressed at the quiet end: the original ink-5 (#7a7a80) read
+     as a nice soft grey and failed at 3.82 on surface-sunk, which is where
+     course titles live — the single most repeated piece of text in the app. */
+  --color-ink: #1a1a1a;
+  --color-ink-2: #44444a;
+  --color-ink-3: #55555b;
+  --color-ink-4: #616167;
+  --color-ink-5: #6a6a70;
+
+  /* Surfaces and hairlines — validator app background, cards and borders */
+  --color-canvas: #f4f4f5;
+  --color-surface: #ffffff;
+  --color-surface-2: #fafafb;
+  --color-surface-sunk: #f2f2f4;
+  --color-line: #e2e2e6;
+  --color-line-strong: #d3d3d8;
+  --color-line-soft: #eeeef0;
+
+  /* Status. Satisfied / warning / info hues are the validator's own.
+     Unsatisfied deliberately carries no hue of its own: cardinal already owns
+     red here, so a second red would read as brand chrome rather than a result.
+     It carries its weight through ink, a filled icon and a bold label. */
+  --color-satisfied: #16722f;
+  --color-satisfied-wash: #eaf7ef;
+  --color-satisfied-line: #a7dcb8;
+  --color-inprogress: #1d4ed8;
+  --color-inprogress-wash: #eef2ff;
+  --color-inprogress-line: #c3d0f8;
+  --color-unsatisfied: #1a1a1a;
+  --color-unsatisfied-wash: #f2f2f4;
+  --color-warning: #8a5a00;
+  --color-warning-wash: #fff8e1;
+  --color-warning-line: #ffd54f;
+  --color-blocking: #7a4400;
+  --color-blocking-wash: #fdf3e3;
+  --color-danger: #c1121f;
+  --color-danger-wash: #fdecea;
+  --color-danger-line: #f2b8b3;
+
+  /* Type families */
+  --font-serif: 'Libre Caslon Text', 'Adobe Caslon Pro', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Source Sans 3', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: 'Source Code Pro', ui-monospace, 'SFMono-Regular', monospace;
+
+  /* One tight scale, used everywhere. No arbitrary sizes in components. */
+  --text-micro: 0.75rem;
+  --text-micro--line-height: 1.45;
+  --text-small: 0.8125rem;
+  --text-small--line-height: 1.5;
+  --text-body: 0.875rem;
+  --text-body--line-height: 1.55;
+  --text-base: 0.9375rem;
+  --text-base--line-height: 1.6;
+  --text-lead: 1.0625rem;
+  --text-lead--line-height: 1.35;
+  --text-title: 1.375rem;
+  --text-title--line-height: 1.25;
+  --text-display: 1.75rem;
+  --text-display--line-height: 1.2;
+  --text-hero: 2.125rem;
+  --text-hero--line-height: 1.15;
+
+  /* Radii — validator uses 6 / 8 / 10 / 12 / 14 and a 20 pill */
+  --radius-chip: 6px;
+  --radius-control: 8px;
+  --radius-field: 10px;
+  --radius-card: 12px;
+  --radius-panel: 14px;
+  --radius-pill: 20px;
+
+  /* Elevation — two levels, no more */
+  --shadow-rest: 0 1px 2px rgb(0 0 0 / 0.05);
+  --shadow-raise: 0 8px 22px rgb(0 0 0 / 0.09);
+  --shadow-overlay: 0 14px 34px rgb(0 0 0 / 0.16);
+
+  /* Motion */
+  --ease-out-soft: cubic-bezier(0.22, 0.7, 0.3, 1);
+}
+
+/* ── Base ─────────────────────────────────────────────────────────────── */
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    margin: 0;
+    background: var(--color-canvas);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: var(--text-base);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Units, counts and course codes line up in columns. */
+  .tnum,
+  table,
+  .font-mono {
+    font-variant-numeric: tabular-nums;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-weight: 600;
+    line-height: 1.25;
+    margin: 0;
+  }
+
+  button,
+  input,
+  select,
+  textarea {
+    font: inherit;
+    color: inherit;
+  }
+
+  /* Print-only blocks stay out of the way on screen. */
+  [data-print='only'] {
+    display: none;
+  }
+
+  /* Focus: 3:1 against whatever it sits on. Cardinal ring with a gold offset
+     on light surfaces; the .on-cardinal variant flips it for the header. */
+  :focus-visible {
+    outline: 2px solid var(--color-cardinal);
+    outline-offset: 2px;
+    border-radius: 3px;
+    box-shadow: 0 0 0 4px var(--color-gold);
+  }
+
+  .on-cardinal :focus-visible,
+  .on-cardinal:focus-visible {
+    outline-color: #ffffff;
+    box-shadow: 0 0 0 4px var(--color-gold);
+  }
+}
+
+/* ── Utilities ────────────────────────────────────────────────────────── */
+@utility course-code {
+  font-family: var(--font-mono);
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.01em;
+}
+
+/* The wordmark and the university lockup, in USC's Caslon. */
+@utility wordmark {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  letter-spacing: 0.005em;
+}
+
+/* Screen-reader-only, but focusable (the skip link uses it). */
+@utility sr-only-focusable {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+
+  &:focus {
+    position: static;
+    width: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    clip-path: none;
+    white-space: normal;
+  }
+}
+
+/* ── Motion: answers actions, never runs on load ──────────────────────── */
+@layer components {
+  .anim-expand {
+    animation: expand 180ms var(--ease-out-soft);
+  }
+
+  .anim-rise {
+    animation: rise 200ms var(--ease-out-soft);
+  }
+
+  /* Cross-highlight: a held ring, not a flash, so it survives the scroll. */
+  .is-highlighted {
+    outline: 2px solid var(--color-cardinal);
+    outline-offset: 1px;
+    background: var(--color-gold-wash);
+    transition:
+      outline-color 200ms var(--ease-out-soft),
+      background-color 200ms var(--ease-out-soft);
+  }
+}
+
+@keyframes expand {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .anim-expand,
+  .anim-rise {
+    animation: fade-only 150ms linear;
+  }
+
+  @keyframes fade-only {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}
+
+/* ── Print ────────────────────────────────────────────────────────────────
+   Black on white, no app chrome, no interactive affordances. Terms never
+   break across a page. Everything marked data-print="hide" disappears;
+   everything marked data-print="only" appears. */
+@media print {
+  @page {
+    margin: 14mm;
+  }
+
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 10.5pt;
+  }
+
+  [data-print='hide'] {
+    display: none !important;
+  }
+
+  [data-print='only'] {
+    display: block !important;
+  }
+
+  .print-term,
+  .print-block {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  a[href]::after {
+    content: '';
+  }
+
+  /* Black on white. Status still reads, because every status in this app is an
+     icon plus a text label and never a colour on its own. */
+  * {
+    color: #000000 !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+    border-color: #9a9a9a !important;
+  }
+
+  .is-highlighted {
+    outline: none !important;
+  }
+
+  /* One flow down the page rather than a sidebar: the plan, then the check. */
+  [data-print-layout] {
+    display: block !important;
+  }
+
+  [data-print-grid] {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 8mm !important;
+  }
+
+  [data-print-region='audit'] {
+    margin-top: 8mm;
+  }
+
+  /* The drag handle's gutter goes with the drag handle. */
+  [data-course-key] {
+    padding-left: 0 !important;
+  }
+}

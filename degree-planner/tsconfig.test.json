@@ -1,0 +1,11 @@
+{
+  // The test and build tooling, which runs in Node. Everything src/ is checked
+  // under still applies; this adds the globals Node and Vitest provide.
+  // `npm run typecheck` runs both configs, so a Node global that leaks into
+  // src/ fails the app pass even though it would pass this one.
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "types": ["vite/client", "vitest/globals", "node"]
+  },
+  "include": ["test", "e2e", "vite.config.ts", "vitest.config.ts"]
+}
