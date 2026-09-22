@@ -49,8 +49,12 @@ HERE = Path(__file__).resolve().parent
 DEFAULT_MODEL = "claude-sonnet-5"
 # Newer models (Sonnet 5, Opus 5) think before answering, and that thinking
 # counts toward this limit. 8000 was too small: long programmes ran out before
-# the JSON was written. Keep this under ~21000 or the SDK requires streaming.
-MAX_OUTPUT_TOKENS = 20000
+# the JSON was written. Override with --max-tokens.
+DEFAULT_MAX_TOKENS = 20000
+# Non-streaming requests error out above this (the API requires streaming for
+# calls that may run long). We don't stream, so this is the practical ceiling
+# for --max-tokens and for the truncation retry in call_api.
+NON_STREAMING_MAX_TOKENS = 21000
 
 # Sonnet 5, Opus 5 and Fable 5.1 think by default at "high" effort. For this
 # extraction task that thinking can use 15,000+ tokens and crowd out the JSON.
@@ -156,16 +160,19 @@ def extract_json(text: str):
     return json.loads(candidate[start : end + 1])
 
 
-def call_api(client, model: str, prompt: str, extra: dict, attempts: int = 4):
+def call_api(client, model: str, prompt: str, max_tokens: int, extra: dict, attempts: int = 4):
+    """Returns (response, retries) where retries counts transient-error retries."""
     delay = 4
+    retries = 0
     for attempt in range(1, attempts + 1):
         try:
-            return client.messages.create(
+            resp = client.messages.create(
                 model=model,
-                max_tokens=MAX_OUTPUT_TOKENS,
+                max_tokens=max_tokens,
                 messages=[{"role": "user", "content": prompt}],
                 **extra,
             )
+            return resp, retries
         except Exception as exc:  # noqa: BLE001
             transient = any(
                 s in type(exc).__name__.lower() or s in str(exc).lower()
@@ -173,6 +180,7 @@ def call_api(client, model: str, prompt: str, extra: dict, attempts: int = 4):
             )
             if attempt == attempts or not transient:
                 raise
+            retries += 1
             print(f"    retry {attempt}/{attempts - 1} after {delay}s ({type(exc).__name__})")
             time.sleep(delay)
             delay *= 2
@@ -194,6 +202,8 @@ def main() -> int:
                     help="thinking effort for Sonnet 5 / Opus 5 / Fable 5.1 (default: low)")
     ap.add_argument("--no-thinking", action="store_true",
                     help="turn thinking off entirely on Sonnet 5 / Opus 5 / Fable 5.1")
+    ap.add_argument("--max-tokens", type=int, default=DEFAULT_MAX_TOKENS,
+                    help=f"output token budget per call (default: {DEFAULT_MAX_TOKENS})")
     ap.add_argument("--price-in", type=float, help="input $/million tokens, for a model not in MODEL_PRICES")
     ap.add_argument("--price-out", type=float, help="output $/million tokens, for a model not in MODEL_PRICES")
     args = ap.parse_args()
@@ -284,17 +294,35 @@ def main() -> int:
             continue
 
         print(f"[{i}/{len(stems)}] {stem} ({name}) ...", flush=True)
+        chars_in = len(requirements)
+        t0 = time.perf_counter()
         try:
-            resp = call_api(client, args.model, prompt, extra)
+            resp, retries = call_api(client, args.model, prompt, args.max_tokens, extra)
         except Exception as exc:  # noqa: BLE001
-            print(f"    API ERROR: {type(exc).__name__}: {exc}")
+            elapsed = time.perf_counter() - t0
+            print(f"    API ERROR after {elapsed:.1f}s: {type(exc).__name__}: {exc}")
             failures += 1
+            rows.append(
+                {
+                    "stem": stem,
+                    "model": args.model,
+                    "in_tokens": 0,
+                    "out_tokens": 0,
+                    "cost_usd": 0.0,
+                    "stop_reason": "error",
+                    "effort": "" if not extra else ("no-thinking" if args.no_thinking else args.effort),
+                    "seconds": round(elapsed, 1),
+                    "retries": 0,
+                    "chars_in": chars_in,
+                    "cache_read_input_tokens": 0,
+                }
+            )
             continue
+        elapsed = time.perf_counter() - t0
 
         text = "".join(block.text for block in resp.content if block.type == "text")
         if resp.stop_reason == "max_tokens":
-            print(f"    WARNING: hit the {MAX_OUTPUT_TOKENS:,}-token output limit, so the response is cut off. "
-                  "Raise MAX_OUTPUT_TOKENS.")
+            print(f"    WARNING: hit the {args.max_tokens:,}-token output limit, so the response is cut off.")
         (out_dir / f"{stem}.response.txt").write_text(text, encoding="utf-8")
 
         cost = (
@@ -312,7 +340,8 @@ def main() -> int:
             json_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
             n = len(data.get("constraints", []))
             u = len(data.get("unclassified", []))
-            print(f"    ok: {n} constraints, {u} unclassified, status={data.get('status')}, ${cost:.3f}")
+            print(f"    ok: {n} constraints, {u} unclassified, status={data.get('status')}, "
+                  f"{elapsed:.1f}s, ${cost:.3f}")
 
         rows.append(
             {
@@ -323,6 +352,10 @@ def main() -> int:
                 "cost_usd": round(cost, 4),
                 "stop_reason": resp.stop_reason,
                 "effort": "" if not extra else ("no-thinking" if args.no_thinking else args.effort),
+                "seconds": round(elapsed, 1),
+                "retries": retries,
+                "chars_in": chars_in,
+                "cache_read_input_tokens": getattr(resp.usage, "cache_read_input_tokens", 0) or 0,
             }
         )
 
