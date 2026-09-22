@@ -222,4 +222,4 @@ __marimo__/
 .venv/
 __pycache__/
 *.pyc
-deg_requirement_parser/out/*.prompt.txt
+deg_requirement_parser/out*/

@@ -186,6 +186,24 @@ def call_api(client, model: str, prompt: str, max_tokens: int, extra: dict, atte
             delay *= 2
 
 
+def make_row(stem: str, model: str, effort: str, elapsed: float, retries: int, chars_in: int,
+             stop_reason: str, in_tokens: int = 0, out_tokens: int = 0, cost: float = 0.0,
+             cache_read: int = 0) -> dict:
+    return {
+        "stem": stem,
+        "model": model,
+        "in_tokens": in_tokens,
+        "out_tokens": out_tokens,
+        "cost_usd": round(cost, 4),
+        "stop_reason": stop_reason,
+        "effort": effort,
+        "seconds": round(elapsed, 1),
+        "retries": retries,
+        "chars_in": chars_in,
+        "cache_read_input_tokens": cache_read,
+    }
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--limit", type=int, help="only the first N programmes")
@@ -295,6 +313,7 @@ def main() -> int:
 
         print(f"[{i}/{len(stems)}] {stem} ({name}) ...", flush=True)
         chars_in = len(requirements)
+        effort_label = "" if not extra else ("no-thinking" if args.no_thinking else args.effort)
         t0 = time.perf_counter()
         try:
             resp, retries = call_api(client, args.model, prompt, args.max_tokens, extra)
@@ -302,34 +321,57 @@ def main() -> int:
             elapsed = time.perf_counter() - t0
             print(f"    API ERROR after {elapsed:.1f}s: {type(exc).__name__}: {exc}")
             failures += 1
-            rows.append(
-                {
-                    "stem": stem,
-                    "model": args.model,
-                    "in_tokens": 0,
-                    "out_tokens": 0,
-                    "cost_usd": 0.0,
-                    "stop_reason": "error",
-                    "effort": "" if not extra else ("no-thinking" if args.no_thinking else args.effort),
-                    "seconds": round(elapsed, 1),
-                    "retries": 0,
-                    "chars_in": chars_in,
-                    "cache_read_input_tokens": 0,
-                }
-            )
+            rows.append(make_row(stem, args.model, effort_label, elapsed, 0, chars_in, "error"))
             continue
         elapsed = time.perf_counter() - t0
+        max_tokens_used = args.max_tokens
+
+        # A max_tokens stop is a "successful" response as far as the API is
+        # concerned, so call_api's transient-error retry never catches it.
+        # Retry once, with a bigger budget, before giving up on the programme.
+        if resp.stop_reason == "max_tokens":
+            retry_budget = min(args.max_tokens * 2, NON_STREAMING_MAX_TOKENS)
+            if retry_budget > args.max_tokens:
+                print(f"    WARNING: hit the {args.max_tokens:,}-token output limit; "
+                      f"retrying once with {retry_budget:,}.")
+                t1 = time.perf_counter()
+                try:
+                    resp, more_retries = call_api(client, args.model, prompt, retry_budget, extra)
+                except Exception as exc:  # noqa: BLE001
+                    elapsed += time.perf_counter() - t1
+                    print(f"    API ERROR on truncation retry after {elapsed:.1f}s: {type(exc).__name__}: {exc}")
+                    failures += 1
+                    rows.append(make_row(stem, args.model, effort_label, elapsed, retries + 1, chars_in, "error"))
+                    continue
+                elapsed += time.perf_counter() - t1
+                retries += more_retries + 1
+                max_tokens_used = retry_budget
+            else:
+                print(f"    WARNING: hit the {args.max_tokens:,}-token output limit and is already at the "
+                      f"{NON_STREAMING_MAX_TOKENS:,}-token non-streaming ceiling; not retrying.")
 
         text = "".join(block.text for block in resp.content if block.type == "text")
-        if resp.stop_reason == "max_tokens":
-            print(f"    WARNING: hit the {args.max_tokens:,}-token output limit, so the response is cut off.")
-        (out_dir / f"{stem}.response.txt").write_text(text, encoding="utf-8")
-
         cost = (
             resp.usage.input_tokens / 1e6 * price_in
             + resp.usage.output_tokens / 1e6 * price_out
         )
         spent += cost
+        cache_read = getattr(resp.usage, "cache_read_input_tokens", 0) or 0
+
+        if resp.stop_reason == "max_tokens":
+            (out_dir / f"{stem}.truncated.txt").write_text(text, encoding="utf-8")
+            print(f"    TRUNCATED again at {max_tokens_used:,} tokens. "
+                  f"Raw response kept at {out_label}/{stem}.truncated.txt")
+            failures += 1
+            rows.append(make_row(stem, args.model, effort_label, elapsed, retries, chars_in,
+                                  resp.stop_reason, resp.usage.input_tokens, resp.usage.output_tokens,
+                                  cost, cache_read))
+            if spent >= args.budget:
+                print(f"\nStopping: spent ${spent:.2f}, at the ${args.budget:.2f} budget.")
+                break
+            continue
+
+        (out_dir / f"{stem}.response.txt").write_text(text, encoding="utf-8")
 
         try:
             data = extract_json(text)
@@ -343,21 +385,9 @@ def main() -> int:
             print(f"    ok: {n} constraints, {u} unclassified, status={data.get('status')}, "
                   f"{elapsed:.1f}s, ${cost:.3f}")
 
-        rows.append(
-            {
-                "stem": stem,
-                "model": args.model,
-                "in_tokens": resp.usage.input_tokens,
-                "out_tokens": resp.usage.output_tokens,
-                "cost_usd": round(cost, 4),
-                "stop_reason": resp.stop_reason,
-                "effort": "" if not extra else ("no-thinking" if args.no_thinking else args.effort),
-                "seconds": round(elapsed, 1),
-                "retries": retries,
-                "chars_in": chars_in,
-                "cache_read_input_tokens": getattr(resp.usage, "cache_read_input_tokens", 0) or 0,
-            }
-        )
+        rows.append(make_row(stem, args.model, effort_label, elapsed, retries, chars_in,
+                              resp.stop_reason, resp.usage.input_tokens, resp.usage.output_tokens,
+                              cost, cache_read))
 
         if spent >= args.budget:
             print(f"\nStopping: spent ${spent:.2f}, at the ${args.budget:.2f} budget.")
