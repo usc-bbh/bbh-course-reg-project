@@ -24,7 +24,9 @@ import json
 import os
 import re
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 # --- Paths -------------------------------------------------------------------
@@ -135,19 +137,42 @@ def program_name_from_stem(stem: str) -> str:
     return f"{title} {degree}".strip()
 
 
-def build_prompt(template: str, taxonomy: str, name: str, requirements: str) -> str:
-    required = ["{{TAXONOMY}}", "{{PROGRAM_NAME}}", "{{REQUIREMENTS}}"]
-    missing = [p for p in required if p not in template]
+PROMPT_PLACEHOLDERS = ["{{TAXONOMY}}", "{{PROGRAM_NAME}}", "{{REQUIREMENTS}}"]
+
+
+def require_placeholders(template: str) -> None:
+    missing = [p for p in PROMPT_PLACEHOLDERS if p not in template]
     if missing:
         raise SystemExit(
             f"{PROMPT_PATH} is missing placeholder(s): {', '.join(missing)}.\n"
             "Open the file and check the exact spelling, then fix `required` here."
         )
+
+
+def build_prompt(template: str, taxonomy: str, name: str, requirements: str) -> str:
+    require_placeholders(template)
     return (
         template.replace("{{TAXONOMY}}", taxonomy)
         .replace("{{PROGRAM_NAME}}", name)
         .replace("{{REQUIREMENTS}}", requirements)
     )
+
+
+def split_template(template: str) -> tuple[str, str]:
+    """Split the template at {{TAXONOMY}}: everything before it plus the taxonomy
+    is identical on every call and worth caching; PROGRAM_NAME/REQUIREMENTS are not."""
+    require_placeholders(template)
+    marker = "{{TAXONOMY}}"
+    idx = template.index(marker)
+    return template[:idx], template[idx + len(marker):]
+
+
+def build_cached_blocks(cached_head: str, tail_template: str, name: str, requirements: str) -> list[dict]:
+    tail = tail_template.replace("{{PROGRAM_NAME}}", name).replace("{{REQUIREMENTS}}", requirements)
+    return [
+        {"type": "text", "text": cached_head, "cache_control": {"type": "ephemeral"}},
+        {"type": "text", "text": tail},
+    ]
 
 
 def extract_json(text: str):
@@ -160,8 +185,14 @@ def extract_json(text: str):
     return json.loads(candidate[start : end + 1])
 
 
-def call_api(client, model: str, prompt: str, max_tokens: int, extra: dict, attempts: int = 4):
-    """Returns (response, retries) where retries counts transient-error retries."""
+def call_api(client, model: str, content, max_tokens: int, extra: dict, attempts: int = 4):
+    """Returns (response, retries) where retries counts transient-error retries.
+
+    `content` is either a plain prompt string or a list of content blocks (used to
+    mark part of the prompt cacheable). No console output here: under concurrency
+    several stems retry at once, and per-attempt prints from different threads
+    would interleave. Retry counts surface in the caller's one-line summary instead.
+    """
     delay = 4
     retries = 0
     for attempt in range(1, attempts + 1):
@@ -169,7 +200,7 @@ def call_api(client, model: str, prompt: str, max_tokens: int, extra: dict, atte
             resp = client.messages.create(
                 model=model,
                 max_tokens=max_tokens,
-                messages=[{"role": "user", "content": prompt}],
+                messages=[{"role": "user", "content": content}],
                 **extra,
             )
             return resp, retries
@@ -181,7 +212,6 @@ def call_api(client, model: str, prompt: str, max_tokens: int, extra: dict, atte
             if attempt == attempts or not transient:
                 raise
             retries += 1
-            print(f"    retry {attempt}/{attempts - 1} after {delay}s ({type(exc).__name__})")
             time.sleep(delay)
             delay *= 2
 
@@ -204,6 +234,93 @@ def make_row(stem: str, model: str, effort: str, elapsed: float, retries: int, c
     }
 
 
+def process_stem(i: int, total: int, stem: str, name: str, requirements: str, client, args,
+                  price_in: float, price_out: float, extra: dict, effort_label: str,
+                  cached_head: str, tail_template: str, out_dir: Path, out_label: str,
+                  budget_lock: threading.Lock, budget_state: dict) -> dict | None:
+    """Runs in a worker thread. Returns a result dict, or None if skipped because
+    an earlier-finishing stem already pushed spend over budget."""
+    with budget_lock:
+        if budget_state["stop"]:
+            return None
+
+    content = build_cached_blocks(cached_head, tail_template, name, requirements)
+    chars_in = len(requirements)
+    t0 = time.perf_counter()
+    try:
+        resp, retries = call_api(client, args.model, content, args.max_tokens, extra)
+    except Exception as exc:  # noqa: BLE001
+        elapsed = time.perf_counter() - t0
+        row = make_row(stem, args.model, effort_label, elapsed, 0, chars_in, "error")
+        line = f"[{i}/{total}] {stem}: API ERROR after {elapsed:.1f}s: {type(exc).__name__}: {exc}"
+        return {"row": row, "line": line, "failure": True, "cost": 0.0}
+    elapsed = time.perf_counter() - t0
+    max_tokens_used = args.max_tokens
+    note_suffix = ""
+
+    # A max_tokens stop is a "successful" response as far as the API is concerned,
+    # so call_api's transient-error retry never catches it. Retry once, with a
+    # bigger budget, before giving up on the programme.
+    if resp.stop_reason == "max_tokens":
+        retry_budget = min(args.max_tokens * 2, NON_STREAMING_MAX_TOKENS)
+        if retry_budget > args.max_tokens:
+            note_suffix = f", retried at {retry_budget:,}"
+            t1 = time.perf_counter()
+            try:
+                resp, more_retries = call_api(client, args.model, content, retry_budget, extra)
+            except Exception as exc:  # noqa: BLE001
+                elapsed += time.perf_counter() - t1
+                row = make_row(stem, args.model, effort_label, elapsed, retries + 1, chars_in, "error")
+                line = (f"[{i}/{total}] {stem}: API ERROR on truncation retry after {elapsed:.1f}s: "
+                        f"{type(exc).__name__}: {exc}")
+                return {"row": row, "line": line, "failure": True, "cost": 0.0}
+            elapsed += time.perf_counter() - t1
+            retries += more_retries + 1
+            max_tokens_used = retry_budget
+        else:
+            note_suffix = f", at the {NON_STREAMING_MAX_TOKENS:,}-token ceiling, not retried"
+
+    text = "".join(block.text for block in resp.content if block.type == "text")
+    cost = (
+        resp.usage.input_tokens / 1e6 * price_in
+        + resp.usage.output_tokens / 1e6 * price_out
+    )
+    cache_read = getattr(resp.usage, "cache_read_input_tokens", 0) or 0
+
+    with budget_lock:
+        budget_state["spent"] += cost
+        if budget_state["spent"] >= args.budget:
+            budget_state["stop"] = True
+
+    if resp.stop_reason == "max_tokens":
+        (out_dir / f"{stem}.truncated.txt").write_text(text, encoding="utf-8")
+        row = make_row(stem, args.model, effort_label, elapsed, retries, chars_in, resp.stop_reason,
+                        resp.usage.input_tokens, resp.usage.output_tokens, cost, cache_read)
+        line = (f"[{i}/{total}] {stem}: TRUNCATED again at {max_tokens_used:,} tokens{note_suffix}, "
+                f"{elapsed:.1f}s, ${cost:.3f}. Raw kept at {out_label}/{stem}.truncated.txt")
+        return {"row": row, "line": line, "failure": True, "cost": cost}
+
+    (out_dir / f"{stem}.response.txt").write_text(text, encoding="utf-8")
+    json_path = out_dir / f"{stem}.json"
+    try:
+        data = extract_json(text)
+    except Exception as exc:  # noqa: BLE001
+        note = f"UNPARSEABLE: {exc}. Raw kept at {out_label}/{stem}.response.txt"
+        failure = True
+    else:
+        json_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+        n = len(data.get("constraints", []))
+        u = len(data.get("unclassified", []))
+        note = f"ok: {n} constraints, {u} unclassified, status={data.get('status')}"
+        failure = False
+
+    cache_note = f", cache_read={cache_read}" if cache_read else ""
+    line = f"[{i}/{total}] {stem}: {note}{note_suffix}, {elapsed:.1f}s, ${cost:.3f}{cache_note}"
+    row = make_row(stem, args.model, effort_label, elapsed, retries, chars_in, resp.stop_reason,
+                    resp.usage.input_tokens, resp.usage.output_tokens, cost, cache_read)
+    return {"row": row, "line": line, "failure": failure, "cost": cost}
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--limit", type=int, help="only the first N programmes")
@@ -222,6 +339,8 @@ def main() -> int:
                     help="turn thinking off entirely on Sonnet 5 / Opus 5 / Fable 5.1")
     ap.add_argument("--max-tokens", type=int, default=DEFAULT_MAX_TOKENS,
                     help=f"output token budget per call (default: {DEFAULT_MAX_TOKENS})")
+    ap.add_argument("--concurrency", type=int, default=4,
+                    help="parallel API calls; these are I/O bound so threads, not processes (default: 4)")
     ap.add_argument("--price-in", type=float, help="input $/million tokens, for a model not in MODEL_PRICES")
     ap.add_argument("--price-out", type=float, help="output $/million tokens, for a model not in MODEL_PRICES")
     args = ap.parse_args()
@@ -264,6 +383,8 @@ def main() -> int:
 
     template = PROMPT_PATH.read_text(encoding="utf-8")
     taxonomy = TAXONOMY_PATH.read_text(encoding="utf-8")
+    head_template, tail_template = split_template(template)
+    cached_head = head_template + taxonomy
 
     if args.only:
         stems = args.only
@@ -285,10 +406,14 @@ def main() -> int:
 
         client = Anthropic()
 
-    spent = 0.0
     rows = []
     failures = 0
+    effort_label = "" if not extra else ("no-thinking" if args.no_thinking else args.effort)
 
+    # Pass 1: skip/dry-run decisions are cheap and order-sensitive for their own
+    # console lines, so they stay a plain sequential loop. Only calls that will
+    # actually hit the API go into to_process, for the concurrent pass below.
+    to_process = []
     for i, stem in enumerate(stems, 1):
         src = PROGRAMS_DIR / f"{stem}.txt"
         if not src.exists():
@@ -303,101 +428,49 @@ def main() -> int:
 
         name = program_name_from_stem(stem)
         requirements = src.read_text(encoding="utf-8")
-        prompt = build_prompt(template, taxonomy, name, requirements)
 
         if args.dry_run:
+            prompt = build_prompt(template, taxonomy, name, requirements)
             (out_dir / f"{stem}.prompt.txt").write_text(prompt, encoding="utf-8")
             approx = len(prompt) // 4
             print(f"[{i}/{len(stems)}] {stem}: prompt {len(prompt):,} chars (~{approx:,} tokens) -> {out_label}/{stem}.prompt.txt")
             continue
 
-        print(f"[{i}/{len(stems)}] {stem} ({name}) ...", flush=True)
-        chars_in = len(requirements)
-        effort_label = "" if not extra else ("no-thinking" if args.no_thinking else args.effort)
-        t0 = time.perf_counter()
-        try:
-            resp, retries = call_api(client, args.model, prompt, args.max_tokens, extra)
-        except Exception as exc:  # noqa: BLE001
-            elapsed = time.perf_counter() - t0
-            print(f"    API ERROR after {elapsed:.1f}s: {type(exc).__name__}: {exc}")
-            failures += 1
-            rows.append(make_row(stem, args.model, effort_label, elapsed, 0, chars_in, "error"))
-            continue
-        elapsed = time.perf_counter() - t0
-        max_tokens_used = args.max_tokens
+        to_process.append((i, stem, name, requirements))
 
-        # A max_tokens stop is a "successful" response as far as the API is
-        # concerned, so call_api's transient-error retry never catches it.
-        # Retry once, with a bigger budget, before giving up on the programme.
-        if resp.stop_reason == "max_tokens":
-            retry_budget = min(args.max_tokens * 2, NON_STREAMING_MAX_TOKENS)
-            if retry_budget > args.max_tokens:
-                print(f"    WARNING: hit the {args.max_tokens:,}-token output limit; "
-                      f"retrying once with {retry_budget:,}.")
-                t1 = time.perf_counter()
-                try:
-                    resp, more_retries = call_api(client, args.model, prompt, retry_budget, extra)
-                except Exception as exc:  # noqa: BLE001
-                    elapsed += time.perf_counter() - t1
-                    print(f"    API ERROR on truncation retry after {elapsed:.1f}s: {type(exc).__name__}: {exc}")
+    # Pass 2: the actual API calls, fanned out over threads. These are I/O
+    # bound (waiting on the network), so threads are the right tool here, not
+    # multiprocessing. budget_lock protects budget_state, which both throttles
+    # new work once --budget is hit and accumulates the running spend that
+    # workers check concurrently.
+    if to_process:
+        budget_lock = threading.Lock()
+        budget_state = {"spent": 0.0, "stop": False}
+        with ThreadPoolExecutor(max_workers=max(1, args.concurrency)) as ex:
+            futures = [
+                ex.submit(process_stem, i, len(stems), stem, name, requirements, client, args,
+                          price_in, price_out, extra, effort_label, cached_head, tail_template,
+                          out_dir, out_label, budget_lock, budget_state)
+                for i, stem, name, requirements in to_process
+            ]
+            for fut in as_completed(futures):
+                result = fut.result()
+                if result is None:
+                    continue  # skipped: an earlier stem already exhausted the budget
+                print(result["line"], flush=True)
+                rows.append(result["row"])
+                if result["failure"]:
                     failures += 1
-                    rows.append(make_row(stem, args.model, effort_label, elapsed, retries + 1, chars_in, "error"))
-                    continue
-                elapsed += time.perf_counter() - t1
-                retries += more_retries + 1
-                max_tokens_used = retry_budget
-            else:
-                print(f"    WARNING: hit the {args.max_tokens:,}-token output limit and is already at the "
-                      f"{NON_STREAMING_MAX_TOKENS:,}-token non-streaming ceiling; not retrying.")
 
-        text = "".join(block.text for block in resp.content if block.type == "text")
-        cost = (
-            resp.usage.input_tokens / 1e6 * price_in
-            + resp.usage.output_tokens / 1e6 * price_out
-        )
-        spent += cost
-        cache_read = getattr(resp.usage, "cache_read_input_tokens", 0) or 0
-
-        if resp.stop_reason == "max_tokens":
-            (out_dir / f"{stem}.truncated.txt").write_text(text, encoding="utf-8")
-            print(f"    TRUNCATED again at {max_tokens_used:,} tokens. "
-                  f"Raw response kept at {out_label}/{stem}.truncated.txt")
-            failures += 1
-            rows.append(make_row(stem, args.model, effort_label, elapsed, retries, chars_in,
-                                  resp.stop_reason, resp.usage.input_tokens, resp.usage.output_tokens,
-                                  cost, cache_read))
-            if spent >= args.budget:
-                print(f"\nStopping: spent ${spent:.2f}, at the ${args.budget:.2f} budget.")
-                break
-            continue
-
-        (out_dir / f"{stem}.response.txt").write_text(text, encoding="utf-8")
-
-        try:
-            data = extract_json(text)
-        except Exception as exc:  # noqa: BLE001
-            print(f"    UNPARSEABLE: {exc}. Raw response kept at {out_label}/{stem}.response.txt")
-            failures += 1
-        else:
-            json_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
-            n = len(data.get("constraints", []))
-            u = len(data.get("unclassified", []))
-            print(f"    ok: {n} constraints, {u} unclassified, status={data.get('status')}, "
-                  f"{elapsed:.1f}s, ${cost:.3f}")
-
-        rows.append(make_row(stem, args.model, effort_label, elapsed, retries, chars_in,
-                              resp.stop_reason, resp.usage.input_tokens, resp.usage.output_tokens,
-                              cost, cache_read))
-
-        if spent >= args.budget:
-            print(f"\nStopping: spent ${spent:.2f}, at the ${args.budget:.2f} budget.")
-            break
+        if budget_state["stop"]:
+            print(f"\nStopping: spent ${budget_state['spent']:.2f}, at the ${args.budget:.2f} budget.")
 
     if rows:
         with (out_dir / "run_log.csv").open("w", newline="", encoding="utf-8") as fh:
             w = csv.DictWriter(fh, fieldnames=list(rows[0]))
             w.writeheader()
             w.writerows(rows)
+        spent = sum(r["cost_usd"] for r in rows)
         print(f"\nSpent ${spent:.2f} across {len(rows)} call(s). Log: {out_label}/run_log.csv")
     if failures:
         print(f"{failures} programme(s) failed.")
