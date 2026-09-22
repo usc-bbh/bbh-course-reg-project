@@ -458,16 +458,18 @@ def main() -> int:
         budget_lock = threading.Lock()
         budget_state = {"spent": 0.0, "stop": False}
         with ThreadPoolExecutor(max_workers=max(1, args.concurrency)) as ex:
-            futures = [
+            futures = {
                 ex.submit(process_stem, i, len(stems), stem, name, requirements, client, args,
                           price_in, price_out, extra, effort_label, cached_head, tail_template,
-                          out_dir, out_label, budget_lock, budget_state)
+                          out_dir, out_label, budget_lock, budget_state): (i, stem)
                 for i, stem, name, requirements in to_process
-            ]
+            }
             for fut in as_completed(futures):
                 result = fut.result()
                 if result is None:
-                    continue  # skipped: an earlier stem already exhausted the budget
+                    i, stem = futures[fut]
+                    print(f"[{i}/{len(stems)}] {stem}: SKIP, budget exhausted before this call started")
+                    continue
                 print(result["line"], flush=True)
                 rows.append(result["row"])
                 if result["failure"]:
