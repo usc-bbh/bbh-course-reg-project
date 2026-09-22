@@ -326,6 +326,8 @@ def main() -> int:
     ap.add_argument("--limit", type=int, help="only the first N programmes")
     ap.add_argument("--only", nargs="*", help="specific stems, e.g. 025_astronomy_ba")
     ap.add_argument("--all", action="store_true", help="every programme, not just the 15 (costs real money)")
+    ap.add_argument("--test-set", help="text file of stems, one per line (see make_test_set.py); "
+                    "overrides the built-in TEST_SET, but --only wins over this")
     ap.add_argument("--dry-run", action="store_true", help="write prompts, call nothing")
     ap.add_argument("--force", action="store_true", help="redo programmes that already have output")
     ap.add_argument("--model", default=DEFAULT_MODEL)
@@ -388,6 +390,15 @@ def main() -> int:
 
     if args.only:
         stems = args.only
+    elif args.test_set:
+        test_set_path = Path(args.test_set)
+        if not test_set_path.exists():
+            print(f"missing: {test_set_path}", file=sys.stderr)
+            return 1
+        stems = [
+            line.strip() for line in test_set_path.read_text(encoding="utf-8").splitlines()
+            if line.strip() and not line.strip().startswith("#")
+        ]
     elif args.all:
         stems = sorted(p.stem for p in PROGRAMS_DIR.glob("*.txt"))
     else:
