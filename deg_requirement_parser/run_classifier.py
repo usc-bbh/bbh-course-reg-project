@@ -47,7 +47,25 @@ HERE = Path(__file__).resolve().parent
 # Confirm the model id against your console before a real run:
 #   python run_classifier.py --list-models
 DEFAULT_MODEL = "claude-sonnet-5"
-MAX_OUTPUT_TOKENS = 8000
+# Newer models (Sonnet 5, Opus 5) think before answering, and that thinking
+# counts toward this limit. 8000 was too small: long programmes ran out before
+# the JSON was written. Keep this under ~21000 or the SDK requires streaming.
+MAX_OUTPUT_TOKENS = 20000
+
+# Sonnet 5, Opus 5 and Fable 5.1 think by default at "high" effort. For this
+# extraction task that thinking can use 15,000+ tokens and crowd out the JSON.
+# --effort (default low) and --no-thinking control it. Other models ignore both.
+THINKING_MODELS = ("claude-sonnet-5", "claude-opus-5", "claude-fable-5")
+DEFAULT_EFFORT = "low"
+
+
+def thinking_options(model: str, effort: str, no_thinking: bool) -> dict:
+    if not model.startswith(THINKING_MODELS):
+        return {}
+    body = {"output_config": {"effort": effort}}
+    if no_thinking:
+        body["thinking"] = {"type": "disabled"}
+    return {"extra_body": body}
 
 # Dollars per million tokens, (input, output), per model. This only drives the
 # local cost printout and the --budget guard, not billing. Source:
@@ -138,7 +156,7 @@ def extract_json(text: str):
     return json.loads(candidate[start : end + 1])
 
 
-def call_api(client, model: str, prompt: str, attempts: int = 4):
+def call_api(client, model: str, prompt: str, extra: dict, attempts: int = 4):
     delay = 4
     for attempt in range(1, attempts + 1):
         try:
@@ -146,6 +164,7 @@ def call_api(client, model: str, prompt: str, attempts: int = 4):
                 model=model,
                 max_tokens=MAX_OUTPUT_TOKENS,
                 messages=[{"role": "user", "content": prompt}],
+                **extra,
             )
         except Exception as exc:  # noqa: BLE001
             transient = any(
@@ -171,6 +190,10 @@ def main() -> int:
     ap.add_argument("--list-models", action="store_true", help="print available model ids and exit")
     ap.add_argument("--out-dir", default="out",
                     help="output folder inside deg_requirement_parser, e.g. out_sonnet5 (default: out)")
+    ap.add_argument("--effort", default=DEFAULT_EFFORT, choices=["low", "medium", "high"],
+                    help="thinking effort for Sonnet 5 / Opus 5 / Fable 5.1 (default: low)")
+    ap.add_argument("--no-thinking", action="store_true",
+                    help="turn thinking off entirely on Sonnet 5 / Opus 5 / Fable 5.1")
     ap.add_argument("--price-in", type=float, help="input $/million tokens, for a model not in MODEL_PRICES")
     ap.add_argument("--price-out", type=float, help="output $/million tokens, for a model not in MODEL_PRICES")
     args = ap.parse_args()
@@ -205,6 +228,11 @@ def main() -> int:
     if not args.dry_run:
         print(f"Model {args.model} at ${price_in:g} in / ${price_out:g} out per million tokens. "
               f"Output folder: {out_label}/\n")
+
+    extra = thinking_options(args.model, args.effort, args.no_thinking)
+    if extra and not args.dry_run:
+        mode = "off" if args.no_thinking else f"on, effort {args.effort}"
+        print(f"Thinking: {mode}\n")
 
     template = PROMPT_PATH.read_text(encoding="utf-8")
     taxonomy = TAXONOMY_PATH.read_text(encoding="utf-8")
@@ -257,13 +285,16 @@ def main() -> int:
 
         print(f"[{i}/{len(stems)}] {stem} ({name}) ...", flush=True)
         try:
-            resp = call_api(client, args.model, prompt)
+            resp = call_api(client, args.model, prompt, extra)
         except Exception as exc:  # noqa: BLE001
             print(f"    API ERROR: {type(exc).__name__}: {exc}")
             failures += 1
             continue
 
         text = "".join(block.text for block in resp.content if block.type == "text")
+        if resp.stop_reason == "max_tokens":
+            print(f"    WARNING: hit the {MAX_OUTPUT_TOKENS:,}-token output limit, so the response is cut off. "
+                  "Raise MAX_OUTPUT_TOKENS.")
         (out_dir / f"{stem}.response.txt").write_text(text, encoding="utf-8")
 
         cost = (
@@ -290,6 +321,8 @@ def main() -> int:
                 "in_tokens": resp.usage.input_tokens,
                 "out_tokens": resp.usage.output_tokens,
                 "cost_usd": round(cost, 4),
+                "stop_reason": resp.stop_reason,
+                "effort": "" if not extra else ("no-thinking" if args.no_thinking else args.effort),
             }
         )
 
