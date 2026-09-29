@@ -6,7 +6,7 @@
  *
  *   stars-parser/README.md            the parser's output object, field for field
  *   fixtures/stars/mock_stars_report.json  the committed sample of that object
- *   validator/README.md               the `stars_summary` slice Tanzil's validator reads
+ *   next-sem-validator analytics/README.md  the `stars_summary` slice Tanzil's validator reads
  *   catalog/README.md                 Agastya's course object and offering_frequency
  *   docs/parser-brief.md §6, §7       per-course `term` and `source`, and why they matter here
  *   docs/reference/01-reading-a-stars-report.md  the OK / NO / IP status codes
@@ -252,7 +252,7 @@ export interface AnalysisInput {
 /* ── The slice Tanzil's validator reads ───────────────────────────────────── */
 
 /**
- * `validator/README.md` documents exactly five fields it reads from a STARS
+ * next-sem-validator's `analytics/README.md` documents exactly five fields it reads from a STARS
  * summary and states it assumes no others are present. Producing that slice
  * here means the planner and the next-semester validator can be handed the
  * same student without a translation step.

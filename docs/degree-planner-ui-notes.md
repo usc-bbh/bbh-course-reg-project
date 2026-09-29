@@ -29,7 +29,7 @@ quiet drift.
 | Block statuses `ok` / `no` / `ip` | shared | [`docs/reference/01-reading-a-stars-report.md`](reference/01-reading-a-stars-report.md) | `StarsBlockStatus`, `src/components/status.tsx` |
 | Per-course `source` (`usc` / `transfer_specific` / `transfer_generic`) | Abhi | [`docs/parser-brief.md`](parser-brief.md) §6–7 | `CreditSource`, shown on every history row |
 | Course titles, units, offering frequency | Agastya (`catalog/`) | [`catalog/README.md`](../catalog/README.md) v6 file: `terms_data` keyed by term code plus `offering_frequency` | `src/data/catalogue/courses.json` in that exact shape, guarded field-for-field in `src/data/catalogue.ts`, pinned by `test/catalogue.test.ts` |
-| The `stars_summary` slice | Tanzil (`validator/`) | [`validator/README.md`](../validator/README.md) — exactly five fields | `toStarsSummary()` in `src/domain/situation.ts` |
+| The `stars_summary` slice | Tanzil (next-sem-validator) | [next-sem-validator's `analytics/README.md`](https://github.com/usc-bbh/next-sem-validator/blob/main/analytics/README.md) — exactly five fields | `toStarsSummary()` in `src/domain/situation.ts` |
 
 Three consequences of those contracts that are easy to get wrong, and that the
 tests now pin:
@@ -100,7 +100,7 @@ is under 32 units, sophomore 32 to 63.9, junior 64 to 95.9, senior 96 and
 above."* 36 units is a **sophomore**.
 
 This is not cosmetic. `classLevel` is one of the five fields
-`validator/README.md` documents as the `stars_summary` slice, and the validator
+next-sem-validator's `analytics/README.md` documents as the `stars_summary` slice, and the validator
 gates class-level-restricted courses on it — so the parser test and the
 validator test are both asserting against a student who cannot exist. The
 planner shows what the report says and computes nothing, so it inherits the
@@ -116,7 +116,7 @@ fixed that test fails and this section gets deleted.
 
 | # | Question | Why the planner cares | What it does meanwhile |
 | --- | --- | --- | --- |
-| P1 | **Course-code spacing.** The README's example shows `"BUAD304"`; the committed fixture shows `"CSCI 103"`; `validator/README.md` says codes are normalised to `"DEPT ###"` with one space "everywhere in this module"; `catalog/README.md` says `course_name` is "always `PREFIX NNN` format (space-separated)". Three of four say spaced. Can the parser settle on it? | Every join in this project is on a course code. A mismatch does not throw — it silently fails to match, and a student sees a requirement as unmet when it is met. | Normalises on the way in (`src/domain/uscTerms.ts`), which is a workaround, not a fix. |
+| P1 | **Course-code spacing.** The README's example shows `"BUAD304"`; the committed fixture shows `"CSCI 103"`; next-sem-validator's `analytics/README.md` says codes are normalised to `"DEPT ###"` with one space "everywhere in this module"; `catalog/README.md` says `course_name` is "always `PREFIX NNN` format (space-separated)". Three of four say spaced. Can the parser settle on it? | Every join in this project is on a course code. A mismatch does not throw — it silently fails to match, and a student sees a requirement as unmet when it is met. | Normalises on the way in (`src/domain/uscTerms.ts`), which is a workaround, not a fix. |
 | P2 | **Course-code suffixes.** Does the parser keep USC's trailing `L` and `g` (`CSCI 103L`, `MATH 125g`)? The fixture has neither; the Schedule of Classes has `CSCI 102L`, `BISC 120L`. | Same failure as P1, but harder to spot, because most codes match and a handful do not. | Codes are used as given. |
 | P3 | **Per-course `source`.** `docs/parser-brief.md` §6 asks for `usc` / `transfer_specific` / `transfer_generic` on every row; the README's output block and the committed fixture do not have it yet. | §7's own words: treating generic credit as able to fill requirements "would understate how much a student has left to do". The planner marks the two kinds differently on every history row and cannot without this field. | The sample student carries two transfer rows with `source` set by hand. |
 | P4 | **Entry term.** `docs/reference/01` lists "term of USC entrance" among the report's pertinent data, but the parser's output has no field for it. | It decides where the year columns start. A spring entrant's four academic years are not a fall entrant's. | Reads an optional `entryTerm` if present, otherwise takes the earliest term on the report. |
@@ -159,11 +159,11 @@ Not a question for anyone else; recorded here because the planner depends on it.
   same scrape. Until Natalie's engine consumes it, the computed half of the
   audit is three hand-written entries.
 
-## 7. Still open — Tanzil (`validator/`)
+## 7. Still open — Tanzil (next-sem-validator)
 
 One seam, no dependency. The planner does not call the validator and should not:
 "can I register for these classes next term" is a different tool.
-`toStarsSummary()` produces the exact five fields `validator/README.md`
+`toStarsSummary()` produces the exact five fields next-sem-validator's `analytics/README.md`
 documents so the same student can be handed across without a translation step.
 
 `toStarsSummary()` takes the **parsed report**, not the planner's situation, on

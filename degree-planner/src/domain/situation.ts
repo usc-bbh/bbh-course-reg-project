@@ -81,7 +81,7 @@ export function situationFromReport(
 }
 
 /**
- * The five fields `validator/README.md` documents as the `stars_summary` slice
+ * The five fields next-sem-validator's `analytics/README.md` documents as the `stars_summary` slice
  * Tanzil's next-semester validator reads, and it states it assumes no others
  * are present.
  *

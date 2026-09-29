@@ -70,8 +70,10 @@ The repo is a monorepo of loosely coupled modules — see the layout table in
 [`README.md`](README.md). Each has its own README with a schema contract; read it before changing
 that module's inputs or outputs.
 
-- `stars-parser/` — JavaScript, runs client-side (PDF.js, Tesseract.js)
-- `validator/` — Python, plus a React GUI that runs it via Pyodide (`validator/requirements-dev.txt`)
+- `stars-parser/` — JavaScript, runs client-side (PDF.js, Tesseract.js). This is its only home;
+  RegCheck consumes it through a pinned submodule, so fix it here, not there.
+- The next-semester validator is **not** in this repo — it lives in
+  [usc-bbh/next-sem-validator](https://github.com/usc-bbh/next-sem-validator) (`analytics/`), along with the RegCheck GUI.
 - `catalogue_scraper/` — Python, scrapes degree *requirements*
 - `catalog/` — Python, scrapes the Schedule of Classes; **requires USC VPN**
 

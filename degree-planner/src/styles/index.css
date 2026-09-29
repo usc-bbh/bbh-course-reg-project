@@ -9,7 +9,7 @@
    both are vendored into the bundle rather than loaded from a CDN.
 
    Colour, radii and shadows are lifted from Tanzil's validator GUI
-   (validator/validator_gui.jsx) so the two tools read as one product. The exact
+   (RegCheck, next-sem-validator: gui/src/App.jsx) so the two tools read as one product. The exact
    source value is noted beside each one.
 
    Two colour systems, kept apart on purpose:

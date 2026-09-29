@@ -55,7 +55,7 @@ export function uscCodeFromTermId(termId: TermId): string | null {
 /**
  * Course codes.
  *
- * `catalog/README.md` and `validator/README.md` both normalise to
+ * `catalog/README.md` and next-sem-validator's `analytics/README.md` both normalise to
  * `"DEPT NNN"` with a single space, and the validator says so explicitly:
  * "Course codes are normalized to `DEPT ###` (single space) everywhere in this
  * module." The STARS parser's README shows `"BUAD304"` with no space while its

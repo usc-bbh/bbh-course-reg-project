@@ -35,7 +35,7 @@ import { sampleStarsReport } from './sampleStudent';
 // only adds units, which §7 says would understate what a student has left.
 // GAP(stars): course-code spacing disagrees across the repo. The parser's
 // README shows `"BUAD304"`, its own committed fixture shows `"CSCI 103"`, and
-// validator/README.md says codes are normalised to `"DEPT ###"` with one space
+// next-sem-validator's analytics/README.md says codes are normalised to `"DEPT ###"` with one space
 // "everywhere in this module". We normalise on the way in (uscTerms.ts) and
 // would rather the parser settle it.
 // GAP(stars): `requirements[].label` is free text off the report, so there is
