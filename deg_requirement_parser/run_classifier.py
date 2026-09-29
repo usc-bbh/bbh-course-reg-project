@@ -87,6 +87,27 @@ MODEL_PRICES = {
 }
 
 
+# Prompt caching bills cached input separately from ordinary input, as multiples
+# of the base input price: an ephemeral (5-minute) cache write at 1.25x, a cache
+# hit at 0.1x. Those tokens do NOT appear in usage.input_tokens, so a cost
+# calculated from input_tokens alone undercounts every cached call.
+CACHE_WRITE_MULTIPLIER = 1.25
+CACHE_READ_MULTIPLIER = 0.10
+
+
+def usage_cost(usage, price_in: float, price_out: float) -> tuple[float, int, int]:
+    """Returns (cost, cache_read_tokens, cache_write_tokens) for one response."""
+    cache_read = getattr(usage, "cache_read_input_tokens", 0) or 0
+    cache_write = getattr(usage, "cache_creation_input_tokens", 0) or 0
+    billable_in = (
+        usage.input_tokens
+        + cache_write * CACHE_WRITE_MULTIPLIER
+        + cache_read * CACHE_READ_MULTIPLIER
+    )
+    cost = billable_in / 1e6 * price_in + usage.output_tokens / 1e6 * price_out
+    return cost, cache_read, cache_write
+
+
 def model_prices(model: str) -> tuple[float, float] | None:
     """Exact id first, then the longest listed id that prefixes it (dated ids)."""
     if model in MODEL_PRICES:
@@ -224,7 +245,7 @@ def format_duration(seconds: float) -> str:
 
 def make_row(stem: str, model: str, effort: str, elapsed: float, retries: int, chars_in: int,
              stop_reason: str, in_tokens: int = 0, out_tokens: int = 0, cost: float = 0.0,
-             cache_read: int = 0) -> dict:
+             cache_read: int = 0, cache_write: int = 0) -> dict:
     return {
         "stem": stem,
         "model": model,
@@ -237,6 +258,7 @@ def make_row(stem: str, model: str, effort: str, elapsed: float, retries: int, c
         "retries": retries,
         "chars_in": chars_in,
         "cache_read_input_tokens": cache_read,
+        "cache_creation_input_tokens": cache_write,
     }
 
 
@@ -263,6 +285,8 @@ def process_stem(i: int, total: int, stem: str, name: str, requirements: str, cl
     elapsed = time.perf_counter() - t0
     max_tokens_used = args.max_tokens
     note_suffix = ""
+    # A truncated first attempt is still billed, so its cost carries forward.
+    sunk_cost = 0.0
 
     # A max_tokens stop is a "successful" response as far as the API is concerned,
     # so call_api's transient-error retry never catches it. Retry once, with a
@@ -271,15 +295,17 @@ def process_stem(i: int, total: int, stem: str, name: str, requirements: str, cl
         retry_budget = min(args.max_tokens * 2, NON_STREAMING_MAX_TOKENS)
         if retry_budget > args.max_tokens:
             note_suffix = f", retried at {retry_budget:,}"
+            sunk_cost = usage_cost(resp.usage, price_in, price_out)[0]
             t1 = time.perf_counter()
             try:
                 resp, more_retries = call_api(client, args.model, content, retry_budget, extra)
             except Exception as exc:  # noqa: BLE001
                 elapsed += time.perf_counter() - t1
-                row = make_row(stem, args.model, effort_label, elapsed, retries + 1, chars_in, "error")
+                row = make_row(stem, args.model, effort_label, elapsed, retries + 1, chars_in,
+                               "error", cost=sunk_cost)
                 line = (f"[{i}/{total}] {stem}: API ERROR on truncation retry after {elapsed:.1f}s: "
                         f"{type(exc).__name__}: {exc}")
-                return {"row": row, "line": line, "failure": True, "cost": 0.0}
+                return {"row": row, "line": line, "failure": True, "cost": sunk_cost}
             elapsed += time.perf_counter() - t1
             retries += more_retries + 1
             max_tokens_used = retry_budget
@@ -287,11 +313,8 @@ def process_stem(i: int, total: int, stem: str, name: str, requirements: str, cl
             note_suffix = f", at the {NON_STREAMING_MAX_TOKENS:,}-token ceiling, not retried"
 
     text = "".join(block.text for block in resp.content if block.type == "text")
-    cost = (
-        resp.usage.input_tokens / 1e6 * price_in
-        + resp.usage.output_tokens / 1e6 * price_out
-    )
-    cache_read = getattr(resp.usage, "cache_read_input_tokens", 0) or 0
+    cost, cache_read, cache_write = usage_cost(resp.usage, price_in, price_out)
+    cost += sunk_cost
 
     with budget_lock:
         budget_state["spent"] += cost
@@ -301,7 +324,7 @@ def process_stem(i: int, total: int, stem: str, name: str, requirements: str, cl
     if resp.stop_reason == "max_tokens":
         (out_dir / f"{stem}.truncated.txt").write_text(text, encoding="utf-8")
         row = make_row(stem, args.model, effort_label, elapsed, retries, chars_in, resp.stop_reason,
-                        resp.usage.input_tokens, resp.usage.output_tokens, cost, cache_read)
+                        resp.usage.input_tokens, resp.usage.output_tokens, cost, cache_read, cache_write)
         line = (f"[{i}/{total}] {stem}: TRUNCATED again at {max_tokens_used:,} tokens{note_suffix}, "
                 f"{elapsed:.1f}s, ${cost:.3f}. Raw kept at {out_label}/{stem}.truncated.txt")
         return {"row": row, "line": line, "failure": True, "cost": cost}
@@ -320,10 +343,15 @@ def process_stem(i: int, total: int, stem: str, name: str, requirements: str, cl
         note = f"ok: {n} constraints, {u} unclassified, status={data.get('status')}"
         failure = False
 
-    cache_note = f", cache_read={cache_read}" if cache_read else ""
+    if cache_read:
+        cache_note = f", cache hit {cache_read:,}"
+    elif cache_write:
+        cache_note = f", cache write {cache_write:,}"
+    else:
+        cache_note = ", uncached"
     line = f"[{i}/{total}] {stem}: {note}{note_suffix}, {elapsed:.1f}s, ${cost:.3f}{cache_note}"
     row = make_row(stem, args.model, effort_label, elapsed, retries, chars_in, resp.stop_reason,
-                    resp.usage.input_tokens, resp.usage.output_tokens, cost, cache_read)
+                    resp.usage.input_tokens, resp.usage.output_tokens, cost, cache_read, cache_write)
     return {"row": row, "line": line, "failure": failure, "cost": cost}
 
 

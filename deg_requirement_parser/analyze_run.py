@@ -26,8 +26,9 @@ import sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
+CACHE_READ_MULTIPLIER = 0.10  # cache hits bill at this multiple of the input price
 NUMERIC_FIELDS = ("in_tokens", "out_tokens", "cost_usd", "seconds", "retries",
-                   "chars_in", "cache_read_input_tokens")
+                   "chars_in", "cache_read_input_tokens", "cache_creation_input_tokens")
 
 
 def load_rows(path: Path) -> list[dict]:
@@ -88,6 +89,13 @@ def main() -> int:
         print(f"Run started {meta.get('started_at', '?')}, finished {meta.get('finished_at', '?')}")
     else:
         print("Run wall time: n/a (no run_meta.csv — this log pre-dates whole-run timing)")
+
+    hits = sum(1 for r in rows if (r.get("cache_read_input_tokens") or 0) > 0)
+    cached_tokens = sum(r.get("cache_read_input_tokens") or 0 for r in rows)
+    if "cache_read_input_tokens" in rows[0]:
+        print(f"Prompt cache: {hits}/{len(rows)} call(s) hit it, "
+              f"{int(cached_tokens):,} input tokens served from cache at "
+              f"{CACHE_READ_MULTIPLIER:g}x price")
 
     print(f"\n{args.top} slowest programme(s):")
     slowest = sorted(rows, key=lambda r: r.get("seconds", 0.0) or 0.0, reverse=True)[: args.top]
