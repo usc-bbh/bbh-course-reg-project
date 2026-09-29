@@ -1,0 +1,263 @@
+{
+  "program": "Cognitive Science (BA)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "CGSC-BA-01",
+      "family": "Course Selection",
+      "source_text": "PHIL 246Lg Foundations of Cognitive Science Units: 4 / PSYC 100Lg Introduction to Psychology Units: 4 / PSYC 274Lg Statistics Units: 4 / PSYC 301L Cognitive Processes Units: 4",
+      "description": "Students must complete four fixed core courses totaling 16 units.",
+      "details": {
+        "fixed": [
+          "PHIL 246Lg",
+          "PSYC 100Lg",
+          "PSYC 274Lg",
+          "PSYC 301L"
+        ],
+        "measure": "units",
+        "count": {
+          "op": "eq",
+          "value": 16
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CGSC-BA-02",
+      "family": "Course Selection",
+      "source_text": "Students must take two courses from Tier 1 and three courses from Tier 2.",
+      "description": "Students select two courses from the Tier 1 flexible core list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool": [
+          "BISC 230Lgx",
+          "CSCI 103L",
+          "HBIO 200Lg",
+          "LING 210g",
+          "LING 275Lg",
+          "LING 285Lg",
+          "LING 301",
+          "LING 302",
+          "PHIL 220",
+          "PHIL 222g",
+          "PHIL 240g",
+          "PHIL 254gp",
+          "PHIL 258g",
+          "PSYC 304L"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CGSC-BA-03",
+      "family": "Course Selection",
+      "source_text": "Students must take two courses from Tier 1 and three courses from Tier 2.",
+      "description": "Students select three courses from the Tier 2 flexible core list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 3
+        },
+        "measure": "courses",
+        "pool": [
+          "BISC 421",
+          "CSCI 170",
+          "CSCI 270",
+          "CSCI 360",
+          "ECON 405",
+          "HBIO 306",
+          "HBIO 308",
+          "LING 385Lg",
+          "LING 405",
+          "LING 406",
+          "LING 407",
+          "LING 412",
+          "LING 486",
+          "LING 487",
+          "PHIL 336",
+          "PHIL 363",
+          "PHIL 462",
+          "PHIL 463",
+          "PHIL 465",
+          "PHIL 470",
+          "PSYC 305",
+          "PSYC 326",
+          "PSYC 336L",
+          "PSYC 339Lg",
+          "PSYC 422",
+          "PSYC 423",
+          "PSYC 424",
+          "PSYC 425",
+          "PSYC 433",
+          "PSYC 440",
+          "PSYC 450",
+          "PSYC 454"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CGSC-BA-04",
+      "family": "Course Selection",
+      "source_text": "Electives (Three Courses)",
+      "description": "Students select three elective courses from the given list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 3
+        },
+        "measure": "courses",
+        "pool": [
+          "BISC 230Lgx",
+          "BISC 421",
+          "BISC 424",
+          "CGSC 490x",
+          "CGSC 498",
+          "CSCI 103L",
+          "CSCI 104L",
+          "CSCI 113x",
+          "CSCI 114x",
+          "CSCI 170",
+          "CSCI 270",
+          "CSCI 360",
+          "ECON 405",
+          "HBIO 200Lg",
+          "HBIO 306",
+          "HBIO 308",
+          "HBIO 406",
+          "LING 210g",
+          "LING 275Lg",
+          "LING 285Lg",
+          "LING 301",
+          "LING 302",
+          "LING 307",
+          "LING 405",
+          "LING 406",
+          "LING 407",
+          "LING 412",
+          "LING 415",
+          "LING 450",
+          "LING 486",
+          "LING 487",
+          "PHIL 220",
+          "PHIL 222g",
+          "PHIL 240g",
+          "PHIL 254gp",
+          "PHIL 258g",
+          "PHIL 336",
+          "PHIL 363",
+          "PHIL 385",
+          "PHIL 422",
+          "PHIL 423",
+          "PHIL 427",
+          "PHIL 428",
+          "PHIL 450",
+          "PHIL 452",
+          "PHIL 462",
+          "PHIL 463",
+          "PHIL 465",
+          "PHIL 470",
+          "PHIL 486",
+          "PSYC 215Lg",
+          "PSYC 304L",
+          "PSYC 305",
+          "PSYC 314L",
+          "PSYC 320",
+          "PSYC 326",
+          "PSYC 336L",
+          "PSYC 339Lg",
+          "PSYC 360",
+          "PSYC 421L",
+          "PSYC 422",
+          "PSYC 423",
+          "PSYC 424",
+          "PSYC 425",
+          "PSYC 428",
+          "PSYC 433",
+          "PSYC 434",
+          "PSYC 436",
+          "PSYC 438",
+          "PSYC 440",
+          "PSYC 450",
+          "PSYC 452",
+          "PSYC 454",
+          "TAC 115",
+          "TAC 116",
+          "TAC 310"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CGSC-BA-05",
+      "family": "Course Reuse",
+      "source_text": "Students may not complete more than one of the following courses: TAC 115 , TAC 116 , CSCI 103L and CSCI 113x",
+      "description": "Only one of TAC 115, TAC 116, CSCI 103L, or CSCI 113x may count toward the degree.",
+      "details": {
+        "kind": "EQUIVALENT_EXCLUSIVITY",
+        "set": [
+          "TAC 115",
+          "TAC 116",
+          "CSCI 103L",
+          "CSCI 113x"
+        ],
+        "max_from_set": 1
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CGSC-BA-06",
+      "family": "Course Reuse",
+      "source_text": "A course that is listed in multiple categories can only be applied once.",
+      "description": "A course appearing in more than one category may only be counted toward one requirement.",
+      "details": {
+        "kind": "DOUBLE_COUNT",
+        "polarity": "PROHIBITS",
+        "scope": "core, flexible core, and electives categories"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CGSC-BA-07",
+      "family": "Distribution Bounds",
+      "source_text": "Students must choose a minimum of 16 upper-division units from the flexible core and electives lists.",
+      "description": "At least 16 units chosen from the flexible core and electives lists must be upper-division.",
+      "details": {
+        "kind": "LEVEL_BOUNDS",
+        "filter": "level >= 300",
+        "measure": "units",
+        "bound": {
+          "op": "min",
+          "value": 16
+        },
+        "scope": "flexible core and electives lists"
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "Note: Students that are interested in focusing on aspects of Cognitive Science that draw from Computer Science will need to take CSCI 103L , and CSCI 104L , in order to take the more advanced Computer Science offerings in the curriculum. In considering how many CSCI courses to take, students should consider that units from these courses are outside of the Dornsife College, and will not be counted toward the required Dornsife College units.",
+      "why": "Advisory guidance about planning CSCI courses, not a binding degree requirement."
+    },
+    {
+      "source_text": "The cognitive science major with honors requires the student to complete the requirements for the major with a GPA of 3.5 or above and to complete in addition CGSC 498 Honors Thesis with a grade of B or better. Intent to complete the cognitive science major with honors should be registered with the undergraduate adviser no later than the second semester of the junior year.",
+      "why": "Optional honors track requirement, which is out of scope per taxonomy rules."
+    },
+    {
+      "source_text": "Students are encouraged to refer to the suggested tracks below, and to consult with their academic adviser.",
+      "why": "Advisory statement, not a binding requirement."
+    }
+  ]
+}

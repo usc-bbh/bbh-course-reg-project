@@ -1,0 +1,85 @@
+{
+  "program": "Interdisciplinary Studies (BA)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "IDS-BA-01",
+      "family": "Manual Review",
+      "source_text": "Admission to the interdisciplinary major is by application. Applications, which may be obtained from the program office, are considered by a special admissions committee. Interested students must have a GPA of 3.0 (A = 4.0) or above; those with less than a 3.3 are the exception.",
+      "description": "Admission requires a committee-reviewed application, with GPA as one input to that review.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INITIAL_ADMISSION",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "committee-reviewed application"
+      },
+      "confidence": "medium",
+      "note": "GPA figure is part of the qualitative review clause and is kept whole per instructions rather than extracted as a numeric floor."
+    },
+    {
+      "id": "IDS-BA-02",
+      "family": "Course Selection",
+      "source_text": "The contract includes a minimum of nine (4-unit) upper-division courses, distributed in at least two fields.",
+      "description": "Students must complete at least nine 4-unit upper-division courses as part of their individualized contract.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 9
+        },
+        "measure": "courses",
+        "pool_rule": "upper-division courses (4-unit each) as defined in the student's academic contract"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "IDS-BA-03",
+      "family": "Distribution Bounds",
+      "source_text": "The contract includes a minimum of nine (4-unit) upper-division courses, distributed in at least two fields.",
+      "description": "The nine required upper-division courses must be distributed across at least two fields.",
+      "details": {
+        "kind": "DEPARTMENT_SPREAD",
+        "filter": "distinct fields",
+        "measure": "departments",
+        "bound": {
+          "op": "min",
+          "value": 2
+        },
+        "scope": "nine upper-division contract courses"
+      },
+      "confidence": "medium",
+      "note": "Taxonomy's 'departments' measure is used loosely to represent 'fields' since no closer measure exists."
+    },
+    {
+      "id": "IDS-BA-04",
+      "family": "Manual Review",
+      "source_text": "These areas of concentration must then be combined in a senior thesis, written under the supervision of the student’s Guidance Committee.",
+      "description": "Students must complete a senior thesis integrating their areas of concentration under faculty supervision.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "faculty_supervised_milestone",
+        "approver": "Guidance Committee"
+      },
+      "confidence": "medium",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "Students in the program must meet all graduation requirements of USC Dornsife College.",
+      "why": "References an external, unenumerated set of college-wide requirements rather than a specific course, count, distribution, reuse, or sequencing rule."
+    },
+    {
+      "source_text": "When admitted, students establish an academic “contract,” which outlines each student’s course of study through graduation.",
+      "why": "Describes an administrative process (creating a contract) rather than a specific, checkable degree constraint."
+    },
+    {
+      "source_text": "The primary focus of the major should be in the USC Dornsife College of Letters, Arts and Sciences.",
+      "why": "Advisory/aspirational statement ('should be') rather than a binding, checkable requirement."
+    },
+    {
+      "source_text": "Course prerequisites cannot be waived; admission to courses restricted to majors is subject to availability and direct negotiations; admission to departments and/or schools that have their own admission requirements must be processed separately.",
+      "why": "General institutional policy about prerequisites and course access rather than a degree-plan requirement fitting the taxonomy's families."
+    }
+  ]
+}

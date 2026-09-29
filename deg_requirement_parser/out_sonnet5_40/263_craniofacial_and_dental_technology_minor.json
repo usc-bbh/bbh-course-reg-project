@@ -1,0 +1,98 @@
+{
+  "program": "Craniofacial And Dental Technology Minor",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "CDT-MIN-01",
+      "family": "Course Selection",
+      "source_text": "DENT 412 Fundamentals of Craniofacial and Dental Technology Units: 3\n- BISC 320Lg Molecular Biology Units: 4\n- BISC 325 Genetics Units: 4 *\n- BME 410L Stem Cells and Biomaterials for Tissue Engineering Units: 4 *",
+      "description": "Students must complete all four listed core courses.",
+      "details": {
+        "fixed": [
+          "DENT 412",
+          "BISC 320Lg",
+          "BISC 325",
+          "BME 410L"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CDT-MIN-02",
+      "family": "Distribution Bounds",
+      "source_text": "This minor requires a minimum of 16 units outside your home department; further, at least 16 units must be unique to the minor.",
+      "description": "At least 16 units of the minor must be taken outside the student's home department.",
+      "details": {
+        "kind": "ORIGIN_BOUND",
+        "filter": "outside home department",
+        "measure": "units",
+        "bound": {
+          "op": "min",
+          "value": 16
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CDT-MIN-03",
+      "family": "Course Reuse",
+      "source_text": "This minor requires a minimum of 16 units outside your home department; further, at least 16 units must be unique to the minor.",
+      "description": "At least 16 units used for the minor must be unique to the minor and not counted elsewhere.",
+      "details": {
+        "kind": "UNIQUENESS_FLOOR",
+        "measure": "units",
+        "bound": {
+          "op": "min",
+          "value": 16
+        },
+        "scope": "minor"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CDT-MIN-04",
+      "family": "Course Selection",
+      "source_text": "Enroll in at least two courses from the following to complete at least 16 units outside your home department; further, at least 16 units must be unique to the minor: BISC 330L Biochemistry Units: 4 *; BISC 403 Advanced Molecular Biology Units: 4 *; BISC 406L Biotechnology Units: 4 *; BISC 410 Applications of Molecular Biology to Medicine Units: 4 *; BISC 435 Advanced Biochemistry Units: 4 *; BME 404 Computational Neuromechanics Units: 4 *; BME 415 Regulation of Medical Products Units: 2; BME 416L Development and Regulation of Medical Products Units: 4; BME 451L Fundamentals of Biomedical Microdevices Units: 4 *; DENT 221 Introduction to Dentistry Units: 1; ENGR 305 Engineering Biology Matters Units: 3; HP 340Lg Health Behavior Statistical Methods Units: 4; HP 350L Health Behavior Research Methods Units: 4; MASC 310L Materials Behavior and Processing Units: 4; RXRS 416 Medical Products: From Idea to Market Units: 4",
+      "description": "Students must enroll in at least two elective courses from the specified list.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool": [
+          "BISC 330L",
+          "BISC 403",
+          "BISC 406L",
+          "BISC 410",
+          "BISC 435",
+          "BME 404",
+          "BME 415",
+          "BME 416L",
+          "BME 451L",
+          "DENT 221",
+          "ENGR 305",
+          "HP 340Lg",
+          "HP 350L",
+          "MASC 310L",
+          "RXRS 416"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "*Prerequisite required",
+      "why": "This is a generic footnote flagging that some listed courses have prerequisites, not a specific sequencing rule between named courses that can be encoded."
+    },
+    {
+      "source_text": "Please see a biomedical engineering, biological sciences or Herman Ostrow School of Dentistry adviser for specific program requirements.",
+      "why": "Advisory statement directing students to consult an adviser, not a binding degree requirement."
+    }
+  ]
+}

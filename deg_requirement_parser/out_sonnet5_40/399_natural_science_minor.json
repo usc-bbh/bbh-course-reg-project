@@ -1,0 +1,76 @@
+{
+  "program": "Natural Science Minor",
+  "status": "ok",
+  "constraints": [
+    {
+      "id": "NSM-01",
+      "family": "Manual Review",
+      "source_text": "This minor is not available to majors in the natural sciences.",
+      "description": "Natural sciences majors may not declare this minor.",
+      "details": {
+        "kind": "PROGRAM_RULE",
+        "direction": "EXCLUDES",
+        "applies_to": "natural sciences majors"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "NSM-02",
+      "family": "Course Selection",
+      "source_text": "Any five courses from among: BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4, BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4, CHEM 105aLg General Chemistry Units: 4 or CHEM 115aLg Advanced General Chemistry Units: 4, CHEM 105bL General Chemistry Units: 4 or CHEM 115bL Advanced General Chemistry Units: 4, PHYS 135aLg Physics for the Life Sciences Units: 4, PHYS 135bL Physics for the Life Sciences Units: 4",
+      "description": "Students choose five courses from the listed foundation science courses (with paired alternatives).",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 5
+        },
+        "measure": "courses",
+        "pool": [
+          "BISC 120Lg",
+          "BISC 121Lg",
+          "BISC 220Lg",
+          "BISC 221Lg",
+          "CHEM 105aLg",
+          "CHEM 115aLg",
+          "CHEM 105bL",
+          "CHEM 115bL",
+          "PHYS 135aLg",
+          "PHYS 135bL"
+        ]
+      },
+      "confidence": "medium",
+      "note": "The list contains paired or-alternatives (e.g. BISC 120Lg or BISC 121Lg); represented as a flat pool since taxonomy has no nested-pair structure."
+    },
+    {
+      "id": "NSM-03",
+      "family": "Course Selection",
+      "source_text": "And a capstone course: BISC 321 Multidisciplinary Seminar: Science, Technology and Society Units: 2",
+      "description": "Students must complete the capstone course BISC 321.",
+      "details": {
+        "fixed": [
+          "BISC 321"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "NSM-04",
+      "family": "Course Selection",
+      "source_text": "Any two courses chosen from among those offered for major credit by the departments of chemistry , physics , biological sciences and earth sciences .",
+      "description": "Students choose two elective courses offered for major credit by the chemistry, physics, biological sciences, or earth sciences departments.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool_rule": "offered for major credit by the departments of chemistry, physics, biological sciences and earth sciences"
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": []
+}

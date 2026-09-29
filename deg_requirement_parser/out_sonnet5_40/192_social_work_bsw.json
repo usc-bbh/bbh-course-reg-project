@@ -1,0 +1,187 @@
+{
+  "program": "Social Work (BSW)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "SWBSW-01",
+      "family": "Manual Review",
+      "source_text": "fulfilling lower-division general education requisites",
+      "description": "Students must complete lower-division general education requirements, but no course list is given.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "no_enumerated_list",
+        "scope": "lower-division general education"
+      },
+      "confidence": "medium",
+      "note": "No specific GE course list provided in this text."
+    },
+    {
+      "id": "SWBSW-02",
+      "family": "Manual Review",
+      "source_text": "mandatory prerequisite courses",
+      "description": "Students must complete mandatory prerequisite courses, but no list is provided.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "no_enumerated_list",
+        "scope": "prerequisite courses"
+      },
+      "confidence": "medium",
+      "note": "No enumerated prerequisite course list given."
+    },
+    {
+      "id": "SWBSW-03",
+      "family": "Manual Review",
+      "source_text": "selecting one elective course",
+      "description": "Students must select one elective course, with no defined pool given.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "medium",
+      "note": "Corresponds to 'SOWK Elective (4 Units)' section which lists no specific courses."
+    },
+    {
+      "id": "SWBSW-04",
+      "family": "Manual Review",
+      "source_text": "fulfilling 440 hours of social work practicum internship",
+      "description": "Students must complete 440 hours of supervised social work practicum internship.",
+      "details": {
+        "kind": "HOURS",
+        "count": {
+          "op": "eq",
+          "value": 440
+        },
+        "measure": "hours",
+        "setting": "social work practicum internship"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "SWBSW-05",
+      "family": "Course Selection",
+      "source_text": "SOWK 300 Foundations of Social Work Units: 4\n- SOWK 306 Intro to Human Behavior and the Social Environment Units: 4\n- SOWK 330 Intercultural Humility in Social Work Units: 4\n- SOWK 336 Social Work Policy Advocacy for Social Change Units: 4",
+      "description": "Students must complete all four listed Foundations of Social Work and Human Well-being courses (16 units).",
+      "details": {
+        "fixed": [
+          "SOWK 300",
+          "SOWK 306",
+          "SOWK 330",
+          "SOWK 336"
+        ],
+        "count": {
+          "op": "eq",
+          "value": 16
+        },
+        "measure": "units"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "SWBSW-06",
+      "family": "Course Selection",
+      "source_text": "SOWK 110 Thriving: Connecting Wellness, Identity and Systems Units: 4\n- SOWK 210 Global Well-being and Human Performance Units: 4\n- SOWK 323 Intercultural Coaching, Care Coordination and Perspectives Units: 4",
+      "description": "Students must complete all three listed Wellness courses (12 units).",
+      "details": {
+        "fixed": [
+          "SOWK 110",
+          "SOWK 210",
+          "SOWK 323"
+        ],
+        "count": {
+          "op": "eq",
+          "value": 12
+        },
+        "measure": "units"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "SWBSW-07",
+      "family": "Course Selection",
+      "source_text": "SOWK 346 Evidence-Based Social Work Practice (EBSWP) Units: 4",
+      "description": "Students must complete the required Research course, SOWK 346 (4 units).",
+      "details": {
+        "fixed": [
+          "SOWK 346"
+        ],
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "units"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "SWBSW-08",
+      "family": "Course Selection",
+      "source_text": "SOWK 423a Macro Social Work Practice Units: 4\n- SOWK 423b Macro Social Work Practice Units: 4\n- SOWK 425a Micro and Mezzo Social Work Practice Units: 4\n- SOWK 425b Micro and Mezzo Social Work Practice Units: 4",
+      "description": "Students must complete all four listed Practice courses (16 units).",
+      "details": {
+        "fixed": [
+          "SOWK 423a",
+          "SOWK 423b",
+          "SOWK 425a",
+          "SOWK 425b"
+        ],
+        "count": {
+          "op": "eq",
+          "value": 16
+        },
+        "measure": "units"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "SWBSW-09",
+      "family": "Course Selection",
+      "source_text": "Provides applied, supervised field/internship experience in social work settings and may be repeated for variable credit, with students completing a total of 8 units to meet the program requirement. Selected in consultation with an adviser.\n\n- SOWK 491 Social Work Integrative Practicum Units: 4",
+      "description": "Students must complete SOWK 491, repeated as needed, for a total of 8 units of practicum education.",
+      "details": {
+        "fixed": [
+          "SOWK 491"
+        ],
+        "count": {
+          "op": "eq",
+          "value": 8
+        },
+        "measure": "units"
+      },
+      "confidence": "high",
+      "note": "Course is repeatable to reach the 8-unit total; treated as a fixed requirement with a unit target rather than a choice."
+    },
+    {
+      "id": "SWBSW-10",
+      "family": "Manual Review",
+      "source_text": "Selected in consultation with an adviser.",
+      "description": "The SOWK elective must be selected in consultation with an adviser.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "no_enumerated_list",
+        "approver": "adviser"
+      },
+      "confidence": "medium",
+      "note": "Duplicate/supporting detail to SWBSW-03; kept separate since it appears as its own sentence under the SOWK Elective heading."
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "To earn the BSW degree, students must successfully complete a total of 128 units, with 60 units specifically allocated to courses in the social work major.",
+      "why": "This states an overall degree/major total unit count rather than a bounded selection, distribution split, reuse rule, sequence, or manual-review item; no family covers a bare total-degree-unit requirement."
+    },
+    {
+      "source_text": "Students must also demonstrate a strong commitment to ethical practice and professionalism grounded in principles of wellness, resilience and reflective practice.",
+      "why": "This is an aspirational/qualitative statement about character and professionalism, not a checkable course, unit, sequencing, or admission requirement."
+    }
+  ]
+}

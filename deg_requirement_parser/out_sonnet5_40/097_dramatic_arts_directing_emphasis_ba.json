@@ -1,0 +1,141 @@
+{
+  "program": "Dramatic Arts Directing Emphasis BA",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "DA-DIR-01",
+      "family": "Course Selection",
+      "source_text": "THTR 101 Introduction to Acting Units: 4\n- THTR 130 Introduction to Theatrical Production Units: 2\n- THTR 152 Introduction to Scene Study: Contemporary Plays Units: 4\n- THTR 230 Theatrical Design as Poetic Realism Units: 3\n- THTR 232 Introduction to Theatrical Lighting Units: 3\n- THTR 305a Directing Units: 4\n- THTR 305b Directing Units: 4\n- THTR 397 Theatre Practicum Units: 1, 2, 3, 4\n- THTR 451 Leadership Tools for the Director Units: 4\n- THTR 495 Experimental Theatre Workshop I Units: 4\n- THTR 496 Experimental Theatre Workshop II Units: 4",
+      "description": "Students must complete all listed required directing courses.",
+      "details": {
+        "fixed": [
+          "THTR 101",
+          "THTR 130",
+          "THTR 152",
+          "THTR 230",
+          "THTR 232",
+          "THTR 305a",
+          "THTR 305b",
+          "THTR 397",
+          "THTR 451",
+          "THTR 495",
+          "THTR 496"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "DA-DIR-02",
+      "family": "Course Selection",
+      "source_text": "Select one course from the following: (4 units)\n\n- THTR 309 Dramaturgy Units: 4\n- THTR 395m Drama as Human Relations Units: 4\n- THTR 401 Contemporary Theatre in a Changing World Units: 4\n- THTR 403 The Performing Arts Units: 4",
+      "description": "Student selects one Worldview elective course from the given list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "THTR 309",
+          "THTR 395m",
+          "THTR 401",
+          "THTR 403"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "DA-DIR-03",
+      "family": "Course Selection",
+      "source_text": "Select one course from the following: (3 - 4units)\n\n- THTR 303 Projection Design I Units: 3\n- THTR 331 Costume Design I Units: 4\n- THTR 336 Sound Design I Units: 3",
+      "description": "Student selects one Design elective course from the given list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "THTR 303",
+          "THTR 331",
+          "THTR 336"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "DA-DIR-04",
+      "family": "Course Selection",
+      "source_text": "Complete the two required courses below. In addition, take one course from List A and one course from either list A or B.\n\n- THTR 125 Text Studies for Production Units: 4\n- THTR 225g Theatre Across History and Cultures Units: 4\n\n### List A\n\n- THTR 310 Comedy and Diversity Units: 4\n- THTR 312 LGBTQ Theatre Units: 4\n- THTR 395m Drama as Human Relations Units: 4\n- THTR 405m Performing Identities Units: 4\n- THTR 406 Theatre on the Edge Units: 4\n- THTR 456 Latinx Theatre Units: 4\n- THTR 460 Asian and Asian American Theatre: Identity and Aesthetics Units: 4\n- THTR 476mw African American Theatre, Dance, and Performance Units: 4\n\n### List B\n\n- THTR 301 Greek and Roman Theatre Units: 4\n- THTR 302 Shakespeare in His World Units: 4\n- THTR 313 Comedy of Manners Units: 4\n- THTR 314 Advanced Topics in Modern Drama Units: 4\n- THTR 400 Eco-Theatre: Art and Science in Contemporary Plays Units: 4\n- THTR 403 The Performing Arts Units: 4",
+      "description": "Students complete two fixed Critical Studies courses, plus one course from List A and one course from either List A or List B.",
+      "details": {
+        "fixed": [
+          "THTR 125",
+          "THTR 225g"
+        ],
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "THTR 310",
+              "THTR 312",
+              "THTR 395m",
+              "THTR 405m",
+              "THTR 406",
+              "THTR 456",
+              "THTR 460",
+              "THTR 476mw"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "THTR 310",
+              "THTR 312",
+              "THTR 395m",
+              "THTR 405m",
+              "THTR 406",
+              "THTR 456",
+              "THTR 460",
+              "THTR 476mw",
+              "THTR 301",
+              "THTR 302",
+              "THTR 313",
+              "THTR 314",
+              "THTR 400",
+              "THTR 403"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "DA-DIR-05",
+      "family": "Manual Review",
+      "source_text": "Required General Education Units: 36",
+      "description": "36 units of General Education courses are required, with no specific course list given here.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 36
+        },
+        "measure": "units",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "medium",
+      "note": "GE requirement stated as a unit total without an enumerated course pool in this section."
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "Total Units: 128",
+      "why": "This is the overall degree unit total, not a filterable subset or countable pool of courses; it doesn't fit any single family's filter-measure-bound pattern."
+    }
+  ]
+}

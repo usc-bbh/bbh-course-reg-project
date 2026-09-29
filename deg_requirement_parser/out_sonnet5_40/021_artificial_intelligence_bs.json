@@ -1,0 +1,430 @@
+{
+  "program": "Artificial Intelligence (BS)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "AI-BS-01",
+      "family": "Course Selection",
+      "source_text": "WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4",
+      "description": "Students must complete WRIT 150 and WRIT 340.",
+      "details": {
+        "fixed": [
+          "WRIT 150",
+          "WRIT 340"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-02",
+      "family": "Manual Review",
+      "source_text": "General Education (20 units)",
+      "description": "Students must complete 20 units of General Education requirements with no specific course list given here.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 20
+        },
+        "measure": "units",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "medium",
+      "note": "References the separate General Education Program for the actual course list."
+    },
+    {
+      "id": "AI-BS-03",
+      "family": "Course Selection",
+      "source_text": "ENGR 102 Viterbi First-Year Academy Units: 2\n- ENGR 103 Artificial Intelligence: An Introduction Units: 2",
+      "description": "Students must complete ENGR 102 and ENGR 103.",
+      "details": {
+        "fixed": [
+          "ENGR 102",
+          "ENGR 103"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-04",
+      "family": "Course Selection",
+      "source_text": "EE 141L Applied Linear Algebra for Engineering Units: 4\n- MATH 125g Calculus I Units: 4",
+      "description": "Students must complete EE 141L and MATH 125g.",
+      "details": {
+        "fixed": [
+          "EE 141L",
+          "MATH 125g"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-05",
+      "family": "Course Selection",
+      "source_text": "MATH 126g Calculus II Units: 4 or\n- MATH 129 Calculus II for Engineers and Scientists Units: 4",
+      "description": "Students choose either MATH 126g or MATH 129.",
+      "details": {
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "MATH 126g",
+              "MATH 129"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-06",
+      "family": "Course Selection",
+      "source_text": "MATH 226g Calculus III Units: 4 or\n- MATH 229 Calculus III for Engineers and Scientists Units: 4",
+      "description": "Students choose either MATH 226g or MATH 229.",
+      "details": {
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "MATH 226g",
+              "MATH 229"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-07",
+      "family": "Course Selection",
+      "source_text": "Take one of the following courses:\n- BISC 104Lgx How the Body Works Units: 4\n- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4\n- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4\n- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4\n- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4\n- BISC 230Lgx The Biology of the Brain Units: 4\n- HBIO 205Lgx The Science of Sport Units: 4\n- PHIL 246Lg Foundations of Cognitive Science Units: 4",
+      "description": "Students choose one biology course from the given list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "BISC 104Lgx",
+          "BISC 120Lg",
+          "BISC 121Lg",
+          "BISC 220Lg",
+          "BISC 221Lg",
+          "BISC 230Lgx",
+          "HBIO 205Lgx",
+          "PHIL 246Lg"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-08",
+      "family": "Course Selection",
+      "source_text": "PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 or\n- PHYS 161Lg Advanced Principles of Physics I Units: 4",
+      "description": "Students choose either PHYS 151Lg or PHYS 161Lg.",
+      "details": {
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "PHYS 151Lg",
+              "PHYS 161Lg"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-09",
+      "family": "Course Selection",
+      "source_text": "CSCI 113x Programming Fundamentals for Computing Units: 4\n- CSCI 114x Programming for Applications of Computing Units: 4\n- CSCI 170 Discrete Methods in Computer Science Units: 4",
+      "description": "Students must complete CSCI 113x, CSCI 114x, and CSCI 170.",
+      "details": {
+        "fixed": [
+          "CSCI 113x",
+          "CSCI 114x",
+          "CSCI 170"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-10",
+      "family": "Course Selection",
+      "source_text": "ISE 220 Foundations of Probability Modeling Units: 4\n- ISE 225 Foundations of Data Analysis Units: 4",
+      "description": "Students must complete ISE 220 and ISE 225.",
+      "details": {
+        "fixed": [
+          "ISE 220",
+          "ISE 225"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-11",
+      "family": "Course Selection",
+      "source_text": "EE 109L Introduction to Embedded Systems Units: 4",
+      "description": "Students must complete EE 109L.",
+      "details": {
+        "fixed": [
+          "EE 109L"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-12",
+      "family": "Course Selection",
+      "source_text": "CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4\n- ENGR 203 Artificial Intelligence: Exploration in Current Applications Units: 2",
+      "description": "Students must complete CSCI 270 and ENGR 203.",
+      "details": {
+        "fixed": [
+          "CSCI 270",
+          "ENGR 203"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-13",
+      "family": "Course Selection",
+      "source_text": "CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4",
+      "description": "Students must complete CSCI 360.",
+      "details": {
+        "fixed": [
+          "CSCI 360"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-14",
+      "family": "Course Selection",
+      "source_text": "CSCI 467 Foundations of Machine Learning Units: 4 or\n- EE 460 Machine Learning for Engineers Units: 4",
+      "description": "Students choose either CSCI 467 or EE 460.",
+      "details": {
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "CSCI 467",
+              "EE 460"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-15",
+      "family": "Course Selection",
+      "source_text": "EIS 370 Ethical Issues in Artificial Intelligence Units: 4\n- ISE 330 Optimization Units: 4",
+      "description": "Students must complete EIS 370 and ISE 330.",
+      "details": {
+        "fixed": [
+          "EIS 370",
+          "ISE 330"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-16",
+      "family": "Course Selection",
+      "source_text": "Choose one of the following three tracks (24 units)",
+      "description": "Students choose one of three tracks: Computing Foundations and Applications, Hardware Systems for AI, or AI Systems and Operations Engineering.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "tracks",
+        "pool": [
+          "Computing Foundations and Applications Track",
+          "Hardware Systems for AI Track",
+          "AI Systems and Operations Engineering Track"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-17",
+      "family": "Course Selection",
+      "source_text": "CSCI 201 Principles of Software Development Units: 4\n- CSCI 401 Capstone: Design and Construction of Large Software Systems Units: 4",
+      "description": "In the Computing Foundations and Applications Track, students must complete CSCI 201 and CSCI 401.",
+      "details": {
+        "fixed": [
+          "CSCI 201",
+          "CSCI 401"
+        ],
+        "scope": "Computing Foundations and Applications Track"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-18",
+      "family": "Course Selection",
+      "source_text": "Choose four of the following classes (16 units):\n- CSCI 444 Language Models in Natural Language Processing Units: 4\n- CSCI 445L Foundations of Robotics Units: 4\n- CSCI 452 Parallel and Distributed Computation Units: 4\n- CSCI 461 Artificial Intelligence for Sustainable Development Units: 4\n- CSCI 468 Trustworthy Artificial Intelligence Units: 4\n- CSCI 469 Computer Vision Units: 4\n- EE 456 Reinforcement Learning and Applications Units: 4",
+      "description": "In the Computing Foundations and Applications Track, students choose four courses from the listed pool.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "courses",
+        "pool": [
+          "CSCI 444",
+          "CSCI 445L",
+          "CSCI 452",
+          "CSCI 461",
+          "CSCI 468",
+          "CSCI 469",
+          "EE 456"
+        ],
+        "scope": "Computing Foundations and Applications Track"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-19",
+      "family": "Course Selection",
+      "source_text": "EE 250L Distributed Systems for the Internet of Things Units: 4\n- EE 354L Digital Circuits Units: 4\n- EE 461 Machine Learning with Distributed Computing Systems Units: 4\n- EE 462L Hardware Design and Optimization for Machine Learning Units: 4\n- EE 496 Capstone Design Units: 4",
+      "description": "In the Hardware Systems for AI Track, students must complete these five fixed courses.",
+      "details": {
+        "fixed": [
+          "EE 250L",
+          "EE 354L",
+          "EE 461",
+          "EE 462L",
+          "EE 496"
+        ],
+        "scope": "Hardware Systems for AI Track"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-20",
+      "family": "Course Selection",
+      "source_text": "Choose one of the following (4 units)\n- EE 451 Parallel and Distributed Computation Units: 4\n- EE 454L System-on-Chip Units: 4\n- EE 456 Reinforcement Learning and Applications Units: 4\n- EE 457 Computer Systems Organization Units: 4\n- EE 477L MOS VLSI Circuit Design Units: 4",
+      "description": "In the Hardware Systems for AI Track, students choose one course from the listed pool.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "EE 451",
+          "EE 454L",
+          "EE 456",
+          "EE 457",
+          "EE 477L"
+        ],
+        "scope": "Hardware Systems for AI Track"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-21",
+      "family": "Course Selection",
+      "source_text": "ISE 227 Enterprise Process Engineering Units: 4\n- ISE 325 Modeling for Predictive Analytics Units: 4\n- ISE 382 Database Systems: Storage and Retrieval using SQL Units: 4\n- ISE 430 Advanced Analytics Units: 4\n- ISE 480 Data Engineering Units: 4",
+      "description": "In the AI Systems and Operations Engineering Track, students must complete these five fixed courses.",
+      "details": {
+        "fixed": [
+          "ISE 227",
+          "ISE 325",
+          "ISE 382",
+          "ISE 430",
+          "ISE 480"
+        ],
+        "scope": "AI Systems and Operations Engineering Track"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-22",
+      "family": "Course Selection",
+      "source_text": "Choose one of the following (4 units)\n- ISE 315L Engineering Project Management Units: 4\n- ISE 435L Discrete Systems Simulation Units: 4\n- ISE 440 Socio-Technical Systems and Work Organizations Units: 4\n- ISE 470 Human/Computer Interface Design Units: 4",
+      "description": "In the AI Systems and Operations Engineering Track, students choose one course from the listed pool.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "ISE 315L",
+          "ISE 435L",
+          "ISE 440",
+          "ISE 470"
+        ],
+        "scope": "AI Systems and Operations Engineering Track"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AI-BS-23",
+      "family": "Manual Review",
+      "source_text": "Free Elective (2 units)",
+      "description": "Students must complete 2 units of free elective, with no specific course list given.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "units",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "AI-BS-24",
+      "family": "Manual Review",
+      "source_text": "Students transferring into this program after the first year may petition for other programming sequences or a different linear algebra class to substitute for the required courses.",
+      "description": "Transfer students may petition to substitute other programming or linear algebra courses for required courses.",
+      "details": {
+        "kind": "DISCRETIONARY",
+        "action": "SUBSTITUTE",
+        "approver": "program/department via petition"
+      },
+      "confidence": "medium",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "The minimum requirement for the degree is 128 units.",
+      "why": "Overall degree unit total is a general programmatic fact rather than a filter-measure-bound pool constraint covered by any family."
+    },
+    {
+      "source_text": "In addition to the 20 units of general education requirements above, the GE-D, GE-E, and GE-F general education requirements are satisfied by the Biology, Physics, and Mathematics pre-major requirements, respectively.",
+      "why": "This is an explanatory equivalence statement about how GE categories are satisfied, not a new independent constraint on course selection."
+    }
+  ]
+}

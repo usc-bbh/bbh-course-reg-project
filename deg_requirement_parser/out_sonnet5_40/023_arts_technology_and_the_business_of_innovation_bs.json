@@ -1,0 +1,261 @@
+{
+  "program": "Arts Technology And The Business Of Innovation BS",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "ATBI-01",
+      "family": "Distribution Bounds",
+      "source_text": "The degree requires a total of at least 128 units, including 52 units in the core and 36 units in major electives.",
+      "description": "The degree requires 52 units of core coursework and 36 units of major electives out of at least 128 total units.",
+      "details": {
+        "kind": "CATEGORY_BOUNDS",
+        "total": {
+          "op": "min",
+          "value": 128
+        },
+        "measure": "units",
+        "categories": [
+          {
+            "filter": "core",
+            "min": 52,
+            "max": 52
+          },
+          {
+            "filter": "major electives",
+            "min": 36,
+            "max": 36
+          }
+        ]
+      },
+      "confidence": "medium",
+      "note": "Total degree unit count with two named subcategories; no clean single family fits the overall total, best represented as category bounds."
+    },
+    {
+      "id": "ATBI-02",
+      "family": "Course Selection",
+      "source_text": "ACAD 174 Innovators Forum Units: 2 (needs to be taken twice); ACAD 376 Industry Practicum I: Designing and Implementing Real-World Solutions Units: 4 or credit bearing industry internship(s); ACAD 475a The Garage Experience Units: 4; ACAD 475b The Garage Experience Units: 4",
+      "description": "Students must complete ACAD 174 (twice), ACAD 376 (or a credit-bearing industry internship), ACAD 475a, and ACAD 475b as part of the 16-unit Challenge Based Reflective Learning requirement.",
+      "details": {
+        "fixed": [
+          "ACAD 174",
+          "ACAD 174",
+          "ACAD 475a",
+          "ACAD 475b"
+        ],
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "ACAD 376",
+              "credit bearing industry internship(s)"
+            ]
+          }
+        ],
+        "scope": "Challenge Based Reflective Learning Required Courses (16 Units)"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ATBI-03",
+      "family": "Course Selection",
+      "source_text": "Take 8 units from the following: ACAD 183 Product Management for Challenge-Based Innovation Units: 4; ACAD 184 Operations Management and Finance for Challenge-Based Innova Units: 4 or ACAD 185 Analytics and Marketing for Challenge-Based Innovation Units: 4",
+      "description": "Students must take 8 units from the listed Business Requirements courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 8
+        },
+        "measure": "units",
+        "pool": [
+          "ACAD 183",
+          "ACAD 184",
+          "ACAD 185"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ATBI-04",
+      "family": "Course Selection",
+      "source_text": "Take ACAD 176 and 8 units from within one of the following paths: ACAD 176 Rapid Visualization Units: 4 / Path 1: ACAD 324g or ACAD 325, ACAD 360 / Path 2: ACAD 187, ACAD 188, ACAD 245, ACAD 288, ACAD 444, ACAD 445",
+      "description": "Students must take ACAD 176 plus 8 units from one of two design paths.",
+      "details": {
+        "fixed": [
+          "ACAD 176"
+        ],
+        "count": {
+          "op": "eq",
+          "value": 8
+        },
+        "measure": "units",
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "Path 1: ACAD 324g/ACAD 325 + ACAD 360",
+              "Path 2: ACAD 187, ACAD 188, ACAD 245, ACAD 288, ACAD 444, ACAD 445"
+            ]
+          }
+        ],
+        "scope": "Design Requirements (12 units)"
+      },
+      "confidence": "medium",
+      "note": "Path contents contain internal choices (e.g., ACAD 324g or ACAD 325) simplified into path description."
+    },
+    {
+      "id": "ATBI-05",
+      "family": "Course Selection",
+      "source_text": "Take ACAD 274 and 12 units from within one of the following tech paths: ACAD 274 Designing Interactive Data Systems Units: 4 / Physical and Embedded Computing for Enhanced Human Performance / Transformative AI / Full Stack Web Development / Extended Reality",
+      "description": "Students must take ACAD 274 plus 12 units from one of four technology paths.",
+      "details": {
+        "fixed": [
+          "ACAD 274"
+        ],
+        "count": {
+          "op": "eq",
+          "value": 12
+        },
+        "measure": "units",
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "Physical and Embedded Computing for Enhanced Human Performance",
+              "Transformative AI",
+              "Full Stack Web Development",
+              "Extended Reality"
+            ]
+          }
+        ],
+        "scope": "Technology Requirements (16 units)"
+      },
+      "confidence": "medium",
+      "note": "Each path itself lists multiple specific courses; represented at path level."
+    },
+    {
+      "id": "ATBI-06",
+      "family": "Course Selection",
+      "source_text": "Complete 36 units from the following. No more than 20 units outside of the school. ACAD and IDSN courses have no unit restrictions.",
+      "description": "Students must complete 36 units of major electives from the listed cross-cutting category course lists.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 36
+        },
+        "measure": "units",
+        "pool_rule": "courses from the Augmented Intelligence and Data Innovation, Business of Innovation, Design Foundation, Design Strategy, Extended Reality, Health Innovation, Interactive Technologies and Physical Computing, and Product Innovation elective category lists"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ATBI-07",
+      "family": "Distribution Bounds",
+      "source_text": "No more than 20 units outside of the school. ACAD and IDSN courses have no unit restrictions.",
+      "description": "No more than 20 of the 36 major elective units may come from outside the school, while ACAD and IDSN courses are exempt from this restriction.",
+      "details": {
+        "kind": "ORIGIN_BOUND",
+        "filter": "outside the school",
+        "measure": "units",
+        "bound": {
+          "op": "max",
+          "value": 20
+        },
+        "scope": "36 units of Major Electives"
+      },
+      "confidence": "high",
+      "note": "ACAD and IDSN exemption noted but not separately modeled."
+    },
+    {
+      "id": "ATBI-08",
+      "family": "Course Reuse",
+      "source_text": "Note: Courses from the design, technology or business requirements cannot be taken for duplicate elective credit.",
+      "description": "Courses already used to satisfy Design, Technology, or Business requirements cannot also count as Major Elective credit.",
+      "details": {
+        "kind": "DOUBLE_COUNT",
+        "polarity": "PROHIBITS",
+        "scope": "Design, Technology, or Business Requirements vs. Major Electives"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ATBI-09",
+      "family": "Distribution Bounds",
+      "source_text": "It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing.",
+      "description": "General education requires eight courses spread across six Core Literacies categories, each represented at least once.",
+      "details": {
+        "kind": "CATEGORY_BOUNDS",
+        "total": {
+          "op": "eq",
+          "value": 8
+        },
+        "measure": "courses",
+        "groups": {
+          "count": 6,
+          "min_each": 1,
+          "measure": "courses"
+        }
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "ATBI-10",
+      "family": "Course Selection",
+      "source_text": "plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies)",
+      "description": "Students must complete two courses in Global Perspectives.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool_rule": "Global Perspectives-designated courses"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ATBI-11",
+      "family": "Course Reuse",
+      "source_text": "plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies)",
+      "description": "Global Perspectives courses may double-count with Core Literacies courses.",
+      "details": {
+        "kind": "DOUBLE_COUNT",
+        "polarity": "PERMITS",
+        "scope": "Global Perspectives and Core Literacies"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ATBI-12",
+      "family": "Course Selection",
+      "source_text": "and two courses in writing.",
+      "description": "Students must complete two writing courses as part of general education.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool_rule": "writing-designated courses"
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "Students must select elective courses from the Academy’s offerings in cross-cutting industry areas such as extended reality, product innovation, interactive and physical computing, transformative AI, business of innovation, design strategy and health innovation.",
+      "why": "This is a general descriptive restatement of the Major Electives requirement (already captured in ATBI-06) rather than a distinct new constraint."
+    },
+    {
+      "source_text": "In consultation with their academic adviser, students may also petition to create unique degree paths by selecting courses from academic units or disciplines outside of the Academy.",
+      "why": "This describes a discretionary, adviser-approved petition process without a defined course pool or count, and is optional rather than a binding requirement."
+    }
+  ]
+}

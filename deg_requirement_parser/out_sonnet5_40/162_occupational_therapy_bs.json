@@ -1,0 +1,244 @@
+{
+  "program": "Occupational Therapy (BS)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "OT-BS-01",
+      "family": "Manual Review",
+      "source_text": "Current USC freshmen and sophomores may apply to change their major to the Occupational Therapy (BS-OTD) program. Applicants must have a minimum USC GPA of 3.0 (or a 3.0 high school GPA if enrolled at USC for less than one semester). Applicants must submit a personal statement, develop an academic plan with the OT Major Adviser, and submit materials to the Chan Division admissions office.",
+      "description": "Internal transfer into the OT major requires a qualitative review including GPA, personal statement, academic plan, and application materials.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INTERNAL_TRANSFER",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "personal statement, academic plan with OT Major Adviser, and materials submitted to Chan Division admissions office"
+      },
+      "confidence": "medium",
+      "note": "GPA figure kept as part of qualitative review per rule about GPA as one input among others."
+    },
+    {
+      "id": "OT-BS-02",
+      "family": "Distribution Bounds",
+      "source_text": "An occupational therapy major cannot count any 300-level OT course toward the BS degree.",
+      "description": "No 300-level OT course may count toward the BS degree.",
+      "details": {
+        "kind": "LEVEL_BOUNDS",
+        "filter": "OT courses, level 300",
+        "measure": "courses",
+        "bound": {
+          "op": "max",
+          "value": 0
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "OT-BS-03",
+      "family": "Distribution Bounds",
+      "source_text": "The general education program requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing.",
+      "description": "GE requires eight courses across six Core Literacies, two Global Perspectives courses, and two writing courses.",
+      "details": {
+        "kind": "CATEGORY_BOUNDS",
+        "categories": [
+          {
+            "filter": "Core Literacies (6 areas)",
+            "min": 8,
+            "max": 8
+          },
+          {
+            "filter": "Global Perspectives",
+            "min": 2,
+            "max": 2
+          },
+          {
+            "filter": "Writing",
+            "min": 2,
+            "max": 2
+          }
+        ],
+        "measure": "courses"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "OT-BS-04",
+      "family": "Course Reuse",
+      "source_text": "plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies)",
+      "description": "Global Perspectives courses may double-count toward Core Literacies requirements.",
+      "details": {
+        "kind": "DOUBLE_COUNT",
+        "polarity": "PERMITS",
+        "scope": "Global Perspectives and Core Literacies"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "OT-BS-05",
+      "family": "Sequencing",
+      "source_text": "Students must successfully complete the pre-professional required courses prior to taking the advanced professional courses.",
+      "description": "Pre-professional courses must be completed before advanced professional courses.",
+      "details": {
+        "kind": "PREREQUISITE",
+        "before": "pre-professional required courses",
+        "after": "advanced professional courses"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "OT-BS-06",
+      "family": "Course Selection",
+      "source_text": "OT 200 Medical Terminology for Health Professions Units: 1 - OT 250 Introduction to Occupational Science and Occupational Therapy Units: 4 or SOCI 200gm Introduction to Sociology Units: 4 or ANTH 201g Introduction to Social and Cultural Anthropology Units: 4 - OT 251 Across the Lifespan: Occupations, Health and Disability Units: 4 or EDUC 589 Lifespan Development Units: 3 or PSYC 336L Developmental Psychology Units: 4 with PSYC 337L Adult Development and Aging Units: 4 - OT 260 Human Functional Anatomy for Allied Health Professions Units: 3 or HBIO 301L Human Anatomy Units: 4 (with laboratory) - OT 261 Human Physiology for Allied Health Professions Units: 3 or BISC 307L General Physiology Units: 4 or HBIO 420L Applied Human Physiology Units: 4 - PSYC 360 Psychological Disorders Units: 4",
+      "description": "Students must complete a fixed set of pre-professional courses, several with alternate options.",
+      "details": {
+        "fixed": [
+          "OT 200",
+          "PSYC 360"
+        ],
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "OT 250",
+              "SOCI 200gm",
+              "ANTH 201g"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "OT 251",
+              "EDUC 589",
+              "PSYC 336L and PSYC 337L"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "OT 260",
+              "HBIO 301L"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "OT 261",
+              "BISC 307L",
+              "HBIO 420L"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "OT-BS-07",
+      "family": "Sequencing",
+      "source_text": "All pre-professional courses must be completed by the start of the senior year.",
+      "description": "Pre-professional courses must be completed by the start of the senior year.",
+      "details": {
+        "kind": "UNIT_WINDOW",
+        "scope": "pre-professional courses",
+        "window": {
+          "op": "max",
+          "value": "start of senior year"
+        }
+      },
+      "confidence": "medium",
+      "note": "Window is expressed as a timepoint (senior year) rather than a unit count."
+    },
+    {
+      "id": "OT-BS-08",
+      "family": "Manual Review",
+      "source_text": "Enrollment in professional occupational therapy courses is limited to junior and senior occupational therapy majors only.",
+      "description": "Enrollment in professional OT courses is restricted to junior/senior OT majors.",
+      "details": {
+        "kind": "GATE",
+        "stage": "EMPHASIS_ENTRY",
+        "basis": "NUMERIC_THRESHOLD",
+        "requires": [
+          "junior or senior standing",
+          "occupational therapy major"
+        ]
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "OT-BS-09",
+      "family": "Course Selection",
+      "source_text": "OT 509 Seniors Rising:Occupational Foundations for Graduate Success Units: 2 - OT 510 Foundations of Occupation: Kinesiology in Daily Life Units: 3 - OT 511 Reflection in Practice Units: 3 - OT 514 Foundations of Occupation: Neuroscience in Daily Life Units: 3 - OT 516 Foundations of Occupation: Creativity, Craft and Activity Analysis Units: 3 - OT 517 Foundations of Occupation: Sensory Processing in Daily Life Units: 3 - OT 519 Theoretical Foundations of Occupational Science and Occupational Therapy Units: 3 - OT 521 Communication in Practice Units: 3 - OT 526 Practice Scholar: Applying Quantitative Evidence Units: 3",
+      "description": "Students must complete this fixed set of required professional OT courses.",
+      "details": {
+        "fixed": [
+          "OT 509",
+          "OT 510",
+          "OT 511",
+          "OT 514",
+          "OT 516",
+          "OT 517",
+          "OT 519",
+          "OT 521",
+          "OT 526"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "OT-BS-10",
+      "family": "Course Selection",
+      "source_text": "One of the following: - OT 501L Practice Immersion: Adult Physical Rehabilitation Units: 8 - OT 502L Practice Immersion: Mental Health Units: 8 - OT 503L Practice Immersion: Pediatrics Units: 8 - OT 504L Practice Immersion: Productive Aging and Geriatrics Units: 8",
+      "description": "Students must choose one of four Practice Immersion courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "OT 501L",
+          "OT 502L",
+          "OT 503L",
+          "OT 504L"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "OT-BS-11",
+      "family": "Manual Review",
+      "source_text": "Students in the Occupational Therapy major are required to meet with their adviser within the Chan Division once each semester to ensure satisfactory completion of requirements outlined below. Students enrolled in the occupational therapy major are required to meet with an academic adviser within the division each semester.",
+      "description": "Students must meet with an academic adviser each semester.",
+      "details": {
+        "kind": "PROCEDURAL",
+        "procedure": "ADVISING"
+      },
+      "confidence": "high",
+      "note": "Combined two nearly identical statements about semester adviser meetings."
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "A total of 128 units is required for the Bachelor of Science degree.",
+      "why": "Overall program unit total with no subset filter; does not fit Distribution Bounds (which requires a filtered subset) or any other family."
+    },
+    {
+      "source_text": "All pre-professional courses must be completed: Within the last seven years; With a minimum GPA of 3.0 (pass/fail or grades below a C are not accepted); From an accredited junior college, four-year college or university; Either in a classroom setting or online; however, the anatomy laboratory must be completed in a classroom setting (refer to Course Work Taken Elsewhere); For a total of three semester units each (with the exception of medical terminology, which may be certificate, credit/no credit, 1 or 2 units)",
+      "why": "Mix of GPA floors, minimum grade requirements, and transfer/residency conditions, all explicitly out-of-scope categories."
+    },
+    {
+      "source_text": "Students who wish to transfer credit for courses taken at another institution must gain university approval.",
+      "why": "Transfer credit rule, explicitly out of scope."
+    },
+    {
+      "source_text": "Undergraduate occupational therapy students must maintain a GPA of at least 3.0 (A = 4.0) in all required OT courses in order to continue into the graduate program. If an undergraduate student's OT grade point average (GPA) falls below 3.0, or if the cumulative undergraduate GPA falls below 3.0 at the end of the fall semester of the senior year, continuance is not assured.",
+      "why": "GPA floor requirement, explicitly out of scope per taxonomy."
+    }
+  ]
+}

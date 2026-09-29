@@ -1,0 +1,171 @@
+{
+  "program": "Statistics Minor",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "STAT-MIN-01",
+      "family": "Manual Review",
+      "source_text": "The only prerequisite for this minor is one semester of elementary calculus.",
+      "description": "Students must have completed one semester of elementary calculus before entering the minor.",
+      "details": {
+        "kind": "GATE",
+        "stage": "EMPHASIS_ENTRY",
+        "basis": "NUMERIC_THRESHOLD",
+        "requires": [
+          "one semester of elementary calculus"
+        ]
+      },
+      "confidence": "medium",
+      "note": "No explicit EMPHASIS_ENTRY category for minors in taxonomy; closest fit."
+    },
+    {
+      "id": "STAT-MIN-02",
+      "family": "Distribution Bounds",
+      "source_text": "As with all minors, students must include at least four upper-division courses",
+      "description": "At least four of the courses used for the minor must be upper-division.",
+      "details": {
+        "kind": "LEVEL_BOUNDS",
+        "filter": "upper-division",
+        "measure": "courses",
+        "bound": {
+          "op": "min",
+          "value": 4
+        },
+        "scope": "minor"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "STAT-MIN-03",
+      "family": "Course Reuse",
+      "source_text": "and four courses dedicated exclusively to this minor (which may be the same four courses).",
+      "description": "At least four courses used for the minor must not count toward any other requirement (major, etc.), though they may overlap with the upper-division requirement.",
+      "details": {
+        "kind": "UNIQUENESS_FLOOR",
+        "measure": "courses",
+        "bound": {
+          "op": "min",
+          "value": 4
+        },
+        "scope": "minor"
+      },
+      "confidence": "medium",
+      "note": "Text bundles two conditions; split into distribution and reuse records."
+    },
+    {
+      "id": "STAT-MIN-04",
+      "family": "Distribution Bounds",
+      "source_text": "Finally, students must select four courses outside their major department.",
+      "description": "At least four courses in the minor must be outside the student's major department.",
+      "details": {
+        "kind": "ORIGIN_BOUND",
+        "filter": "outside major department",
+        "measure": "courses",
+        "bound": {
+          "op": "min",
+          "value": 4
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "STAT-MIN-05",
+      "family": "Course Reuse",
+      "source_text": "These may be the same four courses used to meet the first two conditions.",
+      "description": "The four courses satisfying the outside-department requirement may be the same courses used for the upper-division and exclusivity requirements.",
+      "details": {
+        "kind": "DOUBLE_COUNT",
+        "polarity": "PERMITS",
+        "scope": "upper-division requirement, exclusivity requirement, outside-major requirement"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "STAT-MIN-06",
+      "family": "Manual Review",
+      "source_text": "Note that Math BA and BS economics/mathematics students may complete this minor by taking MATH 407 and MATH 408 and at least 16 additional upper-division units approved by the Department of Mathematics, which are not in their major department and not being used to satisfy a requirement for their major.",
+      "description": "Math BA and BS economics/mathematics students follow an alternate path for the minor requiring specific and adviser-approved courses.",
+      "details": {
+        "kind": "PROGRAM_RULE",
+        "direction": "ROUTES",
+        "applies_to": "Math BA and BS economics/mathematics students",
+        "effect": "must take MATH 407, MATH 408, and at least 16 additional upper-division units approved by the Department of Mathematics, outside major department and not used for major"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "STAT-MIN-07",
+      "family": "Course Selection",
+      "source_text": "MATH 307 Statistical Inference and Data Analysis I Units: 4 (prerequisite: MATH 118 or MATH 125 ) and MATH 308 Statistical Inference and Data Analysis II Units: 4 or MATH 407 Probability Theory Units: 4 and MATH 408 Mathematical Statistics Units: 4",
+      "description": "Students must complete either the MATH 307/308 sequence or the MATH 407/408 sequence as required courses.",
+      "details": {
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "MATH 307 and MATH 308",
+              "MATH 407 and MATH 408"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "STAT-MIN-08",
+      "family": "Course Selection",
+      "source_text": "Select 8 units from the following: BME 210 Biomedical Computer Simulation Methods Units: 4, BME 423 Statistical and Data Science Methods in Biomedical Engineering Units: 4, BUAD 311 Operations Management Units: 4 *, DSO 424 Business Forecasting Units: 4 *, DSO 427 Spreadsheet Modeling for Business Insights Units: 4, ECON 318 Introduction to Econometrics Units: 4, ECON 419 Advanced Econometrics Units: 4, HP 350L Health Behavior Research Methods Units: 4, ISE 426 Statistical Process Control and Analytics Units: 4, MATH 447 Mathematics of Machine Learning Units: 4, PM 522a Introduction to the Theory of Statistics Units: 3, PM 522b Introduction to the Theory of Statistics Units: 3, PPD 504 Essential Statistics for Public Management Units: 2, PSYC 421L Data Analysis for Psychological Research Units: 4, QBIO 478 Computational Genome Analysis Units: 4",
+      "description": "Students must select 8 units of electives from a specified list of courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 8
+        },
+        "measure": "units",
+        "pool": [
+          "BME 210",
+          "BME 423",
+          "BUAD 311",
+          "DSO 424",
+          "DSO 427",
+          "ECON 318",
+          "ECON 419",
+          "HP 350L",
+          "ISE 426",
+          "MATH 447",
+          "PM 522a",
+          "PM 522b",
+          "PPD 504",
+          "PSYC 421L",
+          "QBIO 478"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "STAT-MIN-09",
+      "family": "Manual Review",
+      "source_text": "Any upper-division or graduate level class not appearing in the above list that involves the theory or application of statistics may be approved by the Department of Mathematics as an elective.",
+      "description": "Courses not on the elective list may be approved individually by the Department of Mathematics to count as electives.",
+      "details": {
+        "kind": "DISCRETIONARY",
+        "action": "ADD_NONLISTED",
+        "approver": "Department of Mathematics"
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "Note also that if calculus must be taken to satisfy the prerequisite for MATH 307 , 20 units would be required to complete the minor.",
+      "why": "This is a conditional statement about total units depending on whether calculus must be taken, not a clean filter-measure-bound rule or any other taxonomy family."
+    }
+  ]
+}

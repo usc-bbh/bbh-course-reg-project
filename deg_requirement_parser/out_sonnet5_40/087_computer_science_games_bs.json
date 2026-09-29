@@ -1,0 +1,271 @@
+{
+  "program": "Computer Science Games (BS)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "CSGM-BS-01",
+      "family": "Manual Review",
+      "source_text": "Departmental approval is required in order to retake a course.",
+      "description": "Retaking a course requires departmental approval.",
+      "details": {
+        "kind": "PROCEDURAL",
+        "procedure": "ADVISING"
+      },
+      "confidence": "medium",
+      "note": "Procedural approval requirement rather than a coursework filter."
+    },
+    {
+      "id": "CSGM-BS-02",
+      "family": "Course Selection",
+      "source_text": "WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4 [*]",
+      "description": "Students must complete WRIT 150 and WRIT 340.",
+      "details": {
+        "fixed": [
+          "WRIT 150",
+          "WRIT 340"
+        ],
+        "measure": "units",
+        "count": {
+          "op": "eq",
+          "value": 8
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CSGM-BS-03",
+      "family": "Manual Review",
+      "source_text": "General Education Units: 24",
+      "description": "Students must complete 24 units of General Education coursework.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 24
+        },
+        "measure": "units",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "CSGM-BS-04",
+      "family": "Course Selection",
+      "source_text": "ENGR 102 Viterbi First-Year Academy Units: 2",
+      "description": "Students must complete ENGR 102.",
+      "details": {
+        "fixed": [
+          "ENGR 102"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CSGM-BS-05",
+      "family": "Course Selection",
+      "source_text": "MATH 125g Calculus I Units: 4 **\n- MATH 126g Calculus II Units: 4\n- or\n- MATH 129 Calculus II for Engineers and Scientists Units: 4",
+      "description": "Students must complete MATH 125g and either MATH 126g or MATH 129.",
+      "details": {
+        "fixed": [
+          "MATH 125g"
+        ],
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "MATH 126g",
+              "MATH 129"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CSGM-BS-06",
+      "family": "Course Selection",
+      "source_text": "MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or\n- MATH 235 Linear Algebra and Applications Units: 4 or\n- EE 141L Applied Linear Algebra for Engineering Units: 4",
+      "description": "Students must complete one of MATH 225, MATH 235, or EE 141L.",
+      "details": {
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "MATH 225",
+              "MATH 235",
+              "EE 141L"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CSGM-BS-07",
+      "family": "Course Selection",
+      "source_text": "PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 [**] or\n- PHYS 161Lg Advanced Principles of Physics I Units: 4",
+      "description": "Students must complete one of PHYS 151Lg or PHYS 161Lg.",
+      "details": {
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "PHYS 151Lg",
+              "PHYS 161Lg"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CSGM-BS-08",
+      "family": "Course Selection",
+      "source_text": "CSCI 102L Introduction to Programming Units: 2\n- CSCI 103L Object Oriented Programming Units: 4\n- CSCI 104L Data Structures Units: 4\n- CSCI 170 Discrete Methods in Computer Science Units: 4\n- CSCI 201 Principles of Software Development Units: 4\n- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4",
+      "description": "Students must complete the Computer Science Core courses.",
+      "details": {
+        "fixed": [
+          "CSCI 102L",
+          "CSCI 103L",
+          "CSCI 104L",
+          "CSCI 170",
+          "CSCI 201",
+          "CSCI 270"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CSGM-BS-09",
+      "family": "Course Selection",
+      "source_text": "Choose at least 8 units:\n\n- CSCI 350 Fundamentals of Operating Systems Units: 4\n- CSCI 353 Internetworking Units: 4\n- CSCI 356 Computer Systems Units: 4\n- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4\n- CSCI 420 Computer Graphics Units: 4",
+      "description": "Students must choose at least 8 units from the Computer Science Core Electives list.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 8
+        },
+        "measure": "units",
+        "pool": [
+          "CSCI 350",
+          "CSCI 353",
+          "CSCI 356",
+          "CSCI 360",
+          "CSCI 420"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CSGM-BS-10",
+      "family": "Course Selection",
+      "source_text": "CTIN 190 Introduction to Interactive Entertainment Units: 4\n- CTIN 488 Game Design Workshop Units: 4\n- CTIN 489L Intermediate Game Design and Production Units: 4\n- TAC 380 Video Game Programming Units: 4",
+      "description": "Students must complete the Game Development Core courses.",
+      "details": {
+        "fixed": [
+          "CTIN 190",
+          "CTIN 488",
+          "CTIN 489L",
+          "TAC 380"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CSGM-BS-11",
+      "family": "Course Selection",
+      "source_text": "Choose at least 6 units:\n\n- CSCI 426 Game Prototyping Units: 4\n- CTAN 452 Introduction to 3-D Computer Animation Units: 2\n- CTIN 289 Game Development Fundamentals Units: 4\n- CTIN 389 Game Development Principles Units: 4\n- CTIN 404L User Research for Games Units: 2\n- CTIN 406L Sound Design for Games Units: 2\n- CTIN 478 Level Design Workshop Units: 2\n- CTIN 482 Designing Social Games Units: 2\n- CTIN 485 Advanced Game Development Units: 2\n- CTIN 492L Experimental Game Topics Units: 4\n- TAC 382 Mobile Game Development Units: 4\n- TAC 481 Game Programming Professional Development Units: 2\n- TAC 438 Advanced Gameplay Programming Units: 4\n- TAC 485 Programming Game Engines Units: 4",
+      "description": "Students must choose at least 6 units from the Game Development Core Electives list.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 6
+        },
+        "measure": "units",
+        "pool": [
+          "CSCI 426",
+          "CTAN 452",
+          "CTIN 289",
+          "CTIN 389",
+          "CTIN 404L",
+          "CTIN 406L",
+          "CTIN 478",
+          "CTIN 482",
+          "CTIN 485",
+          "CTIN 492L",
+          "TAC 382",
+          "TAC 481",
+          "TAC 438",
+          "TAC 485"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CSGM-BS-12",
+      "family": "Course Selection",
+      "source_text": "CSCI 491aL Advanced Game Project Units: 4\n- CSCI 491bL Advanced Game Project Units: 4",
+      "description": "Students must complete the Game Capstone courses CSCI 491aL and CSCI 491bL.",
+      "details": {
+        "fixed": [
+          "CSCI 491aL",
+          "CSCI 491bL"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CSGM-BS-13",
+      "family": "Course Selection",
+      "source_text": "Free Electives (18 units)",
+      "description": "Students must complete 18 units of free electives.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 18
+        },
+        "measure": "units",
+        "pool_rule": "any course"
+      },
+      "confidence": "medium",
+      "note": "No pool defined; treated as open elective units."
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "The requirement for the degree is 128 units.",
+      "why": "A total degree unit count with no filter or pool; not a course-selection, distribution, reuse, or sequencing rule."
+    },
+    {
+      "source_text": "A grade of C (2.0) or better is required for each of the core courses CSCI 102L , CSCI 103 , CSCI 170 , CSCI 104 and CSCI 201 .",
+      "why": "Minimum grade requirement, which is out of scope per taxonomy."
+    },
+    {
+      "source_text": "Courses with a grade of C- or below must be repeated; courses may only be retaken once.",
+      "why": "Minimum grades and retake policy is explicitly out of scope."
+    },
+    {
+      "source_text": "Students who do not satisfy the degree requirement after repeating a class will be disqualified from the program.",
+      "why": "Describes a consequence of failing to meet requirements, not a course-plan constraint."
+    },
+    {
+      "source_text": "A cumulative grade point average of C (2.0) is required for all courses taken at USC as well as all upper-division courses applied toward the major, regardless of the department in which the courses are taken.",
+      "why": "GPA floor requirement, out of scope."
+    },
+    {
+      "source_text": "WRIT 340 Advanced Writing (Communication for Engineers) is strongly recommended for CSGM majors.",
+      "why": "Advisory recommendation, not a binding requirement."
+    }
+  ]
+}

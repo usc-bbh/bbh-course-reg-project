@@ -1,0 +1,79 @@
+{
+  "program": "Astronomy (BA)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "ASTR-BA-01",
+      "family": "Course Selection",
+      "source_text": "ASTR 110 The Universe for Astronomy Majors Units: 4\n- MATH 125g Calculus I Units: 4\n- MATH 126g Calculus II Units: 4\n- MATH 226g Calculus III Units: 4\n- MATH 245 Mathematics of Physics and Engineering I Units: 4\n- PHYS 161Lg Advanced Principles of Physics I Units: 4 *\n- PHYS 162L Advanced Principles of Physics II Units: 4 *\n- PHYS 163L Advanced Principles of Physics III Units: 4 *\n- PHYS 190 Physics Discovery Series Units: 4",
+      "description": "Students must complete all listed lower-division courses in astronomy, math, and physics.",
+      "details": {
+        "fixed": [
+          "ASTR 110",
+          "MATH 125g",
+          "MATH 126g",
+          "MATH 226g",
+          "MATH 245",
+          "PHYS 161Lg",
+          "PHYS 162L",
+          "PHYS 163L",
+          "PHYS 190"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ASTR-BA-02",
+      "family": "Course Selection",
+      "source_text": "ASTR 350 Astrophysics I Units: 4\n- ASTR 400 The Solar System Units: 4, 2 years\n- ASTR 422 Galaxies and Large-Scale Structures in the Universe Units: 4, 2 years\n- ASTR 424 Cosmology Units: 4\n- PHYS 304 Mechanics Units: 4\n- PHYS 316 Thermodynamics and Statistical Mechanics Units: 4\n- PHYS 492L Senior Lab Units: 4",
+      "description": "Students must complete all listed upper-division courses in astronomy and physics.",
+      "details": {
+        "fixed": [
+          "ASTR 350",
+          "ASTR 400",
+          "ASTR 422",
+          "ASTR 424",
+          "PHYS 304",
+          "PHYS 316",
+          "PHYS 492L"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ASTR-BA-03",
+      "family": "Manual Review",
+      "source_text": "PHYS 151L , PHYS 152L and PHYS 153L may be substituted for the sequence PHYS 161L , PHYS 162L and PHYS 163L .",
+      "description": "A specific alternate physics course sequence may be substituted for the required physics sequence.",
+      "details": {
+        "kind": "DISCRETIONARY",
+        "action": "SUBSTITUTE",
+        "approver": "not specified",
+        "substitutes": [
+          "PHYS 151L",
+          "PHYS 152L",
+          "PHYS 153L"
+        ],
+        "for": [
+          "PHYS 161L",
+          "PHYS 162L",
+          "PHYS 163L"
+        ]
+      },
+      "confidence": "medium",
+      "note": "No approver named for the substitution; treated as discretionary substitution though it may be automatic/equivalent."
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "Total units: 64",
+      "why": "This is a summary total derived from the listed required courses rather than a distinct pool, bound, or distribution constraint; it does not add new information beyond the enumerated course lists."
+    },
+    {
+      "source_text": "This program is intended for students with an interest in astronomy who may not intend to pursue a career in the field.",
+      "why": "Descriptive program marketing text, not a requirement."
+    }
+  ]
+}

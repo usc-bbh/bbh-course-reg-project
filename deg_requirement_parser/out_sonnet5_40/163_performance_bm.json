@@ -1,0 +1,342 @@
+{
+  "program": "Performance (Classical Guitar) (BM)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "PERF-BM-01",
+      "family": "Manual Review",
+      "source_text": "Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees.",
+      "description": "Admission requires screening by faculty selection committees as part of the USC admission process.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INITIAL_ADMISSION",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "faculty selection committee screening"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERF-BM-02",
+      "family": "Distribution Bounds",
+      "source_text": "GE-A: The Arts (one course)\n\nGE-B: Humanistic Inquiry (two courses)\n\nGE-C: Social Analysis (two courses)\n\nGE-D: Life Sciences (one course)\n\nGE-E: Physical Sciences (one course)\n\nGE-F: Quantitative Reasoning (one course)",
+      "description": "Students must complete a fixed number of courses in each of six GE Core Literacies categories, totaling eight courses.",
+      "details": {
+        "kind": "CATEGORY_BOUNDS",
+        "total": {
+          "op": "eq",
+          "value": 8
+        },
+        "measure": "courses",
+        "categories": [
+          {
+            "filter": "GE-A: The Arts",
+            "min": 1,
+            "max": 1
+          },
+          {
+            "filter": "GE-B: Humanistic Inquiry",
+            "min": 2,
+            "max": 2
+          },
+          {
+            "filter": "GE-C: Social Analysis",
+            "min": 2,
+            "max": 2
+          },
+          {
+            "filter": "GE-D: Life Sciences",
+            "min": 1,
+            "max": 1
+          },
+          {
+            "filter": "GE-E: Physical Sciences",
+            "min": 1,
+            "max": 1
+          },
+          {
+            "filter": "GE-F: Quantitative Reasoning",
+            "min": 1,
+            "max": 1
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERF-BM-03",
+      "family": "Distribution Bounds",
+      "source_text": "GE-G: Global Perspectives I (one course)\n\nGE-H: Global Perspectives II (one course)",
+      "description": "Students must complete one course each in two Global Perspectives categories.",
+      "details": {
+        "kind": "CATEGORY_BOUNDS",
+        "total": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "categories": [
+          {
+            "filter": "GE-G: Global Perspectives I",
+            "min": 1,
+            "max": 1
+          },
+          {
+            "filter": "GE-H: Global Perspectives II",
+            "min": 1,
+            "max": 1
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERF-BM-04",
+      "family": "Course Selection",
+      "source_text": "WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4",
+      "description": "Students must complete WRIT 150 and WRIT 340.",
+      "details": {
+        "fixed": [
+          "WRIT 150",
+          "WRIT 340"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERF-BM-05",
+      "family": "Course Selection",
+      "source_text": "MUCD 348 Instrumental Conducting and Orchestration Units: 2\n- MUCO 132a Aural Skills I Units: 2\n- MUCO 132b Aural Skills I Units: 2\n- MUCO 133a Theory I Units: 3\n- MUCO 133b Theory I Units: 3\n- MUCO 232a Aural Skills II Units: 2\n- MUCO 232b Aural Skills II Units: 2\n- MUCO 233a Theory II Units: 3\n- MUCO 233b Theory II Units: 3\n- MUHL 250g Music and Ideas Units: 4\n- MUHL 350g Western Art Music History I Units: 4\n- MUHL 351 Western Art Music History II Units: 4\n- MUSC 496 Careers in Music Units: 2",
+      "description": "Students must complete all listed Core Thornton Academic Courses totaling 36 units.",
+      "details": {
+        "fixed": [
+          "MUCD 348",
+          "MUCO 132a",
+          "MUCO 132b",
+          "MUCO 133a",
+          "MUCO 133b",
+          "MUCO 232a",
+          "MUCO 232b",
+          "MUCO 233a",
+          "MUCO 233b",
+          "MUHL 250g",
+          "MUHL 350g",
+          "MUHL 351",
+          "MUSC 496"
+        ],
+        "count": {
+          "op": "eq",
+          "value": 36
+        },
+        "measure": "units"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERF-BM-06",
+      "family": "Course Selection",
+      "source_text": "MPGU 153 Individual Instruction Units: 1 or 2\n- 4 units total of MPGU 153 (Classical Guitar)\n- MPGU 253 Individual Instruction Units: 1 or 2\n- 4 units total of MPGU 253 (Classical Guitar)\n- MPGU 353 Individual Instruction Units: 1 or 2\n- 4 units total of MPGU 353 (Classical Guitar)\n- MPGU 453 Individual Instruction Units: 1 or 2\n- 4 units total of MPGU 453 (Classical Guitar)",
+      "description": "Students must complete 4 units each of MPGU 153, MPGU 253, MPGU 353, and MPGU 453 (16 units total).",
+      "details": {
+        "fixed": [
+          "MPGU 153 (4 units)",
+          "MPGU 253 (4 units)",
+          "MPGU 353 (4 units)",
+          "MPGU 453 (4 units)"
+        ],
+        "count": {
+          "op": "eq",
+          "value": 16
+        },
+        "measure": "units"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERF-BM-07",
+      "family": "Course Selection",
+      "source_text": "Select four units in the following styles, Baroque/Lute, Flamenco, Pop, or Jazz, from the list below:\n- MPEM 301 Individual Instruction Units: 1, 2\n- MPGU 301 Individual Instruction Units: 1, 2\n- MPPM 301 Individual Instruction Units: 1, 2\n- MUJZ 301 Individual Instruction Units: 1, 2",
+      "description": "Students select four units from a list of individual instruction courses in Baroque/Lute, Flamenco, Pop, or Jazz styles.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "units",
+        "pool": [
+          "MPEM 301",
+          "MPGU 301",
+          "MPPM 301",
+          "MUJZ 301"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERF-BM-08",
+      "family": "Course Selection",
+      "source_text": "MUEN 326 Guitar Ensemble Units: 1\n- 8 units total of MUEN 326",
+      "description": "Students must complete 8 units total of MUEN 326 Guitar Ensemble.",
+      "details": {
+        "fixed": [
+          "MUEN 326 (8 units)"
+        ],
+        "count": {
+          "op": "eq",
+          "value": 8
+        },
+        "measure": "units"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERF-BM-09",
+      "family": "Course Selection",
+      "source_text": "MUEN Ensemble Electives at the 300-level: two 1-unit courses",
+      "description": "Students must complete two 1-unit MUEN ensemble electives at the 300-level.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool_rule": "subject MUEN, level 300, 1-unit courses"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERF-BM-10",
+      "family": "Course Selection",
+      "source_text": "MPGU 417 Classical Guitar Pedagogy Units: 2\n- MPGU 426 Classical Guitar History and Literature Units: 2\n- MPGU 427 Advanced Topics in Classical Guitar History and Literature Units: 2\n- MPGU 459 Functional Skills for Classical Guitarists II Units: 2",
+      "description": "Students must complete MPGU 417, 426, 427, and 459.",
+      "details": {
+        "fixed": [
+          "MPGU 417",
+          "MPGU 426",
+          "MPGU 427",
+          "MPGU 459"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERF-BM-11",
+      "family": "Course Selection",
+      "source_text": "Select two units from the following:\n- MPKS 250a Keyboard Instruction I Units: 2\n- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2\n- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2\n- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2",
+      "description": "Students select two units from a list of functional skills courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "units",
+        "pool": [
+          "MPKS 250a",
+          "MPPM 240",
+          "MPPM 250",
+          "MUJZ 141a"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERF-BM-12",
+      "family": "Course Selection",
+      "source_text": "Select four units from the Contemporary Division\n\nCourses include those listed below or others, in consultation with your chair and the Contemporary Division:\n- MPGU 145 Guitar Proficiency for the Pop Guitarist Units: 2\n- MPGU 150 Functional Skills for the Popular Guitarist Units: 2\n- MPPM 120 Popular Music Performance I Units: 2\n- MPPM 240 Drumming Proficiency for the Popular Musician Units: 2\n- MPPM 250 Keyboard Proficiency for the Popular Musician Units: 2\n- MPPM 370 The Vocal Edge: Contemporary Vocal Performance Techniques Units: 2\n- MTEC 245 Introduction to MIDI Sequencing Units: 1\n- MTEC 246 Introduction to Audio Recording and Editing Units: 1\n- MTEC 248 Introduction to Music Notation Units: 1\n- MTEC 249 Introduction to Web Design for Musicians Units: 1\n- MTEC 277x Introduction to Music Technology Units: 4\n- MUIN 272x Basics of the Music Industry Units: 4\n- MUIN 425 Live Music Production and Promotion Units: 4\n- MUJZ 141a Basic Keyboard Skills for the Improviser Units: 2\n- MUJZ 150 Beginning Jazz Improvisation Units: 2\n- MUJZ 218a Afro-Latin Percussion Instruments Units: 2\n- MUJZ 450 Intermediate Jazz Improvisation Units: 2\n- MUSC 255 Songwriting I Units: 2",
+      "description": "Students select four units from Contemporary Division courses, including possible non-listed courses approved by the chair.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "units",
+        "pool": [
+          "MPGU 145",
+          "MPGU 150",
+          "MPPM 120",
+          "MPPM 240",
+          "MPPM 250",
+          "MPPM 370",
+          "MTEC 245",
+          "MTEC 246",
+          "MTEC 248",
+          "MTEC 249",
+          "MTEC 277x",
+          "MUIN 272x",
+          "MUIN 425",
+          "MUJZ 141a",
+          "MUJZ 150",
+          "MUJZ 218a",
+          "MUJZ 450",
+          "MUSC 255"
+        ],
+        "pool_rule": "or others in consultation with chair and Contemporary Division"
+      },
+      "confidence": "medium",
+      "note": "Pool is open-ended, allowing non-listed courses with approval."
+    },
+    {
+      "id": "PERF-BM-13",
+      "family": "Manual Review",
+      "source_text": "General Electives (16 units)",
+      "description": "Students must complete 16 units of general electives with no defined course list.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 16
+        },
+        "measure": "units",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "PERF-BM-14",
+      "family": "Course Selection",
+      "source_text": "MUSC 480 Young Artist Project I Units: 2\n- MUSC 481 Young Artist Project II Units: 2",
+      "description": "Students must complete MUSC 480 and MUSC 481.",
+      "details": {
+        "fixed": [
+          "MUSC 480",
+          "MUSC 481"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERF-BM-15",
+      "family": "Manual Review",
+      "source_text": "A junior and senior recital must be completed under approved faculty supervision and guidance. The faculty of the department of the student's major program determines the detailed requirements of the recitals, including content, length, format, and other specifications. In cases in which a performance venue is required in order to present the recitals, reservations must be made according to the current guidelines of the Music Operations office.",
+      "description": "Students must complete a junior and senior recital under faculty supervision, with requirements set by the department faculty.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "faculty_supervised_milestone"
+      },
+      "confidence": "medium",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "Total Required For Degree: 132",
+      "why": "Overall total degree unit count has no dedicated family in the taxonomy; it is a summary total rather than a filter-measure-bound rule on a specific pool."
+    },
+    {
+      "source_text": "During the junior and senior years of the program, students develop and fully realize unique individualized, mentored projects related to their work as classical musicians. This could involve developing a hybrid performance, conducting original research, exploring new creative technologies, or applying creative expression to a pressing social issue.",
+      "why": "Descriptive/explanatory content about the Young Artist Project content, already captured by the MUSC 480/481 course requirement; does not add a distinct enforceable constraint."
+    }
+  ]
+}

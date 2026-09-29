@@ -1,0 +1,204 @@
+{
+  "program": "Art History (BA)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "AHIS-BA-01",
+      "family": "Manual Review",
+      "source_text": "Candidates for the Bachelor of Arts in Art History must complete the general education and diversity requirements of the USC Dornsife College of Letters, Arts and Sciences.",
+      "description": "Students must complete Dornsife's general education and diversity requirements, which are not enumerated here.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "no_enumerated_list",
+        "scope": "general education and diversity requirements"
+      },
+      "confidence": "medium",
+      "note": "No course list given for GE/diversity requirements in this text."
+    },
+    {
+      "id": "AHIS-BA-02",
+      "family": "Course Selection",
+      "source_text": "AHIS 120gp Foundations of Western Art: Prehistoric to Renaissance Units: 4 or AHIS 121gp Foundations of Western Art: Renaissance to Contemporary Units: 4",
+      "description": "Student must take one of AHIS 120 or AHIS 121.",
+      "details": {
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "AHIS 120gp",
+              "AHIS 121gp"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AHIS-BA-03",
+      "family": "Course Selection",
+      "source_text": "Choose one course from: AHIS 125gp Arts of Asia I: Antiquity to 1300 Units: 4, AHIS 126g Arts of Asia II: 1300 to the Present Units: 4, AHIS 127g Arts of the Ancient Americas Units: 4, AHIS 128gp The Arts and Society in Latin America, Colonial to Contemporary Units: 4",
+      "description": "Student must choose one course from the given list of four courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "AHIS 125gp",
+          "AHIS 126g",
+          "AHIS 127g",
+          "AHIS 128gp"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AHIS-BA-04",
+      "family": "Course Selection",
+      "source_text": "AHIS 494 Undergraduate Proseminar in Art History Units: 4 is required",
+      "description": "AHIS 494 is a required fixed course.",
+      "details": {
+        "fixed": [
+          "AHIS 494"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AHIS-BA-05",
+      "family": "Course Selection",
+      "source_text": "Seven additional ​courses to include five courses with a minimum of one in each of four out of the following five areas of study, only one of which may be at the 200 level.",
+      "description": "Student must select seven additional courses from the five listed areas of study.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 7
+        },
+        "measure": "courses",
+        "pool_rule": "Greek and Roman art and archaeology; Medieval art; Renaissance and Baroque art; Modern and contemporary art; Non-European traditions"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AHIS-BA-06",
+      "family": "Distribution Bounds",
+      "source_text": "Seven additional ​courses to include five courses with a minimum of one in each of four out of the following five areas of study, only one of which may be at the 200 level.",
+      "description": "Of the seven additional courses, five must include at least one from each of four of the five areas of study.",
+      "details": {
+        "kind": "CATEGORY_BOUNDS",
+        "total": {
+          "op": "eq",
+          "value": 5
+        },
+        "measure": "courses",
+        "groups": {
+          "count": 4,
+          "min_each": 1
+        },
+        "scope": "chosen from the five areas of study, out of the seven additional courses"
+      },
+      "confidence": "medium",
+      "note": "The '4 out of 5 areas' phrasing is treated as a category bound over the five-course subset."
+    },
+    {
+      "id": "AHIS-BA-07",
+      "family": "Distribution Bounds",
+      "source_text": "only one of which may be at the 200 level.",
+      "description": "At most one of the five distribution courses may be at the 200 level.",
+      "details": {
+        "kind": "LEVEL_BOUNDS",
+        "filter": "level 200",
+        "measure": "courses",
+        "bound": {
+          "op": "max",
+          "value": 1
+        },
+        "scope": "five distribution courses across the four required areas"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AHIS-BA-08",
+      "family": "Distribution Bounds",
+      "source_text": "and two that must be at the 400-level",
+      "description": "At least two of the seven additional courses must be at the 400 level.",
+      "details": {
+        "kind": "LEVEL_BOUNDS",
+        "filter": "level >= 400",
+        "measure": "courses",
+        "bound": {
+          "op": "min",
+          "value": 2
+        },
+        "scope": "seven additional courses"
+      },
+      "confidence": "medium",
+      "note": "Placement relative to the numbered list suggests this applies to the seven additional courses overall."
+    },
+    {
+      "id": "AHIS-BA-09",
+      "family": "Manual Review",
+      "source_text": "AHIS 400x Undergraduate Apprenticeship Units: 2 counts for elective credit only and may not be applied to the major.",
+      "description": "AHIS 400x cannot be counted toward the major, only toward electives.",
+      "details": {
+        "kind": "PROGRAM_RULE",
+        "direction": "EXCLUDES",
+        "applies_to": "AHIS 400x",
+        "effect": "counts for elective credit only, not toward major"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "AHIS-BA-10",
+      "family": "Manual Review",
+      "source_text": "The following courses require the written permission of a faculty adviser and the Director of Undergraduate Studies. Directed Research is limited to fulfilling 4 units of a student’s major requirements. AHIS 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8, AHIS 495a Undergraduate Honors Thesis Units: 2, AHIS 495b Undergraduate Honors Thesis Units: 2",
+      "description": "AHIS 490x, 495a, and 495b require written permission from a faculty adviser and the Director of Undergraduate Studies.",
+      "details": {
+        "kind": "DISCRETIONARY",
+        "action": "ADD_NONLISTED",
+        "approver": "faculty adviser and Director of Undergraduate Studies",
+        "courses": [
+          "AHIS 490x",
+          "AHIS 495a",
+          "AHIS 495b"
+        ]
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "AHIS-BA-11",
+      "family": "Distribution Bounds",
+      "source_text": "Directed Research is limited to fulfilling 4 units of a student’s major requirements.",
+      "description": "No more than 4 units of AHIS 490x Directed Research may count toward the major.",
+      "details": {
+        "kind": "DEPARTMENT_SPREAD",
+        "filter": "AHIS 490x Directed Research",
+        "measure": "units",
+        "bound": {
+          "op": "max",
+          "value": 4
+        }
+      },
+      "confidence": "medium",
+      "note": "Classified as a distribution bound on units from a single course source; could also be seen as Course Reuse."
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "The Bachelor of Arts in Art History requires 128 units.",
+      "why": "This is a total-degree-unit statement with no pool or filter to attach it to; the taxonomy's families all require a filter/measure/bound on a subset of courses, not the whole degree total."
+    },
+    {
+      "source_text": "AHIS 494 Undergraduate Proseminar in Art History Units: 4 (the capstone course) may be taken in either the junior or senior year.",
+      "why": "This states flexible timing rather than a strict prerequisite ordering, milestone, or unit window, so it does not cleanly fit the Sequencing family's defined kinds; also reads as informational/advisory."
+    }
+  ]
+}

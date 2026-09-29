@@ -1,0 +1,133 @@
+{
+  "program": "Themed Entertainment (BFA)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "TE-BFA-01",
+      "family": "Course Selection",
+      "source_text": "Required Core Sequence of Themed Entertainment Design and Production\n\n- CNTV 101 Reality Starts Here Units: 2\n- CTCS 150gw The Cinematic Arts in Society Units: 4\n- CTIN 191 Survey of Themed Entertainment Units: 4\n- CTIN 252 Themed Concept Development: Creativity, Research, Ideation Units: 2\n- CTIN 295 Themed Entertainment Project Crew Units: 2\n- CTIN 395 Miniature Golf Design Units: 4\n- CTIN 396 Miniature Golf Production Units: 4\n- CTIN 452L Themed Entertainment Design Units: 4\n- CTIN 457 Themed Entertainment Business Operations Units: 2\n- CTIN 488 Game Design Workshop Units: 4\n- CTIN 495 Advanced Themed Entertainment Design Units: 4\n- CTIN 496 Advanced Themed Entertainment Production Units: 4",
+      "description": "Students must complete all listed core courses in themed entertainment design and production.",
+      "details": {
+        "fixed": [
+          "CNTV 101",
+          "CTCS 150gw",
+          "CTIN 191",
+          "CTIN 252",
+          "CTIN 295",
+          "CTIN 395",
+          "CTIN 396",
+          "CTIN 452L",
+          "CTIN 457",
+          "CTIN 488",
+          "CTIN 495",
+          "CTIN 496"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "TE-BFA-02",
+      "family": "Course Selection",
+      "source_text": "At least 8 units from the following courses:\n\n- ACAD 187 Digital Toolbox: 3D Design Units: 2\n- ACAD 188 Modeling Products with Solidworks Units: 2\n- ACAD 189 3D Tools for Product Design Units: 2\n- AME 101L Introduction to Mechanical Engineering Units: 4\n- ARCH 106x Workshop in Architecture Units: 2\n- ART 207a Two-Dimensional Art Workshop Units: 2\n- ART 207b Two-Dimensional Art Workshop Units: 2\n- ART 260 Introduction to Video: Projection and Virtual Worlds in Art Units: 4\n- CE 106 Introduction to Civil Engineering Units: 2\n- CTIN 101 Fundamentals of Procedural Media Units: 2\n- CTIN 289 Game Development Fundamentals Units: 4\n- DES 123xg The Design Challenge: Exploring the Design Process Units: 4\n- EE 105 Introduction to Electrical Engineering Units: 4\n- ISE 105 Introduction to Industrial and Systems Engineering Units: 2\n- TAC 165 Introduction to C++ Programming Units: 2\n- TAC 215L Introduction to 3D Modeling, Animation and Visual Effects Units: 2\n- THTR 130 Introduction to Theatrical Production Units: 2\n- THTR 241 Methods and Materials Units: 2",
+      "description": "Students must complete at least 8 units from the Introductory Elective Core list.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 8
+        },
+        "measure": "units",
+        "pool": [
+          "ACAD 187",
+          "ACAD 188",
+          "ACAD 189",
+          "AME 101L",
+          "ARCH 106x",
+          "ART 207a",
+          "ART 207b",
+          "ART 260",
+          "CE 106",
+          "CTIN 101",
+          "CTIN 289",
+          "DES 123xg",
+          "EE 105",
+          "ISE 105",
+          "TAC 165",
+          "TAC 215L",
+          "THTR 130",
+          "THTR 241"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "TE-BFA-03",
+      "family": "Course Selection",
+      "source_text": "At least 8 units of the following courses:\n\n- ACAD 245 Fundamentals of Product Design Units: 4\n- ARCH 207 Computer Applications in Architecture Units: 2\n- BUCO 450 Communication for Organizations: Exploring Creativity Units: 2\n- CTAN 420 Concept Design for Animation Units: 2\n- CTIN 409 Producing Interactive Projects Units: 2\n- CTIN 444 Audio Expression Units: 2\n- CTPR 425 Production Planning Units: 2\n- CTWR 410L Character Development and Storytelling for Games Units: 4\n- EE 109L Introduction to Embedded Systems Units: 4\n- THTR 232 Introduction to Theatrical Lighting Units: 3\n- THTR 236 Stage Sound Units: 3\n- THTR 303 Projection Design I Units: 3\n- THTR 335 Scenic Construction Units: 3",
+      "description": "Students must complete at least 8 units from the Intermediate Elective Core list.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 8
+        },
+        "measure": "units",
+        "pool": [
+          "ACAD 245",
+          "ARCH 207",
+          "BUCO 450",
+          "CTAN 420",
+          "CTIN 409",
+          "CTIN 444",
+          "CTPR 425",
+          "CTWR 410L",
+          "EE 109L",
+          "THTR 232",
+          "THTR 236",
+          "THTR 303",
+          "THTR 335"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "TE-BFA-04",
+      "family": "Course Selection",
+      "source_text": "At least 6 units of the following courses:\n\n- ARCH 423 Light, Color and the Character of Material Units: 2\n- BUCO 445 Communicating to Lead and Persuade Units: 4\n- CTAN 432 The World of Visual Effects Units: 2\n- CTIN 480 Directing for Games and Interactive Media Units: 2\n- CTIN 486 Alternative Control Workshop Units: 2\n- CTIN 489L Intermediate Game Design and Production Units: 4\n- CTPR 406 Visual Story and Communication Units: 2\n- CTPR 465 Practicum in Production Design Units: 2\n- CTWR 541 Dreams, the Brain, and Storytelling Units: 2\n- THTR 308 Lighting Programming for Live Events Units: 3\n- THTR 438 Technical Theatre Units: 3",
+      "description": "Students must complete at least 6 units from the Advanced Elective Core list.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 6
+        },
+        "measure": "units",
+        "pool": [
+          "ARCH 423",
+          "BUCO 445",
+          "CTAN 432",
+          "CTIN 480",
+          "CTIN 486",
+          "CTIN 489L",
+          "CTPR 406",
+          "CTPR 465",
+          "CTWR 541",
+          "THTR 308",
+          "THTR 438"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "The degree requires 128 units, including 62 units in the major.",
+      "why": "States total degree and major unit totals but does not define a filter/pool of courses to select from, so it does not fit Course Selection or Distribution Bounds; it is a summary figure rather than an actionable constraint."
+    },
+    {
+      "source_text": "Undergraduate students take their pre-professional courses in the USC Dornsife College of Letters, Arts and Sciences, including the general education requirements.",
+      "why": "Descriptive program structure statement, not a specific actionable requirement with a course list or bound."
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "program": "Computer Science (BS)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "CS-BS-01",
+      "family": "Manual Review",
+      "source_text": "General admission requirements for the undergraduate program are the same as those of the university and the USC Viterbi School of Engineering and include 3 to 5 units of mathematics and one unit of science (biology, chemistry or physics).",
+      "description": "Admission requires specific math and science units as reviewed by the school.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INITIAL_ADMISSION",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "university and Viterbi School admission review including math/science unit requirements"
+      },
+      "confidence": "medium",
+      "note": "Treated as admission gate since it's an eligibility condition rather than a plannable course selection."
+    },
+    {
+      "id": "CS-BS-02",
+      "family": "Manual Review",
+      "source_text": "Departmental approval is required in order to retake a course.",
+      "description": "Retaking a course requires departmental approval.",
+      "details": {
+        "kind": "PROCEDURAL",
+        "procedure": "ADVISING"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "CS-BS-03",
+      "family": "Manual Review",
+      "source_text": "Candidates must complete general education requirements; see the General Education Program.",
+      "description": "Students must complete general education requirements as defined by the GE program.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "no_enumerated_list",
+        "approver": "General Education Program"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "CS-BS-04",
+      "family": "Course Selection",
+      "source_text": "WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4",
+      "description": "Students must complete WRIT 150 and WRIT 340.",
+      "details": {
+        "fixed": [
+          "WRIT 150",
+          "WRIT 340"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CS-BS-05",
+      "family": "Manual Review",
+      "source_text": "General Education Units: 20",
+      "description": "Students must complete 20 units of General Education coursework, no specific list provided.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 20
+        },
+        "measure": "units",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "CS-BS-06",
+      "family": "Course Selection",
+      "source_text": "ENGR 102 Viterbi First-Year Academy Units: 2",
+      "description": "Students must complete ENGR 102.",
+      "details": {
+        "fixed": [
+          "ENGR 102"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CS-BS-07",
+      "family": "Course Selection",
+      "source_text": "MATH 125g Calculus I Units: 4\n- MATH 126g Calculus II Units: 4 or\n- MATH 129 Calculus II for Engineers and Scientists Units: 4\n- MATH 225 Linear Algebra and Linear Differential Equations Units: 4 or\n- MATH 235 Linear Algebra and Applications Units: 4\n- MATH 226g Calculus III Units: 4 or\n- MATH 229 Calculus III for Engineers and Scientists Units: 4",
+      "description": "Students must take MATH 125 plus one course from each of the Calculus II, Linear Algebra, and Calculus III alternative pairs.",
+      "details": {
+        "fixed": [
+          "MATH 125g"
+        ],
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "MATH 126g",
+              "MATH 129"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "MATH 225",
+              "MATH 235"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "MATH 226g",
+              "MATH 229"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CS-BS-08",
+      "family": "Course Selection",
+      "source_text": "EE 364 Probability and Statistics for Engineers and Computer Scientists Units: 4",
+      "description": "Students must complete EE 364.",
+      "details": {
+        "fixed": [
+          "EE 364"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CS-BS-09",
+      "family": "Course Selection",
+      "source_text": "Take one of the following life science courses, each of which satisfies the GE-D Life Sciences requirement.\n- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or\n- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4 or\n- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4",
+      "description": "Students must choose one life science course from the listed options.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "BISC 120Lg",
+          "BISC 121Lg",
+          "BISC 220Lg"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CS-BS-10",
+      "family": "Course Selection",
+      "source_text": "Take one of the following science courses, each of which satisfies the GE-E Physical Sciences requirement.\n- CHEM 105aLg General Chemistry Units: 4 or\n- CHEM 115aLg Advanced General Chemistry Units: 4 or\n- PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 or\n- PHYS 161Lg Advanced Principles of Physics I Units: 4",
+      "description": "Students must choose one physical science course from the listed options.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "CHEM 105aLg",
+          "CHEM 115aLg",
+          "PHYS 151Lg",
+          "PHYS 161Lg"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CS-BS-11",
+      "family": "Course Selection",
+      "source_text": "CSCI 102L Introduction to Programming Units: 2\n- CSCI 103L Object Oriented Programming Units: 4\n- CSCI 104L Data Structures Units: 4\n- CSCI 170 Discrete Methods in Computer Science Units: 4\n- CSCI 201 Principles of Software Development Units: 4\n- CSCI 270 Introduction to Algorithms and Theory of Computing Units: 4\n- CSCI 310 Software Engineering Units: 4\n- CSCI 350 Fundamentals of Operating Systems Units: 4\n- CSCI 353 Internetworking Units: 4\n- CSCI 356 Computer Systems Units: 4\n- CSCI 360 Artificial Intelligence: Principles and Foundations Units: 4\n- CSCI 401 Capstone: Design and Construction of Large Software Systems Units: 4",
+      "description": "Students must complete all listed core computer science courses.",
+      "details": {
+        "fixed": [
+          "CSCI 102L",
+          "CSCI 103L",
+          "CSCI 104L",
+          "CSCI 170",
+          "CSCI 201",
+          "CSCI 270",
+          "CSCI 310",
+          "CSCI 350",
+          "CSCI 353",
+          "CSCI 356",
+          "CSCI 360",
+          "CSCI 401"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CS-BS-12",
+      "family": "Course Selection",
+      "source_text": "EE 109L Introduction to Embedded Systems Units: 4",
+      "description": "Students must complete EE 109L.",
+      "details": {
+        "fixed": [
+          "EE 109L"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CS-BS-13",
+      "family": "Course Selection",
+      "source_text": "Take at least four 300- or 400- level CSCI courses for a minimum of 16 units.",
+      "description": "Students must take at least four 300- or 400-level CSCI courses totaling at least 16 units.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 4
+        },
+        "measure": "courses",
+        "pool_rule": "subject CSCI, level 300-499",
+        "scope": "minimum 16 units"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "CS-BS-14",
+      "family": "Manual Review",
+      "source_text": "Free Electives (4 Units)",
+      "description": "Students must complete 4 units of free electives with no specified course list.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "units",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "medium",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "WRIT 340 Advanced Writing and Critical Engagement (Communication for Engineers) is strongly recommended for CSCI majors.",
+      "why": "This is an advisory recommendation, not a binding requirement."
+    },
+    {
+      "source_text": "The minimum requirement for the degree is 128 units.",
+      "why": "This is an overall total-degree unit count rather than a filtered subset requirement, so it does not fit the filter-measure-bound shape of any family."
+    },
+    {
+      "source_text": "Total Units: 128",
+      "why": "This restates the overall degree total and is not a distinct actionable constraint on course selection."
+    }
+  ]
+}

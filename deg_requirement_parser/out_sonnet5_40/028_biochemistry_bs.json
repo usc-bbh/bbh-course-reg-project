@@ -1,0 +1,147 @@
+{
+  "program": "Biochemistry (BS)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "BIOC-BS-01",
+      "family": "Course Selection",
+      "source_text": "BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 - BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4 - or - BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 - BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4 - BISC 320Lg Molecular Biology Units: 4 - BISC 330L Biochemistry Units: 4 - BISC 403 Advanced Molecular Biology Units: 4 - BISC 435 Advanced Biochemistry Units: 4 - CHEM 105aLg General Chemistry Units: 4 - CHEM 105bL General Chemistry Units: 4 - or - CHEM 107Lg General Chemistry for Chemistry Majors Units: 4 - CHEM 108L General Chemistry for Chemistry Majors: Kinetics and Equilibrium Units: 4 - or - CHEM 115aLg Advanced General Chemistry Units: 4 - CHEM 115bL Advanced General Chemistry Units: 4 - CHEM 300L Analytical Chemistry Units: 4 - CHEM 322aL Organic Chemistry Units: 4 - CHEM 322bL Organic Chemistry Units: 4 - or - CHEM 325aL Organic Chemistry Units: 4 - CHEM 325bL Organic Chemistry Units: 4 - CHEM 430 Physical Chemistry: Thermodynamics and Kinetics Units: 4 or - CHEM 432 Physical Chemistry for the Life Sciences Units: 4 - MATH 125g Calculus I Units: 4 - MATH 126g Calculus II Units: 4 - MATH 208x Elementary Probability and Statistics Units: 4 or - MATH 226g Calculus III Units: 4 or - QBIO 305g Statistics for Biological Sciences Units: 4 - PHYS 135aLg Physics for the Life Sciences Units: 4 - PHYS 135bL Physics for the Life Sciences Units: 4 - or - PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4 - PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4",
+      "description": "Students must complete a fixed set of required core courses plus one option from each of several paired alternative sequences in biology, chemistry, math, and physics.",
+      "details": {
+        "fixed": [
+          "BISC 320Lg",
+          "BISC 330L",
+          "BISC 403",
+          "BISC 435",
+          "CHEM 300L",
+          "MATH 125g",
+          "MATH 126g"
+        ],
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "BISC 120Lg + BISC 121Lg",
+              "BISC 220Lg + BISC 221Lg"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "CHEM 105aLg + CHEM 105bL",
+              "CHEM 107Lg + CHEM 108L",
+              "CHEM 115aLg + CHEM 115bL"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "CHEM 322aL + CHEM 322bL",
+              "CHEM 325aL + CHEM 325bL"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "CHEM 430",
+              "CHEM 432"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "MATH 208x",
+              "MATH 226g",
+              "QBIO 305g"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "PHYS 135aLg + PHYS 135bL",
+              "PHYS 151Lg + PHYS 152L"
+            ]
+          }
+        ]
+      },
+      "confidence": "medium",
+      "note": "Paired courses within each alternative sequence are grouped as single options because they must be taken together."
+    },
+    {
+      "id": "BIOC-BS-02",
+      "family": "Course Selection",
+      "source_text": "Eight units of upper-division, non-core course work available for major credit in biological sciences or chemistry are required.",
+      "description": "Students must take eight units of upper-division, non-core coursework available for major credit in biological sciences or chemistry.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 8
+        },
+        "measure": "units",
+        "pool_rule": "upper-division, non-core coursework available for major credit in biological sciences or chemistry"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BIOC-BS-03",
+      "family": "Distribution Bounds",
+      "source_text": "Students enrolled in BISC 490 are limited to 4 units",
+      "description": "Units of BISC 490 counted toward the elective requirement are capped at 4.",
+      "details": {
+        "kind": "LEVEL_BOUNDS",
+        "filter": "BISC 490",
+        "measure": "units",
+        "bound": {
+          "op": "max",
+          "value": 4
+        },
+        "scope": "upper-division elective requirement"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "BIOC-BS-04",
+      "family": "Distribution Bounds",
+      "source_text": "students enrolled in CHEM 490 may complete up to 8 units",
+      "description": "Units of CHEM 490 counted toward the elective requirement are capped at 8.",
+      "details": {
+        "kind": "LEVEL_BOUNDS",
+        "filter": "CHEM 490",
+        "measure": "units",
+        "bound": {
+          "op": "max",
+          "value": 8
+        },
+        "scope": "upper-division elective requirement"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "BIOC-BS-05",
+      "family": "Distribution Bounds",
+      "source_text": "No more than two seminars (BISC 460 to BISC 462 ), totaling 4 units, may be applied to the upper-division elective requirement.",
+      "description": "No more than two seminars from BISC 460 to BISC 462, totaling 4 units, may count toward the upper-division elective requirement.",
+      "details": {
+        "kind": "LEVEL_BOUNDS",
+        "filter": "BISC 460-462 seminars",
+        "measure": "units",
+        "bound": {
+          "op": "max",
+          "value": 4
+        },
+        "scope": "upper-division elective requirement"
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "The general education, writing, foreign language and diversity requirements for a degree in the USC Dornsife College of Letters, Arts and Sciences are applicable.",
+      "why": "References college-wide general education requirements without specifying any course list or bound relevant to this program; not a program-specific constraint."
+    }
+  ]
+}

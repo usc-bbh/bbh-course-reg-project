@@ -1,0 +1,269 @@
+{
+  "program": "Music Industry (BM)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "MI-BM-01",
+      "family": "Manual Review",
+      "source_text": "All performance majors are required, as indicated in the specific curriculum listings below, to either present a senior recital or complete a culminative project. Both must be completed under approved faculty supervision and guidance.",
+      "description": "Performance majors must complete a senior recital or culminative project under faculty supervision.",
+      "details": {
+        "kind": "PROCEDURAL",
+        "procedure": "ADVISING",
+        "reason": "faculty_supervised_milestone"
+      },
+      "confidence": "medium",
+      "note": "Applies to performance majors generally; treated as procedural milestone since it's not a course-list item."
+    },
+    {
+      "id": "MI-BM-02",
+      "family": "Manual Review",
+      "source_text": "A performance audition according to the requirements of the department of the applicant’s primary instrument or voice is also required.",
+      "description": "Applicants must complete a performance audition as part of admission.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INITIAL_ADMISSION",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "performance audition"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BM-03",
+      "family": "Distribution Bounds",
+      "source_text": "Music majors may accumulate a maximum of 16 units of individual instruction at the 300 level toward an undergraduate degree program.",
+      "description": "No more than 16 units of 300-level individual instruction may count toward the degree.",
+      "details": {
+        "kind": "LEVEL_BOUNDS",
+        "filter": "individual instruction at 300 level",
+        "measure": "units",
+        "bound": {
+          "op": "max",
+          "value": 16
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BM-04",
+      "family": "Course Selection",
+      "source_text": "General education 6 courses",
+      "description": "Students must complete 6 general education courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 6
+        },
+        "measure": "courses",
+        "pool_rule": "general education requirements"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BM-05",
+      "family": "Course Selection",
+      "source_text": "Writing 2 courses",
+      "description": "Students must complete 2 writing courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool_rule": "writing requirement"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BM-06",
+      "family": "Course Selection",
+      "source_text": "MPxx 153 Units: 4 units total of individual instruction in primary instrument/voice / MPxx 253 Units: 4 units total of individual instruction in primary instrument/voice / MPxx 353 Units: 4 units total individual instruction in primary instrument/voice / MPKS 250a Keyboard Instruction I Units: 2 / MPKS 250b Keyboard Instruction I Units: 2 / Ensemble electives Units: 2 units total / MUCO 132a Aural Skills I Units: 2 / MUCO 132b Aural Skills I Units: 2 / MUCO 133a Theory I Units: 3 / MUCO 133b Theory I Units: 3 / MUCO 232a Aural Skills II Units: 2 / MUCO 232b Aural Skills II Units: 2 / MUCO 233a Theory II Units: 3 / MUCO 233b Theory II Units: 3 / MUHL 231 Music History Units: 3 / MUHL 232 Music History II Units: 3 / MUHL 331 Music History III Units: 3 / MUHL 332 Studies in Musical Culture Units: 3 / MUIN 270 Introduction to the Music Industry Units: 4 / MUIN 280 Communications in the Music Industry Units: 4 / MUIN 360 Introduction to Music Law Units: 4 / MUIN 450 Practicum in Music Industry Issues (Internship) Units: 1, 2, 3, 4 (8 units total)",
+      "description": "Students must complete this fixed set of individual instruction, theory, aural skills, music history, and music industry core courses.",
+      "details": {
+        "fixed": [
+          "MPxx 153",
+          "MPxx 253",
+          "MPxx 353",
+          "MPKS 250a",
+          "MPKS 250b",
+          "MUCO 132a",
+          "MUCO 132b",
+          "MUCO 133a",
+          "MUCO 133b",
+          "MUCO 232a",
+          "MUCO 232b",
+          "MUCO 233a",
+          "MUCO 233b",
+          "MUHL 231",
+          "MUHL 232",
+          "MUHL 331",
+          "MUHL 332",
+          "MUIN 270",
+          "MUIN 280",
+          "MUIN 360",
+          "MUIN 450"
+        ]
+      },
+      "confidence": "medium",
+      "note": "Grouped multiple fixed-course listings into one record; ensemble electives 'units total' noted but no pool given."
+    },
+    {
+      "id": "MI-BM-07",
+      "family": "Course Selection",
+      "source_text": "MUCD 340 Choral Conducting I Units: 2 or MUCD 343 Instrumental Conducting I Units: 2",
+      "description": "Students must choose one of MUCD 340 or MUCD 343.",
+      "details": {
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "MUCD 340",
+              "MUCD 343"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BM-08",
+      "family": "Course Selection",
+      "source_text": "Two courses from the following: MUIN 370 Music Publishing and Licensing Units: 2 / MUIN 385 Radio in the Music Industry Units: 4 / MUIN 425 Live Music Production and Promotion Units: 4 / MUIN 430 Artist Management and Development Units: 4 / MUIN 435 Manufacture and Distribution of Musical Products Units: 4 / MUIN 440 Arts Management Units: 4 / MUIN 443 The Business of Music for Visual Media Units: 4 / MUIN 445 International Music Industry Units: 4 / MUIN 495 Web Design for the Music Industry Units: 4",
+      "description": "Students must choose two courses from the listed music industry electives.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool": [
+          "MUIN 370",
+          "MUIN 385",
+          "MUIN 425",
+          "MUIN 430",
+          "MUIN 435",
+          "MUIN 440",
+          "MUIN 443",
+          "MUIN 445",
+          "MUIN 495"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BM-09",
+      "family": "Course Selection",
+      "source_text": "MTEC 175 Fundamentals of Audio Recording Units: 2 / MTEC 176 Critical Listening Units: 2 / MTEC 275 Fundamentals of Audio Engineering Units: 4",
+      "description": "Students must complete MTEC 175, MTEC 176, and MTEC 275.",
+      "details": {
+        "fixed": [
+          "MTEC 175",
+          "MTEC 176",
+          "MTEC 275"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BM-10",
+      "family": "Course Selection",
+      "source_text": "6 units from the following: MUIN 287 The Business and Economics of the Recording Industry Units: 2 / MUIN 340 Introduction to Sound Reinforcement Units: 4 / MTEC 389 Digital Equipment and Recording Units: 2 / MTEC 392a Acoustics and Speaker Design Units: 2 / MTEC 392b Acoustics and Speaker Design Units: 2 / MTEC 442 Operation of the Radio Studio Units: 2 / MTEC 446a Computer Assisted Recording and Editing Units: 2 / MTEC 446b Computer Assisted Recording and Editing Units: 2 / MUIN 476a Advanced Sound Reinforcement Units: 2 / MUIN 476b Advanced Sound Reinforcement Units: 2 / MTEC 477 Remote Recording Techniques Units: 2 / MTEC 478 Advanced Multichannel Remix Units: 2 / MTEC 479 Audio Mastering Units: 2 / MTEC 494 Classical Music Recording Units: 4 / MUIN 496 Music Media Solutions Units: 4",
+      "description": "Students must complete 6 units chosen from the listed music technology courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 6
+        },
+        "measure": "units",
+        "pool": [
+          "MUIN 287",
+          "MUIN 340",
+          "MTEC 389",
+          "MTEC 392a",
+          "MTEC 392b",
+          "MTEC 442",
+          "MTEC 446a",
+          "MTEC 446b",
+          "MUIN 476a",
+          "MUIN 476b",
+          "MTEC 477",
+          "MTEC 478",
+          "MTEC 479",
+          "MTEC 494",
+          "MUIN 496"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BM-11",
+      "family": "Manual Review",
+      "source_text": "Electives: 6 units",
+      "description": "Students must complete 6 units of electives with no defined course list given.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 6
+        },
+        "measure": "units",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "MI-BM-12",
+      "family": "Manual Review",
+      "source_text": "Junior Recital: 0 units",
+      "description": "Students must complete a Junior Recital milestone (0 units) under faculty supervision.",
+      "details": {
+        "kind": "PROCEDURAL",
+        "procedure": "DECLARATION_DEADLINE",
+        "reason": "faculty_supervised_milestone"
+      },
+      "confidence": "low",
+      "note": "No explicit description of the recital's requirements beyond its listing; treated as a procedural milestone."
+    },
+    {
+      "id": "MI-BM-13",
+      "family": "Manual Review",
+      "source_text": "All individual instruction units must be taken in the same area in which the students auditioned.",
+      "description": "Individual instruction units must match the student's audition area.",
+      "details": {
+        "kind": "PROGRAM_RULE",
+        "direction": "REQUIRES",
+        "applies_to": "individual instruction units",
+        "effect": "must match audition area"
+      },
+      "confidence": "medium",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing.",
+      "why": "Describes the university-wide general education program structure rather than a specific requirement of this program; overlaps with GE requirement already recorded but adds a double-counting note not clearly attributable to this program's own requirement text."
+    },
+    {
+      "source_text": "The provost has allowed an exception to the rules governing the new general education requirements for certain groups of students pursuing performance degrees in music. Students pursuing the Bachelor of Music in Jazz Studies or the Bachelor of Music in Performance (in all tracks except organ) may satisfy their social issues and first writing requirement separately by taking WRIT 130 (instead of WRIT 150) in the spring of their freshman year. In addition those pursuing the Bachelor of Music in Performance (vocal arts) may satisfy Category I of the new program with MUHL 331 and MUHL 332.",
+      "why": "This exception applies to other majors (Jazz Studies, Performance), not to Music Industry (BM), so it is not a requirement for this program."
+    },
+    {
+      "source_text": "In all other respects, students in the Thornton School of Music must satisfy the general education requirements as described on the General Education Program page.",
+      "why": "References external page for GE requirements rather than stating a specific constraint; too vague to encode."
+    },
+    {
+      "source_text": "Total required for degree: 132",
+      "why": "States total degree units but is not a distribution, selection, reuse, or sequencing constraint on specific courses; it's an aggregate total not matching any taxonomy family."
+    }
+  ]
+}

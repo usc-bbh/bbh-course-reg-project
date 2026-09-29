@@ -1,0 +1,110 @@
+{
+  "program": "Economics (BA)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "ECON-BA-01",
+      "family": "Course Selection",
+      "source_text": "Students are required to take ECON 203 , ECON 205 , ECON 303 , ECON 305 , ECON 317 , ECON 318 and four economics elective courses.",
+      "description": "Students must complete six specified core economics courses plus four economics elective courses.",
+      "details": {
+        "fixed": [
+          "ECON 203",
+          "ECON 205",
+          "ECON 303",
+          "ECON 305",
+          "ECON 317",
+          "ECON 318"
+        ],
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "courses",
+        "pool_rule": "economics elective courses"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ECON-BA-02",
+      "family": "Distribution Bounds",
+      "source_text": "Of the four elective courses (300 level or above) a minimum of two must be economics courses at the 400 level or higher.",
+      "description": "At least two of the four elective courses must be at the 400 level or higher.",
+      "details": {
+        "kind": "LEVEL_BOUNDS",
+        "filter": "level >= 400",
+        "measure": "courses",
+        "bound": {
+          "op": "min",
+          "value": 2
+        },
+        "scope": "four economics elective courses (300 level or above)"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ECON-BA-03",
+      "family": "Manual Review",
+      "source_text": "The remaining two economics courses must be approved by the department’s director of undergraduate studies.",
+      "description": "The remaining two elective courses require approval by the director of undergraduate studies, with no defined list provided.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "reason": "no_enumerated_list",
+        "approver": "department's director of undergraduate studies"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ECON-BA-04",
+      "family": "Course Selection",
+      "source_text": "MATH 118gx or MATH 125 is required for the major",
+      "description": "Students must complete either MATH 118gx or MATH 125.",
+      "details": {
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "MATH 118gx",
+              "MATH 125"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ECON-BA-05",
+      "family": "Course Selection",
+      "source_text": "Majors are also required to take at least one two-unit course on computing chosen from TAC 101 or CSCI 101L.",
+      "description": "Students must complete at least one two-unit computing course chosen from TAC 101 or CSCI 101L.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "TAC 101",
+          "CSCI 101L"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "students are advised to meet the requirement by their sophomore year",
+      "why": "This is an advisory recommendation about timing, not a binding requirement."
+    }
+  ]
+}
