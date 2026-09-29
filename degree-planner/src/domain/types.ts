@@ -4,7 +4,7 @@
  * Every shape here is reconciled against what the other modules in this repo
  * already document, rather than invented:
  *
- *   stars-parser/README.md            the parser's output object, field for field
+ *   next-sem-validator gui/stars-parser/README.md  the parser's output object, field for field
  *   fixtures/stars/mock_stars_report.json  the committed sample of that object
  *   next-sem-validator analytics/README.md  the `stars_summary` slice Tanzil's validator reads
  *   catalog/README.md                 Agastya's course object and offering_frequency
@@ -25,7 +25,7 @@ export type SituationSource = 'stars' | 'manual' | 'sample';
 export type TermId = string;
 
 /* ── The STARS parser's output ─────────────────────────────────────────────
-   Abhi and Agastya own this. Shape copied from stars-parser/README.md and
+   Abhi and Agastya own this. Shape copied from next-sem-validator gui/stars-parser/README.md and
    checked against fixtures/stars/mock_stars_report.json. */
 
 /** `docs/reference/01`: OK complete, NO incomplete, IP satisfied only if in-progress counts. */
@@ -57,7 +57,7 @@ export interface StarsRequirementBlock {
   status: StarsBlockStatus;
 }
 
-/** The object `parseStarsReport` resolves with. Mirrors stars-parser/README.md. */
+/** The object `parseStarsReport` resolves with. Mirrors next-sem-validator gui/stars-parser/README.md. */
 export interface ParsedStarsReport {
   degree: string;
   major: string;

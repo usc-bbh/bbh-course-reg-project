@@ -58,7 +58,7 @@ const inProgressCourses: StarsCourseRow[] = [
 ];
 
 /**
- * The parsed report, field for field as stars-parser/README.md documents it.
+ * The parsed report, field for field as next-sem-validator gui/stars-parser/README.md documents it.
  * `entryTerm` is the one addition — see the GAP in parseStarsReport.ts.
  */
 export const sampleStarsReport: ParsedStarsReport = {
