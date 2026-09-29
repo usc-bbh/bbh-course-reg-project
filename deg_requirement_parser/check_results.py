@@ -60,11 +60,18 @@ def norm(s: str) -> str:
 def check_file(path: Path, families: set[str], sources: dict[str, str]) -> tuple[dict, list[str]]:
     problems: list[str] = []
     stem = path.stem
+    # Column order follows docs/catalogue-classifier-brief.md, which asks for
+    # program / parsed / constraints found / count per family / unclassified /
+    # status. One column per taxonomy family rather than a packed string, so the
+    # CSV can be sorted and summed in a spreadsheet. Every row carries every
+    # family column, including rows that failed to parse, so the header is stable.
     row = {
         "file": stem,
+        "parsed": False,
         "status": "",
         "constraints": 0,
         "unclassified": 0,
+        **{family: 0 for family in sorted(families)},
         "problems": 0,
         "verbatim_misses": 0,
         "low_confidence": 0,
@@ -76,6 +83,7 @@ def check_file(path: Path, families: set[str], sources: dict[str, str]) -> tuple
         problems.append(f"{stem}: invalid JSON ({exc})")
         row["problems"] = 1
         return row, problems
+    row["parsed"] = True
 
     for field in REQUIRED_TOP:
         if field not in data:
@@ -117,6 +125,8 @@ def check_file(path: Path, families: set[str], sources: dict[str, str]) -> tuple
         fam = c.get("family")
         if fam and fam not in families:
             problems.append(f"{label}: family '{fam}' is not in the taxonomy")
+        elif fam:
+            row[fam] += 1
 
         conf = c.get("confidence")
         if conf is not None and conf not in VALID_CONFIDENCE:
