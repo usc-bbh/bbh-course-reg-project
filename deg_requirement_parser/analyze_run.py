@@ -40,6 +40,14 @@ def load_rows(path: Path) -> list[dict]:
     return rows
 
 
+def read_meta(path: Path) -> dict | None:
+    """run_meta.csv is a single row written by run_classifier.py; absent on older runs."""
+    if not path.exists():
+        return None
+    with path.open(newline="", encoding="utf-8") as fh:
+        return next(iter(csv.DictReader(fh)), None)
+
+
 def safe_correlation(pairs: list[tuple[float, float]]) -> float | None:
     """None if there isn't enough varying data for a correlation to mean anything."""
     if len(pairs) < 2:
@@ -69,9 +77,17 @@ def main() -> int:
     total_seconds = sum(r.get("seconds", 0.0) or 0.0 for r in rows)
     total_cost = sum(r.get("cost_usd", 0.0) or 0.0 for r in rows)
     print(f"{len(rows)} programme(s) logged from {log_path}")
-    print(f"Total call time: {total_seconds:.1f}s (sum of per-call seconds, not run wall-clock "
-          "time under --concurrency)")
     print(f"Total cost: ${total_cost:.2f}")
+    print(f"Total call time: {total_seconds:.1f}s (sum of per-call seconds)")
+
+    meta = read_meta(log_path.parent / "run_meta.csv")
+    if meta:
+        wall = float(meta.get("wall_seconds") or 0.0)
+        print(f"Run wall time: {wall:.1f}s, at --concurrency {meta.get('concurrency', '?')}"
+              + (f" ({total_seconds / wall:.1f}x speedup)" if wall > 0 and total_seconds > wall * 1.05 else ""))
+        print(f"Run started {meta.get('started_at', '?')}, finished {meta.get('finished_at', '?')}")
+    else:
+        print("Run wall time: n/a (no run_meta.csv — this log pre-dates whole-run timing)")
 
     print(f"\n{args.top} slowest programme(s):")
     slowest = sorted(rows, key=lambda r: r.get("seconds", 0.0) or 0.0, reverse=True)[: args.top]

@@ -27,6 +27,7 @@ import sys
 import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime
 from pathlib import Path
 
 # --- Paths -------------------------------------------------------------------
@@ -214,6 +215,11 @@ def call_api(client, model: str, content, max_tokens: int, extra: dict, attempts
             retries += 1
             time.sleep(delay)
             delay *= 2
+
+
+def format_duration(seconds: float) -> str:
+    minutes, secs = divmod(int(round(seconds)), 60)
+    return f"{minutes}m {secs:02d}s" if minutes else f"{secs}s"
 
 
 def make_row(stem: str, model: str, effort: str, elapsed: float, retries: int, chars_in: int,
@@ -420,6 +426,8 @@ def main() -> int:
     rows = []
     failures = 0
     effort_label = "" if not extra else ("no-thinking" if args.no_thinking else args.effort)
+    run_started_at = datetime.now().astimezone()
+    run_t0 = time.perf_counter()
 
     # Pass 1: skip/dry-run decisions are cheap and order-sensitive for their own
     # console lines, so they stay a plain sequential loop. Only calls that will
@@ -478,13 +486,40 @@ def main() -> int:
         if budget_state["stop"]:
             print(f"\nStopping: spent ${budget_state['spent']:.2f}, at the ${args.budget:.2f} budget.")
 
+    run_seconds = time.perf_counter() - run_t0
+
     if rows:
         with (out_dir / "run_log.csv").open("w", newline="", encoding="utf-8") as fh:
             w = csv.DictWriter(fh, fieldnames=list(rows[0]))
             w.writeheader()
             w.writerows(rows)
+
+        # run_log.csv times each call; this records how long the run itself took.
+        # The two differ by roughly --concurrency, which is the point of measuring both.
         spent = sum(r["cost_usd"] for r in rows)
-        print(f"\nSpent ${spent:.2f} across {len(rows)} call(s). Log: {out_label}/run_log.csv")
+        call_seconds = sum(r["seconds"] for r in rows)
+        meta = {
+            "model": args.model,
+            "concurrency": args.concurrency,
+            "programmes": len(rows),
+            "wall_seconds": round(run_seconds, 1),
+            "call_seconds": round(call_seconds, 1),
+            "cost_usd": round(spent, 4),
+            "started_at": run_started_at.isoformat(timespec="seconds"),
+            "finished_at": datetime.now().astimezone().isoformat(timespec="seconds"),
+        }
+        with (out_dir / "run_meta.csv").open("w", newline="", encoding="utf-8") as fh:
+            w = csv.DictWriter(fh, fieldnames=list(meta))
+            w.writeheader()
+            w.writerow(meta)
+
+        speedup = ""
+        if run_seconds > 0 and call_seconds > run_seconds * 1.05:
+            speedup = f", {call_seconds / run_seconds:.1f}x faster than one at a time"
+        print(f"\nSpent ${spent:.2f} across {len(rows)} call(s). "
+              f"Log: {out_label}/run_log.csv")
+        print(f"Finished in {format_duration(run_seconds)} of wall time; "
+              f"{format_duration(call_seconds)} of call time{speedup}.")
     if failures:
         print(f"{failures} programme(s) failed.")
     return 1 if failures else 0
