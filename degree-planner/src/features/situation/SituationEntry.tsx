@@ -34,7 +34,7 @@ export function SituationEntry({ onStart }: SituationEntryProps) {
   const readFile = (file: File | undefined) => {
     if (!file) return;
     setPhase({ kind: 'reading' });
-    // stars-parser/README.md: the parser resolves with null when both the text
+    // next-sem-validator gui/stars-parser/README.md: the parser resolves with null when both the text
     // and OCR paths fail, "so the UI can prompt the student to fill in their
     // info manually". A rejection is an unexpected error; null is the ordinary
     // could-not-read path. Both land the student in the same place.

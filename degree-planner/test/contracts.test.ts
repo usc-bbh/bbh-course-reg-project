@@ -53,7 +53,7 @@ describe('the STARS parser contract', () => {
   });
 
   it('resolves rather than rejects, and can resolve with null', async () => {
-    // stars-parser/README.md: "If both fail, returns null so the UI can prompt
+    // next-sem-validator gui/stars-parser/README.md: "If both fail, returns null so the UI can prompt
     // the student to fill in their info manually."
     const result = await parseStarsReport(new File(['x'], 'r.pdf'));
     expect(result).not.toBeNull();

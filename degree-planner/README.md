@@ -105,7 +105,7 @@ README, and a test fails if either side drifts.
 
 | What | Whose | Contract |
 | --- | --- | --- |
-| The parsed STARS report | Abhi — `stars-parser/` | [`stars-parser/README.md`](../stars-parser/README.md) |
+| The parsed STARS report | Abhi — next-sem-validator | [`gui/stars-parser/README.md`](https://github.com/usc-bbh/next-sem-validator/blob/main/gui/stars-parser/README.md) |
 | The sample student | shared | [`fixtures/stars/mock_stars_report.json`](../fixtures/stars/mock_stars_report.json) |
 | Which verdicts are reused vs computed | Natalie — degree-audit engine | [`docs/reference/03`](../docs/reference/03-degree-planner-architecture.md) |
 | Course titles, units, offering frequency | Agastya — `catalog/` | [`catalog/README.md`](../catalog/README.md) |

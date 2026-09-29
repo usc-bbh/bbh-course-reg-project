@@ -23,7 +23,7 @@ quiet drift.
 
 | Seam | Owner | Contract | Where the planner reads it |
 | --- | --- | --- | --- |
-| The parsed report | Abhi (`stars-parser/`) | [`stars-parser/README.md`](../stars-parser/README.md) output block; signature `parseStarsReport(file, { onStatus, onProgress })`, resolving to `null` when it cannot read the file | `src/domain/types.ts` → `ParsedStarsReport`, `src/data/parseStarsReport.ts` |
+| The parsed report | Abhi (next-sem-validator) | [`gui/stars-parser/README.md`](https://github.com/usc-bbh/next-sem-validator/blob/main/gui/stars-parser/README.md) output block; signature `parseStarsReport(file, { onStatus, onProgress })`, resolving to `null` when it cannot read the file | `src/domain/types.ts` → `ParsedStarsReport`, `src/data/parseStarsReport.ts` |
 | The sample student | shared | [`fixtures/stars/mock_stars_report.json`](../fixtures/stars/mock_stars_report.json) | `src/data/sampleStudent.ts`, asserted field-for-field against the committed file in `test/contracts.test.ts` |
 | Which tier is reused and which is computed | Natalie (degree-audit engine) | [`docs/reference/03-degree-planner-architecture.md`](reference/03-degree-planner-architecture.md) | `Requirement.tier` + `Requirement.source`, `AnalysisResult.reusedFromReportDated` |
 | Block statuses `ok` / `no` / `ip` | shared | [`docs/reference/01-reading-a-stars-report.md`](reference/01-reading-a-stars-report.md) | `StarsBlockStatus`, `src/components/status.tsx` |
@@ -88,7 +88,7 @@ requirement, and it must not start to.
 
 ---
 
-## 3. Still open — Abhi (`stars-parser/`), and Tanzil for P0
+## 3. Still open — Abhi (parser, next-sem-validator), and Tanzil for P0
 
 ### P0 — the shared fixture disagrees with itself, and both of you read it
 

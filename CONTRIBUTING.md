@@ -31,7 +31,7 @@ you delete it in a later commit. Public repo, permanent record.
 Use the shared mock fixtures instead:
 
 - `fixtures/stars/` — canonical mock STARS data (parser output *and* validator input)
-- `stars-parser/test/fixtures/` — scrubbed parser fixtures
+- `gui/stars-parser/test/fixtures/` in [next-sem-validator](https://github.com/usc-bbh/next-sem-validator) — scrubbed parser fixtures
 
 If you need a new fixture, redact it first and have someone else check it before committing. Sport
 or team affiliation, class level, and a full grade transcript can identify a student together even
@@ -70,10 +70,9 @@ The repo is a monorepo of loosely coupled modules — see the layout table in
 [`README.md`](README.md). Each has its own README with a schema contract; read it before changing
 that module's inputs or outputs.
 
-- `stars-parser/` — JavaScript, runs client-side (PDF.js, Tesseract.js). This is its only home;
-  RegCheck consumes it through a pinned submodule, so fix it here, not there.
-- The next-semester validator is **not** in this repo — it lives in
-  [usc-bbh/next-sem-validator](https://github.com/usc-bbh/next-sem-validator) (`analytics/`), along with the RegCheck GUI.
+- The STARS parser and the next-semester validator are **not** in this repo — both live in
+  [usc-bbh/next-sem-validator](https://github.com/usc-bbh/next-sem-validator) (`gui/stars-parser/` and `analytics/`), along with the
+  RegCheck GUI that runs them.
 - `catalogue_scraper/` — Python, scrapes degree *requirements*
 - `catalog/` — Python, scrapes the Schedule of Classes; **requires USC VPN**
 

@@ -4,10 +4,10 @@ import { sampleStarsReport } from './sampleStudent';
 /**
  * STUB. Ignores the file it is given and returns the same object every time.
  *
- * The real parser is Abhi and Agastya's (`stars-parser/` in this repo). Nothing
+ * The real parser is Abhi and Agastya's (`gui/stars-parser/` in next-sem-validator). Nothing
  * in this file reads a PDF, and nothing in this app parses a report.
  *
- * Two things here are copied from `stars-parser/README.md` rather than
+ * Two things here are copied from next-sem-validator gui/stars-parser/README.md rather than
  * invented, because CONTRIBUTING.md says to read the producer's own README:
  *
  *   1. The **shape** is the parser's documented output, field for field, and
