@@ -93,7 +93,7 @@ describe('USC term codes', () => {
 
 describe('course codes', () => {
   it('normalises to the DEPT NNN form the validator and catalog agree on', () => {
-    // validator/README.md: "normalized to DEPT ### (single space) everywhere".
+    // next-sem-validator analytics/README.md: "normalized to DEPT ### (single space) everywhere".
     expect(normalizeCourseCode('BUAD304')).toBe('BUAD 304');
     expect(normalizeCourseCode('csci  104l')).toBe('CSCI 104L');
     expect(normalizeCourseCode('CSCI 104')).toBe('CSCI 104');
@@ -108,7 +108,7 @@ describe('course codes', () => {
 });
 
 describe('the validator’s stars_summary slice', () => {
-  it('produces exactly the five fields validator/README.md documents', () => {
+  it('produces exactly the five fields the validator README documents', () => {
     const slice = toStarsSummary(sampleStarsReport);
     expect(Object.keys(slice).sort()).toEqual(
       ['classLevel', 'completedCourses', 'gpa', 'inProgressCourses', 'major'].sort(),
