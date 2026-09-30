@@ -1,6 +1,7 @@
 // Builds index.html from src/page.html. Everything the page needs is inlined: the parser, the
-// PDF text extraction, pdf.js and its worker (bundled from node_modules), the fonts, and the
-// sample report. The result makes no network requests, and its Content-Security-Policy says so.
+// PDF text extraction, pdf.js and its worker (bundled from node_modules), and the sample
+// report. Text is set in Times New Roman, which is already on the device. The result makes no
+// network requests, and its Content-Security-Policy says so.
 // Usage: npm install && npm run build
 const fs = require('fs');
 const crypto = require('crypto');
@@ -19,21 +20,11 @@ const bundle = (entry, globalName) => esbuild.buildSync({
 const pdfjs = bundle('pdfjs-dist/legacy/build/pdf.mjs', 'pdfjsLib');
 const worker = bundle('pdfjs-dist/legacy/build/pdf.worker.mjs');
 
-// Fonts, embedded as data URIs (both SIL Open Font License). Latin subset only.
-const font = (family, file, weight, extra = '') =>
-  `@font-face{font-family:"${family}";font-style:normal;font-weight:${weight};font-display:swap;${extra}` +
-  `src:url(data:font/woff2;base64,${fs.readFileSync(nm(file)).toString('base64')}) format("woff2")}`;
-const fonts = [
-  font('Bricolage Grotesque', '@fontsource-variable/bricolage-grotesque/files/bricolage-grotesque-latin-opsz-normal.woff2', '200 800'),
-  ...[400, 500, 600].map(w => font('IBM Plex Sans', `@fontsource/ibm-plex-sans/files/ibm-plex-sans-latin-${w}-normal.woff2`, w))
-].join('\n');
-
 // Inline scripts end at the first "</script"; escape it anywhere it appears in inlined code.
 const safe = s => s.replace(/<\/script/gi, '<\\/script').replace(/<!--/g, '<\\!--');
 const str = s => safe(JSON.stringify(s));
 
 const parts = {
-  '/*FONTS*/': fonts,
   '/*PARSER*/': safe(read('src/parser.js')),
   '/*PDFTEXT*/': safe(read('src/pdftext.js')),
   '/*PDFJS*/': safe(pdfjs),
@@ -52,7 +43,7 @@ const hashes = [...page.matchAll(/<script>([\s\S]*?)<\/script>/g)]
   .map(m => `'sha256-${crypto.createHash('sha256').update(m[1]).digest('base64')}'`);
 const csp = [
   "default-src 'none'", `script-src ${hashes.join(' ')}`, 'worker-src blob:', 'child-src blob:',
-  "style-src 'unsafe-inline'", 'font-src data:', 'img-src data: blob:', "connect-src 'none'",
+  "style-src 'unsafe-inline'", 'img-src data: blob:', "connect-src 'none'",
   "form-action 'none'", "base-uri 'none'"
 ].join('; ');
 page = page.replace('<!--CSP-->', `<meta http-equiv="Content-Security-Policy" content="${csp}">`);

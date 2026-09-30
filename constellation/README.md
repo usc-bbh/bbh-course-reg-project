@@ -10,7 +10,7 @@ Owner: Natalie. Constellation is its own project. It can be used next to RegChec
 
 ## Privacy: nothing leaves the device
 
-- **Zero network requests.** Everything the page needs is inside `index.html`: pdf.js, the fonts, the parser, and the sample report. Once it's open, it works offline.
+- **Zero network requests.** Everything the page needs is inside `index.html`: pdf.js, the parser, and the sample report. Text is set in Times New Roman, which is already on the device. Once it's open, it works offline.
 - **Enforced by the browser.** The page's Content-Security-Policy blocks every outgoing connection (`connect-src 'none'`, `default-src 'none'`). Scripts run only if their hash matches the build, so a script added later without a rebuild won't run.
 - **Nothing stored.** No cookies, localStorage, or IndexedDB. Closing the tab or clicking "Summarize another report" clears everything, which matters for advisors on shared computers.
 - **Redacted before reading.** The name, student ID, and diploma name and mailing address are removed before parsing. The test checks this on every report.
@@ -22,12 +22,12 @@ Owner: Natalie. Constellation is its own project. It can be used next to RegChec
 
 | Path | What it is |
 | --- | --- |
-| `index.html` | The built page (about 2 MB, self-contained). Open it in a browser. |
+| `index.html` | The built page (about 1.8 MB, self-contained). Open it in a browser. |
 | `src/parser.js` | The STARS parser: report text in, requirement tree, deduplicated course list, and "what's left" list out. |
 | `src/pdftext.js` | PDF to text: runs pdf.js and rebuilds lines. Shared by the page and the test so both run the same code. |
 | `src/page.html` | The page template: layout, styles, rendering. |
 | `src/sample-report.txt` | A fictional report behind the "Try a sample report" button. |
-| `build.js` | Builds `index.html`: inlines everything, bundles pdf.js from `node_modules`, embeds the fonts, writes the CSP. |
+| `build.js` | Builds `index.html`: inlines everything, bundles pdf.js from `node_modules`, writes the CSP. |
 | `scripts/check-privacy.mjs` | The privacy check described above. |
 | `test/run.mjs` | Runs every PDF in `test/samples/` through the same pipeline as the page. |
 
@@ -114,6 +114,6 @@ Formats handled: Core Literacies and Thematic Option GE, the Dornsife 104-unit a
 
 - Scanned PDFs with no text layer are rejected with a message. OCR (as in `stars-parser/ocrExtract.js`) would add several megabytes and would need to be bundled, not loaded from a CDN.
 - STARS cuts course titles at 29 characters. The page marks them with "…"; full titles need the course catalog.
-- `index.html` is about 2 MB because pdf.js and the fonts are inside it. That's the cost of making zero requests.
-- Fonts: Bricolage Grotesque and IBM Plex Sans, both under the SIL Open Font License, embedded from the `@fontsource` packages.
+- `index.html` is about 1.8 MB because pdf.js is inside it. That's the cost of making zero requests.
+- The page is light-only and set in Times New Roman. Devices without it (some Linux and Android) fall back to Times, Liberation Serif, or their default serif font.
 - Unofficial. STARS and the student's academic advisor are the source of truth for graduation.

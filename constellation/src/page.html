@@ -2,60 +2,49 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="color-scheme" content="only light">
 <!--CSP-->
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Constellation: make sense of your STARS</title>
 <style>
-/*FONTS*/
 :root{
-  --paper:#F4F5F9; --surface:#FFFFFF; --ink:#171A36; --muted:#5B6180; --line:#DCDFEA;
-  --night:#141735; --night-2:#1E2350; --starlight:#F3C24F; --dim:#8C93BF;
-  --done:#2448B0; --done-bg:#E6ECFB; --prog:#9A6400; --prog-bg:#FBF0DA; --needs:#A3161A; --needs-bg:#FBE7E7;
-  --display:"Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
-  --body:"IBM Plex Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
+  color-scheme:only light;
+  --paper:#FFFFFF; --surface:#FFFFFF; --ink:#111111; --muted:#555555; --line:#D6D6D6;
+  --night:#111111; --accent:#1F3A8A;
+  --done:#1F3A8A; --done-bg:#EAEEF8; --prog:#8A5A00; --prog-bg:#FAF1DE; --needs:#A3161A; --needs-bg:#FBEAEA;
+  --display:"Times New Roman", Times, "Liberation Serif", serif;
+  --body:"Times New Roman", Times, "Liberation Serif", serif;
   box-sizing:border-box; padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
-}
-@media (prefers-color-scheme: dark){
-  :root:not([data-theme="light"]){
-    --paper:#0E1024; --surface:#171A33; --ink:#E9EBF7; --muted:#A0A6C8; --line:#2B3055;
-    --done:#8EA8FF; --done-bg:#1D2757; --prog:#F0B94A; --prog-bg:#3A2D10; --needs:#FF8E8E; --needs-bg:#43191D;
-  }
-}
-:root[data-theme="dark"]{
-  --paper:#0E1024; --surface:#171A33; --ink:#E9EBF7; --muted:#A0A6C8; --line:#2B3055;
-  --done:#8EA8FF; --done-bg:#1D2757; --prog:#F0B94A; --prog-bg:#3A2D10; --needs:#FF8E8E; --needs-bg:#43191D;
 }
 *,*::before,*::after{box-sizing:inherit}
 html{scroll-padding-top:env(safe-area-inset-top,0px)}
-body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 var(--body);font-variant-numeric:tabular-nums;-webkit-font-smoothing:antialiased}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.55 var(--body);font-variant-numeric:tabular-nums;-webkit-font-smoothing:antialiased}
 .wrap{max-width:1040px;margin:0 auto;padding:0 20px}
 a{color:var(--done)}
-button,.btn{font:600 15px/1 var(--body);border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:12px 16px;cursor:pointer}
-button:focus-visible,.btn:focus-visible,summary:focus-visible{outline:3px solid var(--starlight);outline-offset:2px}
+button,.btn{font:600 15px/1 var(--body);border-radius:4px;border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:12px 16px;cursor:pointer}
+button:focus-visible,.btn:focus-visible,summary:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
 .primary{background:var(--night);color:#fff;border-color:var(--night)}
-:root[data-theme="dark"] .primary{background:var(--starlight);color:#141735;border-color:var(--starlight)}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .primary{background:var(--starlight);color:#141735;border-color:var(--starlight)}}
 
 /* top bar */
 .bar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:18px;padding-bottom:18px}
-.mark{display:flex;align-items:center;gap:10px;font:700 21px/1 var(--display);letter-spacing:-.01em;color:inherit;text-decoration:none}
+.mark{display:flex;align-items:center;gap:10px;font:700 21px/1 var(--display);letter-spacing:0;color:inherit;text-decoration:none}
 .bar small{color:var(--muted);font-size:13.5px;text-align:right}
 
 /* intake */
-.intake{padding:40px 0 64px}
-.intake h1{font:700 clamp(38px,6vw,64px)/1.02 var(--display);letter-spacing:-.025em;margin:0 0 14px;max-width:14ch}
+.intake{padding-top:40px;padding-bottom:64px}
+.intake h1{font:700 clamp(38px,6vw,64px)/1.02 var(--display);letter-spacing:0;margin:0 0 14px;max-width:14ch}
 .intake p.lede{font-size:18px;color:var(--muted);max-width:56ch;margin:0 0 28px}
-.drop{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;text-align:center;min-height:240px;background:var(--surface);border:2px dashed var(--line);border-radius:16px;padding:28px;cursor:pointer;color:var(--muted);transition:border-color .15s,background .15s}
+.drop{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;text-align:center;min-height:240px;background:var(--surface);border:2px dashed var(--line);border-radius:4px;padding:28px;cursor:pointer;color:var(--muted);transition:border-color .15s,background .15s}
 .drop:hover{border-color:var(--muted)}
-.drop:focus-within{outline:3px solid var(--starlight);outline-offset:2px}
+.drop:focus-within{outline:3px solid var(--accent);outline-offset:2px}
 .drop-title{font:700 22px/1.2 var(--display);color:var(--ink)}
 .drop-sub{font-size:15px}
 .drop.busy{pointer-events:none;opacity:.75}
 .visually-hidden{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
-.drop.over{border-color:var(--starlight);background:var(--prog-bg)}
+.drop.over{border-color:var(--accent);background:var(--prog-bg)}
 .actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px;align-items:center}
 .actions .hint{color:var(--muted);font-size:14px}
-.err{margin-top:14px;padding:12px 14px;border-radius:8px;background:var(--needs-bg);color:var(--needs);font-weight:500}
+.err{margin-top:14px;padding:12px 14px;border-radius:4px;background:var(--needs-bg);color:var(--needs);font-weight:500}
 .how{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:24px;margin-top:36px;color:var(--muted);font-size:14.5px}
 .how b{display:block;color:var(--ink);font-weight:600;margin-bottom:2px}
 
@@ -63,13 +52,13 @@ button:focus-visible,.btn:focus-visible,summary:focus-visible{outline:3px solid 
 .hero{padding:28px 0 4px}
 .hero .top{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px 24px;align-items:flex-end;padding-bottom:18px;border-bottom:1px solid var(--line)}
 .eyebrow{font:600 12px/1 var(--body);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
-.hero h1{font:700 clamp(26px,3.6vw,38px)/1.1 var(--display);letter-spacing:-.02em;margin:0}
+.hero h1{font:700 clamp(26px,3.6vw,38px)/1.1 var(--display);letter-spacing:0;margin:0}
 .hero .sub{color:var(--muted);margin-top:6px;font-size:15px}
 .hero .prepared{color:var(--muted);font-size:13.5px;text-align:right}
 
 /* stat tiles */
 .tiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-top:20px}
-.tile{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.tile{background:var(--surface);border:1px solid var(--line);border-radius:4px;padding:14px 16px}
 .tile .l{font:600 12px/1.2 var(--body);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
 .tile .v{font:700 28px/1.1 var(--display);margin-top:8px}
 .tile .v small{font:500 15px var(--body);color:var(--muted)}
@@ -88,7 +77,7 @@ button:focus-visible,.btn:focus-visible,summary:focus-visible{outline:3px solid 
 .mk.progress{background:var(--prog)}
 .mk.needs{border:1.5px solid var(--needs)}
 .areas{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px}
-.area-card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px}
+.area-card{background:var(--surface);border:1px solid var(--line);border-radius:4px;padding:16px}
 .area-card h3{font:600 16px/1.3 var(--body);margin:0;display:flex;justify-content:space-between;align-items:baseline;gap:8px}
 .area-card h3 span{font:500 13.5px var(--body);color:var(--muted);white-space:nowrap}
 .counts{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px;color:var(--muted);margin-top:8px}
@@ -102,9 +91,9 @@ button:focus-visible,.btn:focus-visible,summary:focus-visible{outline:3px solid 
 
 /* sections */
 main section{padding:34px 0 6px}
-h2{font:700 26px/1.15 var(--display);letter-spacing:-.015em;margin:0 0 4px}
+h2{font:700 26px/1.15 var(--display);letter-spacing:0;margin:0 0 4px}
 .section-note{color:var(--muted);margin:0 0 16px;font-size:15px}
-.scroll{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:12px}
+.scroll{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:4px}
 table{border-collapse:collapse;width:100%;font-size:15px}
 th{text-align:left;font-weight:600;color:var(--muted);font-size:13px;padding:11px 14px;border-bottom:1px solid var(--line);white-space:nowrap}
 td{padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top}
@@ -114,7 +103,7 @@ td.num{white-space:nowrap}
 .opts{display:flex;flex-wrap:wrap;gap:6px}
 .chip{display:inline-block;border:1px solid var(--line);border-radius:6px;padding:2px 8px;font-size:13.5px;white-space:nowrap;background:var(--paper)}
 .chip.code{font-weight:600}
-.pill{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:3px 10px 3px 8px;font-size:13px;font-weight:600;white-space:nowrap}
+.pill{display:inline-flex;align-items:center;gap:6px;border-radius:3px;padding:2px 9px 2px 7px;font-size:13px;font-weight:600;white-space:nowrap}
 .pill::before{content:"";width:8px;height:8px;border-radius:50%;background:currentColor}
 .pill.done{background:var(--done-bg);color:var(--done)}
 .pill.progress{background:var(--prog-bg);color:var(--prog)}
@@ -134,10 +123,10 @@ details[open]>summary::before{transform:rotate(45deg)}
 summary .count{font:500 14px var(--body);color:var(--muted)}
 .more{margin-top:6px}.more summary{font:500 13.5px var(--body);padding:2px 0;color:var(--done)}.more summary::before{width:6px;height:6px}
 .term-h td{background:var(--paper);font-weight:600;font-size:14px}
-pre.raw{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px;overflow:auto;font-size:12.5px;line-height:1.4;max-height:520px}
+pre.raw{background:var(--surface);border:1px solid var(--line);border-radius:4px;padding:16px;overflow:auto;font-size:12.5px;line-height:1.4;max-height:520px}
 .fine{color:var(--muted);font-size:14.5px;max-width:70ch}
 .fine li{margin:4px 0}
-footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
+footer{padding-top:36px;padding-bottom:48px;color:var(--muted);font-size:13.5px}
 .redact{display:inline-flex;gap:6px;align-items:center}
 .hidden{display:none !important}
 @media (max-width:640px){
@@ -174,7 +163,7 @@ footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
 <body>
 <div class="wrap bar">
   <a class="mark" href="#" id="home" aria-label="Constellation home">
-    <svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true"><path d="M4 19 L11 8 L17 14 L22 5" fill="none" stroke="currentColor" stroke-width="1.4" opacity=".45"/><circle cx="4" cy="19" r="2.4" fill="#F3C24F"/><circle cx="11" cy="8" r="2.4" fill="#F3C24F"/><circle cx="17" cy="14" r="2.4" fill="none" stroke="currentColor" stroke-width="1.4"/><circle cx="22" cy="5" r="2.4" fill="#F3C24F"/></svg>
+    <svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true"><path d="M4 19 L11 8 L17 14 L22 5" fill="none" stroke="currentColor" stroke-width="1.4" opacity=".45"/><circle cx="4" cy="19" r="2.4" fill="currentColor"/><circle cx="11" cy="8" r="2.4" fill="currentColor"/><circle cx="17" cy="14" r="2.4" fill="none" stroke="currentColor" stroke-width="1.4"/><circle cx="22" cy="5" r="2.4" fill="currentColor"/></svg>
     Constellation
   </a>
   <small>Your PDF is read in your browser and never leaves your device.</small>
