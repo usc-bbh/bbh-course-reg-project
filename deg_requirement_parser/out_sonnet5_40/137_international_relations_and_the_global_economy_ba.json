@@ -1,0 +1,188 @@
+{
+  "program": "International Relations And The Global Economy BA",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "IRGE-01",
+      "family": "Course Selection",
+      "source_text": "ECON 203g Principles of Microeconomics Units: 4\n- ECON 205g Principles of Macroeconomics Units: 4\n- IR 210gw International Relations: Introductory Analysis Units: 4",
+      "description": "Students must complete ECON 203g, ECON 205g, and IR 210gw.",
+      "details": {
+        "fixed": [
+          "ECON 203g",
+          "ECON 205g",
+          "IR 210gw"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "IRGE-02",
+      "family": "Course Selection",
+      "source_text": "MATH 118gx Calculus for Business and Economics Units: 4 * or\n- MATH 125g Calculus I Units: 4 *",
+      "description": "Students choose one of MATH 118gx or MATH 125g.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "MATH 118gx",
+              "MATH 125g"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "IRGE-03",
+      "family": "Course Selection",
+      "source_text": "ECON 303 Intermediate Microeconomic Theory Units: 4\n- ECON 305 Intermediate Macroeconomic Theory Units: 4\n- ECON 317 Introduction to Statistics for Economists Units: 4\n- IR 330 Politics of the World Economy Units: 4",
+      "description": "Students must complete ECON 303, ECON 305, ECON 317, and IR 330.",
+      "details": {
+        "fixed": [
+          "ECON 303",
+          "ECON 305",
+          "ECON 317",
+          "IR 330"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "IRGE-04",
+      "family": "Course Selection",
+      "source_text": "Choose two courses (8 units): ECON 318 Introduction to Econometrics Units: 4; IR 324 Multinational Enterprises and World Politics Units: 4; IR 325 North-South Relations in the Global Economy Units: 4; IR 326 U.S. Foreign Economic Policy Units: 4; IR 328 The Evolving Global Economic Architecture-Capital Mobility Units: 4; IR 329 The Global Finance and Monetary Regime Units: 4; IR 331 The Global Economy 2040 Units: 4; IR 332 Money, Guns and Oil Units: 4",
+      "description": "Students choose two courses (8 units) from a specified list of Core Skills and Issues electives.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool": [
+          "ECON 318",
+          "IR 324",
+          "IR 325",
+          "IR 326",
+          "IR 328",
+          "IR 329",
+          "IR 331",
+          "IR 332"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "IRGE-05",
+      "family": "Course Selection",
+      "source_text": "Choose one course (4 units): ECON 340 Economics of Less Developed Countries Units: 4; ECON 342 Economic Development of the Middle East Units: 4; ECON 343 Economic Development of East Asia Units: 4; ECON 344 Economic Development of Sub-Saharan Africa Units: 4; ECON 346 Economics of Transition and Development: China Units: 4; IR 317 The Political Economy of Africa Units: 4; IR 340 The Political Economy of China Units: 4; IR 360 International Relations of the Pacific Rim Units: 4; IR 363 Middle East Political Economy Units: 4; IR 364 The Political Economy of Latin American Development Units: 4; IR 384 Asian Security Issues Units: 4; IR 425 The New Triangle: China, the U.S. and Latin America Units: 4; IR 428 China's Political Economy Units: 4; IR 439 Political Economy of Russia and Eurasia Units: 4; IR 468 European Integration Units: 4; POSC 430 Political Economy of Mexico Units: 4; POSC 431 Political Economy of Central America Units: 4; POSC 435 Politics and the Economy Units: 4; POSC 451 Politics of Resources and Development Units: 4",
+      "description": "Students choose one Regional Study course (4 units) from a specified list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "ECON 340",
+          "ECON 342",
+          "ECON 343",
+          "ECON 344",
+          "ECON 346",
+          "IR 317",
+          "IR 340",
+          "IR 360",
+          "IR 363",
+          "IR 364",
+          "IR 384",
+          "IR 425",
+          "IR 428",
+          "IR 439",
+          "IR 468",
+          "POSC 430",
+          "POSC 431",
+          "POSC 435",
+          "POSC 451"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "IRGE-06",
+      "family": "Course Selection",
+      "source_text": "Choose one course (4 units): ECON 404 Games and Economics Units: 4; ECON 415 Behavioral Economics Units: 4; ECON 450 International Trade Units: 4 (prerequisite: ECON 303 ); ECON 452 International Finance Units: 4; ECON 457 Financial Markets Units: 4; ECON 474 Economic Consulting and Applied Managerial Economics Units: 4; ECON 487 Resource and Environmental Economics Units: 4; IR 412 Applied Data Science for International Relations 1 Units: 2; IR 413 Applied Data Science for International Relations 2 Units: 2; IR 420 Political Economy of Corruption Units: 4; IR 427 Seminar on Economics and Security Units: 4; IR 430 The Politics of International Trade Units: 4; IR 431 Commercial and Financial Globalization-Trends, Challenges Units: 4; IR 454 The International Political Economy of Development Units: 4; IR 455 The Political Economy of Autocracy Units: 4; IR 470 Comparative Regionalism Units: 4",
+      "description": "Students choose one Senior Emphasis course (4 units) from a specified list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "ECON 404",
+          "ECON 415",
+          "ECON 450",
+          "ECON 452",
+          "ECON 457",
+          "ECON 474",
+          "ECON 487",
+          "IR 412",
+          "IR 413",
+          "IR 420",
+          "IR 427",
+          "IR 430",
+          "IR 431",
+          "IR 454",
+          "IR 455",
+          "IR 470"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "IRGE-07",
+      "family": "Sequencing",
+      "source_text": "ECON 450 International Trade Units: 4 (prerequisite: ECON 303 )",
+      "description": "ECON 303 must be completed before ECON 450.",
+      "details": {
+        "kind": "PREREQUISITE",
+        "before": "ECON 303",
+        "after": "ECON 450"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "IRGE-08",
+      "family": "Manual Review",
+      "source_text": "The degree cannot also be combined as an additional major with any economics degree.",
+      "description": "This degree cannot be combined as an additional major with any economics degree.",
+      "details": {
+        "kind": "PROGRAM_RULE",
+        "direction": "COMBINATION",
+        "applies_to": "economics degree majors",
+        "effect": "cannot be combined"
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "Total: 12 courses, 48 units",
+      "why": "This is a summary total of the program's overall requirements rather than a distinct new constraint on course selection, and does not specify a filter/pool of its own."
+    }
+  ]
+}

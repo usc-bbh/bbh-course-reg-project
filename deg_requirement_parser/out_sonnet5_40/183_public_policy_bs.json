@@ -1,0 +1,449 @@
+{
+  "program": "Public Policy (BS)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "PPBS-01",
+      "family": "Course Selection",
+      "source_text": "MATH 117g Precalculus for Business and Economics Units: 4\n- PPD 203 Economic Analysis for Public Policy Units: 4",
+      "description": "Students must complete the fixed pre-major courses MATH 117g and PPD 203.",
+      "details": {
+        "fixed": [
+          "MATH 117g",
+          "PPD 203"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PPBS-02",
+      "family": "Course Selection",
+      "source_text": "PPD 225 Solving Public Problems Units: 4\n- PPD 240g Citizenship and Public Ethics Units: 4\n- PPD 300 Social Justice Issues in Public Policy and Urban Planning Units: 4\n- PPD 301 PPD Practices: Internship Seminar Units: 2\n- PPD 303 Statistics for Policy, Planning, and Development Units: 4\n- PPD 315 Analytic Foundations for Public Policy Units: 4\n- PPD 373 Public Policy and Planning Analysis Units: 4\n- PPD 431 Undergraduate Policy, Planning, and Development Studio Units: 4",
+      "description": "Students must complete the fixed 30-unit core curriculum courses.",
+      "details": {
+        "fixed": [
+          "PPD 225",
+          "PPD 240g",
+          "PPD 300",
+          "PPD 301",
+          "PPD 303",
+          "PPD 315",
+          "PPD 373",
+          "PPD 431"
+        ],
+        "count": {
+          "op": "eq",
+          "value": 30
+        },
+        "measure": "units"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PPBS-03",
+      "family": "Course Selection",
+      "source_text": "Students select one track for degree emphasis; they take 28 units from the track selected.",
+      "description": "Students select one track from the five listed and complete 28 units within it.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "tracks",
+        "pool": [
+          "Health Policy and Management",
+          "Philanthropy, Nonprofits and Social Innovation",
+          "Public Policy and Law",
+          "Public Policy and Data Analytics",
+          "Urban Environmental and Sustainability Policy"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PPBS-04",
+      "family": "Course Selection",
+      "source_text": "PPD 325 Fundamentals of Health Policy and Management Units: 4\n- PPD 330 Introduction to Health Care Systems Units: 4\n- PPD 357 Government and Business Units: 4\n- PPD 413 Management of Health Care Organizations Units: 4\n- PPD 415 Health Policy Units: 4\n- Track Electives (Select two)",
+      "description": "Health Policy and Management track requires 5 fixed courses and 2 elective courses from a list.",
+      "details": {
+        "fixed": [
+          "PPD 325",
+          "PPD 330",
+          "PPD 357",
+          "PPD 413",
+          "PPD 415"
+        ],
+        "choose": [
+          {
+            "n": 2,
+            "from": [
+              "ACAD 260",
+              "GERO 416",
+              "HP 408",
+              "LAW 403",
+              "MEDS 220",
+              "MEDS 405",
+              "PPD 314",
+              "PPD 318",
+              "PPD 320",
+              "PPD 403",
+              "PPD 404",
+              "PPD 407",
+              "PPD 414",
+              "PPD 478"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PPBS-05",
+      "family": "Course Selection",
+      "source_text": "PPD 353 Philanthropy and Social Change Units: 4\n- PPD 371 The Nonprofit Sector and the Public Interest Units: 4\n- PPD 402 Management of Public and Nonprofit Organizations Units: 4\n- PPD 407 Financial Management of Public and Nonprofit Organizations Units: 4\n- PPD 478 Social Innovation Units: 4\n- Track Electives (Select two)",
+      "description": "Philanthropy, Nonprofits and Social Innovation track requires 5 fixed courses and 2 elective courses from a list.",
+      "details": {
+        "fixed": [
+          "PPD 353",
+          "PPD 371",
+          "PPD 402",
+          "PPD 407",
+          "PPD 478"
+        ],
+        "choose": [
+          {
+            "n": 2,
+            "from": [
+              "BUCO 485",
+              "IR 371",
+              "PPD 318",
+              "PPD 320",
+              "PPD 357",
+              "PPD 372m",
+              "PPD 380a",
+              "PPD 400",
+              "PPD 382",
+              "PPD 404",
+              "PPD 314",
+              "PPD 344",
+              "PPD 415"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PPBS-06",
+      "family": "Course Reuse",
+      "source_text": "Only one from the following: PPD 314, PPD 415, or PPD 344",
+      "description": "Only one of PPD 314, PPD 415, or PPD 344 may be used to satisfy the Philanthropy track electives.",
+      "details": {
+        "kind": "EQUIVALENT_EXCLUSIVITY",
+        "set": [
+          "PPD 314",
+          "PPD 415",
+          "PPD 344"
+        ],
+        "max_from_set": 1
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PPBS-07",
+      "family": "Course Selection",
+      "source_text": "PPD 313 Finance of the Public Sector Units: 4\n- PPD 314 Public Policy and Law Units: 4\n- PPD 342 Crime and Public Policy Units: 4\n-\n- LAW 300 Concepts in American Law Units: 4\n- or\n- POSC 340 Constitutional Law Units: 4\n-\n- LAW 200w Law and Society Units: 4\n- or\n- PPD 357 Government and Business Units: 4\n- Track Electives (Select two)",
+      "description": "Public Policy and Law track requires 3 fixed courses, one of LAW 300/POSC 340, one of LAW 200w/PPD 357, and 2 elective courses.",
+      "details": {
+        "fixed": [
+          "PPD 313",
+          "PPD 314",
+          "PPD 342"
+        ],
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "LAW 300",
+              "POSC 340"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "LAW 200w",
+              "PPD 357"
+            ]
+          },
+          {
+            "n": 2,
+            "from": [
+              "ECON 434",
+              "LAW 310w",
+              "LAW 403",
+              "LAW 404",
+              "POSC 444",
+              "PPD 360",
+              "PPD 361",
+              "PPD 371",
+              "PPD 382",
+              "PPD 404",
+              "PPD 410",
+              "PPD 414",
+              "PPD 439",
+              "PPD 478",
+              "PPD 485m"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PPBS-08",
+      "family": "Course Selection",
+      "source_text": "PPD 313 Finance of the Public Sector Units: 4\n- PPD 404 Empirical Methods for Public Policy Units: 4\n- PPD 427L Geographic Information Systems and Planning Applications Units: 4\n- or\n- DSCI 250 Introduction to Data Science Units: 4\n- PPD 430 Urban Informatics Units: 4",
+      "description": "Public Policy and Data Analytics track requires 3 fixed courses and a choice between PPD 427L or DSCI 250.",
+      "details": {
+        "fixed": [
+          "PPD 313",
+          "PPD 404",
+          "PPD 430"
+        ],
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "PPD 427L",
+              "DSCI 250"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PPBS-09",
+      "family": "Course Selection",
+      "source_text": "Track Electives (Select 12 units):\n- DSCI 250 Introduction to Data Science Units: 4\n- DSCI 352 Applied Machine Learning and Data Mining Units: 4\n- DSCI 429 Security and Privacy Units: 4\n- ECON 303 Intermediate Microeconomic Theory Units: 4\n- PPD 314 Public Policy and Law Units: 4\n- PPD 318 Financial Accounting in Public and Nonprofit Organizations Units: 4\n- PPD 342 Crime and Public Policy Units: 4\n- PPD 357 Government and Business Units: 4\n- PPD 358 Urban and Regional Economics Units: 4\n- PPD 361 Sustainable Communities, Policy and Planning Units: 4\n- PPD 382 International Development Units: 4\n- PPD 407 Financial Management of Public and Nonprofit Organizations Units: 4\n- PPD 415 Health Policy Units: 4\n- PPD 427L Geographic Information Systems and Planning Applications Units: 4\n- PPD 439 Housing and Community Development Units: 4",
+      "description": "Public Policy and Data Analytics track requires 12 units of electives from a defined list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 12
+        },
+        "measure": "units",
+        "pool": [
+          "DSCI 250",
+          "DSCI 352",
+          "DSCI 429",
+          "ECON 303",
+          "PPD 314",
+          "PPD 318",
+          "PPD 342",
+          "PPD 357",
+          "PPD 358",
+          "PPD 361",
+          "PPD 382",
+          "PPD 407",
+          "PPD 415",
+          "PPD 427L",
+          "PPD 439"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PPBS-10",
+      "family": "Course Selection",
+      "source_text": "PPD 245g The Urban Context Units: 4\n- PPD 344 Environmental Policy and Sustainable Development Units: 4\n- PPD 361 Sustainable Communities, Policy and Planning Units: 4\n- Two courses selected in consultation with adviser\n- Track electives (2 courses; 8 units)\n- PPD 360 Urban Transportation Planning and Policy Units: 4\n- PPD 380a Urban Problem-Solving and Public Policy Units: 4\n- PPD 400 Topics in Public Policy and Urban Studies Units: 4\n- PPD 410 Comparative Urban Development Units: 4\n- PPD 420 Environmental Impact Assessment Units: 4\n- PPD 422 Transportation Data and Automation Units: 4\n- PPD 430 Urban Informatics Units: 4",
+      "description": "Urban Environmental and Sustainability Policy track requires 3 fixed courses and 2 elective courses from a list.",
+      "details": {
+        "fixed": [
+          "PPD 245g",
+          "PPD 344",
+          "PPD 361"
+        ],
+        "choose": [
+          {
+            "n": 2,
+            "from": [
+              "PPD 360",
+              "PPD 380a",
+              "PPD 400",
+              "PPD 410",
+              "PPD 420",
+              "PPD 422",
+              "PPD 430"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PPBS-11",
+      "family": "Manual Review",
+      "source_text": "Two courses selected in consultation with adviser",
+      "description": "Two additional Urban Environmental track courses are selected in consultation with the adviser with no defined list.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "reason": "no_enumerated_list",
+        "approver": "adviser"
+      },
+      "confidence": "medium",
+      "note": "No defined course list provided for this portion of the track requirement."
+    },
+    {
+      "id": "PPBS-12",
+      "family": "Course Selection",
+      "source_text": "Students will be required to take 4 units of a cross-cutting topics course. ... Students may select a course from the list below.\n- PPD 313 Finance of the Public Sector Units: 4\n- PPD 314 Public Policy and Law Units: 4\n- PPD 325 Fundamentals of Health Policy and Management Units: 4\n- PPD 342 Crime and Public Policy Units: 4\n- PPD 353 Philanthropy and Social Change Units: 4\n- PPD 357 Government and Business Units: 4\n- PPD 371 The Nonprofit Sector and the Public Interest Units: 4\n- PPD 380a Urban Problem-Solving and Public Policy Units: 4\n- PPD 400 Topics in Public Policy and Urban Studies Units: 4\n- PPD 404 Empirical Methods for Public Policy Units: 4",
+      "description": "Students must take a 4-unit cross-cutting topics course chosen from a specific list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "units",
+        "pool": [
+          "PPD 313",
+          "PPD 314",
+          "PPD 325",
+          "PPD 342",
+          "PPD 353",
+          "PPD 357",
+          "PPD 371",
+          "PPD 380a",
+          "PPD 400",
+          "PPD 404"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PPBS-13",
+      "family": "Course Reuse",
+      "source_text": "If a student uses a course to satisfy a requirement or elective that has already been taken in the track requirements, it can not be double-counted as the cross-cutting course. The cross-cutting course must be a different course.",
+      "description": "A course already used to satisfy track requirements cannot be double-counted as the cross-cutting topics course.",
+      "details": {
+        "kind": "DOUBLE_COUNT",
+        "polarity": "PROHIBITS",
+        "scope": "track requirements and cross-cutting topics course"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PPBS-14",
+      "family": "Course Selection",
+      "source_text": "All students will take 4 units of a capstone experience during their senior year. This may be fulfilled by taking PPD 431 Undergraduate Policy, Planning, and Development Studio (4) or PPD 497a Senior Thesis , PPD 497b Senior Thesis (2-2).",
+      "description": "Students must complete a 4-unit capstone experience, choosing between PPD 431 or the PPD 497a/497b sequence.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "units",
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "PPD 431",
+              "PPD 497a + PPD 497b"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PPBS-15",
+      "family": "Manual Review",
+      "source_text": "Students wishing to enroll in PPD 497a , PPD 497b must have a 3.7 GPA in PPD courses and an overall 3.5 GPA.",
+      "description": "Enrollment in the PPD 497a/PPD 497b capstone alternative requires meeting specific GPA thresholds.",
+      "details": {
+        "kind": "GATE",
+        "stage": "EMPHASIS_ENTRY",
+        "basis": "NUMERIC_THRESHOLD",
+        "requires": [
+          "3.7 GPA in PPD courses",
+          "3.5 overall GPA"
+        ]
+      },
+      "confidence": "medium",
+      "note": "Treated as an entry gate for an alternate capstone option rather than a plain GPA floor."
+    },
+    {
+      "id": "PPBS-16",
+      "family": "Manual Review",
+      "source_text": "Public Policy majors are required to complete 140 hours of internship by enrolling in PPD 301 PPD Practices: Internship Seminar or the Washington, D.C., Semester internship.",
+      "description": "Students must complete 140 hours of internship via PPD 301 or the D.C. Semester internship.",
+      "details": {
+        "kind": "HOURS",
+        "count": {
+          "op": "eq",
+          "value": 140
+        },
+        "measure": "hours",
+        "setting": "internship (PPD 301 or Washington, D.C., Semester internship)"
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "A minimum grade of C, 2.0 (A = 4.0), must be earned in each of the pre-major courses.",
+      "why": "This is a minimum-grade requirement, which the taxonomy explicitly drops as out of scope."
+    },
+    {
+      "source_text": "All pre-major requirements must be taken for a letter grade.",
+      "why": "This is a grading-mode requirement (letter grade vs. pass/no-pass), out of scope per taxonomy."
+    },
+    {
+      "source_text": "Students may work with their adviser for approval to take track electives outside of the courses listed to meet their academic needs.",
+      "why": "This is a discretionary substitution allowance without a defined pool or specific action, more advisory/procedural than a concrete constraint to encode."
+    },
+    {
+      "source_text": "Graduate courses in the subject area may be selected in consultation and with the approval of the adviser.",
+      "why": "Advisory/discretionary allowance rather than a binding requirement with a defined pool."
+    },
+    {
+      "source_text": "For the two track requirements that consist of a choice (POSC 340 or LAW 300 and LAW 200w or PPD 357 ), the courses not used to satisfy these requirements may be taken as electives.",
+      "why": "This describes an optional allowance about elective reuse rather than a binding requirement."
+    },
+    {
+      "source_text": "If not used to satisfy the core track requirement, either PPD 427L or DSCI 250 may be selected as an elective.",
+      "why": "Optional allowance describing possible reuse, not a binding requirement itself."
+    },
+    {
+      "source_text": "Other elective courses may be selected in consultation with the adviser.",
+      "why": "Advisory/discretionary statement without a defined pool or firm requirement."
+    },
+    {
+      "source_text": "Price School honors are available at graduation to qualified PPD majors and result in a special designation of departmental honors on a student’s transcript. Achievement of PPD honors requires a 3.7 GPA in PPD major courses and a 3.5 overall GPA as well as nomination by the professor in the capstone experience. In addition, students must earn an A in their capstone course (PPD 497a , PPD 497b or PPD 431 ).",
+      "why": "Optional honors track, explicitly out of scope per taxonomy."
+    },
+    {
+      "source_text": "It is taken preferably junior year after completion of the core curriculum.",
+      "why": "Advisory timing preference ('preferably'), not a binding sequencing rule."
+    }
+  ]
+}

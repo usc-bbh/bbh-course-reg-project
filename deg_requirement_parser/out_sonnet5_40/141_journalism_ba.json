@@ -1,0 +1,127 @@
+{
+  "program": "Journalism (BA)",
+  "status": "ok",
+  "constraints": [
+    {
+      "id": "JOUR-BA-01",
+      "family": "Distribution Bounds",
+      "source_text": "Students are required to complete 46 units for the major, including 32 units of required core courses.",
+      "description": "The major requires 46 total units, of which 32 units must be required core courses.",
+      "details": {
+        "kind": "CATEGORY_BOUNDS",
+        "total": {
+          "op": "eq",
+          "value": 46
+        },
+        "measure": "units",
+        "categories": [
+          {
+            "filter": "required core courses",
+            "min": 32,
+            "max": 32
+          }
+        ]
+      },
+      "confidence": "medium",
+      "note": "Treated as a category split between core and remaining major units; catalogue does not explicitly bound the remainder."
+    },
+    {
+      "id": "JOUR-BA-02",
+      "family": "Course Selection",
+      "source_text": "JOUR 201 Culture of Journalism: Past, Present and Future Units: 4\nJOUR 206 Reporting and Writing Practicum Units: 1 (2 units required)\nJOUR 207 Reporting and Writing I Units: 4",
+      "description": "Students must complete JOUR 201, JOUR 206 (2 units required), and JOUR 207 as lower-division required courses.",
+      "details": {
+        "fixed": [
+          "JOUR 201",
+          "JOUR 206 (2 units required)",
+          "JOUR 207"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "JOUR-BA-03",
+      "family": "Course Selection",
+      "source_text": "JOUR 301 The Business of News Units: 2\nJOUR 307 Reporting and Writing II Units: 3\nJOUR 321 Visual Journalism Units: 3\nJOUR 322 Introduction to Investigative and Data Journalism Units: 2\nJOUR 372 Engaging Diverse Communities Units: 2\nJOUR 414 Advanced Digital Media Storytelling Units: 2\nJOUR 462 Law of Mass Communication Units: 4",
+      "description": "Students must complete all listed upper-division required courses.",
+      "details": {
+        "fixed": [
+          "JOUR 301",
+          "JOUR 307",
+          "JOUR 321",
+          "JOUR 322",
+          "JOUR 372",
+          "JOUR 414",
+          "JOUR 462"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "JOUR-BA-04",
+      "family": "Course Selection",
+      "source_text": "Choose one of the following required core courses (4 units total):\n\n- ASCJ 200 Navigating Media and News in the Digital Age Units: 4\n- JOUR 300 Journalism and Society Units: 4",
+      "description": "Students must choose one course from ASCJ 200 or JOUR 300 as the Annenberg Experience requirement.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "ASCJ 200",
+          "JOUR 300"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "JOUR-BA-05",
+      "family": "Course Selection",
+      "source_text": "Choose one course:\n\n- JOUR 310 Investigative Reporting Units: 4\n- JOUR 320 Introduction to Coding for Storytelling Units: 2\n- JOUR 402 Advanced Video Reporting Units: 6\n- JOUR 403 Television News and Sports Production Units: 6\n- JOUR 405 Non-Fiction Television Units: 4\n- JOUR 409 Audio Storytelling for Radio and Podcast Units: 4\n- JOUR 435 Writing Magazine Non-Fiction Units: 4\n- JOUR 441 Sports Reporting Units: 4\n- JOUR 445 Reporting on Race Units: 4\n- JOUR 446 Entertainment Reporting Units: 4\n- JOUR 447 Arts Reporting Units: 4\n- JOUR 448 Government and Public Affairs Reporting Units: 4\n- JOUR 458 Media, Food and Culture Units: 4\n- JOUR 488 Data-Driven Storytelling About Los Angeles Units: 4",
+      "description": "Students must choose one course from the Advanced Reporting Elective list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "JOUR 310",
+          "JOUR 320",
+          "JOUR 402",
+          "JOUR 403",
+          "JOUR 405",
+          "JOUR 409",
+          "JOUR 435",
+          "JOUR 441",
+          "JOUR 445",
+          "JOUR 446",
+          "JOUR 447",
+          "JOUR 448",
+          "JOUR 458",
+          "JOUR 488"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "JOUR-BA-06",
+      "family": "Manual Review",
+      "source_text": "Consult with an advisor to determine your remaining units required to complete the degree.",
+      "description": "The remaining upper-division elective units required to complete the degree are determined via advisor consultation with no defined course list.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "no_enumerated_list",
+        "approver": "advisor"
+      },
+      "confidence": "medium",
+      "note": null
+    }
+  ],
+  "unclassified": []
+}

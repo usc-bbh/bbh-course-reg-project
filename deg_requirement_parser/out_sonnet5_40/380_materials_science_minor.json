@@ -1,0 +1,127 @@
+{
+  "program": "Materials Science Minor",
+  "status": "ok",
+  "constraints": [
+    {
+      "id": "MATSCI-MIN-01",
+      "family": "Course Selection",
+      "source_text": "Students are required to complete a minimum of of 16 units of course work consisting of both core requirements and elective courses.",
+      "description": "Students must complete a minimum of 16 units total for the minor, combining core and elective courses.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 16
+        },
+        "measure": "units",
+        "scope": "minor overall"
+      },
+      "confidence": "medium",
+      "note": "This is a summary total rather than a distinct pool; broken down further by the specific course selection records below."
+    },
+    {
+      "id": "MATSCI-MIN-02",
+      "family": "Manual Review",
+      "source_text": "Students must apply to the Viterbi School of Engineering for the minor and departmental approval is required.",
+      "description": "Students must apply to and be approved by the Viterbi School of Engineering to enter the minor.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INITIAL_ADMISSION",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "application and departmental approval"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MATSCI-MIN-03",
+      "family": "Course Selection",
+      "source_text": "CHE 455 Sustainable Materials Units: 4 * or MASC 310L Materials Behavior and Processing Units: 4 - CHE 475 Physical Properties of Polymers Units: 4 - MASC 483 Introduction to Machine Learning for Materials Units: 4",
+      "description": "Students must complete CHE 475 and MASC 483, plus either CHE 455 or MASC 310L.",
+      "details": {
+        "fixed": [
+          "CHE 475",
+          "MASC 483"
+        ],
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "CHE 455",
+              "MASC 310L"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MATSCI-MIN-04",
+      "family": "Course Selection",
+      "source_text": "Choose at least 4 units: CHE 455 Sustainable Materials Units: 4 * CHEM 455 Chemical Nanotechnology Units: 4 MASC 350L Nanostructured Materials: Design, Synthesis and Processing Units: 4 MASC 455 Computational Materials I: Introduction to Atomistic Simulation Units: 4",
+      "description": "Students must choose at least 4 elective units from the listed elective courses.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 4
+        },
+        "measure": "units",
+        "pool": [
+          "CHE 455",
+          "CHEM 455",
+          "MASC 350L",
+          "MASC 455"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MATSCI-MIN-05",
+      "family": "Manual Review",
+      "source_text": "BSAE and BSME students must take CHE 455, which may not be double-counted as an elective.",
+      "description": "BSAE and BSME students are routed to take CHE 455 as their required course rather than MASC 310L.",
+      "details": {
+        "kind": "PROGRAM_RULE",
+        "direction": "ROUTES",
+        "applies_to": "BSAE and BSME students",
+        "effect": "must take CHE 455 as the required course option"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MATSCI-MIN-06",
+      "family": "Course Reuse",
+      "source_text": "BSAE and BSME students must take CHE 455, which may not be double-counted as an elective.",
+      "description": "CHE 455, when used to satisfy the required course, cannot also count toward the elective requirement.",
+      "details": {
+        "kind": "DOUBLE_COUNT",
+        "polarity": "PROHIBITS",
+        "scope": "CHE 455 counted as required course vs. elective"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MATSCI-MIN-07",
+      "family": "Manual Review",
+      "source_text": "All other students must take MASC 310.",
+      "description": "Students who are not BSAE or BSME majors are routed to take MASC 310L as their required course.",
+      "details": {
+        "kind": "PROGRAM_RULE",
+        "direction": "ROUTES",
+        "applies_to": "students other than BSAE and BSME majors",
+        "effect": "must take MASC 310L as the required course option"
+      },
+      "confidence": "medium",
+      "note": "Text says 'MASC 310' but course list elsewhere specifies MASC 310L; treated as same course."
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "A minor in materials science is open to all undergraduate students in engineering. This minor provides students with the background and skills necessary to understand and use advanced materials in different engineering applications.",
+      "why": "Descriptive/marketing prose about program scope and purpose, not a constraint."
+    }
+  ]
+}

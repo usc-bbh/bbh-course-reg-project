@@ -219,3 +219,17 @@ __marimo__/
 
 # macOS
 .DS_Store
+.venv/
+__pycache__/
+*.pyc
+# Classifier output. The parsed JSON and the run/review artifacts are worth
+# tracking so a run can be checked by someone who didn't make it. The raw model
+# responses and built prompts are not: they are regenerable, they are large, and
+# the model is nondeterministic, so they churn the diff on every re-run.
+# Ignore the contents, not the folder itself, or the negations below can't work.
+deg_requirement_parser/out*/*
+!deg_requirement_parser/out*/*.json
+!deg_requirement_parser/out*/run_log.csv
+!deg_requirement_parser/out*/run_meta.csv
+!deg_requirement_parser/out*/summary.csv
+!deg_requirement_parser/out*/review_sheet.md

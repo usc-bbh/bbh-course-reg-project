@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="color-scheme" content="only light">
+<!--CSP-->
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Constellation: make sense of your STARS</title>
+<style>
+:root{
+  color-scheme:only light;
+  --paper:#FAF6EC; --surface:#FFFDF8; --cream:#F3ECDB; --ink:#1A1512; --muted:#5E5646; --line:#E2D8C3;
+  --night:#990000; --accent:#990000; --accent-bg:#F6E3DF;
+  --done:#1F3A8A; --done-bg:#EAEEF8; --prog:#8A5A00; --prog-bg:#FAF1DE; --needs:#A3161A; --needs-bg:#FBEAEA;
+  --display:"Times New Roman", Times, "Liberation Serif", serif;
+  --body:"Times New Roman", Times, "Liberation Serif", serif;
+  box-sizing:border-box; padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.55 var(--body);font-variant-numeric:tabular-nums;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1040px;margin:0 auto;padding:0 20px}
+a{color:var(--accent)}
+button,.btn{font:600 15px/1 var(--body);border-radius:4px;border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:12px 16px;cursor:pointer}
+button:focus-visible,.btn:focus-visible,summary:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.primary{background:var(--night);color:#fff;border-color:var(--night)}
+
+/* top bar */
+.bar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:18px;padding-bottom:18px}
+.mark{display:flex;align-items:center;gap:10px;font:700 21px/1 var(--display);letter-spacing:0;color:var(--accent);text-decoration:none}
+.bar small{color:var(--muted);font-size:13.5px;text-align:right}
+
+/* intake */
+.intake{padding-top:40px;padding-bottom:64px}
+.intake h1{font:700 clamp(38px,6vw,64px)/1.02 var(--display);letter-spacing:0;margin:0 0 14px;max-width:14ch}
+.intake p.lede{font-size:18px;color:var(--muted);max-width:56ch;margin:0 0 28px}
+.drop{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;text-align:center;min-height:240px;background:var(--surface);border:2px dashed var(--line);border-radius:4px;padding:28px;cursor:pointer;color:var(--muted);transition:border-color .15s,background .15s}
+.drop:hover{border-color:var(--muted)}
+.drop:focus-within{outline:3px solid var(--accent);outline-offset:2px}
+.drop-title{font:700 22px/1.2 var(--display);color:var(--ink)}
+.drop-sub{font-size:15px}
+.drop.busy{pointer-events:none;opacity:.75}
+.visually-hidden{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.drop.over{border-color:var(--accent);background:var(--accent-bg)}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px;align-items:center}
+.actions .hint{color:var(--muted);font-size:14px}
+.err{margin-top:14px;padding:12px 14px;border-radius:4px;background:var(--needs-bg);color:var(--needs);font-weight:500}
+.how{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:24px;margin-top:36px;color:var(--muted);font-size:14.5px}
+.how b{display:block;color:var(--ink);font-weight:600;margin-bottom:2px}
+
+/* report header */
+.hero{padding:28px 0 4px}
+.hero .top{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px 24px;align-items:flex-end;padding-bottom:18px;border-bottom:2px solid var(--accent)}
+.eyebrow{font:600 12px/1 var(--body);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin:0 0 10px}
+.hero h1{font:700 clamp(26px,3.6vw,38px)/1.1 var(--display);letter-spacing:0;margin:0}
+.hero .sub{color:var(--muted);margin-top:6px;font-size:15px}
+.hero .prepared{color:var(--muted);font-size:13.5px;text-align:right}
+
+/* stat tiles */
+.tiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-top:20px}
+.tile{background:var(--surface);border:1px solid var(--line);border-top:3px solid var(--accent);border-radius:4px;padding:14px 16px}
+.tile .l{font:600 12px/1.2 var(--body);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.tile .v{font:700 28px/1.1 var(--display);margin-top:8px}
+.tile .v small{font:500 15px var(--body);color:var(--muted)}
+.tile .s{color:var(--muted);font-size:13.5px;margin-top:6px}
+.tile.alert .v{color:var(--needs)}
+.meter{height:8px;border-radius:4px;background:var(--line);overflow:hidden;display:flex;margin-top:10px}
+.meter i{display:block;height:100%}
+.meter .d{background:var(--done)}
+.meter .p{background:var(--prog)}
+
+/* progress by area */
+.legend{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13.5px;color:var(--muted);margin:0 0 12px}
+.legend span,.reqs li{display:flex;align-items:baseline;gap:8px}
+.mk{flex:none;width:9px;height:9px;border-radius:2px;transform:translateY(-1px)}
+.mk.done{background:var(--done)}
+.mk.progress{background:var(--prog)}
+.mk.needs{border:1.5px solid var(--needs)}
+.areas{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px}
+.area-card{background:var(--surface);border:1px solid var(--line);border-radius:4px;padding:16px}
+.area-card h3{font:600 16px/1.3 var(--body);margin:0;display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.area-card h3 span{font:500 13.5px var(--body);color:var(--muted);white-space:nowrap}
+.counts{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px;color:var(--muted);margin-top:8px}
+.counts b{font-weight:700}
+.counts .done b{color:var(--done)}
+.counts .progress b{color:var(--prog)}
+.counts .needs b{color:var(--needs)}
+.reqs{list-style:none;margin:14px 0 0;padding:12px 0 0;border-top:1px solid var(--line);display:grid;gap:7px;font-size:13.5px;line-height:1.35}
+.reqs li.done{color:var(--muted)}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* sections */
+main section{padding:34px 0 6px}
+h2{font:700 26px/1.15 var(--display);letter-spacing:0;margin:0 0 4px;padding-left:12px;border-left:3px solid var(--accent)}
+.section-note{color:var(--muted);margin:0 0 16px;font-size:15px}
+.scroll{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:4px}
+table{border-collapse:collapse;width:100%;font-size:15px}
+th{text-align:left;font-weight:600;color:var(--muted);font-size:13px;padding:11px 14px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:last-child td{border-bottom:0}
+td.num{white-space:nowrap}
+.big{font-weight:700;font-size:17px}
+.opts{display:flex;flex-wrap:wrap;gap:6px}
+.chip{display:inline-block;border:1px solid var(--line);border-radius:6px;padding:2px 8px;font-size:13.5px;white-space:nowrap;background:var(--paper)}
+.chip.code{font-weight:600}
+.pill{display:inline-flex;align-items:center;gap:6px;border-radius:3px;padding:2px 9px 2px 7px;font-size:13px;font-weight:600;white-space:nowrap}
+.pill::before{content:"";width:8px;height:8px;border-radius:50%;background:currentColor}
+.pill.done{background:var(--done-bg);color:var(--done)}
+.pill.progress{background:var(--prog-bg);color:var(--prog)}
+.pill.progress::before{background:linear-gradient(90deg,currentColor 50%,transparent 50%);border:1.5px solid currentColor;width:9px;height:9px}
+.pill.needs{background:var(--needs-bg);color:var(--needs)}
+.pill.needs::before{background:transparent;border:1.5px solid currentColor}
+.detail{color:var(--muted);font-size:13.5px;margin-top:3px}
+.group-h{font:600 13.5px/1 var(--body);color:var(--muted);background:var(--cream);padding:10px 14px}
+tr.sub td:first-child{padding-left:30px}
+tr.sub td{font-size:14.5px}
+.muted{color:var(--muted)}
+details{margin-top:14px}
+summary{cursor:pointer;font:700 20px/1.2 var(--display);padding:10px 0;list-style:none;display:flex;align-items:center;gap:10px}
+summary::-webkit-details-marker{display:none}
+summary::before{content:"";width:9px;height:9px;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(-45deg);transition:transform .15s}
+details[open]>summary::before{transform:rotate(45deg)}
+summary .count{font:500 14px var(--body);color:var(--muted)}
+.more{margin-top:6px}.more summary{font:500 13.5px var(--body);padding:2px 0;color:var(--done)}.more summary::before{width:6px;height:6px}
+.term-h td{background:var(--cream);font-weight:600;font-size:14px}
+pre.raw{background:var(--surface);border:1px solid var(--line);border-radius:4px;padding:16px;overflow:auto;font-size:12.5px;line-height:1.4;max-height:520px}
+.fine{color:var(--muted);font-size:14.5px;max-width:70ch}
+.fine li{margin:4px 0}
+footer{padding-top:36px;padding-bottom:48px;color:var(--muted);font-size:13.5px}
+.redact{display:inline-flex;gap:6px;align-items:center}
+.hidden{display:none !important}
+@media (max-width:640px){
+  .bar small{display:none}
+  td,th{padding:10px 10px}
+  tr.sub td:first-child{padding-left:20px}
+}
+@media (max-width:640px){
+  .stack thead{display:none}
+  .stack, .stack tbody{display:block}
+  .stack tr{display:block;padding:12px 14px;border-bottom:1px solid var(--line)}
+  .stack tr:last-child{border-bottom:0}
+  .stack td{display:block;border:0;padding:3px 0}
+  .stack td[data-label]::before{content:attr(data-label);display:block;color:var(--muted);font-size:12.5px;font-weight:500}
+  .stack td.area{font-size:13px}
+  .stack tr.sub{padding-left:28px}
+  .stack tr.sub td:first-child{padding-left:0}
+  .stack td.group-h,.stack .more{margin-top:6px}.more summary{font:500 13.5px var(--body);padding:2px 0;color:var(--done)}.more summary::before{width:6px;height:6px}
+.term-h td{margin:-12px -14px;padding:10px 14px}
+  .stack .pill{margin-top:4px}
+  .tiles{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .tile .v{font-size:24px}
+  .hero .prepared{text-align:left}
+}
+@media print{
+  :root{--paper:#fff;--surface:#fff}
+  body{background:#fff}
+  .bar,footer button,.more{display:none !important}
+  .tile,.area-card,.scroll{break-inside:avoid}
+  main section{padding-top:22px}
+}
+</style>
+</head>
+<body>
+<div class="wrap bar">
+  <a class="mark" href="#" id="home" aria-label="Constellation home">
+    <svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true"><path d="M4 19 L11 8 L17 14 L22 5" fill="none" stroke="currentColor" stroke-width="1.4" opacity=".45"/><circle cx="4" cy="19" r="2.4" fill="currentColor"/><circle cx="11" cy="8" r="2.4" fill="currentColor"/><circle cx="17" cy="14" r="2.4" fill="none" stroke="currentColor" stroke-width="1.4"/><circle cx="22" cy="5" r="2.4" fill="currentColor"/></svg>
+    Constellation
+  </a>
+  <small>Your PDF is read in your browser and never leaves your device.</small>
+</div>
+
+<div id="intake" class="wrap intake">
+  <h1>Make sense of your STARS.</h1>
+  <p class="lede">Upload your STARS report PDF. You get a clean summary of what's done, what's in progress, and exactly what's left.</p>
+  <label class="drop" id="drop" for="file">
+    <input type="file" id="file" accept="application/pdf,.pdf" class="visually-hidden">
+    <svg width="40" height="40" viewBox="0 0 40 40" aria-hidden="true"><path d="M20 27V9m0 0-7 7m7-7 7 7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 26v4a3 3 0 0 0 3 3h18a3 3 0 0 0 3-3v-4" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <span class="drop-title" id="dropTitle">Upload your STARS report PDF</span>
+    <span class="drop-sub" id="dropSub">Drag it here or click to choose a file</span>
+  </label>
+  <div class="actions">
+    <button id="sample">Try a sample report</button>
+    <span class="hint">No PDF yet? On your STARS page, click Print Report and choose Save as PDF.</span>
+  </div>
+  <div id="err" class="err hidden" role="alert"></div>
+  <div class="how">
+    <div><b>Private by design</b>Your name, student ID, and mailing address are stripped before anything is read.</div>
+    <div><b>Faithful to STARS</b>Every status comes straight from your report. Nothing is guessed or rewritten by AI.</div>
+    <div><b>Unofficial</b>STARS and your advisor remain the source of truth for graduation.</div>
+  </div>
+</div>
+
+<div id="result" class="hidden"></div>
+
+<script>/*PARSER*/</script>
+<script>/*PDFTEXT*/</script>
+<script>/*PDFJS*/</script>
+<script>const PDF_WORKER_SRC = /*PDFWORKER*/;</script>
+<script>
+const SAMPLE = /*SAMPLE*/;
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const STATUS_TXT = { done: 'Complete', progress: 'In progress', needs: 'Still needed' };
+const pill = s => `<span class="pill ${s}">${STATUS_TXT[s]}</span>`;
+const num = n => { const f = parseFloat(n); return Number.isInteger(f) ? String(f) : String(f); };
+
+function showErr(msg){ const e=$('#err'); e.textContent=msg; e.classList.remove('hidden'); }
+function run(text){
+  $('#err').classList.add('hidden');
+  let r;
+  try { r = StarsParser.parse(text); } catch (e) { showErr(e.message); return; }
+  if (!r.blocks.length) { showErr('Found the report header but no requirement sections. Make sure the PDF includes the whole report, down to "END OF ANALYSIS".'); return; }
+  render(r, StarsParser.redact(text).text);
+}
+
+/* ---------- PDF ---------- */
+// pdf.js is bundled into this page by build.js. Its worker runs from a blob made from the bundled
+// source, so reading a PDF makes no network request. The Content-Security-Policy enforces that.
+let pdfLib;
+function loadPdfJs(){
+  if (!pdfLib){
+    const worker = new Worker(URL.createObjectURL(new Blob([PDF_WORKER_SRC], { type: 'text/javascript' })));
+    pdfjsLib.GlobalWorkerOptions.workerPort = worker;
+    pdfLib = pdfjsLib;
+  }
+  return pdfLib;
+}
+async function pdfToText(file){
+  return PdfText.extractText(loadPdfJs(), new Uint8Array(await file.arrayBuffer()));
+}
+async function handleFile(f){
+  if (!f) return;
+  if (!(/\.pdf$/i.test(f.name) || f.type === 'application/pdf')) { showErr('That file isn\'t a PDF. On your STARS page, click Print Report and choose Save as PDF.'); return; }
+  const drop = $('#drop'), title = $('#dropTitle'), sub = $('#dropSub');
+  drop.classList.add('busy'); title.textContent = 'Reading your report'; sub.textContent = f.name;
+  try { run(await pdfToText(f)); }
+  catch (e) { showErr(e.message || 'Could not read that PDF. Try saving the STARS page as a PDF again.'); }
+  finally { drop.classList.remove('busy'); title.textContent = 'Upload your STARS report PDF'; sub.textContent = 'Drag it here or click to choose a file'; $('#file').value = ''; }
+}
+/* ---------- progress by area ---------- */
+const AREAS = ['University','Writing and language','General education','School and major','Other'];
+function areaItems(r, g){
+  const items = [];
+  r.blocks.filter(b => b.group === g && b.kind !== 'cap').forEach(b => {
+    if (b.subs.length) b.subs.forEach(s => items.push({ s: s.status, t: s.name })); else items.push({ s: b.status, t: b.name });
+  });
+  return items;
+}
+function areaCards(r){
+  let h = '';
+  AREAS.forEach(g => {
+    const items = areaItems(r, g); if (!items.length) return;
+    const n = { done: 0, progress: 0, needs: 0 }; items.forEach(i => n[i.s]++);
+    const pct = k => (n[k] / items.length * 100).toFixed(1);
+    h += `<article class="area-card"><h3>${esc(g)}<span>${n.done} of ${items.length} complete</span></h3>
+      <div class="meter" role="img" aria-label="${n.done} complete, ${n.progress} in progress, ${n.needs} still needed"><i class="d" style="width:${pct('done')}%"></i><i class="p" style="width:${pct('progress')}%"></i></div>
+      <div class="counts"><span class="done"><b>${n.done}</b> complete</span><span class="progress"><b>${n.progress}</b> in progress</span><span class="needs"><b>${n.needs}</b> still needed</span></div>
+      <ul class="reqs">${items.map(i => `<li class="${i.s}"><i class="mk ${i.s}" aria-hidden="true"></i><span>${esc(i.t)}<span class="sr"> (${STATUS_TXT[i.s]})</span></span></li>`).join('')}</ul></article>`;
+  });
+  return h;
+}
+const MARKS = `<div class="legend" aria-hidden="true">${['done','progress','needs'].map(k => `<span><i class="mk ${k}"></i>${STATUS_TXT[k]}</span>`).join('')}</div>`;
+
+/* ---------- render ---------- */
+function blockSummary(b){
+  const e = b.earned && num(b.earned);
+  const unitsLine = () => {
+    const bits = [];
+    if (b.earned) bits.push(`<b>${e}</b> earned`);
+    if (b.inProcess) bits.push(`<b>${num(b.inProcess)}</b> in progress`);
+    if (b.needs && b.status !== 'done') bits.push(`<b>${num(b.needs)}</b> still needed`);
+    return bits.join(', ');
+  };
+  switch (b.kind){
+    case 'units': case 'residency': case 'college': case 'upper':
+      return (b.kind === 'upper' && b.status === 'progress') ? `${unitsLine()}. Met once this term's courses are graded.` : unitsLine();
+    case 'cap': return `A cap, not a requirement. ${b.status === 'needs' ? 'You are over it; talk to your department.' : 'You are under it.'}`;
+    case 'gpa-overall': case 'gpa-major':
+      if (b.gpaHidden) return '<span class="muted">GPA not shown in this copy of the report</span>';
+      if (!b.earned) return '<span class="muted">No USC grades yet</span>';
+      return `Your GPA: <b>${b.earned}</b>${b.status === 'progress' ? '. Final once this term is graded.' : ''}`;
+    default: {
+      if (!b.subs.length) return unitsLine();
+      const d = b.subs.filter(s => s.status === 'done').length;
+      const g = /sub-group/.test(b.needsUnit || '') && b.status !== 'done' ? `. Needs <b>${num(b.needs)}</b> more ${+b.needs === 1 ? 'part' : 'parts'}` : '';
+      return `<b>${d} of ${b.subs.length}</b> parts complete${g}`;
+    }
+  }
+}
+function subDetail(s){
+  const bits = [];
+  if (s.courses.length) bits.push(s.courses.map(c => `<span class="chip code" title="${esc(c.title)}">${esc(c.display || c.code)}${c.flag==='IP' ? ' (now)' : ''}</span>`).join(' '));
+  if (s.status !== 'done' && (s.needs || s.selectFrom)) bits.push(`<span>${s.needs ? `Needs <b>${num(s.needs)} ${esc(s.needsUnit)}</b>` : 'Needs'}${s.selectFrom && s.selectFrom.length ? ' from ' + s.selectFrom.map(o => `<span class="chip">${esc(o)}</span>`).join(' ') : ''}${s.orAlt && s.orAlt.selectFrom ? ', or ' + s.orAlt.selectFrom.map(o => `<span class="chip">${esc(o)}</span>`).join(' ') : ''}</span>`);
+  if (s.notes.length) bits.push(`<span class="detail">${s.notes.map(esc).join('. ')}</span>`);
+  return `<div class="opts" style="align-items:center">${bits.join(' ')}</div>`;
+}
+function chips(opts){
+  if (!opts.length) return '<span class="muted">Any course</span>';
+  const c = o => `<span class="chip ${/^(or )?[A-Z]{2,4} \d/.test(o) ? 'code' : ''}">${esc(o)}</span>`;
+  if (opts.length <= 8) return `<div class="opts">${opts.map(c).join('')}</div>`;
+  return `<div class="opts">${opts.slice(0,6).map(c).join('')}</div><details class="more"><summary>${opts.length - 6} more options</summary><div class="opts">${opts.slice(6).map(c).join('')}</div></details>`;
+}
+const GRADE_TXT = { RG: 'In progress', TR: 'AP / transfer', CR: 'Credit', hidden: 'Hidden', '': 'None listed' };
+function render(r, redactedText){
+  const m = r.meta, u = r.units || {};
+  const total = parseFloat((u.raw || '').match(/MINIMUM OF (\d+)/)?.[1] || 128);
+  const earned = parseFloat(u.earned || 0), ip = parseFloat(u.inProcess || 0), need = parseFloat(u.needs || 0);
+  const leftCount = r.left.length;
+  const gradTerm = m.gradDate ? m.gradDate.replace(/^\d+\s+/, '').toLowerCase().replace(/^\w/, c => c.toUpperCase()).replace(/ (\d{4})$/, ' $1') : '';
+  const pctU = n => Math.min(100, n / total * 100).toFixed(1);
+  let h = `<header class="hero"><div class="wrap">
+    <div class="top"><div>
+      <p class="eyebrow">Degree progress summary</p>
+      <h1>${esc(m.major || 'Your degree')}</h1>
+      <div class="sub">${esc(m.degree || '')}${m.catalogYear ? `, catalog ${esc(StarsParser.termName(m.catalogYear))}` : ''}${m.classLevel ? `. ${esc(m.classLevel)}` : ''}${gradTerm ? `, expected to graduate ${esc(gradTerm)}` : ''}.</div>
+    </div>
+    ${m.prepared ? `<div class="prepared">STARS report prepared<br>${esc(m.prepared)}</div>` : ''}</div>
+    <div class="tiles">
+      <div class="tile"><div class="l">Units</div><div class="v">${num(earned)} <small>of ${total}</small></div>
+        <div class="meter" role="img" aria-label="${num(earned)} earned, ${num(ip)} in progress, of ${total}"><i class="d" style="width:${pctU(earned)}%"></i><i class="p" style="width:${pctU(ip)}%"></i></div>
+        <div class="s">${num(ip)} in progress, ${num(need)} still needed</div></div>
+      <div class="tile${r.overallIncomplete ? ' alert' : ''}"><div class="l">Left to plan</div><div class="v">${r.overallIncomplete ? leftCount : 0} <small>${(r.overallIncomplete ? leftCount : 0) === 1 ? 'item' : 'items'}</small></div>
+        <div class="s">${r.overallIncomplete ? (m.semestersLeft ? `About ${esc(m.semestersLeft)} semesters out` : 'See the list below') : 'All requirements satisfied'}</div></div>
+      <div class="tile"><div class="l">USC GPA</div><div class="v">${esc(r.gpa || 'n/a')}</div><div class="s">${r.gpa ? 'Overall, USC courses only' : 'Not on this report'}</div></div>
+      <div class="tile"><div class="l">Major GPA</div><div class="v">${esc(r.majorGpa || 'n/a')}</div><div class="s">${r.majorGpa ? 'Upper-division major courses' : 'Not on this report'}</div></div>
+    </div>
+  </div></header><main class="wrap">`;
+
+  // progress by area
+  h += `<section><h2>Progress by area</h2><p class="section-note">Each requirement on your report, grouped by area.</p>${MARKS}<div class="areas">${areaCards(r)}</div></section>`;
+
+  // what's left
+  h += `<section><h2>What's left</h2><p class="section-note">Everything STARS still marks as open, assuming your current courses pass.</p><div class="scroll"><table class="stack">
+    <thead><tr><th>Area</th><th>Requirement</th><th>Needed</th><th>Choose from</th><th>Status</th></tr></thead><tbody>`;
+  if (!r.left.length) h += `<tr><td colspan="5">Nothing left. Every requirement is complete or in progress.</td></tr>`;
+  r.left.forEach(l => {
+    h += `<tr><td class="muted area">${esc(l.area)}</td><td><b>${esc(l.label)}</b>${l.detail ? `<div class="detail">${esc(l.detail)}</div>` : ''}</td>
+      <td class="num" data-label="Needed">${l.count ? `<span class="big">${esc(l.count)}</span> ${esc(l.unit)}` : '<span class="muted">See list</span>'}</td>
+      <td data-label="Choose from">${chips(l.options)}</td>
+      <td>${pill(l.status)}</td></tr>`;
+  });
+  h += `</tbody></table></div></section>`;
+
+  // checklist
+  h += `<section><h2>Requirement checklist</h2><p class="section-note">Every requirement on your report, in plain language.</p><div class="scroll"><table class="stack check">
+    <thead><tr><th style="width:34%">Requirement</th><th>Where you stand</th><th>Status</th></tr></thead><tbody>`;
+  ['University','Writing and language','General education','School and major','Other'].forEach(g => {
+    const bs = r.blocks.filter(b => b.group === g); if (!bs.length) return;
+    h += `<tr><td colspan="3" class="group-h">${esc(g)}</td></tr>`;
+    bs.forEach(b => {
+      h += `<tr><td><b>${esc(b.name)}</b></td><td>${blockSummary(b)}${b.notes.length ? `<div class="detail">${b.notes.map(esc).join('. ')}</div>` : ''}</td><td>${pill(b.status)}</td></tr>`;
+      b.subs.forEach(s => {
+        h += `<tr class="sub"><td>${esc(s.name)}</td><td>${subDetail(s)}</td><td>${pill(s.status)}</td></tr>`;
+      });
+    });
+  });
+  h += `</tbody></table></div></section>`;
+
+  // course history
+  const terms = {}; r.courseList.forEach(c => { const k = c.isAP ? 'AP' : c.term; (terms[k] = terms[k] || []).push(c); });
+  const keys = Object.keys(terms).filter(k => k !== 'AP').sort(); if (terms.AP) keys.unshift('AP');
+  h += `<section><details><summary>Course history <span class="count">${r.courseList.length} courses</span></summary>
+    <p class="section-note">Each course appears once, with every requirement it counts toward. STARS cuts titles at 29 characters, marked with "…".</p>
+    <div class="scroll"><table class="stack hist"><thead><tr><th>Course</th><th>Title</th><th>Units</th><th>Grade</th><th>Counts toward</th></tr></thead><tbody>`;
+  keys.forEach(k => {
+    h += `<tr class="term-h"><td colspan="5">${k === 'AP' ? 'AP credit' : esc(StarsParser.termName(k))}</td></tr>`;
+    terms[k].forEach(c => {
+      const notes = [];
+      if (c.flag && StarsParser.FLAGS[c.flag] && c.flag !== 'IP') notes.push(StarsParser.FLAGS[c.flag]);
+      c.suffix.split('').forEach(s => StarsParser.SUFFIX[s] && s !== 'G' && notes.push(StarsParser.SUFFIX[s]));
+      const toward = c.countsToward.filter(t => t !== 'Current registration');
+      h += `<tr><td class="num"><b>${esc(c.isAP ? 'AP' : c.code)}</b></td><td>${esc(c.isAP ? c.display.replace(/^AP /,'') : c.title)}${notes.length ? `<div class="detail">${esc(notes.join('. '))}</div>` : ''}</td>
+        <td class="num" data-label="Units">${num(c.units)}</td><td class="num" data-label="Grade">${esc(GRADE_TXT[c.grade] || c.grade)}</td>
+        <td data-label="Counts toward">${toward.length ? toward.map(esc).join('<br>') : '<span class="muted">Units only</span>'}</td></tr>`;
+    });
+  });
+  h += `</tbody></table></div></details>`;
+
+  // fine print
+  const geRules = r.notes.find(n => n.kind === 'ge-rules');
+  h += `<details><summary>Rules and fine print</summary><ul class="fine">
+    <li>A single course counts in only one GE Core Literacy category, but can also count toward Global Perspectives.</li>
+    <li>At most one GE course (4 units) can be taken pass/no pass.</li>
+    <li>Only one GE seminar (GESM) counts for GE credit.</li>
+    <li>At most 4 units of physical education count toward your unit total.</li>
+    <li>STARS computes your USC GPA only. Honors use the lower of your USC or combined GPA.</li>
+  </ul></details>`;
+
+  // raw toggle
+  h += `<details><summary>Original report text <span class="count">personal details removed</span></summary>
+    <p class="section-note">Cross-check anything above against what STARS says.</p><pre class="raw">${esc(redactedText.slice(redactedText.indexOf('PREPARED')))}</pre></details></section>`;
+
+  h += `</main><footer class="wrap">
+    <p>Removed before reading: ${esc(r.redacted.join(', ') || 'nothing found')}. Report prepared ${esc(r.meta.prepared)}.</p>
+    <p>Constellation is an unofficial reading aid built by BUAI Builder Hub. STARS and your academic advisor are the source of truth for graduation.</p>
+    <p><button id="again">Summarize another report</button></p></footer>`;
+
+  $('#intake').classList.add('hidden');
+  const res = $('#result'); res.innerHTML = h; res.classList.remove('hidden');
+  $('#again').onclick = reset; window.scrollTo(0, 0);
+}
+function reset(e){ e && e.preventDefault(); $('#result').classList.add('hidden'); $('#result').innerHTML=''; $('#intake').classList.remove('hidden'); }
+
+$('#sample').onclick = () => run(SAMPLE);
+$('#file').onchange = e => handleFile(e.target.files[0]);
+$('#home').onclick = reset;
+const drop = $('#drop');
+['dragenter','dragover'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.add('over'); }));
+['dragleave','drop'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.remove('over'); }));
+drop.addEventListener('drop', e => handleFile(e.dataTransfer.files[0]));
+</script>
+</body>
+</html>

@@ -8,7 +8,7 @@ courses are scheduled in a term they are not offered.
 
 Everything runs in the browser. No account, no server, no upload.
 
-> This is **not** the Next-Semester Validator (`validator/`). There is no
+> This is **not** the Next-Semester Validator ([RegCheck](https://github.com/usc-bbh/next-sem-validator)). There is no
 > "can I register for these classes next term" screen here, and there should
 > never be one — that tool is Tanzil's and it answers a different question.
 
@@ -67,7 +67,7 @@ saved as yours, and **Clear all data** wipes the device clean.
 | Browser tests | Playwright + axe | The real production build, including a WCAG 2.1 AA sweep |
 | Type | Libre Caslon Text, Source Sans 3, Source Code Pro | Self-hosted via `@fontsource`; matches USC's registration pages |
 
-Colour, radii and shadows are lifted from `validator/validator_gui.jsx` so the
+Colour, radii and shadows are lifted from RegCheck's [`gui/src/App.jsx`](https://github.com/usc-bbh/next-sem-validator/blob/main/gui/src/App.jsx) so the
 two tools look like one product; the source value is noted beside each token in
 `src/styles/index.css`.
 
@@ -109,7 +109,7 @@ README, and a test fails if either side drifts.
 | The sample student | shared | [`fixtures/stars/mock_stars_report.json`](../fixtures/stars/mock_stars_report.json) |
 | Which verdicts are reused vs computed | Natalie — degree-audit engine | [`docs/reference/03`](../docs/reference/03-degree-planner-architecture.md) |
 | Course titles, units, offering frequency | Agastya — `catalog/` | [`catalog/README.md`](../catalog/README.md) |
-| The `stars_summary` slice | Tanzil — `validator/` | [`validator/README.md`](../validator/README.md) |
+| The `stars_summary` slice | Tanzil — next-sem-validator | [`analytics/README.md`](https://github.com/usc-bbh/next-sem-validator/blob/main/analytics/README.md) |
 
 Components import shapes from `src/domain/types.ts` and never from a stub's
 internals, so dropping in a real implementation is an import change inside

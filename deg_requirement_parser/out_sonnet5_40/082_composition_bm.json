@@ -1,0 +1,407 @@
+{
+  "program": "Composition (BM)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "COMP-BM-01",
+      "family": "Manual Review",
+      "source_text": "Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees.",
+      "description": "Admission requires review by faculty selection committees as part of the USC admission process.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INITIAL_ADMISSION",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "faculty selection committee review"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-02",
+      "family": "Course Selection",
+      "source_text": "GE-A: The Arts (one course)",
+      "description": "Student must take one course in GE-A: The Arts.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool_rule": "GE-A: The Arts"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-03",
+      "family": "Course Selection",
+      "source_text": "GE-B: Humanistic Inquiry (two courses)",
+      "description": "Student must take two courses in GE-B: Humanistic Inquiry.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool_rule": "GE-B: Humanistic Inquiry"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-04",
+      "family": "Course Selection",
+      "source_text": "GE-C: Social Analysis (two courses)",
+      "description": "Student must take two courses in GE-C: Social Analysis.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool_rule": "GE-C: Social Analysis"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-05",
+      "family": "Course Selection",
+      "source_text": "GE-D: Life Sciences (one course)",
+      "description": "Student must take one course in GE-D: Life Sciences.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool_rule": "GE-D: Life Sciences"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-06",
+      "family": "Course Selection",
+      "source_text": "GE-E: Physical Sciences (one course)",
+      "description": "Student must take one course in GE-E: Physical Sciences.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool_rule": "GE-E: Physical Sciences"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-07",
+      "family": "Course Selection",
+      "source_text": "GE-F: Quantitative Reasoning (one course)",
+      "description": "Student must take one course in GE-F: Quantitative Reasoning.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool_rule": "GE-F: Quantitative Reasoning"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-08",
+      "family": "Course Selection",
+      "source_text": "GE-G: Global Perspectives I (one course)",
+      "description": "Student must take one course in GE-G: Global Perspectives I.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool_rule": "GE-G: Global Perspectives I"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-09",
+      "family": "Course Selection",
+      "source_text": "GE-H: Global Perspectives II (one course)",
+      "description": "Student must take one course in GE-H: Global Perspectives II.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool_rule": "GE-H: Global Perspectives II"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-10",
+      "family": "Course Selection",
+      "source_text": "WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\n- WRIT 340 Advanced Writing and Critical Engagement Units: 4",
+      "description": "Student must complete WRIT 150 and WRIT 340.",
+      "details": {
+        "fixed": [
+          "WRIT 150",
+          "WRIT 340"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-11",
+      "family": "Course Selection",
+      "source_text": "Core Thornton Academic Courses (36 units): MUCD 348 Instrumental Conducting and Orchestration Units: 2; MUCO 132a Aural Skills I Units: 2; MUCO 132b Aural Skills I Units: 2; MUCO 133a Theory I Units: 3; MUCO 133b Theory I Units: 3; MUCO 232a Aural Skills II Units: 2; MUCO 232b Aural Skills II Units: 2; MUCO 233a Theory II Units: 3; MUCO 233b Theory II Units: 3; MUHL 250g Music and Ideas Units: 4; MUHL 350g Western Art Music History I Units: 4; MUHL 351 Western Art Music History II Units: 4; MUSC 496 Careers in Music Units: 2",
+      "description": "Student must complete all listed Core Thornton Academic Courses totaling 36 units.",
+      "details": {
+        "fixed": [
+          "MUCD 348",
+          "MUCO 132a",
+          "MUCO 132b",
+          "MUCO 133a",
+          "MUCO 133b",
+          "MUCO 232a",
+          "MUCO 232b",
+          "MUCO 233a",
+          "MUCO 233b",
+          "MUHL 250g",
+          "MUHL 350g",
+          "MUHL 351",
+          "MUSC 496"
+        ],
+        "measure": "units",
+        "count": {
+          "op": "eq",
+          "value": 36
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-12",
+      "family": "Course Selection",
+      "source_text": "Individual Instruction (24 units): MUCO 137a Composition I Units: 4; MUCO 137b Composition I Units: 4; MUCO 237a Composition II Units: 4; MUCO 237b Composition II Units: 4; MUCO 337a Composition III Units: 2; MUCO 337b Composition III Units: 2; MUCO 437a Composition IV Units: 2; MUCO 437b Composition IV Units: 2",
+      "description": "Student must complete all listed Individual Instruction composition courses totaling 24 units.",
+      "details": {
+        "fixed": [
+          "MUCO 137a",
+          "MUCO 137b",
+          "MUCO 237a",
+          "MUCO 237b",
+          "MUCO 337a",
+          "MUCO 337b",
+          "MUCO 437a",
+          "MUCO 437b"
+        ],
+        "measure": "units",
+        "count": {
+          "op": "eq",
+          "value": 24
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-13",
+      "family": "Course Selection",
+      "source_text": "Ensembles (2 units): MUEN Ensemble Electives at the 300-level: two 1-unit courses",
+      "description": "Student must take two 1-unit MUEN Ensemble Electives at the 300-level.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool_rule": "MUEN Ensemble Electives at the 300-level"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-14",
+      "family": "Course Selection",
+      "source_text": "Program Intensive (14 units): MUCO 135 Counterpoint I Units: 2; MUCO 235 Counterpoint II Units: 2; MUCO 336a Orchestration II Units: 2; MUCO 336b Orchestration II Units: 2; MUCO 434 Analytical Techniques Units: 2",
+      "description": "Student must complete all listed Program Intensive courses.",
+      "details": {
+        "fixed": [
+          "MUCO 135",
+          "MUCO 235",
+          "MUCO 336a",
+          "MUCO 336b",
+          "MUCO 434"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-15",
+      "family": "Course Selection",
+      "source_text": "Select 2 units from the following: MTEC 474a Electronic Synthesizer Techniques Units: 2, 3, 4; MTEC 474b Electronic Synthesizer Techniques Units: 2, 3, 4; MTEC 301 Individual Instruction Units: 1, 2",
+      "description": "Student must select 2 units from the listed synthesizer/individual instruction courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "units",
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "MTEC 474a",
+              "MTEC 474b",
+              "MTEC 301"
+            ]
+          }
+        ]
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-16",
+      "family": "Course Selection",
+      "source_text": "Select 2 units from the following:** MPKS 250a Keyboard Instruction I Units: 2; MPKS 250b Keyboard Instruction I Units: 2",
+      "description": "Student must select 2 units from the listed keyboard instruction courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "units",
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "MPKS 250a",
+              "MPKS 250b"
+            ]
+          }
+        ]
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-17",
+      "family": "Manual Review",
+      "source_text": "**Requirement may be fulfilled with MPKS 301 Piano if proficiency level equivalent to MPKS 250b is demonstrated by examination.",
+      "description": "The keyboard requirement may be substituted with MPKS 301 upon demonstrating proficiency by examination.",
+      "details": {
+        "kind": "DISCRETIONARY",
+        "action": "SUBSTITUTE",
+        "approver": "examination/faculty"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-18",
+      "family": "Course Selection",
+      "source_text": "Contemporary Division Electives (4 units): Select 4 units from the Contemporary Division. Courses include those listed below or others, in consultation with your chair and the Contemporary Division: MPGU 145, MPGU 150, MPPM 120, MPPM 240, MPPM 250, MPPM 370, MTEC 245, MTEC 246, MTEC 248, MTEC 249, MTEC 277x, MUIN 272x, MUIN 425, MUJZ 141a, MUJZ 150, MUJZ 218a, MUJZ 450, MUSC 255",
+      "description": "Student must select 4 units from the Contemporary Division, from the listed courses or others approved in consultation with the chair.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "units",
+        "pool": [
+          "MPGU 145",
+          "MPGU 150",
+          "MPPM 120",
+          "MPPM 240",
+          "MPPM 250",
+          "MPPM 370",
+          "MTEC 245",
+          "MTEC 246",
+          "MTEC 248",
+          "MTEC 249",
+          "MTEC 277x",
+          "MUIN 272x",
+          "MUIN 425",
+          "MUJZ 141a",
+          "MUJZ 150",
+          "MUJZ 218a",
+          "MUJZ 450",
+          "MUSC 255"
+        ],
+        "pool_rule": "or others, in consultation with chair and Contemporary Division"
+      },
+      "confidence": "medium",
+      "note": "Pool is partially open-ended (courses may be added with chair approval)."
+    },
+    {
+      "id": "COMP-BM-19",
+      "family": "Manual Review",
+      "source_text": "General Electives (16 units)",
+      "description": "Student must complete 16 units of general electives with no enumerated course list.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 16
+        },
+        "measure": "units",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-20",
+      "family": "Course Selection",
+      "source_text": "Capstone Projects (4 units): MUSC 480 Young Artist Project I Units: 2; MUSC 481 Young Artist Project II Units: 2; Senior Recital: 0 units",
+      "description": "Student must complete MUSC 480, MUSC 481, and the Senior Recital as capstone requirements.",
+      "details": {
+        "fixed": [
+          "MUSC 480",
+          "MUSC 481",
+          "Senior Recital"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "COMP-BM-21",
+      "family": "Manual Review",
+      "source_text": "A senior recital must be completed under approved faculty supervision and guidance. The faculty of the department of the student’s major program determines the detailed requirements of the recital, including content, length, format and other specifications.",
+      "description": "A senior recital must be completed under faculty supervision, with details determined by department faculty.",
+      "details": {
+        "kind": "PROCEDURAL",
+        "procedure": "DECLARATION_DEADLINE",
+        "reason": "faculty_supervised_milestone"
+      },
+      "confidence": "medium",
+      "note": "Also could be classified as faculty_supervised_milestone reason; kept as procedural milestone."
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "Total Required For Degree: 132",
+      "why": "This is a total degree unit count, not a filter-measure-bound applied to a subset or pool; no family in the taxonomy captures an overall program total."
+    },
+    {
+      "source_text": "During the junior and senior years of the program, students develop and fully realize unique individualized, mentored projects related to their work as classical musicians. This could involve developing a hybrid performance, conducting original research, exploring new creative technologies, or applying creative expression to a pressing social issue.",
+      "why": "Descriptive program information about the Young Artist Project rather than a specific checkable constraint; the concrete requirement is already captured via MUSC 480/481."
+    },
+    {
+      "source_text": "In cases in which a performance venue is required in order to present the recital, reservations must be made according to the current guidelines of the Music Operations office.",
+      "why": "Procedural/administrative instruction about venue reservations, not a degree-plan constraint on courses or achievement."
+    }
+  ]
+}

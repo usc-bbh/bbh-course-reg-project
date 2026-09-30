@@ -1,7 +1,7 @@
 # Shared STARS fixtures
 
 These files sit on the seam between the **parser** (`stars-parser/`, JavaScript)
-and the **validator** (`validator/`, Python). They are owned by neither module
+and the **validator** (`analytics/` in [next-sem-validator](https://github.com/usc-bbh/next-sem-validator), Python). They are owned by neither module
 so both can depend on them without a circular relationship.
 
 The contract, per sample student:

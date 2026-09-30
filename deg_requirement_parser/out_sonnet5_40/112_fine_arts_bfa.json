@@ -1,0 +1,154 @@
+{
+  "program": "Fine Arts (BFA)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "FA-BFA-01",
+      "family": "Course Selection",
+      "source_text": "In addition to the required courses, BFA students have a minimum of 22 non-specific elective units that can be selected from a variety of university courses, based on their personal and professional goals and in consultation with their academic adviser.",
+      "description": "Students must take at least 22 elective units chosen from a variety of university courses.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 22
+        },
+        "measure": "units",
+        "pool_rule": "variety of university courses, personal/professional goal-based"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "FA-BFA-02",
+      "family": "Course Selection",
+      "source_text": "ART 105 Art and Design Studio I Units: 4 - ART 106 Art and Design Studio II Units: 4 - ART 110 Drawing for Art and Design Units: 4",
+      "description": "Three foundation courses (ART 105, ART 106, ART 110) are required for BFA students.",
+      "details": {
+        "fixed": [
+          "ART 105",
+          "ART 106",
+          "ART 110"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "FA-BFA-03",
+      "family": "Course Selection",
+      "source_text": "Two 2-unit Studio Critique courses are required in the second and third year: - ART 280 Studio Critique I Units: 2 - ART 380 Studio Critique II Units: 2",
+      "description": "Students must complete ART 280 and ART 380, taken in the second and third year respectively.",
+      "details": {
+        "fixed": [
+          "ART 280",
+          "ART 380"
+        ]
+      },
+      "confidence": "high",
+      "note": "Timing (second/third year) noted in source but not encoded as a separate Sequencing constraint since no unit/course prerequisite is specified."
+    },
+    {
+      "id": "FA-BFA-04",
+      "family": "Course Selection",
+      "source_text": "In the senior year, a 4-unit capstone and one 2-unit thesis courses are required: - ART 485 Studio Capstone Units: 4 - ART 494a Senior Thesis Units: 2",
+      "description": "Students must complete ART 485 and ART 494a in the senior year.",
+      "details": {
+        "fixed": [
+          "ART 485",
+          "ART 494a"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "FA-BFA-05",
+      "family": "Course Selection",
+      "source_text": "The following 4-unit Critical Studies courses are required: - CRIT 150gp Histories of Art, Design and Visual Culture Units: 4 - CRIT 160g Critical Theory in Art, Design and Visual Culture Units: 4 - CRIT 350gw Global Art, Design and Visual Culture since 1960 Units: 4",
+      "description": "Students must complete CRIT 150gp, CRIT 160g, and CRIT 350gw.",
+      "details": {
+        "fixed": [
+          "CRIT 150gp",
+          "CRIT 160g",
+          "CRIT 350gw"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "FA-BFA-06",
+      "family": "Course Selection",
+      "source_text": "Select 16 additional units from any 100–299 ART courses",
+      "description": "Students must select 16 additional units from any ART courses numbered 100-299.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 16
+        },
+        "measure": "units",
+        "pool_rule": "subject ART, level 100-299"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "FA-BFA-07",
+      "family": "Course Selection",
+      "source_text": "and 28 additional units from any 300–499 ART courses",
+      "description": "Students must select 28 additional units from any ART courses numbered 300-499.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 28
+        },
+        "measure": "units",
+        "pool_rule": "subject ART, level 300-499"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "FA-BFA-08",
+      "family": "Distribution Bounds",
+      "source_text": "Up to 4 units of DES courses may be counted toward the required 16 additional units from any 100-299 ART courses.",
+      "description": "At most 4 units of DES courses may count toward the 16-unit 100-299 ART elective requirement.",
+      "details": {
+        "kind": "CATEGORY_BOUNDS",
+        "filter": "DES courses",
+        "measure": "units",
+        "bound": {
+          "op": "max",
+          "value": 4
+        },
+        "scope": "16 additional units from any 100-299 ART courses"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "FA-BFA-09",
+      "family": "Distribution Bounds",
+      "source_text": "Up to 12 units of DES courses may be counted toward the required 28 additional units from any 300-499 ART courses.",
+      "description": "At most 12 units of DES courses may count toward the 28-unit 300-499 ART elective requirement.",
+      "details": {
+        "kind": "CATEGORY_BOUNDS",
+        "filter": "DES courses",
+        "measure": "units",
+        "bound": {
+          "op": "max",
+          "value": 12
+        },
+        "scope": "28 additional units from any 300-499 ART courses"
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "The Bachelor of Fine Arts (BFA) requires a total of 128 units, including 78 units of major requirements (66 units in Art courses and 12 units in Critical Studies courses, some of which overlap with the university’s required GE courses).",
+      "why": "This is a descriptive summary of the total degree unit count and internal breakdown, not an actionable pick/bound rule itself; the constituent requirements are captured individually elsewhere."
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "program": "Music Industry (BS)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "MI-BS-01",
+      "family": "Manual Review",
+      "source_text": "Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees.",
+      "description": "Admission requires screening by faculty selection committees as part of the USC admission process.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INITIAL_ADMISSION",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "faculty selection committee screening"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-02",
+      "family": "Distribution Bounds",
+      "source_text": "Eight courses are required in six Core Literacies, in addition to two courses in Global Perspectives, two courses in Writing, and one General Education Seminar taken during the first year at USC.",
+      "description": "Students must complete eight courses across six Core Literacies GE categories.",
+      "details": {
+        "kind": "CATEGORY_BOUNDS",
+        "total": {
+          "op": "eq",
+          "value": 8
+        },
+        "measure": "courses",
+        "categories": [
+          {
+            "filter": "GE-A: The Arts",
+            "min": 1,
+            "max": 1
+          },
+          {
+            "filter": "GE-B: Humanistic Inquiry",
+            "min": 2,
+            "max": 2
+          },
+          {
+            "filter": "GE-C: Social Analysis",
+            "min": 2,
+            "max": 2
+          },
+          {
+            "filter": "GE-D: Life Sciences",
+            "min": 1,
+            "max": 1
+          },
+          {
+            "filter": "GE-E: Physical Sciences",
+            "min": 1,
+            "max": 1
+          },
+          {
+            "filter": "GE-F: Quantitative Reasoning",
+            "min": 1,
+            "max": 1
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-03",
+      "family": "Course Selection",
+      "source_text": "GE-G: Global Perspectives I (one course)\n\nGE-H: Global Perspectives II (one course)",
+      "description": "Students must complete two Global Perspectives courses (GE-G and GE-H).",
+      "details": {
+        "fixed": [
+          "GE-G Global Perspectives I",
+          "GE-H Global Perspectives II"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-04",
+      "family": "Course Selection",
+      "source_text": "WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\nWRIT 340 Advanced Writing and Critical Engagement Units: 4",
+      "description": "Students must complete WRIT 150 and WRIT 340.",
+      "details": {
+        "fixed": [
+          "WRIT 150",
+          "WRIT 340"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-05",
+      "family": "Course Selection",
+      "source_text": "one General Education Seminar taken during the first year at USC",
+      "description": "Students must complete one General Education Seminar course.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool_rule": "General Education Seminar"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-06",
+      "family": "Sequencing",
+      "source_text": "one General Education Seminar taken during the first year at USC",
+      "description": "The General Education Seminar must be completed during the student's first year at USC.",
+      "details": {
+        "kind": "UNIT_WINDOW",
+        "scope": "General Education Seminar",
+        "window": {
+          "op": "max",
+          "value": 1,
+          "note": "first year at USC"
+        }
+      },
+      "confidence": "medium",
+      "note": "Window expressed in years, not units; encoded loosely to preserve the timing constraint."
+    },
+    {
+      "id": "MI-BS-07",
+      "family": "Course Selection",
+      "source_text": "ACCT 410x Foundations of Accounting Units: 4\nAny 4 unit ECON course\nOne course from the following:\nBAEP 450 Fundamentals of Entrepreneurship Units: 4\nBAEP 451 The Management of New Enterprises Units: 4",
+      "description": "Students must take ACCT 410x, one 4-unit ECON course, and one course from BAEP 450 or BAEP 451.",
+      "details": {
+        "fixed": [
+          "ACCT 410x"
+        ],
+        "pool_rule": "any 4 unit ECON course",
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "BAEP 450",
+              "BAEP 451"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-08",
+      "family": "Course Selection",
+      "source_text": "MPPM 100 Forum Units: 1\nMTEC 175 Fundamentals of Audio Recording Units: 2\nMTEC 176 Critical Listening Units: 2\nMUIN 270 Introduction to the Music Industry Units: 4\nMUIN 360 Introduction to Music Law Units: 4\nMUIN 370 Music Publishing and Licensing Units: 2\nMUIN 425 Live Music Production and Promotion Units: 4\nMUIN 450 Practicum in Music Industry Issues (Internship) Units: 1, 2, 3, 4\n4 units total of MUIN 450\nMUIN 497 Current Topics, Case Studies, and Analysis Units: 2\n4 units total of MUIN 497",
+      "description": "Students must complete the fixed set of Program Intensive Courses totaling 27 units, including 4 units of MUIN 450 and 4 units of MUIN 497.",
+      "details": {
+        "fixed": [
+          "MPPM 100",
+          "MTEC 175",
+          "MTEC 176",
+          "MUIN 270",
+          "MUIN 360",
+          "MUIN 370",
+          "MUIN 425",
+          "MUIN 450 (4 units total)",
+          "MUIN 497 (4 units total)"
+        ],
+        "measure": "units",
+        "count": {
+          "op": "eq",
+          "value": 27
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-09",
+      "family": "Course Selection",
+      "source_text": "Select 12 units from the following:\n\nMUIN 280 Communications in the Music Industry Units: 4\nMUIN 430 Artist Management and Development Units: 4\nMUIN 443 The Business of Music for Visual Media Units: 4\nMUIN 444 Music Supervision Units: 4\nMUIN 445 International Music Industry Units: 4\nMUIN 450 Practicum in Music Industry Issues (Internship) Units: 1, 2, 3, 4\nMUIN 475 Advanced Concert Management Units: 4\nMUIN 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8\nMUIN 495 Web Design for the Music Industry Units: 4\nMUIN 496 Music Media Solutions Units: 4",
+      "description": "Students must select 12 units from a list of designated MUIN courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 12
+        },
+        "measure": "units",
+        "pool": [
+          "MUIN 280",
+          "MUIN 430",
+          "MUIN 443",
+          "MUIN 444",
+          "MUIN 445",
+          "MUIN 450",
+          "MUIN 475",
+          "MUIN 490x",
+          "MUIN 495",
+          "MUIN 496"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-10",
+      "family": "Course Selection",
+      "source_text": "Select 8 units from the following:\n\nMTEC 245 Introduction to MIDI Sequencing Units: 1\nMTEC 246 Introduction to Audio Recording and Editing Units: 1\nMTEC 248 Introduction to Music Notation Units: 1\nMTEC 275 Fundamentals of Audio Engineering Units: 4\nMTEC 389 Digital Equipment and Recording Units: 2\nMTEC 392a Acoustics and Speaker Design Units: 2\nMTEC 442 Operation of the Radio Studio Units: 2\nMTEC 443 Desktop Music Production Units: 2\nMTEC 446a Computer Assisted Recording and Editing Units: 2\nMTEC 446b Computer Assisted Recording and Editing Units: 2\nMTEC 474a Electronic Synthesizer Techniques Units: 2, 3, 4\nMTEC 474b Electronic Synthesizer Techniques Units: 2, 3, 4\nMTEC 477 Remote Recording Techniques Units: 2\nMTEC 478 Advanced Multichannel Remix Units: 2\nMTEC 479 Audio Mastering Units: 2\nMTEC 486 Computer-Assisted Music Editing for Picture Units: 2\nMTEC 493 Audio Signal Processing Equipment Units: 2",
+      "description": "Students must select 8 units from a list of designated MTEC courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 8
+        },
+        "measure": "units",
+        "pool": [
+          "MTEC 245",
+          "MTEC 246",
+          "MTEC 248",
+          "MTEC 275",
+          "MTEC 389",
+          "MTEC 392a",
+          "MTEC 442",
+          "MTEC 443",
+          "MTEC 446a",
+          "MTEC 446b",
+          "MTEC 474a",
+          "MTEC 474b",
+          "MTEC 477",
+          "MTEC 478",
+          "MTEC 479",
+          "MTEC 486",
+          "MTEC 493"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-11",
+      "family": "Course Selection",
+      "source_text": "Select 4 units from the following:\n\nBUAD 307 Marketing Fundamentals Units: 4\nMUIN 410 Marketing, Branding and Strategic Alliances in Music Units: 2\nMUIN 420 DIY Music Marketing Units: 2",
+      "description": "Students must select 4 units from a list of marketing-related courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "units",
+        "pool": [
+          "BUAD 307",
+          "MUIN 410",
+          "MUIN 420"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-12",
+      "family": "Course Selection",
+      "source_text": "Select 4 units from the following:\n\nMPPM 350g A History of Popular Music Units: 4\nMUHL 250g Music and Ideas Units: 4\nMUHL 350g Western Art Music History I Units: 4\nMUHL 351 Western Art Music History II Units: 4\nMUJZ 350g A History of Jazz Music Units: 4\nMUSC 102gw World Music Units: 4\nMUSC 115gp Western Music as Sounding History Units: 4\nMUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4\nMUSC 210g Electronic Music and Dance Culture Units: 4\nMUSC 250gmw The Music of Black Americans Units: 4\nMUSC 320gmw Hip-hop Music and Culture Units: 4\nMUSC 371g Musical Genre Bending Units: 4\nMUSC 372g Music and Politics Units: 4\nMUSC 373g Writing About Popular Music Units: 4\nMUSC 423 Classic Rock: Popular Music of the Sixties and Seventies Units: 2\nMUSC 424 Iconic Figures of Popular Music Units: 2\nMUSC 444 American Roots Music: History and Culture Units: 4\nMUSC 460 Film Music: History and Function from 1930 to the Present Units: 4\nMUSC 465 Music, Television and American Culture Units: 4",
+      "description": "Students must select 4 units from a list of music history courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "units",
+        "pool": [
+          "MPPM 350g",
+          "MUHL 250g",
+          "MUHL 350g",
+          "MUHL 351",
+          "MUJZ 350g",
+          "MUSC 102gw",
+          "MUSC 115gp",
+          "MUSC 200gmw",
+          "MUSC 210g",
+          "MUSC 250gmw",
+          "MUSC 320gmw",
+          "MUSC 371g",
+          "MUSC 372g",
+          "MUSC 373g",
+          "MUSC 423",
+          "MUSC 424",
+          "MUSC 444",
+          "MUSC 460",
+          "MUSC 465"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-13",
+      "family": "Course Selection",
+      "source_text": "Select 6 units from the following:\n\nMPGU 120a Beginning Pop/Rock Guitar Units: 2\nMPGU 120b Beginning Pop/Rock Guitar Units: 2\nMPGU 120c Beginning Pop/Rock Guitar Units: 2\nMPGU 121 Intensive Beginning Pop/Rock Guitar Units: 4\nMPKS 150a Beginning Piano Units: 2\nMPKS 150b Beginning Piano Units: 2\nMPPM 240 Drumming Proficiency for the Popular Musician Units: 2\nMPPM 250 Keyboard Proficiency for the Popular Musician Units: 2\nMPPM 340 Intermediate Drum Set Proficiency Units: 2\nMPVA 141 Class Voice Units: 2\nMPVA 241 Intermediate Class Voice Units: 2\nMUCO 101x Fundamentals of Music Theory Units: 2\nMUCO 130ax Basics of Music Theory Units: 3\nMUCO 130bx Basics of Music Theory Units: 3\nMUSC 255 Songwriting I Units: 2\nMUSC 355 Songwriting II Units: 2\nMUSC 455 Songwriting III: The Performing Songwriter Units: 2",
+      "description": "Students must select 6 units from a list of performance/skills courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 6
+        },
+        "measure": "units",
+        "pool": [
+          "MPGU 120a",
+          "MPGU 120b",
+          "MPGU 120c",
+          "MPGU 121",
+          "MPKS 150a",
+          "MPKS 150b",
+          "MPPM 240",
+          "MPPM 250",
+          "MPPM 340",
+          "MPVA 141",
+          "MPVA 241",
+          "MUCO 101x",
+          "MUCO 130ax",
+          "MUCO 130bx",
+          "MUSC 255",
+          "MUSC 355",
+          "MUSC 455"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-14",
+      "family": "Manual Review",
+      "source_text": "Electives (21 units)",
+      "description": "Students must complete 21 units of electives with no enumerated course list provided.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 21
+        },
+        "measure": "units",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-15",
+      "family": "Course Selection",
+      "source_text": "MUIN 498a Final Capstone Project Units: 1\nMUIN 498b Final Capstone Project Units: 1",
+      "description": "Students must complete MUIN 498a and MUIN 498b for the Capstone Project.",
+      "details": {
+        "fixed": [
+          "MUIN 498a",
+          "MUIN 498b"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MI-BS-16",
+      "family": "Manual Review",
+      "source_text": "A capstone project must be completed under approved faculty supervision and guidance. The faculty of the department of the student’s major program determines the detailed requirements of the project, including content, length, format and other specifications.",
+      "description": "The capstone project's requirements are determined and supervised by department faculty.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "faculty_supervised_milestone"
+      },
+      "confidence": "medium",
+      "note": "No enumerated content requirements are given, so this cannot be verified from a course list."
+    },
+    {
+      "id": "MI-BS-17",
+      "family": "Manual Review",
+      "source_text": "In cases in which a performance venue is required in order to present the project, reservations must be made according to the current guidelines of the Music Operations office.",
+      "description": "Students needing a performance venue for their capstone must follow Music Operations office reservation guidelines.",
+      "details": {
+        "kind": "PROCEDURAL",
+        "procedure": "ADVISING"
+      },
+      "confidence": "low",
+      "note": "Procedural note about venue reservation; closest fit is PROCEDURAL though it is not advising specifically."
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "Specific entrance requirements are reviewed on an annual basis and published online at music.usc.edu.",
+      "why": "This is an informational/administrative statement about publication of requirements, not itself a binding student requirement."
+    },
+    {
+      "source_text": "Total Units: 128",
+      "why": "This is a whole-degree total unit count, not a subset/pool constraint that fits the filter-measure-bound pattern of any family."
+    },
+    {
+      "source_text": "With careful planning, certain courses (including courses required for the music major) can fulfill more than one of these general education requirements.",
+      "why": "This is advisory/descriptive prose about planning opportunities, not a binding requirement."
+    },
+    {
+      "source_text": "This typically will result in Thornton students taking a total of eight courses (including two writing courses) in order to fulfill all of the USC general education requirements.",
+      "why": "Advisory/descriptive statement about typical outcomes, not a binding requirement."
+    },
+    {
+      "source_text": "[*]With correct planning, only 32 units (six GE and two writing courses) will be needed outside of your major requirements.",
+      "why": "Advisory planning note, not a binding requirement."
+    }
+  ]
+}

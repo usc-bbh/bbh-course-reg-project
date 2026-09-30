@@ -1,0 +1,2 @@
+model,concurrency,programmes,wall_seconds,call_seconds,cost_usd,started_at,finished_at
+claude-sonnet-5,4,40,337.9,1235.7,2.0007,2026-09-29T13:26:19-07:00,2026-09-29T13:31:57-07:00

@@ -1,0 +1,29 @@
+{
+  "program": "Nonprofits Philanthropy And Volunteerism Interdisciplinary Minor",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "NPV-MIN-01",
+      "family": "Manual Review",
+      "source_text": "This four-course minor enables students to learn about the nonprofit sector — its organizations, philanthropy and voluntary action.",
+      "description": "The minor requires four courses, but no course list or selection rule is given in this text.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "courses",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "low",
+      "note": "The catalogue entry states the minor is four courses but provides no pool or fixed list; full description is referenced elsewhere and not included here."
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "See complete description in the USC Price School of Public Policy section.",
+      "why": "This is a pointer to another section of the catalogue, not a requirement itself, and provides no constraint content to encode."
+    }
+  ]
+}

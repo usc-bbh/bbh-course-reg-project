@@ -3,7 +3,8 @@
 Owner: Agastya Bassi (owns the Schedule of Classes scrape)
 
 This document is the contract for the course catalog data consumed by
-`validate_next_semester()` and the validator GUI. If you change the scraper
+`validate_next_semester()` and the RegCheck GUI
+(both in [next-sem-validator](https://github.com/usc-bbh/next-sem-validator)). If you change the scraper
 output, update this file in the same PR.
 
 `_schema_version`: **6.0** (scraper code — see status note below)

@@ -1,0 +1,258 @@
+{
+  "program": "Global Health Studies (BS)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "GHS-BS-01",
+      "family": "Manual Review",
+      "source_text": "fulfillment of USC general education requirements including third semester equivalency in a foreign language",
+      "description": "Students must complete USC general education requirements including third-semester foreign language equivalency.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "no_enumerated_list",
+        "requirement": "third semester equivalency in a foreign language"
+      },
+      "confidence": "medium",
+      "note": "No specific course list given for language equivalency."
+    },
+    {
+      "id": "GHS-BS-02",
+      "family": "Manual Review",
+      "source_text": "It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing.",
+      "description": "Students must complete the university general education program consisting of eight Core Literacies courses, two Global Perspectives courses, and two writing courses.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "medium",
+      "note": "General education structure described without an enumerated course list specific to this program."
+    },
+    {
+      "id": "GHS-BS-03",
+      "family": "Course Selection",
+      "source_text": "As part of the core research requirements, students must complete a directed research requirement, HP 490, with a specific international research focus.",
+      "description": "Students must complete HP 490 as a directed research course.",
+      "details": {
+        "fixed": [
+          "HP 490"
+        ]
+      },
+      "confidence": "medium",
+      "note": "The 'specific international research focus' qualifier is not encodable as a plan constraint."
+    },
+    {
+      "id": "GHS-BS-04",
+      "family": "Course Selection",
+      "source_text": "BISC 220Lg General Biology: Cell Biology and Physiology Units: 4 or BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4 ; CHEM 105aLg General Chemistry Units: 4 or CHEM 115aLg Advanced General Chemistry Units: 4 ; ECON 203g Principles of Microeconomics Units: 4 ; HP 270 Introduction to Global Health Units: 4 ; HP 320 Biological and Behavioral Basis of Disease Units: 4 ; HP 470 Case Studies in Global Health Units: 4 ; IR 308gw Economic Globalization Units: 4 ; MATH 108g Contemporary Precalculus Units: 4 or MATH 125g Calculus I Units: 4",
+      "description": "Students must complete the Core Courses (32 units), including fixed courses and pairs of alternative course options.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 32
+        },
+        "measure": "units",
+        "fixed": [
+          "ECON 203",
+          "HP 270",
+          "HP 320",
+          "HP 470",
+          "IR 308"
+        ],
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "BISC 220L",
+              "BISC 221L"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "CHEM 105a",
+              "CHEM 115a"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "MATH 108",
+              "MATH 125"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "GHS-BS-05",
+      "family": "Course Selection",
+      "source_text": "HP 340Lg Health Behavior Statistical Methods Units: 4 ; HP 350L Health Behavior Research Methods Units: 4 ; HP 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8 , max 12 (Core Research Courses (10-16 Units))",
+      "description": "Students must complete 10 to 16 units of Core Research Courses from the listed set.",
+      "details": {
+        "count": {
+          "min": 10,
+          "max": 16
+        },
+        "measure": "units",
+        "pool": [
+          "HP 340L",
+          "HP 350L",
+          "HP 490x"
+        ]
+      },
+      "confidence": "medium",
+      "note": "Requirement is a unit range (10-16) rather than a single bound; represented with min/max keys."
+    },
+    {
+      "id": "GHS-BS-06",
+      "family": "Distribution Bounds",
+      "source_text": "Students must choose 24 units of elective course work from the following lists. At least 8 units must be from HP and at least 8 units must be from IR.",
+      "description": "Students must complete 24 elective units total, with at least 8 units from HP Electives, at least 8 units from IR Electives, and the remainder (up to 8 units) from Other Electives.",
+      "details": {
+        "kind": "CATEGORY_BOUNDS",
+        "total": {
+          "op": "eq",
+          "value": 24
+        },
+        "measure": "units",
+        "categories": [
+          {
+            "filter": "HP Electives",
+            "min": 8
+          },
+          {
+            "filter": "IR Electives",
+            "min": 8
+          },
+          {
+            "filter": "Other Electives",
+            "max": 8
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "GHS-BS-07",
+      "family": "Course Selection",
+      "source_text": "HP 300 Principles of Human Behavior Units: 4; HP 365gmw Culture, Lifestyle, and Health Units: 4; HP 370g Introduction to Epidemiology: Methods and Applications Units: 4; HP 401 Cultural Competence in Medicine Units: 4; HP 402 Maternal and Child Health Units: 4; HP 405 Sexually Transmitted Diseases: A Global Public Health Priority Units: 4; HP 408 Environmental Health in the Community Units: 4; HP 409 Environmental Impacts on the Brain Units: 4; HP 410 Issues in Prevention and Cessation of Drug Abuse Units: 4; HP 420m Gender and Minority Health Issues Units: 4; HP 421 Violence as a Public Health Issue Units: 4; HP 422 AIDS in Society Units: 4; HP 430 Obesity and Health Units: 4; HP 431 Behavior and Education Strategies for Nutrition and Fitness Units: 4; HP 432 Clinical Nutrition Units: 4; HP 440 Happiness, Well-Being, and Health Units: 4; HP 441 Health Promotion in the Workplace Units: 4; HP 442 Chronic Disease Epidemiology Units: 4; HP 443 Communicating Better Health: What Works and Why Units: 4; HP 446 Poisons, People, and Politics Units: 4; HP 448 Global Environmental Changes and Health Units: 4; HP 450 Traditional Eastern Medicine and Modern Health Units: 4; HP 460 Adolescent Health Units: 4; HP 470 Case Studies in Global Health Units: 4; HP 483 Global Health and Aging Units: 4 (HP Electives (Minimum 8 Units))",
+      "description": "Pool of HP Elective courses from which the minimum 8 HP-elective units must be drawn.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 8
+        },
+        "measure": "units",
+        "pool": [
+          "HP 300",
+          "HP 365",
+          "HP 370",
+          "HP 401",
+          "HP 402",
+          "HP 405",
+          "HP 408",
+          "HP 409",
+          "HP 410",
+          "HP 420",
+          "HP 421",
+          "HP 422",
+          "HP 430",
+          "HP 431",
+          "HP 432",
+          "HP 440",
+          "HP 441",
+          "HP 442",
+          "HP 443",
+          "HP 446",
+          "HP 448",
+          "HP 450",
+          "HP 460",
+          "HP 470",
+          "HP 483"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "GHS-BS-08",
+      "family": "Course Selection",
+      "source_text": "IR 305w Managing New Global Problems Units: 4; IR 306 International Organizations Units: 4; IR 307 Contemporary International Politics Units: 4; IR 309 Global Governance Units: 4; IR 315 Ethnicity and Nationalism in World Politics Units: 4; IR 316 Gender and Global Issues Units: 4; IR 323 Politics of Global Environment Units: 4; IR 325 North-South Relations in the Global Economy Units: 4; IR 339 Public Health and International Relations Units: 4; IR 344 The Global South in World Politics Units: 4; IR 349 International Law and Politics Units: 4; IR 371 Global Civil Society: Non-State Actors in World Politics Units: 4; IR 422 Ecological Security and Global Politics Units: 4; IR 424w Citizenship and Migration in International Politics Units: 4; IR 444w Theories of Global Society Units: 4 (IR Electives (Minimum 8 Units))",
+      "description": "Pool of IR Elective courses from which the minimum 8 IR-elective units must be drawn.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 8
+        },
+        "measure": "units",
+        "pool": [
+          "IR 305",
+          "IR 306",
+          "IR 307",
+          "IR 309",
+          "IR 315",
+          "IR 316",
+          "IR 323",
+          "IR 325",
+          "IR 339",
+          "IR 344",
+          "IR 349",
+          "IR 371",
+          "IR 422",
+          "IR 424",
+          "IR 444"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "GHS-BS-09",
+      "family": "Course Selection",
+      "source_text": "ADSC 250 Fundamentals of Addiction Science Units: 4; BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4 or BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4; BISC 320Lg Molecular Biology Units: 4; BISC 330L Biochemistry Units: 4; CHEM 105bL General Chemistry Units: 4 or CHEM 115bL Advanced General Chemistry Units: 4; CHEM 322aL Organic Chemistry Units: 4; CHEM 322bL Organic Chemistry Units: 4; GERO 483 Global Health and Aging Units: 4; PHYS 135aLg Physics for the Life Sciences Units: 4 or PHYS 151Lg Fundamentals of Physics I: Mechanics, Oscillations and Waves Units: 4; PHYS 135bL Physics for the Life Sciences Units: 4 or PHYS 152L Fundamentals of Physics II: Electricity and Magnetism Units: 4; POSC 442m The Politics of Human Differences: Diversity and Discrimination Units: 4; POSC 451 Politics of Resources and Development Units: 4; POSC 456 Women in International Development Units: 4; PPD 250m Cities in the Developing World Units: 4; PPD 382 International Development Units: 4; SOCI 432m Racial and Ethnic Relations in a Global Society Units: 4; SOCI 460 Key Issues in Contemporary International Migration Units: 4; SOCI 470 Social Change in Low-Income Countries Units: 4 (Other Electives (Maximum 8 Units))",
+      "description": "Pool of Other Elective courses from which up to 8 units may be drawn.",
+      "details": {
+        "count": {
+          "op": "max",
+          "value": 8
+        },
+        "measure": "units",
+        "pool": [
+          "ADSC 250",
+          "BISC 120L",
+          "BISC 121L",
+          "BISC 320L",
+          "BISC 330L",
+          "CHEM 105bL",
+          "CHEM 115bL",
+          "CHEM 322aL",
+          "CHEM 322bL",
+          "GERO 483",
+          "PHYS 135aL",
+          "PHYS 151L",
+          "PHYS 135bL",
+          "PHYS 152L",
+          "POSC 442",
+          "POSC 451",
+          "POSC 456",
+          "PPD 250",
+          "PPD 382",
+          "SOCI 432",
+          "SOCI 460",
+          "SOCI 470"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "The Bachelor of Science degree is awarded after students successfully complete 128 units, consisting of 66 units for the major and fulfillment of USC general education requirements including third semester equivalency in a foreign language.",
+      "why": "This is a summary/overview statement combining total-degree unit counts already captured elsewhere; the 128/66 unit split is descriptive rather than a distinct actionable constraint."
+    }
+  ]
+}

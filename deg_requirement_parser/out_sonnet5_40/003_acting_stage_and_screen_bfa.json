@@ -1,0 +1,177 @@
+{
+  "program": "Acting, Stage and Screen (BFA)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "ASS-BFA-01",
+      "family": "Manual Review",
+      "source_text": "An audition is required for admission.",
+      "description": "Admission requires an audition.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INITIAL_ADMISSION",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "audition"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ASS-BFA-02",
+      "family": "Course Selection",
+      "source_text": "It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing.",
+      "description": "General Education requires eight courses across six Core Literacies, two Global Perspectives courses (which may overlap with Core Literacies), and two writing courses.",
+      "details": {
+        "fixed": [],
+        "choose": [
+          {
+            "n": 8,
+            "from": "six Core Literacies categories"
+          },
+          {
+            "n": 2,
+            "from": "Global Perspectives"
+          },
+          {
+            "n": 2,
+            "from": "writing courses"
+          }
+        ]
+      },
+      "confidence": "low",
+      "note": "No enumerated course list provided for Core Literacies, Global Perspectives, or writing categories; classified as Course Selection based on stated counts, but pool is undefined."
+    },
+    {
+      "id": "ASS-BFA-03",
+      "family": "Course Selection",
+      "source_text": "THTR 115a Movement I Units: 4 - THTR 120aL Acting I Units: 4 - THTR 120b Acting I Units: 4 - THTR 130 Introduction to Theatrical Production Units: 2 - THTR 140a Voice I Units: 2 - THTR 214a The Actor's Instrument: Voice and Body Units: 4 - THTR 214b The Actor's Instrument: Voice and Body Units: 4 - THTR 220a Intermediate Acting I Units: 4 - THTR 220b Intermediate Acting I Units: 4 - THTR 320a Intermediate Acting II Units: 4 - THTR 320b Intermediate Acting II Units: 4 - THTR 339a The Actor's Instrument: Voice and Body II Units: 4 - THTR 339b The Actor's Instrument: Voice and Body II Units: 4 - THTR 397 Theatre Practicum Units: 1, 2, 3, 4 (6.0 units required) - THTR 411 The Business of Acting Units: 4 - THTR 420 Senior Project Units: 4 - THTR 427 Audition Technique for Film, Television and New Media Units: 2 - THTR 457 Film Acting Practicum Units: 4.0 - THTR 471 Industry Landscape Units: 4 - THTR 480a Performance for Camera Units: 2 - THTR 497 Advanced Theatre Practicum Units: 2 (2.0 units required)",
+      "description": "Students must complete the fixed set of required acting courses totaling 76 units, including 6.0 units of THTR 397 and 2.0 units of THTR 497.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 76
+        },
+        "measure": "units",
+        "fixed": [
+          "THTR 115a",
+          "THTR 120aL",
+          "THTR 120b",
+          "THTR 130",
+          "THTR 140a",
+          "THTR 214a",
+          "THTR 214b",
+          "THTR 220a",
+          "THTR 220b",
+          "THTR 320a",
+          "THTR 320b",
+          "THTR 339a",
+          "THTR 339b",
+          "THTR 397 (6.0 units)",
+          "THTR 411",
+          "THTR 420",
+          "THTR 427",
+          "THTR 457",
+          "THTR 471",
+          "THTR 480a",
+          "THTR 497 (2.0 units)"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ASS-BFA-04",
+      "family": "Course Selection",
+      "source_text": "Select 4 units from the following list: THTR 105 Introduction to Screen Acting Units: 2 - THTR 250 Camera and Improvisation Units: 2 - THTR 305a Directing Units: 4 - THTR 309 Dramaturgy Units: 4 - THTR 343 Musical Theatre Audition Units: 3 - THTR 365 Playwriting I Units: 4 - THTR 416 Creating Content for the Actor Units: 2.0 - THTR 440 Advanced Voice: Voice-Over Acting Units: 2 - THTR 464 An Actor's Reel Units: 2",
+      "description": "Students must select 4 units of elective coursework from a specified list of THTR courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "units",
+        "pool": [
+          "THTR 105",
+          "THTR 250",
+          "THTR 305a",
+          "THTR 309",
+          "THTR 343",
+          "THTR 365",
+          "THTR 416",
+          "THTR 440",
+          "THTR 464"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ASS-BFA-05",
+      "family": "Course Selection",
+      "source_text": "Complete the two required courses below. In addition, take one course from List A and one course from either List A or B. - THTR 125 Text Studies for Production Units: 4 - THTR 225g Theatre Across History and Cultures Units: 4",
+      "description": "Students must complete THTR 125 and THTR 225g, plus one course from List A and one course from List A or List B.",
+      "details": {
+        "fixed": [
+          "THTR 125",
+          "THTR 225g"
+        ],
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "THTR 310",
+              "THTR 312",
+              "THTR 395m",
+              "THTR 405m",
+              "THTR 406",
+              "THTR 456",
+              "THTR 460",
+              "THTR 476mw"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "THTR 310",
+              "THTR 312",
+              "THTR 395m",
+              "THTR 405m",
+              "THTR 406",
+              "THTR 456",
+              "THTR 460",
+              "THTR 476mw",
+              "THTR 301",
+              "THTR 302",
+              "THTR 313",
+              "THTR 314",
+              "THTR 400",
+              "THTR 401",
+              "THTR 403",
+              "THTR 404"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "All BFA Theatre majors are required to earn a grade point average of 2.75 (A = 4.0) in their theatre courses each semester. BFA students who fail to earn a GPA of 2.75 in their theatre courses will be placed on probation the following semester. Students who remain on probation for a consecutive second semester will be disqualified from the BFA program.",
+      "why": "This is a GPA floor and its grade-based consequence, which the taxonomy explicitly marks as out of scope."
+    },
+    {
+      "source_text": "A student disqualified from continued study in the BFA program for failing to meet the GPA standards outlined above will be given the option of transferring into the BA program.",
+      "why": "Describes a consequence/option tied to the out-of-scope GPA policy rather than a degree-plan requirement."
+    },
+    {
+      "source_text": "In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC.",
+      "why": "Phrased as an expectation ('expected to complete'), which reads as advisory rather than a binding requirement."
+    },
+    {
+      "source_text": "Note that courses within the major will also satisfy certain Core Literacy requirements. Please work with your major adviser to determine those courses.",
+      "why": "Advisory guidance directing students to consult an adviser, not itself a constraint."
+    }
+  ]
+}

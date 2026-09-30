@@ -1,0 +1,7 @@
+node_modules/
+# Anonymized STARS reports and anything derived from them stay local, including the
+# expected results, which record a real student's major, courses, and GPA.
+test/samples/*
+!test/samples/.keep
+test/expected/*
+!test/expected/.keep

@@ -1,0 +1,411 @@
+{
+  "program": "Performance (Studio Guitar) (BM)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "PERFGU-01",
+      "family": "Manual Review",
+      "source_text": "Admission to Thornton programs is granted through the USC admission process. Applicants are screened by appropriate faculty selection committees.",
+      "description": "Admission requires screening by faculty selection committees.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INITIAL_ADMISSION",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "faculty selection committee screening"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-02",
+      "family": "Course Selection",
+      "source_text": "It requires eight courses in six Core Literacies, plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies) and two courses in writing.",
+      "description": "Students must complete eight courses across six Core Literacies categories.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 8
+        },
+        "measure": "courses",
+        "pool_rule": "six Core Literacies categories (GE-A through GE-F)"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-03",
+      "family": "Course Selection",
+      "source_text": "plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies)",
+      "description": "Students must complete two Global Perspectives courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool_rule": "GE-G and GE-H Global Perspectives"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-04",
+      "family": "Course Reuse",
+      "source_text": "plus two courses in Global Perspectives (which may double-count with courses in the Core Literacies)",
+      "description": "Global Perspectives courses may double-count toward Core Literacies requirements.",
+      "details": {
+        "kind": "DOUBLE_COUNT",
+        "polarity": "PERMITS",
+        "scope": "Global Perspectives and Core Literacies"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-05",
+      "family": "Course Selection",
+      "source_text": "WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\nWRIT 340 Advanced Writing and Critical Engagement Units: 4",
+      "description": "Students must complete WRIT 150 and WRIT 340.",
+      "details": {
+        "fixed": [
+          "WRIT 150",
+          "WRIT 340"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-06",
+      "family": "Manual Review",
+      "source_text": "A junior and senior recital must be completed under approved faculty supervision and guidance. The faculty of the department of the student’s major program determines the detailed requirements of the recitals, including content, length, format and other specifications.",
+      "description": "Students must complete a junior and senior recital under faculty supervision, with details determined by the department.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "faculty_supervised_milestone",
+        "approver": "department faculty"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-07",
+      "family": "Course Selection",
+      "source_text": "MPGU 153 Individual Instruction Units: 1 or 2\n4 units total of MPGU 153 (Studio Guitar)\nMPGU 253 Individual Instruction Units: 1 or 2\n4 units total of MPGU 253 (Studio Guitar)\nMPGU 353 Individual Instruction Units: 1 or 2\n4 units total of MPGU 353 (Studio Guitar)\nMPGU 453 Individual Instruction Units: 1 or 2\n4 units total of MPGU 453 (Studio Guitar)",
+      "description": "Traditional emphasis students must complete 4 units each of MPGU 153, 253, 353, and 453, totaling 16 units of lessons.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 16
+        },
+        "measure": "units",
+        "fixed": [
+          "MPGU 153 (4 units)",
+          "MPGU 253 (4 units)",
+          "MPGU 353 (4 units)",
+          "MPGU 453 (4 units)"
+        ],
+        "scope": "Traditional Emphasis Lessons"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-08",
+      "family": "Course Selection",
+      "source_text": "MUEN 326 Guitar Ensemble Units: 1\n6 units total of MUEN 326\nEnsemble electives: four 1-unit courses",
+      "description": "Students must complete 6 units of MUEN 326 plus four 1-unit ensemble elective courses, totaling 10 units.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 10
+        },
+        "measure": "units",
+        "fixed": [
+          "MUEN 326 (6 units)"
+        ],
+        "choose": [
+          {
+            "n": 4,
+            "from": [
+              "ensemble electives"
+            ]
+          }
+        ],
+        "scope": "Music Ensembles"
+      },
+      "confidence": "medium",
+      "note": "Ensemble elective pool not enumerated in source."
+    },
+    {
+      "id": "PERFGU-09",
+      "family": "Course Selection",
+      "source_text": "MPGU 158 Guitarists in the U.S. Units: 2\nMPGU 159 Functional Skills for Studio Guitarists I Units: 2\nMPGU 258 Functional Skills for Studio Guitarists I Units: 2\n4 units total of MPGU 258\nMPGU 358 Performance Practices for Studio Guitarists Units: 2\n4 units total of MPGU 358\nMPGU 415 Studio Guitar Pedagogy Units: 2\nMPGU 416 Evolution of the Guitar in the United States Units: 3\nMPGU 426 Classical Guitar History and Literature Units: 2\nMPGU 428a Improvisation and Arranging for Guitarists Units: 3\nMPGU 428b Improvisation and Arranging for Guitarists Units: 3\nMPGU 458 Current Electric Guitar Styles Units: 2",
+      "description": "Students must complete the fixed set of Program Intensive Courses totaling 27 units.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 27
+        },
+        "measure": "units",
+        "fixed": [
+          "MPGU 158",
+          "MPGU 159",
+          "MPGU 258 (4 units)",
+          "MPGU 358 (4 units)",
+          "MPGU 415",
+          "MPGU 416",
+          "MPGU 426",
+          "MPGU 428a",
+          "MPGU 428b",
+          "MPGU 458"
+        ],
+        "scope": "Program Intensive Courses"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-10",
+      "family": "Course Selection",
+      "source_text": "MPKS 250a Keyboard Instruction I Units: 2\nMPKS 250b Keyboard Instruction I Units: 2\nMUCD 343 Instrumental Conducting I Units: 2\nMUCO 132a Aural Skills I Units: 2\nMUCO 132b Aural Skills I Units: 2\nMUCO 133a Theory I Units: 3\nMUCO 133b Theory I Units: 3\nMUCO 232a Aural Skills II Units: 2\nMUCO 232b Aural Skills II Units: 2\nMUCO 233a Theory II Units: 3\nMUCO 233b Theory II Units: 3\nMUCO 338x Elementary Orchestration Units: 2\nMUHL 250g Music and Ideas Units: 4\nMUHL 350g Western Art Music History I Units: 4\nMUHL 351 Western Art Music History II Units: 4",
+      "description": "Students in the Traditional Emphasis must complete the fixed set of Core Thornton Academic Courses totaling 40 units.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 40
+        },
+        "measure": "units",
+        "fixed": [
+          "MPKS 250a",
+          "MPKS 250b",
+          "MUCD 343",
+          "MUCO 132a",
+          "MUCO 132b",
+          "MUCO 133a",
+          "MUCO 133b",
+          "MUCO 232a",
+          "MUCO 232b",
+          "MUCO 233a",
+          "MUCO 233b",
+          "MUCO 338x",
+          "MUHL 250g",
+          "MUHL 350g",
+          "MUHL 351"
+        ],
+        "scope": "Core Thornton Academic Courses - Traditional Emphasis"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-11",
+      "family": "Manual Review",
+      "source_text": "### Electives (7 units)",
+      "description": "Traditional emphasis students must complete 7 units of electives with no enumerated course list.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 7
+        },
+        "measure": "units",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "PERFGU-12",
+      "family": "Course Selection",
+      "source_text": "MPGU 153 Individual Instruction Units: 1 or 2\n4 units total of MPGU 153 (Studio Guitar)\nMPGU 253 Individual Instruction Units: 1 or 2\n4 units total of MPGU 253 (Studio Guitar)\nMPGU 301 Individual Instruction Units: 1, 2\n2 units total of MPGU 301 (Classical Guitar)\nMPGU 353 Individual Instruction Units: 1 or 2\n4 units total of MPGU 353 (Studio Guitar)\nMPGU 453 Individual Instruction Units: 1 or 2\n4 units total of MPGU 453 (Studio Guitar)",
+      "description": "Jazz emphasis students must complete a fixed set of lessons totaling 18 units, including MPGU 153, 253, 301, 353, and 453.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 18
+        },
+        "measure": "units",
+        "fixed": [
+          "MPGU 153 (4 units)",
+          "MPGU 253 (4 units)",
+          "MPGU 301 (2 units)",
+          "MPGU 353 (4 units)",
+          "MPGU 453 (4 units)"
+        ],
+        "scope": "Jazz Emphasis Lessons"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-13",
+      "family": "Course Selection",
+      "source_text": "MUEN 326 Guitar Ensemble Units: 1\n6 units total of MUEN 326\nEnsemble electives: four 1-unit courses",
+      "description": "Jazz emphasis students must complete 6 units of MUEN 326 plus four 1-unit ensemble elective courses, totaling 10 units.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 10
+        },
+        "measure": "units",
+        "fixed": [
+          "MUEN 326 (6 units)"
+        ],
+        "choose": [
+          {
+            "n": 4,
+            "from": [
+              "ensemble electives"
+            ]
+          }
+        ],
+        "scope": "Jazz Emphasis Music Ensembles"
+      },
+      "confidence": "medium",
+      "note": "Ensemble elective pool not enumerated in source."
+    },
+    {
+      "id": "PERFGU-14",
+      "family": "Course Selection",
+      "source_text": "MPGU 158 Guitarists in the U.S. Units: 2\nMPGU 159 Functional Skills for Studio Guitarists I Units: 2\nMPGU 258 Functional Skills for Studio Guitarists I Units: 2\n4 units total of MPGU 258\nMPGU 358 Performance Practices for Studio Guitarists Units: 2\n4 units total of MPGU 358\nMPGU 415 Studio Guitar Pedagogy Units: 2\nMPGU 416 Evolution of the Guitar in the United States Units: 3\nMPGU 426 Classical Guitar History and Literature Units: 2\nMPGU 428a Improvisation and Arranging for Guitarists Units: 3\nMPGU 428b Improvisation and Arranging for Guitarists Units: 3\nMPGU 458 Current Electric Guitar Styles Units: 2",
+      "description": "Jazz emphasis students must complete the same fixed set of Program Intensive Courses totaling 27 units.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 27
+        },
+        "measure": "units",
+        "fixed": [
+          "MPGU 158",
+          "MPGU 159",
+          "MPGU 258 (4 units)",
+          "MPGU 358 (4 units)",
+          "MPGU 415",
+          "MPGU 416",
+          "MPGU 426",
+          "MPGU 428a",
+          "MPGU 428b",
+          "MPGU 458"
+        ],
+        "scope": "Jazz Emphasis Program Intensive Courses"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-15",
+      "family": "Course Selection",
+      "source_text": "MUCD 343 Instrumental Conducting I Units: 2\nMUCO 132a Aural Skills I Units: 2\nMUCO 132b Aural Skills I Units: 2\nMUCO 133a Theory I Units: 3\nMUCO 133b Theory I Units: 3\nMUHL 250g Music and Ideas Units: 4\nMUJZ 141a Basic Keyboard Skills for the Improviser Units: 2\nMUJZ 141b Basic Keyboard Skills for the Improviser Units: 2\nMUJZ 305a Advanced Jazz Theory Units: 2\nMUJZ 305b Advanced Jazz Theory Units: 2\nMUJZ 350g A History of Jazz Music Units: 4",
+      "description": "Jazz emphasis students must complete a fixed set of core academic courses.",
+      "details": {
+        "fixed": [
+          "MUCD 343",
+          "MUCO 132a",
+          "MUCO 132b",
+          "MUCO 133a",
+          "MUCO 133b",
+          "MUHL 250g",
+          "MUJZ 141a",
+          "MUJZ 141b",
+          "MUJZ 305a",
+          "MUJZ 305b",
+          "MUJZ 350g"
+        ],
+        "scope": "Core Thornton Academic Courses - Jazz Emphasis"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-16",
+      "family": "Course Selection",
+      "source_text": "One course from the following:\nMPPM 350g A History of Popular Music Units: 4\nMUHL 350g Western Art Music History I Units: 4\nMUHL 351 Western Art Music History II Units: 4\nMUSC 102gw World Music Units: 4\nMUSC 115gp Western Music as Sounding History Units: 4\nMUSC 200gmw The Broadway Musical: Reflections of American Diversity Units: 4\nMUSC 210g Electronic Music and Dance Culture Units: 4\nMUSC 250gmw The Music of Black Americans Units: 4\nMUSC 320gmw Hip-hop Music and Culture Units: 4\nMUSC 371g Musical Genre Bending Units: 4\nMUSC 372g Music and Politics Units: 4\nMUSC 373g Writing About Popular Music Units: 4\nMUSC 460 Film Music: History and Function from 1930 to the Present Units: 4\nMUSC 465 Music, Television and American Culture Units: 4",
+      "description": "Jazz emphasis students must choose one course from a specified list of music history/culture electives.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "MPPM 350g",
+          "MUHL 350g",
+          "MUHL 351",
+          "MUSC 102gw",
+          "MUSC 115gp",
+          "MUSC 200gmw",
+          "MUSC 210g",
+          "MUSC 250gmw",
+          "MUSC 320gmw",
+          "MUSC 371g",
+          "MUSC 372g",
+          "MUSC 373g",
+          "MUSC 460",
+          "MUSC 465"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-17",
+      "family": "Course Selection",
+      "source_text": "Select 2 units from the following:\nMTEC 245 Introduction to MIDI Sequencing Units: 1\nMTEC 246 Introduction to Audio Recording and Editing Units: 1\nMUCO 338x Elementary Orchestration Units: 2",
+      "description": "Jazz emphasis students must select 2 units from a specified list of courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "units",
+        "pool": [
+          "MTEC 245",
+          "MTEC 246",
+          "MUCO 338x"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "PERFGU-18",
+      "family": "Manual Review",
+      "source_text": "### Electives (11 units)",
+      "description": "Jazz emphasis students must complete 11 units of electives with no enumerated course list.",
+      "details": {
+        "kind": "NO_POOL",
+        "count": {
+          "op": "eq",
+          "value": 11
+        },
+        "measure": "units",
+        "reason": "no_enumerated_list"
+      },
+      "confidence": "medium",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "In addition, all entering freshmen are expected to complete a General Education Seminar during their first year at USC.",
+      "why": "Phrased as an expectation rather than a binding requirement, appears advisory in nature."
+    },
+    {
+      "source_text": "Note that courses within the major will also satisfy certain Core Literacy requirements. Please work with your major adviser to determine those courses.",
+      "why": "Advisory guidance directing students to consult an adviser, not itself a constraint."
+    },
+    {
+      "source_text": "### Total required for degree: 132",
+      "why": "A total degree unit count that does not specify a filter/pool and does not fit any taxonomy family as a discrete rule; it's the sum of other constraints already captured."
+    },
+    {
+      "source_text": "* With correct planning, only 32 units (6 GE and 2 Writing courses) will be needed outside of your major requirements.",
+      "why": "Informational planning note, not a binding requirement."
+    },
+    {
+      "source_text": "In cases in which a performance venue is required in order to present the recitals, reservations must be made according to the current guidelines of the Music Operations office.",
+      "why": "Procedural/administrative note about venue reservations, not a degree-plan constraint."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "program": "Business Administration (BS)",
+  "status": "ok",
+  "constraints": [
+    {
+      "id": "BUAD-BS-01",
+      "family": "Manual Review",
+      "source_text": "The degree cannot be combined as an additional major in Business Administration.",
+      "description": "This degree cannot be combined as an additional major in Business Administration.",
+      "details": {
+        "kind": "PROGRAM_RULE",
+        "direction": "COMBINATION",
+        "applies_to": "Business Administration majors",
+        "effect": "cannot be combined"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BUAD-BS-02",
+      "family": "Course Selection",
+      "source_text": "This degree requires at least 128 units including USC's General Education requirements.",
+      "description": "Students must complete at least 128 total units including GE requirements.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 128
+        },
+        "measure": "units",
+        "scope": "total degree units including GE"
+      },
+      "confidence": "medium",
+      "note": "No family precisely covers a total-degree unit floor; treated as Course Selection with a scope note."
+    },
+    {
+      "id": "BUAD-BS-03",
+      "family": "Course Selection",
+      "source_text": "WRIT 150 Writing and Critical Reasoning–Thematic Approaches Units: 4\nWRIT 340 Advanced Writing and Critical Engagement Units: 4",
+      "description": "Students must complete WRIT 150 and WRIT 340.",
+      "details": {
+        "fixed": [
+          "WRIT 150",
+          "WRIT 340"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BUAD-BS-04",
+      "family": "Course Selection",
+      "source_text": "BUAD 280 Introduction to Financial Accounting Units: 3\nBUAD 281 Introduction to Managerial Accounting Units: 3\nBUAD 302 Communication Strategy in Business Units: 4\nBUAD 304 Organizational Behavior and Leadership Units: 4\nBUAD 306 Business Finance Units: 4 or BUAD 308 Advanced Business Finance Units: 4\nBUAD 307 Marketing Fundamentals Units: 4\nBUAD 310g Applied Business Statistics Units: 4 or BUAD 312g Statistics and Data Science for Business Units: 4\nBUAD 311 Operations Management Units: 4 or BUAD 313 Advanced Operations Management and Analytics Units: 4\nBUAD 425 Introduction to Business Analytics Units: 2 or BUAD 427 Advanced Introduction to Business Analytics with AI Units: 2\nBUAD 497 Strategic Management Units: 4\nECON 351x Microeconomics for Business Units: 4\nECON 352x Macroeconomics for Business Units: 4\nMATH 118gx Calculus for Business and Economics Units: 4 or MATH 125g Calculus I Units: 4",
+      "description": "Students must complete the fixed business core courses, choosing between paired alternative options where listed.",
+      "details": {
+        "fixed": [
+          "BUAD 280",
+          "BUAD 281",
+          "BUAD 302",
+          "BUAD 304",
+          "BUAD 307",
+          "BUAD 497",
+          "ECON 351x",
+          "ECON 352x"
+        ],
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "BUAD 306",
+              "BUAD 308"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "BUAD 310g",
+              "BUAD 312g"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "BUAD 311",
+              "BUAD 313"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "BUAD 425",
+              "BUAD 427"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "MATH 118gx",
+              "MATH 125g"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BUAD-BS-05",
+      "family": "Course Selection",
+      "source_text": "Business administration majors must complete 12 units of upper-division elective courses (typically three 4-unit courses) offered by the Marshall School, specifically 300- or 400-level courses with a prefix ACCT, BAEP, BUCO, DSO, FBE, FIM, MKT, MOR, or RISK.",
+      "description": "Students must complete 12 units of upper-division elective courses from specified Marshall School prefixes at the 300 or 400 level.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 12
+        },
+        "measure": "units",
+        "pool_rule": "300- or 400-level courses with prefix ACCT, BAEP, BUCO, DSO, FBE, FIM, MKT, MOR, or RISK"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BUAD-BS-06",
+      "family": "Manual Review",
+      "source_text": "Students can also satisfy the business electives requirement through participation in a Marshall School sponsored international exchange program.",
+      "description": "Business electives requirement may alternatively be satisfied by a Marshall-sponsored international exchange program.",
+      "details": {
+        "kind": "DISCRETIONARY",
+        "action": "SUBSTITUTE",
+        "approver": "Marshall School"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "BUAD-BS-07",
+      "family": "Manual Review",
+      "source_text": "FIM courses are open only to students in the non-degree FIM certificate program.",
+      "description": "FIM courses are restricted to students enrolled in the FIM certificate program.",
+      "details": {
+        "kind": "PROGRAM_RULE",
+        "direction": "EXCLUDES",
+        "applies_to": "students not in the non-degree FIM certificate program"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BUAD-BS-08",
+      "family": "Course Selection",
+      "source_text": "The business curriculum allows for 32 units of free electives.",
+      "description": "Students may complete 32 units of free electives.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 32
+        },
+        "measure": "units",
+        "pool_rule": "any free electives"
+      },
+      "confidence": "medium",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "MATH 118gx , WRIT 150 , WRIT 340 , ECON 351x , ECON 352x and all courses required for the major must be taken for a letter grade.",
+      "why": "Grading mode requirement, which is explicitly out of scope per taxonomy but does not fit any drop pattern cleanly (letter grade requirement rather than pass/no-pass cap); flagged for completeness though excluded from constraints per rule."
+    },
+    {
+      "source_text": "ECON 351x and ECON 352x must be taken in residence at USC.",
+      "why": "Residency requirement, explicitly listed as out-of-scope category (transfer credit and residency)."
+    },
+    {
+      "source_text": "In addition to meeting university GPA requirements, a minimum overall/cumulative grade point average of 2.0 (A = 4.0) in upper-division business courses is required for graduation.",
+      "why": "GPA floor requirement, explicitly out of scope."
+    }
+  ]
+}

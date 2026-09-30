@@ -1,0 +1,337 @@
+{
+  "program": "Architecture (BArch)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "ARCH-BARCH-01",
+      "family": "Manual Review",
+      "source_text": "All applicants to the School of Architecture must complete the Common Application with a portfolio and submit it to the USC Office of Admission.",
+      "description": "Applicants must submit a Common Application and portfolio for admission.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INITIAL_ADMISSION",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "Common Application with portfolio"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ARCH-BARCH-02",
+      "family": "Manual Review",
+      "source_text": "It is possible, in selected instances, that a transfer student from an accredited community college or other university may be eligible for advanced placement at the second-year level if previous work includes a minimum of 32 semester units of acceptable academic credit in a pre-architecture program. The academic credit must include at least 8 semester units in architectural design or environmental design.",
+      "description": "Advanced placement eligibility is based on prior transfer coursework thresholds.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INTERNAL_TRANSFER",
+        "basis": "NUMERIC_THRESHOLD",
+        "requires": [
+          "32 semester units pre-architecture credit",
+          "8 semester units in architectural or environmental design"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ARCH-BARCH-03",
+      "family": "Manual Review",
+      "source_text": "Advanced placement applicants are required to submit a design portfolio to the School of Architecture at the time of application.",
+      "description": "Advanced placement applicants must submit a design portfolio.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INTERNAL_TRANSFER",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "design portfolio submission"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ARCH-BARCH-04",
+      "family": "Manual Review",
+      "source_text": "Applicants must submit a university application and portfolio by February 1 for consideration. During the summer transfer courses, students must demonstrate significant design and drawing skills to justify advanced placement.",
+      "description": "Summer transfer applicants must apply by a deadline and demonstrate skills for advanced placement consideration.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INTERNAL_TRANSFER",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "summer transfer course evaluation with application/portfolio deadline"
+      },
+      "confidence": "medium",
+      "note": "Combines a deadline and a qualitative performance standard into one admission gate."
+    },
+    {
+      "id": "ARCH-BARCH-05",
+      "family": "Course Selection",
+      "source_text": "Accredited degree programs awarding the BArch degree must require a minimum of 150 semester credit hours or the quarter-hour equivalent, in academic course work in general studies, professional studies and electives.",
+      "description": "The degree requires a minimum of 150 semester credit hours total across general studies, professional studies and electives.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 150
+        },
+        "measure": "units",
+        "pool_rule": "academic course work in general studies, professional studies and electives"
+      },
+      "confidence": "medium",
+      "note": "No specific course pool given; recorded as a total-unit floor."
+    },
+    {
+      "id": "ARCH-BARCH-06",
+      "family": "Distribution Bounds",
+      "source_text": "The curriculum leading to the architecture degree must include at least 45 credit hours, or the quarter-hour equivalent, outside of architectural studies either as general studies or as electives with content other than architectural.",
+      "description": "At least 45 credit hours must be outside architectural studies content.",
+      "details": {
+        "kind": "ORIGIN_BOUND",
+        "filter": "outside architectural studies content",
+        "measure": "units",
+        "bound": {
+          "op": "min",
+          "value": 45
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ARCH-BARCH-07",
+      "family": "Distribution Bounds",
+      "source_text": "School of Architecture majors enrolling for a semester of study off-campus are limited to the transfer of only one design studio course within the ARCH 402a, ARCH 402b sequence.",
+      "description": "Only one design studio course from the ARCH 402a/402b sequence may be transferred from off-campus study.",
+      "details": {
+        "kind": "ORIGIN_BOUND",
+        "filter": "off-campus transfer within ARCH 402a/402b sequence",
+        "measure": "courses",
+        "bound": {
+          "op": "max",
+          "value": 1
+        }
+      },
+      "confidence": "medium",
+      "note": "Could be read as transfer-credit policy (out of scope), but is specifically about which courses count toward the design sequence, so kept as a distribution bound."
+    },
+    {
+      "id": "ARCH-BARCH-08",
+      "family": "Sequencing",
+      "source_text": "In order to take advantage of elective opportunities at the upper division level, students MUST complete the following courses before the end of the integrative semester (third year, second semester): ARCH 102a, ARCH 102b, ARCH 105aL, ARCH 105bL, ARCH 114, ARCH 202a, ARCH 202b, ARCH 211, ARCH 213a, ARCH 213b, ARCH 214a, ARCH 214b, ARCH 215, ARCH 314, MATH 108, PHYS 125 and WRIT 150.",
+      "description": "Listed core courses must be completed before the end of third year, second semester.",
+      "details": {
+        "kind": "BEFORE_MILESTONE",
+        "before": [
+          "ARCH 102a",
+          "ARCH 102b",
+          "ARCH 105aL",
+          "ARCH 105bL",
+          "ARCH 114",
+          "ARCH 202a",
+          "ARCH 202b",
+          "ARCH 211",
+          "ARCH 213a",
+          "ARCH 213b",
+          "ARCH 214a",
+          "ARCH 214b",
+          "ARCH 215",
+          "ARCH 314",
+          "MATH 108",
+          "PHYS 125",
+          "WRIT 150"
+        ],
+        "milestone": "end of integrative semester (third year, second semester)"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ARCH-BARCH-09",
+      "family": "Course Selection",
+      "source_text": "A minimum of 10 units in architecture is required.",
+      "description": "Students must complete at least 10 units of professional architecture electives.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 10
+        },
+        "measure": "units",
+        "pool_rule": "professional architecture electives"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ARCH-BARCH-10",
+      "family": "Course Selection",
+      "source_text": "A minimum of 2 units in architecture history is required.",
+      "description": "Students must complete at least 2 units of architecture history electives.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 2
+        },
+        "measure": "units",
+        "pool_rule": "architecture history elective courses"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ARCH-BARCH-11",
+      "family": "Course Selection",
+      "source_text": "A minimum of 8 units in any area of liberal arts or sciences excluding MATH 108, PHYS 125 or PHYS 135a, PHYS 135b.",
+      "description": "Students must complete at least 8 units of free electives in liberal arts or sciences, excluding specific courses.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 8
+        },
+        "measure": "units",
+        "pool_rule": "any area of liberal arts or sciences, excluding MATH 108, PHYS 125, PHYS 135a, PHYS 135b"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ARCH-BARCH-12",
+      "family": "Course Selection",
+      "source_text": "GE-A: The Arts (one course)\nGE-B: Humanistic Inquiry (two courses)\nGE-C: Social Analysis (two courses)\nGE-D: Life Sciences (one course)\nGE-E: Physical Sciences (one course)\nGE-F: Quantitative Reasoning (one course)\nGE-G: Global Perspectives I (one course)\nGE-H: Global Perspectives II (one course)",
+      "description": "Students must complete one or two courses in each of the eight General Education categories.",
+      "details": {
+        "choose": [
+          {
+            "n": 1,
+            "from": [
+              "GE-A: The Arts"
+            ]
+          },
+          {
+            "n": 2,
+            "from": [
+              "GE-B: Humanistic Inquiry"
+            ]
+          },
+          {
+            "n": 2,
+            "from": [
+              "GE-C: Social Analysis"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "GE-D: Life Sciences"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "GE-E: Physical Sciences"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "GE-F: Quantitative Reasoning"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "GE-G: Global Perspectives I"
+            ]
+          },
+          {
+            "n": 1,
+            "from": [
+              "GE-H: Global Perspectives II"
+            ]
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ARCH-BARCH-13",
+      "family": "Course Selection",
+      "source_text": "all entering freshmen are expected to complete a General Education Seminar during their first year at USC. These seminars satisfy one of the Core Literacy requirements above.",
+      "description": "Entering freshmen must complete a General Education Seminar in their first year, satisfying one Core Literacy requirement.",
+      "details": {
+        "fixed": [
+          "General Education Seminar"
+        ]
+      },
+      "confidence": "medium",
+      "note": "Phrased as 'expected' but appears as a required component of the first-year curriculum table, so treated as binding rather than advisory."
+    },
+    {
+      "id": "ARCH-BARCH-14",
+      "family": "Course Reuse",
+      "source_text": "A single course can satisfy one Global Perspective and one Core Literacy requirement.",
+      "description": "A single course may double-count toward both a Global Perspectives requirement and a Core Literacy requirement.",
+      "details": {
+        "kind": "DOUBLE_COUNT",
+        "polarity": "PERMITS",
+        "scope": "Global Perspectives and Core Literacy requirements"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "ARCH-BARCH-15",
+      "family": "Course Reuse",
+      "source_text": "ARCH 214a, ARCH 214b fulfill the General Education requirement in Category A: The Arts.",
+      "description": "ARCH 214a/214b count both as architecture history courses and toward GE Category A.",
+      "details": {
+        "kind": "DOUBLE_COUNT",
+        "polarity": "PERMITS",
+        "scope": "ARCH 214a/214b and GE Category A: The Arts"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "ARCH-BARCH-16",
+      "family": "Course Reuse",
+      "source_text": "PHYS 125 fulfills the General Education requirement in Category E: Physical Sciences.",
+      "description": "PHYS 125 counts both toward the program requirement and GE Category E.",
+      "details": {
+        "kind": "DOUBLE_COUNT",
+        "polarity": "PERMITS",
+        "scope": "PHYS 125 and GE Category E: Physical Sciences"
+      },
+      "confidence": "medium",
+      "note": null
+    },
+    {
+      "id": "ARCH-BARCH-17",
+      "family": "Course Reuse",
+      "source_text": "ARCH 213a, ARCH 213b fulfills the General Education requirement in Category F: Quantitative Reasoning.",
+      "description": "ARCH 213a/213b counts both toward the program requirement and GE Category F.",
+      "details": {
+        "kind": "DOUBLE_COUNT",
+        "polarity": "PERMITS",
+        "scope": "ARCH 213a/213b and GE Category F: Quantitative Reasoning"
+      },
+      "confidence": "medium",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "The PHYS 125 requirement may also be fulfilled by PHYS 135a, PHYS 135b; 4 units will be applied toward the BArch and 4 will count as electives.",
+      "why": "Describes an alternate course substitution and unit split that does not cleanly fit a single taxonomy family (mixes substitution with elective allocation)."
+    },
+    {
+      "source_text": "Students may substitute any fall or spring semester by completing degree requirements, including design studio, by enrolling during the summer session.",
+      "why": "Describes an optional scheduling alternative for students, not a binding requirement to be planned."
+    },
+    {
+      "source_text": "While there are no specific time limits for completing the bachelor’s degree (except in the case of discontinued programs) the School of Architecture may require additional course work of students who remain in the degree program beyond six years.",
+      "why": "Describes a discretionary, contingent administrative policy rather than a defined plan constraint; no specific requirement is stated."
+    },
+    {
+      "source_text": "Successfully completing these summer transfer courses allows students to reduce the required 10-semester design sequence by two semesters, reducing USC residency to four years.",
+      "why": "Describes a conditional residency/acceleration outcome rather than a course or unit requirement; residency matters are out of scope."
+    }
+  ]
+}

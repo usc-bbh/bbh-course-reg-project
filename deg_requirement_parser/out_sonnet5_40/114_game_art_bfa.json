@@ -1,0 +1,98 @@
+{
+  "program": "Game Art (BFA)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "GABFA-01",
+      "family": "Manual Review",
+      "source_text": "Applicants must submit a supplemental application and materials to the Interactive Media and Games Division in Slideroom via the Common Application.",
+      "description": "Admission requires a supplemental application and materials submitted via Slideroom/Common Application.",
+      "details": {
+        "kind": "GATE",
+        "stage": "INITIAL_ADMISSION",
+        "basis": "QUALITATIVE_REVIEW",
+        "process": "supplemental application and materials via Slideroom/Common Application"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "GABFA-02",
+      "family": "Course Selection",
+      "source_text": "ART 207a Two-Dimensional Art Workshop Units: 2\nART 207b Two-Dimensional Art Workshop Units: 2\nCNTV 101 Reality Starts Here Units: 2\nCTCS 150gw The Cinematic Arts in Society Units: 4\nCTAN 452 Introduction to 3-D Computer Animation Units: 2\nCTIN 290 Digital Media Workshop Units: 4\nCTIN 488 Game Design Workshop Units: 4\nCTIN 489L Intermediate Game Design and Production Units: 4\nCapstone Requirements\nCTIN 491L Advanced Game Project I Units: 4\nCTIN 493L Advanced Game Project II Units: 2\nCTIN 498 Game Art Capstone Units: 2",
+      "description": "Students must complete all listed required courses, including the capstone sequence.",
+      "details": {
+        "fixed": [
+          "ART 207a",
+          "ART 207b",
+          "CNTV 101",
+          "CTCS 150gw",
+          "CTAN 452",
+          "CTIN 290",
+          "CTIN 488",
+          "CTIN 489L",
+          "CTIN 491L",
+          "CTIN 493L",
+          "CTIN 498"
+        ]
+      },
+      "confidence": "high",
+      "note": "Capstone Requirements subheading treated as part of the same fixed required-course list."
+    },
+    {
+      "id": "GABFA-03",
+      "family": "Course Selection",
+      "source_text": "At least 26 units must be taken from the following list: CTAN 280 Intermediate Character Animation for Games Units: 4, CTAN 420 Concept Design for Animation Units: 2, CTAN 455L Organic Modeling for Animation Units: 2 *, CTAN 460 Character Design Workshop Units: 2, CTAN 464L Digital Lighting and Rendering Units: 2 *, CTAN 465L Digital Effects Animation Units: 2 *, CTAN 480 Advanced Character Animation for Games Units: 2, CTAN 485 Character Modeling Units: 2, CTAN 497L Procedural Animation Units: 2 *, CTAN 564L Motion Capture Fundamentals Units: 2 **, CTIN 190 Introduction to Interactive Entertainment Units: 4, CTIN 191 Survey of Themed Entertainment Units: 4, CTIN 289 Game Development Fundamentals Units: 4, CTIN 401L Interface Design for Games Units: 2, CTIN 403L Advanced Visual Design for Games Units: 2, CTIN 410L Narrative Design Workshop Units: 4, CTIN 415 Undergraduate Advanced Games Project Pre-Production Units: 2, CTIN 422 Games as Live Service Operations (GLO) Units: 2, 4, CTIN 433 Visual Development for Games Units: 2, CTIN 478 Level Design Workshop Units: 2, CTIN 481 Introduction to World Building for Games Units: 2, CTPR 524 Virtual Production Units: 2 **, CTPR 544 Virtual Production in LED Volumes Units: 4 **, CTWR 410L Character Development and Storytelling for Games Units: 4, TAC 115 Programming in Python Units: 2, TAC 351 3D Character Modeling for Games Units: 4, TAC 361 Character Rigging for Games Units: 4, TAC 371 Technical Character Animation for Games Units: 4",
+      "description": "Students must take at least 26 units from the specified elective course list.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 26
+        },
+        "measure": "units",
+        "pool": [
+          "CTAN 280",
+          "CTAN 420",
+          "CTAN 455L",
+          "CTAN 460",
+          "CTAN 464L",
+          "CTAN 465L",
+          "CTAN 480",
+          "CTAN 485",
+          "CTAN 497L",
+          "CTAN 564L",
+          "CTIN 190",
+          "CTIN 191",
+          "CTIN 289",
+          "CTIN 401L",
+          "CTIN 403L",
+          "CTIN 410L",
+          "CTIN 415",
+          "CTIN 422",
+          "CTIN 433",
+          "CTIN 478",
+          "CTIN 481",
+          "CTPR 524",
+          "CTPR 544",
+          "CTWR 410L",
+          "TAC 115",
+          "TAC 351",
+          "TAC 361",
+          "TAC 371"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "The degree requires 128 units, including 58 units in the major.",
+      "why": "States overall degree and major unit totals without naming a pool of courses or an attribute-based subset, so it does not fit Course Selection or Distribution Bounds."
+    },
+    {
+      "source_text": "*Prerequisite required.\n**Prerequisite required. Enrollment in graduate courses requires special permission.",
+      "why": "Footnote about prerequisites/permission for specific elective courses is a procedural note rather than a distinct plan-level requirement with a clear before/after ordering."
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "program": "Managing Human Relations Minor",
+  "status": "ok",
+  "constraints": [
+    {
+      "id": "MHR-01",
+      "family": "Distribution Bounds",
+      "source_text": "students must include at least four upper-division courses",
+      "description": "At least four courses in the minor must be upper-division.",
+      "details": {
+        "kind": "LEVEL_BOUNDS",
+        "filter": "upper-division",
+        "measure": "courses",
+        "bound": {
+          "op": "min",
+          "value": 4
+        },
+        "scope": "minor"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MHR-02",
+      "family": "Course Reuse",
+      "source_text": "four courses dedicated exclusively to this minor (not used for credit toward a major, another minor or general education requirements)",
+      "description": "At least four courses must be unique to the minor and not shared with a major, another minor, or GE.",
+      "details": {
+        "kind": "UNIQUENESS_FLOOR",
+        "measure": "courses",
+        "bound": {
+          "op": "min",
+          "value": 4
+        },
+        "scope": "minor, not counted toward major, another minor, or GE"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MHR-03",
+      "family": "Distribution Bounds",
+      "source_text": "students must select four courses outside their major department",
+      "description": "At least four courses in the minor must be taken outside the student's major department.",
+      "details": {
+        "kind": "ORIGIN_BOUND",
+        "filter": "outside student's major department",
+        "measure": "courses",
+        "bound": {
+          "op": "min",
+          "value": 4
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MHR-04",
+      "family": "Manual Review",
+      "source_text": "Students seeking the Bachelor of Arts in Sociology must choose four courses outside of sociology",
+      "description": "Sociology BA students have a program-specific rule requiring four courses outside sociology.",
+      "details": {
+        "kind": "PROGRAM_RULE",
+        "direction": "ROUTES",
+        "applies_to": "Bachelor of Arts in Sociology students",
+        "effect": "must choose four courses outside of sociology"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MHR-05",
+      "family": "Manual Review",
+      "source_text": "those seeking the Bachelor of Science in Business Administration must choose four courses outside the USC Marshall School of Business",
+      "description": "Business Administration BS students have a program-specific rule requiring four courses outside Marshall.",
+      "details": {
+        "kind": "PROGRAM_RULE",
+        "direction": "ROUTES",
+        "applies_to": "Bachelor of Science in Business Administration students",
+        "effect": "must choose four courses outside the USC Marshall School of Business"
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MHR-06",
+      "family": "Course Selection",
+      "source_text": "Choose one course from the following (4 units): BUAD 304 Organizational Behavior and Leadership Units: 4 / PSYC 355 Social Psychology Units: 4 *",
+      "description": "Choose one course from BUAD 304 or PSYC 355.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "BUAD 304",
+          "PSYC 355"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MHR-07",
+      "family": "Course Selection",
+      "source_text": "Choose one course from the following (4 units): SOCI 340 Organizations: Bureaucracy and Alternatives to Bureaucracy Units: 4 / SOCI 342m Race Relations Units: 4 / SOCI 345 Social Institutions Units: 4",
+      "description": "Choose one course from SOCI 340, SOCI 342m, or SOCI 345.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "SOCI 340",
+          "SOCI 342m",
+          "SOCI 345"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MHR-08",
+      "family": "Course Selection",
+      "source_text": "Choose one course from the following list of classes on leadership (4 units): CLAS 370 Leaders and Communities: Classical Models Units: 4 / IR 303 Leadership and Diplomacy Units: 4 / MDA 325 Case Studies in Modern Leadership Units: 2 or 4 / MDA 365 The Art and Adventure of Leadership Units: 1, 2, 3, 4 / MOR 470 Global Leadership Units: 4 *",
+      "description": "Choose one course from a specified list of leadership courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "CLAS 370",
+          "IR 303",
+          "MDA 325",
+          "MDA 365",
+          "MOR 470"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MHR-09",
+      "family": "Course Selection",
+      "source_text": "Choose one course from the following list of classes on ethics (4 units): BUCO 425 Ethics and Professional Communication Units: 4 * / MOR 421 Social and Ethical Issues in Business Units: 4 * / PHIL 340 Ethics Units: 4 / REL 341 Technology, Culture, and Ethics Units: 4",
+      "description": "Choose one course from a specified list of ethics courses.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "BUCO 425",
+          "MOR 421",
+          "PHIL 340",
+          "REL 341"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "MHR-10",
+      "family": "Course Selection",
+      "source_text": "Choose one of the following three capstone classes (4 units): ECON 332 Contracts, Organizations and Institutions Units: 4 * / ECON 471 Economics of Labor Markets and Human Capital Units: 4 * / MOR 471 Managing and Developing People Units: 4 / SOCI 340 Organizations: Bureaucracy and Alternatives to Bureaucracy Units: 4",
+      "description": "Choose one capstone course from a specified list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "ECON 332",
+          "ECON 471",
+          "MOR 471",
+          "SOCI 340"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": []
+}

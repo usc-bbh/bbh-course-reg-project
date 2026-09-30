@@ -1,0 +1,338 @@
+{
+  "program": "Biopharmaceutical Sciences (BS)",
+  "status": "partial",
+  "constraints": [
+    {
+      "id": "BPS-BS-01",
+      "family": "Manual Review",
+      "source_text": "General Education and Writing Requirements",
+      "description": "Students must complete General Education and Writing requirements.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "no_enumerated_list",
+        "scope": "General Education and Writing Requirements"
+      },
+      "confidence": "medium",
+      "note": "No course list given for GE/Writing requirements."
+    },
+    {
+      "id": "BPS-BS-02",
+      "family": "Manual Review",
+      "source_text": "Foundational courses designed to prepare students for the major",
+      "description": "Students must complete foundational courses preparing them for the major.",
+      "details": {
+        "kind": "NO_POOL",
+        "reason": "no_enumerated_list",
+        "scope": "foundational courses"
+      },
+      "confidence": "medium",
+      "note": "No course list or count given."
+    },
+    {
+      "id": "BPS-BS-03",
+      "family": "Course Selection",
+      "source_text": "An introductory 4-unit lower-division (200 level) course in Pharmaceutical and Regulatory Science (RXRS)",
+      "description": "Students must complete a 4-unit lower-division RXRS course.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 4
+        },
+        "measure": "units",
+        "pool_rule": "lower-division (200 level) RXRS course"
+      },
+      "confidence": "medium",
+      "note": "Overlaps with the detailed RXRS 200 requirement listed later in the catalogue."
+    },
+    {
+      "id": "BPS-BS-04",
+      "family": "Distribution Bounds",
+      "source_text": "A minimum number of 32 units of upper-division (300 level and above) courses in Biopharmaceutical Sciences (BPSI) and Pharmaceutical and Regulatory Science (RXRS)",
+      "description": "At least 32 units of upper-division BPSI/RXRS coursework are required.",
+      "details": {
+        "kind": "LEVEL_BOUNDS",
+        "filter": "level >= 300, subject BPSI or RXRS",
+        "measure": "units",
+        "bound": {
+          "op": "min",
+          "value": 32
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BPS-BS-05",
+      "family": "Distribution Bounds",
+      "source_text": "A minimum of 8 units of upper-division (300 level and above) courses in Biological Sciences (BISC) unique to the major",
+      "description": "At least 8 units of upper-division BISC coursework unique to the major are required.",
+      "details": {
+        "kind": "LEVEL_BOUNDS",
+        "filter": "level >= 300, subject BISC, unique to major",
+        "measure": "units",
+        "bound": {
+          "op": "min",
+          "value": 8
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BPS-BS-06",
+      "family": "Course Selection",
+      "source_text": "Select one course.\n\n- MATH 108g Contemporary Precalculus Units: 4\n- MATH 118gx Calculus for Business and Economics Units: 4\n- MATH 125g Calculus I Units: 4",
+      "description": "Students must select one calculus course from the given list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "MATH 108g",
+          "MATH 118gx",
+          "MATH 125g"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BPS-BS-07",
+      "family": "Course Selection",
+      "source_text": "Select one course.\n\n- BME 423 Statistical and Data Science Methods in Biomedical Engineering Units: 4\n- ECON 317 Introduction to Statistics for Economists Units: 4\n- HP 340Lg Health Behavior Statistical Methods Units: 4\n- MATH 208x Elementary Probability and Statistics Units: 4\n- PSYC 274Lg Statistics Units: 4\n- SOCI 314Lg Analyzing Social Statistics Units: 4\n- QBIO 305g Statistics for Biological Sciences Units: 4",
+      "description": "Students must select one statistics course from the given list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "BME 423",
+          "ECON 317",
+          "HP 340Lg",
+          "MATH 208x",
+          "PSYC 274Lg",
+          "SOCI 314Lg",
+          "QBIO 305g"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BPS-BS-08",
+      "family": "Course Selection",
+      "source_text": "Select two courses from either the general chemistry or the advanced general chemistry series.\n\n- CHEM 105aLg General Chemistry Units: 4\n- CHEM 105bL General Chemistry Units: 4\n- CHEM 115aLg Advanced General Chemistry Units: 4\n- CHEM 115bL Advanced General Chemistry Units: 4",
+      "description": "Students must select two chemistry courses from either the general chemistry series or the advanced general chemistry series.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "choose": [
+          {
+            "n": 2,
+            "from": [
+              "CHEM 105aLg",
+              "CHEM 105bL",
+              "CHEM 115aLg",
+              "CHEM 115bL"
+            ]
+          }
+        ],
+        "scope": "must come from the same series (general or advanced general)"
+      },
+      "confidence": "medium",
+      "note": "Text implies pairing within a single series but does not enumerate this explicitly as separate rule."
+    },
+    {
+      "id": "BPS-BS-09",
+      "family": "Course Selection",
+      "source_text": "Select two courses from either the general biology or the advanced general biology series.\n\n- BISC 120Lg General Biology: Organismal Biology and Evolution Units: 4\n- BISC 220Lg General Biology: Cell Biology and Physiology Units: 4\n- BISC 121Lg Advanced General Biology: Organismal Biology and Evolution Units: 4\n- BISC 221Lg Advanced General Biology: Cell Biology and Physiology Units: 4",
+      "description": "Students must select two biology courses from either the general biology series or the advanced general biology series.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "choose": [
+          {
+            "n": 2,
+            "from": [
+              "BISC 120Lg",
+              "BISC 220Lg",
+              "BISC 121Lg",
+              "BISC 221Lg"
+            ]
+          }
+        ],
+        "scope": "must come from the same series (general or advanced general)"
+      },
+      "confidence": "medium",
+      "note": "Text implies pairing within a single series but does not enumerate this explicitly as separate rule."
+    },
+    {
+      "id": "BPS-BS-10",
+      "family": "Distribution Bounds",
+      "source_text": "Students must complete a minimum of 36 units of BPSI or RXRS course work, including one 4-unit lower-division RXRS course and a minimum of 32 units of upper-division (300 level and above) BPSI or RXRS course work.",
+      "description": "A minimum of 36 total BPSI/RXRS units is required, including one 4-unit lower-division RXRS course and at least 32 upper-division units.",
+      "details": {
+        "kind": "CATEGORY_BOUNDS",
+        "total": {
+          "op": "min",
+          "value": 36
+        },
+        "measure": "units",
+        "categories": [
+          {
+            "filter": "lower-division RXRS course",
+            "min": 4,
+            "max": 4
+          },
+          {
+            "filter": "upper-division (300+) BPSI or RXRS",
+            "min": 32
+          }
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BPS-BS-11",
+      "family": "Distribution Bounds",
+      "source_text": "A maximum of 4 units can be met by taking Directed Research (BPSI 490x ).",
+      "description": "At most 4 units toward the BPSI/RXRS requirement may come from Directed Research (BPSI 490x).",
+      "details": {
+        "kind": "CATEGORY_BOUNDS",
+        "filter": "BPSI 490x",
+        "measure": "units",
+        "bound": {
+          "op": "max",
+          "value": 4
+        }
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BPS-BS-12",
+      "family": "Course Selection",
+      "source_text": "Two courses\n\n- RXRS 200 Approaches to Pharmacology and Drug Development Units: 4\n- BPSI 402 Biopharmaceutics I Units: 4",
+      "description": "Students must complete RXRS 200 and BPSI 402.",
+      "details": {
+        "fixed": [
+          "RXRS 200",
+          "BPSI 402"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BPS-BS-13",
+      "family": "Course Selection",
+      "source_text": "Select one course\n\n- BPSI 407 Pharmaceutical and Health Economics Units: 4\n- BPSI 410 Biopharmaceutical Product Development and Brand Planning Units: 4\n- BPSI 411 Biopharmaceutical Marketing Analysis and Strategy Units: 4",
+      "description": "Students must select one course from the given list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 1
+        },
+        "measure": "courses",
+        "pool": [
+          "BPSI 407",
+          "BPSI 410",
+          "BPSI 411"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BPS-BS-14",
+      "family": "Course Selection",
+      "source_text": "Select a minimum of four courses\n\n- BPSI 403 Biopharmaceutics II Units: 4\n- BPSI 405 Organ Systems Physiology, Drug Delivery and Drug Action Units: 4\n- BPSI 406 Drug Safety Pharmacology and Toxicology Units: 4\n- BPSI 408 Biologics and Vaccines Units: 4\n- BPSI 412 Targeted and Precision Medicines Units: 4",
+      "description": "Students must select at least four courses from the given list.",
+      "details": {
+        "count": {
+          "op": "min",
+          "value": 4
+        },
+        "measure": "courses",
+        "pool": [
+          "BPSI 403",
+          "BPSI 405",
+          "BPSI 406",
+          "BPSI 408",
+          "BPSI 412"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "id": "BPS-BS-15",
+      "family": "Course Selection",
+      "source_text": "The remaining units may be selected from the following BPSI and RXRS courses, including, but not limited to:\n\n- BPSI 413 Rigor, Resources and Reproducibility Units: 2\n- BPSI 414 Pharmacoethics Units: 2\n- BPSI 415 Science Talk Units: 2\n- BPSI 490x Directed Research Units: 1, 2, 3, 4, 5, 6, 7, 8\n- RXRS 407 The Discovery, Development and Marketing of Medicines Units: 4\n- RXRS 413w Globalization of the Biomedical Industry Units: 4\n- RXRS 422 Regulation, Guidance and Control of Medical Products Units: 2\n- RXRS 424 From Poisons to Toxicology and Forensic Applications Units: 4\n- RXRS 430 Principles of Pharmacy Compounding and Calculations Units: 2\n- RXRS 431 Introduction to Patient Care and Clinical Therapeutics Units: 2",
+      "description": "Remaining units toward the BPSI/RXRS requirement may be filled from an open-ended pool of listed BPSI and RXRS courses.",
+      "details": {
+        "pool_rule": "BPSI and RXRS courses including but not limited to the listed set",
+        "pool": [
+          "BPSI 413",
+          "BPSI 414",
+          "BPSI 415",
+          "BPSI 490x",
+          "RXRS 407",
+          "RXRS 413w",
+          "RXRS 422",
+          "RXRS 424",
+          "RXRS 430",
+          "RXRS 431"
+        ]
+      },
+      "confidence": "medium",
+      "note": "Pool is explicitly open-ended ('including but not limited to')."
+    },
+    {
+      "id": "BPS-BS-16",
+      "family": "Course Selection",
+      "source_text": "Select two courses\n\n- BISC 300L Microbiology Units: 4\n- BISC 307L General Physiology Units: 4\n- BISC 320Lg Molecular Biology Units: 4\n- BISC 330L Biochemistry Units: 4",
+      "description": "Students must select two courses from the given BISC list.",
+      "details": {
+        "count": {
+          "op": "eq",
+          "value": 2
+        },
+        "measure": "courses",
+        "pool": [
+          "BISC 300L",
+          "BISC 307L",
+          "BISC 320Lg",
+          "BISC 330L"
+        ]
+      },
+      "confidence": "high",
+      "note": null
+    }
+  ],
+  "unclassified": [
+    {
+      "source_text": "The Bachelor of Science in Biopharmaceutical Sciences requires the completion of a minimum of 128 units",
+      "why": "This is an overall total-degree unit minimum with no filter or pool attribute, so it does not fit the filter-measure-bound pattern of any family."
+    },
+    {
+      "source_text": "Students interested in pursuing advanced degrees in pharmacy, medicine, chemistry or dentistry are encouraged to take organic chemistry and/or physics.",
+      "why": "This is an advisory recommendation ('encouraged'), not a binding requirement."
+    },
+    {
+      "source_text": "The undergraduate honors in Biopharmaceutical Sciences is awarded through successful completion of the senior capstone project.",
+      "why": "This describes an optional honors track, which is explicitly out of scope per the taxonomy."
+    }
+  ]
+}
