@@ -37,7 +37,7 @@ button:focus-visible,.btn:focus-visible,summary:focus-visible{outline:3px solid 
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .primary{background:var(--starlight);color:#141735;border-color:var(--starlight)}}
 
 /* top bar */
-.bar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:18px 0}
+.bar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:18px;padding-bottom:18px}
 .mark{display:flex;align-items:center;gap:10px;font:700 21px/1 var(--display);letter-spacing:-.01em;color:inherit;text-decoration:none}
 .bar small{color:var(--muted);font-size:13.5px;text-align:right}
 
@@ -59,22 +59,46 @@ button:focus-visible,.btn:focus-visible,summary:focus-visible{outline:3px solid 
 .how{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:24px;margin-top:36px;color:var(--muted);font-size:14.5px}
 .how b{display:block;color:var(--ink);font-weight:600;margin-bottom:2px}
 
-/* hero */
-.hero{background:radial-gradient(1200px 400px at 70% -10%, var(--night-2), var(--night));color:#EEF0FF;padding:28px 0 26px}
-.hero .top{display:flex;flex-wrap:wrap;justify-content:space-between;gap:18px;align-items:flex-end}
-.hero h1{font:700 clamp(28px,4.2vw,44px)/1.05 var(--display);letter-spacing:-.02em;margin:0}
-.hero .sub{color:#B9BEE3;margin-top:6px;font-size:15px}
-.verdict{font:500 15px/1.4 var(--body);color:#fff;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.14);border-radius:999px;padding:8px 14px}
-.sky{margin:18px -8px 4px;overflow-x:auto}
-.sky svg{display:block;width:100%;min-width:640px;height:auto}
-.sky text{font-family:var(--body)}
-.key{display:flex;gap:18px;flex-wrap:wrap;color:#B9BEE3;font-size:13px;margin-top:4px}
-.key span{display:inline-flex;align-items:center;gap:6px}
-.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:18px 28px;margin-top:22px;border-top:1px solid rgba(255,255,255,.14);padding-top:18px}
-.stats .v{font:700 30px/1 var(--display);color:#fff}
-.stats .l{color:#B9BEE3;font-size:14px;margin-top:6px}
-.meter{height:8px;border-radius:99px;background:rgba(255,255,255,.12);overflow:hidden;display:flex;margin-top:10px}
+/* report header */
+.hero{padding:28px 0 4px}
+.hero .top{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px 24px;align-items:flex-end;padding-bottom:18px;border-bottom:1px solid var(--line)}
+.eyebrow{font:600 12px/1 var(--body);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.hero h1{font:700 clamp(26px,3.6vw,38px)/1.1 var(--display);letter-spacing:-.02em;margin:0}
+.hero .sub{color:var(--muted);margin-top:6px;font-size:15px}
+.hero .prepared{color:var(--muted);font-size:13.5px;text-align:right}
+
+/* stat tiles */
+.tiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-top:20px}
+.tile{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.tile .l{font:600 12px/1.2 var(--body);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.tile .v{font:700 28px/1.1 var(--display);margin-top:8px}
+.tile .v small{font:500 15px var(--body);color:var(--muted)}
+.tile .s{color:var(--muted);font-size:13.5px;margin-top:6px}
+.tile.alert .v{color:var(--needs)}
+.meter{height:8px;border-radius:4px;background:var(--line);overflow:hidden;display:flex;margin-top:10px}
 .meter i{display:block;height:100%}
+.meter .d{background:var(--done)}
+.meter .p{background:var(--prog)}
+
+/* progress by area */
+.legend{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13.5px;color:var(--muted);margin:0 0 12px}
+.legend span,.reqs li{display:flex;align-items:baseline;gap:8px}
+.mk{flex:none;width:9px;height:9px;border-radius:2px;transform:translateY(-1px)}
+.mk.done{background:var(--done)}
+.mk.progress{background:var(--prog)}
+.mk.needs{border:1.5px solid var(--needs)}
+.areas{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px}
+.area-card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px}
+.area-card h3{font:600 16px/1.3 var(--body);margin:0;display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.area-card h3 span{font:500 13.5px var(--body);color:var(--muted);white-space:nowrap}
+.counts{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px;color:var(--muted);margin-top:8px}
+.counts b{font-weight:700}
+.counts .done b{color:var(--done)}
+.counts .progress b{color:var(--prog)}
+.counts .needs b{color:var(--needs)}
+.reqs{list-style:none;margin:14px 0 0;padding:12px 0 0;border-top:1px solid var(--line);display:grid;gap:7px;font-size:13.5px;line-height:1.35}
+.reqs li.done{color:var(--muted)}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 
 /* sections */
 main section{padding:34px 0 6px}
@@ -134,11 +158,16 @@ footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
   .stack td.group-h,.stack .more{margin-top:6px}.more summary{font:500 13.5px var(--body);padding:2px 0;color:var(--done)}.more summary::before{width:6px;height:6px}
 .term-h td{margin:-12px -14px;padding:10px 14px}
   .stack .pill{margin-top:4px}
-  .sky svg{min-width:0}
+  .tiles{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .tile .v{font-size:24px}
+  .hero .prepared{text-align:left}
 }
-@media (prefers-reduced-motion:no-preference){
-  .star-lit{animation:tw 3.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
-  @keyframes tw{0%,100%{opacity:1}50%{opacity:.72}}
+@media print{
+  :root{--paper:#fff;--surface:#fff}
+  body{background:#fff}
+  .bar,footer button,.more{display:none !important}
+  .tile,.area-card,.scroll{break-inside:avoid}
+  main section{padding-top:22px}
 }
 </style>
 </head>
@@ -219,44 +248,29 @@ async function handleFile(f){
   catch (e) { showErr(e.message || 'Could not read that PDF. Try saving the STARS page as a PDF again.'); }
   finally { drop.classList.remove('busy'); title.textContent = 'Upload your STARS report PDF'; sub.textContent = 'Drag it here or click to choose a file'; $('#file').value = ''; }
 }
-/* ---------- constellation ---------- */
-function sky(r){
-  const groups = ['University','Writing and language','General education','School and major'];
-  const narrow = window.innerWidth < 640, cols = narrow ? 2 : 4, rowH = narrow ? 230 : 250;
-  const W = narrow ? 480 : 960, H = rowH * Math.ceil(groups.length / cols), colW = W / cols;
-  let seed = 7; const rnd = () => (seed = (seed * 9301 + 49297) % 233280) / 233280;
-  let svg = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Requirement map: each star is one requirement; lit stars are complete">`;
-  for (let i = 0; i < 70; i++) svg += `<circle cx="${(rnd()*W).toFixed(1)}" cy="${(rnd()*H).toFixed(1)}" r="${(rnd()*.9+.3).toFixed(2)}" fill="#fff" opacity="${(rnd()*.35+.1).toFixed(2)}"/>`;
-  groups.forEach((g, gi) => {
-    const items = [];
-    r.blocks.filter(b => b.group === g && b.kind !== 'cap').forEach(b => {
-      if (b.subs.length) b.subs.forEach(s => items.push({ s: s.status, t: s.name })); else items.push({ s: b.status, t: b.name });
-    });
-    if (!items.length) return;
-    const cx = colW * (gi % cols) + colW / 2, oy = rowH * Math.floor(gi / cols), sc = narrow ? .78 : 1, pts = [];
-    const n = items.length;
-    items.forEach((it, i) => {
-      const a = (i / Math.max(1, n - 1)) * Math.PI * 1.25 - Math.PI * 1.1 + gi * .7;
-      const rad = 38 + (i % 3) * 16 + rnd() * 12;
-      pts.push({ x: cx + (Math.cos(a) * rad * 1.35 + (rnd() - .5) * 14) * sc, y: oy + 105 + (Math.sin(a) * rad * .95 + (rnd() - .5) * 10) * sc, ...it });
-    });
-    let d = ''; pts.forEach((p, i) => d += `${i ? 'L' : 'M'}${p.x.toFixed(1)} ${p.y.toFixed(1)} `);
-    svg += `<path d="${d}" fill="none" stroke="#fff" stroke-opacity=".22" stroke-width="1"/>`;
-    pts.forEach(p => {
-      const title = `<title>${esc(p.t)}: ${STATUS_TXT[p.s]}</title>`;
-      if (p.s === 'done') svg += `<g class="star-lit">${title}<circle cx="${p.x}" cy="${p.y}" r="9" fill="#F3C24F" opacity=".18"/><path d="${starPath(p.x, p.y, 6.5)}" fill="#F3C24F"/></g>`;
-      else if (p.s === 'progress') svg += `<g>${title}<circle cx="${p.x}" cy="${p.y}" r="5.4" fill="none" stroke="#F3C24F" stroke-width="1.6"/><path d="M${p.x} ${p.y-5.4} A5.4 5.4 0 0 0 ${p.x} ${p.y+5.4} Z" fill="#F3C24F"/></g>`;
-      else svg += `<g>${title}<circle cx="${p.x}" cy="${p.y}" r="5.2" fill="#141735" stroke="#8C93BF" stroke-width="1.5" stroke-dasharray="2.2 2"/></g>`;
-    });
-    const done = items.filter(i => i.s === 'done').length;
-    svg += `<text x="${cx}" y="${oy + rowH - 34}" text-anchor="middle" fill="#fff" font-size="15" font-weight="600">${esc(g)}</text>`;
-    svg += `<text x="${cx}" y="${oy + rowH - 14}" text-anchor="middle" fill="#B9BEE3" font-size="13">${done} of ${n} complete</text>`;
+/* ---------- progress by area ---------- */
+const AREAS = ['University','Writing and language','General education','School and major','Other'];
+function areaItems(r, g){
+  const items = [];
+  r.blocks.filter(b => b.group === g && b.kind !== 'cap').forEach(b => {
+    if (b.subs.length) b.subs.forEach(s => items.push({ s: s.status, t: s.name })); else items.push({ s: b.status, t: b.name });
   });
-  return svg + '</svg>';
+  return items;
 }
-function starPath(x, y, r){
-  const k = r * .32; return `M${x} ${y-r} L${x+k} ${y-k} L${x+r} ${y} L${x+k} ${y+k} L${x} ${y+r} L${x-k} ${y+k} L${x-r} ${y} L${x-k} ${y-k} Z`;
+function areaCards(r){
+  let h = '';
+  AREAS.forEach(g => {
+    const items = areaItems(r, g); if (!items.length) return;
+    const n = { done: 0, progress: 0, needs: 0 }; items.forEach(i => n[i.s]++);
+    const pct = k => (n[k] / items.length * 100).toFixed(1);
+    h += `<article class="area-card"><h3>${esc(g)}<span>${n.done} of ${items.length} complete</span></h3>
+      <div class="meter" role="img" aria-label="${n.done} complete, ${n.progress} in progress, ${n.needs} still needed"><i class="d" style="width:${pct('done')}%"></i><i class="p" style="width:${pct('progress')}%"></i></div>
+      <div class="counts"><span class="done"><b>${n.done}</b> complete</span><span class="progress"><b>${n.progress}</b> in progress</span><span class="needs"><b>${n.needs}</b> still needed</span></div>
+      <ul class="reqs">${items.map(i => `<li class="${i.s}"><i class="mk ${i.s}" aria-hidden="true"></i><span>${esc(i.t)}<span class="sr"> (${STATUS_TXT[i.s]})</span></span></li>`).join('')}</ul></article>`;
+  });
+  return h;
 }
+const MARKS = `<div class="legend" aria-hidden="true">${['done','progress','needs'].map(k => `<span><i class="mk ${k}"></i>${STATUS_TXT[k]}</span>`).join('')}</div>`;
 
 /* ---------- render ---------- */
 function blockSummary(b){
@@ -304,22 +318,27 @@ function render(r, redactedText){
   const earned = parseFloat(u.earned || 0), ip = parseFloat(u.inProcess || 0), need = parseFloat(u.needs || 0);
   const leftCount = r.left.length;
   const gradTerm = m.gradDate ? m.gradDate.replace(/^\d+\s+/, '').toLowerCase().replace(/^\w/, c => c.toUpperCase()).replace(/ (\d{4})$/, ' $1') : '';
+  const pctU = n => Math.min(100, n / total * 100).toFixed(1);
   let h = `<header class="hero"><div class="wrap">
     <div class="top"><div>
+      <p class="eyebrow">Degree progress summary</p>
       <h1>${esc(m.major || 'Your degree')}</h1>
       <div class="sub">${esc(m.degree || '')}${m.catalogYear ? `, catalog ${esc(StarsParser.termName(m.catalogYear))}` : ''}${m.classLevel ? `. ${esc(m.classLevel)}` : ''}${gradTerm ? `, expected to graduate ${esc(gradTerm)}` : ''}.</div>
     </div>
-    <div class="verdict">${r.overallIncomplete ? `${leftCount} ${leftCount === 1 ? 'item' : 'items'} left to plan` : 'All requirements satisfied'}${m.semestersLeft ? `, about ${esc(m.semestersLeft)} semesters out` : ''}</div></div>
-    <div class="sky">${sky(r)}</div>
-    <div class="key"><span><svg width="14" height="14" viewBox="0 0 14 14"><path d="${starPath(7,7,6)}" fill="#F3C24F"/></svg>Complete</span><span><svg width="14" height="14" viewBox="0 0 14 14"><circle cx="7" cy="7" r="5" fill="none" stroke="#F3C24F" stroke-width="1.5"/><path d="M7 2 A5 5 0 0 0 7 12 Z" fill="#F3C24F"/></svg>In progress</span><span><svg width="14" height="14" viewBox="0 0 14 14"><circle cx="7" cy="7" r="5" fill="none" stroke="#8C93BF" stroke-width="1.5" stroke-dasharray="2.2 2"/></svg>Still needed</span><span>Hover a star to see which requirement it is.</span></div>
-    <div class="stats">
-      <div><div class="v">${num(earned)} <span style="font-size:18px;color:#B9BEE3">of ${total} units</span></div>
-        <div class="meter" aria-hidden="true"><i style="width:${earned/total*100}%;background:#F3C24F"></i><i style="width:${ip/total*100}%;background:repeating-linear-gradient(45deg,#F3C24F 0 3px,transparent 3px 6px)"></i></div>
-        <div class="l">${num(ip)} in progress, ${num(need)} still needed</div></div>
-      <div><div class="v">${esc(r.gpa || 'n/a')}</div><div class="l">USC GPA${r.gpa ? '' : ' (not on this report)'}</div></div>
-      <div><div class="v">${esc(r.majorGpa || 'n/a')}</div><div class="l">Major upper-division GPA${r.majorGpa ? '' : ' (not on this report)'}</div></div>
+    ${m.prepared ? `<div class="prepared">STARS report prepared<br>${esc(m.prepared)}</div>` : ''}</div>
+    <div class="tiles">
+      <div class="tile"><div class="l">Units</div><div class="v">${num(earned)} <small>of ${total}</small></div>
+        <div class="meter" role="img" aria-label="${num(earned)} earned, ${num(ip)} in progress, of ${total}"><i class="d" style="width:${pctU(earned)}%"></i><i class="p" style="width:${pctU(ip)}%"></i></div>
+        <div class="s">${num(ip)} in progress, ${num(need)} still needed</div></div>
+      <div class="tile${r.overallIncomplete ? ' alert' : ''}"><div class="l">Left to plan</div><div class="v">${r.overallIncomplete ? leftCount : 0} <small>${(r.overallIncomplete ? leftCount : 0) === 1 ? 'item' : 'items'}</small></div>
+        <div class="s">${r.overallIncomplete ? (m.semestersLeft ? `About ${esc(m.semestersLeft)} semesters out` : 'See the list below') : 'All requirements satisfied'}</div></div>
+      <div class="tile"><div class="l">USC GPA</div><div class="v">${esc(r.gpa || 'n/a')}</div><div class="s">${r.gpa ? 'Overall, USC courses only' : 'Not on this report'}</div></div>
+      <div class="tile"><div class="l">Major GPA</div><div class="v">${esc(r.majorGpa || 'n/a')}</div><div class="s">${r.majorGpa ? 'Upper-division major courses' : 'Not on this report'}</div></div>
     </div>
   </div></header><main class="wrap">`;
+
+  // progress by area
+  h += `<section><h2>Progress by area</h2><p class="section-note">Each requirement on your report, grouped by area.</p>${MARKS}<div class="areas">${areaCards(r)}</div></section>`;
 
   // what's left
   h += `<section><h2>What's left</h2><p class="section-note">Everything STARS still marks as open, assuming your current courses pass.</p><div class="scroll"><table class="stack">

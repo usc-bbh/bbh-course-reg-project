@@ -93,7 +93,7 @@ The current test proves the parser handles a few reports. Before recommending Co
 1. **Read the PDF.** pdf.js (bundled, running in an in-memory worker) pulls text fragments, which are regrouped into lines by vertical position (`src/pdftext.js`).
 2. **Redact.** Name, student ID, and diploma address are removed first. Browser print headers and footers and anonymizer artifacts ("X.XXX", "Lp") are dropped.
 3. **Parse.** Sections are split on the `____` rules. Every status comes from STARS's own codes (OK, NO, IP on blocks; +, -, IP+, IP- on sub-requirements), never from guessing.
-4. **Render.** A star map (lit is complete, half is in progress, unlit is still needed), a units bar, a "what's left" table, the full checklist, course history, and the original text for cross-checking.
+4. **Render.** A summary dashboard (units, items left, GPA), progress by area with every requirement and its status, a "what's left" table, the full checklist, course history, and the original text for cross-checking. It prints cleanly to PDF.
 
 ## Tested on
 
