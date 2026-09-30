@@ -1,0 +1,182 @@
+{
+  "program": "Behavioral Economics and Psychology (BA)",
+  "status": "ok",
+  "root": {
+    "all_of": [
+      {
+        "all_of": [
+          {
+            "family": "specific_course",
+            "course": "ECON 203g"
+          },
+          {
+            "family": "specific_course",
+            "course": "ECON 303"
+          },
+          {
+            "family": "specific_course",
+            "course": "PSYC 100Lg"
+          }
+        ],
+        "id": "BEEP-BA-FOUNDATIONS",
+        "source_lines": [
+          [
+            29,
+            37
+          ]
+        ],
+        "source_quote": "I. Foundational Theory",
+        "description": "ECON 203, ECON 303 and PSYC 100L.",
+        "confidence": "high",
+        "note": null
+      },
+      {
+        "all_of": [
+          {
+            "family": "specific_course",
+            "course": "ECON 317"
+          },
+          {
+            "choose": 1,
+            "from": [
+              {
+                "family": "specific_course",
+                "course": "TAC 115"
+              },
+              {
+                "family": "specific_course",
+                "course": "TAC 116"
+              }
+            ]
+          },
+          {
+            "family": "specific_course",
+            "course": "MATH 125g"
+          },
+          {
+            "family": "specific_course",
+            "course": "PSYC 314L"
+          },
+          {
+            "family": "specific_course",
+            "course": "PSYC 316L"
+          }
+        ],
+        "id": "BEEP-BA-METHODS",
+        "source_lines": [
+          [
+            39,
+            50
+          ]
+        ],
+        "source_quote": "II. Techniques and Methods",
+        "description": "ECON 317, TAC 115 or 116, MATH 125, PSYC 314L and PSYC 316L.",
+        "confidence": "high",
+        "note": null
+      },
+      {
+        "family": "count",
+        "eligible_if": {
+          "courses": [
+            "ECON 318",
+            "ECON 404",
+            "ECON 405",
+            "ECON 415",
+            "ECON 420",
+            "ECON 432",
+            "ECON 620L",
+            "ECON 621L",
+            "PSYC 305",
+            "PSYC 326",
+            "PSYC 355",
+            "PSYC 422",
+            "PSYC 423",
+            "PSYC 434",
+            "PSYC 452",
+            "PSYC 459"
+          ]
+        },
+        "thresholds": [
+          {
+            "count_by": "courses",
+            "op": "min",
+            "value": 7
+          },
+          {
+            "count_by": "units",
+            "op": "min",
+            "value": 28
+          }
+        ],
+        "of_which": [
+          {
+            "source_lines": [
+              [
+                56,
+                56
+              ]
+            ],
+            "source_quote": "no more than four courses (16 units) from",
+            "eligible_if": {
+              "prefix": [
+                "ECON"
+              ]
+            },
+            "thresholds": [
+              {
+                "count_by": "courses",
+                "op": "max",
+                "value": 4
+              }
+            ]
+          },
+          {
+            "source_lines": [
+              [
+                56,
+                56
+              ]
+            ],
+            "source_quote": "no more than four courses (16 units) from",
+            "eligible_if": {
+              "prefix": [
+                "PSYC"
+              ]
+            },
+            "thresholds": [
+              {
+                "count_by": "courses",
+                "op": "max",
+                "value": 4
+              }
+            ]
+          }
+        ],
+        "id": "BEEP-BA-ELECTIVES",
+        "source_lines": [
+          [
+            52,
+            73
+          ]
+        ],
+        "source_quote": "III. Electives",
+        "description": "Seven electives from the list (28 units), of which at most four are ECON and at most four are PSYC.",
+        "confidence": "high",
+        "note": null
+      }
+    ]
+  },
+  "unclassified": [
+    {
+      "source_lines": [
+        [
+          27,
+          27
+        ]
+      ],
+      "source_quote": "Completion of the program requires a minimum of",
+      "reason": "university_level",
+      "why": "University-wide unit total; reused from STARS."
+    }
+  ]
+}

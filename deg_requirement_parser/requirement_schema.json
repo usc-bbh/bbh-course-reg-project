@@ -1,0 +1,965 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "requirement_schema.json",
+  "title": "Degree requirements for one program (v2: nodes, anchored by line numbers, of_which checks)",
+  "type": "object",
+  "required": [
+    "program",
+    "status",
+    "root",
+    "unclassified"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "program": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "ok",
+        "partial",
+        "failed"
+      ],
+      "description": "ok, unless any unclassified entry has reason no_fit (then partial); failed if the input had no usable requirements."
+    },
+    "root": {
+      "description": "The program root: an all_of whose items are anchored nodes. May carry program-wide of_which checks.",
+      "type": "object",
+      "required": [
+        "all_of"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "all_of": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/definitions/anchored_node"
+          }
+        },
+        "of_which": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/definitions/check"
+          }
+        }
+      }
+    },
+    "unclassified": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "source_lines",
+          "source_quote",
+          "reason",
+          "why"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "source_lines": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "array",
+              "minItems": 2,
+              "maxItems": 2,
+              "items": {
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "description": "Line ranges [first, last] (inclusive, 1-based) in the program's .txt file that this encodes. A node with source_lines is an ANCHORED node."
+          },
+          "source_quote": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 150,
+            "description": "The first few words of the cited text, copied exactly. Used to catch wrong line numbers."
+          },
+          "why": {
+            "type": "string"
+          },
+          "reason": {
+            "enum": [
+              "no_fit",
+              "out_of_scope",
+              "university_level",
+              "advisory"
+            ],
+            "description": "no_fit: the taxonomy has no place for it. out_of_scope: deliberately not encoded yet (grades, residency, P/NP, honors, graduate programs). university_level: university- or school-wide rule restated in the program page (GE, writing, 128 units); reused from STARS. advisory: a recommendation, not a requirement."
+          }
+        }
+      }
+    },
+    "meta": {
+      "type": "object"
+    }
+  },
+  "definitions": {
+    "id": {
+      "type": "string",
+      "pattern": "^[A-Z0-9]+(-[A-Z0-9]+)*$"
+    },
+    "course_code": {
+      "type": "string",
+      "pattern": "^[A-Z]{2,5} [0-9]{3}[A-Za-z]{0,3}$",
+      "description": "Provisional format; normalization TBD."
+    },
+    "node": {
+      "description": "A group (all_of, choose) or a leaf (an object with a family).",
+      "oneOf": [
+        {
+          "$ref": "#/definitions/all_of"
+        },
+        {
+          "$ref": "#/definitions/choose"
+        },
+        {
+          "$ref": "#/definitions/specific_course"
+        },
+        {
+          "$ref": "#/definitions/count"
+        },
+        {
+          "$ref": "#/definitions/course_reuse"
+        },
+        {
+          "$ref": "#/definitions/sequencing"
+        },
+        {
+          "$ref": "#/definitions/manual_review"
+        }
+      ]
+    },
+    "anchored_node": {
+      "allOf": [
+        {
+          "$ref": "#/definitions/node"
+        },
+        {
+          "required": [
+            "source_lines"
+          ]
+        }
+      ]
+    },
+    "all_of": {
+      "description": "Every item is required. Within the whole program, each course fills at most one slot.",
+      "type": "object",
+      "required": [
+        "all_of"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "all_of": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/definitions/node"
+          }
+        },
+        "id": {
+          "$ref": "#/definitions/id"
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1
+        },
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "of_which": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/definitions/check"
+          },
+          "description": "Conditions on the courses THIS node uses. Checks only; never claims courses."
+        },
+        "source_lines": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "description": "Line ranges [first, last] (inclusive, 1-based) in the program's .txt file that this encodes. A node with source_lines is an ANCHORED node."
+        },
+        "source_quote": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 150,
+          "description": "The first few words of the cited text, copied exactly. Used to catch wrong line numbers."
+        }
+      },
+      "dependencies": {
+        "source_lines": [
+          "source_quote",
+          "id",
+          "description",
+          "confidence"
+        ],
+        "source_quote": [
+          "source_lines"
+        ],
+        "id": [
+          "source_lines"
+        ],
+        "description": [
+          "source_lines"
+        ],
+        "confidence": [
+          "source_lines"
+        ]
+      }
+    },
+    "choose": {
+      "description": "At least `choose` of the items. Each item can be used once.",
+      "type": "object",
+      "required": [
+        "choose",
+        "from"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "choose": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "from": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/definitions/node"
+          }
+        },
+        "id": {
+          "$ref": "#/definitions/id"
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1
+        },
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "of_which": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/definitions/check"
+          },
+          "description": "Conditions on the courses THIS node uses. Checks only; never claims courses."
+        },
+        "source_lines": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "description": "Line ranges [first, last] (inclusive, 1-based) in the program's .txt file that this encodes. A node with source_lines is an ANCHORED node."
+        },
+        "source_quote": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 150,
+          "description": "The first few words of the cited text, copied exactly. Used to catch wrong line numbers."
+        }
+      },
+      "dependencies": {
+        "source_lines": [
+          "source_quote",
+          "id",
+          "description",
+          "confidence"
+        ],
+        "source_quote": [
+          "source_lines"
+        ],
+        "id": [
+          "source_lines"
+        ],
+        "description": [
+          "source_lines"
+        ],
+        "confidence": [
+          "source_lines"
+        ]
+      }
+    },
+    "specific_course": {
+      "description": "Take this one course.",
+      "type": "object",
+      "required": [
+        "family",
+        "course"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "family": {
+          "const": "specific_course"
+        },
+        "course": {
+          "$ref": "#/definitions/course_code"
+        },
+        "id": {
+          "$ref": "#/definitions/id"
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1
+        },
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_lines": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "description": "Line ranges [first, last] (inclusive, 1-based) in the program's .txt file that this encodes. A node with source_lines is an ANCHORED node."
+        },
+        "source_quote": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 150,
+          "description": "The first few words of the cited text, copied exactly. Used to catch wrong line numbers."
+        }
+      },
+      "dependencies": {
+        "source_lines": [
+          "source_quote",
+          "id",
+          "description",
+          "confidence"
+        ],
+        "source_quote": [
+          "source_lines"
+        ],
+        "id": [
+          "source_lines"
+        ],
+        "description": [
+          "source_lines"
+        ],
+        "confidence": [
+          "source_lines"
+        ]
+      }
+    },
+    "count": {
+      "description": "Take enough eligible courses to meet every threshold.",
+      "type": "object",
+      "required": [
+        "family",
+        "eligible_if",
+        "thresholds"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "family": {
+          "const": "count"
+        },
+        "eligible_if": {
+          "$ref": "#/definitions/condition"
+        },
+        "thresholds": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/definitions/threshold"
+          }
+        },
+        "id": {
+          "$ref": "#/definitions/id"
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1
+        },
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "of_which": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/definitions/check"
+          },
+          "description": "Conditions on the courses THIS node uses. Checks only; never claims courses."
+        },
+        "source_lines": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "description": "Line ranges [first, last] (inclusive, 1-based) in the program's .txt file that this encodes. A node with source_lines is an ANCHORED node."
+        },
+        "source_quote": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 150,
+          "description": "The first few words of the cited text, copied exactly. Used to catch wrong line numbers."
+        }
+      },
+      "dependencies": {
+        "source_lines": [
+          "source_quote",
+          "id",
+          "description",
+          "confidence"
+        ],
+        "source_quote": [
+          "source_lines"
+        ],
+        "id": [
+          "source_lines"
+        ],
+        "description": [
+          "source_lines"
+        ],
+        "confidence": [
+          "source_lines"
+        ]
+      }
+    },
+    "course_reuse": {
+      "description": "PHASE 1 placeholder.",
+      "type": "object",
+      "required": [
+        "family",
+        "kind",
+        "details"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "family": {
+          "const": "course_reuse"
+        },
+        "kind": {
+          "enum": [
+            "DOUBLE_COUNT",
+            "UNIQUENESS_FLOOR"
+          ]
+        },
+        "details": {
+          "type": "object"
+        },
+        "id": {
+          "$ref": "#/definitions/id"
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1
+        },
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_lines": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "description": "Line ranges [first, last] (inclusive, 1-based) in the program's .txt file that this encodes. A node with source_lines is an ANCHORED node."
+        },
+        "source_quote": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 150,
+          "description": "The first few words of the cited text, copied exactly. Used to catch wrong line numbers."
+        }
+      },
+      "dependencies": {
+        "source_lines": [
+          "source_quote",
+          "id",
+          "description",
+          "confidence"
+        ],
+        "source_quote": [
+          "source_lines"
+        ],
+        "id": [
+          "source_lines"
+        ],
+        "description": [
+          "source_lines"
+        ],
+        "confidence": [
+          "source_lines"
+        ]
+      }
+    },
+    "sequencing": {
+      "description": "PHASE 1 placeholder.",
+      "type": "object",
+      "required": [
+        "family",
+        "kind",
+        "details"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "family": {
+          "const": "sequencing"
+        },
+        "kind": {
+          "enum": [
+            "PREREQUISITE",
+            "BEFORE_MILESTONE",
+            "UNIT_WINDOW"
+          ]
+        },
+        "details": {
+          "type": "object"
+        },
+        "id": {
+          "$ref": "#/definitions/id"
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1
+        },
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_lines": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "description": "Line ranges [first, last] (inclusive, 1-based) in the program's .txt file that this encodes. A node with source_lines is an ANCHORED node."
+        },
+        "source_quote": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 150,
+          "description": "The first few words of the cited text, copied exactly. Used to catch wrong line numbers."
+        }
+      },
+      "dependencies": {
+        "source_lines": [
+          "source_quote",
+          "id",
+          "description",
+          "confidence"
+        ],
+        "source_quote": [
+          "source_lines"
+        ],
+        "id": [
+          "source_lines"
+        ],
+        "description": [
+          "source_lines"
+        ],
+        "confidence": [
+          "source_lines"
+        ]
+      }
+    },
+    "manual_review": {
+      "description": "PHASE 1 placeholder.",
+      "type": "object",
+      "required": [
+        "family",
+        "kind",
+        "details"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "family": {
+          "const": "manual_review"
+        },
+        "kind": {
+          "enum": [
+            "GATE",
+            "PROGRAM_RULE",
+            "DISCRETIONARY",
+            "NO_POOL",
+            "PROCEDURAL",
+            "HOURS"
+          ]
+        },
+        "details": {
+          "type": "object"
+        },
+        "id": {
+          "$ref": "#/definitions/id"
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1
+        },
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_lines": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "description": "Line ranges [first, last] (inclusive, 1-based) in the program's .txt file that this encodes. A node with source_lines is an ANCHORED node."
+        },
+        "source_quote": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 150,
+          "description": "The first few words of the cited text, copied exactly. Used to catch wrong line numbers."
+        }
+      },
+      "dependencies": {
+        "source_lines": [
+          "source_quote",
+          "id",
+          "description",
+          "confidence"
+        ],
+        "source_quote": [
+          "source_lines"
+        ],
+        "id": [
+          "source_lines"
+        ],
+        "description": [
+          "source_lines"
+        ],
+        "confidence": [
+          "source_lines"
+        ]
+      }
+    },
+    "threshold": {
+      "type": "object",
+      "required": [
+        "count_by",
+        "op",
+        "value"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "count_by": {
+          "enum": [
+            "courses",
+            "units",
+            "departments"
+          ]
+        },
+        "op": {
+          "enum": [
+            "min",
+            "max",
+            "eq"
+          ]
+        },
+        "value": {
+          "type": "number",
+          "minimum": 0
+        }
+      }
+    },
+    "check": {
+      "description": "One of_which condition: of the courses the parent node uses, those passing eligible_if (all of them if omitted) must meet every threshold.",
+      "type": "object",
+      "required": [
+        "source_lines",
+        "source_quote",
+        "thresholds"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "eligible_if": {
+          "$ref": "#/definitions/condition"
+        },
+        "thresholds": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/definitions/threshold"
+          }
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_lines": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "description": "Line ranges [first, last] (inclusive, 1-based) in the program's .txt file that this encodes. A node with source_lines is an ANCHORED node."
+        },
+        "source_quote": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 150,
+          "description": "The first few words of the cited text, copied exactly. Used to catch wrong line numbers."
+        }
+      }
+    },
+    "condition": {
+      "oneOf": [
+        {
+          "type": "object",
+          "required": [
+            "courses"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "courses": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "$ref": "#/definitions/course_code"
+              }
+            }
+          }
+        },
+        {
+          "type": "object",
+          "required": [
+            "prefix"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "prefix": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "string",
+                "pattern": "^[A-Z]{2,5}$"
+              }
+            }
+          }
+        },
+        {
+          "type": "object",
+          "minProperties": 1,
+          "additionalProperties": false,
+          "properties": {
+            "level_min": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 999
+            },
+            "level_max": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 999
+            }
+          }
+        },
+        {
+          "type": "object",
+          "required": [
+            "school"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "school": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        {
+          "type": "object",
+          "required": [
+            "ge_category"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "ge_category": {
+              "type": "string",
+              "pattern": "^GE-[A-H]$"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "required": [
+            "unresolved"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "unresolved": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        {
+          "type": "object",
+          "required": [
+            "all"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "all": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "$ref": "#/definitions/condition"
+              }
+            }
+          }
+        },
+        {
+          "type": "object",
+          "required": [
+            "any"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "any": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "$ref": "#/definitions/condition"
+              }
+            }
+          }
+        },
+        {
+          "type": "object",
+          "required": [
+            "not"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "not": {
+              "$ref": "#/definitions/condition"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

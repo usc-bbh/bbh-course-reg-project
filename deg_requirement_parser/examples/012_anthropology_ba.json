@@ -1,0 +1,188 @@
+{
+  "program": "Anthropology (Visual Anthropology) (BA)",
+  "status": "ok",
+  "root": {
+    "all_of": [
+      {
+        "family": "specific_course",
+        "course": "ANTH 263g",
+        "id": "ANTH-VIS-LD",
+        "source_lines": [
+          [
+            23,
+            27
+          ]
+        ],
+        "source_quote": "Required Courses, Lower-Division (4 units)",
+        "description": "ANTH 263.",
+        "confidence": "high",
+        "note": null
+      },
+      {
+        "all_of": [
+          {
+            "family": "specific_course",
+            "course": "ANTH 410"
+          },
+          {
+            "family": "specific_course",
+            "course": "ANTH 440"
+          }
+        ],
+        "id": "ANTH-VIS-UD",
+        "source_lines": [
+          [
+            29,
+            34
+          ]
+        ],
+        "source_quote": "Required Courses, Upper-Division (8 units)",
+        "description": "ANTH 410 and ANTH 440.",
+        "confidence": "high",
+        "note": null
+      },
+      {
+        "family": "count",
+        "eligible_if": {
+          "courses": [
+            "ANTH 470",
+            "ANTH 472",
+            "ANTH 476",
+            "ANTH 575"
+          ]
+        },
+        "thresholds": [
+          {
+            "count_by": "courses",
+            "op": "min",
+            "value": 2
+          },
+          {
+            "count_by": "units",
+            "op": "min",
+            "value": 8
+          }
+        ],
+        "id": "ANTH-VIS-VISUAL",
+        "source_lines": [
+          [
+            36,
+            51
+          ]
+        ],
+        "source_quote": "Visual Anthropology Courses (8 units)",
+        "description": "Two of ANTH 470, 472, 476, 575 (8 units).",
+        "confidence": "high",
+        "note": "ANTH 470 may alternatively count toward the capstone, but not both (the catalogue's note restates the no-double-counting default)."
+      },
+      {
+        "family": "count",
+        "eligible_if": {
+          "any": [
+            {
+              "prefix": [
+                "ANTH"
+              ]
+            },
+            {
+              "courses": [
+                "AMST 395m",
+                "ANTH 203g",
+                "ANTH 275",
+                "ANTH 309Lg",
+                "ANTH 312",
+                "ANTH 316gmp",
+                "ANTH 321",
+                "ANTH 332g",
+                "ANTH 340",
+                "ANTH 344g",
+                "ANTH 372",
+                "ANTH 445"
+              ]
+            }
+          ]
+        },
+        "thresholds": [
+          {
+            "count_by": "courses",
+            "op": "min",
+            "value": 1
+          },
+          {
+            "count_by": "units",
+            "op": "min",
+            "value": 4
+          }
+        ],
+        "id": "ANTH-VIS-ELECTIVE",
+        "source_lines": [
+          [
+            53,
+            72
+          ]
+        ],
+        "source_quote": "Anthropology Elective (4 units)",
+        "description": "One more ANTH elective (4 units); the list is recommended, not exhaustive.",
+        "confidence": "medium",
+        "note": "The recommended list includes AMST 395m, so non-ANTH courses may qualify; treated the list as eligible alongside any ANTH course."
+      },
+      {
+        "all_of": [
+          {
+            "choose": 1,
+            "from": [
+              {
+                "family": "specific_course",
+                "course": "ANTH 411"
+              },
+              {
+                "family": "specific_course",
+                "course": "ANTH 470"
+              }
+            ]
+          },
+          {
+            "family": "manual_review",
+            "kind": "GATE",
+            "details": {
+              "stage": "EMPHASIS_ENTRY",
+              "basis": "QUALITATIVE_REVIEW",
+              "process": "capstone proposal approved by the department"
+            }
+          }
+        ],
+        "id": "ANTH-VIS-CAPSTONE",
+        "source_lines": [
+          [
+            74,
+            84
+          ]
+        ],
+        "source_quote": "Senior Capstone (4 units)",
+        "description": "ANTH 411 or ANTH 470, after a departmentally approved proposal.",
+        "confidence": "high",
+        "note": null
+      },
+      {
+        "family": "sequencing",
+        "kind": "PREREQUISITE",
+        "details": {
+          "before": "departmental approval, or A- or higher in ANTH 410 or ANTH 440",
+          "after": "ANTH 575"
+        },
+        "id": "ANTH-VIS-575-PREREQ",
+        "source_lines": [
+          [
+            47,
+            51
+          ]
+        ],
+        "source_quote": "Note:",
+        "description": "ANTH 575 needs department approval or an A- in ANTH 410 or 440.",
+        "confidence": "low",
+        "note": "A per-course prerequisite, arguably course data rather than a degree requirement."
+      }
+    ]
+  },
+  "unclassified": []
+}
