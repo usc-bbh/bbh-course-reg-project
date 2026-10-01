@@ -1,6 +1,6 @@
 // Tests for rebuilding PDF text fragments into lines.
 //
-// Run with:  node --test stars-parser/test/
+// Run with:  node --test stars-parser/test/*.test.js
 //
 // These import the real rebuildLines and the real parseStarsFields rather
 // than holding their own copies, so a regression in either module fails the
@@ -15,7 +15,7 @@ import test from "node:test";
 import assert from "node:assert";
 
 import { rebuildLines } from "../lineRebuilder.js";
-import { parseStarsFields } from "../fieldParser.js";
+import { parseStarsFields, StarsParseError } from "../fieldParser.js";
 
 // Helper: a pdf.js-shaped text fragment.
 const frag = (str, x, y) => ({ str, transform: [1, 0, 0, 1, x, y] });
@@ -81,25 +81,34 @@ test("produces one line per visual row, not one line per page", () => {
   assert.strictEqual(flattenAsBefore(PAGE_FRAGMENTS).split("\n").length, 1);
 });
 
+// A miniature but complete report: same page as above, plus the landmarks
+// parseStarsFields now requires before it will trust anything (§10) — a
+// PREPARED:/PROGRAM: anchor, a "BACHELOR OF ..." line for major, and a
+// "128 UNITS" line so chunkReport labels this block as the master course
+// list. Kept separate from PAGE_FRAGMENTS so the geometry-only tests above
+// don't have to know about parser-level landmarks.
+const FULL_REPORT_FRAGMENTS = [
+  frag("PREPARED: 02/10/26", 40, 900),
+  frag("BACHELOR OF SCIENCE - MARKETING PROGRAM", 40, 850),
+  frag("A MINIMUM OF 128 UNITS IS REQUIRED FOR DEGREE COMPLETION", 40, 800),
+  ...PAGE_FRAGMENTS,
+];
+
 test("fields the old extraction lost are recovered downstream", () => {
-  const rebuilt = parseStarsFields(rebuildLines(PAGE_FRAGMENTS));
-  const flattened = parseStarsFields(flattenAsBefore(PAGE_FRAGMENTS));
+  const rebuilt = parseStarsFields(rebuildLines(FULL_REPORT_FRAGMENTS));
 
   // GPA — the bug Agastya reported. "3." + "42" became "3. 42".
   assert.strictEqual(rebuilt.gpa, 3.42);
-  assert.strictEqual(flattened.gpa, null);
 
   // Catalog year — broken by intra-token spaces, not by line structure:
   // \d{5} cannot match "2024 3".
   assert.strictEqual(rebuilt.catalogYear, "2024-25");
-  assert.strictEqual(flattened.catalogYear, null);
 
   assert.strictEqual(rebuilt.classLevel, "Junior");
 
   // Course rows — the row pattern is anchored at a line start, so with the
   // whole page collapsed onto one line the old path found none at all.
   assert.strictEqual(rebuilt.completedCourses.length, 1);
-  assert.strictEqual(flattened.completedCourses.length, 0);
 
   assert.deepStrictEqual(rebuilt.completedCourses[0], {
     term: "20243",
@@ -107,7 +116,18 @@ test("fields the old extraction lost are recovered downstream", () => {
     title: "Organizational Behavior",
     units: 4,
     grade: "B-",
+    source: "usc",
   });
+
+  // Flattening still breaks GPA the same way (intra-token space defeats
+  // \d+\.\d+), but parseStarsFields no longer returns that silently as
+  // `gpa: null` alongside an otherwise plausible-looking object (§10's
+  // "returns nothing is safer than a plausible-looking subset") — it
+  // throws, naming what's missing.
+  assert.throws(
+    () => parseStarsFields(flattenAsBefore(FULL_REPORT_FRAGMENTS)),
+    StarsParseError
+  );
 });
 
 test("handles an empty page without throwing", () => {
