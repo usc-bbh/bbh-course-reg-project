@@ -2,6 +2,12 @@
 
 _Response to `FEEDBACK_phase1.md`, covering T1, T3–T8 and T11–T13. Written 2026-10-13._
 
+> [!NOTE]
+> **How this was made.** Most of this work (the rewrite map, the checks, the solver proof of concept,
+> the golden students and the tests) was drafted with Claude (Claude Code). I directed it and made the
+> calls, but I haven't finished my own line-by-line review of the larger pieces yet. Please read it
+> as a draft until I confirm I've reviewed it.
+
 **Where things stand.** I've mapped every example in the current `constraint_taxonomy.md` to its
 new encoding (below), drafted the outline for the rewrite, and built a check that runs on every
 edit. I'll do the rewrite itself next. Questions and decisions are in
@@ -15,7 +21,7 @@ python check_taxonomy.py --dir examples  # your five programs
 python -m unittest test_taxonomy         # tests for the check and for is_eligible
 ```
 
-Every JSON example in the taxonomy is checked in four ways:
+Every JSON example in the taxonomy is checked in five ways:
 
 1. **The schema.** It must validate against `requirement_schema.json`. The block's kind (node,
    `of_which` check, `unclassified` entry or whole program) is worked out from its shape, so the
@@ -26,6 +32,8 @@ Every JSON example in the taxonomy is checked in four ways:
    above it (T5).
 4. **Code can evaluate it.** Every `eligible_if` must run through `is_eligible` (T2, in
    `eligibility.py`) and return True, False or `"unknown"`.
+5. **The solver can still use it.** Every example must still convert into solver constraints
+   (`bip.py`, below). Phase 1 placeholder families are warnings until Phase 2.
 
 **Baseline today: 0 of 31 taxonomy examples pass. Target: all pass.** Your five `examples/` pass,
 and the tests include deliberately broken cases (`"treshold"`, a free-text `eligible_if`, a bad
@@ -33,9 +41,23 @@ course code three levels down) that fail with a readable path. Placeholder leave
 `sequencing`, `manual_review`) are only warned about for old keys inside their `details`, since
 section 2.3 says not to polish them yet.
 
-## Golden cases: checking meaning, not just shape (proof of concept)
+## Golden cases: a safety net for taxonomy changes (proof of concept)
 
-The schema check can't tell `min 3` from `min 4`. So `bip.py` turns a program's JSON into a binary
+**Why I built this.** The taxonomy is going to change many times: this rewrite, Phase 2, and every
+fix after a review. Each time, I want an automatic check that I haven't broken something else, and
+that every requirement still converts into something the BIP solver can use, with nothing dropped
+along the way. That's the point of this. The solver work is the means, not the goal.
+
+It protects at two levels:
+
+- **The taxonomy itself.** `check_taxonomy.py` (check 5 above) confirms every example still
+  converts, on every edit.
+- **What the taxonomy produces.** After a classifier run, `check_bip.py --program-dir <run>`
+  confirms the model's output still converts and still gives the right answers for the same
+  hand-made students. So a taxonomy change that confuses the model shows up as a wrong verdict, not
+  as a silent gap.
+
+**How it works.** A schema check can't tell `min 3` from `min 4`. So `bip.py` turns a program's JSON into a binary
 integer program (PuLP): a yes/no variable for each course in each slot, plus constraints for the
 thresholds, `all_of` / `choose`, the one-slot rule and `of_which`. It then does two things:
 

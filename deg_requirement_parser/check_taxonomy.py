@@ -17,6 +17,10 @@ taxonomy. For each ```json block it checks:
      scope, fixed, source_text, the old family names, "..." placeholders)
   4. every "op": "eq" has "exactly" in the catalogue quote above it
   5. every eligible_if can be evaluated by eligibility.is_eligible
+  6. every node still converts to BIP constraints (bip.audit). If the schema
+     or the taxonomy gains something the solver can't use, this fails rather
+     than letting the requirement drop out silently. Phase 1 placeholder
+     families are warnings until Phase 2 defines them.
 
 Usage
     python check_taxonomy.py                       # constraint_taxonomy.md
@@ -39,6 +43,7 @@ from pathlib import Path
 from jsonschema import Draft7Validator
 from jsonschema.exceptions import best_match
 
+import bip
 from eligibility import UNKNOWN, is_eligible
 
 HERE = Path(__file__).resolve().parent
@@ -194,6 +199,16 @@ def check_evaluable(obj, res: Result) -> None:
                 break
 
 
+def check_converts(program: dict, res: Result) -> None:
+    for item in bip.audit(program):
+        if item.status != "LOST":
+            continue
+        if item.what.split()[0] in bip.PLACEHOLDER_FAMILIES:
+            res.warnings.append(f"{item.path}: placeholder, not converted to the solver yet")
+        else:
+            res.errors.append(f"{item.path}: not converted to the solver ({item.detail})")
+
+
 def check_object(obj, vals: dict[str, Draft7Validator], label: str,
                  quote: str | None = None, expect: str | None = None) -> Result:
     """Runs every check on one parsed example. Reusable from check_results.py."""
@@ -210,6 +225,8 @@ def check_object(obj, vals: dict[str, Draft7Validator], label: str,
         res.errors += schema_messages(err, defs)
     lint(obj, quote, res)
     check_evaluable(obj, res)
+    if not res.errors and kind in ("node", "program"):
+        check_converts(obj if kind == "program" else {"root": obj}, res)
     return res
 
 

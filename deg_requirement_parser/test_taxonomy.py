@@ -19,6 +19,7 @@ from check_taxonomy import (
     load_schema,
     validators,
 )
+import bip
 from eligibility import UNKNOWN, is_eligible, parse_course
 
 CS_CORE_ELECTIVES = {"all": [{"prefix": ["CSCI"]}, {"level_min": 300, "level_max": 499}]}
@@ -179,6 +180,23 @@ class CheckTaxonomyTest(unittest.TestCase):
 
     def test_placeholder_fails(self):
         self.assertTrue(self.errors({"all_of": [{"family": "specific_course", "course": "MATH 125"}, "..."]}))
+
+    def test_example_the_solver_cant_use_fails(self):
+        # Simulate the converter falling behind the schema: it stops reading of_which.
+        original = bip.READS["count"]
+        bip.READS["count"] = original - {"of_which"}
+        try:
+            errs = self.errors(ECON_ELECTIVES)
+        finally:
+            bip.READS["count"] = original
+        self.assertTrue(any("not converted to the solver" in e and "of_which" in e for e in errs), errs)
+
+    def test_placeholder_is_only_a_warning(self):
+        leaf = {"family": "sequencing", "kind": "PREREQUISITE",
+                "details": {"before": ["FBE 391"], "after": ["FBE 441"]}}
+        res = check_object(leaf, self.vals, "test")
+        self.assertEqual(res.errors, [])
+        self.assertTrue(any("placeholder" in w for w in res.warnings))
 
     def test_bad_course_code_inside_group_fails(self):
         nested = {"all_of": [{"choose": 1, "from": [{"family": "specific_course", "course": "math 126"}]}]}
