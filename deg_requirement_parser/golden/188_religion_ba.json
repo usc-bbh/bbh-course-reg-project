@@ -1,0 +1,28 @@
+{
+  "program": "188_religion_ba",
+  "default_units": 4,
+  "cases": [
+    {
+      "student": "Mostly upper-division",
+      "courses": ["REL 301", "REL 401",
+                  "REL 111g", "REL 112g", "CLAS 323", "REL 330", "REL 415", "JS 321"],
+      "expect": "pass",
+      "why": "Core plus six from the list: 32 units, of which 24 are upper-division (root of_which checks)."
+    },
+    {
+      "student": "Mostly lower-division",
+      "courses": ["REL 301", "REL 401",
+                  "REL 111g", "REL 112g", "REL 114g", "REL 115g", "REL 116g", "REL 121g"],
+      "expect": "fail",
+      "why": "Eight courses and 32 units, but only 8 upper-division units against the required 24. Only the root check catches this."
+    },
+    {
+      "student": "Five electives",
+      "courses": ["REL 301", "REL 401",
+                  "CLAS 323", "REL 330", "REL 415", "JS 321", "REL 340"],
+      "expect": "fail",
+      "unmet": ["REL-BA-ADDITIONAL"],
+      "why": "Six courses are required from the list; five isn't enough, however upper-division."
+    }
+  ]
+}

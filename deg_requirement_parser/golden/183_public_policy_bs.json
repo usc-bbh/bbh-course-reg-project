@@ -1,0 +1,53 @@
+{
+  "program": "183_public_policy_bs",
+  "default_units": 4,
+  "cases": [
+    {
+      "student": "Maria, Health track (FEEDBACK_phase1.md, Example 1)",
+      "courses": ["MATH 117g", "PPD 203",
+                  "PPD 225", "PPD 240g", "PPD 300", "PPD 301", "PPD 303", "PPD 315", "PPD 373", "PPD 431",
+                  "PPD 325", "PPD 330", "PPD 357", "PPD 413", "PPD 415", "GERO 416", "PPD 403",
+                  "PPD 342"],
+      "expect": "pass",
+      "why": "One complete track is enough (choose 1); the other four tracks are never demanded. PPD 342 is the cross-cutting course."
+    },
+    {
+      "student": "Capstone by PPD 497a + 497b",
+      "courses": ["MATH 117g", "PPD 203",
+                  "PPD 225", "PPD 240g", "PPD 300", "PPD 301", "PPD 303", "PPD 315", "PPD 373",
+                  "PPD 497a", "PPD 497b",
+                  "PPD 325", "PPD 330", "PPD 357", "PPD 413", "PPD 415", "GERO 416", "PPD 403",
+                  "PPD 342"],
+      "expect": "pass",
+      "why": "PPD 431 or the PPD 497a + 497b pair (the honours GPA gate is a placeholder, treated as met)."
+    },
+    {
+      "student": "Dana, 2-unit electives (FEEDBACK_phase1.md 2.2)",
+      "courses": ["MATH 117g", "PPD 203",
+                  "PPD 225", "PPD 240g", "PPD 300", "PPD 301", "PPD 303", "PPD 315", "PPD 373", "PPD 431",
+                  "PPD 325", "PPD 330", "PPD 357", "PPD 413", "PPD 415", ["MEDS 220", 2], ["MEDS 405", 2],
+                  "PPD 342"],
+      "expect": "fail",
+      "unmet": ["PP-BS-TRACKS"],
+      "why": "Two Health electives, but only 4 units against the 8 required (and the track is short of 28 units)."
+    },
+    {
+      "student": "Cross-cutting course double-counted",
+      "courses": ["MATH 117g", "PPD 203",
+                  "PPD 225", "PPD 240g", "PPD 300", "PPD 301", "PPD 303", "PPD 315", "PPD 373", "PPD 431",
+                  "PPD 325", "PPD 330", "PPD 357", "PPD 413", "PPD 415", "GERO 416", "PPD 403"],
+      "expect": "fail",
+      "unmet": [],
+      "why": "The only cross-cutting courses taken (PPD 325, PPD 357) already fill Health track slots. Each part passes alone; together they don't (one-slot rule)."
+    },
+    {
+      "student": "Urban track, adviser-selected courses",
+      "courses": ["MATH 117g", "PPD 203",
+                  "PPD 225", "PPD 240g", "PPD 300", "PPD 301", "PPD 303", "PPD 315", "PPD 373", "PPD 431",
+                  "PPD 245g", "PPD 344", "PPD 361", "SOCI 350", "GEOG 381", "PPD 360", "PPD 420",
+                  "PPD 342"],
+      "expect": "unknown",
+      "why": "The two 'selected in consultation with adviser' courses are unresolved: SOCI 350 and GEOG 381 might count, so the answer is 'check with your adviser'."
+    }
+  ]
+}

@@ -33,6 +33,37 @@ course code three levels down) that fail with a readable path. Placeholder leave
 `sequencing`, `manual_review`) are only warned about for old keys inside their `details`, since
 section 2.3 says not to polish them yet.
 
+## Golden cases: checking meaning, not just shape (proof of concept)
+
+The schema check can't tell `min 3` from `min 4`. So `bip.py` turns a program's JSON into a binary
+integer program (PuLP): a yes/no variable for each course in each slot, plus constraints for the
+thresholds, `all_of` / `choose`, the one-slot rule and `of_which`. It then does two things:
+
+- **Audit.** Every requirement in the JSON is listed as converted, "needs data" (`unresolved`,
+  `school`) or LOST (placeholder families, or a key the converter doesn't read), so no
+  constraint is dropped silently. Economics and Religion convert completely. Public Policy loses
+  only its two `manual_review` placeholders, and its three `unresolved` pools are marked "needs data".
+- **Golden students.** Hand-made students with known answers (`golden/`), including Maria, Priya
+  and Dana from your doc, are solved against the JSON. With your examples, 15 of 15 come out right.
+
+To make sure the cases have teeth, the tests break your JSON on purpose (four electives becomes three,
+the 400+ check is dropped, `choose 1` track becomes `choose 2`, Religion's root checks are dropped),
+and each break must flip at least one verdict. Two findings from doing this:
+
+1. Under slot assignment, `eq` and `min` give the same verdict, because the solver can always leave an
+   extra course unused (your free-elective point). The `eq` rule still matters for any checker that
+   counts every eligible course, so `check_taxonomy.py` keeps enforcing it.
+2. The Health track's 8-unit elective threshold is implied by the 28-unit track check (20 units of
+   required courses + 8), so no student can tell them apart. That's redundant, not wrong.
+
+```bash
+python check_bip.py                        # your examples
+python check_bip.py --program-dir out_v2   # the model's output after T15, same students
+```
+
+Cases exist for Economics, Public Policy and Religion so far. Anthropology and Behavioral Economics
+are next.
+
 ## Rewrite map: every current example, and what it becomes
 
 | Current section and example | New encoding | Task |

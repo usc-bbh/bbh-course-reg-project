@@ -1,0 +1,60 @@
+{
+  "program": "102_economics_ba",
+  "default_units": 4,
+  "cases": [
+    {
+      "student": "Complete major",
+      "courses": ["ECON 203", "ECON 205", "ECON 303", "ECON 305", "ECON 317", "ECON 318",
+                  "ECON 350", "ECON 351", "ECON 450", "ECON 451", "MATH 125", "TAC 101"],
+      "expect": "pass",
+      "why": "Six core courses, four 300+ ECON electives with two at 400+, math, computing."
+    },
+    {
+      "student": "Five electives",
+      "courses": ["ECON 203", "ECON 205", "ECON 303", "ECON 305", "ECON 317", "ECON 318",
+                  "ECON 350", "ECON 351", "ECON 352", "ECON 450", "ECON 451", "MATH 125", "TAC 101"],
+      "expect": "pass",
+      "why": "'Four electives' means at least four (min, not eq). An extra one doesn't hurt."
+    },
+    {
+      "student": "MATH 118gx and CSCI 101L route",
+      "courses": ["ECON 203", "ECON 205", "ECON 303", "ECON 305", "ECON 317", "ECON 318",
+                  "ECON 350", "ECON 351", "ECON 450", "ECON 451", "MATH 118gx", "CSCI 101L"],
+      "expect": "pass",
+      "why": "MATH 118gx or MATH 125; TAC 101 or CSCI 101L."
+    },
+    {
+      "student": "Priya (FEEDBACK_phase1.md, Example 3)",
+      "courses": ["ECON 203", "ECON 205", "ECON 303", "ECON 305", "ECON 317", "ECON 318",
+                  "ECON 350", "ECON 351", "ECON 352", "ECON 357", "MATH 407", "CSCI 401",
+                  "MATH 125", "TAC 101"],
+      "expect": "fail",
+      "unmet": ["ECON-BA-MAJOR"],
+      "why": "Four 300-level ECON electives, none at 400+. MATH 407 and CSCI 401 are 400-level but not ECON."
+    },
+    {
+      "student": "Core courses counted twice",
+      "courses": ["ECON 203", "ECON 205", "ECON 303", "ECON 305", "ECON 317", "ECON 318",
+                  "ECON 451", "ECON 452", "MATH 125", "TAC 101"],
+      "expect": "fail",
+      "unmet": ["ECON-BA-MAJOR"],
+      "why": "Only two electives. ECON 303/305/317/318 are 300-level ECON but already fill core slots (one-slot rule)."
+    },
+    {
+      "student": "Three electives",
+      "courses": ["ECON 203", "ECON 205", "ECON 303", "ECON 305", "ECON 317", "ECON 318",
+                  "ECON 350", "ECON 450", "ECON 451", "MATH 125", "TAC 101"],
+      "expect": "fail",
+      "unmet": ["ECON-BA-MAJOR"],
+      "why": "Two are at 400+, but there are only three electives against the required four."
+    },
+    {
+      "student": "Missing computing",
+      "courses": ["ECON 203", "ECON 205", "ECON 303", "ECON 305", "ECON 317", "ECON 318",
+                  "ECON 350", "ECON 351", "ECON 450", "ECON 451", "MATH 125"],
+      "expect": "fail",
+      "unmet": ["ECON-BA-COMPUTING"],
+      "why": "Neither TAC 101 nor CSCI 101L."
+    }
+  ]
+}

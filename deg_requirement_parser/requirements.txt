@@ -1,2 +1,3 @@
 anthropic
 jsonschema
+pulp>=3,<4  # 3.x bundles the CBC solver; 4.x dropped it and changed the API

@@ -11,6 +11,7 @@ records that the degree-plan engine can solve over.
 | `run_classifier.py` | Reads a scraped programme `.txt`, builds the prompt, calls the Claude API, writes the raw response and the parsed JSON to `out/`. |
 | `check_results.py` | Validates the output and writes `out/summary.csv`. |
 | `check_taxonomy.py` | Validates every JSON example in the taxonomy against `requirement_schema.json`. Run after any taxonomy edit. |
+| `bip.py`, `check_bip.py`, `golden/` | Converts program JSON to a BIP and runs hand-made students (known pass/fail) through the solver. Reports any requirement that didn't convert. |
 | `eligibility.py` | `is_eligible(eligible_if, course_code)`: does one course meet a condition? True, False or `"unknown"`. |
 | `spot_check.py` | Builds `out/review_sheet.md` for checking the output by hand. See *Reviewing output*. |
 | `out/` | Generated. Raw responses, parsed JSON, run log, summary, review sheet. |
@@ -31,7 +32,7 @@ Run everything from this folder with the virtual environment active:
 cd deg_requirement_parser
 source .venv/bin/activate
 export ANTHROPIC_API_KEY=...           # never commit this
-pip install -r requirements.txt  # anthropic, jsonschema
+pip install -r requirements.txt  # anthropic, jsonschema, pulp
 
 python run_classifier.py --dry-run     # build prompts, call nothing
 python run_classifier.py --limit 1     # one programme, end to end
@@ -48,6 +49,16 @@ have an `eligible_if` that `eligibility.py` can evaluate:
 python check_taxonomy.py               # every JSON example in the taxonomy; exits non-zero on failure
 python check_taxonomy.py --dir examples  # the hand-encoded programs (should always pass)
 python -m unittest test_taxonomy       # tests for the check itself and for is_eligible
+```
+
+To check that a program's JSON *means* the right thing, not just that it has the right shape, run the
+golden cases. `bip.py` turns the JSON into a binary integer program (PuLP, CBC solver), reports anything
+it couldn't convert, and solves it for hand-made students in `golden/` whose answers are known:
+
+```bash
+python check_bip.py                         # golden cases against examples/
+python check_bip.py --program-dir out_v2    # the same cases against model output
+python -m unittest test_bip                 # golden cases, plus deliberately wrong encodings that must be caught
 ```
 
 `--budget` stops the run before it exceeds a dollar figure, default 50. Programmes that already
