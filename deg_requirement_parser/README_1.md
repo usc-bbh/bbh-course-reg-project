@@ -10,6 +10,8 @@ records that the degree-plan engine can solve over.
 | `constraint_taxonomy.md` | The taxonomy: five constraint families, each with a description, its `details` shape, and real catalogue sentences paired with their JSON encoding. Fills the `{{TAXONOMY}}` placeholder in `docs/prompt_v1.txt`. |
 | `run_classifier.py` | Reads a scraped programme `.txt`, builds the prompt, calls the Claude API, writes the raw response and the parsed JSON to `out/`. |
 | `check_results.py` | Validates the output and writes `out/summary.csv`. |
+| `check_taxonomy.py` | Validates every JSON example in the taxonomy against `requirement_schema.json`. Run after any taxonomy edit. |
+| `eligibility.py` | `is_eligible(eligible_if, course_code)`: does one course meet a condition? True, False or `"unknown"`. |
 | `spot_check.py` | Builds `out/review_sheet.md` for checking the output by hand. See *Reviewing output*. |
 | `out/` | Generated. Raw responses, parsed JSON, run log, summary, review sheet. |
 
@@ -29,13 +31,23 @@ Run everything from this folder with the virtual environment active:
 cd deg_requirement_parser
 source .venv/bin/activate
 export ANTHROPIC_API_KEY=...           # never commit this
-pip install anthropic
+pip install -r requirements.txt  # anthropic, jsonschema
 
 python run_classifier.py --dry-run     # build prompts, call nothing
 python run_classifier.py --limit 1     # one programme, end to end
 python run_classifier.py               # the 15-programme test set (Sonnet 5 by default)
 python check_results.py                # validate structure, write out/summary.csv
 python spot_check.py                   # review sheet for checking by hand, write out/review_sheet.md
+```
+
+After any edit to `constraint_taxonomy.md`, run the taxonomy check. The model copies the taxonomy's
+examples, so each one must validate against `requirement_schema.json`, use no old-format keys, and
+have an `eligible_if` that `eligibility.py` can evaluate:
+
+```bash
+python check_taxonomy.py               # every JSON example in the taxonomy; exits non-zero on failure
+python check_taxonomy.py --dir examples  # the hand-encoded programs (should always pass)
+python -m unittest test_taxonomy       # tests for the check itself and for is_eligible
 ```
 
 `--budget` stops the run before it exceeds a dollar figure, default 50. Programmes that already
