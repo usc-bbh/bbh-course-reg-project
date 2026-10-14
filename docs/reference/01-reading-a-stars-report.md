@@ -126,16 +126,32 @@ An in-progress row looks like `20263 ENST450 4.0 RG >IP Sustainability in Practi
 
 **The numbering of sub-groups can jump**, going from `1)` to `3)`. This is a fixed-slot template with unused slots omitted — a block with no elective component simply skips that number. *For the code:* do not map STARS numbering one-to-one onto the Catalogue.
 
-## Transfer credit appears in four places
+## Transfer credit
+
+Corrected October 2026. An earlier version said transfers can appear under a USC course code; the samples don't support that. The parser's own design notes (`next-sem-validator/gui/stars-parser/PLAN.md`) carry the full detail.
+
+**Where it appears.** There is no single transfer list.
 
 1. **An aggregate line**, `99993 TRNSFR WORK … TR — Total Transfer Units`. A roll-up total, not a course.
-2. **Inside requirement blocks**, where an individual transfer satisfied a named requirement, often via an exchange or alternative exception.
+2. **Inside requirement blocks**, where an individual transfer was applied to a named requirement.
 3. **Under "other courses in your academic account"**, for transfers not applied to any named requirement.
-4. **In the NCAA section** for athletes, which re-lists some of the above.
+4. **In blocks that repeat course rows**: the NCAA section for athletes, the Dornsife 104-unit block, and the internal-audit blocks after the legend.
 
-**The duplication is partial.** Individual transfers are partitioned between locations 2 and 3 — a course is generally in one or the other, though it can appear in several requirement blocks if it satisfies several requirements. Location 1 is a summary that adds no new courses. Location 4 duplicates.
+**The same transfer can appear more than once.** An AP row can sit in two requirement blocks and in "other courses" at the same time. *For the code:* remove duplicates by (term, code). Line 1 adds no new courses.
 
-There is **no consolidated transfer list and no articulation table**. Articulated transfers appear inline under their USC-equivalent course code. Transfers with no USC equivalent appear as generic `TR-` placeholders, and those placeholders **cannot satisfy a specific USC prerequisite** — if you transferred a course that came across as a generic placeholder, it counts toward your unit total but will not clear a prerequisite for a specific USC course.
+**What a transfer row looks like.** The grade column says `TR`, and the code is one of three kinds:
+
+- **Exam credit:** `AP66:COMP`, or an IB label (`IBTEST:` in the title).
+- **The sending school's own course code:** `CMPR120`, `ANTH101`, `ESRM150`.
+- **A generic placeholder:** `TR-PSYC`, `TR-COMP-1`, `TR-NUTRITION`. Not a course code, just a label meaning "some psychology credit".
+
+**A transfer row never carries a USC course code, even when its code looks like one.** On every sample we hold, the codes on `TR` rows are the other institution's. ESRM, OCEAN, RELIG, SOC and ENVH are not USC prefixes at all. Worse, a community-college `ANTH101` shares its code with USC's ANTH 101 without being that course.
+
+**USC equivalence appears only as a note**, in the requirement block where it is used: `NOTE: RE - SUB CMPR120 FOR CSCI113`. *For the code:* a `TR` row clears a USC prerequisite or fills a named requirement only if such a note maps it to that course. Never match on the shape of the code, and never reshape a code (stripping `TR-`, adding a space) so that it looks like a USC one.
+
+**Why it matters.** All transfer credit counts toward the total units for the degree. Only credit USC has mapped to a specific course can clear a prerequisite or fill a named requirement; the rest counts as free elective units. Getting this wrong in one direction tells a student they can register for something they can't; in the other, it understates what they have already done.
+
+**Transfer rows don't add up to the `TRNSFR WORK` total.** One sample lists 48 units of AP exams against a total of 32, and no sample's total exceeds 32, so exam credit looks capped `[inferred]` `[confirm]`. The check that does hold on every sample: completed USC units in the main course list plus `TRNSFR WORK` equals `EARNED`.
 
 ## "Other courses in your academic account"
 
