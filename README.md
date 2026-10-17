@@ -6,8 +6,8 @@
 .
 ├── stars-parser/              Module 1 — STARS report parsing (JavaScript, client-side)
 │   ├── index.js                 Entry point; orchestrates extraction + parsing
-│   ├── textExtract.js           Direct text-layer extraction (PDF.js) — preferred path
-│   ├── ocrExtract.js            OCR fallback (Tesseract.js) for scanned/imaged PDFs
+│   ├── textExtract.js           Text-layer extraction (PDF.js) + line rebuilding
+│   ├── chunker.js                Splits report into labelled chunks (master course list, NCAA, etc.)
 │   ├── fieldParser.js           Turns extracted text into structured fields
 │   ├── test/                    Fixtures + tests (PII scrubbed)
 │   └── README.md
