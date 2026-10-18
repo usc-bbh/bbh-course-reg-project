@@ -23,11 +23,11 @@ quiet drift.
 
 | Seam | Owner | Contract | Where the planner reads it |
 | --- | --- | --- | --- |
-| The parsed report | Abhi (next-sem-validator) | [`gui/stars-parser/README.md`](https://github.com/usc-bbh/next-sem-validator/blob/main/gui/stars-parser/README.md) output block; signature `parseStarsReport(file, { onStatus, onProgress })`, resolving to `null` when it cannot read the file | `src/domain/types.ts` → `ParsedStarsReport`, `src/data/parseStarsReport.ts` |
+| The parsed report | Tanzil (next-sem-validator) | [`gui/stars-parser/README.md`](https://github.com/usc-bbh/next-sem-validator/blob/main/gui/stars-parser/README.md) output block; signature `parseStarsReport(file, { onStatus, onProgress })`, resolving to `null` when it cannot read the file | `src/domain/types.ts` → `ParsedStarsReport`, `src/data/parseStarsReport.ts` |
 | The sample student | shared | [`fixtures/stars/mock_stars_report.json`](../fixtures/stars/mock_stars_report.json) | `src/data/sampleStudent.ts`, asserted field-for-field against the committed file in `test/contracts.test.ts` |
 | Which tier is reused and which is computed | Natalie (degree-audit engine) | [`docs/reference/03-degree-planner-architecture.md`](reference/03-degree-planner-architecture.md) | `Requirement.tier` + `Requirement.source`, `AnalysisResult.reusedFromReportDated` |
 | Block statuses `ok` / `no` / `ip` | shared | [`docs/reference/01-reading-a-stars-report.md`](reference/01-reading-a-stars-report.md) | `StarsBlockStatus`, `src/components/status.tsx` |
-| Per-course `source` (`usc` / `transfer_specific` / `transfer_generic`) | Abhi | [`docs/parser-brief.md`](parser-brief.md) §6–7 | `CreditSource`, shown on every history row |
+| Per-course `source` (`usc` / `transfer_specific` / `transfer_generic` today; moving to the parser's four values) | Tanzil | [`STARS_PARSER_DESIGN.md`](https://github.com/usc-bbh/next-sem-validator/blob/main/gui/stars-parser/STARS_PARSER_DESIGN.md) §7 | `CreditSource`, shown on every history row |
 | Course titles, units, offering frequency | Agastya (`catalog/`) | [`catalog/README.md`](../catalog/README.md) v6 file: `terms_data` keyed by term code plus `offering_frequency` | `src/data/catalogue/courses.json` in that exact shape, guarded field-for-field in `src/data/catalogue.ts`, pinned by `test/catalogue.test.ts` |
 | The `stars_summary` slice | Tanzil (next-sem-validator) | [next-sem-validator's `analytics/README.md`](https://github.com/usc-bbh/next-sem-validator/blob/main/analytics/README.md) — exactly five fields | `toStarsSummary()` in `src/domain/situation.ts` |
 

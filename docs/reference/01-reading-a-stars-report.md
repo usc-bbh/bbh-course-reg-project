@@ -128,7 +128,7 @@ An in-progress row looks like `20263 ENST450 4.0 RG >IP Sustainability in Practi
 
 ## Transfer credit
 
-Corrected October 2026. An earlier version said transfers can appear under a USC course code; the samples don't support that. The parser's own design notes (`next-sem-validator/gui/stars-parser/PLAN.md`) carry the full detail.
+Corrected October 2026. An earlier version said transfers can appear under a USC course code; the samples don't support that. The parser's design doc, [`STARS_PARSER_DESIGN.md`](https://github.com/usc-bbh/next-sem-validator/blob/main/gui/stars-parser/STARS_PARSER_DESIGN.md) in next-sem-validator, carries the full detail.
 
 **Where it appears.** There is no single transfer list.
 
