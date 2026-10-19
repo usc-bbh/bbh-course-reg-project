@@ -4,14 +4,6 @@
 
 ```
 .
-├── stars-parser/              Module 1 — STARS report parsing (JavaScript, client-side)
-│   ├── index.js                 Entry point; orchestrates extraction + parsing
-│   ├── textExtract.js           Direct text-layer extraction (PDF.js) — preferred path
-│   ├── ocrExtract.js            OCR fallback (Tesseract.js) for scanned/imaged PDFs
-│   ├── fieldParser.js           Turns extracted text into structured fields
-│   ├── test/                    Fixtures + tests (PII scrubbed)
-│   └── README.md
-│
 ├── catalogue_scraper/         Module 2 — USC Catalogue scrape: degree/major/minor
 │   │                            REQUIREMENTS (Python). Not the Schedule of Classes.
 │   ├── src/usc_catalog_scraper/     Layered HTTP→browser acquisition, structural
@@ -41,14 +33,16 @@
 └── README.md                  You are here
 ```
 
-### Module 4B — the next-semester validator lives in its own repo
+### Modules 1 and 4B — the STARS parser and the validator live in RegCheck
 
-The validator (Python, plus the RegCheck web app that runs it via Pyodide)
-lives only in [usc-bbh/next-sem-validator](https://github.com/usc-bbh/next-sem-validator), deployed at
-https://usc-bbh.github.io/next-sem-validator/. Fix validator bugs there.
-RegCheck imports `stars-parser/` from *this* repo through a pinned git
-submodule, so `stars-parser/` here is the parser's only home — after a parser
-fix merges, bump the pin in RegCheck (its README has the two commands).
+The STARS parser (Module 1, `gui/stars-parser/`) and the next-semester
+validator (Module 4B, `analytics/`) live only in
+[usc-bbh/next-sem-validator](https://github.com/usc-bbh/next-sem-validator) — RegCheck, deployed at
+https://usc-bbh.github.io/next-sem-validator/. RegCheck is the only app that
+runs either one today, so fix bugs in both there.
+
+The parser may move back here if the degree planner starts using the real
+parser instead of its stub; until then, don't add a copy to this repo.
 
 ### New to the project? Start with the reference docs
 
@@ -64,7 +58,7 @@ read the producer's own README rather than infer the shape from its code:
 
 | Data | Documented in |
 |---|---|
-| Parsed STARS output | `stars-parser/README.md` (full parser output); [`analytics/README.md`](https://github.com/usc-bbh/next-sem-validator/blob/main/analytics/README.md) in next-sem-validator documents the `stars_summary` slice the next-semester validator consumes (explicitly *not* the full parser output) |
+| Parsed STARS output | [`gui/stars-parser/README.md`](https://github.com/usc-bbh/next-sem-validator/blob/main/gui/stars-parser/README.md) in next-sem-validator (full parser output); [`analytics/README.md`](https://github.com/usc-bbh/next-sem-validator/blob/main/analytics/README.md) in next-sem-validator documents the `stars_summary` slice the next-semester validator consumes (explicitly *not* the full parser output) |
 | Degree/major/minor requirements | `catalogue_scraper/README.md` |
 | Schedule of Classes / course catalog | `catalog/README.md` |
 | D-clearance | [`analytics/data/dept_clearance.json`](https://github.com/usc-bbh/next-sem-validator/blob/main/analytics/data/dept_clearance.json) in next-sem-validator (`_schema_version`) |
