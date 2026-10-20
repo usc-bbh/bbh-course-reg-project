@@ -27,6 +27,8 @@
 ├── fixtures/stars/            Shared STARS fixtures — each <name>.json is the parser's
 │                              expected output AND the validator's stars_summary input
 ├── degree-planner/            Four-year degree planner UI (React + TypeScript)
+├── design/bbh.css             Shared BBH design tokens + component classes, taken
+│                              from the BBH site and RegCheck; use for new tool UIs
 ├── constraint_classifier_prompt.md   Taxonomy + LLM prompt that classifies raw USC
 │                                     degree-requirement text into constraint types
 ├── .gitignore

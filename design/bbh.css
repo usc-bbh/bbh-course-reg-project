@@ -1,0 +1,786 @@
+/* ─────────────────────────────────────────────────────────────
+   BBH design guide: shared stylesheet for the BUAI Builder Hub site
+   (usc-bbh/bbh-website) and RegCheck (usc-bbh/next-sem-validator).
+
+   Both apps style themselves inline. This file pulls those inline values
+   into tokens and classes, so a new BBH tool can match them without
+   copying style objects. Every value below appears in one of the two
+   codebases. Source notes:
+     site      bbh-website/src/App.jsx
+     regcheck  next-sem-validator/gui/src/theme.js, App.jsx, StarsReview.jsx
+
+   The look: a warm off-white page, white cards with long soft shadows,
+   USC cardinal as the one accent, muted gold used sparingly. Space Grotesk
+   for headings, labels and buttons. Inter for body text. Light theme only.
+
+   Load the fonts first:
+   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap">
+   ───────────────────────────────────────────────────────────── */
+
+
+/* ═════════════════════════════════════════════════════════════
+   1. Tokens
+   ═════════════════════════════════════════════════════════════ */
+
+:root {
+  /* ── Brand ── */
+  --bbh-cardinal: #990000;
+  --bbh-cardinal-hover: #7d0000;          /* primary button hover */
+  --bbh-cardinal-deep: #600000;           /* initials-avatar gradient end */
+  --bbh-cardinal-grad: linear-gradient(135deg, #A30000 0%, #7A0000 100%);
+  --bbh-gold: #D4AF37;                    /* fills, accent borders, pulses */
+  --bbh-gold-text: #B8952E;               /* gold that has to read as text */
+  --bbh-gold-line: rgba(212, 175, 55, 0.4);
+
+  /* Cardinal at fixed strengths. Use these, not new alphas. */
+  --bbh-cardinal-04: rgba(153, 0, 0, 0.04);   /* tinted card ground */
+  --bbh-cardinal-06: rgba(153, 0, 0, 0.06);   /* list-row hover */
+  --bbh-cardinal-08: rgba(153, 0, 0, 0.08);   /* tinted card hover */
+  --bbh-cardinal-10: rgba(153, 0, 0, 0.10);   /* active tab, tinted border */
+  --bbh-cardinal-12: rgba(153, 0, 0, 0.12);   /* tinted card border */
+  --bbh-cardinal-14: rgba(153, 0, 0, 0.14);   /* input focus ring */
+  --bbh-cardinal-20: rgba(153, 0, 0, 0.20);   /* text selection */
+  --bbh-cardinal-30: rgba(153, 0, 0, 0.30);   /* ghost button border, scrollbar */
+  --bbh-cardinal-35: rgba(153, 0, 0, 0.35);   /* tinted card hover border */
+
+  /* ── Surfaces ── */
+  --bbh-page: #F7F7F5;
+  --bbh-surface: #FFFFFF;
+  --bbh-surface-sunk: #FAFAF9;            /* table/calendar header, row hover */
+  --bbh-surface-faint: rgba(0, 0, 0, 0.025);
+  --bbh-placeholder-bg: rgba(0, 0, 0, 0.035);
+  --bbh-scrim: rgba(20, 20, 24, 0.45);    /* modal backdrop */
+
+  /* ── Text (darkest to lightest) ── */
+  --bbh-ink: #1C1C1F;                     /* headings, names, primary text */
+  --bbh-ink-2: #3F3F46;                   /* quotes, people lists */
+  --bbh-body: #52525B;                    /* paragraphs */
+  --bbh-muted: #5B5B63;                   /* secondary text, eyebrows */
+  --bbh-faint: #71717A;                   /* footer, axis labels */
+  --bbh-placeholder: #8A8A93;
+  --bbh-disabled-bg: #E7E7E4;
+  --bbh-disabled-fg: #A1A1AA;
+
+  /* ── Lines ── */
+  --bbh-line-hair: rgba(0, 0, 0, 0.06);   /* nav and footer rules */
+  --bbh-line: rgba(0, 0, 0, 0.08);        /* card borders */
+  --bbh-line-strong: rgba(0, 0, 0, 0.15); /* inputs, outline buttons */
+  --bbh-grid: #ededf0;                    /* calendar day columns */
+  --bbh-grid-faint: #f2f2f4;              /* calendar hour rules */
+
+  /* ── Status (RegCheck) ── */
+  --bbh-ok: #16A34A;
+  --bbh-ok-bg: #F0FAF3;
+  --bbh-ok-border: rgba(22, 163, 74, 0.3);
+  --bbh-ok-line: rgba(22, 163, 74, 0.35);
+  --bbh-warn: #A16207;
+  --bbh-warn-bg: #FEFAEC;
+  --bbh-warn-border: var(--bbh-gold-line);
+  --bbh-bad: #C1121F;
+  --bbh-bad-bg: #FDF2F2;
+  --bbh-bad-border: rgba(193, 18, 31, 0.25);
+  --bbh-bad-line: rgba(193, 18, 31, 0.35);
+  --bbh-bad-tint: rgba(193, 18, 31, 0.10);
+
+  /* ── Categorical palette (one colour per course on the calendar) ── */
+  --bbh-cat-1: #990000;
+  --bbh-cat-2: #16A34A;
+  --bbh-cat-3: #1d4ed8;
+  --bbh-cat-4: #A16207;
+  --bbh-cat-5: #6f42c1;
+  --bbh-cat-6: #0e7490;
+  --bbh-cat-7: #b3006b;
+
+  /* ── Type ── */
+  --bbh-font-head: 'Space Grotesk', sans-serif;
+  --bbh-font-body: 'Inter', sans-serif;
+
+  --bbh-text-display: clamp(36px, 7vw, 72px);   /* home hero */
+  --bbh-text-h1: clamp(28px, 4vw, 44px);        /* page / section title */
+  --bbh-text-h1-tool: clamp(30px, 5vw, 44px);   /* tool name on a tool page */
+  --bbh-text-h2: clamp(20px, 3vw, 26px);        /* card title */
+  --bbh-text-h3: 19px;
+  --bbh-text-lead: 16px;
+  --bbh-text-body: 14.5px;
+  --bbh-text-sm: 13px;
+  --bbh-text-xs: 12.5px;
+  --bbh-text-2xs: 11.5px;
+  --bbh-text-label: 10.5px;
+
+  /* ── Radius ── */
+  --bbh-r-xs: 5px;      /* badges */
+  --bbh-r-sm: 7px;      /* icon buttons, calendar blocks */
+  --bbh-r-md: 8px;      /* buttons, small inputs, callouts */
+  --bbh-r-lg: 10px;     /* tinted cards, search input, issue rows, media */
+  --bbh-r-xl: 14px;     /* cards */
+  --bbh-r-2xl: 16px;    /* feature cards, modals, CTA */
+  --bbh-r-pill: 999px;
+
+  /* ── Shadow: long, soft, pulled up with negative spread ── */
+  --bbh-shadow: 0 18px 40px -24px rgba(28, 28, 31, 0.25);
+  --bbh-shadow-hover: 0 22px 44px -24px rgba(28, 28, 31, 0.35);
+  --bbh-shadow-side: 0 14px 32px -24px rgba(28, 28, 31, 0.35);
+  --bbh-shadow-media: 0 12px 28px -18px rgba(28, 28, 31, 0.45);
+  --bbh-shadow-modal: 0 30px 70px -20px rgba(28, 28, 31, 0.45);
+  --bbh-shadow-popover: 0 14px 34px rgba(0, 0, 0, 0.16);
+  --bbh-shadow-cta: 0 24px 48px -28px rgba(153, 0, 0, 0.7);
+
+  /* ── Layout ── */
+  --bbh-nav-h: 64px;
+  --bbh-w-prose: 800px;     /* team page */
+  --bbh-w-content: 900px;   /* home, contact */
+  --bbh-w-wide: 1240px;     /* project carousel */
+  --bbh-w-app: 1320px;      /* tool UI, e.g. RegCheck */
+  --bbh-gutter: 24px;       /* site */
+  --bbh-gutter-app: 28px;   /* tool UI */
+
+  /* ── Motion ── */
+  --bbh-ease-out: cubic-bezier(.2, .8, .2, 1);
+  --bbh-fast: .15s ease;    /* controls */
+  --bbh-base: .2s;          /* links, outline buttons */
+  --bbh-slow: .3s;          /* cards, nav background */
+}
+
+
+/* ═════════════════════════════════════════════════════════════
+   2. Base
+   ═════════════════════════════════════════════════════════════ */
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { color-scheme: light; }
+
+body {
+  margin: 0;
+  background: var(--bbh-page);
+  color: var(--bbh-ink);
+  font-family: var(--bbh-font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection { background: var(--bbh-cardinal-20); color: var(--bbh-ink); }
+
+:focus-visible { outline: 2px solid var(--bbh-cardinal); outline-offset: 2px; }
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bbh-page); }
+::-webkit-scrollbar-thumb { background: var(--bbh-cardinal-30); border-radius: 3px; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: 0s !important; animation-duration: 0s !important; }
+}
+
+
+/* ═════════════════════════════════════════════════════════════
+   3. Layout
+   ═════════════════════════════════════════════════════════════ */
+
+.bbh-container       { max-width: var(--bbh-w-content); margin: 0 auto; padding: 0 var(--bbh-gutter); }
+.bbh-container--prose { max-width: var(--bbh-w-prose); }
+.bbh-container--wide  { max-width: var(--bbh-w-wide); }
+.bbh-container--app   { max-width: var(--bbh-w-app); padding: 0 var(--bbh-gutter-app); }
+
+/* Feature grids on the site: three tinted cards, auto-fitting */
+.bbh-grid    { display: grid; gap: 20px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+.bbh-grid--2 { grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+
+/* Tool layout: controls on the left, a sticky results column on the right */
+.bbh-app-layout { display: grid; grid-template-columns: minmax(340px, 430px) 1fr; gap: 28px; align-items: start; }
+.bbh-sticky     { position: sticky; top: calc(var(--bbh-nav-h) + 20px); }
+
+@media (max-width: 900px) {
+  .bbh-app-layout { grid-template-columns: 1fr; }
+  .bbh-sticky     { position: static; }
+}
+
+
+/* ═════════════════════════════════════════════════════════════
+   4. Typography
+   ═════════════════════════════════════════════════════════════ */
+
+.bbh-display, .bbh-h1, .bbh-h1--tool, .bbh-h2, .bbh-h3 {
+  font-family: var(--bbh-font-head);
+  font-weight: 700;
+  color: var(--bbh-ink);
+  margin: 0;
+}
+.bbh-display  { font-size: var(--bbh-text-display); line-height: 1.05; }
+.bbh-h1       { font-size: var(--bbh-text-h1); line-height: 1.15; }
+.bbh-h1--tool { font-size: var(--bbh-text-h1-tool); line-height: 1.05; }
+.bbh-h2       { font-size: var(--bbh-text-h2); line-height: 1.2; }
+.bbh-h3       { font-size: var(--bbh-text-h3); line-height: 1.3; }
+
+/* Half of a heading in cardinal: "Reg<span>Check</span>", "Get <span>Involved</span>" */
+.bbh-accent { color: var(--bbh-cardinal); }
+
+.bbh-lead  { font-size: var(--bbh-text-lead); line-height: 1.8; color: var(--bbh-body); }
+.bbh-body  { font-size: var(--bbh-text-body); line-height: 1.7; color: var(--bbh-body); }
+.bbh-small { font-size: var(--bbh-text-sm); line-height: 1.6; color: var(--bbh-muted); }
+.bbh-micro { font-size: var(--bbh-text-2xs); line-height: 1.45; color: var(--bbh-muted); }
+
+/* Gold italic line under a tool name ("Check your schedule. Cleared for launch.") */
+.bbh-tagline { font-size: var(--bbh-text-sm); font-style: italic; color: var(--bbh-gold-text); }
+
+/* Small letter-spaced uppercase label above a section or field */
+.bbh-eyebrow {
+  font-family: var(--bbh-font-head);
+  font-size: var(--bbh-text-label);
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--bbh-muted);
+}
+.bbh-eyebrow--cardinal { color: var(--bbh-cardinal); }
+/* Section heading on the team page ("FACULTY ADVISORS") */
+.bbh-eyebrow--gold     { color: var(--bbh-gold-text); font-size: 12px; letter-spacing: 3px; }
+/* Wide-tracked kicker above a hero title ("USC MARSHALL × VITERBI") */
+.bbh-eyebrow--kicker   { color: var(--bbh-cardinal); font-size: 11px; letter-spacing: 5px; }
+
+.bbh-quote {
+  font-family: var(--bbh-font-head);
+  font-size: clamp(18px, 3vw, 26px);
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--bbh-ink-2);
+  margin: 0;
+}
+
+/* Numbers that line up: unit counts, times, totals */
+.bbh-tabular { font-family: var(--bbh-font-head); font-variant-numeric: tabular-nums; }
+
+.bbh-link { color: var(--bbh-cardinal); font-weight: 600; text-decoration: none; }
+.bbh-link:hover { text-decoration: underline; text-underline-offset: 3px; }
+/* Quiet link in people lists and the footer */
+.bbh-link--quiet { color: var(--bbh-ink-2); font-weight: 400; }
+.bbh-link--quiet:hover { color: var(--bbh-cardinal); text-decoration: none; }
+
+
+/* ═════════════════════════════════════════════════════════════
+   5. Navigation
+   ═════════════════════════════════════════════════════════════ */
+
+.bbh-nav {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  height: var(--bbh-nav-h);
+  padding: 0 var(--bbh-gutter);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: transparent;
+  border-bottom: 1px solid transparent;
+  transition: background var(--bbh-slow), border-color var(--bbh-slow), backdrop-filter var(--bbh-slow);
+}
+/* The site's nav is clear over the hero and frosts after 60px of scroll.
+   Tool UIs keep it frosted from the start. */
+.bbh-nav.is-scrolled,
+.bbh-nav--solid {
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom-color: var(--bbh-line-hair);
+}
+.bbh-nav--solid { border-bottom-color: var(--bbh-line); padding: 0 var(--bbh-gutter-app); }
+
+.bbh-nav__brand { display: flex; align-items: center; gap: 12px; }
+
+.bbh-wordmark {
+  font-family: var(--bbh-font-head);
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: var(--bbh-ink);
+  text-decoration: none;
+}
+/* "BBH | RegCheck": the hub wordmark, a hairline, then the tool name */
+.bbh-nav__divider { width: 1px; height: 18px; background: var(--bbh-line-strong); }
+.bbh-nav__product {
+  font-family: var(--bbh-font-head);
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  color: var(--bbh-cardinal);
+}
+
+.bbh-tabs { display: flex; gap: 4px; }
+.bbh-tab {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--bbh-body);
+  font-family: var(--bbh-font-head);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all var(--bbh-base);
+}
+.bbh-tab.is-active,
+.bbh-tab[aria-current="page"] { background: var(--bbh-cardinal-10); color: var(--bbh-cardinal); }
+
+
+/* ═════════════════════════════════════════════════════════════
+   6. Buttons
+   ═════════════════════════════════════════════════════════════ */
+
+.bbh-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 22px;
+  border: 1px solid transparent;
+  border-radius: var(--bbh-r-md);
+  font-family: var(--bbh-font-head);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  line-height: 1.2;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background var(--bbh-fast), border-color var(--bbh-fast), color var(--bbh-fast), box-shadow .18s ease, transform .1s ease;
+}
+
+/* The one main action: solid cardinal */
+.bbh-btn--primary { background: var(--bbh-cardinal); color: #fff; }
+.bbh-btn--primary:hover:not(:disabled) { background: var(--bbh-cardinal-hover); }
+
+/* Everything else: white with a grey outline that turns cardinal on hover */
+.bbh-btn--secondary {
+  padding: 9px 16px;
+  background: var(--bbh-surface);
+  color: var(--bbh-ink);
+  border-color: var(--bbh-line-strong);
+  letter-spacing: 0.3px;
+}
+.bbh-btn--secondary:hover:not(:disabled) { border-color: var(--bbh-cardinal); color: var(--bbh-cardinal); }
+/* Gold hover, for feedback and issue links */
+.bbh-btn--secondary.bbh-btn--gold-hover:hover:not(:disabled) { border-color: var(--bbh-gold-text); color: var(--bbh-gold-text); }
+
+/* Second hero action: no fill, cardinal text and border */
+.bbh-btn--ghost { background: transparent; color: var(--bbh-cardinal); border-color: var(--bbh-cardinal-30); }
+.bbh-btn--ghost:hover:not(:disabled) { border-color: var(--bbh-cardinal); background: var(--bbh-cardinal-04); }
+
+/* On the cardinal CTA panel */
+.bbh-btn--on-dark { background: #fff; color: var(--bbh-cardinal); }
+.bbh-btn--on-dark-muted { background: rgba(255, 255, 255, 0.14); border-color: rgba(255, 255, 255, 0.3); color: #fff; cursor: default; }
+
+/* Uppercase hero size ("VIEW PROJECTS", "VALIDATE SCHEDULE") */
+.bbh-btn--lg { padding: 13px 30px; letter-spacing: 1px; text-transform: uppercase; }
+.bbh-btn--block { display: flex; width: 100%; padding: 14px; font-size: 13.5px; letter-spacing: 1px; text-transform: uppercase; }
+
+.bbh-btn:disabled { background: var(--bbh-disabled-bg); color: var(--bbh-disabled-fg); border-color: transparent; cursor: not-allowed; }
+
+/* Small square control (reorder, remove) */
+.bbh-icon-btn {
+  width: 28px;
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bbh-surface);
+  border: 1px solid var(--bbh-line-strong);
+  border-radius: var(--bbh-r-sm);
+  color: var(--bbh-body);
+  font-size: 13px;
+  line-height: 1;
+  cursor: pointer;
+}
+.bbh-icon-btn--danger { color: var(--bbh-bad); }
+.bbh-icon-btn--danger:hover { background: var(--bbh-bad-tint); }
+
+/* Round carousel arrow */
+.bbh-arrow {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.14);
+  background: var(--bbh-surface);
+  color: var(--bbh-ink);
+  font-size: 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: border-color var(--bbh-base), color var(--bbh-base), opacity var(--bbh-base);
+}
+.bbh-arrow:hover:not(:disabled) { border-color: var(--bbh-cardinal); color: var(--bbh-cardinal); }
+.bbh-arrow:disabled { opacity: 0.35; cursor: default; }
+
+/* Carousel dots: the active one stretches into a cardinal bar */
+.bbh-dots { display: flex; gap: 8px; align-items: center; }
+.bbh-dot {
+  width: 8px;
+  height: 8px;
+  padding: 0;
+  border: none;
+  border-radius: var(--bbh-r-pill);
+  background: rgba(0, 0, 0, 0.18);
+  cursor: pointer;
+  transition: width var(--bbh-slow), background var(--bbh-slow);
+}
+.bbh-dot[aria-current="true"] { width: 26px; background: var(--bbh-cardinal); }
+
+
+/* ═════════════════════════════════════════════════════════════
+   7. Badges and pills
+   ═════════════════════════════════════════════════════════════ */
+
+/* Outlined status tag: "LIVE", "UNDER DEVELOPMENT", "CHECKER READY" */
+.bbh-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 8px;
+  border: 1px solid var(--bbh-line-strong);
+  border-radius: var(--bbh-r-xs);
+  font-family: var(--bbh-font-head);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--bbh-muted);
+  background: transparent;
+}
+.bbh-badge--live { color: var(--bbh-ok); border-color: var(--bbh-ok-line); }
+.bbh-badge--gold { color: var(--bbh-gold-text); border-color: var(--bbh-gold-line); }
+.bbh-badge--bad  { color: var(--bbh-bad); border-color: var(--bbh-bad-line); }
+.bbh-badge--lg   { padding: 4px 9px; font-size: 10.5px; }
+/* Status dot that takes the badge's colour */
+.bbh-badge__dot  { width: 6px; height: 6px; border-radius: 50%; background: currentColor; }
+
+/* Rounded counter: "15 units · 5 sections" */
+.bbh-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 12px;
+  background: var(--bbh-surface);
+  border: 1px solid var(--bbh-line);
+  border-radius: var(--bbh-r-pill);
+  font-family: var(--bbh-font-head);
+  font-variant-numeric: tabular-nums;
+  font-size: 12px;
+  color: var(--bbh-body);
+}
+.bbh-pill--over { color: var(--bbh-bad); }
+
+
+/* ═════════════════════════════════════════════════════════════
+   8. Cards and surfaces
+   ═════════════════════════════════════════════════════════════ */
+
+/* The base white card */
+.bbh-card {
+  background: var(--bbh-surface);
+  border: 1px solid var(--bbh-line);
+  border-radius: var(--bbh-r-xl);
+  box-shadow: var(--bbh-shadow);
+}
+.bbh-card--pad { padding: 20px 24px; }
+.bbh-card--hover { transition: border-color .18s ease, box-shadow .18s ease; }
+.bbh-card--hover:hover { border-color: rgba(0, 0, 0, 0.14); box-shadow: var(--bbh-shadow-hover); }
+
+/* Project card on the site: bigger radius and padding */
+.bbh-card--feature {
+  border-radius: var(--bbh-r-2xl);
+  padding: clamp(26px, 4vw, 40px);
+  display: flex;
+  flex-direction: column;
+}
+
+/* White card with a 4px coloured left edge (contact side cards, RegCheck verdict) */
+.bbh-card--edge {
+  border-left: 4px solid var(--bbh-edge, var(--bbh-cardinal));
+  box-shadow: var(--bbh-shadow-side);
+}
+.bbh-card--edge-gold { --bbh-edge: var(--bbh-gold); }
+.bbh-card--edge-ok   { --bbh-edge: var(--bbh-ok); }
+.bbh-card--edge-warn { --bbh-edge: var(--bbh-warn); }
+.bbh-card--edge-bad  { --bbh-edge: var(--bbh-bad); }
+
+/* Cardinal-tinted card ("Collaborate / Design & Build / Ship", faculty rows) */
+.bbh-tint {
+  background: var(--bbh-cardinal-04);
+  border: 1px solid var(--bbh-cardinal-12);
+  border-radius: var(--bbh-r-lg);
+  padding: 28px 24px;
+  transition: border-color var(--bbh-slow), background var(--bbh-slow), transform var(--bbh-base);
+}
+.bbh-tint:hover { border-color: var(--bbh-cardinal-35); background: var(--bbh-cardinal-08); }
+.bbh-tint--lift:hover { background: var(--bbh-cardinal-04); transform: translateY(-1px); }
+
+/* Neutral card (student builder tiles): grey ground, gold border on hover */
+.bbh-tile {
+  background: var(--bbh-surface-faint);
+  border: 1px solid var(--bbh-line-hair);
+  border-radius: var(--bbh-r-lg);
+  padding: 12px 12px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  transition: border-color var(--bbh-base);
+}
+.bbh-tile:hover { border-color: var(--bbh-gold-line); }
+
+/* Cardinal gradient call to action with a gold glow in the corner */
+.bbh-cta {
+  position: relative;
+  overflow: hidden;
+  background: var(--bbh-cardinal-grad);
+  border-radius: var(--bbh-r-2xl);
+  padding: clamp(28px, 5vw, 44px);
+  color: #fff;
+  box-shadow: var(--bbh-shadow-cta);
+}
+.bbh-cta::before {
+  content: "";
+  position: absolute;
+  right: -80px;
+  top: -80px;
+  width: 260px;
+  height: 260px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(212, 175, 55, 0.22) 0%, rgba(212, 175, 55, 0) 70%);
+  pointer-events: none;
+}
+.bbh-cta > * { position: relative; }
+.bbh-cta p { color: rgba(255, 255, 255, 0.82); }
+
+/* Screenshot frame, 16:10 */
+.bbh-media {
+  aspect-ratio: 16 / 10;
+  border-radius: var(--bbh-r-lg);
+  overflow: hidden;
+  border: 1px solid var(--bbh-line);
+  background: var(--bbh-placeholder-bg);
+  box-shadow: var(--bbh-shadow-media);
+}
+.bbh-media img { width: 100%; height: 100%; object-fit: cover; object-position: top center; display: block; }
+
+.bbh-divider { border: 0; border-top: 1px solid rgba(0, 0, 0, 0.07); margin: 20px 0; }
+
+
+/* ═════════════════════════════════════════════════════════════
+   9. Forms
+   ═════════════════════════════════════════════════════════════ */
+
+.bbh-field { display: flex; flex-direction: column; gap: 5px; }
+.bbh-field__hint { font-size: var(--bbh-text-2xs); color: var(--bbh-muted); line-height: 1.45; }
+
+.bbh-input {
+  width: 100%;
+  padding: 8px 10px;
+  background: var(--bbh-surface);
+  border: 1px solid var(--bbh-line-strong);
+  border-radius: var(--bbh-r-md);
+  font-family: var(--bbh-font-body);
+  font-size: 13.5px;
+  color: var(--bbh-ink);
+  transition: border-color var(--bbh-fast), box-shadow var(--bbh-fast);
+}
+/* Large search box at the top of a tool */
+.bbh-input--search {
+  padding: 13px 16px;
+  border-radius: var(--bbh-r-lg);
+  font-size: 14px;
+  box-shadow: var(--bbh-shadow);
+}
+.bbh-input:focus { outline: none; border-color: var(--bbh-cardinal); box-shadow: 0 0 0 3px var(--bbh-cardinal-14); }
+.bbh-input::placeholder { color: var(--bbh-placeholder); }
+
+/* Autocomplete list under a search box */
+.bbh-popover {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  margin-top: 6px;
+  z-index: 20;
+  overflow: hidden;
+  background: var(--bbh-surface);
+  border: 1px solid var(--bbh-line-strong);
+  border-radius: var(--bbh-r-lg);
+  box-shadow: var(--bbh-shadow-popover);
+}
+.bbh-popover__item { display: block; width: 100%; padding: 10px 16px; text-align: left; background: none; border: 0; font: inherit; color: var(--bbh-ink); cursor: pointer; }
+.bbh-popover__item:hover { background: var(--bbh-cardinal-06); }
+
+/* Selectable row, e.g. a course section */
+.bbh-row {
+  border: 1px solid var(--bbh-line);
+  border-radius: var(--bbh-r-lg);
+  background: var(--bbh-surface);
+  transition: background var(--bbh-fast), border-color var(--bbh-fast);
+}
+.bbh-row:hover { background: var(--bbh-surface-sunk); border-color: rgba(0, 0, 0, 0.12); }
+
+
+/* ═════════════════════════════════════════════════════════════
+   10. Feedback (RegCheck results)
+   ═════════════════════════════════════════════════════════════ */
+
+/* Inline note. Gold is the default tone; a left-edge variant for modals. */
+.bbh-callout {
+  padding: 12px 16px;
+  background: var(--bbh-warn-bg);
+  border: 1px solid var(--bbh-warn-border);
+  border-radius: var(--bbh-r-md);
+  font-size: var(--bbh-text-xs);
+  line-height: 1.6;
+  color: var(--bbh-body);
+}
+.bbh-callout strong { color: var(--bbh-warn); }
+.bbh-callout--edge { border: 0; border-left: 4px solid var(--bbh-tone, var(--bbh-warn)); color: var(--bbh-ink); font-size: 13px; }
+.bbh-callout--bad  { --bbh-tone: var(--bbh-bad); background: var(--bbh-bad-bg); }
+.bbh-callout--ok   { --bbh-tone: var(--bbh-ok); background: var(--bbh-ok-bg); }
+
+/* One result row: blocker, heads-up or OK */
+.bbh-issue {
+  --bbh-tone: var(--bbh-ok);
+  padding: 11px 13px;
+  margin-bottom: 8px;
+  background: var(--bbh-ok-bg);
+  border: 1px solid var(--bbh-ok-border);
+  border-radius: var(--bbh-r-lg);
+}
+.bbh-issue--warning { --bbh-tone: var(--bbh-warn); background: var(--bbh-warn-bg); border-color: var(--bbh-warn-border); }
+.bbh-issue--fail    { --bbh-tone: var(--bbh-bad);  background: var(--bbh-bad-bg);  border-color: var(--bbh-bad-border); }
+
+.bbh-issue__head { display: flex; align-items: center; gap: 9px; }
+.bbh-issue__icon {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--bbh-tone);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+}
+.bbh-issue__title { font-family: var(--bbh-font-head); font-size: 14px; font-weight: 700; color: var(--bbh-ink); }
+.bbh-issue__label {
+  margin-left: auto;
+  font-family: var(--bbh-font-head);
+  font-size: var(--bbh-text-label);
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--bbh-tone);
+}
+.bbh-issue__reason { padding-left: 27px; margin-top: 4px; font-size: var(--bbh-text-xs); line-height: 1.5; color: var(--bbh-body); }
+
+/* Large round verdict icon for the summary card */
+.bbh-verdict-icon {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--bbh-edge, var(--bbh-ok));
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+
+/* ═════════════════════════════════════════════════════════════
+   11. Calendar (RegCheck week view)
+   ═════════════════════════════════════════════════════════════ */
+
+.bbh-cal { overflow: hidden; }
+.bbh-cal__head { background: var(--bbh-surface-sunk); border-bottom: 1px solid var(--bbh-line); }
+.bbh-cal__day  { border-left: 1px solid var(--bbh-grid); position: relative; }
+.bbh-cal__hour { position: absolute; left: 0; right: 0; border-top: 1px solid var(--bbh-grid-faint); }
+.bbh-cal__gutter-label { font-family: var(--bbh-font-head); font-size: 10px; color: var(--bbh-faint); }
+
+/* Event block. Set --course to a palette colour: style="--course: var(--bbh-cat-3)" */
+.bbh-cal-block {
+  --course: var(--bbh-cat-1);
+  position: absolute;
+  left: 3px;
+  right: 3px;
+  padding: 4px 7px;
+  overflow: hidden;
+  background: color-mix(in srgb, var(--course) 8%, transparent);
+  border-left: 3px solid var(--course);
+  border-radius: var(--bbh-r-sm);
+  box-shadow: 0 2px 6px color-mix(in srgb, var(--course) 12%, transparent);
+  font-size: 10px;
+  line-height: 1.3;
+}
+.bbh-cal-block__title { font-weight: 700; color: var(--course); white-space: nowrap; }
+.bbh-cal-block__meta  { color: #6b6b72; white-space: nowrap; }
+
+
+/* ═════════════════════════════════════════════════════════════
+   12. People
+   ═════════════════════════════════════════════════════════════ */
+
+.bbh-avatar {
+  width: var(--bbh-avatar-size, 56px);
+  aspect-ratio: 1 / 1;
+  flex-shrink: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid rgba(153, 0, 0, 0.15);
+  display: block;
+}
+.bbh-avatar--square { border-radius: 8px; }
+/* No photo: initials on a cardinal gradient */
+.bbh-avatar--initials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  background: linear-gradient(135deg, var(--bbh-cardinal) 0%, var(--bbh-cardinal-deep) 100%);
+  color: #fff;
+  font-family: var(--bbh-font-head);
+  font-weight: 700;
+  font-size: calc(var(--bbh-avatar-size, 56px) * 0.36);
+}
+
+
+/* ═════════════════════════════════════════════════════════════
+   13. Modal and footer
+   ═════════════════════════════════════════════════════════════ */
+
+.bbh-scrim {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 32px 16px;
+  overflow-y: auto;
+  background: var(--bbh-scrim);
+}
+.bbh-modal {
+  width: 100%;
+  max-width: 820px;
+  overflow: hidden;
+  background: var(--bbh-surface);
+  border-radius: var(--bbh-r-2xl);
+  box-shadow: var(--bbh-shadow-modal);
+}
+.bbh-modal--sm { max-width: 440px; padding: 24px; }
+.bbh-modal__head { padding: 22px 24px 18px; border-bottom: 1px solid var(--bbh-line); }
+
+.bbh-footer {
+  border-top: 1px solid var(--bbh-line-hair);
+  padding: 40px var(--bbh-gutter);
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.8;
+  color: var(--bbh-faint);
+}
+.bbh-footer a { color: var(--bbh-muted); text-decoration: none; }
